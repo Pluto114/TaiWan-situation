@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台海风险指数仪表盘 (V3 - 指标模型)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen p-4 md:p-8">
+    <div class="max-w-6xl mx-auto">
+
+        <header class="text-center mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-white mb-4">台海风险指数仪表盘 (V3)</h1>
+            <p class="text-lg text-slate-400" id="last-updated">正在加载数据...</p>
+        </header>
+
+        <!-- 风险指数显示 -->
+        <div class="mb-8 p-6 bg-slate-800 rounded-2xl shadow-2xl flex flex-col items-center justify-center transition-all duration-300">
+            <h2 class="text-2xl font-semibold text-slate-300 mb-4">当前风险指数</h2>
+            <div id="risk-index-display" class="text-8xl font-bold text-green-500 transition-colors duration-300">
+                0
+            </div>
+            <div id="risk-level-display" class="mt-4 text-2xl font-semibold text-green-500 transition-colors duration-300">
+                低风险
+            </div>
+            <p id="risk-summary" class="text-slate-400 mt-2">触发了 0 / 0 个指标</p>
+        </div>
+
+        <!-- 触发的指标清单 -->
+        <div class="mb-8 p-6 bg-slate-800 rounded-2xl shadow-xl">
+            <h3 class="text-2xl font-semibold mb-6">当前触发的预警信号</h3>
+            <div id="triggered-list" class="space-y-4">
+                <!-- 列表将由 JS 动态填充 -->
+                <p class="text-slate-400" id="no-triggers">未触发任何关键指标。</p>
+            </div>
+        </div>
+
+        <!-- LLM 分析摘要 -->
+        <div class="bg-slate-800 rounded-2xl shadow-xl overflow-hidden">
+            <details class="p-6">
+                <summary class="text-2xl font-semibold cursor-pointer">查看 LLM 分析摘要 (点击展开)</summary>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+
+                    <div class="bg-slate-700 p-4 rounded-lg">
+                        <h4 class="text-lg font-semibold mb-2 text-sky-400">📈 经济金融</h4>
+                        <p id="r-econ" class="text-sm text-slate-300">...</p>
+                    </div>
+
+                    <div class="bg-slate-700 p-4 rounded-lg">
+                        <h4 class="text-lg font-semibold mb-2 text-orange-400">🛡️ 军事后勤</h4>
+                        <p id="r-mil" class="text-sm text-slate-300">...</p>
+                    </div>
+
+                    <div class="bg-slate-700 p-4 rounded-lg">
+                        <h4 class="text-lg font-semibold mb-2 text-red-400">🗣️ 政治舆论</h4>
+                        <p id="r-pol" class="text-sm text-slate-300">...</p>
+                    </div>
+
+                    <div class="bg-slate-700 p-4 rounded-lg">
+                        <h4 class="text-lg font-semibold mb-2 text-teal-400">📍 在地体感 (厦门)</h4>
+                        <p id="r-local" class="text-sm text-slate-300">...</p>
+                    </div>
+
+                </div>
+            </details>
+        </div>
+
+    </div>
+
+    <script>
+        // 获取显示元素
+        const riskIndexDisplay = document.getElementById('risk-index-display');
+        const riskLevelDisplay = document.getElementById('risk-level-display');
+        const riskSummary = document.getElementById('risk-summary');
+        const lastUpdatedDisplay = document.getElementById('last-updated');
+        const triggeredList = document.getElementById('triggered-list');
+        const noTriggers = document.getElementById('no-triggers');
+
+        // 获取 LLM 理由元素
+        const rEcon = document.getElementById('r-econ');
+        const rMil = document.getElementById('r-mil');
+        const rPol = document.getElementById('r-pol');
+        const rLocal = document.getElementById('r-local');
+
+        // 更新风险颜色
+        function updateRiskColor(totalRisk) {
+            const elementsToUpdate = [riskIndexDisplay, riskLevelDisplay];
+            elementsToUpdate.forEach(el => {
+                el.classList.remove('text-green-500', 'text-yellow-500', 'text-red-500');
+            });
+
+            if (totalRisk < 20) {
+                elementsToUpdate.forEach(el => el.classList.add('text-green-500'));
+                riskLevelDisplay.textContent = '低风险 (Low)';
+            } else if (totalRisk < 50) {
+                elementsToUpdate.forEach(el => el.classList.add('text-yellow-500'));
+                riskLevelDisplay.textContent = '中度风险 (Medium)';
+            } else {
+                elementsToUpdate.forEach(el => el.classList.add('text-red-500'));
+                riskLevelDisplay.textContent = '高度风险 (High)';
+            }
+        }
+
+        // 动态创建触发的指标卡片
+        function createIndicatorCard(indicator) {
+            let bgColor = 'bg-slate-700';
+            if (indicator.weight >= 90) bgColor = 'bg-red-900/50';
+            else if (indicator.weight >= 70) bgColor = 'bg-orange-900/50';
+
+            return `
+                <div class="${bgColor} p-4 rounded-lg border border-slate-600">
+                    <div class="flex justify-between items-center">
+                        <span class="font-semibold text-slate-300">${indicator.id} - ${indicator.category}</span>
+                        <span class="text-red-400 font-bold">权重: ${indicator.weight}</span>
+                    </div>
+                    <p class="text-slate-400 mt-2">${indicator.description}</p>
+                </div>
+            `;
+        }
+
+        // 自动加载 V3 数据
+        async function loadScores() {
+            try {
+                const response = await fetch('scores-v3.json?t=' + new Date().getTime());
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+
+                // 1. 更新主分数
+                const score = data.score;
+                riskIndexDisplay.textContent = score;
+                riskSummary.textContent = `触发了 ${data.triggered_indicators_count} / ${data.total_indicators} 个指标`;
+                updateRiskColor(score);
+
+                // 2. 更新时间戳
+                const updatedDate = new Date(data.last_updated);
+                lastUpdatedDisplay.textContent = `上次分析于: ${updatedDate.toLocaleString()}`;
+
+                // 3. 填充 LLM 理由
+                rEcon.textContent = "LLM 分析: " + data.category_reasoning.econ;
+                rMil.textContent = "LLM 分析: " + data.category_reasoning.mil;
+                rPol.textContent = "LLM 分析: " + data.category_reasoning.pol;
+                rLocal.textContent = "LLM 分析: " + data.category_reasoning.local;
+
+                // 4. 填充触发的指标列表
+                if (data.triggered_indicators_count > 0) {
+                    noTriggers.style.display = 'none'; // 隐藏 "未触发" 消息
+                    let htmlContent = '';
+                    data.triggered_indicators
+                        .sort((a, b) => b.weight - a.weight) // 按权重倒序排列
+                        .forEach(ind => {
+                            htmlContent += createIndicatorCard(ind);
+                        });
+                    triggeredList.innerHTML = htmlContent;
+                } else {
+                    noTriggers.style.display = 'block'; // 显示 "未触发" 消息
+                    triggeredList.innerHTML = ''; // 清空列表
+                }
+
+            } catch (error) {
+                console.error("加载 scores-v3.json 失败:", error);
+                lastUpdatedDisplay.textContent = "加载自动分析数据失败。请先运行 analyst-v3.py 脚本。";
+            }
+        }
+
+        // 页面加载时，自动加载 LLM 的分数
+        document.addEventListener('DOMContentLoaded', loadScores);
+    </script>
+</body>
+</html>

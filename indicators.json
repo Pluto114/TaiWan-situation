@@ -1,0 +1,86 @@
+[
+    {
+        "id": "ECON-1",
+        "category": "经济金融",
+        "description": "国际主要保险集团(如劳合社)宣布提高台湾海峡的“战争险”费率。",
+        "weight": 70
+    },
+    {
+        "id": "ECON-2",
+        "category": "经济金融",
+        "description": "中国大陆或台湾出现大规模、非市场驱动的“抢购潮”或“物资储备”通知。",
+        "weight": 50
+    },
+    {
+        "id": "ECON-3",
+        "category": "经济金融",
+        "description": "中国大陆宣布对台湾进行全面“经济制裁”或“贸易封锁”。",
+        "weight": 90
+    },
+    {
+        "id": "ECON-4",
+        "category": "经济金融",
+        "description": "中国大陆开始大规模、不计成本地囤积石油、黄金或粮食，远超战略储备常规。",
+        "weight": 80
+    },
+    {
+        "id": "MIL-1",
+        "category": "军事后勤",
+        "description": "中国海事局发布长时间、大范围的禁航区 (NOTAM)，覆盖台湾海峡或台湾周边海域。",
+        "weight": 70
+    },
+    {
+        "id": "MIL-2",
+        "category": "军事后勤",
+        "description": "解放军东部战区宣布举行针对台湾的“大规模”、“非例行”的实弹演习。",
+        "weight": 60
+    },
+    {
+        "id": "MIL-3",
+        "category": "军事后勤",
+        "description": "卫星图像或 OSINT 确认解放军在福建沿海大规模集结两栖登陆舰、火箭炮或后勤物资。",
+        "weight": 90
+    },
+    {
+        "id": "MIL-4",
+        "category": "军事后勤",
+        "description": "解放军开始大规模征召预备役人员，或有医疗船、血液制品向前线调动。",
+        "weight": 100
+    },
+    {
+        "id": "POL-1",
+        "category": "政治舆论",
+        "description": "官方媒体使用“头破血流”等极端强硬措辞，或开始“讨伐式”的战争动员宣传。",
+        "weight": 40
+    },
+    {
+        "id": "POL-2",
+        "category": "政治舆论",
+        "description": "美国、日本或欧洲国家发布针对台湾的“旅行警告”，建议本国公民“非必要勿往”。",
+        "weight": 60
+    },
+    {
+        "id": "POL-3",
+        "category": "政治舆论",
+        "description": "美国、日本或欧洲国家开始从台湾“撤侨”或撤离“非必要外交人员”。",
+        "weight": 100
+    },
+    {
+        "id": "LOCAL-1",
+        "category": "在地体感(厦门)",
+        "description": "厦门本地开始举行“非例行”的、大规模的城市防空演习或疏散演练。",
+        "weight": 70
+    },
+    {
+        "id": "LOCAL-2",
+        "category": "在地体感(厦门)",
+        "description": "厦门本地超市出现（非台风季的）物资限购，或政府指导居民储备物资。",
+        "weight": 60
+    },
+    {
+        "id": "LOCAL-3",
+        "category": "在地体感(厦门)",
+        "description": "厦门港、高崎机场出现大规模民用运力（滚装船、客机）被军方征用。",
+        "weight": 90
+    }
+]
