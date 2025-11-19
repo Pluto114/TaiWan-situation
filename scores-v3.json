@@ -5,7 +5,7 @@
     "active_indicators": {
         "POL-1": {
             "base_weight": 80,
-            "current_weight": 1.6894054412841797,
+            "current_weight": 1.2670540809631348,
             "triggered_on": "2025-11-16"
         },
         "POL-2": {
@@ -15,74 +15,74 @@
         }
     },
     "category_reasoning": {
-        "econ": "情报源中没有明确提及经济金融领域的预警指标被触发。虽然提到了“中共或以能源围困台湾 瘫痪美供应链”，但这只是一个美国智库的报告，并非官方宣布的制裁或禁运，因此不符合ECON-3的触发条件。",
-        "mil": "情报源中没有明确触发军事后勤预警指标的信息。未发现大规模兵力集结，禁航通告或征召预备役等相关信息。",
-        "pol": "情报源显示，外交部发言人毛宁在记者会上要求日方给中国人民一个“明确的交代”。这符合POL-2中“外交部发表强硬声明（如‘严重后果’、‘明确交代’）”的描述。",
-        "local": "情报源显示防空警报测试为年度例行，物资供应充足，社会秩序正常，未提及大规模演习或人防工程启用，因此未触发预警指标 LOCAL-1。"
+        "econ": "情报源中未包含任何与预警指标清单相关的经济金融信息。主要内容为科技新闻和韩国公司利润增长，没有触发任何预警指标。",
+        "mil": "根据提供的情报源，没有明确触发军事后勤相关的预警指标。情报主要集中在国际新闻、商业新闻、外交部和国防部的例行声明，以及中国军网的日常信息，未提及大规模军事调动或异常的军事活动。",
+        "pol": "外交部发言人毛宁在例行记者会上，针对日方问题，使用了“必须给中国人民一个明确的交代”的表述，符合POL-2中“外交部发表强硬声明”的描述，因此触发该预警指标。",
+        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未提及大规模演习或人防工程启用，因此未触发LOCAL-1指标。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "2025 年 11 月期 TOP500 榜单出炉，JUPITER 正式成为欧洲首台 E 级超算",
+                "title": "MWC 2026 进入倒计时阶段：以 AI 为主线，首次明确涉足太空技术及卫星通信",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-18",
-                "url": "https://www.ithome.com/0/898/164.htm"
+                "url": "https://www.ithome.com/0/898/260.htm"
             },
             {
-                "title": "8点1氪丨无需结婚证，多省实现生育津贴直发个人；刘强东承诺京东点评“永不商业化”；网红酸奶Blueglass部分产品降价60%",
+                "title": "安谋科技发布全新“周易” X3 NPU：算力达80 FP8 TFLOPS",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536820.htm"
+            },
+            {
+                "title": "我国快递包裹市场规模连续十一年保持全球第一，月均百亿件",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-18",
+                "url": "https://www.ithome.com/0/898/252.htm"
+            },
+            {
+                "title": "国产汽车芯片认证审查技术体系实现突破",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-18",
-                "url": "https://36kr.com/p/3557820671589510"
+                "url": "https://36kr.com/newsflashes/3558174491098247"
             },
             {
-                "title": "美国最高法院拒绝审理已到期专利上诉，苹果谷歌 LG 维持胜诉",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-17",
-                "url": "https://www.ithome.com/0/898/145.htm"
-            },
-            {
-                "title": "美报告：中共导弹井激增与AI作战系统引发警示(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-17",
-                "url": "https://www.secretchina.com/news/gb/2025/11/18/1090849.html"
-            },
-            {
-                "title": "美智库：中共或以能源围困台湾 瘫痪美供应链(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-17",
-                "url": "https://www.secretchina.com/news/gb/2025/11/18/1090846.html"
+                "title": "韩国上市公司今年前9月净利润总额同比增长25.8%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-18",
+                "url": "https://36kr.com/newsflashes/3558154434001792"
             }
         ],
         "mil": [
             {
+                "title": "X/Twitter检测到用户使用VPN时将不会显示具体国家或地区",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536812.htm"
+            },
+            {
+                "title": "30秒做应用、实时写图文，「灵光」想用AI重塑创造力边界",
+                "source": "NewsAPI / Ifanr.com",
+                "date": "2025-11-18",
+                "url": "https://www.ifanr.com/1644854"
+            },
+            {
+                "title": "被历史雪藏的芯片先驱：世界首款微处理器 MP944 揭秘，比英特尔 4004 早 1 年问世",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-18",
+                "url": "https://www.ithome.com/0/898/204.htm"
+            },
+            {
+                "title": "微软 Win11 RP 预览版 26100.7296 和 26200.7296 更新发布，文件资源管理器深色更统一",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-18",
+                "url": "https://www.ithome.com/0/898/187.htm"
+            },
+            {
                 "title": "8点1氪丨无需结婚证，多省实现生育津贴直发个人；刘强东承诺京东点评“永不商业化”；网红酸奶Blueglass部分产品降价60%",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-18",
                 "url": "https://36kr.com/p/3557820671589510"
-            },
-            {
-                "title": "美报告：中共导弹井激增与AI作战系统引发警示(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-17",
-                "url": "https://www.secretchina.com/news/gb/2025/11/18/1090849.html"
-            },
-            {
-                "title": "台湾开始向全民发送新版民防手册",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-11-17",
-                "url": "https://www.voachinese.com/a/taiwan-to-distribute-civil-defense-handbook-to-all-households-20251117/8082751.html"
-            },
-            {
-                "title": "俄罗斯对归国旅客实施24小时手机数据封禁 以防止无人机威胁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1536742.htm"
-            },
-            {
-                "title": "零跑汽车第三季度净利润 1.5 亿元，共交付 17.39 万台汽车",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-17",
-                "url": "https://www.ithome.com/0/898/097.htm"
             },
             {
                 "title": "毛宁：日方必须给中国人民一个明确的交代 - mfa.gov.cn",
@@ -97,10 +97,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmRaS1E5RkRMSFRldWd1NFJvOUkwSnF4SjBvQXZuMFk2UjhIaEl1TGdLLWJCOW1XYkVKSXdoZE51anZ4WjJkSnRaaTBDQjJMR18yaXU0TXAxakhqUXpKRlR0NTlJdjRjWWpSWXRBTWlWQllmYkE?oc=5"
             },
             {
-                "title": "2025年11月17日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "李强会见俄罗斯总统普京 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-17",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcmotblRndU9mSEZHQnc1blJxSlJlT0x2S29yaVBBbHNSVFQyZ0hwSVk2ZTlGM2xCalNPS0JhVjBuMjQ1aEJ2SmtYSHBwVFVrQzc4ZTRZUDFwX09rZDU3d2NyRjNJYlczdVNNS2RqejlBcFVMUFE?oc=5"
+                "date": "2025-11-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZElUc3h2aTRPU0RBRHBOSFdoNXN0aHpTV19MMHdJMzZjSGxJVWNmXzBHX3lyb3A1T2pKRkdVQVpYZjNnWVdCakdFTGZTU1dtcmZMc211dWxpazVxaHRpMGo4UFlwR3FibVk4?oc=5"
             },
             {
                 "title": "学习·故事丨总书记回信里的誓词碑 让民族团结的佳话代代相传 - 中国军网",
@@ -123,34 +123,34 @@
         ],
         "pol": [
             {
-                "title": "波音、空客回应中国商飞 C919、C909 首次亮相中东：竞争对行业有益",
+                "title": "奥特曼负责“改变世界”她负责“赚钱养家”：揭秘OpenAI的神秘女二号",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536786.htm"
+            },
+            {
+                "title": "30秒做应用、实时写图文，「灵光」想用AI重塑创造力边界",
+                "source": "NewsAPI / Ifanr.com",
+                "date": "2025-11-18",
+                "url": "https://www.ifanr.com/1644854"
+            },
+            {
+                "title": "英伟达合作助力 Arm 定制芯片发展",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536766.htm"
+            },
+            {
+                "title": "14亿“输血”极星浮亏50%，吉利全球化梦碎？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536762.htm"
+            },
+            {
+                "title": "微软 Win11 RP 预览版 26100.7296 和 26200.7296 更新发布，文件资源管理器深色更统一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-18",
-                "url": "https://www.ithome.com/0/898/179.htm"
-            },
-            {
-                "title": "北京反射控制新战场已在东京开打(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-18",
-                "url": "https://www.secretchina.com/news/gb/2025/11/18/1090853.html"
-            },
-            {
-                "title": "战狼外交反噬？世界掀起反共浪潮(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-18",
-                "url": "https://www.secretchina.com/news/gb/2025/11/18/1090852.html"
-            },
-            {
-                "title": "8点1氪丨无需结婚证，多省实现生育津贴直发个人；刘强东承诺京东点评“永不商业化”；网红酸奶Blueglass部分产品降价60%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-18",
-                "url": "https://36kr.com/p/3557820671589510"
-            },
-            {
-                "title": "科技昨夜今晨 1118：华为 Mate 80 系列、Mate X7 定档 11 月 25 日发布；京东外卖独立 App 上线；3699 元起 OPPO Reno15 Pro 手机发布...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-17",
-                "url": "https://www.ithome.com/0/898/152.htm"
+                "url": "https://www.ithome.com/0/898/187.htm"
             },
             {
                 "title": "毛宁：日方必须给中国人民一个明确的交代 - mfa.gov.cn",
@@ -165,10 +165,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmRaS1E5RkRMSFRldWd1NFJvOUkwSnF4SjBvQXZuMFk2UjhIaEl1TGdLLWJCOW1XYkVKSXdoZE51anZ4WjJkSnRaaTBDQjJMR18yaXU0TXAxakhqUXpKRlR0NTlJdjRjWWpSWXRBTWlWQllmYkE?oc=5"
             },
             {
-                "title": "2025年11月17日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "李强会见俄罗斯总统普京 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-17",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcmotblRndU9mSEZHQnc1blJxSlJlT0x2S29yaVBBbHNSVFQyZ0hwSVk2ZTlGM2xCalNPS0JhVjBuMjQ1aEJ2SmtYSHBwVFVrQzc4ZTRZUDFwX09rZDU3d2NyRjNJYlczdVNNS2RqejlBcFVMUFE?oc=5"
+                "date": "2025-11-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZElUc3h2aTRPU0RBRHBOSFdoNXN0aHpTV19MMHdJMzZjSGxJVWNmXzBHX3lyb3A1T2pKRkdVQVpYZjNnWVdCakdFTGZTU1dtcmZMc211dWxpazVxaHRpMGo4UFlwR3FibVk4?oc=5"
             },
             {
                 "title": "学习·故事丨总书记回信里的誓词碑 让民族团结的佳话代代相传 - 中国军网",
@@ -191,5 +191,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-19T01:50:02.503803+00:00"
+    "last_updated": "2025-11-19T06:25:59.064882+00:00"
 }
