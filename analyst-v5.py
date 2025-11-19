@@ -150,8 +150,15 @@ def get_triggered_indicators(category, news_text, indicators_list, api_key):
     if not category_indicators: return {"triggered_ids": [], "reasoning": "无指标。"}
 
     system_prompt = f"""
-    你是一名情报分析师。请根据提供的【混合情报源】判断是否**明确触发**了预警指标。
-    注意：官方信源(MSA/MFA)可信度极高。区分"例行"与"非例行"。
+    你是一名敏锐的情报分析师。请根据提供的【混合情报源】判断是否**明确触发**了预警指标。
+    
+    **关键判断准则：**
+    1. **官方信源权重极高：** 即使是“例行记者会”，如果发言人使用了“性质恶劣”、“严重后果”、“明确交代”、“反制”等强硬词汇，应视为触发“外交强硬声明”类指标 (如 POL-2)。
+    2. **区分烈度：** - 一般抗议 -> 不触发
+       - 强硬警告/严正交涉 -> 触发中低权重指标 (POL-2)
+       - 战争威胁/最后通牒 -> 触发高权重指标 (POL-1)
+    3. **宁可误报不可漏报：** 对于官方的异常表态，保持较高的敏感度。
+    
     请返回 JSON: {{ "triggered_ids": ["ID1"], "reasoning": "简短分析..." }}
     """
     user_prompt = f"""
@@ -266,3 +273,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
