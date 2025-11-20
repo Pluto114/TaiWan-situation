@@ -10,45 +10,57 @@
         }
     },
     "category_reasoning": {
-        "econ": "情报源中没有明确提及经济金融相关的预警指标。主要信息集中在商业新闻和科技领域，未发现与战争险费率、物资抢购或经济制裁相关的内容。",
-        "mil": "情报源中没有明确提及与预警指标清单相关的军事后勤活动。虽然存在外交部和国防部的消息，但内容主要涉及国际关系和军事交流，不涉及大规模军事集结、禁航通告或征召预备役等情况。",
-        "pol": "情报源显示，外交部发言人毛宁在例行记者会上要求日方给中国人民一个“明确的交代”，符合POL-2中“外交部/国防部发表强硬声明”的描述。",
-        "local": "情报源显示厦门本周进行的是年度例行防空警报测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources primarily contain business and technology news. There's no information related to the economic or financial warning indicators listed, such as increased war insurance rates, mass panic buying, or economic sanctions against Taiwan. Therefore, no indicators are triggered.",
+        "mil": "The provided information contains news articles and official statements from the Chinese government. None of the information indicates the occurrence of events that trigger the pre-defined military logistics warning indicators. The news articles focus on international relations, technology, and business updates. The official statements cover routine press conferences and legal developments, and a medical mission in Niger. There is no mention of unusual military activity, large-scale mobilization, or maritime restrictions related to Taiwan.",
+        "pol": "外交部发言人毛宁在例行记者会上，使用了“日方必须给中国人民一个明确的交代”的表述，符合POL-2中“外交部/国防部发表强硬声明（如“严重后果”、“明确交代”）”的描述，因此触发该指标。",
+        "local": "情报源显示防空警报测试为年度例行测试，社会秩序正常，未提及非例行的大规模演习或人防工程启用，因此未触发预警指标 LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "粉笔AI：7000万用户池里的确定性增量",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-19",
-                "url": "https://36kr.com/p/3559303037189250"
-            },
-            {
-                "title": "阿拉斯加石墨与稀土发现撼动中国供应链(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-19",
-                "url": "https://www.secretchina.com/news/gb/2025/11/19/1090898.html"
-            },
-            {
-                "title": "8点1氪丨西贝回应门店一线全员涨薪；谷歌发布Gemini 3；苹果回应iPhone 17 Pro Max掉色；",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-19",
-                "url": "https://36kr.com/p/3559252626242434"
-            },
-            {
-                "title": "科技昨夜今晨 1119：华为 Mate X7 折叠屏真机公布；小米 17 系列手机销量已破 200 万；京东 PLUS 会员反映权益受限...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-18",
-                "url": "https://www.ithome.com/0/898/442.htm"
-            },
-            {
-                "title": "Meta在FTC的社交媒体反垄断案中胜诉",
+                "title": "奥特曼都点赞 Google Gemini 3 Pro到底强在哪？",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1536938.htm"
+                "date": "2025-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536972.htm"
+            },
+            {
+                "title": "华硕推出专业 OLED 显示器 PA32UCDMR-K：UHD 分辨率，杜比视界认证",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-19",
+                "url": "https://www.ithome.com/0/898/550.htm"
+            },
+            {
+                "title": "「比利信息」完成数千万A+轮融资，加速构建“人工智能+酒旅大消费”新场景 | 36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-19",
+                "url": "https://36kr.com/p/3559275463392131"
+            },
+            {
+                "title": "纽约时报：Meta反垄断胜诉撬动硅谷禁忌 科技巨头或重启并购潮",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536968.htm"
+            },
+            {
+                "title": "小米手机收入与均价下滑 高管回应内存涨价影响",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536956.htm"
             }
         ],
         "mil": [
+            {
+                "title": "奥特曼都点赞 Google Gemini 3 Pro到底强在哪？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536972.htm"
+            },
+            {
+                "title": "习近平三板斧 双标 封控 霸权 引爆中日台烽火(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-19",
+                "url": "https://www.secretchina.com/news/gb/2025/11/19/1090907.html"
+            },
             {
                 "title": "8点1氪丨西贝回应门店一线全员涨薪；谷歌发布Gemini 3；苹果回应iPhone 17 Pro Max掉色；",
                 "source": "NewsAPI / 36kr.com",
@@ -68,18 +80,6 @@
                 "url": "https://www.secretchina.com/news/gb/2025/11/19/1090893.html"
             },
             {
-                "title": "高市早苗“台湾有事”掀波澜 美国表态力挺同盟(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-18",
-                "url": "https://www.secretchina.com/news/gb/2025/11/18/1090872.html"
-            },
-            {
-                "title": "X/Twitter检测到用户使用VPN时将不会显示具体国家或地区",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1536812.htm"
-            },
-            {
                 "title": "毛宁：日方必须给中国人民一个明确的交代 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-18",
@@ -92,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmRaS1E5RkRMSFRldWd1NFJvOUkwSnF4SjBvQXZuMFk2UjhIaEl1TGdLLWJCOW1XYkVKSXdoZE51anZ4WjJkSnRaaTBDQjJMR18yaXU0TXAxakhqUXpKRlR0NTlJdjRjWWpSWXRBTWlWQllmYkE?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "2025年11月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-19",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZElUc3h2aTRPU0RBRHBOSFdoNXN0aHpTV19MMHdJMzZjSGxJVWNmXzBHX3lyb3A1T2pKRkdVQVpYZjNnWVdCakdFTGZTU1dtcmZMc211dWxpazVxaHRpMGo4UFlwR3FibVk4?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQzR6S3lnVEI2Zzlfa2U1MHpMNG00cVQ4Q1RSbGJrZWRBaHBxc0lqT1l5bWlFT1RkM21TVHRlVDZjeER5UnIySlVuQlFWMXd4RVBPUlRRTEU4RS1CX2FPZ2pEOVZnQ1ZKRFNDSkIweUp1WmplNnc?oc=5"
             },
             {
                 "title": "中国医疗队与尼日尔医院联合开展义诊活动 - 中国军网",
@@ -104,48 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkbzhOOENwZ2JERDRxaXJlQW4yNWN5a21BR2hyTU5ITlIzS0Z1Y2JDVW9McFhZOHdWN0p0VFpWdGVESldhb3lWTGQ1cGhTcmhjbWc?oc=5"
             },
             {
-                "title": "中方就建立中东无核武器区提出三点主张 - 中国军网",
+                "title": "建设更高水平的社会主义法治国家——习近平总书记对全面依法治国工作作出的重要指示鼓舞人心、催人奋进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95M3ZseElzMDkxMXZxT2swa1d6a0l6ZjdLdFExNFdxcXRQdXRodXJmel9zb05KRmtlOHk5NVI4OTkxc1A1a1doWG83NlpBeDlEQUE?oc=5"
+                "date": "2025-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kX1EyWDMxR2llVmtSanFweXVsbWF3UmpBeDc1TUE5anZEbFoyZjA1MjQxVkVKSEczWWVremt5VHBIU01UZGQxZ0c1cDkzaDZoNlE?oc=5"
             },
             {
-                "title": "11月19日起床号 - 中国军网",
+                "title": "吹响新时代新征程推进全面依法治国的号角——合力开创法治中国建设新局面 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zMjhabzBKRDg2NjZWc0psbk1yaWl1QjFERzF1OFV1aTliWmRlTVNzTV9sX2JxaXN0S3N2MHVCOVdLNl9PS3JjdXhXZWxSSFhidmc?oc=5"
+                "date": "2025-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSEQtMFRWMkNiQ0xZcno0cnZGaGZIbFdUbWplSEoyaXBueHJmVXZGSjVFM05JbkRETnZYNk5WMHFPNnZjaTljRzdyOUQ3SnYwTGc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "英国政府拟出台新规打击黄牛加价倒卖门票，以遏制利用技术抢票并牟利的行为",
+                "title": "不再只买波音：迪拜航空打破 17 年传统，约 240 亿美元采购 150 架空客 A321neo 飞机",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-19",
-                "url": "https://www.ithome.com/0/898/461.htm"
+                "url": "https://www.ithome.com/0/898/552.htm"
             },
             {
-                "title": "粉笔AI：7000万用户池里的确定性增量",
+                "title": "云服务可靠性再敲警钟 Cloudflare披露5小时中断事故详情",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536974.htm"
+            },
+            {
+                "title": "奥特曼都点赞 Google Gemini 3 Pro到底强在哪？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536972.htm"
+            },
+            {
+                "title": "「比利信息」完成数千万A+轮融资，加速构建“人工智能+酒旅大消费”新场景 | 36氪首发",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-19",
-                "url": "https://36kr.com/p/3559303037189250"
+                "url": "https://36kr.com/p/3559275463392131"
             },
             {
-                "title": "三星计划到 2026 年底将 1c DRAM 月产能扩大至 20 万片，意在重夺市场领导地位",
-                "source": "NewsAPI / Ithome.com",
+                "title": "任正非：要敢于敞开胸怀，拥抱大量的科学家回到中国",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-19",
-                "url": "https://www.ithome.com/0/898/449.htm"
-            },
-            {
-                "title": "8点1氪丨西贝回应门店一线全员涨薪；谷歌发布Gemini 3；苹果回应iPhone 17 Pro Max掉色；",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-19",
-                "url": "https://36kr.com/p/3559252626242434"
-            },
-            {
-                "title": "Roblox“最严”年龄核验措施上路：要想聊天，必须提交身份证件或扫脸验证",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-18",
-                "url": "https://www.ithome.com/0/898/443.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536960.htm"
             },
             {
                 "title": "毛宁：日方必须给中国人民一个明确的交代 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmRaS1E5RkRMSFRldWd1NFJvOUkwSnF4SjBvQXZuMFk2UjhIaEl1TGdLLWJCOW1XYkVKSXdoZE51anZ4WjJkSnRaaTBDQjJMR18yaXU0TXAxakhqUXpKRlR0NTlJdjRjWWpSWXRBTWlWQllmYkE?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "2025年11月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-19",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZElUc3h2aTRPU0RBRHBOSFdoNXN0aHpTV19MMHdJMzZjSGxJVWNmXzBHX3lyb3A1T2pKRkdVQVpYZjNnWVdCakdFTGZTU1dtcmZMc211dWxpazVxaHRpMGo4UFlwR3FibVk4?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQzR6S3lnVEI2Zzlfa2U1MHpMNG00cVQ4Q1RSbGJrZWRBaHBxc0lqT1l5bWlFT1RkM21TVHRlVDZjeER5UnIySlVuQlFWMXd4RVBPUlRRTEU4RS1CX2FPZ2pEOVZnQ1ZKRFNDSkIweUp1WmplNnc?oc=5"
             },
             {
                 "title": "中国医疗队与尼日尔医院联合开展义诊活动 - 中国军网",
@@ -172,19 +172,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkbzhOOENwZ2JERDRxaXJlQW4yNWN5a21BR2hyTU5ITlIzS0Z1Y2JDVW9McFhZOHdWN0p0VFpWdGVESldhb3lWTGQ1cGhTcmhjbWc?oc=5"
             },
             {
-                "title": "中方就建立中东无核武器区提出三点主张 - 中国军网",
+                "title": "建设更高水平的社会主义法治国家——习近平总书记对全面依法治国工作作出的重要指示鼓舞人心、催人奋进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95M3ZseElzMDkxMXZxT2swa1d6a0l6ZjdLdFExNFdxcXRQdXRodXJmel9zb05KRmtlOHk5NVI4OTkxc1A1a1doWG83NlpBeDlEQUE?oc=5"
+                "date": "2025-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kX1EyWDMxR2llVmtSanFweXVsbWF3UmpBeDc1TUE5anZEbFoyZjA1MjQxVkVKSEczWWVremt5VHBIU01UZGQxZ0c1cDkzaDZoNlE?oc=5"
             },
             {
-                "title": "11月19日起床号 - 中国军网",
+                "title": "吹响新时代新征程推进全面依法治国的号角——合力开创法治中国建设新局面 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zMjhabzBKRDg2NjZWc0psbk1yaWl1QjFERzF1OFV1aTliWmRlTVNzTV9sX2JxaXN0S3N2MHVCOVdLNl9PS3JjdXhXZWxSSFhidmc?oc=5"
+                "date": "2025-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSEQtMFRWMkNiQ0xZcno0cnZGaGZIbFdUbWplSEoyaXBueHJmVXZGSjVFM05JbkRETnZYNk5WMHFPNnZjaTljRzdyOUQ3SnYwTGc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-20T01:17:37.877919+00:00"
+    "last_updated": "2025-11-20T06:26:11.919560+00:00"
 }
