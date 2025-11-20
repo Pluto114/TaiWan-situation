@@ -6,49 +6,67 @@
         "POL-2": {
             "base_weight": 30,
             "current_weight": 30,
-            "triggered_on": "2025-11-19"
+            "triggered_on": "2025-11-20"
         }
     },
     "category_reasoning": {
-        "econ": "情报源中未包含与经济金融预警指标相关的明确信息。主要内容为一般新闻报道，如美国海关加强审查、苹果产品信息、中资出海、德国对华态度以及三星晶圆厂升级等，未提及战争险费率、物资抢购、经济制裁或能源禁运等。",
-        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the listed military logistics warning indicators (MIL-1, MIL-2, or MIL-3). There is no mention of NOTAMs, military exercises encircling Taiwan, troop/equipment build-up in Fujian, or mobilization of reserves/civilian resources. The information primarily focuses on international relations, technology news, and routine military activities.",
-        "pol": "外交部发言人毛宁在官方渠道（mfa.gov.cn）公开声明，要求日方给中国人民一个“明确的交代”，符合POL-2中“外交部/国防部发表强硬声明”的描述。",
-        "local": "情报源显示，厦门本地居民反馈防空警报测试为年度例行测试，物资供应充足，社会秩序正常。未提及大规模非例行演习或人防工程启用，因此未触发LOCAL-1指标。"
+        "econ": "情报源中没有明确提及经济金融相关的预警指标。主要信息集中在商业新闻和科技领域，未发现与战争险费率、物资抢购或经济制裁相关的内容。",
+        "mil": "情报源中没有明确提及与预警指标清单相关的军事后勤活动。虽然存在外交部和国防部的消息，但内容主要涉及国际关系和军事交流，不涉及大规模军事集结、禁航通告或征召预备役等情况。",
+        "pol": "情报源显示，外交部发言人毛宁在例行记者会上要求日方给中国人民一个“明确的交代”，符合POL-2中“外交部/国防部发表强硬声明”的描述。",
+        "local": "情报源显示厦门本周进行的是年度例行防空警报测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "美国海关加强低价值进口货物审查 老旧PC配件也被征收高额关税",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1536924.htm"
+                "title": "粉笔AI：7000万用户池里的确定性增量",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-19",
+                "url": "https://36kr.com/p/3559303037189250"
             },
             {
-                "title": "苹果iPhone 17 N1芯片令其在北美Wi-Fi性能上领先",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1536916.htm"
+                "title": "阿拉斯加石墨与稀土发现撼动中国供应链(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-19",
+                "url": "https://www.secretchina.com/news/gb/2025/11/19/1090898.html"
             },
             {
-                "title": "安翊青：需以法律保障中资“出海”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-18",
-                "url": "https://www.ftchinese.com/story/001108236"
+                "title": "8点1氪丨西贝回应门店一线全员涨薪；谷歌发布Gemini 3；苹果回应iPhone 17 Pro Max掉色；",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-19",
+                "url": "https://36kr.com/p/3559252626242434"
             },
             {
-                "title": "德语媒体：面对中国 德国几乎无牌可打",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-11-18",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%9B%BD-%E5%BE%B7%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%97%A0%E7%89%8C%E5%8F%AF%E6%89%93/a-74792468"
-            },
-            {
-                "title": "为苹果 iPhone 18 生产图像传感器，消息称三星拟追加 19 亿美元升级奥斯汀晶圆厂",
+                "title": "科技昨夜今晨 1119：华为 Mate X7 折叠屏真机公布；小米 17 系列手机销量已破 200 万；京东 PLUS 会员反映权益受限...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-18",
-                "url": "https://www.ithome.com/0/898/388.htm"
+                "url": "https://www.ithome.com/0/898/442.htm"
+            },
+            {
+                "title": "Meta在FTC的社交媒体反垄断案中胜诉",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1536938.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨西贝回应门店一线全员涨薪；谷歌发布Gemini 3；苹果回应iPhone 17 Pro Max掉色；",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-19",
+                "url": "https://36kr.com/p/3559252626242434"
+            },
+            {
+                "title": "谷歌最强 AI 模型 Gemini 3 正式登场：发布即登顶 LMArena，号称迄今最智能",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-18",
+                "url": "https://www.ithome.com/0/898/436.htm"
+            },
+            {
+                "title": "日相挺台令北京跳脚 意媒揭真正原因“中共最怕这件事”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-18",
+                "url": "https://www.secretchina.com/news/gb/2025/11/19/1090893.html"
+            },
             {
                 "title": "高市早苗“台湾有事”掀波澜 美国表态力挺同盟(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -60,24 +78,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-18",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1536812.htm"
-            },
-            {
-                "title": "30秒做应用、实时写图文，「灵光」想用AI重塑创造力边界",
-                "source": "NewsAPI / Ifanr.com",
-                "date": "2025-11-18",
-                "url": "https://www.ifanr.com/1644854"
-            },
-            {
-                "title": "被历史雪藏的芯片先驱：世界首款微处理器 MP944 揭秘，比英特尔 4004 早 1 年问世",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-18",
-                "url": "https://www.ithome.com/0/898/204.htm"
-            },
-            {
-                "title": "微软 Win11 RP 预览版 26100.7296 和 26200.7296 更新发布，文件资源管理器深色更统一",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-18",
-                "url": "https://www.ithome.com/0/898/187.htm"
             },
             {
                 "title": "毛宁：日方必须给中国人民一个明确的交代 - mfa.gov.cn",
@@ -92,7 +92,7 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmRaS1E5RkRMSFRldWd1NFJvOUkwSnF4SjBvQXZuMFk2UjhIaEl1TGdLLWJCOW1XYkVKSXdoZE51anZ4WjJkSnRaaTBDQjJMR18yaXU0TXAxakhqUXpKRlR0NTlJdjRjWWpSWXRBTWlWQllmYkE?oc=5"
             },
             {
-                "title": "李强会见俄罗斯总统普京 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZElUc3h2aTRPU0RBRHBOSFdoNXN0aHpTV19MMHdJMzZjSGxJVWNmXzBHX3lyb3A1T2pKRkdVQVpYZjNnWVdCakdFTGZTU1dtcmZMc211dWxpazVxaHRpMGo4UFlwR3FibVk4?oc=5"
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "美国海关加强低价值进口货物审查 老旧PC配件也被征收高额关税",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1536924.htm"
+                "title": "英国政府拟出台新规打击黄牛加价倒卖门票，以遏制利用技术抢票并牟利的行为",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-19",
+                "url": "https://www.ithome.com/0/898/461.htm"
             },
             {
-                "title": "日首相涉台言论触中方“红线” 日本对在华公民发安全警告",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-11-18",
-                "url": "https://www.dw.com/zh/%E6%97%A5%E9%A6%96%E7%9B%B8%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%A7%A6%E4%B8%AD%E6%96%B9%E7%BA%A2%E7%BA%BF-%E6%97%A5%E6%9C%AC%E5%AF%B9%E5%9C%A8%E5%8D%8E%E5%85%AC%E6%B0%91%E5%8F%91%E5%AE%89%E5%85%A8%E8%AD%A6%E5%91%8A/a-74791199"
+                "title": "粉笔AI：7000万用户池里的确定性增量",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-19",
+                "url": "https://36kr.com/p/3559303037189250"
             },
             {
-                "title": "中日关系陷入紧张 约50万张赴日机票被取消",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-11-18",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E9%99%B7%E5%85%A5%E7%B4%A7%E5%BC%A0-%E7%BA%A650%E4%B8%87%E5%BC%A0%E8%B5%B4%E6%97%A5%E6%9C%BA%E7%A5%A8%E8%A2%AB%E5%8F%96%E6%B6%88/a-74791201"
+                "title": "三星计划到 2026 年底将 1c DRAM 月产能扩大至 20 万片，意在重夺市场领导地位",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-19",
+                "url": "https://www.ithome.com/0/898/449.htm"
             },
             {
-                "title": "叙利亚外长访华之际 消息人士称叙计划向中国移交维吾尔人",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-11-18",
-                "url": "https://www.dw.com/zh/%E5%8F%99%E5%88%A9%E4%BA%9A%E5%A4%96%E9%95%BF%E8%AE%BF%E5%8D%8E%E4%B9%8B%E9%99%85-%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%8F%99%E8%AE%A1%E5%88%92%E5%90%91%E4%B8%AD%E5%9B%BD%E7%A7%BB%E4%BA%A4%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA/a-74789382"
+                "title": "8点1氪丨西贝回应门店一线全员涨薪；谷歌发布Gemini 3；苹果回应iPhone 17 Pro Max掉色；",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-19",
+                "url": "https://36kr.com/p/3559252626242434"
             },
             {
-                "title": "叙利亚外长访华之际 消息人士称叙计划向中国移交维吾尔人",
-                "source": "NewsAPI / DW (English)",
+                "title": "Roblox“最严”年龄核验措施上路：要想聊天，必须提交身份证件或扫脸验证",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-18",
-                "url": "https://www.dw.com/zh/%E5%8F%99%E5%88%A9%E4%BA%9A%E5%A4%96%E9%95%BF%E8%AE%BF%E5%8D%8E%E4%B9%8B%E9%99%85-%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%8F%99%E8%AE%A1%E5%88%92%E5%90%91%E4%B8%AD%E5%9B%BD%E7%A7%BB%E4%BA%A4%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA/a-74789382"
+                "url": "https://www.ithome.com/0/898/443.htm"
             },
             {
                 "title": "毛宁：日方必须给中国人民一个明确的交代 - mfa.gov.cn",
@@ -160,7 +160,7 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmRaS1E5RkRMSFRldWd1NFJvOUkwSnF4SjBvQXZuMFk2UjhIaEl1TGdLLWJCOW1XYkVKSXdoZE51anZ4WjJkSnRaaTBDQjJMR18yaXU0TXAxakhqUXpKRlR0NTlJdjRjWWpSWXRBTWlWQllmYkE?oc=5"
             },
             {
-                "title": "李强会见俄罗斯总统普京 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ZElUc3h2aTRPU0RBRHBOSFdoNXN0aHpTV19MMHdJMzZjSGxJVWNmXzBHX3lyb3A1T2pKRkdVQVpYZjNnWVdCakdFTGZTU1dtcmZMc211dWxpazVxaHRpMGo4UFlwR3FibVk4?oc=5"
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-19T18:26:13.975264+00:00"
+    "last_updated": "2025-11-20T01:17:37.877919+00:00"
 }
