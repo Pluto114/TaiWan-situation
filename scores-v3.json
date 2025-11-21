@@ -1,83 +1,83 @@
 {
-    "score": 2,
+    "score": 4,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 16.875,
-            "triggered_on": "2025-11-20"
+            "current_weight": 30,
+            "triggered_on": "2025-11-21"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that explicitly triggers any of the listed economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling, or economic sanctions against Taiwan.",
-        "mil": "The provided information lacks specific details that would trigger any of the military logistics indicators. There is no mention of large-scale military mobilization, naval exercises encircling Taiwan, or requisition of civilian resources for military purposes. The news articles and official sources cited do not contain information related to military preparations or unusual activities that would indicate an imminent threat.",
-        "pol": "情报源中外交部和国防部仅提供了链接，没有实际内容，无法判断是否触发预警指标。新闻媒体内容与预警指标无关。",
-        "local": "情报源显示本周防空警报测试为年度例行测试，且社会秩序正常，未见异常情况。因此，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources do not contain any information related to the economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, or economic sanctions against Taiwan. Therefore, no economic indicators are triggered.",
+        "mil": "情报源中未发现明确触发军事后勤预警指标的信息。没有关于禁航通告、兵力集结或预备役征召等相关内容。",
+        "pol": "情报源显示外交部和国防部存在相关活动，虽然没有直接给出强硬声明的具体内容，但根据判断准则，需要保持对官方信源的高度敏感。因此，初步判断可能触发POL-2。需要进一步分析外交部例行记者会的具体内容以确认。",
+        "local": "情报源显示是年度例行防空警报测试，物资供应充足，社会秩序正常，未触发预警指标 LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "30 亿英镑 iCloud 诉讼案苹果反击：直指原告“金主”没钱了，其股价已跌去 99%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "马来西亚近1.4万处场所非法偷电挖矿 损失超11亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-20",
-                "url": "https://www.ithome.com/0/898/734.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537158.htm"
             },
             {
-                "title": "英伟达 CEO 黄仁勋：并没有看到 AI 泡沫，已进入良性循环期",
-                "source": "NewsAPI / Ithome.com",
+                "title": "马斯克抱上“顶级大腿” 500MW数据中心砸下来 xAI这下要“横着走”了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-20",
-                "url": "https://www.ithome.com/0/898/733.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537140.htm"
             },
             {
-                "title": "iFixit 剖析苹果 iPhone Air 的 USB-C 接口，首用 3D 打印金属部件",
-                "source": "NewsAPI / Ithome.com",
+                "title": "荷兰将安世半导体控制权归还给中国母公司",
+                "source": "NewsAPI / Solidot.org",
                 "date": "2025-11-20",
-                "url": "https://www.ithome.com/0/898/730.htm"
+                "url": "https://www.solidot.org/story?sid=82848"
             },
             {
-                "title": "8点1氪丨胖东来50万年薪招聘翻译，中国仅8校毕业生符合条件；贾跃亭成立第二个债权人信托，称尽责到底早日回国；杭州取消灵隐寺门票",
-                "source": "NewsAPI / 36kr.com",
+                "title": "闻泰科技：公司对安世的控制权仍然处于受限状态",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-20",
-                "url": "https://36kr.com/p/3560652689063041"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537136.htm"
             },
             {
-                "title": "科技昨夜今晨 1120：荷兰宣布暂停干预安世半导体；京东方三星 OLED 专利和解；余承东官宣华为 MatePad Edge...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-19",
-                "url": "https://www.ithome.com/0/898/726.htm"
+                "title": "纯电卡宴2.5秒破百 最强保时捷，却最不像保时捷",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537134.htm"
             }
         ],
         "mil": [
             {
+                "title": "马斯克抱上“顶级大腿” 500MW数据中心砸下来 xAI这下要“横着走”了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537140.htm"
+            },
+            {
+                "title": "一天沉迷十几个小时，有救了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537138.htm"
+            },
+            {
+                "title": "Meta首席人工智能科学家杨立昆将离职创办个人初创公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537108.htm"
+            },
+            {
+                "title": "「星动纪元」完成吉利领投的10亿元A+轮融资，商业化订单已超5亿｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-20",
+                "url": "https://36kr.com/p/3560734133091207"
+            },
+            {
                 "title": "8点1氪丨胖东来50万年薪招聘翻译，中国仅8校毕业生符合条件；贾跃亭成立第二个债权人信托，称尽责到底早日回国；杭州取消灵隐寺门票",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-20",
                 "url": "https://36kr.com/p/3560652689063041"
-            },
-            {
-                "title": "科技昨夜今晨 1120：荷兰宣布暂停干预安世半导体；京东方三星 OLED 专利和解；余承东官宣华为 MatePad Edge...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-19",
-                "url": "https://www.ithome.com/0/898/726.htm"
-            },
-            {
-                "title": "原腾讯Robotics X算法研究员创业，4个月获3轮融资，要在3-5年将人形机器人送进家庭",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-19",
-                "url": "https://36kr.com/p/3559983402023814"
-            },
-            {
-                "title": "白宫正推动阻止限制人工智能芯片出口的法案",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537102.htm"
-            },
-            {
-                "title": "美国陆军部长在基辅会晤乌防长，了解乌军对俄无人机作战的创新成果",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-11-19",
-                "url": "https://www.voachinese.com/a/us-army-civilian-leader-meets-ukraine-defense-chief-in-kyiv-20251119/8083565.html"
             },
             {
                 "title": "2025年11月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "8点1氪丨胖东来50万年薪招聘翻译，中国仅8校毕业生符合条件；贾跃亭成立第二个债权人信托，称尽责到底早日回国；杭州取消灵隐寺门票",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中共外交官“插兜训话”惹议 现场记者揭内幕(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-11-20",
-                "url": "https://36kr.com/p/3560652689063041"
+                "url": "https://www.secretchina.com/news/gb/2025/11/20/1090961.html"
             },
             {
-                "title": "美联储10月会议纪要揭示严重内部分歧，12月投票结果将非常胶着",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-19",
-                "url": "https://36kr.com/newsflashes/3560632000511111"
+                "title": "马斯克抱上“顶级大腿” 500MW数据中心砸下来 xAI这下要“横着走”了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537140.htm"
             },
             {
-                "title": "原腾讯Robotics X算法研究员创业，4个月获3轮融资，要在3-5年将人形机器人送进家庭",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-19",
-                "url": "https://36kr.com/p/3559983402023814"
+                "title": "一天沉迷十几个小时，有救了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537138.htm"
             },
             {
-                "title": "证监会：中证、国证可持续指数产品规模合计约1250亿元，较2020年底增长两倍多",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-19",
-                "url": "https://36kr.com/newsflashes/3560098149055365"
+                "title": "闻泰科技：公司对安世的控制权仍然处于受限状态",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537136.htm"
             },
             {
-                "title": "小鹏汽车：未来两年将年产数千辆自动驾驶出租车消息不实",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-19",
-                "url": "https://www.ithome.com/0/898/718.htm"
+                "title": "小米汽车第50万辆整车下线 雷军：将坚持不懈抓安全、抓交付",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537126.htm"
             },
             {
                 "title": "2025年11月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-21T01:18:32.602854+00:00"
+    "last_updated": "2025-11-21T06:27:25.986301+00:00"
 }
