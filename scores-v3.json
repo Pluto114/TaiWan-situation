@@ -1,85 +1,85 @@
 {
-    "score": 3,
+    "score": 2,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 22.5,
+            "current_weight": 16.875,
             "triggered_on": "2025-11-21"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain any information related to the economic and financial warning indicators. There is no mention of increased war insurance rates, mass purchasing of goods, strategic material hoarding, or economic sanctions against Taiwan. Therefore, no economic indicators are triggered.",
-        "mil": "The provided intelligence sources contain routine news reports and diplomatic activities, lacking any information to trigger the specified military logistics warning indicators. There is no evidence of unusual naval activity, troop movements, or resource mobilization related to Taiwan.",
-        "pol": "The provided intelligence sources do not contain information that explicitly triggers any of the specified warning indicators. There are no instances of ultimatum-like language, strong diplomatic statements, or evacuation warnings in the provided text. The content primarily focuses on routine diplomatic activities and news reports without any escalation or threat.",
-        "local": "情报源显示防空警报测试为年度例行测试，社会秩序正常，未见异常情况，因此未触发预警指标。"
+        "econ": "The provided intelligence sources do not contain information that explicitly triggers any of the listed economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, or economic sanctions against Taiwan.",
+        "mil": "The provided intelligence sources do not explicitly trigger any of the listed military logistics warning indicators. There is no mention of large-scale naval exercises encompassing Taiwan, troop or equipment buildup on the Fujian coast, or mobilization of reserves or civilian resources.",
+        "pol": "The provided intelligence sources do not contain information that explicitly triggers any of the listed warning indicators. There are no official statements using ultimatum language or war mobilization (POL-1), no strong diplomatic statements with phrases like 'severe consequences' or 'explicit explanation' (POL-2), and no indications of diplomatic personnel withdrawal or high-level travel warnings (POL-3). While there are mentions of official sources like the Ministry of Foreign Affairs and People's Liberation Army Daily, the provided excerpts do not contain the specific triggering language or actions described in the warning indicators.",
+        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "智能戒指专利战打响，Oura 起诉三星 Galaxy Ring 侵权",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国市场：“不可投资论”消退？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-11-20",
-                "url": "https://www.ithome.com/0/898/979.htm"
+                "url": "https://www.ftchinese.com/story/001108266"
             },
             {
-                "title": "安谋科技发布“AI Arm CHINA”战略发展方向，将在香港成立国际研发中心",
-                "source": "NewsAPI / Ithome.com",
+                "title": "气候适应成为焦点，中国如何应对融资挑战",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-11-20",
-                "url": "https://www.ithome.com/0/898/962.htm"
+                "url": "https://www.ftchinese.com/story/001108269"
             },
             {
-                "title": "比亚迪纯电 K-Car RACCO 有望登陆欧洲市场，有“价格屠夫”潜力",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-20",
-                "url": "https://www.ithome.com/0/898/959.htm"
-            },
-            {
-                "title": "氪星晚报｜空客启动第二阶段股票回购计划；我国首台套绿氢煤化工项目全面投运；印度尼西亚正与新加坡、马来西亚洽谈数据中心合作事宜",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-20",
-                "url": "https://36kr.com/p/3561238492134278"
-            },
-            {
-                "title": "世界首部AI法规出师不利 金融时报：欧盟如何搞砸了AI监管？",
+                "title": "闻泰科技最新声明：作为股东的完整权利以及对安世的合法控制权必须得到恢复",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537228.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537254.htm"
+            },
+            {
+                "title": "消息称因高通投诉，韩国反垄断机构突袭 Arm 首尔办公室",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-20",
+                "url": "https://www.ithome.com/0/899/006.htm"
+            },
+            {
+                "title": "获吉尼斯世界纪录：智元远征 A2 完成全球首次人形机器人百公里跨省行走",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-20",
+                "url": "https://www.ithome.com/0/898/987.htm"
             }
         ],
         "mil": [
             {
+                "title": "中国市场：“不可投资论”消退？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-20",
+                "url": "https://www.ftchinese.com/story/001108266"
+            },
+            {
+                "title": "Google推出最新图像生成模型Nano Banana Pro﻿",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537256.htm"
+            },
+            {
+                "title": "中共黄海军演升级 学者曝关键原因(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-20",
+                "url": "https://www.secretchina.com/news/gb/2025/11/20/1090971.html"
+            },
+            {
+                "title": "Memo 家庭机器人亮相，会做咖啡、叠衣服、打扫卫生",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-20",
+                "url": "https://www.ithome.com/0/898/989.htm"
+            },
+            {
                 "title": "氪星晚报｜空客启动第二阶段股票回购计划；我国首台套绿氢煤化工项目全面投运；印度尼西亚正与新加坡、马来西亚洽谈数据中心合作事宜",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-20",
                 "url": "https://36kr.com/p/3561238492134278"
             },
             {
-                "title": "世界首部AI法规出师不利 金融时报：欧盟如何搞砸了AI监管？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537228.htm"
-            },
-            {
-                "title": "我们去看了《疯狂动物城 2》的首映，关于影片有这些可以提前分享给你",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2025-11-20",
-                "url": "https://www.toodaylab.com/83803"
-            },
-            {
-                "title": "对手机退烧：卡顿过后，只求实用｜2025年轻人理想手机报告",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-20",
-                "url": "https://36kr.com/p/3561108191526017"
-            },
-            {
-                "title": "Gemini 3负责人最新访谈：不做情感陪伴，只做最强生产力工具",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537192.htm"
-            },
-            {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
@@ -98,12 +98,6 @@
                 "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcllqR3N2dkROQWlsWnM5blJqODF4Mi00djN4V0J4WU1CYlB6MzFjZzZad09QZFQtVHJxT0JsZ1ZxczRJWmREa0hZd1NrRElvMXA3clg1NDVmY1JTU0p6N2VYTVFMV1NQQUNZeG13OC04UHd0NkxNOFBBZzgzV20wZGM4UmtrNms?oc=5"
             },
             {
-                "title": "中国医疗队与尼日尔医院联合开展义诊活动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkbzhOOENwZ2JERDRxaXJlQW4yNWN5a21BR2hyTU5ITlIzS0Z1Y2JDVW9McFhZOHdWN0p0VFpWdGVESldhb3lWTGQ1cGhTcmhjbWc?oc=5"
-            },
-            {
                 "title": "建设更高水平的社会主义法治国家——习近平总书记对全面依法治国工作作出的重要指示鼓舞人心、催人奋进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-20",
@@ -114,38 +108,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSEQtMFRWMkNiQ0xZcno0cnZGaGZIbFdUbWplSEoyaXBueHJmVXZGSjVFM05JbkRETnZYNk5WMHFPNnZjaTljRzdyOUQ3SnYwTGc?oc=5"
+            },
+            {
+                "title": "第08版：基层传真 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-19",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGNFem81RkgwX0dfb3UyMll0TlhLS1ZtcldzeUdvcFFaM0ROZE4temtPU2d5WjJ3MEpTd0lkMDR1TUduTVNOX1NmUWFRczlPbW1NaE4wTmdETHdmTTFwQU9oMk8wek9MMzA3bkh6U0Exc29CSDhLeHZadGxOWVdrVTl3S0dqSkdTc2RiajlraEpTTkFkRjBOazZyYw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "赤裸自白 毛泽东多次“真情流露”感谢日本侵华(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "中国市场：“不可投资论”消退？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-11-20",
-                "url": "https://www.secretchina.com/news/gb/2025/11/20/1090968.html"
+                "url": "https://www.ftchinese.com/story/001108266"
             },
             {
-                "title": "世界首部AI法规出师不利 金融时报：欧盟如何搞砸了AI监管？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "气候适应成为焦点，中国如何应对融资挑战",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537228.htm"
+                "url": "https://www.ftchinese.com/story/001108269"
             },
             {
-                "title": "自己拍的照片被指侵权，摄影师戴建峰起诉视觉中国案历时两年终迎一审判决",
+                "title": "谷歌发布新一代图像生成模型 Nano Banana Pro：基于 Gemini 3 Pro 打造，支持 4K 分辨率与完美文字渲染",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-20",
-                "url": "https://www.ithome.com/0/898/946.htm"
+                "url": "https://www.ithome.com/0/899/013.htm"
             },
             {
-                "title": "我们去看了《疯狂动物城 2》的首映，关于影片有这些可以提前分享给你",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "闻泰科技最新声明：作为股东的完整权利以及对安世的合法控制权必须得到恢复",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-20",
-                "url": "https://www.toodaylab.com/83803"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537254.htm"
             },
             {
-                "title": "从“台湾有事”到“插兜训话” 中日外交照片背后的战狼外交与大内宣(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "消息称因高通投诉，韩国反垄断机构突袭 Arm 首尔办公室",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-20",
-                "url": "https://www.secretchina.com/news/gb/2025/11/20/1090964.html"
+                "url": "https://www.ithome.com/0/899/006.htm"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -166,12 +166,6 @@
                 "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcllqR3N2dkROQWlsWnM5blJqODF4Mi00djN4V0J4WU1CYlB6MzFjZzZad09QZFQtVHJxT0JsZ1ZxczRJWmREa0hZd1NrRElvMXA3clg1NDVmY1JTU0p6N2VYTVFMV1NQQUNZeG13OC04UHd0NkxNOFBBZzgzV20wZGM4UmtrNms?oc=5"
             },
             {
-                "title": "中国医疗队与尼日尔医院联合开展义诊活动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkbzhOOENwZ2JERDRxaXJlQW4yNWN5a21BR2hyTU5ITlIzS0Z1Y2JDVW9McFhZOHdWN0p0VFpWdGVESldhb3lWTGQ1cGhTcmhjbWc?oc=5"
-            },
-            {
                 "title": "建设更高水平的社会主义法治国家——习近平总书记对全面依法治国工作作出的重要指示鼓舞人心、催人奋进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-20",
@@ -182,9 +176,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSEQtMFRWMkNiQ0xZcno0cnZGaGZIbFdUbWplSEoyaXBueHJmVXZGSjVFM05JbkRETnZYNk5WMHFPNnZjaTljRzdyOUQ3SnYwTGc?oc=5"
+            },
+            {
+                "title": "第08版：基层传真 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-19",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGNFem81RkgwX0dfb3UyMll0TlhLS1ZtcldzeUdvcFFaM0ROZE4temtPU2d5WjJ3MEpTd0lkMDR1TUduTVNOX1NmUWFRczlPbW1NaE4wTmdETHdmTTFwQU9oMk8wek9MMzA3bkh6U0Exc29CSDhLeHZadGxOWVdrVTl3S0dqSkdTc2RiajlraEpTTkFkRjBOazZyYw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-21T12:34:50.940759+00:00"
+    "last_updated": "2025-11-21T18:23:17.023221+00:00"
 }
