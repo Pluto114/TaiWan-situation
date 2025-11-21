@@ -1,89 +1,83 @@
 {
-    "score": 4,
+    "score": 3,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 30,
+            "current_weight": 22.5,
             "triggered_on": "2025-11-21"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain any information related to the economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, or economic sanctions against Taiwan. Therefore, no economic indicators are triggered.",
-        "mil": "情报源中未发现明确触发军事后勤预警指标的信息。没有关于禁航通告、兵力集结或预备役征召等相关内容。",
-        "pol": "情报源显示外交部和国防部存在相关活动，虽然没有直接给出强硬声明的具体内容，但根据判断准则，需要保持对官方信源的高度敏感。因此，初步判断可能触发POL-2。需要进一步分析外交部例行记者会的具体内容以确认。",
-        "local": "情报源显示是年度例行防空警报测试，物资供应充足，社会秩序正常，未触发预警指标 LOCAL-1。"
+        "econ": "The provided intelligence sources do not contain any information related to the economic and financial warning indicators. There is no mention of increased war insurance rates, mass purchasing of goods, strategic material hoarding, or economic sanctions against Taiwan. Therefore, no economic indicators are triggered.",
+        "mil": "The provided intelligence sources contain routine news reports and diplomatic activities, lacking any information to trigger the specified military logistics warning indicators. There is no evidence of unusual naval activity, troop movements, or resource mobilization related to Taiwan.",
+        "pol": "The provided intelligence sources do not contain information that explicitly triggers any of the specified warning indicators. There are no instances of ultimatum-like language, strong diplomatic statements, or evacuation warnings in the provided text. The content primarily focuses on routine diplomatic activities and news reports without any escalation or threat.",
+        "local": "情报源显示防空警报测试为年度例行测试，社会秩序正常，未见异常情况，因此未触发预警指标。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "马来西亚近1.4万处场所非法偷电挖矿 损失超11亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "智能戒指专利战打响，Oura 起诉三星 Galaxy Ring 侵权",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537158.htm"
+                "url": "https://www.ithome.com/0/898/979.htm"
             },
             {
-                "title": "马斯克抱上“顶级大腿” 500MW数据中心砸下来 xAI这下要“横着走”了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "安谋科技发布“AI Arm CHINA”战略发展方向，将在香港成立国际研发中心",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537140.htm"
+                "url": "https://www.ithome.com/0/898/962.htm"
             },
             {
-                "title": "荷兰将安世半导体控制权归还给中国母公司",
-                "source": "NewsAPI / Solidot.org",
+                "title": "比亚迪纯电 K-Car RACCO 有望登陆欧洲市场，有“价格屠夫”潜力",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-20",
-                "url": "https://www.solidot.org/story?sid=82848"
+                "url": "https://www.ithome.com/0/898/959.htm"
             },
             {
-                "title": "闻泰科技：公司对安世的控制权仍然处于受限状态",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜空客启动第二阶段股票回购计划；我国首台套绿氢煤化工项目全面投运；印度尼西亚正与新加坡、马来西亚洽谈数据中心合作事宜",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537136.htm"
+                "url": "https://36kr.com/p/3561238492134278"
             },
             {
-                "title": "纯电卡宴2.5秒破百 最强保时捷，却最不像保时捷",
+                "title": "世界首部AI法规出师不利 金融时报：欧盟如何搞砸了AI监管？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537134.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537228.htm"
             }
         ],
         "mil": [
             {
-                "title": "马斯克抱上“顶级大腿” 500MW数据中心砸下来 xAI这下要“横着走”了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537140.htm"
-            },
-            {
-                "title": "一天沉迷十几个小时，有救了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537138.htm"
-            },
-            {
-                "title": "Meta首席人工智能科学家杨立昆将离职创办个人初创公司",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537108.htm"
-            },
-            {
-                "title": "「星动纪元」完成吉利领投的10亿元A+轮融资，商业化订单已超5亿｜36氪独家",
+                "title": "氪星晚报｜空客启动第二阶段股票回购计划；我国首台套绿氢煤化工项目全面投运；印度尼西亚正与新加坡、马来西亚洽谈数据中心合作事宜",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-20",
-                "url": "https://36kr.com/p/3560734133091207"
+                "url": "https://36kr.com/p/3561238492134278"
             },
             {
-                "title": "8点1氪丨胖东来50万年薪招聘翻译，中国仅8校毕业生符合条件；贾跃亭成立第二个债权人信托，称尽责到底早日回国；杭州取消灵隐寺门票",
+                "title": "世界首部AI法规出师不利 金融时报：欧盟如何搞砸了AI监管？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537228.htm"
+            },
+            {
+                "title": "我们去看了《疯狂动物城 2》的首映，关于影片有这些可以提前分享给你",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2025-11-20",
+                "url": "https://www.toodaylab.com/83803"
+            },
+            {
+                "title": "对手机退烧：卡顿过后，只求实用｜2025年轻人理想手机报告",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-20",
-                "url": "https://36kr.com/p/3560652689063041"
+                "url": "https://36kr.com/p/3561108191526017"
             },
             {
-                "title": "2025年11月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQzR6S3lnVEI2Zzlfa2U1MHpMNG00cVQ4Q1RSbGJrZWRBaHBxc0lqT1l5bWlFT1RkM21TVHRlVDZjeER5UnIySlVuQlFWMXd4RVBPUlRRTEU4RS1CX2FPZ2pEOVZnQ1ZKRFNDSkIweUp1WmplNnc?oc=5"
+                "title": "Gemini 3负责人最新访谈：不做情感陪伴，只做最强生产力工具",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537192.htm"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -92,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "驻外报道 - mfa.gov.cn",
+                "title": "李强抵达卢萨卡开始对赞比亚进行正式访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2025-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWNMc0tLZDZld1NaT2pUSHlwa0xwcndWME5JR0p5ZUpPa3NOQ2xtWDF6ZkpKOGxnOTQzdTQzX1UzMGhMXy1SNUdSM1ZrNWZfOFJGNnpFc25IUFFrSkYxaXVGeXVDVHpBam4weHExeDNaQlk2VC1rMEttYmtuTFFMMlk0MnhMWENm?oc=5"
+            },
+            {
+                "title": "中华人民共和国、坦桑尼亚联合共和国、赞比亚共和国政府关于携手打造坦赞铁路繁荣带的联合声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-11-21",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcllqR3N2dkROQWlsWnM5blJqODF4Mi00djN4V0J4WU1CYlB6MzFjZzZad09QZFQtVHJxT0JsZ1ZxczRJWmREa0hZd1NrRElvMXA3clg1NDVmY1JTU0p6N2VYTVFMV1NQQUNZeG13OC04UHd0NkxNOFBBZzgzV20wZGM4UmtrNms?oc=5"
             },
             {
                 "title": "中国医疗队与尼日尔医院联合开展义诊活动 - 中国军网",
@@ -118,40 +118,34 @@
         ],
         "pol": [
             {
-                "title": "中共外交官“插兜训话”惹议 现场记者揭内幕(图)",
+                "title": "赤裸自白 毛泽东多次“真情流露”感谢日本侵华(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-11-20",
-                "url": "https://www.secretchina.com/news/gb/2025/11/20/1090961.html"
+                "url": "https://www.secretchina.com/news/gb/2025/11/20/1090968.html"
             },
             {
-                "title": "马斯克抱上“顶级大腿” 500MW数据中心砸下来 xAI这下要“横着走”了？",
+                "title": "世界首部AI法规出师不利 金融时报：欧盟如何搞砸了AI监管？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537140.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537228.htm"
             },
             {
-                "title": "一天沉迷十几个小时，有救了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "自己拍的照片被指侵权，摄影师戴建峰起诉视觉中国案历时两年终迎一审判决",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537138.htm"
+                "url": "https://www.ithome.com/0/898/946.htm"
             },
             {
-                "title": "闻泰科技：公司对安世的控制权仍然处于受限状态",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "我们去看了《疯狂动物城 2》的首映，关于影片有这些可以提前分享给你",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537136.htm"
+                "url": "https://www.toodaylab.com/83803"
             },
             {
-                "title": "小米汽车第50万辆整车下线 雷军：将坚持不懈抓安全、抓交付",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "从“台湾有事”到“插兜训话” 中日外交照片背后的战狼外交与大内宣(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537126.htm"
-            },
-            {
-                "title": "2025年11月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQzR6S3lnVEI2Zzlfa2U1MHpMNG00cVQ4Q1RSbGJrZWRBaHBxc0lqT1l5bWlFT1RkM21TVHRlVDZjeER5UnIySlVuQlFWMXd4RVBPUlRRTEU4RS1CX2FPZ2pEOVZnQ1ZKRFNDSkIweUp1WmplNnc?oc=5"
+                "url": "https://www.secretchina.com/news/gb/2025/11/20/1090964.html"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -160,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "驻外报道 - mfa.gov.cn",
+                "title": "李强抵达卢萨卡开始对赞比亚进行正式访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2025-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWNMc0tLZDZld1NaT2pUSHlwa0xwcndWME5JR0p5ZUpPa3NOQ2xtWDF6ZkpKOGxnOTQzdTQzX1UzMGhMXy1SNUdSM1ZrNWZfOFJGNnpFc25IUFFrSkYxaXVGeXVDVHpBam4weHExeDNaQlk2VC1rMEttYmtuTFFMMlk0MnhMWENm?oc=5"
+            },
+            {
+                "title": "中华人民共和国、坦桑尼亚联合共和国、赞比亚共和国政府关于携手打造坦赞铁路繁荣带的联合声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-11-21",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcllqR3N2dkROQWlsWnM5blJqODF4Mi00djN4V0J4WU1CYlB6MzFjZzZad09QZFQtVHJxT0JsZ1ZxczRJWmREa0hZd1NrRElvMXA3clg1NDVmY1JTU0p6N2VYTVFMV1NQQUNZeG13OC04UHd0NkxNOFBBZzgzV20wZGM4UmtrNms?oc=5"
             },
             {
                 "title": "中国医疗队与尼日尔医院联合开展义诊活动 - 中国军网",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-21T06:27:25.986301+00:00"
+    "last_updated": "2025-11-21T12:34:50.940759+00:00"
 }
