@@ -1,22 +1,40 @@
 {
-    "score": 2,
+    "score": 4,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 12.65625,
-            "triggered_on": "2025-11-22"
+            "current_weight": 30,
+            "triggered_on": "2025-11-23"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that explicitly triggers any of the listed economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling of resources, or announcements of economic sanctions against Taiwan.",
-        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the defined military logistics warning indicators. There is no mention of NOTAMs, military build-up, or mobilization of reserves or resources.",
-        "pol": "The provided intelligence sources do not contain information that explicitly triggers any of the listed political and public opinion warning indicators. No official statements using ultimatum-like language, strong diplomatic warnings, or evacuation advisories were found. Routine diplomatic activities and news reports are present, but they do not meet the criteria for triggering any of the defined indicators.",
-        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "情报源中没有明确提及经济金融领域的预警指标事件，例如战争险费率提高、大规模抢购或经济制裁等。因此，未触发任何ECON指标。",
+        "mil": "The provided information consists of news headlines and links to official websites. There is no information about military logistics activities such as naval exercises, troop movements, or mobilization of reserves. Therefore, none of the specified military logistics indicators (MIL-1, MIL-2, MIL-3) are triggered.",
+        "pol": "情报源显示外交部有例行记者会。虽然具体内容未知，但根据关键判断准则，外交部/国防部的声明，即使是例行记者会，也可能包含强硬措辞，符合POL-2“外交部/国防部发表强硬声明”的描述，因此触发POL-2。需要注意的是，仅仅举行记者会本身不触发指标，触发的原因是记者会上可能存在强硬表态的可能性。",
+        "local": "情报源显示本周防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
+            {
+                "title": "打破国外长期垄断，中科飞测首台晶圆平坦度测量设备出货 HBM 客户端",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-22",
+                "url": "https://www.ithome.com/0/899/365.htm"
+            },
+            {
+                "title": "业界：汽车供应链需谨防芯片短缺、电池技术迭代致产能过剩等风险",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-22",
+                "url": "https://36kr.com/newsflashes/3563598512405632"
+            },
+            {
+                "title": "智能派获大疆投资的更多细节：三年内年营收要超50亿 | 36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-22",
+                "url": "https://36kr.com/p/3562896588242051"
+            },
             {
                 "title": "9点1氪｜小米回应“潜水手表不能潜水”；美的否认强制售后服务商排他性合作；红果短剧公布分账数据：三位演员分账超百万",
                 "source": "NewsAPI / 36kr.com",
@@ -28,24 +46,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-22",
                 "url": "https://www.ithome.com/0/899/339.htm"
-            },
-            {
-                "title": "中日冲突意在测试川普？民族主义恐反噬(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-21",
-                "url": "https://www.secretchina.com/news/gb/2025/11/22/1091028.html"
-            },
-            {
-                "title": "美国能源部裁撤可再生能源机构 重点支持核聚变领域重组",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537446.htm"
-            },
-            {
-                "title": "美国逮捕被控非法向中国出口英伟达GPU的两名中国公民和两名美国公民",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-11-21",
-                "url": "https://www.voachinese.com/a/us-arrests-2-chinese-nationals-and-2-american-citizens-for-conspiring-to-illegally-export-nvidia-gpus-to-china-20251121/8084129.html"
             }
         ],
         "mil": [
@@ -86,16 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQTM3OE1MeFRsM2F1UlR1aGJ0TjBJYW9xVzVzWEdxOTlHUUpzV3BjNFdldkZXUVhvMmxkOHNBQS1tVDVMYTE5MmVjTnA5SzFIVkZ2dzhjdWdKTWJ1Wk1jRkJwb1Y3UTRMdDkyb0FTbW10OGp5MlE?oc=5"
             },
             {
-                "title": "外交部中国—中东欧国家合作事务特别代表陈国友访问希腊_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "驻外报道 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmozUkhaYjJNdFg1Yjc0OXpteWZraVV4TnVLMXdfNXR4VkpVWG14MXYxV1FSSUdhS2hQdWZ4amR5U2Zic21tTXdvMlRTMFQxT1dIeWVmaTJlVFZ3Ym1BcUoxRzdkcG5qSWFEV1M4QV9lNW95SE5OVm5TOV9Ka0RzTGxOcGo?oc=5"
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "李强会见南非总统拉马福萨 - mfa.gov.cn",
+                "title": "驻珀斯总领事付莉华会见汉考克铁矿首席执行官吴子明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHJXTE13aVlXeE80Xy00ZGg4OW9sXzNXODZxQ2g4UUl3OU1ybnhtUEV0TFg4UXpaQ3RjLUwyaWdlY3QxVkd0ajkwYUV6OThMYXF2VzFoanM3MjBJZ2dLLVhsZklfek15U1pfS1IyQVdUZXhNLVVUTkZwcUJKVXVrUmJRMTM3QzFOOXIwck5B?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSy1td1ZUNTdfWHhVX1pjdG9ad0t0dWQzZFFJNHRxdzQ1bldrMjJPN2hyMVNoOWlpVlhDODhSVVA2MUI5TWxDR1Q1LTFJd2RPWTRtRmJEMUkxOGZSSnpHUzdFUU12ckhtTjI2YUtzdkhtS0xJZnByYk9XZUFBRllCd1RMU3c?oc=5"
             },
             {
                 "title": "二十四节气承载深厚的哲学思想、诗意表达与民俗传统 - 中国军网",
@@ -104,19 +104,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JeWtrNDdqZ0xOeElpTWdlYXJkalIycVE1bUZkNjQxQm5JZUpVMnhDcjFoZTV6SElfR1lRczBRYkd3X25oWmlaNFdvR19ENTN0Q2c?oc=5"
             },
             {
-                "title": "篆刻 - 中国国防报 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVdrLUlGeUw3Vmh3MDA2TFNNQ1lmTmNaUmRTM19oeXBESEF1SVU1Q0M5M1h1anREMWQ2bHdKUzVIMk1iSi0zODFvS09ueGxtcmZ5NEEySDdPaHJiTWlnLWlYMU5BNWpOQkpwTldpenFyR2Q1NmlqaXZ5QUV2aUlpR1pBNS1VNUNvZGlLak9GdnhKd19SVXJSdV8wMWtJN1lhZ1lGRDAxZ2ZzM2RkVDNxSF8wVUw3S2s?oc=5"
-            },
-            {
                 "title": "反映南京大屠杀史实舞剧《记忆深处》在巴黎上演 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EclVWdGxCdk9HOEMzdldPcUNocV9LdEFzdS0xZnFVMGpoeXhJWlQxM1pzcGN3d3BoZGYwbUdZRVFVenE5RFZVUTRhc1k4S21qY0E?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 军队人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "全德汽车俱乐部报告：特斯拉 Model Y 缺陷率 17.3% 垫底，十年来最差表现",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-22",
+                "url": "https://www.ithome.com/0/899/350.htm"
+            },
             {
                 "title": "9点1氪｜小米回应“潜水手表不能潜水”；美的否认强制售后服务商排他性合作；红果短剧公布分账数据：三位演员分账超百万",
                 "source": "NewsAPI / 36kr.com",
@@ -142,28 +148,22 @@
                 "url": "https://36kr.com/p/3562664663596163"
             },
             {
-                "title": "天皇生日酒会 中共胁迫日本大使舘驱离台湾客(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-21",
-                "url": "https://www.secretchina.com/news/gb/2025/11/21/1091015.html"
-            },
-            {
                 "title": "2025年11月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-21",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQTM3OE1MeFRsM2F1UlR1aGJ0TjBJYW9xVzVzWEdxOTlHUUpzV3BjNFdldkZXUVhvMmxkOHNBQS1tVDVMYTE5MmVjTnA5SzFIVkZ2dzhjdWdKTWJ1Wk1jRkJwb1Y3UTRMdDkyb0FTbW10OGp5MlE?oc=5"
             },
             {
-                "title": "外交部中国—中东欧国家合作事务特别代表陈国友访问希腊_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "驻外报道 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmozUkhaYjJNdFg1Yjc0OXpteWZraVV4TnVLMXdfNXR4VkpVWG14MXYxV1FSSUdhS2hQdWZ4amR5U2Zic21tTXdvMlRTMFQxT1dIeWVmaTJlVFZ3Ym1BcUoxRzdkcG5qSWFEV1M4QV9lNW95SE5OVm5TOV9Ka0RzTGxOcGo?oc=5"
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "李强会见南非总统拉马福萨 - mfa.gov.cn",
+                "title": "驻珀斯总领事付莉华会见汉考克铁矿首席执行官吴子明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHJXTE13aVlXeE80Xy00ZGg4OW9sXzNXODZxQ2g4UUl3OU1ybnhtUEV0TFg4UXpaQ3RjLUwyaWdlY3QxVkd0ajkwYUV6OThMYXF2VzFoanM3MjBJZ2dLLVhsZklfek15U1pfS1IyQVdUZXhNLVVUTkZwcUJKVXVrUmJRMTM3QzFOOXIwck5B?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSy1td1ZUNTdfWHhVX1pjdG9ad0t0dWQzZFFJNHRxdzQ1bldrMjJPN2hyMVNoOWlpVlhDODhSVVA2MUI5TWxDR1Q1LTFJd2RPWTRtRmJEMUkxOGZSSnpHUzdFUU12ckhtTjI2YUtzdkhtS0xJZnByYk9XZUFBRllCd1RMU3c?oc=5"
             },
             {
                 "title": "二十四节气承载深厚的哲学思想、诗意表达与民俗传统 - 中国军网",
@@ -172,19 +172,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JeWtrNDdqZ0xOeElpTWdlYXJkalIycVE1bUZkNjQxQm5JZUpVMnhDcjFoZTV6SElfR1lRczBRYkd3X25oWmlaNFdvR19ENTN0Q2c?oc=5"
             },
             {
-                "title": "篆刻 - 中国国防报 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVdrLUlGeUw3Vmh3MDA2TFNNQ1lmTmNaUmRTM19oeXBESEF1SVU1Q0M5M1h1anREMWQ2bHdKUzVIMk1iSi0zODFvS09ueGxtcmZ5NEEySDdPaHJiTWlnLWlYMU5BNWpOQkpwTldpenFyR2Q1NmlqaXZ5QUV2aUlpR1pBNS1VNUNvZGlLak9GdnhKd19SVXJSdV8wMWtJN1lhZ1lGRDAxZ2ZzM2RkVDNxSF8wVUw3S2s?oc=5"
-            },
-            {
                 "title": "反映南京大屠杀史实舞剧《记忆深处》在巴黎上演 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EclVWdGxCdk9HOEMzdldPcUNocV9LdEFzdS0xZnFVMGpoeXhJWlQxM1pzcGN3d3BoZGYwbUdZRVFVenE5RFZVUTRhc1k4S21qY0E?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 军队人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-23T01:29:16.796269+00:00"
+    "last_updated": "2025-11-23T06:24:40.838613+00:00"
 }
