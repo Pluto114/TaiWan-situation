@@ -1,89 +1,83 @@
 {
-    "score": 4,
+    "score": 3,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 30,
+            "current_weight": 22.5,
             "triggered_on": "2025-11-23"
         }
     },
     "category_reasoning": {
-        "econ": "情报源中没有明确提及经济金融领域的预警指标事件，例如战争险费率提高、大规模抢购或经济制裁等。因此，未触发任何ECON指标。",
-        "mil": "The provided information consists of news headlines and links to official websites. There is no information about military logistics activities such as naval exercises, troop movements, or mobilization of reserves. Therefore, none of the specified military logistics indicators (MIL-1, MIL-2, MIL-3) are triggered.",
-        "pol": "情报源显示外交部有例行记者会。虽然具体内容未知，但根据关键判断准则，外交部/国防部的声明，即使是例行记者会，也可能包含强硬措辞，符合POL-2“外交部/国防部发表强硬声明”的描述，因此触发POL-2。需要注意的是，仅仅举行记者会本身不触发指标，触发的原因是记者会上可能存在强硬表态的可能性。",
-        "local": "情报源显示本周防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "情报源中没有明确提及经济金融相关的预警指标。主要内容为科技新闻，不涉及战争险费率、物资抢购、经济制裁或贸易禁运等情况。",
+        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the specified military logistics warning indicators. There is no mention of NOTAMs related to Taiwan, troop or equipment movements in Fujian, or mobilization of reserves/civilian resources.",
+        "pol": "The provided information does not contain any explicit triggers for the defined warning indicators. There are no reports of official ultimatums, war mobilizations, strong diplomatic statements, or the evacuation of diplomatic personnel. The official sources mainly contain routine diplomatic meetings and cultural/military news, without any indication of escalating tensions or threats.",
+        "local": "情报源显示本周防空警报测试为年度例行测试，超市物资供应充足，未见抢购，社会秩序正常，因此没有触发预警指标 LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "打破国外长期垄断，中科飞测首台晶圆平坦度测量设备出货 HBM 客户端",
-                "source": "NewsAPI / Ithome.com",
+                "title": "陈立武谈英特尔：由于自满情绪 错失了所有重大机遇",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://www.ithome.com/0/899/365.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537486.htm"
             },
             {
-                "title": "业界：汽车供应链需谨防芯片短缺、电池技术迭代致产能过剩等风险",
-                "source": "NewsAPI / 36kr.com",
+                "title": "日本将量产2纳米工艺 Rapidus IPO规划曝光",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://36kr.com/newsflashes/3563598512405632"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537478.htm"
             },
             {
-                "title": "智能派获大疆投资的更多细节：三年内年营收要超50亿 | 36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "你的快递，是无人车送的",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://36kr.com/p/3562896588242051"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537476.htm"
             },
             {
-                "title": "9点1氪｜小米回应“潜水手表不能潜水”；美的否认强制售后服务商排他性合作；红果短剧公布分账数据：三位演员分账超百万",
-                "source": "NewsAPI / 36kr.com",
+                "title": "索尼手机败走中国：凉于偏执？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://36kr.com/p/3563538404064390"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537468.htm"
             },
             {
-                "title": "科技昨夜今晨 1122：曝华为 Mate 70 激活超 885 万；美的回应要求售后停止小米格力业务；豆包输入法正式版上线...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苹果首款低价MacBook下季度发布 搭载A18 Pro芯片、屏幕不到13.6英寸",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://www.ithome.com/0/899/339.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537464.htm"
             }
         ],
         "mil": [
             {
-                "title": "9点1氪｜小米回应“潜水手表不能潜水”；美的否认强制售后服务商排他性合作；红果短剧公布分账数据：三位演员分账超百万",
-                "source": "NewsAPI / 36kr.com",
+                "title": "印度国产光辉战机在迪拜航展坠毁 专家剖析事故原因",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://36kr.com/p/3563538404064390"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537492.htm"
             },
             {
-                "title": "科技昨夜今晨 1122：曝华为 Mate 70 激活超 885 万；美的回应要求售后停止小米格力业务；豆包输入法正式版上线...",
+                "title": "你的快递，是无人车送的",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537476.htm"
+            },
+            {
+                "title": "索尼手机败走中国：凉于偏执？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537468.htm"
+            },
+            {
+                "title": "特朗普发动新“曼哈顿计划” 举国发力AGI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537460.htm"
+            },
+            {
+                "title": "雷军：小米组合辅助驾驶系统第 4 版“HAD 增强版”将于数日内推送",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-22",
-                "url": "https://www.ithome.com/0/899/339.htm"
-            },
-            {
-                "title": "高市早苗的“三板斧”：摆脱枷锁抗中共(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-21",
-                "url": "https://www.secretchina.com/news/gb/2025/11/22/1091033.html"
-            },
-            {
-                "title": "氪星晚报｜阿斯塔纳航空签署谅解备忘录；雷军特别助理徐洁云，再次兼任公关部总经理；月之暗面计划于明年下半年进行首次公开募股",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-21",
-                "url": "https://36kr.com/p/3562664663596163"
-            },
-            {
-                "title": "吉利成立“中国星”车队，星瑞 TCR 赛车将接棒领克 03 TCR 征战国际赛事",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-21",
-                "url": "https://www.ithome.com/0/899/280.htm"
-            },
-            {
-                "title": "2025年11月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQTM3OE1MeFRsM2F1UlR1aGJ0TjBJYW9xVzVzWEdxOTlHUUpzV3BjNFdldkZXUVhvMmxkOHNBQS1tVDVMYTE5MmVjTnA5SzFIVkZ2dzhjdWdKTWJ1Wk1jRkJwb1Y3UTRMdDkyb0FTbW10OGp5MlE?oc=5"
+                "url": "https://www.ithome.com/0/899/395.htm"
             },
             {
                 "title": "驻外报道 - mfa.gov.cn",
@@ -92,16 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻珀斯总领事付莉华会见汉考克铁矿首席执行官吴子明 - mfa.gov.cn",
+                "title": "李强会见意大利总理梅洛尼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSy1td1ZUNTdfWHhVX1pjdG9ad0t0dWQzZFFJNHRxdzQ1bldrMjJPN2hyMVNoOWlpVlhDODhSVVA2MUI5TWxDR1Q1LTFJd2RPWTRtRmJEMUkxOGZSSnpHUzdFUU12ckhtTjI2YUtzdkhtS0xJZnByYk9XZUFBRllCd1RMU3c?oc=5"
+                "date": "2025-11-23",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFIzdkFReUdXZkZab0sxSDFzWWJjLVBDSEpCMnkyTDgtSFVEYl9acEl3aGZUOE1vX0tNSTFqRWU0Y29ERDNfdGpxbzQycWZwZm5FVnRIMGJUOUkxUE1vR3JUWVg3bjExWk9DTVl0UXZhelpxenMzZjJKRXVjOUFZbXdwN1hnOG5MN3NsMDh3?oc=5"
             },
             {
-                "title": "二十四节气承载深厚的哲学思想、诗意表达与民俗传统 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "李强会见南非总统拉马福萨 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JeWtrNDdqZ0xOeElpTWdlYXJkalIycVE1bUZkNjQxQm5JZUpVMnhDcjFoZTV6SElfR1lRczBRYkd3X25oWmlaNFdvR19ENTN0Q2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHJXTE13aVlXeE80Xy00ZGg4OW9sXzNXODZxQ2g4UUl3OU1ybnhtUEV0TFg4UXpaQ3RjLUwyaWdlY3QxVkd0ajkwYUV6OThMYXF2VzFoanM3MjBJZ2dLLVhsZklfek15U1pfS1IyQVdUZXhNLVVUTkZwcUJKVXVrUmJRMTM3QzFOOXIwck5B?oc=5"
             },
             {
                 "title": "反映南京大屠杀史实舞剧《记忆深处》在巴黎上演 - 中国军网",
@@ -110,48 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EclVWdGxCdk9HOEMzdldPcUNocV9LdEFzdS0xZnFVMGpoeXhJWlQxM1pzcGN3d3BoZGYwbUdZRVFVenE5RFZVUTRhc1k4S21qY0E?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 军队人才网",
+                "title": "比武场升起“第三只眼”！陆军某旅引导官兵练好新增训练课目 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2025-11-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZ042VzBFMFY5T0xLbDlMM2xvUU94enJIRDN3M1lDaXdsQ2dxZWx6a3pLRFdMbmtFUmVaRFY4VkVKRG4wcmZPeGRTNGNyZ3JSaGc?oc=5"
+            },
+            {
+                "title": "谱写新时代江河保护治理大美画卷——智库报告阐释新时代江河战略安澜兴邦利民之道 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcThtcTZwaVI5WnBDUUg4b25QeEZnWG1hYWVJRjZrSkFwdEZSM3BCYnluXzZWREhHSnJfNXpUdFl3XzF1dnZBSlMyZkZKZEl2eUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "全德汽车俱乐部报告：特斯拉 Model Y 缺陷率 17.3% 垫底，十年来最差表现",
-                "source": "NewsAPI / Ithome.com",
+                "title": "门把手故障被指阻碍救援 特斯拉因致命车祸在美吃官司",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://www.ithome.com/0/899/350.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537512.htm"
             },
             {
-                "title": "9点1氪｜小米回应“潜水手表不能潜水”；美的否认强制售后服务商排他性合作；红果短剧公布分账数据：三位演员分账超百万",
-                "source": "NewsAPI / 36kr.com",
+                "title": "日本将量产2纳米工艺 Rapidus IPO规划曝光",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
-                "url": "https://36kr.com/p/3563538404064390"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537478.htm"
             },
             {
-                "title": "中日冲突意在测试川普？民族主义恐反噬(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-21",
-                "url": "https://www.secretchina.com/news/gb/2025/11/22/1091028.html"
+                "title": "你的快递，是无人车送的",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537476.htm"
             },
             {
-                "title": "开放原子开源基金会：我国活跃开源开发者达 227 万，开源鸿蒙与开源欧拉成为首批毕业项目",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-21",
-                "url": "https://www.ithome.com/0/899/330.htm"
+                "title": "特朗普发动新“曼哈顿计划” 举国发力AGI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537460.htm"
             },
             {
-                "title": "氪星晚报｜阿斯塔纳航空签署谅解备忘录；雷军特别助理徐洁云，再次兼任公关部总经理；月之暗面计划于明年下半年进行首次公开募股",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-21",
-                "url": "https://36kr.com/p/3562664663596163"
-            },
-            {
-                "title": "2025年11月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQTM3OE1MeFRsM2F1UlR1aGJ0TjBJYW9xVzVzWEdxOTlHUUpzV3BjNFdldkZXUVhvMmxkOHNBQS1tVDVMYTE5MmVjTnA5SzFIVkZ2dzhjdWdKTWJ1Wk1jRkJwb1Y3UTRMdDkyb0FTbW10OGp5MlE?oc=5"
+                "title": "三星瑕疵屏幕引爆手机业“绿线门” 大厂售后按闹分配被吐槽",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537458.htm"
             },
             {
                 "title": "驻外报道 - mfa.gov.cn",
@@ -160,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻珀斯总领事付莉华会见汉考克铁矿首席执行官吴子明 - mfa.gov.cn",
+                "title": "李强会见意大利总理梅洛尼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSy1td1ZUNTdfWHhVX1pjdG9ad0t0dWQzZFFJNHRxdzQ1bldrMjJPN2hyMVNoOWlpVlhDODhSVVA2MUI5TWxDR1Q1LTFJd2RPWTRtRmJEMUkxOGZSSnpHUzdFUU12ckhtTjI2YUtzdkhtS0xJZnByYk9XZUFBRllCd1RMU3c?oc=5"
+                "date": "2025-11-23",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFIzdkFReUdXZkZab0sxSDFzWWJjLVBDSEpCMnkyTDgtSFVEYl9acEl3aGZUOE1vX0tNSTFqRWU0Y29ERDNfdGpxbzQycWZwZm5FVnRIMGJUOUkxUE1vR3JUWVg3bjExWk9DTVl0UXZhelpxenMzZjJKRXVjOUFZbXdwN1hnOG5MN3NsMDh3?oc=5"
             },
             {
-                "title": "二十四节气承载深厚的哲学思想、诗意表达与民俗传统 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "李强会见南非总统拉马福萨 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JeWtrNDdqZ0xOeElpTWdlYXJkalIycVE1bUZkNjQxQm5JZUpVMnhDcjFoZTV6SElfR1lRczBRYkd3X25oWmlaNFdvR19ENTN0Q2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHJXTE13aVlXeE80Xy00ZGg4OW9sXzNXODZxQ2g4UUl3OU1ybnhtUEV0TFg4UXpaQ3RjLUwyaWdlY3QxVkd0ajkwYUV6OThMYXF2VzFoanM3MjBJZ2dLLVhsZklfek15U1pfS1IyQVdUZXhNLVVUTkZwcUJKVXVrUmJRMTM3QzFOOXIwck5B?oc=5"
             },
             {
                 "title": "反映南京大屠杀史实舞剧《记忆深处》在巴黎上演 - 中国军网",
@@ -178,13 +172,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EclVWdGxCdk9HOEMzdldPcUNocV9LdEFzdS0xZnFVMGpoeXhJWlQxM1pzcGN3d3BoZGYwbUdZRVFVenE5RFZVUTRhc1k4S21qY0E?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 军队人才网",
+                "title": "比武场升起“第三只眼”！陆军某旅引导官兵练好新增训练课目 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2025-11-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZ042VzBFMFY5T0xLbDlMM2xvUU94enJIRDN3M1lDaXdsQ2dxZWx6a3pLRFdMbmtFUmVaRFY4VkVKRG4wcmZPeGRTNGNyZ3JSaGc?oc=5"
+            },
+            {
+                "title": "谱写新时代江河保护治理大美画卷——智库报告阐释新时代江河战略安澜兴邦利民之道 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcThtcTZwaVI5WnBDUUg4b25QeEZnWG1hYWVJRjZrSkFwdEZSM3BCYnluXzZWREhHSnJfNXpUdFl3XzF1dnZBSlMyZkZKZEl2eUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-23T06:24:40.838613+00:00"
+    "last_updated": "2025-11-23T12:30:47.428841+00:00"
 }
