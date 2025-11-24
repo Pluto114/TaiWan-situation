@@ -5,18 +5,30 @@
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 16.875,
+            "current_weight": 12.65625,
             "triggered_on": "2025-11-23"
         }
     },
     "category_reasoning": {
-        "econ": "情报源中没有明确触发经济金融类预警指标的信息，未提及战争险费率、物资抢购、经济制裁等相关内容。",
-        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the listed military logistics warning indicators. There is no mention of maritime restrictions, troop movements, or mobilization of reserves or civilian resources.",
-        "pol": "The provided intelligence sources do not contain information that explicitly triggers any of the defined warning indicators. There are no instances of '悬崖勒马', '勿谓言之不预', war mobilization, strong statements from the Foreign Ministry/Defense Ministry using terms like '严重后果' or '明确交代', or diplomatic actions like personnel withdrawal or travel warnings. The news items are largely about economics, climate, cultural events, and routine diplomatic meetings, none of which directly relate to the warning indicators.",
-        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources do not explicitly trigger any of the economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, strategic material stockpiling, or economic sanctions against Taiwan.",
+        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the defined military logistics warning indicators. There is no mention of NOTAMs surrounding Taiwan, troop/equipment buildup in Fujian, or mobilization of reserves/civilian resources.",
+        "pol": "分析情报源，未发现任何明确触发预警指标的信息。虽然有外交部新闻，但内容是常规会见和提醒撤离，不涉及强硬声明或最后通牒。军方信息也主要为新闻报道，没有显示战争动员或威胁。",
+        "local": "情报源显示厦门本周的防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发任何预警指标。"
     },
     "news_sources": {
         "econ": [
+            {
+                "title": "一加 Ace 6T 手机确认支持《王者荣耀》144FPS 模式",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-23",
+                "url": "https://www.ithome.com/0/899/494.htm"
+            },
+            {
+                "title": "科技昨夜今晨 1123：视觉中国被摄影师起诉案宣判后公开致歉；华为乾崑 App 发布；《哪吒 2》不参评奥斯卡最佳动画长片...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-23",
+                "url": "https://www.ithome.com/0/899/492.htm"
+            },
             {
                 "title": "2026年全球经济展望：在混沌中构建秩序",
                 "source": "NewsAPI / Ftchinese.com",
@@ -34,21 +46,27 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-11-22",
                 "url": "https://www.ftchinese.com/story/001108278"
-            },
-            {
-                "title": "陈立武谈英特尔：由于自满情绪 错失了所有重大机遇",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537486.htm"
-            },
-            {
-                "title": "日本将量产2纳米工艺 Rapidus IPO规划曝光",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537478.htm"
             }
         ],
         "mil": [
+            {
+                "title": "科技昨夜今晨 1123：视觉中国被摄影师起诉案宣判后公开致歉；华为乾崑 App 发布；《哪吒 2》不参评奥斯卡最佳动画长片...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-23",
+                "url": "https://www.ithome.com/0/899/492.htm"
+            },
+            {
+                "title": "中国对宗教自由的恐惧 大于对核武器的恐惧(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-22",
+                "url": "https://www.secretchina.com/news/gb/2025/11/23/1091082.html"
+            },
+            {
+                "title": "下层军心不稳 中共如何开战(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-22",
+                "url": "https://www.secretchina.com/news/gb/2025/11/23/1091080.html"
+            },
             {
                 "title": "印度国产光辉战机在迪拜航展坠毁 专家剖析事故原因",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,24 +78,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-22",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1537476.htm"
-            },
-            {
-                "title": "索尼手机败走中国：凉于偏执？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537468.htm"
-            },
-            {
-                "title": "特朗普发动新“曼哈顿计划” 举国发力AGI",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537460.htm"
-            },
-            {
-                "title": "雷军：小米组合辅助驾驶系统第 4 版“HAD 增强版”将于数日内推送",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-22",
-                "url": "https://www.ithome.com/0/899/395.htm"
             },
             {
                 "title": "李强会见意大利总理梅洛尼 - mfa.gov.cn",
@@ -98,25 +98,31 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUT0F3LXhtTkhUcnFXRGZBckVvZnRyN2lOcVI0SVRrY3VkMTRhZjlMSzNSZVZ4TnU3UHNpeFBNZnV1ckZkZVhqR1FOSFRGQVl4aVRKVm1FUTAzMkYxR3pLNDVRQm5jNWZYNVpJ?oc=5"
             },
             {
+                "title": "北约强化波罗的海反潜能力 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzaE0tQTRtS0dhMnV5bllsOTRJMnFqU0RObnZSVzZXbmR5WmZ6czRob204TVpxblpmeW1SREVZS1d3c0RXRFRvaUozVmw1WGItRWc?oc=5"
+            },
+            {
+                "title": "2025年11月24日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-23",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTRZbU1NLVMtSFp1VGFQNGlENUNFTURRdjhtUDI2cE0zSUxMZDNtcVVrWF9tb3JPc0ZFa05fQ1NGdjl3bkxYQUYyNS1Ka0VxWktIU3pqaG5xOUsxYTI5Uy1JUjAzeWhITVVROXdXczVBRkw0VlBFRTZnbjNWclJPT1RpSHgtOWpyblVXR1hPUjhzdjVRdkFwb0hIbw?oc=5"
+            },
+            {
                 "title": "反映南京大屠杀史实舞剧《记忆深处》在巴黎上演 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EclVWdGxCdk9HOEMzdldPcUNocV9LdEFzdS0xZnFVMGpoeXhJWlQxM1pzcGN3d3BoZGYwbUdZRVFVenE5RFZVUTRhc1k4S21qY0E?oc=5"
-            },
-            {
-                "title": "比武场升起“第三只眼”！陆军某旅引导官兵练好新增训练课目 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZ042VzBFMFY5T0xLbDlMM2xvUU94enJIRDN3M1lDaXdsQ2dxZWx6a3pLRFdMbmtFUmVaRFY4VkVKRG4wcmZPeGRTNGNyZ3JSaGc?oc=5"
-            },
-            {
-                "title": "谱写新时代江河保护治理大美画卷——智库报告阐释新时代江河战略安澜兴邦利民之道 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcThtcTZwaVI5WnBDUUg4b25QeEZnWG1hYWVJRjZrSkFwdEZSM3BCYnluXzZWREhHSnJfNXpUdFl3XzF1dnZBSlMyZkZKZEl2eUE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "科技昨夜今晨 1123：视觉中国被摄影师起诉案宣判后公开致歉；华为乾崑 App 发布；《哪吒 2》不参评奥斯卡最佳动画长片...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-23",
+                "url": "https://www.ithome.com/0/899/492.htm"
+            },
             {
                 "title": "2026年全球经济展望：在混沌中构建秩序",
                 "source": "NewsAPI / Ftchinese.com",
@@ -142,12 +148,6 @@
                 "url": "https://www.secretchina.com/news/gb/2025/11/22/1091075.html"
             },
             {
-                "title": "“台湾有事”风波：北京“封杀”日本演出与电影上映",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-11-22",
-                "url": "https://www.dw.com/zh/%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B%E9%A3%8E%E6%B3%A2%E5%8C%97%E4%BA%AC%E5%B0%81%E6%9D%80%E6%97%A5%E6%9C%AC%E6%BC%94%E5%87%BA%E4%B8%8E%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0/a-74847754"
-            },
-            {
                 "title": "李强会见意大利总理梅洛尼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-23",
@@ -166,25 +166,25 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUT0F3LXhtTkhUcnFXRGZBckVvZnRyN2lOcVI0SVRrY3VkMTRhZjlMSzNSZVZ4TnU3UHNpeFBNZnV1ckZkZVhqR1FOSFRGQVl4aVRKVm1FUTAzMkYxR3pLNDVRQm5jNWZYNVpJ?oc=5"
             },
             {
+                "title": "北约强化波罗的海反潜能力 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzaE0tQTRtS0dhMnV5bllsOTRJMnFqU0RObnZSVzZXbmR5WmZ6czRob204TVpxblpmeW1SREVZS1d3c0RXRFRvaUozVmw1WGItRWc?oc=5"
+            },
+            {
+                "title": "2025年11月24日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-23",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTRZbU1NLVMtSFp1VGFQNGlENUNFTURRdjhtUDI2cE0zSUxMZDNtcVVrWF9tb3JPc0ZFa05fQ1NGdjl3bkxYQUYyNS1Ka0VxWktIU3pqaG5xOUsxYTI5Uy1JUjAzeWhITVVROXdXczVBRkw0VlBFRTZnbjNWclJPT1RpSHgtOWpyblVXR1hPUjhzdjVRdkFwb0hIbw?oc=5"
+            },
+            {
                 "title": "反映南京大屠杀史实舞剧《记忆深处》在巴黎上演 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EclVWdGxCdk9HOEMzdldPcUNocV9LdEFzdS0xZnFVMGpoeXhJWlQxM1pzcGN3d3BoZGYwbUdZRVFVenE5RFZVUTRhc1k4S21qY0E?oc=5"
-            },
-            {
-                "title": "比武场升起“第三只眼”！陆军某旅引导官兵练好新增训练课目 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZ042VzBFMFY5T0xLbDlMM2xvUU94enJIRDN3M1lDaXdsQ2dxZWx6a3pLRFdMbmtFUmVaRFY4VkVKRG4wcmZPeGRTNGNyZ3JSaGc?oc=5"
-            },
-            {
-                "title": "谱写新时代江河保护治理大美画卷——智库报告阐释新时代江河战略安澜兴邦利民之道 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcThtcTZwaVI5WnBDUUg4b25QeEZnWG1hYWVJRjZrSkFwdEZSM3BCYnluXzZWREhHSnJfNXpUdFl3XzF1dnZBSlMyZkZKZEl2eUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-23T18:23:04.318364+00:00"
+    "last_updated": "2025-11-24T01:24:08.705745+00:00"
 }
