@@ -1,83 +1,83 @@
 {
-    "score": 3,
+    "score": 2,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 22.5,
+            "current_weight": 16.875,
             "triggered_on": "2025-11-24"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that explicitly triggers any of the economic/financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, strategic material stockpiling, or economic sanctions/embargos against Taiwan.",
-        "mil": "根据提供的情报源，没有明确的信息表明触发了任何军事后勤预警指标。虽然解放军报提到了“远征星河，家人欢迎神舟二十号航天员回家！”，但这是航天任务，不属于大规模军事调动或后勤准备。其他信息主要涉及外交活动、国际新闻和商业新闻，与军事后勤预警指标无关。",
-        "pol": "Although the provided information includes official sources such as the MFA and PLA, there are no explicit indications of the use of strong language or actions such as ultimatums, war mobilization, strong warnings, or diplomatic downgrades. Therefore, none of the specified indicators are triggered based solely on this information.",
-        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources do not contain any information that triggers the specified economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, or economic sanctions against Taiwan.",
+        "mil": "根据提供的情报源，未发现明确触发军事后勤预警指标的信息。情报源主要集中在国际新闻、商业新闻、外交部例行活动以及解放军报的常规报道，没有关于大规模军事调动、禁航通告或预备役征召的直接证据。",
+        "pol": "目前情报源中，外交部的信息仅为领导人会见和例行记者会，未发现包含“严重后果”、“明确交代”等强硬声明，也未发现“悬崖勒马”、“勿谓言之不预”等最后通牒式语言或战争动员。因此，没有明确触发预警指标。",
+        "local": "情报源显示本周防空警报测试为年度例行测试，且超市物资供应充足，未见抢购，社会秩序正常，因此未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "“创新设计”未能换来大量订单，IDC 称 iPhone Air 销量仅苹果预期三分之一",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国电信泡沫之回顾：“躺平”才是终极赢家？",
+                "source": "NewsAPI / Bohaishibei.com",
                 "date": "2025-11-24",
-                "url": "https://www.ithome.com/0/899/648.htm"
+                "url": "https://www.bohaishibei.com/post/105009/"
             },
             {
-                "title": "奥尔特曼预警 OpenAI“艰难时刻”到来：AI 领先优势缩小，将聚焦“超级智能”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-24",
-                "url": "https://www.ithome.com/0/899/639.htm"
-            },
-            {
-                "title": "2026经济前景如何？美财长回应 提醒这些行业最吃紧(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-24",
-                "url": "https://www.secretchina.com/news/gb/2025/11/24/1091111.html"
-            },
-            {
-                "title": "华泰证券港股策略：港股正在进入布局区",
+                "title": "内蒙古“十五五”规划建议：建成全国最大的稀土新材料基地和全球领先的稀土应用基地",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-24",
-                "url": "https://36kr.com/newsflashes/3566328231574662"
+                "url": "https://36kr.com/newsflashes/3566623498288000"
             },
             {
-                "title": "8点1氪｜霸王茶姬创始人发朋友圈辟谣；俞敏洪再发全员信道歉，回应被叫“老登”；《哪吒之魔童闹海》未入围奥斯卡大名单",
+                "title": "3D 打印厂商拓竹：新一轮融资消息不实",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-24",
+                "url": "https://www.ithome.com/0/899/708.htm"
+            },
+            {
+                "title": "季度同比扭亏为盈，斗鱼多元内容精细化运营战略现成效",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-24",
-                "url": "https://36kr.com/p/3566311519796104"
+                "url": "https://36kr.com/p/3566500435803268"
+            },
+            {
+                "title": "放大 130 倍：“全球首款商用微处理器” Intel 4004 巨型复刻版亮相",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-24",
+                "url": "https://www.ithome.com/0/899/686.htm"
             }
         ],
         "mil": [
             {
-                "title": "8点1氪｜霸王茶姬创始人发朋友圈辟谣；俞敏洪再发全员信道歉，回应被叫“老登”；《哪吒之魔童闹海》未入围奥斯卡大名单",
+                "title": "【袁红冰热点】独家内幕：北京对高市早苗展开外交舆论战背后藏惊天动机(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-24",
+                "url": "https://www.secretchina.com/news/gb/2025/11/24/1091112.html"
+            },
+            {
+                "title": "英国 DragonFire 激光武器精准击落 650 km/h 高速无人机，单次发射成本 10 英镑",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-24",
+                "url": "https://www.ithome.com/0/899/707.htm"
+            },
+            {
+                "title": "拓竹几近完成新一轮融资，大厂参投，估值或达100亿美金｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-24",
-                "url": "https://36kr.com/p/3566311519796104"
+                "url": "https://36kr.com/p/3566526394481543"
             },
             {
-                "title": "距章程到期仅剩8个月 美国政府效率部已“不复存在”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537642.htm"
+                "title": "季度同比扭亏为盈，斗鱼多元内容精细化运营战略现成效",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-24",
+                "url": "https://36kr.com/p/3566500435803268"
             },
             {
-                "title": "90亿全售股权，龙腾半导体借殻中联发展上市",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-23",
-                "url": "https://www.ftchinese.com/story/001108284"
-            },
-            {
-                "title": "川普松口“非最终方案” 俄乌28点和平计划面临关键转折(图)",
+                "title": "抗日神剧翻车 ：“地雷一炸 八路先跑了！”(组图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-23",
-                "url": "https://www.secretchina.com/news/gb/2025/11/23/1091094.html"
-            },
-            {
-                "title": "英国正用《使命召唤》提升士兵“战备能力”，还招玩家入伍",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-23",
-                "url": "https://www.ithome.com/0/899/582.htm"
+                "date": "2025-11-24",
+                "url": "https://www.secretchina.com/news/gb/2025/11/24/1091019.html"
             },
             {
                 "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "“创新设计”未能换来大量订单，IDC 称 iPhone Air 销量仅苹果预期三分之一",
+                "title": "人工智能为固件开发加速：AMI 推出 AMILiA 助手",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-24",
-                "url": "https://www.ithome.com/0/899/648.htm"
+                "url": "https://www.ithome.com/0/899/747.htm"
             },
             {
-                "title": "8位具身智能顶流聊起“非共识”：数据、世界模型、花钱之道",
+                "title": "万亿美元加密溃败中：特朗普关联资产领跌 家族财富一月蒸发10亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1537678.htm"
+            },
+            {
+                "title": "【袁红冰热点】独家内幕：北京对高市早苗展开外交舆论战背后藏惊天动机(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-24",
+                "url": "https://www.secretchina.com/news/gb/2025/11/24/1091112.html"
+            },
+            {
+                "title": "英国 DragonFire 激光武器精准击落 650 km/h 高速无人机，单次发射成本 10 英镑",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-24",
+                "url": "https://www.ithome.com/0/899/707.htm"
+            },
+            {
+                "title": "季度同比扭亏为盈，斗鱼多元内容精细化运营战略现成效",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-24",
-                "url": "https://36kr.com/p/3566363100674944"
-            },
-            {
-                "title": "京东工业通过港交所聆讯，刘强东有望迎第六家上市公司",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-24",
-                "url": "https://www.ithome.com/0/899/642.htm"
-            },
-            {
-                "title": "奥尔特曼预警 OpenAI“艰难时刻”到来：AI 领先优势缩小，将聚焦“超级智能”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-24",
-                "url": "https://www.ithome.com/0/899/639.htm"
-            },
-            {
-                "title": "科技昨夜今晨 1124：央视揭秘商家加装“巨型吊牌”；多地交管否认将试点“老头乐”驾照；小米澄清“小米汽车工厂内电池产线起火” ...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-24",
-                "url": "https://www.ithome.com/0/899/635.htm"
+                "url": "https://36kr.com/p/3566500435803268"
             },
             {
                 "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-25T01:19:23.703343+00:00"
+    "last_updated": "2025-11-25T06:28:09.769258+00:00"
 }
