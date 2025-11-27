@@ -1,5 +1,5 @@
 {
-    "score": 14,
+    "score": 12,
     "total_indicators_possible": 10,
     "active_indicators_count": 2,
     "active_indicators": {
@@ -10,50 +10,56 @@
         },
         "MIL-3": {
             "base_weight": 100,
-            "current_weight": 75.0,
+            "current_weight": 56.25,
             "triggered_on": "2025-11-27"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain any information that triggers the economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, strategic resource hoarding, or economic sanctions against Taiwan.",
-        "mil": "The provided information mentions the issuance of 'People's Liberation Army Reserve Personnel Certificates' and a report about Hong Kong fire. There is no indication of increased military activity, mobilization, or maritime restrictions related to Taiwan. Therefore, none of the specified military logistics indicators (MIL-1, MIL-2, MIL-3) are triggered.",
-        "pol": "情报源中显示，外交部发言人主持例行记者会，虽然没有直接给出记者会内容，但根据关键判断准则，外交部/国防部发表声明，即使是例行记者会，也需要关注发言内容是否包含强硬词汇（如“严重后果”、“明确交代”），若包含则触发POL-2指标。同时，商务部表达了对贸易协议的严正关切，也应视为一种强硬表态。",
-        "local": "情报源表明防空警报测试为年度例行测试，且社会秩序正常，未触发大规模防空演习或人防工程启用等相关预警指标。"
+        "econ": "The provided intelligence sources consist of general news articles and do not contain information related to the economic and financial warning indicators. Therefore, no indicators are triggered.",
+        "mil": "The provided information includes news about routine press conferences and updates on military documentation. There's no evidence of unusual military activity or warnings as outlined in the military logistics indicators.",
+        "pol": "情报源显示，外交部虽仅为例行记者会，但配合关键判断准则中“官方信源权重极高”的要求，需进一步分析记者会内容（虽然本轮无法直接获取），但配合商务部“中方对‘马美对等贸易协议’部分内容有严正关切”，可推测外交部可能存在强硬表态。国防部发布预备役人员证，虽不直接触发，但结合其他信息，可能暗示局势紧张。因此，初步判断触发POL-2（外交部/国防部发表强硬声明）。",
+        "local": "情报源显示厦门本周的防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1描述的大规模非例行演习或人防工程启用。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "施耐德电气：数据中心太耗电导致美国电网扛不住，AI 竞赛可能输给中国",
+                "title": "COP30矛盾重重，艰难前行",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-26",
+                "url": "https://www.ftchinese.com/story/001108303"
+            },
+            {
+                "title": "计算只是中间产品",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-26",
+                "url": "https://www.ftchinese.com/story/001108304"
+            },
+            {
+                "title": "谁在为德国的老龄化买单",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-26",
+                "url": "https://www.ftchinese.com/story/001108301"
+            },
+            {
+                "title": "以Web 3.0赋能香港金融业发展，巩固提升香港国际金融中心地位",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-26",
+                "url": "https://www.ftchinese.com/story/001108292"
+            },
+            {
+                "title": "索尼 α 新品发布会定档 12 月 2 日，有望推出 Alpha 7 V 全画幅无反相机",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-26",
-                "url": "https://www.ithome.com/0/900/490.htm"
-            },
-            {
-                "title": "中美欧销量滑坡、马斯克无心恋战 特斯拉汽车业务还有春天吗？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538150.htm"
-            },
-            {
-                "title": "实探智驾独角兽毫末智行北京总部 员工：说是放假，实际回不来",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538148.htm"
-            },
-            {
-                "title": "氪星晚报｜星动纪元与联合国工业发展组织达成战略合作；阿里千问进入电脑桌面，覆盖超1亿用户；渠江特大桥主桥成功合龙，成达万高铁全线路基工程进度超98%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3569792504626311"
-            },
-            {
-                "title": "希捷HAMR原型设备实现每碟片6.9TB容量 可制造55TB硬盘",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538146.htm"
+                "url": "https://www.ithome.com/0/900/512.htm"
             }
         ],
         "mil": [
+            {
+                "title": "德适生物宋宁：医学影像智能化的“气宗”修炼者",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-26",
+                "url": "https://www.ftchinese.com/story/001108305"
+            },
             {
                 "title": "实探智驾独角兽毫末智行北京总部 员工：说是放假，实际回不来",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -77,12 +83,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-26",
                 "url": "https://36kr.com/p/3548417282732163"
-            },
-            {
-                "title": "川普施压奏效 习特通话后中国闪电采购20亿元美国大豆(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-11-26",
-                "url": "https://www.secretchina.com/news/gb/2025/11/26/1091203.html"
             },
             {
                 "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -123,6 +123,24 @@
         ],
         "pol": [
             {
+                "title": "COP30矛盾重重，艰难前行",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-26",
+                "url": "https://www.ftchinese.com/story/001108303"
+            },
+            {
+                "title": "德适生物宋宁：医学影像智能化的“气宗”修炼者",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-11-26",
+                "url": "https://www.ftchinese.com/story/001108305"
+            },
+            {
+                "title": "英伟达称未采用“循环融资”模式 两大知名空头机构持反对意见",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538174.htm"
+            },
+            {
                 "title": "施耐德电气：数据中心太耗电导致美国电网扛不住，AI 竞赛可能输给中国",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-26",
@@ -133,24 +151,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-26",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1538150.htm"
-            },
-            {
-                "title": "世界之敌的敌人｜这个世界暂时不会好了，只能祈祷2026年能对我好一点",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2025-11-26",
-                "url": "https://chinadigitaltimes.net/chinese/722921.html"
-            },
-            {
-                "title": "超70亿独角兽“原地解散”，无人车赛道却将爆发？",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2025-11-26",
-                "url": "https://www.huxiu.com/article/4810062.html"
-            },
-            {
-                "title": "美国电吉他品牌「Fender」中国首开体验空间，营收增速已超两位数丨早期项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3548417282732163"
             },
             {
                 "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -191,5 +191,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-27T12:37:22.512968+00:00"
+    "last_updated": "2025-11-27T18:24:18.065942+00:00"
 }
