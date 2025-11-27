@@ -1,106 +1,112 @@
 {
-    "score": 6,
+    "score": 18,
     "total_indicators_possible": 10,
     "active_indicators_count": 2,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 2.2525405883789062,
-            "triggered_on": "2025-11-24"
+            "current_weight": 30,
+            "triggered_on": "2025-11-27"
         },
         "MIL-3": {
             "base_weight": 100,
-            "current_weight": 42.1875,
-            "triggered_on": "2025-11-26"
+            "current_weight": 100,
+            "triggered_on": "2025-11-27"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources consist of news articles related to technology, business, and aviation. None of them explicitly mention events related to the economic and financial warning indicators concerning Taiwan, war risk insurance, mass purchasing, or economic sanctions. Therefore, no warning indicators are triggered.",
-        "mil": "The provided information does not indicate any specific military logistics activities that would trigger the defined indicators. The news relates to routine military activities, such as the launch of a spacecraft and the issuance of reserve personnel certificates, with no indications of unusual mobilization or restrictions. No large-scale military exercises or unusual activity near Taiwan is reported. Therefore, no military logistics pre-warning indicators are triggered.",
-        "pol": "The provided information does not contain any explicit triggers for the defined warning indicators. The news articles focus on technology, business, and domestic events. The official sources include routine diplomatic activities, military announcements without aggressive tones, and space program updates. No 'last ultimatum' style language (POL-1), strong diplomatic statements (POL-2), or evacuation advisories (POL-3) are present.",
-        "local": "情报源显示防空警报测试为年度例行测试，社会秩序正常，未见异常。因此，未触发预警指标LOCAL-1。"
+        "econ": "The provided news snippets focus on general business and technology news within China. There is no indication of any events that trigger the economic and financial warning indicators related to Taiwan or international relations.",
+        "mil": "国防部和军网均发布了全军统一制发《中国人民解放军预备役人员证》的消息，表明正在进行预备役相关工作，符合大规模征召预备役的描述，触发MIL-3。",
+        "pol": "情报源显示，外交部举行例行记者会。虽然没有提供具体内容，但根据关键判断准则，外交部/国防部的声明，即使是例行记者会，如果使用了强硬词汇（如“严重后果”、“明确交代”），应视为触发POL-2。考虑到宁可误报不可漏报的原则，暂定触发POL-2。",
+        "local": "情报源显示，本周防空警报测试为年度例行测试，社会秩序正常，未见异常情况。因此，未触发预警指标 LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "助力 DDR5 内存量产：三星苏州工厂签订 191 亿韩元合同，采购 DI 老化测试设备",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-26",
-                "url": "https://www.ithome.com/0/900/263.htm"
-            },
-            {
-                "title": "特斯联半年报：营收增长77%，迈入空间智能时代",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3552360997141633"
-            },
-            {
-                "title": "8点1氪｜充电宝新规将落地，原3C认证将全面失效；上海地铁试点“站票车厢” ；超级猩猩客服回应“闭店潮”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3569142279224197"
-            },
-            {
-                "title": "奇特的无襟翼X-65菱形翼飞机组装完成",
+                "title": "消保委明确飞机“锁座”有偿选座违法 10家航空公司被约谈整改",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538000.htm"
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538056.htm"
             },
             {
-                "title": "市场调研机构：苹果今年有望重登全球最大手机厂商宝座",
+                "title": "特斯拉高管辟谣“供应链去中国化”：质量与成本才是核心考量",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537998.htm"
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538030.htm"
+            },
+            {
+                "title": "视觉中国又“栽”在版权上 利润远不及“黑洞事件”前",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538026.htm"
+            },
+            {
+                "title": "中国在“开放”AI模型市场首超美国 获关键优势",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538024.htm"
+            },
+            {
+                "title": "大模型“赶超”OpenAI、芯片威胁英伟达 Google为何能突然搅动AI战局？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538018.htm"
             }
         ],
         "mil": [
             {
+                "title": "视觉中国又“栽”在版权上 利润远不及“黑洞事件”前",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538026.htm"
+            },
+            {
+                "title": "外星人真实存在 美纪录片邀请资深官员揭密(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-26",
+                "url": "https://www.secretchina.com/news/gb/2025/11/26/1091201.html"
+            },
+            {
+                "title": "汽车装地暖能洗澡？ 智己：有人需要",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538004.htm"
+            },
+            {
+                "title": "西藏铁路建设公司注册资本增至364.78亿，增幅约113%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-26",
+                "url": "https://36kr.com/newsflashes/3569364115733634"
+            },
+            {
                 "title": "特斯联半年报：营收增长77%，迈入空间智能时代",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-26",
                 "url": "https://36kr.com/p/3552360997141633"
             },
             {
-                "title": "8点1氪｜充电宝新规将落地，原3C认证将全面失效；上海地铁试点“站票车厢” ；超级猩猩客服回应“闭店潮”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3569142279224197"
-            },
-            {
-                "title": "华为 Mate 80 系列 | X7 发布会一文汇总：麒麟 9030 / Pro 首曝、非凡大师首搭 eSIM 技术",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-25",
-                "url": "https://www.ithome.com/0/900/198.htm"
-            },
-            {
-                "title": "德语媒体：中国新航母的致命瑕疵",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-11-25",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%88%AA%E6%AF%8D%E7%9A%84%E8%87%B4%E5%91%BD%E7%91%95%E7%96%B5/a-74894216"
-            },
-            {
-                "title": "氪星晚报 ｜新加坡国家AI计划放弃Meta模型，转向阿里千问；《疯狂动物城2》预售票房突破3亿；阿里巴巴：2026财年第二财季电商客户管理收入同比增长10%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-25",
-                "url": "https://36kr.com/p/3568482022292609"
-            },
-            {
                 "title": "2025年11月25日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-25",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Lbk94aHRBVDZFUnFNcTd2NDVGbDhQYWU1a21QSnNENnBlSHpjNlRURmJWdVVBbVZjcm5iUnRBckFKcGl3ckhjeGZLaE11LXVUN2hDX05aUXQxeU0zRDZMeGdrbHoxZkV0a2FHS0dlN2dRMnotWkE?oc=5"
             },
             {
-                "title": "习近平会见汤加国王图普六世 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jbkE5ZjlwMkFlc2FRUVVLVWxHWXVseHZxSlhjbnA3SEJSd3NMQ3hfS0VsenlycGlhM2hRcmFkTFZhTFVSZG5TSnNnNlZqa2lZN3YteElEM2FIeFNyUEMxVDA3a2RuUEVtT1Jn?oc=5"
-            },
-            {
-                "title": "国家主席习近平任免驻外大使 - mfa.gov.cn",
+                "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jdnF0R1B0cjBzOVVIbFdOdm1xdlN3dUdDMXN0QUh6ekZYSl8tMEVKMzMzTGtxb3hpYVhsYmlNOXRITGF5TFZtU0Fydl9MQWJLRllPVkNEZWo2RXlKNTZ6cEUxWThpNGRPbVhj?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SS0ZETFJjbFhydWVOdXVLeGx5b0xXRk9WeHVnS1J4ckRNWGhteEtTZVJ5SktsRXpUQXZva29HWWkzWjNXY1haYVR3UWxMUlNvV1ZCdENXZ0k?oc=5"
+            },
+            {
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "全力以赴灭火 万众一心救灾——香港大埔火灾救援现场直击 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54bkRmeHZWTGJOOW1QVWplSDVJU1JDN25qbTBzVFRxM21mU1BHV1FiQWhBaEhndXNrNnpNTGxtQUdHaDJyZkd2RFU3dUhDY1lxSFE?oc=5"
             },
             {
                 "title": "震撼原声！多角度观看神舟二十二号飞船发射 - 中国军网",
@@ -113,44 +119,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLWhGUU44QmIyWHpmVmdpTExzODNSSFZvcW80cFlySWJ3YzRzd3NKUUtmQVBmMkxoWXRFaV9IS3BvVzRpdklXSGpMX1k0TzlyUEE?oc=5"
-            },
-            {
-                "title": "2025年11月25日解放军报第10版：法治军营 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDgxNDdSQXNBMHIwOExIYlJrcUtrMUpMU0VlOXNaaERQaHhFaHRpSFNoajRHdHhpekl0RjJreERBUnN0NUZEeThkYmhMTjU0QlUyUFVyTUlFX21LbWZQQ2VkaEx1TkN2eU16Nmt1dXlVa2JOUkFmajVYUDlTVnNqMVBYblBIdzN4NGVnLU5NWDhvSUJBQUtiNUhUTQ?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "科技昨夜今晨 1126：4699 元起华为 Mate 80 系列手机发布；“史上最严”充电宝安全标准曝光；国家安全部解析境外游戏三大安全隐患...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-26",
-                "url": "https://www.ithome.com/0/900/254.htm"
-            },
-            {
-                "title": "8点1氪｜充电宝新规将落地，原3C认证将全面失效；上海地铁试点“站票车厢” ；超级猩猩客服回应“闭店潮”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3569142279224197"
-            },
-            {
-                "title": "起火 Model 3 车门打不开：特斯拉致命事故再引诉讼，路人曾尝试用棒球棍击碎车窗未能成功",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-25",
-                "url": "https://www.ithome.com/0/900/244.htm"
-            },
-            {
-                "title": "华为 Mate 80 系列 | X7 发布会一文汇总：麒麟 9030 / Pro 首曝、非凡大师首搭 eSIM 技术",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-25",
-                "url": "https://www.ithome.com/0/900/198.htm"
-            },
-            {
-                "title": "日本重返芯片竞赛 押注2纳米工艺实现“王者归来”",
+                "title": "消保委明确飞机“锁座”有偿选座违法 10家航空公司被约谈整改",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1537968.htm"
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538056.htm"
+            },
+            {
+                "title": "特斯拉高管辟谣“供应链去中国化”：质量与成本才是核心考量",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538030.htm"
+            },
+            {
+                "title": "视觉中国又“栽”在版权上 利润远不及“黑洞事件”前",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538026.htm"
+            },
+            {
+                "title": "大模型“赶超”OpenAI、芯片威胁英伟达 Google为何能突然搅动AI战局？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538018.htm"
+            },
+            {
+                "title": "一个月蒸发8000亿美元，英伟达“市值神话”为何被谷歌击穿？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538012.htm"
             },
             {
                 "title": "2025年11月25日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -159,16 +159,22 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Lbk94aHRBVDZFUnFNcTd2NDVGbDhQYWU1a21QSnNENnBlSHpjNlRURmJWdVVBbVZjcm5iUnRBckFKcGl3ckhjeGZLaE11LXVUN2hDX05aUXQxeU0zRDZMeGdrbHoxZkV0a2FHS0dlN2dRMnotWkE?oc=5"
             },
             {
-                "title": "习近平会见汤加国王图普六世 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jbkE5ZjlwMkFlc2FRUVVLVWxHWXVseHZxSlhjbnA3SEJSd3NMQ3hfS0VsenlycGlhM2hRcmFkTFZhTFVSZG5TSnNnNlZqa2lZN3YteElEM2FIeFNyUEMxVDA3a2RuUEVtT1Jn?oc=5"
-            },
-            {
-                "title": "国家主席习近平任免驻外大使 - mfa.gov.cn",
+                "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jdnF0R1B0cjBzOVVIbFdOdm1xdlN3dUdDMXN0QUh6ekZYSl8tMEVKMzMzTGtxb3hpYVhsYmlNOXRITGF5TFZtU0Fydl9MQWJLRllPVkNEZWo2RXlKNTZ6cEUxWThpNGRPbVhj?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SS0ZETFJjbFhydWVOdXVLeGx5b0xXRk9WeHVnS1J4ckRNWGhteEtTZVJ5SktsRXpUQXZva29HWWkzWjNXY1haYVR3UWxMUlNvV1ZCdENXZ0k?oc=5"
+            },
+            {
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "全力以赴灭火 万众一心救灾——香港大埔火灾救援现场直击 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54bkRmeHZWTGJOOW1QVWplSDVJU1JDN25qbTBzVFRxM21mU1BHV1FiQWhBaEhndXNrNnpNTGxtQUdHaDJyZkd2RFU3dUhDY1lxSFE?oc=5"
             },
             {
                 "title": "震撼原声！多角度观看神舟二十二号飞船发射 - 中国军网",
@@ -181,15 +187,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLWhGUU44QmIyWHpmVmdpTExzODNSSFZvcW80cFlySWJ3YzRzd3NKUUtmQVBmMkxoWXRFaV9IS3BvVzRpdklXSGpMX1k0TzlyUEE?oc=5"
-            },
-            {
-                "title": "2025年11月25日解放军报第10版：法治军营 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDgxNDdSQXNBMHIwOExIYlJrcUtrMUpMU0VlOXNaaERQaHhFaHRpSFNoajRHdHhpekl0RjJreERBUnN0NUZEeThkYmhMTjU0QlUyUFVyTUlFX21LbWZQQ2VkaEx1TkN2eU16Nmt1dXlVa2JOUkFmajVYUDlTVnNqMVBYblBIdzN4NGVnLU5NWDhvSUJBQUtiNUhUTQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-27T01:18:23.020203+00:00"
+    "last_updated": "2025-11-27T06:28:05.828276+00:00"
 }
