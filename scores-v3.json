@@ -1,5 +1,5 @@
 {
-    "score": 18,
+    "score": 14,
     "total_indicators_possible": 10,
     "active_indicators_count": 2,
     "active_indicators": {
@@ -10,85 +10,85 @@
         },
         "MIL-3": {
             "base_weight": 100,
-            "current_weight": 100,
+            "current_weight": 75.0,
             "triggered_on": "2025-11-27"
         }
     },
     "category_reasoning": {
-        "econ": "The provided news snippets focus on general business and technology news within China. There is no indication of any events that trigger the economic and financial warning indicators related to Taiwan or international relations.",
-        "mil": "国防部和军网均发布了全军统一制发《中国人民解放军预备役人员证》的消息，表明正在进行预备役相关工作，符合大规模征召预备役的描述，触发MIL-3。",
-        "pol": "情报源显示，外交部举行例行记者会。虽然没有提供具体内容，但根据关键判断准则，外交部/国防部的声明，即使是例行记者会，如果使用了强硬词汇（如“严重后果”、“明确交代”），应视为触发POL-2。考虑到宁可误报不可漏报的原则，暂定触发POL-2。",
-        "local": "情报源显示，本周防空警报测试为年度例行测试，社会秩序正常，未见异常情况。因此，未触发预警指标 LOCAL-1。"
+        "econ": "The provided intelligence sources do not contain any information that triggers the economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, strategic resource hoarding, or economic sanctions against Taiwan.",
+        "mil": "The provided information mentions the issuance of 'People's Liberation Army Reserve Personnel Certificates' and a report about Hong Kong fire. There is no indication of increased military activity, mobilization, or maritime restrictions related to Taiwan. Therefore, none of the specified military logistics indicators (MIL-1, MIL-2, MIL-3) are triggered.",
+        "pol": "情报源中显示，外交部发言人主持例行记者会，虽然没有直接给出记者会内容，但根据关键判断准则，外交部/国防部发表声明，即使是例行记者会，也需要关注发言内容是否包含强硬词汇（如“严重后果”、“明确交代”），若包含则触发POL-2指标。同时，商务部表达了对贸易协议的严正关切，也应视为一种强硬表态。",
+        "local": "情报源表明防空警报测试为年度例行测试，且社会秩序正常，未触发大规模防空演习或人防工程启用等相关预警指标。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "消保委明确飞机“锁座”有偿选座违法 10家航空公司被约谈整改",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "施耐德电气：数据中心太耗电导致美国电网扛不住，AI 竞赛可能输给中国",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538056.htm"
+                "url": "https://www.ithome.com/0/900/490.htm"
             },
             {
-                "title": "特斯拉高管辟谣“供应链去中国化”：质量与成本才是核心考量",
+                "title": "中美欧销量滑坡、马斯克无心恋战 特斯拉汽车业务还有春天吗？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538030.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538150.htm"
             },
             {
-                "title": "视觉中国又“栽”在版权上 利润远不及“黑洞事件”前",
+                "title": "实探智驾独角兽毫末智行北京总部 员工：说是放假，实际回不来",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538026.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538148.htm"
             },
             {
-                "title": "中国在“开放”AI模型市场首超美国 获关键优势",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜星动纪元与联合国工业发展组织达成战略合作；阿里千问进入电脑桌面，覆盖超1亿用户；渠江特大桥主桥成功合龙，成达万高铁全线路基工程进度超98%",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538024.htm"
+                "url": "https://36kr.com/p/3569792504626311"
             },
             {
-                "title": "大模型“赶超”OpenAI、芯片威胁英伟达 Google为何能突然搅动AI战局？",
+                "title": "希捷HAMR原型设备实现每碟片6.9TB容量 可制造55TB硬盘",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538018.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538146.htm"
             }
         ],
         "mil": [
             {
-                "title": "视觉中国又“栽”在版权上 利润远不及“黑洞事件”前",
+                "title": "实探智驾独角兽毫末智行北京总部 员工：说是放假，实际回不来",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538026.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538148.htm"
             },
             {
-                "title": "外星人真实存在 美纪录片邀请资深官员揭密(图)",
+                "title": "亚马逊无人机送货时挂断网络线缆，美国联邦机构介入调查",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-26",
+                "url": "https://www.ithome.com/0/900/478.htm"
+            },
+            {
+                "title": "超70亿独角兽“原地解散”，无人车赛道却将爆发？",
+                "source": "NewsAPI / Huxiu.com",
+                "date": "2025-11-26",
+                "url": "https://www.huxiu.com/article/4810062.html"
+            },
+            {
+                "title": "美国电吉他品牌「Fender」中国首开体验空间，营收增速已超两位数丨早期项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-26",
+                "url": "https://36kr.com/p/3548417282732163"
+            },
+            {
+                "title": "川普施压奏效 习特通话后中国闪电采购20亿元美国大豆(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-11-26",
-                "url": "https://www.secretchina.com/news/gb/2025/11/26/1091201.html"
+                "url": "https://www.secretchina.com/news/gb/2025/11/26/1091203.html"
             },
             {
-                "title": "汽车装地暖能洗澡？ 智己：有人需要",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538004.htm"
-            },
-            {
-                "title": "西藏铁路建设公司注册资本增至364.78亿，增幅约113%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/newsflashes/3569364115733634"
-            },
-            {
-                "title": "特斯联半年报：营收增长77%，迈入空间智能时代",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3552360997141633"
-            },
-            {
-                "title": "2025年11月25日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Lbk94aHRBVDZFUnFNcTd2NDVGbDhQYWU1a21QSnNENnBlSHpjNlRURmJWdVVBbVZjcm5iUnRBckFKcGl3ckhjeGZLaE11LXVUN2hDX05aUXQxeU0zRDZMeGdrbHoxZkV0a2FHS0dlN2dRMnotWkE?oc=5"
+                "date": "2025-11-26",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtSm9DRElzeTR0enJqRzNRdTAzTURES3hEdm9jQ0JJQTRHLTBmbG5LVWo2bXFqbm1sbDY2X3pxNEhOaFZPN3FJYThDWUhmMDY2VEVCcWlLZERLRkhOM3kwcDl0WENBNTlKMzllVkdJVDQxLVhaX2c?oc=5"
             },
             {
                 "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中华人民共和国国防部",
@@ -109,54 +109,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54bkRmeHZWTGJOOW1QVWplSDVJU1JDN25qbTBzVFRxM21mU1BHV1FiQWhBaEhndXNrNnpNTGxtQUdHaDJyZkd2RFU3dUhDY1lxSFE?oc=5"
             },
             {
-                "title": "震撼原声！多角度观看神舟二十二号飞船发射 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIVFo3aVJsRnlUTFFGVnhDRmNsWXBmVXJ0bGcyMVlZYmJkYUdXb3BKX0h3QUxVQWl2dVM2YW9DR1FLVUhJd3E4Vw?oc=5"
-            },
-            {
                 "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLWhGUU44QmIyWHpmVmdpTExzODNSSFZvcW80cFlySWJ3YzRzd3NKUUtmQVBmMkxoWXRFaV9IS3BvVzRpdklXSGpMX1k0TzlyUEE?oc=5"
+            },
+            {
+                "title": "商务部：中方对“马美对等贸易协议”部分内容有严正关切 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-27",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVaEd3WlR0VUVxX0M4VVhXY1hENV84UUkxTjU5a25mUjFYaTFOcWVXSGJPR0NhNjNUc2VidkRjdW5ieFpfQVJTT1p3?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "消保委明确飞机“锁座”有偿选座违法 10家航空公司被约谈整改",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "施耐德电气：数据中心太耗电导致美国电网扛不住，AI 竞赛可能输给中国",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538056.htm"
+                "url": "https://www.ithome.com/0/900/490.htm"
             },
             {
-                "title": "特斯拉高管辟谣“供应链去中国化”：质量与成本才是核心考量",
+                "title": "中美欧销量滑坡、马斯克无心恋战 特斯拉汽车业务还有春天吗？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538030.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538150.htm"
             },
             {
-                "title": "视觉中国又“栽”在版权上 利润远不及“黑洞事件”前",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "世界之敌的敌人｜这个世界暂时不会好了，只能祈祷2026年能对我好一点",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538026.htm"
+                "url": "https://chinadigitaltimes.net/chinese/722921.html"
             },
             {
-                "title": "大模型“赶超”OpenAI、芯片威胁英伟达 Google为何能突然搅动AI战局？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "超70亿独角兽“原地解散”，无人车赛道却将爆发？",
+                "source": "NewsAPI / Huxiu.com",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538018.htm"
+                "url": "https://www.huxiu.com/article/4810062.html"
             },
             {
-                "title": "一个月蒸发8000亿美元，英伟达“市值神话”为何被谷歌击穿？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国电吉他品牌「Fender」中国首开体验空间，营收增速已超两位数丨早期项目",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538012.htm"
+                "url": "https://36kr.com/p/3548417282732163"
             },
             {
-                "title": "2025年11月25日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Lbk94aHRBVDZFUnFNcTd2NDVGbDhQYWU1a21QSnNENnBlSHpjNlRURmJWdVVBbVZjcm5iUnRBckFKcGl3ckhjeGZLaE11LXVUN2hDX05aUXQxeU0zRDZMeGdrbHoxZkV0a2FHS0dlN2dRMnotWkE?oc=5"
+                "date": "2025-11-26",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtSm9DRElzeTR0enJqRzNRdTAzTURES3hEdm9jQ0JJQTRHLTBmbG5LVWo2bXFqbm1sbDY2X3pxNEhOaFZPN3FJYThDWUhmMDY2VEVCcWlLZERLRkhOM3kwcDl0WENBNTlKMzllVkdJVDQxLVhaX2c?oc=5"
             },
             {
                 "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中华人民共和国国防部",
@@ -177,19 +177,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54bkRmeHZWTGJOOW1QVWplSDVJU1JDN25qbTBzVFRxM21mU1BHV1FiQWhBaEhndXNrNnpNTGxtQUdHaDJyZkd2RFU3dUhDY1lxSFE?oc=5"
             },
             {
-                "title": "震撼原声！多角度观看神舟二十二号飞船发射 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-25",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIVFo3aVJsRnlUTFFGVnhDRmNsWXBmVXJ0bGcyMVlZYmJkYUdXb3BKX0h3QUxVQWl2dVM2YW9DR1FLVUhJd3E4Vw?oc=5"
-            },
-            {
                 "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLWhGUU44QmIyWHpmVmdpTExzODNSSFZvcW80cFlySWJ3YzRzd3NKUUtmQVBmMkxoWXRFaV9IS3BvVzRpdklXSGpMX1k0TzlyUEE?oc=5"
+            },
+            {
+                "title": "商务部：中方对“马美对等贸易协议”部分内容有严正关切 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-27",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVaEd3WlR0VUVxX0M4VVhXY1hENV84UUkxTjU5a25mUjFYaTFOcWVXSGJPR0NhNjNUc2VidkRjdW5ieFpfQVJTT1p3?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-27T06:28:05.828276+00:00"
+    "last_updated": "2025-11-27T12:37:22.512968+00:00"
 }
