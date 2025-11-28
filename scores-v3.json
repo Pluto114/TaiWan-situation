@@ -1,59 +1,65 @@
 {
-    "score": 12,
+    "score": 18,
     "total_indicators_possible": 10,
     "active_indicators_count": 2,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
             "current_weight": 30,
-            "triggered_on": "2025-11-27"
+            "triggered_on": "2025-11-28"
         },
         "MIL-3": {
             "base_weight": 100,
-            "current_weight": 56.25,
-            "triggered_on": "2025-11-27"
+            "current_weight": 100,
+            "triggered_on": "2025-11-28"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources consist of general news articles and do not contain information related to the economic and financial warning indicators. Therefore, no indicators are triggered.",
-        "mil": "The provided information includes news about routine press conferences and updates on military documentation. There's no evidence of unusual military activity or warnings as outlined in the military logistics indicators.",
-        "pol": "情报源显示，外交部虽仅为例行记者会，但配合关键判断准则中“官方信源权重极高”的要求，需进一步分析记者会内容（虽然本轮无法直接获取），但配合商务部“中方对‘马美对等贸易协议’部分内容有严正关切”，可推测外交部可能存在强硬表态。国防部发布预备役人员证，虽不直接触发，但结合其他信息，可能暗示局势紧张。因此，初步判断触发POL-2（外交部/国防部发表强硬声明）。",
-        "local": "情报源显示厦门本周的防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1描述的大规模非例行演习或人防工程启用。"
+        "econ": "The provided intelligence sources do not contain information that triggers any of the specified economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling, or economic sanctions related to Taiwan.",
+        "mil": "国防部和军网同时发布“全军统一制发《中国人民解放军预备役人员证》”，可以解读为大规模征召预备役的准备工作，触发MIL-3指标。",
+        "pol": "情报源显示：商务部：中方对“马美对等贸易协议”部分内容有严正关切 (2025-11-27)。虽然是商务部，但“严正关切”属于外交/政治领域的强硬表态，符合POL-2的触发条件。",
+        "local": "情报源表明防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未发现触发预警指标LOCAL-1的情况。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "COP30矛盾重重，艰难前行",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-26",
-                "url": "https://www.ftchinese.com/story/001108303"
+                "title": "8点1氪｜香港火灾已致44人遇难；罗永浩喊话华杉公开道歉，无人应声；飞机锁座变相收费，10家航空公司被约谈",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-27",
+                "url": "https://36kr.com/p/3570555840674690"
             },
             {
-                "title": "计算只是中间产品",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-26",
-                "url": "https://www.ftchinese.com/story/001108304"
+                "title": "科技昨夜今晨 1127：高通第五代骁龙 8 处理器发布；10 家航司因锁座被约谈；苹果今年有望超三星成全球最大手机商...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-27",
+                "url": "https://www.ithome.com/0/900/533.htm"
             },
             {
-                "title": "谁在为德国的老龄化买单",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-26",
-                "url": "https://www.ftchinese.com/story/001108301"
+                "title": "提供CGT产品安全性评价服务，「唯可生物」获近亿元A轮融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-27",
+                "url": "https://36kr.com/p/3569589640805510"
             },
             {
-                "title": "以Web 3.0赋能香港金融业发展，巩固提升香港国际金融中心地位",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-26",
-                "url": "https://www.ftchinese.com/story/001108292"
-            },
-            {
-                "title": "索尼 α 新品发布会定档 12 月 2 日，有望推出 Alpha 7 V 全画幅无反相机",
+                "title": "苹果再遭诉讼，被指在 iPhone 17 等产品中使用“冲突矿产”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-26",
-                "url": "https://www.ithome.com/0/900/512.htm"
+                "url": "https://www.ithome.com/0/900/526.htm"
+            },
+            {
+                "title": "五角大楼承包商试图阻止军队获取装备维修权",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538196.htm"
             }
         ],
         "mil": [
+            {
+                "title": "法轮功群体是目前中国反共事业的主力军(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-26",
+                "url": "https://www.secretchina.com/news/gb/2025/11/27/1091231.html"
+            },
             {
                 "title": "德适生物宋宁：医学影像智能化的“气宗”修炼者",
                 "source": "NewsAPI / Ftchinese.com",
@@ -77,12 +83,6 @@
                 "source": "NewsAPI / Huxiu.com",
                 "date": "2025-11-26",
                 "url": "https://www.huxiu.com/article/4810062.html"
-            },
-            {
-                "title": "美国电吉他品牌「Fender」中国首开体验空间，营收增速已超两位数丨早期项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-26",
-                "url": "https://36kr.com/p/3548417282732163"
             },
             {
                 "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -123,34 +123,34 @@
         ],
         "pol": [
             {
-                "title": "COP30矛盾重重，艰难前行",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-26",
-                "url": "https://www.ftchinese.com/story/001108303"
-            },
-            {
-                "title": "德适生物宋宁：医学影像智能化的“气宗”修炼者",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-26",
-                "url": "https://www.ftchinese.com/story/001108305"
-            },
-            {
-                "title": "英伟达称未采用“循环融资”模式 两大知名空头机构持反对意见",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538174.htm"
-            },
-            {
-                "title": "施耐德电气：数据中心太耗电导致美国电网扛不住，AI 竞赛可能输给中国",
+                "title": "MAINGEAR 厂商发声：PC 装机“寒冬”要来，内存等硬件不仅贵还可能买不到",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-26",
-                "url": "https://www.ithome.com/0/900/490.htm"
+                "date": "2025-11-27",
+                "url": "https://www.ithome.com/0/900/539.htm"
             },
             {
-                "title": "中美欧销量滑坡、马斯克无心恋战 特斯拉汽车业务还有春天吗？",
+                "title": "8点1氪｜香港火灾已致44人遇难；罗永浩喊话华杉公开道歉，无人应声；飞机锁座变相收费，10家航空公司被约谈",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-27",
+                "url": "https://36kr.com/p/3570555840674690"
+            },
+            {
+                "title": "科技昨夜今晨 1127：高通第五代骁龙 8 处理器发布；10 家航司因锁座被约谈；苹果今年有望超三星成全球最大手机商...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-27",
+                "url": "https://www.ithome.com/0/900/533.htm"
+            },
+            {
+                "title": "提供CGT产品安全性评价服务，「唯可生物」获近亿元A轮融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-27",
+                "url": "https://36kr.com/p/3569589640805510"
+            },
+            {
+                "title": "五角大楼承包商试图阻止军队获取装备维修权",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538150.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538196.htm"
             },
             {
                 "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -191,5 +191,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-27T18:24:18.065942+00:00"
+    "last_updated": "2025-11-28T01:17:35.489519+00:00"
 }
