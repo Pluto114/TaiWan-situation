@@ -1,5 +1,5 @@
 {
-    "score": 18,
+    "score": 14,
     "total_indicators_possible": 10,
     "active_indicators_count": 2,
     "active_indicators": {
@@ -10,50 +10,74 @@
         },
         "MIL-3": {
             "base_weight": 100,
-            "current_weight": 100,
+            "current_weight": 75.0,
             "triggered_on": "2025-11-28"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that triggers any of the specified economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling, or economic sanctions related to Taiwan.",
-        "mil": "国防部和军网同时发布“全军统一制发《中国人民解放军预备役人员证》”，可以解读为大规模征召预备役的准备工作，触发MIL-3指标。",
-        "pol": "情报源显示：商务部：中方对“马美对等贸易协议”部分内容有严正关切 (2025-11-27)。虽然是商务部，但“严正关切”属于外交/政治领域的强硬表态，符合POL-2的触发条件。",
-        "local": "情报源表明防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未发现触发预警指标LOCAL-1的情况。"
+        "econ": "The provided intelligence sources do not contain any information related to the economic and financial warning indicators. The news articles focus on AI, technology, and financial performance of companies, but none mention topics like war insurance rates, unusual stockpiling, or economic sanctions against Taiwan.",
+        "mil": "情报源中未发现与军事后勤相关的明确预警指标。没有关于禁航通告、军事集结或征召预备役/民用运力的信息。",
+        "pol": "情报源中提到“商务部：中方对‘马美对等贸易协议’部分内容有严正关切 - 中国军网”，虽然是商务部，但使用了“严正关切”这种相对强硬的措辞，符合POL-2中外交部/国防部发表强硬声明的描述。虽然不如“严重后果”、“明确交代”等词语强烈，但属于需要关注的信号。",
+        "local": "情报源显示防空警报测试为年度例行测试，社会秩序正常，未见异常情况，因此未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "8点1氪｜香港火灾已致44人遇难；罗永浩喊话华杉公开道歉，无人应声；飞机锁座变相收费，10家航空公司被约谈",
+                "title": "世界首位AI部长“生下”83个孩子；一家只有人工没有智能的AI公司，融资超4.5亿美元 | AI离谱新闻大赏",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-27",
-                "url": "https://36kr.com/p/3570555840674690"
+                "url": "https://36kr.com/p/3570790165609606"
             },
             {
-                "title": "科技昨夜今晨 1127：高通第五代骁龙 8 处理器发布；10 家航司因锁座被约谈；苹果今年有望超三星成全球最大手机商...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-27",
-                "url": "https://www.ithome.com/0/900/533.htm"
-            },
-            {
-                "title": "提供CGT产品安全性评价服务，「唯可生物」获近亿元A轮融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-11-27",
-                "url": "https://36kr.com/p/3569589640805510"
-            },
-            {
-                "title": "苹果再遭诉讼，被指在 iPhone 17 等产品中使用“冲突矿产”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-26",
-                "url": "https://www.ithome.com/0/900/526.htm"
-            },
-            {
-                "title": "五角大楼承包商试图阻止军队获取装备维修权",
+                "title": "OpenAI预测：ChatGPT订阅用户5年后翻6倍、订阅累积收入达1.91万亿",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538196.htm"
+                "date": "2025-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538224.htm"
+            },
+            {
+                "title": "汇丰银行称 OpenAI 成数据中心最大“打工人”，2030 年前 AI 资金缺口预估 2070 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-27",
+                "url": "https://www.ithome.com/0/900/645.htm"
+            },
+            {
+                "title": "净亏112亿、广告收入跌19% 百度交出史上最差季度报",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538216.htm"
+            },
+            {
+                "title": "韩国成立工作组推进英伟达GPU部署工作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538212.htm"
             }
         ],
         "mil": [
+            {
+                "title": "世界首位AI部长“生下”83个孩子；一家只有人工没有智能的AI公司，融资超4.5亿美元 | AI离谱新闻大赏",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-27",
+                "url": "https://36kr.com/p/3570790165609606"
+            },
+            {
+                "title": "雷军一个月掉粉近70万 小米市值较高点蒸发超5500亿港元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538236.htm"
+            },
+            {
+                "title": "不到一万的机器人，你会买吗？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-27",
+                "url": "https://36kr.com/p/3570759177796743"
+            },
+            {
+                "title": "1000个AI王子围攻我：今年最阴间的Steam礼物",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-11-27",
+                "url": "https://36kr.com/p/3570747592342658"
+            },
             {
                 "title": "法轮功群体是目前中国反共事业的主力军(组图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -61,40 +85,10 @@
                 "url": "https://www.secretchina.com/news/gb/2025/11/27/1091231.html"
             },
             {
-                "title": "德适生物宋宁：医学影像智能化的“气宗”修炼者",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-11-26",
-                "url": "https://www.ftchinese.com/story/001108305"
-            },
-            {
-                "title": "实探智驾独角兽毫末智行北京总部 员工：说是放假，实际回不来",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538148.htm"
-            },
-            {
-                "title": "亚马逊无人机送货时挂断网络线缆，美国联邦机构介入调查",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-26",
-                "url": "https://www.ithome.com/0/900/478.htm"
-            },
-            {
-                "title": "超70亿独角兽“原地解散”，无人车赛道却将爆发？",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2025-11-26",
-                "url": "https://www.huxiu.com/article/4810062.html"
-            },
-            {
                 "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-11-26",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtSm9DRElzeTR0enJqRzNRdTAzTURES3hEdm9jQ0JJQTRHLTBmbG5LVWo2bXFqbm1sbDY2X3pxNEhOaFZPN3FJYThDWUhmMDY2VEVCcWlLZERLRkhOM3kwcDl0WENBNTlKMzllVkdJVDQxLVhaX2c?oc=5"
-            },
-            {
-                "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SS0ZETFJjbFhydWVOdXVLeGx5b0xXRk9WeHVnS1J4ckRNWGhteEtTZVJ5SktsRXpUQXZva29HWWkzWjNXY1haYVR3UWxMUlNvV1ZCdENXZ0k?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -103,54 +97,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
+                "title": "权威发布 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rS0FCUzNPbDNHdFVmdS1fbF9kSTdHZXpJVE5vR3E4Yk95dzRSTVZFWFlaUkFGVHptdXBGOWJMRWd5ZTZGbHdYY2d0WlhBN0E5cnB4ZA?oc=5"
+            },
+            {
                 "title": "全力以赴灭火 万众一心救灾——香港大埔火灾救援现场直击 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54bkRmeHZWTGJOOW1QVWplSDVJU1JDN25qbTBzVFRxM21mU1BHV1FiQWhBaEhndXNrNnpNTGxtQUdHaDJyZkd2RFU3dUhDY1lxSFE?oc=5"
             },
             {
-                "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLWhGUU44QmIyWHpmVmdpTExzODNSSFZvcW80cFlySWJ3YzRzd3NKUUtmQVBmMkxoWXRFaV9IS3BvVzRpdklXSGpMX1k0TzlyUEE?oc=5"
-            },
-            {
                 "title": "商务部：中方对“马美对等贸易协议”部分内容有严正关切 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-27",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVaEd3WlR0VUVxX0M4VVhXY1hENV84UUkxTjU5a25mUjFYaTFOcWVXSGJPR0NhNjNUc2VidkRjdW5ieFpfQVJTT1p3?oc=5"
+            },
+            {
+                "title": "高市政府谋求打造远程打击体系 日本过量囤积核材料暗藏“核武野心” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43NVRPdW4zRVM3M0R2bU5uZ1FuTjZPU3otN1N0eWg3SnlIU0hySzhOTnZvVk1oYW9KcVRtVHBfZzUtX1FqRnZ1ZzVCSHRPYm5qVEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "MAINGEAR 厂商发声：PC 装机“寒冬”要来，内存等硬件不仅贵还可能买不到",
+                "title": "汇丰银行：OpenAI 到 2030 年都难以盈利，同时还要再砸至少 2070 亿美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-27",
-                "url": "https://www.ithome.com/0/900/539.htm"
+                "url": "https://www.ithome.com/0/900/690.htm"
             },
             {
-                "title": "8点1氪｜香港火灾已致44人遇难；罗永浩喊话华杉公开道歉，无人应声；飞机锁座变相收费，10家航空公司被约谈",
+                "title": "我用AI生成流浪汉骗我爸，结果他摇来了特警",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-27",
-                "url": "https://36kr.com/p/3570555840674690"
+                "url": "https://36kr.com/p/3570926644067200"
             },
             {
-                "title": "科技昨夜今晨 1127：高通第五代骁龙 8 处理器发布；10 家航司因锁座被约谈；苹果今年有望超三星成全球最大手机商...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-27",
-                "url": "https://www.ithome.com/0/900/533.htm"
-            },
-            {
-                "title": "提供CGT产品安全性评价服务，「唯可生物」获近亿元A轮融资｜36氪首发",
+                "title": "世界首位AI部长“生下”83个孩子；一家只有人工没有智能的AI公司，融资超4.5亿美元 | AI离谱新闻大赏",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-11-27",
-                "url": "https://36kr.com/p/3569589640805510"
+                "url": "https://36kr.com/p/3570790165609606"
             },
             {
-                "title": "五角大楼承包商试图阻止军队获取装备维修权",
+                "title": "施耐德电气警告美国电力短缺或拖累AI竞赛 恐落后中国",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538196.htm"
+                "date": "2025-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538238.htm"
+            },
+            {
+                "title": "雷军一个月掉粉近70万 小米市值较高点蒸发超5500亿港元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538236.htm"
             },
             {
                 "title": "2025年11月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -159,16 +159,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtSm9DRElzeTR0enJqRzNRdTAzTURES3hEdm9jQ0JJQTRHLTBmbG5LVWo2bXFqbm1sbDY2X3pxNEhOaFZPN3FJYThDWUhmMDY2VEVCcWlLZERLRkhOM3kwcDl0WENBNTlKMzllVkdJVDQxLVhaX2c?oc=5"
             },
             {
-                "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SS0ZETFJjbFhydWVOdXVLeGx5b0xXRk9WeHVnS1J4ckRNWGhteEtTZVJ5SktsRXpUQXZva29HWWkzWjNXY1haYVR3UWxMUlNvV1ZCdENXZ0k?oc=5"
-            },
-            {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "权威发布 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rS0FCUzNPbDNHdFVmdS1fbF9kSTdHZXpJVE5vR3E4Yk95dzRSTVZFWFlaUkFGVHptdXBGOWJMRWd5ZTZGbHdYY2d0WlhBN0E5cnB4ZA?oc=5"
             },
             {
                 "title": "全力以赴灭火 万众一心救灾——香港大埔火灾救援现场直击 - 中国军网",
@@ -177,19 +177,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54bkRmeHZWTGJOOW1QVWplSDVJU1JDN25qbTBzVFRxM21mU1BHV1FiQWhBaEhndXNrNnpNTGxtQUdHaDJyZkd2RFU3dUhDY1lxSFE?oc=5"
             },
             {
-                "title": "经中央军委批准 全军统一制发《中国人民解放军预备役人员证》 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLWhGUU44QmIyWHpmVmdpTExzODNSSFZvcW80cFlySWJ3YzRzd3NKUUtmQVBmMkxoWXRFaV9IS3BvVzRpdklXSGpMX1k0TzlyUEE?oc=5"
-            },
-            {
                 "title": "商务部：中方对“马美对等贸易协议”部分内容有严正关切 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-11-27",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVaEd3WlR0VUVxX0M4VVhXY1hENV84UUkxTjU5a25mUjFYaTFOcWVXSGJPR0NhNjNUc2VidkRjdW5ieFpfQVJTT1p3?oc=5"
+            },
+            {
+                "title": "高市政府谋求打造远程打击体系 日本过量囤积核材料暗藏“核武野心” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-11-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43NVRPdW4zRVM3M0R2bU5uZ1FuTjZPU3otN1N0eWg3SnlIU0hySzhOTnZvVk1oYW9KcVRtVHBfZzUtX1FqRnZ1ZzVCSHRPYm5qVEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-11-28T01:17:35.489519+00:00"
+    "last_updated": "2025-11-28T06:27:59.236735+00:00"
 }
