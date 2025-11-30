@@ -1,27 +1,39 @@
 {
-    "score": 2,
+    "score": 1,
     "total_indicators_possible": 10,
     "active_indicators_count": 2,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 4.0045166015625,
+            "current_weight": 3.003387451171875,
             "triggered_on": "2025-11-28"
         },
         "MIL-3": {
             "base_weight": 100,
-            "current_weight": 10.01129150390625,
+            "current_weight": 7.5084686279296875,
             "triggered_on": "2025-11-28"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that explicitly triggers any of the listed economic and financial warning indicators. There is no mention of insurance rate hikes, shipping disruptions, unusual stockpiling, or economic sanctions related to Taiwan.",
-        "mil": "情报源中未发现与军事后勤相关的明确预警指标。没有关于禁航通告、兵力集结、预备役征召等信息的直接证据。",
-        "pol": "情报源中未发现明确触发预警指标的信息。虽然有外交部和国防部的消息，但内容是例行活动和一般性新闻，没有强硬声明或最后通牒式的表述。未发现撤侨或旅行警告。",
-        "local": "情报源显示厦门本周防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发大规模防空、疏散演习或人防工程启用的预警指标。"
+        "econ": "The provided intelligence sources do not contain any information related to the defined economic and financial warning indicators. The news snippets primarily discuss technology-related updates, such as Samsung phones, AI applications, and changes in e-commerce policies. Therefore, no triggers are identified.",
+        "mil": "The provided information contains routine news reports and diplomatic activities, with no indications of military mobilization, unusual naval activity, or large-scale resource requisitioning. Therefore, none of the MIL-1, MIL-2, or MIL-3 triggers are activated.",
+        "pol": "根据提供的情报源，未发现任何明确触发预警指标的信息。虽然提及了外交部，但仅仅是王毅将赴俄罗斯举行中俄第二十轮战略安全磋商，属于正常外交活动，不构成强硬声明或外交关系降级。其他信息源也未提及任何与预警指标相关的内容。",
+        "local": "情报源显示是年度例行防空警报测试，且社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
+            {
+                "title": "消息称三星 Galaxy S Ultra 旗舰手机主摄“硬件停滞”，至 S29U 恐无实质改进",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-29",
+                "url": "https://www.ithome.com/0/901/168.htm"
+            },
+            {
+                "title": "三星最贵手机：Galaxy Z Trifold 三折叠被曝下月发布，5600mAh 电池",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-29",
+                "url": "https://www.ithome.com/0/901/162.htm"
+            },
             {
                 "title": "9点1氪｜北京快递外卖用车将发放专用号牌；雷军称所有产业都值得用AI再做一遍；淘宝闪购骑手超时扣款将全面取消",
                 "source": "NewsAPI / 36kr.com",
@@ -39,18 +51,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-11-29",
                 "url": "https://www.ithome.com/0/901/147.htm"
-            },
-            {
-                "title": "美国制造：英特尔或将于2027年采用18A-P节点生产苹果M系列芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538496.htm"
-            },
-            {
-                "title": "别再骂苹果三星挤牙膏了 电池小真不是技术不行……",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538492.htm"
             }
         ],
         "mil": [
@@ -191,5 +191,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-11-30T01:28:31.316861+00:00"
+    "last_updated": "2025-11-30T06:26:16.837607+00:00"
 }
