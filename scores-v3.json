@@ -5,50 +5,62 @@
     "active_indicators": {
         "MIL-3": {
             "base_weight": 100,
-            "current_weight": 1.3363461010158062,
+            "current_weight": 1.0022595757618546,
             "triggered_on": "2025-11-28"
         }
     },
     "category_reasoning": {
-        "econ": "根据提供的情报源，没有明确的信息表明触发了任何经济金融预警指标。情报源主要是一些科技新闻和商业信息，没有关于保险费率、物资抢购或经济制裁等相关内容。",
-        "mil": "The provided information does not contain any explicit triggers for the listed military logistics warning indicators. There is no mention of NOTAMs, military build-up, or mobilization of reserves or resources.",
-        "pol": "The provided information contains routine announcements from the Ministry of Foreign Affairs and the People's Liberation Army, such as a press conference, an upcoming visit, routine military postings, and recruitment notices. There are no explicit strong warnings, ultimatums, or signs of war mobilization. Therefore, none of the provided political opinion indicators have been triggered.",
-        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources consist of general news articles related to technology, business, and AI. There is no indication of economic or financial pre-warning indicators being triggered based on the information provided.",
+        "mil": "The provided information does not explicitly trigger any of the listed military logistics warning indicators. There is no mention of large-scale naval exercises, troop movements, or mobilization of reserves.",
+        "pol": "根据提供的情报源，未发现明确触发预警指标的信息。虽然有外交部例行记者会，但没有具体内容显示使用了强硬措辞。解放军报/军网的信息主要关于内部建设和招考，没有涉及战争动员或最后通牒。国际与商业媒体的信息也未显示相关预警触发。",
+        "local": "情报源显示厦门防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
+            {
+                "title": "研究：超四成美国驾驶员用 AI 选车险",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-01",
+                "url": "https://www.ithome.com/0/901/441.htm"
+            },
+            {
+                "title": "商业不动产REITs试点启动，高质量扩容可期",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-01",
+                "url": "https://36kr.com/newsflashes/3576210651609993"
+            },
+            {
+                "title": "科技昨夜今晨 1201：华为官网详解“5A”先进通信技术；苹果 A20 系列芯片前瞻；《疯狂动物城 2》超第一部成中国影史进口动画票房冠军...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-30",
+                "url": "https://www.ithome.com/0/901/434.htm"
+            },
+            {
+                "title": "80后“粉红”小老板的转变 用脚投票投奔自由(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-11-30",
+                "url": "https://www.secretchina.com/news/gb/2025/12/01/1091005.html"
+            },
             {
                 "title": "忽视了数学这一环，AI将无法尽其用",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-11-30",
                 "url": "https://www.ftchinese.com/story/001108319"
-            },
-            {
-                "title": "全球首个具身智能本科专业：上海交大公告，联合华为培养，李飞飞高徒带队",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-30",
-                "url": "https://www.ithome.com/0/901/381.htm"
-            },
-            {
-                "title": "美光斥资96亿美元在日建厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538608.htm"
-            },
-            {
-                "title": "Google逆袭 OpenAI面临ChatGPT推出以来最大压力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538606.htm"
-            },
-            {
-                "title": "0.5 克重可承载 200 公斤载荷，高性能碳纤维项目在大同竣工投产",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-30",
-                "url": "https://www.ithome.com/0/901/362.htm"
             }
         ],
         "mil": [
+            {
+                "title": "科技昨夜今晨 1201：华为官网详解“5A”先进通信技术；苹果 A20 系列芯片前瞻；《疯狂动物城 2》超第一部成中国影史进口动画票房冠军...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-11-30",
+                "url": "https://www.ithome.com/0/901/434.htm"
+            },
+            {
+                "title": "每日一语 2025.11.29",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2025-11-30",
+                "url": "https://chinadigitaltimes.net/chinese/723046.html"
+            },
             {
                 "title": "英国“龙火”激光武器成功击落高速飞行的无人机",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -66,18 +78,6 @@
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2025-11-30",
                 "url": "https://chinadigitaltimes.net/chinese/723013.html"
-            },
-            {
-                "title": "【CDTV】1989年徐勤先违抗戒严命令案庭审实录（完整文字版 一）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2025-11-30",
-                "url": "https://chinadigitaltimes.net/chinese/723008.html"
-            },
-            {
-                "title": "迪士尼《疯狂动物城 2》票房超第一部，成为中国影史进口动画票房冠军",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-30",
-                "url": "https://www.ithome.com/0/901/312.htm"
             },
             {
                 "title": "法国总统马克龙将访华 - mfa.gov.cn",
@@ -118,6 +118,24 @@
         ],
         "pol": [
             {
+                "title": "节省开支，英国评估出售海外使馆房产",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-01",
+                "url": "https://36kr.com/newsflashes/3576279791008644"
+            },
+            {
+                "title": "研究：超四成美国驾驶员用 AI 选车险",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-01",
+                "url": "https://www.ithome.com/0/901/441.htm"
+            },
+            {
+                "title": "【CDTV】1989年徐勤先违抗戒严命令案庭审实录（完整文字版 六）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2025-11-30",
+                "url": "https://chinadigitaltimes.net/chinese/723027.html"
+            },
+            {
                 "title": "【立此存照】驻港国家安全公署｜坚定支持香港特区依法严惩反中乱港分子“以灾乱港”行径",
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2025-11-30",
@@ -128,24 +146,6 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2025-11-30",
                 "url": "https://www.dw.com/zh/%E6%B5%B7%E8%B4%BC%E7%8E%8B%E6%AD%8C%E6%89%8B%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%87%BA%E7%AA%81%E9%81%AD%E4%B8%AD%E6%96%AD-%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%9A%B4%E6%B3%A2%E5%8F%8A%E6%96%87%E5%8C%96%E5%9C%88/a-74958210"
-            },
-            {
-                "title": "首次打破35岁门槛 2026年国考今日开考",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538634.htm"
-            },
-            {
-                "title": "全球首个具身智能本科专业：上海交大公告，联合华为培养，李飞飞高徒带队",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-11-30",
-                "url": "https://www.ithome.com/0/901/381.htm"
-            },
-            {
-                "title": "美光斥资96亿美元在日建厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-11-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538608.htm"
             },
             {
                 "title": "法国总统马克龙将访华 - mfa.gov.cn",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-01T18:29:27.299161+00:00"
+    "last_updated": "2025-12-02T01:21:04.731827+00:00"
 }
