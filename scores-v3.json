@@ -1,51 +1,51 @@
 {
-    "score": 4,
+    "score": 3,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 30,
+            "current_weight": 22.5,
             "triggered_on": "2025-12-02"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that clearly triggers any of the specified economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, strategic material stockpiling, or economic sanctions against Taiwan.",
-        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the defined military logistics warning indicators. There is no mention of NOTAMs surrounding Taiwan, troop movements in Fujian, or mobilization of reserves or civilian resources.",
-        "pol": "中国海警驱逐非法进入中国钓鱼岛领海的日本船只，属于外交部/国防部发表强硬声明，触发POL-2。",
-        "local": "情报源显示防空警报测试为年度例行测试，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources do not explicitly trigger any of the economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, strategic material stockpiling, or economic sanctions against Taiwan.",
+        "mil": "The provided information contains news articles and routine official statements. There's no mention of military mobilization, naval exercises, or unusual activity that would trigger any of the specified military logistics indicators. Therefore, no预警指标 are triggered.",
+        "pol": "The provided information from official sources primarily consists of routine announcements (e.g., a presidential visit, a routine press conference, standard military articles) and a report on expelling a Japanese vessel. While the expulsion incident indicates territorial assertion, the language used doesn't escalate to the level of 'hardline statements' or 'serious consequences' as described in the alert criteria. There are no explicit threats, ultimatums, or indications of war mobilization. Therefore, no alerts are triggered.",
+        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "ChatGPT 三年前问世 人工智能革命由此开启",
+                "title": "IPv4地址稀缺引发非洲互联网地址空间控制权之争",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538812.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538864.htm"
             },
             {
-                "title": "孙正义首次回应清空英伟达股票：含泪卖的，为了筹钱投资OpenAI",
+                "title": "12月风险规避情绪开启 比特币跌破8.5万美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538810.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538850.htm"
             },
             {
-                "title": "孙正义首次回应清空英伟达股票：含泪卖的 为了筹钱投资OpenAI",
+                "title": "邬贺铨院士：我国 5G 专利费净支出全球最高",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-01",
+                "url": "https://www.ithome.com/0/901/718.htm"
+            },
+            {
+                "title": "德语媒体：中国经济仍深陷危机",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-01",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%B7%B1%E9%99%B7%E5%8D%B1%E6%9C%BA/a-74970617"
+            },
+            {
+                "title": "安世半导体与闻泰风波不断 引发全球芯片供应中断新担忧",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538808.htm"
-            },
-            {
-                "title": "氪星晚报｜亚马逊和谷歌联手打通高速云链路；我国快递年业务量首次突破1800亿件；中国长安汽车集团入股辰致汽车集团，后者多位高管发生变更",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-01",
-                "url": "https://36kr.com/p/3576847593601927"
-            },
-            {
-                "title": "【CDT报告汇】寒冬：北京之手伸向境外，哈萨克斯坦拘押“新疆证人”（外二篇）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2025-12-01",
-                "url": "https://chinadigitaltimes.net/chinese/723012.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538844.htm"
             }
         ],
         "mil": [
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "特斯拉销售罕见亮点：挪威销量提前一个月打破大众全年纪录",
+                "title": "IPv4地址稀缺引发非洲互联网地址空间控制权之争",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538814.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538864.htm"
             },
             {
-                "title": "氪星晚报｜亚马逊和谷歌联手打通高速云链路；我国快递年业务量首次突破1800亿件；中国长安汽车集团入股辰致汽车集团，后者多位高管发生变更",
-                "source": "NewsAPI / 36kr.com",
+                "title": "“大空头”再度开火 称特斯拉市值被“荒谬地高估”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-01",
-                "url": "https://36kr.com/p/3576847593601927"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538860.htm"
             },
             {
-                "title": "硬核突围-中国硬件的全球时刻与未来想象 | 36氪 WISE2025 商业之王大会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "12月风险规避情绪开启 比特币跌破8.5万美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-01",
-                "url": "https://36kr.com/p/3576833023474825"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1538850.htm"
             },
             {
-                "title": "寻找“ChatGPT时刻”：谁能定义具身智能？| 36氪 WISE2025 商业之王大会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "邬贺铨院士：我国 5G 专利费净支出全球最高",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-01",
-                "url": "https://36kr.com/p/3576864061324168"
+                "url": "https://www.ithome.com/0/901/718.htm"
             },
             {
-                "title": "ポケットに手の劉局長「日系企業は中国で安心して事業活動をしてほしい」",
-                "source": "NewsAPI / Itainews.com",
+                "title": "德语媒体：中国经济仍深陷危机",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-01",
-                "url": "https://itainews.com/archives/2055883.html"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%B7%B1%E9%99%B7%E5%8D%B1%E6%9C%BA/a-74970617"
             },
             {
                 "title": "法国总统马克龙将访华 - mfa.gov.cn",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-02T12:38:37.005383+00:00"
+    "last_updated": "2025-12-02T18:29:12.663879+00:00"
 }
