@@ -1,83 +1,83 @@
 {
-    "score": 4,
+    "score": 3,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 30,
+            "current_weight": 22.5,
             "triggered_on": "2025-12-03"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources contain general news headlines and do not explicitly trigger any of the specified economic/financial warning indicators. There is no mention of insurance rate hikes, mass purchasing, strategic resource hoarding, or economic sanctions related to Taiwan.",
-        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the military logistics warning indicators (MIL-1, MIL-2, MIL-3). There is no mention of NOTAMs, troop/ship/missile movements, or mobilization of reserves/resources.",
-        "pol": "情报源中，中国海警驱逐进入钓鱼岛水域的日本船只，属于外交部/国防部发表强硬声明，触发POL-2。",
-        "local": "情报源显示防空警报为年度例行测试，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources do not contain any information that clearly triggers any of the economic and financial warning indicators. There is no mention of increased war insurance rates, large-scale panic buying, strategic material stockpiling, or economic sanctions against Taiwan.",
+        "mil": "The provided information does not contain any explicit triggers for the defined military logistics warning indicators. There is no mention of NOTAMs包围台湾 (MIL-1), troop movements in Fujian (MIL-2), or mobilization of reserves/civilian resources (MIL-3). The news articles and official statements are unrelated to these specific indicators.",
+        "pol": "根据提供的情报源，未发现中国官方使用“悬崖勒马”、“勿谓言之不预”等最后通牒式语言或进行战争动员的表述，也未发现外交部/国防部发表带有“严重后果”、“明确交代”等字眼的强硬声明。同时，情报中没有关于美/日/欧撤离外交人员或发布最高级别撤侨/旅行警告的信息。因此，未明确触发任何预警指标。",
+        "local": "情报源表明本周防空警报测试为年度例行测试，物资供应充足，社会秩序正常，因此未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "三星沉寂近十年后：曝李在镕欲借并购实现 AI 突围，争夺技术优势",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-02",
-                "url": "https://www.ithome.com/0/901/958.htm"
-            },
-            {
-                "title": "《疯狂动物城2》背后的商业帝国",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2025-12-02",
-                "url": "https://www.huxiu.com/article/4812619.html"
-            },
-            {
-                "title": "马克龙访华：“他不能再像2023年那样冒险”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-02",
-                "url": "https://www.dw.com/zh/%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%8D%8E%E4%BB%96%E4%B8%8D%E8%83%BD%E5%86%8D%E5%83%8F2023%E5%B9%B4%E9%82%A3%E6%A0%B7%E5%86%92%E9%99%A9/a-74983156"
-            },
-            {
-                "title": "“我的伴侣有一半印度血统” 马斯克畅谈女友的印度渊源",
+                "title": "英特尔14A制程试产获早期客户积极反馈",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539042.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539074.htm"
             },
             {
-                "title": "经合组织上调2025年中国经济增长至5%",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特朗普政府将“国家可再生能源实验室”名称中的“可再生”一词移除",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-02",
-                "url": "https://36kr.com/newsflashes/3578257124064134"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539054.htm"
+            },
+            {
+                "title": "5万吨“中国牛”订单，怎么阻止亚马孙毁林？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-02",
+                "url": "https://www.ftchinese.com/story/001108330"
+            },
+            {
+                "title": "美国政府改革的新动作——“拆解教育部”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-02",
+                "url": "https://www.ftchinese.com/story/001108331"
+            },
+            {
+                "title": "德国人：美国有了特朗普，中国不再显得那么具威胁性了",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-02",
+                "url": "https://www.ftchinese.com/story/001108326"
             }
         ],
         "mil": [
             {
+                "title": "24次兵推共军22惨败 为何北京忌惮“台湾有事”？揭开美日同盟的致胜密码(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-02",
+                "url": "https://www.secretchina.com/news/gb/2025/12/03/1091482.html"
+            },
+            {
+                "title": "美国政府改革的新动作——“拆解教育部”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-02",
+                "url": "https://www.ftchinese.com/story/001108331"
+            },
+            {
+                "title": "胡润：中国目前最适合年轻人创业",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-02",
+                "url": "https://www.ftchinese.com/story/001108333"
+            },
+            {
+                "title": "吉利系 AI 终端进展曝光：首月速成 200 人团队，挖遍华为小米荣耀",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-02",
+                "url": "https://www.ithome.com/0/901/987.htm"
+            },
+            {
                 "title": "《疯狂动物城2》背后的商业帝国",
                 "source": "NewsAPI / Huxiu.com",
                 "date": "2025-12-02",
                 "url": "https://www.huxiu.com/article/4812619.html"
-            },
-            {
-                "title": "24次兵推共军22惨败 为何北京忌惮“台湾有事”？揭开美日同盟的致胜密码(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-02",
-                "url": "https://www.secretchina.com/news/gb/2025/12/02/1091482.html"
-            },
-            {
-                "title": "华大集团CEO尹烨：科技赋能健康的本质，是为生命找到对抗衰老的“逃逸券”| WISE2025商业之王大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-02",
-                "url": "https://36kr.com/p/3576552670051457"
-            },
-            {
-                "title": "AI重新定义“我” 与AI交融后，每个人都能成为科学家| 36氪 WISE2025 商业之王大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-02",
-                "url": "https://36kr.com/p/3576847572335745"
-            },
-            {
-                "title": "新国标落地 电动自行车普遍涨到2000+ 旧标车仍可“带牌过户”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1538942.htm"
             },
             {
                 "title": "中俄举行战略安全磋商 - mfa.gov.cn",
@@ -86,16 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KSnBEVkVkRjl2RXY3SWc1S0pFdFN2cS0tZ0xXME5Lbk9XYzdWeGVXSjA0amE3enMyOGtZdG9hdWRpZXNiVzRrT3RJZHBrdkZMUWtFVU5zS3NQYUxpVTRtcVZ3MmI2bVBDQ2dF?oc=5"
             },
             {
+                "title": "2025年12月3日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQnJCNnZVbm0tNGNHR0FtOFBwVzNXNXp6NU1NRllQQUNQRmdhR1NqakxzeUJBMm5jWndUdmFPSjdjd21PS1JldnRaRnNVM0x3LTJYVmlxN0RNSFhEaEVLekFYRmtpcFpUbkphSVVUeDFrR25sR1E?oc=5"
+            },
+            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "驻外报道 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
                 "title": "新兵的“成人礼” - 中国军网",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "三星沉寂近十年后：曝李在镕欲借并购实现 AI 突围，争夺技术优势",
-                "source": "NewsAPI / Ithome.com",
+                "title": "东北风暴袭美东 多州警报 专家警告房屋损害风险(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-02",
-                "url": "https://www.ithome.com/0/901/958.htm"
-            },
-            {
-                "title": "《疯狂动物城2》背后的商业帝国",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2025-12-02",
-                "url": "https://www.huxiu.com/article/4812619.html"
-            },
-            {
-                "title": "马克龙访华：“他不能再像2023年那样冒险”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-02",
-                "url": "https://www.dw.com/zh/%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%8D%8E%E4%BB%96%E4%B8%8D%E8%83%BD%E5%86%8D%E5%83%8F2023%E5%B9%B4%E9%82%A3%E6%A0%B7%E5%86%92%E9%99%A9/a-74983156"
+                "url": "https://www.secretchina.com/news/gb/2025/12/03/1091502.html"
             },
             {
                 "title": "24次兵推共军22惨败 为何北京忌惮“台湾有事”？揭开美日同盟的致胜密码(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-02",
-                "url": "https://www.secretchina.com/news/gb/2025/12/02/1091482.html"
+                "url": "https://www.secretchina.com/news/gb/2025/12/03/1091482.html"
             },
             {
-                "title": "重庆哨兵回应 WeTab、Infinity 扩展后门事件：Clean Master 恶意更新非原团队所为",
-                "source": "NewsAPI / Ithome.com",
+                "title": "5万吨“中国牛”订单，怎么阻止亚马孙毁林？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-02",
-                "url": "https://www.ithome.com/0/901/944.htm"
+                "url": "https://www.ftchinese.com/story/001108330"
+            },
+            {
+                "title": "美国政府改革的新动作——“拆解教育部”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-02",
+                "url": "https://www.ftchinese.com/story/001108331"
+            },
+            {
+                "title": "德国人：美国有了特朗普，中国不再显得那么具威胁性了",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-02",
+                "url": "https://www.ftchinese.com/story/001108326"
             },
             {
                 "title": "中俄举行战略安全磋商 - mfa.gov.cn",
@@ -154,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KSnBEVkVkRjl2RXY3SWc1S0pFdFN2cS0tZ0xXME5Lbk9XYzdWeGVXSjA0amE3enMyOGtZdG9hdWRpZXNiVzRrT3RJZHBrdkZMUWtFVU5zS3NQYUxpVTRtcVZ3MmI2bVBDQ2dF?oc=5"
             },
             {
+                "title": "2025年12月3日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQnJCNnZVbm0tNGNHR0FtOFBwVzNXNXp6NU1NRllQQUNQRmdhR1NqakxzeUJBMm5jWndUdmFPSjdjd21PS1JldnRaRnNVM0x3LTJYVmlxN0RNSFhEaEVLekFYRmtpcFpUbkphSVVUeDFrR25sR1E?oc=5"
+            },
+            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "驻外报道 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
                 "title": "新兵的“成人礼” - 中国军网",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-03T12:38:31.006881+00:00"
+    "last_updated": "2025-12-03T18:28:50.132902+00:00"
 }
