@@ -5,85 +5,79 @@
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 9.4921875,
+            "current_weight": 7.119140625,
             "triggered_on": "2025-12-03"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that clearly triggers any of the listed economic and financial warning indicators. The news articles primarily focus on business and technology developments, such as company expansions, sales figures, and personnel changes. There's no mention of increased war insurance rates, panic buying, strategic material stockpiling, or economic sanctions related to Taiwan.",
-        "mil": "The provided information does not trigger any of the specified military logistics warning indicators. There is no mention of NOTAMs, military buildup, or mobilization of reserves or resources.",
-        "pol": "The provided intelligence sources do not contain information that triggers any of the specified warning indicators. There are no instances of \"悬崖勒马\", \"勿谓言之不预\", war mobilization (POL-1), strong diplomatic statements (POL-2), or evacuation warnings (POL-3).",
-        "local": "情报源显示防空警报测试为年度例行测试，超市物资供应充足，未见抢购，社会秩序正常。因此，未触发预警指标 LOCAL-1。"
+        "econ": "根据提供的情报源，没有明确的信息表明触发了任何经济金融预警指标。情报源主要包含一般新闻报道，如技术发展、商业动态和国际关系分析，缺乏与预警指标相关的具体事件或行动。",
+        "mil": "The provided intelligence sources consist primarily of news headlines and official statements related to international diplomacy and domestic affairs. There is no indication of any military mobilization, naval exercises, or restrictions, or large-scale resource mobilization that would trigger any of the military logistics indicators.",
+        "pol": "The provided intelligence sources do not contain information that triggers any of the specified warning indicators. There are no indications of official ultimatums, war mobilization, strong statements from the Foreign Ministry/Defense Ministry, diplomatic downgrades, or evacuation of diplomatic personnel.",
+        "local": "情报源显示是年度例行防空警报测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "氪星晚报｜富士康子公司计划扩大在越南的生产规模；币安任命何一为联席首席执行官；爱马仕继承人起诉LVMH集团",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国魔术师手掌植入芯片 但他忘记了密码",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-03",
-                "url": "https://36kr.com/p/3579649940503682"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539332.htm"
             },
             {
-                "title": "比亚迪 11 月首次跻身韩国汽车月销量前五名，超越雷克萨斯、丰田、大众",
-                "source": "NewsAPI / Ithome.com",
+                "title": "国产飞机里程碑 C909载客突破3000万人次",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-03",
-                "url": "https://www.ithome.com/0/902/221.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539330.htm"
             },
             {
-                "title": "OpenAI 首席研究员 Mark Chen 长访谈：小扎亲手端汤来公司挖人，气得我们端着汤去了 Meta",
-                "source": "NewsAPI / Ithome.com",
+                "title": "NVIDIA无惧内存缺货 黄仁勋称供应充足",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-03",
-                "url": "https://www.ithome.com/0/902/199.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539312.htm"
             },
             {
-                "title": "高鹄资本金涛、新石器无人车赵优巅峰对谈：中国自动驾驶最大私募融资背后｜WISE2025 商业之王大会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "每周时事分析：中国对G2要换一种思路",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-03",
-                "url": "https://36kr.com/p/3574358698949765"
+                "url": "https://www.ftchinese.com/story/001108346"
             },
             {
-                "title": "世间再无周金涛",
-                "source": "NewsAPI / Bohaishibei.com",
+                "title": "德国政府补贴工业电价，能否见效？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-03",
-                "url": "https://www.bohaishibei.com/post/105260/"
+                "url": "https://www.ftchinese.com/story/001108347"
             }
         ],
         "mil": [
+            {
+                "title": "每周时事分析：中国对G2要换一种思路",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-03",
+                "url": "https://www.ftchinese.com/story/001108346"
+            },
+            {
+                "title": "马斯克脑机接口意念控制机械臂！演示者获得钢铁之吻，理论上可控制一切",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-03",
+                "url": "https://www.ithome.com/0/902/295.htm"
+            },
+            {
+                "title": "AI 科学家预警：人类最早 2027 年面临终极抉择，是否允许 AI 进行递归自我进化",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-03",
+                "url": "https://www.ithome.com/0/902/285.htm"
+            },
+            {
+                "title": "罗氏制药陈舒展：要智能、也要温度，用AI重新定义临床科研| WISE2025商业之王大会",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-03",
+                "url": "https://36kr.com/p/3576557309901701"
+            },
             {
                 "title": "上海未来产业基金魏凡杰：创新涌现：构建推动 \"中国创新\"的创业者生态｜WISE2025 商业之王",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-03",
                 "url": "https://36kr.com/p/3579576002755717"
-            },
-            {
-                "title": "OpenAI 首席研究员 Mark Chen 长访谈：小扎亲手端汤来公司挖人，气得我们端着汤去了 Meta",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-03",
-                "url": "https://www.ithome.com/0/902/199.htm"
-            },
-            {
-                "title": "解码新经济企业的资本通关密码 | 36氪 WISE2025 商业之王大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-03",
-                "url": "https://36kr.com/p/3577917615618950"
-            },
-            {
-                "title": "地球生命源自小行星？“贝努”样本中发现生命所需全部关键成分",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-03",
-                "url": "https://www.ithome.com/0/902/153.htm"
-            },
-            {
-                "title": "DeepSeek的一次小更新：暴打OpenAI 追上Gemini",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539178.htm"
-            },
-            {
-                "title": "中俄举行战略安全磋商 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-02",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KSnBEVkVkRjl2RXY3SWc1S0pFdFN2cS0tZ0xXME5Lbk9XYzdWeGVXSjA0amE3enMyOGtZdG9hdWRpZXNiVzRrT3RJZHBrdkZMUWtFVU5zS3NQYUxpVTRtcVZ3MmI2bVBDQ2dF?oc=5"
             },
             {
                 "title": "2025年12月3日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -96,6 +90,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-03",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uTUVSQk9mV2tCaTk4a0o4enJIVU1fS0Z0WTROUGExNlhvZnJFc3doT0RxMnpKc01Vb2FRbTk0bEVHTE5laGI0TlBlUkQ4WjFER3E3enYzNk0xOGQ5VHpTVUd0dVVtVWFwVkp0OWNB?oc=5"
+            },
+            {
+                "title": "习近平出席中法企业家委员会第七次会议闭幕式并致辞 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-04",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tOC1XOXltcTBBZzEtZW00UXNvREJVeUZSTXVScmoyeEw1LTlCMUQ3bXVlZmo4VGNJVVJzaEtvSy14dkhEczlRWjBCREVFUUFMcUhMN2IwNWYyX3pkNGxJWUsyek1BNXhyQzFj?oc=5"
             },
             {
                 "title": "习近平同法国总统马克龙会谈 - 中国军网",
@@ -118,40 +118,34 @@
         ],
         "pol": [
             {
-                "title": "印度政府在强烈反弹后撤回强制预装反诈应用要求",
+                "title": "国产飞机里程碑 C909载客突破3000万人次",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539294.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539330.htm"
             },
             {
-                "title": "手机涨价风暴将至 IDC警告：明年内存短缺将冲击出货量",
+                "title": "Google Photos借力Gemini推出2025年度回顾 用AI挖掘年度高光时刻",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539286.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539326.htm"
             },
             {
-                "title": "氪星晚报｜富士康子公司计划扩大在越南的生产规模；币安任命何一为联席首席执行官；爱马仕继承人起诉LVMH集团",
-                "source": "NewsAPI / 36kr.com",
+                "title": "每周时事分析：中国对G2要换一种思路",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-03",
-                "url": "https://36kr.com/p/3579649940503682"
+                "url": "https://www.ftchinese.com/story/001108346"
             },
             {
-                "title": "上海未来产业基金魏凡杰：创新涌现：构建推动 \"中国创新\"的创业者生态｜WISE2025 商业之王",
-                "source": "NewsAPI / 36kr.com",
+                "title": "“非典型国民党”任国民党主席——从民进党到国民党的郑丽文",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-03",
-                "url": "https://36kr.com/p/3579576002755717"
+                "url": "https://www.ftchinese.com/story/001108345"
             },
             {
-                "title": "OpenAI 首席研究员 Mark Chen 长访谈：小扎亲手端汤来公司挖人，气得我们端着汤去了 Meta",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德国政府补贴工业电价，能否见效？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-03",
-                "url": "https://www.ithome.com/0/902/199.htm"
-            },
-            {
-                "title": "中俄举行战略安全磋商 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-02",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KSnBEVkVkRjl2RXY3SWc1S0pFdFN2cS0tZ0xXME5Lbk9XYzdWeGVXSjA0amE3enMyOGtZdG9hdWRpZXNiVzRrT3RJZHBrdkZMUWtFVU5zS3NQYUxpVTRtcVZ3MmI2bVBDQ2dF?oc=5"
+                "url": "https://www.ftchinese.com/story/001108347"
             },
             {
                 "title": "2025年12月3日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -164,6 +158,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-03",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uTUVSQk9mV2tCaTk4a0o4enJIVU1fS0Z0WTROUGExNlhvZnJFc3doT0RxMnpKc01Vb2FRbTk0bEVHTE5laGI0TlBlUkQ4WjFER3E3enYzNk0xOGQ5VHpTVUd0dVVtVWFwVkp0OWNB?oc=5"
+            },
+            {
+                "title": "习近平出席中法企业家委员会第七次会议闭幕式并致辞 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-04",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tOC1XOXltcTBBZzEtZW00UXNvREJVeUZSTXVScmoyeEw1LTlCMUQ3bXVlZmo4VGNJVVJzaEtvSy14dkhEczlRWjBCREVFUUFMcUhMN2IwNWYyX3pkNGxJWUsyek1BNXhyQzFj?oc=5"
             },
             {
                 "title": "习近平同法国总统马克龙会谈 - 中国军网",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-04T12:39:28.058087+00:00"
+    "last_updated": "2025-12-04T18:29:18.948417+00:00"
 }
