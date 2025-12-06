@@ -1,54 +1,78 @@
 {
-    "score": 4,
+    "score": 3,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 30,
+            "current_weight": 22.5,
             "triggered_on": "2025-12-06"
         }
     },
     "category_reasoning": {
-        "econ": "当前情报源主要为国际商业媒体报道，内容涉及芯片、AI、加密货币等领域，未提及任何与预警指标相关的事件，例如保险费率调整、物资抢购、经济制裁等。因此，未触发任何预警指标。",
-        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the defined military logistics warning indicators. There is no mention of NOTAMs surrounding Taiwan, troop or equipment mobilization in Fujian, or mobilization of reserves/civilian resources.",
-        "pol": "情报源显示，外交部在2025年12月4日举行了例行记者会。虽然没有直接提供记者会的具体内容，但根据关键判断准则，外交部/国防部的任何强硬声明，如提及“严重后果”、“明确交代”等，都应视为触发POL-2指标。考虑到“宁可误报不可漏报”的原则，以及官方信源的高权重，即使仅提及例行记者会，也应暂时认定触发POL-2，等待更详细的信息出现以进一步确认或排除。",
-        "local": "情报源显示是年度例行防空警报测试，且社会秩序正常，未触发预警指标 LOCAL-1。"
+        "econ": "The provided intelligence sources do not contain any information that would trigger the economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling, or economic sanctions.",
+        "mil": "The provided information does not contain any explicit triggers for the specified military logistics warning indicators (MIL-1, MIL-2, MIL-3). There are no reports of maritime restrictions, unusual troop movements, or mobilization of reserves/resources toward the front lines.",
+        "pol": "The provided information primarily consists of news headlines and links to official websites. While some headlines may be related to international relations (e.g., the article mentioning Japan), they do not contain explicit statements or actions that would trigger the pre-defined warning indicators related to political rhetoric or diplomatic actions. The official sources listed (MFA, MOD, PLA Daily, MSA) are mostly links to general pages or routine activities and do not contain any explicit last warnings, strong condemnations or military mobilizations.",
+        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "国产GPU又一巨头冲刺资本市场 沐曦股份今日申购",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜Visa或将把欧洲总部迁至伦敦金丝雀码头；软银孙正义与白宫商讨高科技工厂计划细节",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539624.htm"
+                "url": "https://36kr.com/p/3582520593595273"
             },
             {
-                "title": "美国拥抱加密经济的趋势已不可逆——Uweb 纽约游学总结（上）",
-                "source": "NewsAPI / Csdn.net",
-                "date": "2025-12-05",
-                "url": "https://blog.csdn.net/myan/article/details/155619418"
-            },
-            {
-                "title": "AMD CEO苏姿丰：对华芯片销售将向美政府缴纳15%税款 AI没泡沫",
+                "title": "罗技CEO：公司在中国市场下滑态势扭转 新品将嵌入AI技术",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539592.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539692.htm"
             },
             {
-                "title": "金融时报：美国的AI之路可能走错了方向",
+                "title": "国产飞腾CPU首次规模化用于5G扩皮基站 曾规划80核心",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539584.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539690.htm"
             },
             {
-                "title": "中国AI芯片市场迎巨变：英伟达2026年将仅占8%",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "摩尔线程，冲得越高盘得越久",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539580.htm"
+                "url": "https://36kr.com/p/3582411689999492"
+            },
+            {
+                "title": "2025 全球独角兽 500 强榜单发布：SpaceX、字节跳动、OpenAI 前三，中国 150 家企业入选",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-05",
+                "url": "https://www.ithome.com/0/902/777.htm"
             }
         ],
         "mil": [
+            {
+                "title": "三七互娱：公司及相关责任人收到行政处罚决定书",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/newsflashes/3582487863999365"
+            },
+            {
+                "title": "AI聊天机器人崛起为互联网核心基础设施 流量直追社交网络",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539666.htm"
+            },
+            {
+                "title": "麻六记品牌创始人汪小菲：5年麻六记，背后是30年的餐饮摸索与执着｜WISE2025 商业之王",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/p/3581163331468416"
+            },
+            {
+                "title": "金镒资本杨燚：科技筑基，消费扬帆——布局中国经济新航程｜WISE2025商业之王",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/p/3578199299472263"
+            },
             {
                 "title": "任正非最新 1.4 万字讲话：中美 AI 研究方向不同而华为致力于解决实际问题、关注自动驾驶模型等领域，未来可能采用量子计算但不会主导研发",
                 "source": "NewsAPI / Ithome.com",
@@ -56,36 +80,6 @@
                 "url": "https://www.ithome.com/0/902/626.htm"
             },
             {
-                "title": "专访Luma AI首席科学家：视频生成模型的游戏规则改变了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3581965812054918"
-            },
-            {
-                "title": "湖北“十五五”规划建议：做大做强武汉国家航天产业基地，建设航天强省",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/newsflashes/3581909200059272"
-            },
-            {
-                "title": "雅迪回应新国标车铁皮座椅争议：系误读，已推68款合规车型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539558.htm"
-            },
-            {
-                "title": "北京犯台美军会不会来？美国民调恐令中共惊讶(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-04",
-                "url": "https://www.secretchina.com/news/gb/2025/12/05/1091622.html"
-            },
-            {
-                "title": "2025年12月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hcUI0V1JLUUkyTWQ0TUdPLTVGcmQtOEd2eDlVeEN2ZTRiMFU1Um1JOWZYTjNEc1ZmSXZudUtoLXpoYWRYNks2ZEdSQ01LS04tQVU3U1IyUVM1djNHTWJmMlJlZy02Rk5ySWZLRm81VUNYM2k4b2c?oc=5"
-            },
-            {
                 "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-05",
@@ -96,6 +90,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "首页 资料 >声明公报 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2018-02-17",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVndIdGJUVnV2Nk1teTdjYWM3RHJ5S0FnSUFLUnFlRHk3d2tHcVd4b3NWT0NZaE0wcDJDa3A3dm5aWWQxMVhIMzVHU0J0MGpqN2tBaFMtckNvdTF4eFhBQl94bw?oc=5"
             },
             {
                 "title": "这是中国军人的专属浪漫！老兵新兵集体献唱《当那一天来临》，致敬退役军人新征程！ - 中国军网",
@@ -114,44 +114,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85UHg1TVhEenFwbDJ0SDZIS0NMWDJKU3RYaDZVVHdqa0FlaXNOR2dGT1ZIRUpXSEhqTXg5c3hXdTF3NkpqdTVOTnFVcHVPdFRGcHc?oc=5"
+            },
+            {
+                "title": "海事法规 - 上海海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2019-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "蔡磊回应准备尝试脑机接口：并非一时兴起",
+                "title": "氪星晚报｜Visa或将把欧洲总部迁至伦敦金丝雀码头；软银孙正义与白宫商讨高科技工厂计划细节",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/p/3582520593595273"
+            },
+            {
+                "title": "摩尔线程，冲得越高盘得越久",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/p/3582411689999492"
+            },
+            {
+                "title": "2025 全球独角兽 500 强榜单发布：SpaceX、字节跳动、OpenAI 前三，中国 150 家企业入选",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-05",
+                "url": "https://www.ithome.com/0/902/777.htm"
+            },
+            {
+                "title": "白银暴涨，锅在光伏？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/p/3582390198451334"
+            },
+            {
+                "title": "AI聊天机器人崛起为互联网核心基础设施 流量直追社交网络",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539594.htm"
-            },
-            {
-                "title": "美媒实测特斯拉FSD：开车发短信，真的没问题吗？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539590.htm"
-            },
-            {
-                "title": "韩正消失一个月 出事了？反习派剑指栗战书(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-05",
-                "url": "https://www.secretchina.com/news/gb/2025/12/05/1091600.html"
-            },
-            {
-                "title": "华尔街测算：在盈利转正之前 OpenAI将累计亏损1400亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539576.htm"
-            },
-            {
-                "title": "“AI教父”辛顿警告：人工智能将导致大规模失业",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539572.htm"
-            },
-            {
-                "title": "2025年12月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hcUI0V1JLUUkyTWQ0TUdPLTVGcmQtOEd2eDlVeEN2ZTRiMFU1Um1JOWZYTjNEc1ZmSXZudUtoLXpoYWRYNks2ZEdSQ01LS04tQVU3U1IyUVM1djNHTWJmMlJlZy02Rk5ySWZLRm81VUNYM2k4b2c?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539666.htm"
             },
             {
                 "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
@@ -164,6 +164,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "首页 资料 >声明公报 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2018-02-17",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVndIdGJUVnV2Nk1teTdjYWM3RHJ5S0FnSUFLUnFlRHk3d2tHcVd4b3NWT0NZaE0wcDJDa3A3dm5aWWQxMVhIMzVHU0J0MGpqN2tBaFMtckNvdTF4eFhBQl94bw?oc=5"
             },
             {
                 "title": "这是中国军人的专属浪漫！老兵新兵集体献唱《当那一天来临》，致敬退役军人新征程！ - 中国军网",
@@ -182,9 +188,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85UHg1TVhEenFwbDJ0SDZIS0NMWDJKU3RYaDZVVHdqa0FlaXNOR2dGT1ZIRUpXSEhqTXg5c3hXdTF3NkpqdTVOTnFVcHVPdFRGcHc?oc=5"
+            },
+            {
+                "title": "海事法规 - 上海海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2019-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-06T06:24:50.738067+00:00"
+    "last_updated": "2025-12-06T12:33:37.214868+00:00"
 }
