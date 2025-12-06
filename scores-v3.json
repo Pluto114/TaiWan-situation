@@ -1,54 +1,66 @@
 {
-    "score": 3,
+    "score": 2,
     "total_indicators_possible": 10,
     "active_indicators_count": 1,
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 22.5,
+            "current_weight": 16.875,
             "triggered_on": "2025-12-06"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain any information that would trigger the economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling, or economic sanctions.",
-        "mil": "The provided information does not contain any explicit triggers for the specified military logistics warning indicators (MIL-1, MIL-2, MIL-3). There are no reports of maritime restrictions, unusual troop movements, or mobilization of reserves/resources toward the front lines.",
-        "pol": "The provided information primarily consists of news headlines and links to official websites. While some headlines may be related to international relations (e.g., the article mentioning Japan), they do not contain explicit statements or actions that would trigger the pre-defined warning indicators related to political rhetoric or diplomatic actions. The official sources listed (MFA, MOD, PLA Daily, MSA) are mostly links to general pages or routine activities and do not contain any explicit last warnings, strong condemnations or military mobilizations.",
-        "local": "情报源显示防空警报测试为年度例行测试，物资供应充足，社会秩序正常，未触发预警指标LOCAL-1。"
+        "econ": "The provided intelligence sources do not contain information that triggers any of the economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling, or economic sanctions against Taiwan.",
+        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the military logistics warning indicators. There's no mention of large-scale naval exercises encircling Taiwan, troop movements or amassing of amphibious landing ships/missiles in Fujian, or mobilization of reserves/civilian transport/medical resources towards the front lines.",
+        "pol": "混合情报源中没有明确提及触发预警指标的信息。虽然包含外交部的信息，但仅为友好交流和过往声明公报，未见强硬声明或最后通牒式语言。解放军报的报道也主要为军事训练和时评，不涉及战争动员或威胁。因此，未发现明确触发的预警指标。",
+        "local": "情报源显示厦门本周的防空警报测试为年度例行测试，物资供应充足，社会秩序正常。这与预警指标LOCAL-1中描述的“非例行的大规模防空、疏散演习或人防工程启用”不符。因此，未触发预警指标。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "氪星晚报｜Visa或将把欧洲总部迁至伦敦金丝雀码头；软银孙正义与白宫商讨高科技工厂计划细节",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3582520593595273"
-            },
-            {
-                "title": "罗技CEO：公司在中国市场下滑态势扭转 新品将嵌入AI技术",
+                "title": "三星明年将为英伟达供应一半的SOCAMM2模组",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539692.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539744.htm"
             },
             {
-                "title": "国产飞腾CPU首次规模化用于5G扩皮基站 曾规划80核心",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539690.htm"
-            },
-            {
-                "title": "摩尔线程，冲得越高盘得越久",
+                "title": "当我最后一道职业护城河正在溃堤",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-05",
-                "url": "https://36kr.com/p/3582411689999492"
+                "url": "https://36kr.com/p/3582783080545415"
             },
             {
-                "title": "2025 全球独角兽 500 强榜单发布：SpaceX、字节跳动、OpenAI 前三，中国 150 家企业入选",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Meta与多家新闻出版商达成多项人工智能合作协议",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.ithome.com/0/902/777.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539738.htm"
+            },
+            {
+                "title": "白皮书指养老不能靠国家 四大宏观风险增加(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-05",
+                "url": "https://www.secretchina.com/news/gb/2025/12/05/1091658.html"
+            },
+            {
+                "title": "科勒的AI马桶摄像头被曝“加密造概念”引发隐私争议",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539734.htm"
             }
         ],
         "mil": [
+            {
+                "title": "上海某海军家属院疑有人被抓 居民向中共军警抗议(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-05",
+                "url": "https://www.secretchina.com/news/gb/2025/12/06/1091663.html"
+            },
+            {
+                "title": "当我最后一道职业护城河正在溃堤",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/p/3582783080545415"
+            },
             {
                 "title": "三七互娱：公司及相关责任人收到行政处罚决定书",
                 "source": "NewsAPI / 36kr.com",
@@ -68,28 +80,16 @@
                 "url": "https://36kr.com/p/3581163331468416"
             },
             {
-                "title": "金镒资本杨燚：科技筑基，消费扬帆——布局中国经济新航程｜WISE2025商业之王",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3578199299472263"
-            },
-            {
-                "title": "任正非最新 1.4 万字讲话：中美 AI 研究方向不同而华为致力于解决实际问题、关注自动驾驶模型等领域，未来可能采用量子计算但不会主导研发",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-05",
-                "url": "https://www.ithome.com/0/902/626.htm"
-            },
-            {
                 "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-05",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WRFhnZ0tMVzRoQ1pJUENlaTMxWGVoNnVqMHIxX0k2T3B2RzlCczUtZTRWREZWZkp1VmJpcW9NVUZlUVJpZ25OdmJIRDlqMUR6ZHp6NTVENlFzSkhSZmhEOXBqZWN4aWNhUDNV?oc=5"
             },
             {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "首页 资料 >声明公报 - mfa.gov.cn",
@@ -124,34 +124,34 @@
         ],
         "pol": [
             {
+                "title": "当我最后一道职业护城河正在溃堤",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/p/3582783080545415"
+            },
+            {
+                "title": "Meta与多家新闻出版商达成多项人工智能合作协议",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539738.htm"
+            },
+            {
+                "title": "科勒的AI马桶摄像头被曝“加密造概念”引发隐私争议",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539734.htm"
+            },
+            {
+                "title": "上汽智己全新中大型 SUV 新车 LS8 申报：外观硬派，依旧增程",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-05",
+                "url": "https://www.ithome.com/0/902/852.htm"
+            },
+            {
                 "title": "氪星晚报｜Visa或将把欧洲总部迁至伦敦金丝雀码头；软银孙正义与白宫商讨高科技工厂计划细节",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-05",
                 "url": "https://36kr.com/p/3582520593595273"
-            },
-            {
-                "title": "摩尔线程，冲得越高盘得越久",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3582411689999492"
-            },
-            {
-                "title": "2025 全球独角兽 500 强榜单发布：SpaceX、字节跳动、OpenAI 前三，中国 150 家企业入选",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-05",
-                "url": "https://www.ithome.com/0/902/777.htm"
-            },
-            {
-                "title": "白银暴涨，锅在光伏？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3582390198451334"
-            },
-            {
-                "title": "AI聊天机器人崛起为互联网核心基础设施 流量直追社交网络",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539666.htm"
             },
             {
                 "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WRFhnZ0tMVzRoQ1pJUENlaTMxWGVoNnVqMHIxX0k2T3B2RzlCczUtZTRWREZWZkp1VmJpcW9NVUZlUVJpZ25OdmJIRDlqMUR6ZHp6NTVENlFzSkhSZmhEOXBqZWN4aWNhUDNV?oc=5"
             },
             {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "首页 资料 >声明公报 - mfa.gov.cn",
@@ -198,5 +198,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-06T12:33:37.214868+00:00"
+    "last_updated": "2025-12-06T18:23:02.982421+00:00"
 }
