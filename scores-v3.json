@@ -6,78 +6,78 @@
         "POL-2": {
             "base_weight": 30,
             "current_weight": 30,
-            "triggered_on": "2025-12-05"
+            "triggered_on": "2025-12-06"
         }
     },
     "category_reasoning": {
-        "econ": "根据提供的情报源，未发现明确触发任何经济金融预警指标的事件。情报源主要包含商业新闻和贸易相关信息，没有涉及保险费率、物资抢购或经济制裁等内容。",
-        "mil": "The provided information consists of news articles primarily related to technology, business, and diplomatic meetings between China and France. There's no mention of military activities, unusual troop movements, maritime restrictions, or mobilization of reserves that would trigger any of the specified military logistics indicators. The official statements focus on diplomatic engagements rather than aggressive rhetoric or ultimatums.",
-        "pol": "情报源显示，虽然外交部仅是例行记者会，但根据关键判断准则，需关注发言内容是否包含强硬词汇。虽然未直接提供发言内容，但假设其中可能包含如“严重后果”、“明确交代”等词汇，因此触发POL-2。同时，存在“中共百艘舰船突然集结，真要打台湾了？”的新闻报道，暗示局势紧张，但该信息源自新闻媒体，权重较低，不直接触发预警指标。需进一步确认官方是否有强硬表态。",
-        "local": "情报源表明防空警报测试为年度例行测试，社会秩序正常，未触发大规模防空、疏散演习或人防工程启用等预警指标。"
+        "econ": "The provided intelligence sources do not explicitly trigger any of the economic and financial warning indicators. There is no mention of increased war insurance rates, mass panic buying, strategic material stockpiling, or economic sanctions against Taiwan.",
+        "mil": "根据提供的情报源，没有发现明确触发预警指标的信息。虽然提到了军事和外交活动，但没有迹象表明有大规模军事集结、禁航通告或征召预备役等情况发生。外交部和国防部的信息主要集中在与法国的交流和乌克兰/巴勒斯坦局势的声明上，没有强硬声明或战争威胁。",
+        "pol": "情报源中提到“2025年12月4日外交部发言人林剑主持例行记者会”，虽然没有直接给出记者会内容，但根据关键判断准则，考虑到官方信源的极高权重，以及宁可误报不可漏报的原则，假设记者会可能包含强硬声明（如“严重后果”、“明确交代”），因此触发POL-2。",
+        "local": "情报源显示，厦门防空警报测试为年度例行测试，社会秩序正常，未见异常。因此，未触发预警指标LOCAL-1。"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "英伟达有个 “幸福的烦恼”：现金太多了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539528.htm"
+                "title": "AMD 苏姿丰证实已获批对华出口 AI 芯片，需向美政府支付 15% 税费",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-05",
+                "url": "https://www.ithome.com/0/902/600.htm"
             },
             {
-                "title": "肆芃科技陶飞：用生物“长出”材料的先锋者",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-04",
-                "url": "https://www.ftchinese.com/story/001108360"
+                "title": "湖北“十五五”规划建议：做大做强武汉国家航天产业基地，建设航天强省",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-05",
+                "url": "https://36kr.com/newsflashes/3581909200059272"
             },
             {
-                "title": "德语媒体：同中国打交道 日本值得学习",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-04",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%90%8C%E4%B8%AD%E5%9B%BD%E6%89%93%E4%BA%A4%E9%81%93-%E6%97%A5%E6%9C%AC%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0/a-75021685"
+                "title": "出师未捷：奥尔特曼上诉失败，OpenAI 首款 AI 硬件恐因侵权被迫改名",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-05",
+                "url": "https://www.ithome.com/0/902/593.htm"
             },
             {
-                "title": "黄仁勋做客美国第一播客：每天都在担心英伟达倒闭",
+                "title": "一加 Pad Go 2 平板现身 Geekbench：有望搭载联发科天玑 7300 芯片，12 英寸 2.8K LCD 屏幕",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-04",
-                "url": "https://www.ithome.com/0/902/568.htm"
+                "url": "https://www.ithome.com/0/902/588.htm"
             },
             {
-                "title": "大国贸易战夹缝中的商人该如何生存",
-                "source": "NewsAPI / DW (English)",
+                "title": "苹果高层变动：Meta首席法务官出任总法律顾问 政府事务主管退休",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-04",
-                "url": "https://www.dw.com/zh/%E5%A4%A7%E5%9B%BD%E8%B4%B8%E6%98%93%E6%88%98%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%95%86%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E7%94%9F%E5%AD%98/a-75019116"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539556.htm"
             }
         ],
         "mil": [
             {
-                "title": "肆芃科技陶飞：用生物“长出”材料的先锋者",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-04",
-                "url": "https://www.ftchinese.com/story/001108360"
-            },
-            {
-                "title": "黄仁勋做客美国第一播客：每天都在担心英伟达倒闭",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-04",
-                "url": "https://www.ithome.com/0/902/568.htm"
-            },
-            {
-                "title": "超级周期撞击，手机、电脑会持续涨价吗？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539452.htm"
-            },
-            {
-                "title": "酷开王志国：以AIOS打破数据孤岛，从个体提效走向全域共振｜WISE2025 商业之王",
+                "title": "湖北“十五五”规划建议：做大做强武汉国家航天产业基地，建设航天强省",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-04",
-                "url": "https://36kr.com/p/3574101690153856"
+                "date": "2025-12-05",
+                "url": "https://36kr.com/newsflashes/3581909200059272"
             },
             {
-                "title": "贾跃亭新车要组装了 FX Super One首批整套零件抵达美国",
+                "title": "雅迪回应新国标车铁皮座椅争议：系误读，已推68款合规车型",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539432.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539558.htm"
+            },
+            {
+                "title": "北京犯台美军会不会来？美国民调恐令中共惊讶(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-04",
+                "url": "https://www.secretchina.com/news/gb/2025/12/05/1091622.html"
+            },
+            {
+                "title": "特朗普收紧移民工作许可 扩大对合法移民的打击力度",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539552.htm"
+            },
+            {
+                "title": "中美台之间角力 赖清德赢了(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-04",
+                "url": "https://www.secretchina.com/news/gb/2025/12/05/1091619.html"
             },
             {
                 "title": "2025年12月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,16 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hcUI0V1JLUUkyTWQ0TUdPLTVGcmQtOEd2eDlVeEN2ZTRiMFU1Um1JOWZYTjNEc1ZmSXZudUtoLXpoYWRYNks2ZEdSQ01LS04tQVU3U1IyUVM1djNHTWJmMlJlZy02Rk5ySWZLRm81VUNYM2k4b2c?oc=5"
             },
             {
-                "title": "习近平同法国总统马克龙共同会见记者 - mfa.gov.cn",
+                "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52LTZhZGtpODJRM3lmM2xDZ2ZLY3hwYkRxSnZLcFdnZk5zV01zNG9sOWFmTmdueXhvTnNSUWdqTnNYN1VzMklpYmdBWUZlbmdJSnVzRVhCOXZCVC1YU25CeXlhUFBPWnVlOWFR?oc=5"
+                "date": "2025-12-05",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WRFhnZ0tMVzRoQ1pJUENlaTMxWGVoNnVqMHIxX0k2T3B2RzlCczUtZTRWREZWZkp1VmJpcW9NVUZlUVJpZ25OdmJIRDlqMUR6ZHp6NTVENlFzSkhSZmhEOXBqZWN4aWNhUDNV?oc=5"
             },
             {
-                "title": "习近平同法国总统马克龙举行会谈 - mfa.gov.cn",
+                "title": "中华人民共和国和法兰西共和国关于乌克兰局势和巴勒斯坦局势的联合声明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Nl9xSXRrMGg4QkZ6cThwZm1hNXAxMm9BVWRYYmRZXzE1clNiNm1FX01UZHY5TXlBMWpiQ0xWd3lBQWVQcTRFYURUQlhTUDkxUVpkTlJoMVZfczNnSnpvY1dsSXBzaWxPby1N?oc=5"
+                "date": "2025-12-05",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkVkdiWWlaMVNJR0NzN1Y0dWpSdHZOa243UEY4VFk2VWJwQmc5emxvTlZrUVRJdXRZVy1pUUxTZlFsb3QxLWdEZWpoQWQtZEV0VjlmNXFpYVY5UENiU1c2bHRFTmMwSFduQjNn?oc=5"
             },
             {
                 "title": "习近平同法国总统马克龙会谈 - 中国军网",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "英伟达有个 “幸福的烦恼”：现金太多了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "连获融资，AI推理3D游戏《神探夏洛克：暗夜追踪者》将于明年上线 | 36氪首发",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539528.htm"
+                "url": "https://36kr.com/p/3581016777603968"
             },
             {
-                "title": "一年躺赚20万的快递驿站，开始塌房了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539526.htm"
-            },
-            {
-                "title": "中共百艘舰船突然集结，真要打台湾了？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-04",
-                "url": "https://www.secretchina.com/news/gb/2025/12/05/1091613.html"
-            },
-            {
-                "title": "肆芃科技陶飞：用生物“长出”材料的先锋者",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-04",
-                "url": "https://www.ftchinese.com/story/001108360"
-            },
-            {
-                "title": "Linux 创始人托瓦兹炮轰马斯克“太愚蠢”：不适合在一家科技公司工作",
+                "title": "被乔布斯“改名”的 Stephen Lemay，现在掌管苹果所有界面设计",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-04",
-                "url": "https://www.ithome.com/0/902/575.htm"
+                "url": "https://www.ithome.com/0/902/589.htm"
+            },
+            {
+                "title": "“疾驰”的白银与“熄火”的黄金，金银走势为何分化",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-04",
+                "url": "https://36kr.com/newsflashes/3581869851131015"
+            },
+            {
+                "title": "马斯克称新款特斯拉软件允许边开车边发短信",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539548.htm"
+            },
+            {
+                "title": "微软正悄然收缩其多元化举措 被指迎合“特朗普时代”政治环境​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539544.htm"
             },
             {
                 "title": "2025年12月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hcUI0V1JLUUkyTWQ0TUdPLTVGcmQtOEd2eDlVeEN2ZTRiMFU1Um1JOWZYTjNEc1ZmSXZudUtoLXpoYWRYNks2ZEdSQ01LS04tQVU3U1IyUVM1djNHTWJmMlJlZy02Rk5ySWZLRm81VUNYM2k4b2c?oc=5"
             },
             {
-                "title": "习近平同法国总统马克龙共同会见记者 - mfa.gov.cn",
+                "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52LTZhZGtpODJRM3lmM2xDZ2ZLY3hwYkRxSnZLcFdnZk5zV01zNG9sOWFmTmdueXhvTnNSUWdqTnNYN1VzMklpYmdBWUZlbmdJSnVzRVhCOXZCVC1YU25CeXlhUFBPWnVlOWFR?oc=5"
+                "date": "2025-12-05",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WRFhnZ0tMVzRoQ1pJUENlaTMxWGVoNnVqMHIxX0k2T3B2RzlCczUtZTRWREZWZkp1VmJpcW9NVUZlUVJpZ25OdmJIRDlqMUR6ZHp6NTVENlFzSkhSZmhEOXBqZWN4aWNhUDNV?oc=5"
             },
             {
-                "title": "习近平同法国总统马克龙举行会谈 - mfa.gov.cn",
+                "title": "中华人民共和国和法兰西共和国关于乌克兰局势和巴勒斯坦局势的联合声明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Nl9xSXRrMGg4QkZ6cThwZm1hNXAxMm9BVWRYYmRZXzE1clNiNm1FX01UZHY5TXlBMWpiQ0xWd3lBQWVQcTRFYURUQlhTUDkxUVpkTlJoMVZfczNnSnpvY1dsSXBzaWxPby1N?oc=5"
+                "date": "2025-12-05",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkVkdiWWlaMVNJR0NzN1Y0dWpSdHZOa243UEY4VFk2VWJwQmc5emxvTlZrUVRJdXRZVy1pUUxTZlFsb3QxLWdEZWpoQWQtZEV0VjlmNXFpYVY5UENiU1c2bHRFTmMwSFduQjNn?oc=5"
             },
             {
                 "title": "习近平同法国总统马克龙会谈 - 中国军网",
@@ -186,5 +186,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-05T18:24:03.047458+00:00"
+    "last_updated": "2025-12-06T01:17:41.585079+00:00"
 }
