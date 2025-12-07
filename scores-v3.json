@@ -5,50 +5,68 @@
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 16.875,
+            "current_weight": 12.65625,
             "triggered_on": "2025-12-06"
         }
     },
     "category_reasoning": {
-        "econ": "The provided intelligence sources do not contain information that triggers any of the economic and financial warning indicators. There is no mention of increased war insurance rates, unusual stockpiling, or economic sanctions against Taiwan.",
-        "mil": "The provided intelligence sources do not contain information that explicitly triggers any of the military logistics warning indicators. There's no mention of large-scale naval exercises encircling Taiwan, troop movements or amassing of amphibious landing ships/missiles in Fujian, or mobilization of reserves/civilian transport/medical resources towards the front lines.",
-        "pol": "混合情报源中没有明确提及触发预警指标的信息。虽然包含外交部的信息，但仅为友好交流和过往声明公报，未见强硬声明或最后通牒式语言。解放军报的报道也主要为军事训练和时评，不涉及战争动员或威胁。因此，未发现明确触发的预警指标。",
-        "local": "情报源显示厦门本周的防空警报测试为年度例行测试，物资供应充足，社会秩序正常。这与预警指标LOCAL-1中描述的“非例行的大规模防空、疏散演习或人防工程启用”不符。因此，未触发预警指标。"
+        "econ": "分析出错: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDuBZ2E8JZjNAETkVEuFCPjXyZ554TXC-s (Caused by ResponseError('too many 429 error responses'))",
+        "mil": "分析出错: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDuBZ2E8JZjNAETkVEuFCPjXyZ554TXC-s (Caused by ResponseError('too many 429 error responses'))",
+        "pol": "分析出错: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDuBZ2E8JZjNAETkVEuFCPjXyZ554TXC-s (Caused by ResponseError('too many 429 error responses'))",
+        "local": "分析出错: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDuBZ2E8JZjNAETkVEuFCPjXyZ554TXC-s (Caused by ResponseError('too many 429 error responses'))"
     },
     "news_sources": {
         "econ": [
             {
-                "title": "三星明年将为英伟达供应一半的SOCAMM2模组",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539744.htm"
-            },
-            {
-                "title": "当我最后一道职业护城河正在溃堤",
+                "title": "9点1氪｜车评人陈震偷税被查，案件细节曝光；外卖新国标：骑手连续接单超4小时暂停派单20分钟；王传福回应比亚迪国内销量下滑",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3582783080545415"
+                "date": "2025-12-06",
+                "url": "https://36kr.com/p/3583359324568452"
             },
             {
-                "title": "Meta与多家新闻出版商达成多项人工智能合作协议",
+                "title": "CounterPoint 报告 2025Q3 全球手机畅销榜：iPhone 16 夺冠，5G 手机首次包揽前五",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-05",
+                "url": "https://www.ithome.com/0/902/869.htm"
+            },
+            {
+                "title": "台积电拟将亚利桑那“第六期厂”用地改造为先进封装基地",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539738.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539764.htm"
             },
             {
-                "title": "白皮书指养老不能靠国家 四大宏观风险增加(图)",
+                "title": "据传苹果重返英特尔阵营 或将其芯片延伸至iPhone产品线",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539754.htm"
+            },
+            {
+                "title": "纽约中领馆投影抗议参与者王永红的反共历程(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-05",
-                "url": "https://www.secretchina.com/news/gb/2025/12/05/1091658.html"
-            },
-            {
-                "title": "科勒的AI马桶摄像头被曝“加密造概念”引发隐私争议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539734.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/06/1091669.html"
             }
         ],
         "mil": [
+            {
+                "title": "9点1氪｜车评人陈震偷税被查，案件细节曝光；外卖新国标：骑手连续接单超4小时暂停派单20分钟；王传福回应比亚迪国内销量下滑",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-06",
+                "url": "https://36kr.com/p/3583359324568452"
+            },
+            {
+                "title": "科技昨夜今晨 1206：陈震偷税追缴并罚共计 247.48 万元；Netflix 官宣 827 亿美元收购华纳兄弟；饿了么官宣改名为“淘宝闪购”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-06",
+                "url": "https://www.ithome.com/0/902/874.htm"
+            },
+            {
+                "title": "纽约中领馆投影抗议参与者王永红的反共历程(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-05",
+                "url": "https://www.secretchina.com/news/gb/2025/12/06/1091669.html"
+            },
             {
                 "title": "上海某海军家属院疑有人被抓 居民向中共军警抗议(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,25 +80,7 @@
                 "url": "https://36kr.com/p/3582783080545415"
             },
             {
-                "title": "三七互娱：公司及相关责任人收到行政处罚决定书",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/newsflashes/3582487863999365"
-            },
-            {
-                "title": "AI聊天机器人崛起为互联网核心基础设施 流量直追社交网络",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539666.htm"
-            },
-            {
-                "title": "麻六记品牌创始人汪小菲：5年麻六记，背后是30年的餐饮摸索与执着｜WISE2025 商业之王",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3581163331468416"
-            },
-            {
-                "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
+                "title": "习近平同法国总统马克龙在成都进行友好交流（2025-12-05） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-05",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WRFhnZ0tMVzRoQ1pJUENlaTMxWGVoNnVqMHIxX0k2T3B2RzlCczUtZTRWREZWZkp1VmJpcW9NVUZlUVJpZ25OdmJIRDlqMUR6ZHp6NTVENlFzSkhSZmhEOXBqZWN4aWNhUDNV?oc=5"
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HSE1wdnhpbDVRbmV0M1N6Q09sMGFTRXYzWTNpanFVOTRNTTNsNnZLWlhVOS1seXBBNlI2cmd6RHFnVWZTUk9pUWZOd0FsVjF0YzZlQ20xdEp1QmhwR0hyWQ?oc=5"
             },
             {
-                "title": "第八十集团军某旅按实战要求组训的一段经历 - 中国军网",
+                "title": "空军多支部队创新组训模式，一次训练锤炼多维度实战能力 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1SE5ueHFUZ2dmTjB5d0o3ZXpGZTJfM2dWTXRMQXZBMU52endtNVQya1RXdXY4QzQ5Uy1sT3g3S3pvR0tkdEF4OHJuVGQ2Q0JqaGc?oc=5"
+                "date": "2025-12-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENjA4eklUMnRSRURockpKR3V6eW9VdmM2aEZQT2dQT3NtM3hHMVhERVVXbjk0eUU4a01Od3NoRjFZNlZIYzNmamZGdER5bVRMRGc?oc=5"
             },
             {
                 "title": "新华时评丨高市早苗企图蒙混过关行不通 - 中国军网",
@@ -124,37 +124,37 @@
         ],
         "pol": [
             {
-                "title": "当我最后一道职业护城河正在溃堤",
+                "title": "9点1氪｜车评人陈震偷税被查，案件细节曝光；外卖新国标：骑手连续接单超4小时暂停派单20分钟；王传福回应比亚迪国内销量下滑",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3582783080545415"
+                "date": "2025-12-06",
+                "url": "https://36kr.com/p/3583359324568452"
             },
             {
-                "title": "Meta与多家新闻出版商达成多项人工智能合作协议",
+                "title": "科技昨夜今晨 1206：陈震偷税追缴并罚共计 247.48 万元；Netflix 官宣 827 亿美元收购华纳兄弟；饿了么官宣改名为“淘宝闪购”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-06",
+                "url": "https://www.ithome.com/0/902/874.htm"
+            },
+            {
+                "title": "ChatGPT 用户增长放缓 Gemini 正加速追赶",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539738.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539768.htm"
             },
             {
-                "title": "科勒的AI马桶摄像头被曝“加密造概念”引发隐私争议",
+                "title": "台积电拟将亚利桑那“第六期厂”用地改造为先进封装基地",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539734.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539764.htm"
             },
             {
-                "title": "上汽智己全新中大型 SUV 新车 LS8 申报：外观硬派，依旧增程",
+                "title": "目标 2026 年 IPO 上市：马斯克 SpaceX 有望超 OpenAI 登顶美国私营公司市值榜首",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-05",
-                "url": "https://www.ithome.com/0/902/852.htm"
+                "url": "https://www.ithome.com/0/902/868.htm"
             },
             {
-                "title": "氪星晚报｜Visa或将把欧洲总部迁至伦敦金丝雀码头；软银孙正义与白宫商讨高科技工厂计划细节",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-05",
-                "url": "https://36kr.com/p/3582520593595273"
-            },
-            {
-                "title": "习近平同法国总统马克龙在成都进行友好交流 - mfa.gov.cn",
+                "title": "习近平同法国总统马克龙在成都进行友好交流（2025-12-05） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-05",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WRFhnZ0tMVzRoQ1pJUENlaTMxWGVoNnVqMHIxX0k2T3B2RzlCczUtZTRWREZWZkp1VmJpcW9NVUZlUVJpZ25OdmJIRDlqMUR6ZHp6NTVENlFzSkhSZmhEOXBqZWN4aWNhUDNV?oc=5"
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HSE1wdnhpbDVRbmV0M1N6Q09sMGFTRXYzWTNpanFVOTRNTTNsNnZLWlhVOS1seXBBNlI2cmd6RHFnVWZTUk9pUWZOd0FsVjF0YzZlQ20xdEp1QmhwR0hyWQ?oc=5"
             },
             {
-                "title": "第八十集团军某旅按实战要求组训的一段经历 - 中国军网",
+                "title": "空军多支部队创新组训模式，一次训练锤炼多维度实战能力 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1SE5ueHFUZ2dmTjB5d0o3ZXpGZTJfM2dWTXRMQXZBMU52endtNVQya1RXdXY4QzQ5Uy1sT3g3S3pvR0tkdEF4OHJuVGQ2Q0JqaGc?oc=5"
+                "date": "2025-12-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENjA4eklUMnRSRURockpKR3V6eW9VdmM2aEZQT2dQT3NtM3hHMVhERVVXbjk0eUU4a01Od3NoRjFZNlZIYzNmamZGdER5bVRMRGc?oc=5"
             },
             {
                 "title": "新华时评丨高市早苗企图蒙混过关行不通 - 中国军网",
@@ -198,5 +198,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-06T18:23:02.982421+00:00"
+    "last_updated": "2025-12-07T01:29:12.571492+00:00"
 }
