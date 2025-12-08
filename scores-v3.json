@@ -5,7 +5,7 @@
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 3.003387451171875,
+            "current_weight": 2.2525405883789062,
             "triggered_on": "2025-12-06"
         }
     },
@@ -18,66 +18,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "福特 11 月在美售出 4247 辆纯电动汽车，同比暴跌超 60%",
+                "title": "荣耀 Magic7 系列手机功能回落进展公布：胶片风格将覆盖更多样式、AI 追色回合下放等",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-07",
-                "url": "https://www.ithome.com/0/903/074.htm"
+                "url": "https://www.ithome.com/0/903/150.htm"
             },
             {
-                "title": "《2025年海南省咖啡产业发展报告》发布 预计产能突破4万吨",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-07",
-                "url": "https://36kr.com/newsflashes/3584791658511235"
-            },
-            {
-                "title": "清华系具身智能公司获数亿元Pre-A轮融资，拿下三菱等头部客户订单｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-07",
-                "url": "https://36kr.com/p/3582338244230272"
-            },
-            {
-                "title": "网红“甲亢哥”直播暴力损毁人形机器人“Rizzbot”，后者开发公司起诉索赔",
+                "title": "OPPO Pad Air 换皮？一加 Pad Go 2 平板细节曝光，两种配色可选",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-07",
-                "url": "https://www.ithome.com/0/903/049.htm"
+                "url": "https://www.ithome.com/0/903/132.htm"
             },
             {
-                "title": "美国人为什么不结婚了呢？(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "全球最大云厂商，将“最牛马”的工作交给了 AI Agent",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-07",
-                "url": "https://www.secretchina.com/news/gb/2025/12/07/1091713.html"
+                "url": "https://www.ithome.com/0/903/127.htm"
+            },
+            {
+                "title": "软银旗下Arm计划在韩国设立芯片培训基地",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539934.htm"
+            },
+            {
+                "title": "100% 响应，中国脑机接口临床试验 32 例截瘫患者全部实现脑控抓握",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-07",
+                "url": "https://www.ithome.com/0/903/119.htm"
             }
         ],
         "mil": [
             {
-                "title": "航行警告 南海部分水域有火箭残骸掉落 禁止驶入",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-07",
-                "url": "https://36kr.com/newsflashes/3584845421558920"
-            },
-            {
-                "title": "清华系具身智能公司获数亿元Pre-A轮融资，拿下三菱等头部客户订单｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-07",
-                "url": "https://36kr.com/p/3582338244230272"
-            },
-            {
-                "title": "网红“甲亢哥”直播暴力损毁人形机器人“Rizzbot”，后者开发公司起诉索赔",
+                "title": "全球最大云厂商，将“最牛马”的工作交给了 AI Agent",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-07",
-                "url": "https://www.ithome.com/0/903/049.htm"
+                "url": "https://www.ithome.com/0/903/127.htm"
             },
             {
-                "title": "俄大规模空袭乌克兰 泽连斯基：乌美谈判迈入下一步(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-06",
-                "url": "https://www.secretchina.com/news/gb/2025/12/07/1091710.html"
-            },
-            {
-                "title": "二手烟正在“修改”你家孩子的DNA",
+                "title": "南极臭氧空洞创数十年来第五小 显示修复进程超预期",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539814.htm"
+                "date": "2025-12-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539938.htm"
+            },
+            {
+                "title": "软银旗下Arm计划在韩国设立芯片培训基地",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539934.htm"
+            },
+            {
+                "title": "坠毁无人机显示俄罗斯还在利用SpaceX星链制导",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539912.htm"
+            },
+            {
+                "title": "在被 Prada 集团收购后，Versace 光速辞退上任仅 8 个月的创意总监",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2025-12-07",
+                "url": "https://www.toodaylab.com/83830"
             },
             {
                 "title": "外交部发言人就日方声称中国海军舰载机对日本自卫队战斗机“雷达照射”事答记者问 - mfa.gov.cn",
@@ -86,16 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11MnFiM1piX20tMTV2ckJ4aTdkdUh1MTNHcVRnclE4S2lmaDkwWWY3c081ZE41bFpzbVp2T1JlM3lPS1lzY0c5ZHhPVkYwQUZPOXBKTGRVZkNrMGlyRmVsaENZLURib3dVb1pzVGRHUjBBcGU3ZGc?oc=5"
             },
             {
-                "title": "驻孔敬总领事刘红梅会见泰国旅游警察局局长萨希拉（2025-12-05） - 外交部 - mfa.gov.cn",
+                "title": "国防部新闻发言人张晓刚就日炒作我辽宁舰航母编队舰载机雷达照射答记者问 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-06",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE5fMWlFSW1HeWFTX0ljZl9EMnVTd2lVNDIzVVlmLU5hTlNBaFNKMUVPSDhLNlhCZ0J6VGQzclVjcHFlbUdSQkFGT3JuZXZSSzczZjJQSnpIa3FXeDRlR0VoSUg3OElpUnNqOXI1YUJwc2g3cEFmN2l0UUMzTVJ6VnAwendaT3JNTkE?oc=5"
+                "date": "2025-12-07",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SVm9NcENlbGEwTWt3U3Y4NzdRVFRXdDAzMFJHS1N1elpuWHpyeDdPakZOM1pBTkM1ZHZmYTljVDJNWEZYV1MzTUhBZFMwSjhLaWlRakpFZnM?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "外交动态 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-06",
-                "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOVFqdDNsS0c2S2FESUJsTFk2SVJZYTliZzUzQVhBck9xcWF4QnlSdzQ1bF81eUVFc3QtMVBuM2dCcHRVR2l4Z010NGVhcVg2MlZSdmNNTkh2cllxeHNMVkQxYnZIRUU3QzMtVE9QOGctQ21LeUlBcGxxdlZRWHJ2dnRDUlU2YVJZQk90M2xJbjNLcy1VSmZQRXFjUjJOeDA3UkRoc2kxVlZmSXRBdTNoZzg1VzdGQmlsLUZwT3U4WGNNOUlKdUtyQlRUTFdpRXVueVg1eGFYWHNPOWN1Z1QwRlhSV1R2Q0poSVdfSERkeW1ScEo4cFBxVEN5cHV6OTZwRmZuX2d5R1FpaWZDUTcxZTdDUWlkakdFckNSeHpn?oc=5"
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
                 "title": "烽火誓言今犹在，激励着官兵矢志强军、奋勇争先 - 中国军网",
@@ -114,44 +114,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-06",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENjA4eklUMnRSRURockpKR3V6eW9VdmM2aEZQT2dQT3NtM3hHMVhERVVXbjk0eUU4a01Od3NoRjFZNlZIYzNmamZGdER5bVRMRGc?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美国公司推出全球首个可扩展 DNA 数据存储解决方案，寿命长达上千年",
+                "title": "笑喷 中共霸凌日本 日资深外交官出炉“中国共产党指南”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-07",
+                "url": "https://www.secretchina.com/news/gb/2025/12/07/1091728.html"
+            },
+            {
+                "title": "全球最大云厂商，将“最牛马”的工作交给了 AI Agent",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-07",
-                "url": "https://www.ithome.com/0/903/070.htm"
+                "url": "https://www.ithome.com/0/903/127.htm"
             },
             {
-                "title": "美国调查特斯拉 FSD：至少存在 80 起违反交通规则的案例",
+                "title": "高市早苗“理解尊重中方立场”日台媒体人幽默解读(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-07",
+                "url": "https://www.secretchina.com/news/gb/2025/12/07/1091725.html"
+            },
+            {
+                "title": "100% 响应，中国脑机接口临床试验 32 例截瘫患者全部实现脑控抓握",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-07",
-                "url": "https://www.ithome.com/0/903/064.htm"
+                "url": "https://www.ithome.com/0/903/119.htm"
             },
             {
-                "title": "航行警告 南海部分水域有火箭残骸掉落 禁止驶入",
-                "source": "NewsAPI / 36kr.com",
+                "title": "前英特尔CEO帕特·基辛格借力美政府押注xLight 希望把“摩尔定律”拉回正轨​",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-07",
-                "url": "https://36kr.com/newsflashes/3584845421558920"
-            },
-            {
-                "title": "《2025年海南省咖啡产业发展报告》发布 预计产能突破4万吨",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-07",
-                "url": "https://36kr.com/newsflashes/3584791658511235"
-            },
-            {
-                "title": "网红“甲亢哥”直播暴力损毁人形机器人“Rizzbot”，后者开发公司起诉索赔",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-07",
-                "url": "https://www.ithome.com/0/903/049.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1539902.htm"
             },
             {
                 "title": "外交部发言人就日方声称中国海军舰载机对日本自卫队战斗机“雷达照射”事答记者问 - mfa.gov.cn",
@@ -160,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11MnFiM1piX20tMTV2ckJ4aTdkdUh1MTNHcVRnclE4S2lmaDkwWWY3c081ZE41bFpzbVp2T1JlM3lPS1lzY0c5ZHhPVkYwQUZPOXBKTGRVZkNrMGlyRmVsaENZLURib3dVb1pzVGRHUjBBcGU3ZGc?oc=5"
             },
             {
-                "title": "驻孔敬总领事刘红梅会见泰国旅游警察局局长萨希拉（2025-12-05） - 外交部 - mfa.gov.cn",
+                "title": "国防部新闻发言人张晓刚就日炒作我辽宁舰航母编队舰载机雷达照射答记者问 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-06",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE5fMWlFSW1HeWFTX0ljZl9EMnVTd2lVNDIzVVlmLU5hTlNBaFNKMUVPSDhLNlhCZ0J6VGQzclVjcHFlbUdSQkFGT3JuZXZSSzczZjJQSnpIa3FXeDRlR0VoSUg3OElpUnNqOXI1YUJwc2g3cEFmN2l0UUMzTVJ6VnAwendaT3JNTkE?oc=5"
+                "date": "2025-12-07",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SVm9NcENlbGEwTWt3U3Y4NzdRVFRXdDAzMFJHS1N1elpuWHpyeDdPakZOM1pBTkM1ZHZmYTljVDJNWEZYV1MzTUhBZFMwSjhLaWlRakpFZnM?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "外交动态 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-06",
-                "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOVFqdDNsS0c2S2FESUJsTFk2SVJZYTliZzUzQVhBck9xcWF4QnlSdzQ1bF81eUVFc3QtMVBuM2dCcHRVR2l4Z010NGVhcVg2MlZSdmNNTkh2cllxeHNMVkQxYnZIRUU3QzMtVE9QOGctQ21LeUlBcGxxdlZRWHJ2dnRDUlU2YVJZQk90M2xJbjNLcy1VSmZQRXFjUjJOeDA3UkRoc2kxVlZmSXRBdTNoZzg1VzdGQmlsLUZwT3U4WGNNOUlKdUtyQlRUTFdpRXVueVg1eGFYWHNPOWN1Z1QwRlhSV1R2Q0poSVdfSERkeW1ScEo4cFBxVEN5cHV6OTZwRmZuX2d5R1FpaWZDUTcxZTdDUWlkakdFckNSeHpn?oc=5"
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
                 "title": "烽火誓言今犹在，激励着官兵矢志强军、奋勇争先 - 中国军网",
@@ -188,15 +182,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-06",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENjA4eklUMnRSRURockpKR3V6eW9VdmM2aEZQT2dQT3NtM3hHMVhERVVXbjk0eUU4a01Od3NoRjFZNlZIYzNmamZGdER5bVRMRGc?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-08T06:30:49.275075+00:00"
+    "last_updated": "2025-12-08T12:37:43.009895+00:00"
 }
