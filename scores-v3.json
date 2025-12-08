@@ -5,7 +5,7 @@
     "active_indicators": {
         "POL-2": {
             "base_weight": 30,
-            "current_weight": 5.33935546875,
+            "current_weight": 4.0045166015625,
             "triggered_on": "2025-12-06"
         }
     },
@@ -17,6 +17,18 @@
     },
     "news_sources": {
         "econ": [
+            {
+                "title": "美国人为什么不结婚了呢？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-07",
+                "url": "https://www.secretchina.com/news/gb/2025/12/07/1091713.html"
+            },
+            {
+                "title": "科技昨夜今晨 1207：苹果 2026 年初新品前瞻；华为终端可持续发展报告 2024-2025 发布；黄仁勋称华为是全球最强科技公司之一...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-07",
+                "url": "https://www.ithome.com/0/903/040.htm"
+            },
             {
                 "title": "在欧盟推翻燃油车禁令之前，众车企早已不再押注纯电",
                 "source": "NewsAPI / Ftchinese.com",
@@ -34,21 +46,15 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-06",
                 "url": "https://36kr.com/p/3583802382515337"
-            },
-            {
-                "title": "17.3%超高缺陷率 德国人：特斯拉可靠性最差",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539792.htm"
-            },
-            {
-                "title": "美知名机器人公司iRobot爆雷 欠中国代工厂超25亿元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539786.htm"
             }
         ],
         "mil": [
+            {
+                "title": "俄大规模空袭乌克兰 泽连斯基：乌美谈判迈入下一步(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-06",
+                "url": "https://www.secretchina.com/news/gb/2025/12/07/1091710.html"
+            },
             {
                 "title": "二手烟正在“修改”你家孩子的DNA",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -74,28 +80,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1539778.htm"
             },
             {
-                "title": "消息称小米 17 Ultra 海外版将有“徕卡 Leitzphone”限定机型",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-06",
-                "url": "https://www.ithome.com/0/902/960.htm"
-            },
-            {
                 "title": "驻孔敬总领事刘红梅会见泰国旅游警察局局长萨希拉（2025-12-05） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-06",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE5fMWlFSW1HeWFTX0ljZl9EMnVTd2lVNDIzVVlmLU5hTlNBaFNKMUVPSDhLNlhCZ0J6VGQzclVjcHFlbUdSQkFGT3JuZXZSSzczZjJQSnpIa3FXeDRlR0VoSUg3OElpUnNqOXI1YUJwc2g3cEFmN2l0UUMzTVJ6VnAwendaT3JNTkE?oc=5"
             },
             {
-                "title": "驻格林纳达大使杨舒会见格国家博物馆馆长 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-05",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEhXbzFMY2ZDSE5wd2FLajBTX2hFWUQ1NDNaZ2FQblJWX3R1ZDFDMFRiODEzNlByQXMwaTB3Z2dGQVZia3ZXRnViWWstWjBFMWRRYS04MUIzbkM5UGRxWFFKY1U5QjBFTE8wOTVwNXRHWURiY3g2R2Z3QVd4aTZkZUpnZTg?oc=5"
+                "date": "2025-12-06",
+                "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOVFqdDNsS0c2S2FESUJsTFk2SVJZYTliZzUzQVhBck9xcWF4QnlSdzQ1bF81eUVFc3QtMVBuM2dCcHRVR2l4Z010NGVhcVg2MlZSdmNNTkh2cllxeHNMVkQxYnZIRUU3QzMtVE9QOGctQ21LeUlBcGxxdlZRWHJ2dnRDUlU2YVJZQk90M2xJbjNLcy1VSmZQRXFjUjJOeDA3UkRoc2kxVlZmSXRBdTNoZzg1VzdGQmlsLUZwT3U4WGNNOUlKdUtyQlRUTFdpRXVueVg1eGFYWHNPOWN1Z1QwRlhSV1R2Q0poSVdfSERkeW1ScEo4cFBxVEN5cHV6OTZwRmZuX2d5R1FpaWZDUTcxZTdDUWlkakdFckNSeHpn?oc=5"
             },
             {
                 "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-06",
-                "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOVFqdDNsS0c2S2FESUJsTFk2SVJZYTliZzUzQVhBck9xcWF4QnlSdzQ1bF81eUVFc3QtMVBuM2dCcHRVR2l4Z010NGVhcVg2MlZSdmNNTkh2cllxeHNMVkQxYnZIRUU3QzMtVE9QOGctQ21LeUlBcGxxdlZRWHJ2dnRDUlU2YVJZQk90M2xJbjNLcy1VSmZQRXFjUjJOeDA3UkRoc2kxVlZmSXRBdTNoZzg1VzdGQmlsLUZwT3U4WGNNOUlKdUtyQlRUTFdpRXVueVg1eGFYWHNPOWN1Z1QwRlhSV1R2Q0poSVdfSERkeW1ScEo4cFBxVEN5cHV6OTZwRmZuX2d5R1FpaWZDUTcxZTdDUWlkakdFckNSeHpn?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2xfN2s0V3ZPM3p1QWxlWUI0LW4zbU5fLTNZTnI3czdxbEFmSmdJaXZRRHQ2UHdIVGVHTVVzYm1pTGtsY0c2Ml9IRDl1cjl6RWcwbEpsaFptejk5MGxQOHZRVEp4a1YzX1htUEVZQXJRVWt0czdRb1N3b3M1OTJPbTM2dDN4bXZiZ2c?oc=5"
             },
             {
                 "title": "Japan should strictly discipline its front-line operations: Navy Spokesperson - 中国军网",
@@ -124,6 +124,18 @@
         ],
         "pol": [
             {
+                "title": "索尼 PlayStation 前负责人吉田修平：中国游戏开发速度日本学不来",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-07",
+                "url": "https://www.ithome.com/0/903/042.htm"
+            },
+            {
+                "title": "科技昨夜今晨 1207：苹果 2026 年初新品前瞻；华为终端可持续发展报告 2024-2025 发布；黄仁勋称华为是全球最强科技公司之一...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-07",
+                "url": "https://www.ithome.com/0/903/040.htm"
+            },
+            {
                 "title": "美突扔两震撼弹 对华政策全面翻盘北京措手不及(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-06",
@@ -142,34 +154,22 @@
                 "url": "https://www.secretchina.com/news/gb/2025/12/06/1091698.html"
             },
             {
-                "title": "美最新国安战略文件 8次提及台湾 批欧洲“文明消亡”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-06",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E6%9C%80%E6%96%B0%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E6%96%87%E4%BB%B6-8%E6%AC%A1%E6%8F%90%E5%8F%8A%E5%8F%B0%E6%B9%BE-%E6%89%B9%E6%AC%A7%E6%B4%B2%E6%96%87%E6%98%8E%E6%B6%88%E4%BA%A1/a-75046115"
-            },
-            {
-                "title": "印度拟审议“始终开启GPS”提案 苹果三星Google集体反对",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1539838.htm"
-            },
-            {
                 "title": "驻孔敬总领事刘红梅会见泰国旅游警察局局长萨希拉（2025-12-05） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-06",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE5fMWlFSW1HeWFTX0ljZl9EMnVTd2lVNDIzVVlmLU5hTlNBaFNKMUVPSDhLNlhCZ0J6VGQzclVjcHFlbUdSQkFGT3JuZXZSSzczZjJQSnpIa3FXeDRlR0VoSUg3OElpUnNqOXI1YUJwc2g3cEFmN2l0UUMzTVJ6VnAwendaT3JNTkE?oc=5"
             },
             {
-                "title": "驻格林纳达大使杨舒会见格国家博物馆馆长 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-05",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEhXbzFMY2ZDSE5wd2FLajBTX2hFWUQ1NDNaZ2FQblJWX3R1ZDFDMFRiODEzNlByQXMwaTB3Z2dGQVZia3ZXRnViWWstWjBFMWRRYS04MUIzbkM5UGRxWFFKY1U5QjBFTE8wOTVwNXRHWURiY3g2R2Z3QVd4aTZkZUpnZTg?oc=5"
+                "date": "2025-12-06",
+                "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOVFqdDNsS0c2S2FESUJsTFk2SVJZYTliZzUzQVhBck9xcWF4QnlSdzQ1bF81eUVFc3QtMVBuM2dCcHRVR2l4Z010NGVhcVg2MlZSdmNNTkh2cllxeHNMVkQxYnZIRUU3QzMtVE9QOGctQ21LeUlBcGxxdlZRWHJ2dnRDUlU2YVJZQk90M2xJbjNLcy1VSmZQRXFjUjJOeDA3UkRoc2kxVlZmSXRBdTNoZzg1VzdGQmlsLUZwT3U4WGNNOUlKdUtyQlRUTFdpRXVueVg1eGFYWHNPOWN1Z1QwRlhSV1R2Q0poSVdfSERkeW1ScEo4cFBxVEN5cHV6OTZwRmZuX2d5R1FpaWZDUTcxZTdDUWlkakdFckNSeHpn?oc=5"
             },
             {
                 "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-06",
-                "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOVFqdDNsS0c2S2FESUJsTFk2SVJZYTliZzUzQVhBck9xcWF4QnlSdzQ1bF81eUVFc3QtMVBuM2dCcHRVR2l4Z010NGVhcVg2MlZSdmNNTkh2cllxeHNMVkQxYnZIRUU3QzMtVE9QOGctQ21LeUlBcGxxdlZRWHJ2dnRDUlU2YVJZQk90M2xJbjNLcy1VSmZQRXFjUjJOeDA3UkRoc2kxVlZmSXRBdTNoZzg1VzdGQmlsLUZwT3U4WGNNOUlKdUtyQlRUTFdpRXVueVg1eGFYWHNPOWN1Z1QwRlhSV1R2Q0poSVdfSERkeW1ScEo4cFBxVEN5cHV6OTZwRmZuX2d5R1FpaWZDUTcxZTdDUWlkakdFckNSeHpn?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2xfN2s0V3ZPM3p1QWxlWUI0LW4zbU5fLTNZTnI3czdxbEFmSmdJaXZRRHQ2UHdIVGVHTVVzYm1pTGtsY0c2Ml9IRDl1cjl6RWcwbEpsaFptejk5MGxQOHZRVEp4a1YzX1htUEVZQXJRVWt0czdRb1N3b3M1OTJPbTM2dDN4bXZiZ2c?oc=5"
             },
             {
                 "title": "Japan should strictly discipline its front-line operations: Navy Spokesperson - 中国军网",
@@ -198,5 +198,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-07T18:22:50.379027+00:00"
+    "last_updated": "2025-12-08T01:21:57.287162+00:00"
 }
