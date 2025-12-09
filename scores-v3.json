@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国11月出口增5.9% 贸易顺差首次超过1万亿美元",
+                "title": "传 iPhone 18 Pro 或首发屏下 Face ID",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540154.htm"
+            },
+            {
+                "title": "报告称 iPhone 16 成今年三季度全球最畅销智能手机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540152.htm"
+            },
+            {
+                "title": "美贸易代表：中国目前正在遵守贸易协议，但美国将继续观察核实",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2025-12-08",
+                "url": "https://www.voachinese.com/a/us-trade-representative-says-so-far-china-is-complying-with-the-trade-deal-terms-but-the-us-will-continue-to-monitor-and-verify-20251208/8091432.html"
+            },
+            {
+                "title": "德国外长：我们需要同中国对话，因而我来到了北京",
                 "source": "NewsAPI / DW (English)",
                 "date": "2025-12-08",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E5%87%BA%E5%8F%A3%E5%A2%9E59-%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%871%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83/a-75061112"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E5%A4%96%E9%95%BF%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E5%90%8C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E5%9B%A0%E8%80%8C%E6%88%91%E6%9D%A5%E5%88%B0%E4%BA%86%E5%8C%97%E4%BA%AC/a-75067545"
             },
             {
-                "title": "氪星晚报｜Airwallex空中云汇完成3.3亿美元G轮融资，估值80亿美元；英报告：国际投资者看好中企加速国际化；全国统一大市场建设稳步推进，省际贸易销售额占比持续提升",
-                "source": "NewsAPI / 36kr.com",
+                "title": "在新闻发布会都几近绝迹的今天，为啥公司还要去展会？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-08",
-                "url": "https://36kr.com/p/3586491208498052"
-            },
-            {
-                "title": "国产 GPU 厂商沐曦股份冲刺科创板上市，申购情况公布",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-08",
-                "url": "https://www.ithome.com/0/903/364.htm"
-            },
-            {
-                "title": "10月DRAM全球销售额暴涨90%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540094.htm"
-            },
-            {
-                "title": "iPhone 17中国卖的有多火：万元Pro Max版销量达上代近六成",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540092.htm"
+                "url": "https://www.ftchinese.com/story/001108372"
             }
         ],
         "mil": [
+            {
+                "title": "中国电信发布 2025 年十大联合创新成果：“天通 + 北斗”国产星基导航增强系统等",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-08",
+                "url": "https://www.ithome.com/0/903/434.htm"
+            },
+            {
+                "title": "跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-08",
+                "url": "https://www.ithome.com/0/903/424.htm"
+            },
             {
                 "title": "Palmer Luckey：应允许AI在战场上决定谁生谁死",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3575108608031619"
             },
             {
-                "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540070.htm"
-            },
-            {
-                "title": "2025 年 11 月被投诉钓鱼网站 TOP10 公布，假冒腾讯公司、国家人社部、苹果公司前三",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-08",
-                "url": "https://www.ithome.com/0/903/346.htm"
-            },
-            {
                 "title": "韩正会见德国外长瓦德富尔 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-08",
@@ -86,7 +86,7 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NWE8zX0pULXZrUmlLcTlmMzZHTkFURk1XQnFwNWQ5Q3pvX3pXRHczVXhHN1E3NVY0cGVETGhiSHNxcDV3TkQzYWJIZ1pkRkJwTW5WeTdJRmJMT0VNNDgzR20tQmdXWEI5VUFTMjl0VlFfNE13MHc?oc=5"
             },
             {
-                "title": "王毅：台湾地位已被“七重锁定” - mfa.gov.cn",
+                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-08",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LOF9sVFJQNWNYeWpEM1g4U1Nrb3BVX2dHQWZLYUxkbWNPVlRaVXhncjhjdHYwRVUydUUxeGdwQ0hyOEFnVnFzN01rRURJenJjeXBQZlZEbmMwZmppWURjYklGdlg4UHROTkgxa2VR?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "美国高校迎来新一轮选专业潮流 AI 专业“挤占”计算机科学席位",
+                "title": "传 iPhone 18 Pro 或首发屏下 Face ID",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540116.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540154.htm"
             },
             {
-                "title": "梅尔茨结束访以之行：没多少人知道他是谁",
+                "title": "1995年的“10天黑客实验” 如何转身成为支撑互联网的JavaScript",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540144.htm"
+            },
+            {
+                "title": "德国外长：我们需要同中国对话，因而我来到了北京",
                 "source": "NewsAPI / DW (English)",
                 "date": "2025-12-08",
-                "url": "https://www.dw.com/zh/%E6%A2%85%E5%B0%94%E8%8C%A8%E7%BB%93%E6%9D%9F%E8%AE%BF%E4%BB%A5%E4%B9%8B%E8%A1%8C%E6%B2%A1%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9F%A5%E9%81%93%E4%BB%96%E6%98%AF%E8%B0%81/a-75062236"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E5%A4%96%E9%95%BF%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E5%90%8C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E5%9B%A0%E8%80%8C%E6%88%91%E6%9D%A5%E5%88%B0%E4%BA%86%E5%8C%97%E4%BA%AC/a-75067545"
             },
             {
-                "title": "氪星晚报｜Airwallex空中云汇完成3.3亿美元G轮融资，估值80亿美元；英报告：国际投资者看好中企加速国际化；全国统一大市场建设稳步推进，省际贸易销售额占比持续提升",
-                "source": "NewsAPI / 36kr.com",
+                "title": "在新闻发布会都几近绝迹的今天，为啥公司还要去展会？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-08",
-                "url": "https://36kr.com/p/3586491208498052"
+                "url": "https://www.ftchinese.com/story/001108372"
             },
             {
-                "title": "消息称大唐移动在德国向小米索要天价专利费：报价数倍于苹果，明年 3 月对簿公堂",
-                "source": "NewsAPI / Ithome.com",
+                "title": "被低估的以太坊Fusaka升级：扩容、降费、从通胀到通缩",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-08",
-                "url": "https://www.ithome.com/0/903/383.htm"
-            },
-            {
-                "title": "英国隐私团体警告：数字身份计划恐成“前所未有的监控体系”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540076.htm"
+                "url": "https://www.ftchinese.com/story/001108386"
             },
             {
                 "title": "韩正会见德国外长瓦德富尔 - mfa.gov.cn",
@@ -154,7 +154,7 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NWE8zX0pULXZrUmlLcTlmMzZHTkFURk1XQnFwNWQ5Q3pvX3pXRHczVXhHN1E3NVY0cGVETGhiSHNxcDV3TkQzYWJIZ1pkRkJwTW5WeTdJRmJMT0VNNDgzR20tQmdXWEI5VUFTMjl0VlFfNE13MHc?oc=5"
             },
             {
-                "title": "王毅：台湾地位已被“七重锁定” - mfa.gov.cn",
+                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-08",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LOF9sVFJQNWNYeWpEM1g4U1Nrb3BVX2dHQWZLYUxkbWNPVlRaVXhncjhjdHYwRVUydUUxeGdwQ0hyOEFnVnFzN01rRURJenJjeXBQZlZEbmMwZmppWURjYklGdlg4UHROTkgxa2VR?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-09T12:38:47.293140+00:00"
+    "last_updated": "2025-12-09T18:23:09.242970+00:00"
 }
