@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "【CDT报告汇】9to5Mac：如果苹果选择像在美国、英国和印度那样对抗中国政府，会发生什么？",
-                "source": "NewsAPI / Chinadigitaltimes.net",
+                "title": "英伟达获准对华出售H200芯片 需向美政府缴纳25%分成",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-09",
-                "url": "https://chinadigitaltimes.net/chinese/723320.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540190.htm"
             },
             {
-                "title": "美国联邦法官裁定特朗普政府海上风电禁令违法",
+                "title": "新世界之巅细节公布：沙特拟建2000米世界第一高塔 打造新型“垂直城市”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540188.htm"
+            },
+            {
+                "title": "安永报告称燃油车正重获消费者青睐",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540186.htm"
+            },
+            {
+                "title": "摩尔线程：即将发布新一代 GPU 架构",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-09",
-                "url": "https://www.ithome.com/0/903/461.htm"
+                "url": "https://www.ithome.com/0/903/538.htm"
             },
             {
-                "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英伟达H200“附条件”对华出售 此前中国市场份额清零",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-09",
-                "url": "https://36kr.com/newsflashes/3587607135928576"
-            },
-            {
-                "title": "科技昨夜今晨 1209：经典版 QQ 官宣回归；苹果 iPhone 17 Pro 系列官方破价；小米汽车定制服务开启交付...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-09",
-                "url": "https://www.ithome.com/0/903/452.htm"
-            },
-            {
-                "title": "8点1氪｜盒马回应“草莓蛋糕制作中将糖放成盐”；万达集团被恢复执行17亿；国家税务总局：严禁平台向“小哥”转嫁涉税义务",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-08",
-                "url": "https://36kr.com/p/3587542278471681"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540176.htm"
             }
         ],
         "mil": [
+            {
+                "title": "AI 让国际空间站机器人导航提速 60%，狭窄通道穿梭不撞墙",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-09",
+                "url": "https://www.ithome.com/0/903/493.htm"
+            },
+            {
+                "title": "OPPO A6I 手机开售：第三代高通骁龙 7、IP69 满级防水，售价 1799 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-09",
+                "url": "https://www.ithome.com/0/903/485.htm"
+            },
             {
                 "title": "8点1氪｜盒马回应“草莓蛋糕制作中将糖放成盐”；万达集团被恢复执行17亿；国家税务总局：严禁平台向“小哥”转嫁涉税义务",
                 "source": "NewsAPI / 36kr.com",
@@ -62,24 +74,6 @@
                 "url": "https://www.ithome.com/0/903/424.htm"
             },
             {
-                "title": "Palmer Luckey：应允许AI在战场上决定谁生谁死",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540112.htm"
-            },
-            {
-                "title": "氪星晚报｜Airwallex空中云汇完成3.3亿美元G轮融资，估值80亿美元；英报告：国际投资者看好中企加速国际化；全国统一大市场建设稳步推进，省际贸易销售额占比持续提升",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-08",
-                "url": "https://36kr.com/p/3586491208498052"
-            },
-            {
-                "title": "韩正会见德国外长瓦德富尔 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-08",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56bElFY3gyMDg5bnNDVFhkbXAzV21hZUhBSzRyM24zLW81ZUxiWWZSWDhrcTA5U1AwN3A5bUxOVW9sY09rTldIZ3htQzcwUk95NlQwNW53c0lqSjJac0JEZzFsV0RVZlk2Z3cw?oc=5"
-            },
-            {
                 "title": "2025年12月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-09",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LOF9sVFJQNWNYeWpEM1g4U1Nrb3BVX2dHQWZLYUxkbWNPVlRaVXhncjhjdHYwRVUydUUxeGdwQ0hyOEFnVnFzN01rRURJenJjeXBQZlZEbmMwZmppWURjYklGdlg4UHROTkgxa2VR?oc=5"
             },
             {
+                "title": "2025年12月8日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-08",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxYUI3a1ZiOWFCYW51NnFoNnFReXNKMEJybWQtNTBqVk4yUFRfVF9GTkljcncxYXNBWlVNMW5nTVNRSnVBeFZQUDllaDBUanBJbkhxQW1Cdi1LQnpvRjBBMnpBZVhrS19EVjQxb3RFSHZNbnFrTWc?oc=5"
+            },
+            {
+                "title": "图片 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-10",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThzYlpVd0pRb29iQ2wySGxZbHRPRk0wWGtrN0d6d0h4Q1pGSldnRnVQc0NiSnRtMmxqS18zUXZSdGRsR2dSWUFDeFg4S2RPODZVSkV1NFk5eGZTTi1EWXpOM2hFUVl6SzhZTHhTU0lGbWRJaXFGc3F1YWJOM2laZzQ2VzJBWHFqWDM0THgxOUVudVpMNFlRUzJsVjJmeVZjTE1pemlGOHcybnBvQmRhT0h3?oc=5"
+            },
+            {
                 "title": "外交部：对日本右翼势力的挑衅言行，任何姑息纵容只会把亚洲人民再次置于危险境地 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-09",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzaDVlVDlfcGlEMmFQUmplSjJ4Si00LW5FOEh5d1hmYno5c3JuaDRQb041UWxmSEI2aEJnalVqRHZFbV9DVzlWZkdB?oc=5"
             },
             {
-                "title": "四川省甘孜军分区推进基层武装部规范化达标建设 - 中国军网",
+                "title": "伟力·文化抗战丨第一集 光芒 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mazVxYW5WekswaXRzNjVEOFRxdDVSdG5vcVlkZndPQXVtWjMxSjBheXpOTTc1V050UXZxSDE5UmNybGhYUUlMS1pfQVBkRWVLMGc?oc=5"
-            },
-            {
-                "title": "蓝天下的静默“冲锋” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-08",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTBnaGhkQU9rU1o2Slc2VFozME1uNkdKWXBJQ0dTNFE4WVA0OGpmRnVpcWlVSWxDMEhBeWZWcjliOXBMZE90dDdXYmtNcC1lN3BNWTJ4X3lfTXNGQmZQcDdFS3VDbTIxQTY2dUZTVDV1RS1SNHNRVkFYYnkwTnl4MGNjYU9uMERVd09pZFdaTGJrWUp1ZEVjUUVNb3RBNUJVUjRxWXpCOUVhQUllbGp4R2JB?oc=5"
+                "date": "2025-12-09",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SeDNtMEFuSjlKMHNQa25mdmprU3RwS2lsRWxoREtHQzhRNnZPUC13eW94Rk1EX0dBZmlwcWxwWW5hb1p1NTAteFVkUzU?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美国联邦法官裁定特朗普政府海上风电禁令违法",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-09",
-                "url": "https://www.ithome.com/0/903/461.htm"
-            },
-            {
-                "title": "科技昨夜今晨 1209：经典版 QQ 官宣回归；苹果 iPhone 17 Pro 系列官方破价；小米汽车定制服务开启交付...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-09",
-                "url": "https://www.ithome.com/0/903/452.htm"
-            },
-            {
-                "title": "8点1氪｜盒马回应“草莓蛋糕制作中将糖放成盐”；万达集团被恢复执行17亿；国家税务总局：严禁平台向“小哥”转嫁涉税义务",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-08",
-                "url": "https://36kr.com/p/3587542278471681"
-            },
-            {
-                "title": "App 遭美国政府施压下架，开发者反手把 14 名官员告了",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-08",
-                "url": "https://www.ithome.com/0/903/445.htm"
-            },
-            {
-                "title": "特朗普政府因移除追踪移民特工行踪的应用程序而被起诉",
+                "title": "新世界之巅细节公布：沙特拟建2000米世界第一高塔 打造新型“垂直城市”",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540170.htm"
+                "date": "2025-12-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540188.htm"
             },
             {
-                "title": "韩正会见德国外长瓦德富尔 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-08",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56bElFY3gyMDg5bnNDVFhkbXAzV21hZUhBSzRyM24zLW81ZUxiWWZSWDhrcTA5U1AwN3A5bUxOVW9sY09rTldIZ3htQzcwUk95NlQwNW53c0lqSjJac0JEZzFsV0RVZlk2Z3cw?oc=5"
+                "title": "安永报告称燃油车正重获消费者青睐",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540186.htm"
+            },
+            {
+                "title": "“大空头”伯里警告：OpenAI将是下一个网景 注定要失败",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540182.htm"
+            },
+            {
+                "title": "英伟达H200“附条件”对华出售 此前中国市场份额清零",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540176.htm"
+            },
+            {
+                "title": "鸿蒙智行五界共同宣布全面深化战略合作，将打造行业首个跨品牌共享售后服务中心网络",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-09",
+                "url": "https://www.ithome.com/0/903/492.htm"
             },
             {
                 "title": "2025年12月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LOF9sVFJQNWNYeWpEM1g4U1Nrb3BVX2dHQWZLYUxkbWNPVlRaVXhncjhjdHYwRVUydUUxeGdwQ0hyOEFnVnFzN01rRURJenJjeXBQZlZEbmMwZmppWURjYklGdlg4UHROTkgxa2VR?oc=5"
             },
             {
+                "title": "2025年12月8日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-08",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxYUI3a1ZiOWFCYW51NnFoNnFReXNKMEJybWQtNTBqVk4yUFRfVF9GTkljcncxYXNBWlVNMW5nTVNRSnVBeFZQUDllaDBUanBJbkhxQW1Cdi1LQnpvRjBBMnpBZVhrS19EVjQxb3RFSHZNbnFrTWc?oc=5"
+            },
+            {
+                "title": "图片 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-10",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThzYlpVd0pRb29iQ2wySGxZbHRPRk0wWGtrN0d6d0h4Q1pGSldnRnVQc0NiSnRtMmxqS18zUXZSdGRsR2dSWUFDeFg4S2RPODZVSkV1NFk5eGZTTi1EWXpOM2hFUVl6SzhZTHhTU0lGbWRJaXFGc3F1YWJOM2laZzQ2VzJBWHFqWDM0THgxOUVudVpMNFlRUzJsVjJmeVZjTE1pemlGOHcybnBvQmRhT0h3?oc=5"
+            },
+            {
                 "title": "外交部：对日本右翼势力的挑衅言行，任何姑息纵容只会把亚洲人民再次置于危险境地 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-09",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzaDVlVDlfcGlEMmFQUmplSjJ4Si00LW5FOEh5d1hmYno5c3JuaDRQb041UWxmSEI2aEJnalVqRHZFbV9DVzlWZkdB?oc=5"
             },
             {
-                "title": "四川省甘孜军分区推进基层武装部规范化达标建设 - 中国军网",
+                "title": "伟力·文化抗战丨第一集 光芒 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mazVxYW5WekswaXRzNjVEOFRxdDVSdG5vcVlkZndPQXVtWjMxSjBheXpOTTc1V050UXZxSDE5UmNybGhYUUlMS1pfQVBkRWVLMGc?oc=5"
-            },
-            {
-                "title": "蓝天下的静默“冲锋” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-08",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTBnaGhkQU9rU1o2Slc2VFozME1uNkdKWXBJQ0dTNFE4WVA0OGpmRnVpcWlVSWxDMEhBeWZWcjliOXBMZE90dDdXYmtNcC1lN3BNWTJ4X3lfTXNGQmZQcDdFS3VDbTIxQTY2dUZTVDV1RS1SNHNRVkFYYnkwTnl4MGNjYU9uMERVd09pZFdaTGJrWUp1ZEVjUUVNb3RBNUJVUjRxWXpCOUVhQUllbGp4R2JB?oc=5"
+                "date": "2025-12-09",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SeDNtMEFuSjlKMHNQa25mdmprU3RwS2lsRWxoREtHQzhRNnZPUC13eW94Rk1EX0dBZmlwcWxwWW5hb1p1NTAteFVkUzU?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-10T01:23:01.558206+00:00"
+    "last_updated": "2025-12-10T06:28:59.243262+00:00"
 }
