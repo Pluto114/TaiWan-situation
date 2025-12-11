@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "被制裁实体的应用被发现仍在苹果与Google应用商店上架",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540440.htm"
+            },
+            {
+                "title": "政治局回忆罕见不提楼市 专家：中国房地产彻底没救了(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-10",
+                "url": "https://www.secretchina.com/news/gb/2025/12/10/1091869.html"
+            },
+            {
+                "title": "一汽红旗天工 05 上线苹果数字钱包 UWB 车钥匙，支持 iPhone / Apple Watch 解锁车辆",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-10",
+                "url": "https://www.ithome.com/0/904/019.htm"
+            },
+            {
                 "title": "氪星晚报｜周靖人成为阿里合伙人，通义实验室持续调整应对激烈竞争；美团AI转向，前字节视觉模型AI平台负责人潘欣加入；泡泡玛特：委任LVMH大中华区集团总裁吴越为非执行董事",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-10",
@@ -22,27 +40,15 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-10",
                 "url": "https://www.ithome.com/0/903/965.htm"
-            },
-            {
-                "title": "实验室带你过周末：2025.12.13 - 12.14 上海篇",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2025-12-10",
-                "url": "https://www.toodaylab.com/83834"
-            },
-            {
-                "title": "理想自动驾驶负责人郎咸朋回应宇树王兴兴对 VLA 质疑：空谈架构不如看疗效",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-10",
-                "url": "https://www.ithome.com/0/903/940.htm"
-            },
-            {
-                "title": "中国稀土优势相对美国究竟有多大？如何让优势进一步拉大？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540396.htm"
             }
         ],
         "mil": [
+            {
+                "title": "国产大飞机C919首位女机长完成首飞：9年零差错",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540424.htm"
+            },
             {
                 "title": "腾讯退出派拉蒙对华纳兄弟的收购竞标",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/3589443788538120"
             },
             {
-                "title": "泡泡玛特「闯美」成功了？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-10",
-                "url": "https://36kr.com/p/3589434203602945"
-            },
-            {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-11",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThzYlpVd0pRb29iQ2wySGxZbHRPRk0wWGtrN0d6d0h4Q1pGSldnRnVQc0NiSnRtMmxqS18zUXZSdGRsR2dSWUFDeFg4S2RPODZVSkV1NFk5eGZTTi1EWXpOM2hFUVl6SzhZTHhTU0lGbWRJaXFGc3F1YWJOM2laZzQ2VzJBWHFqWDM0THgxOUVudVpMNFlRUzJsVjJmeVZjTE1pemlGOHcybnBvQmRhT0h3?oc=5"
             },
             {
-                "title": "中国海警舰艇编队12月10日在我钓鱼岛领海巡航 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJVks5cVZUaEc1djh6QWI2NldPQTVFR0djYld1UlQ4S29vNG1zLUZ2MjdaRXZFM2ozVTdSNk9FaXg0ck1LaXRjZkNtM0Y2RWtYc0E?oc=5"
-            },
-            {
                 "title": "今冬最大范围雨雪“首战” 新疆全力应对保民生 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dDJYcm5ORVBJQ21zN3dnQ3JVc0diSjZsSlJzc0lKcHExVURqcUEySEJ0TlFPMlkzaXZKMVg3N2x0WGZpR1dKcVVUOXdiLXllRmc?oc=5"
+            },
+            {
+                "title": "日本青森县东部海域地震致52人受伤 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-10",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQ3JkcXdqZ1hzTVh3SEcya3lFLVMwVF9fdldpRGVYdmE2LVdGcXdIZnVPQ0tRay1CSmRERDRTaWd1clVLVjZ3cnU5X0paQkIycVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "腾讯退出派拉蒙对华纳兄弟的收购竞标",
+                "title": "英国数据新研究：电动车对行人并不更危险 SUV才是最大隐患",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540406.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540458.htm"
             },
             {
-                "title": "因韩国史上最大规模数据泄露事件 Coupang首席执行官辞职",
+                "title": "川普政府拟对游客社交媒体进行全面审查(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-10",
+                "url": "https://www.secretchina.com/news/gb/2025/12/11/1091878.html"
+            },
+            {
+                "title": "美国务卿下令外交系统改回“Times New Roman”衬线字体",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540404.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540442.htm"
             },
             {
-                "title": "氪星晚报｜周靖人成为阿里合伙人，通义实验室持续调整应对激烈竞争；美团AI转向，前字节视觉模型AI平台负责人潘欣加入；泡泡玛特：委任LVMH大中华区集团总裁吴越为非执行董事",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国一男子试图 7500 万美元倒卖 Lambo.com 域名，被判必须交给兰博基尼",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-10",
-                "url": "https://36kr.com/p/3589598808883209"
+                "url": "https://www.ithome.com/0/904/028.htm"
             },
             {
-                "title": "实验室带你过周末：2025.12.13 - 12.14 上海篇",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "政治局回忆罕见不提楼市 专家：中国房地产彻底没救了(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-10",
-                "url": "https://www.toodaylab.com/83834"
-            },
-            {
-                "title": "中国稀土优势相对美国究竟有多大？如何让优势进一步拉大？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540396.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/10/1091869.html"
             },
             {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThzYlpVd0pRb29iQ2wySGxZbHRPRk0wWGtrN0d6d0h4Q1pGSldnRnVQc0NiSnRtMmxqS18zUXZSdGRsR2dSWUFDeFg4S2RPODZVSkV1NFk5eGZTTi1EWXpOM2hFUVl6SzhZTHhTU0lGbWRJaXFGc3F1YWJOM2laZzQ2VzJBWHFqWDM0THgxOUVudVpMNFlRUzJsVjJmeVZjTE1pemlGOHcybnBvQmRhT0h3?oc=5"
             },
             {
-                "title": "中国海警舰艇编队12月10日在我钓鱼岛领海巡航 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJVks5cVZUaEc1djh6QWI2NldPQTVFR0djYld1UlQ4S29vNG1zLUZ2MjdaRXZFM2ozVTdSNk9FaXg0ck1LaXRjZkNtM0Y2RWtYc0E?oc=5"
-            },
-            {
                 "title": "今冬最大范围雨雪“首战” 新疆全力应对保民生 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dDJYcm5ORVBJQ21zN3dnQ3JVc0diSjZsSlJzc0lKcHExVURqcUEySEJ0TlFPMlkzaXZKMVg3N2x0WGZpR1dKcVVUOXdiLXllRmc?oc=5"
+            },
+            {
+                "title": "日本青森县东部海域地震致52人受伤 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-10",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQ3JkcXdqZ1hzTVh3SEcya3lFLVMwVF9fdldpRGVYdmE2LVdGcXdIZnVPQ0tRay1CSmRERDRTaWd1clVLVjZ3cnU5X0paQkIycVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-11T12:39:57.932718+00:00"
+    "last_updated": "2025-12-11T18:26:11.393449+00:00"
 }
