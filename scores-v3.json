@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "消息称大众小鹏首款合作车型与众07将在12月31日落地",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中欧基金杜厚良：2026年AI应用、新软件及物理世界应用潜力或成“灰犀牛”",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540288.htm"
+                "url": "https://36kr.com/newsflashes/3589336723456001"
             },
             {
-                "title": "追随沙特步伐 卡塔尔设立“国家级AI公司”抢滩未来",
+                "title": "AI繁荣引爆需求 “存储巨头”SK海力士正考虑赴美上市",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540286.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540304.htm"
             },
             {
-                "title": "科技昨夜今晨 1210：美政府批准对华出售 H200 芯片；19999 元起三星首款三折叠手机国行预订；摩尔线程将发布新一代 GPU 架构...",
+                "title": "欧洲央行管委帕内塔：美元地位正在下降 全球货币或迎“多极化”格局",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540300.htm"
+            },
+            {
+                "title": "理想 AI 眼镜 Livis 搭载恒玄科技 BES2800BP 芯片：6nm 工艺、集成双模蓝牙和低功耗 WiFi 6",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-10",
-                "url": "https://www.ithome.com/0/903/762.htm"
+                "url": "https://www.ithome.com/0/903/869.htm"
             },
             {
-                "title": "8点1氪｜山姆回应“麻薯盒内出现活老鼠”；水银体温计明年起禁产；京东外卖回应“随心囤”Bug ：将承担商家全部损失",
-                "source": "NewsAPI / 36kr.com",
+                "title": "微软Excel迎来四十岁：独孤求败的办公基石工具",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-10",
-                "url": "https://36kr.com/p/3588961105330434"
-            },
-            {
-                "title": "百万“抗癌针”、长效降脂针，真降价了 ｜焦点分析",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-10",
-                "url": "https://36kr.com/p/3588071118356480"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540294.htm"
             }
         ],
         "mil": [
+            {
+                "title": "微软Excel迎来四十岁：独孤求败的办公基石工具",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540294.htm"
+            },
+            {
+                "title": "快造科技获高瓴、美团领投数亿元B轮融资，曾创下3D打印行业最高众筹记录｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-10",
+                "url": "https://36kr.com/p/3589076472872964"
+            },
+            {
+                "title": "这个世界已步入美国剧本(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-10",
+                "url": "https://www.secretchina.com/news/gb/2025/12/10/1091834.html"
+            },
             {
                 "title": "华为鸿蒙 HarmonyOS 5 / 6 实况窗支持应用更新，新增淘宝闪购、网易云音乐等",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-10",
                 "url": "https://www.secretchina.com/news/gb/2025/12/10/1091832.html"
-            },
-            {
-                "title": "科技昨夜今晨 1210：美政府批准对华出售 H200 芯片；19999 元起三星首款三折叠手机国行预订；摩尔线程将发布新一代 GPU 架构...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-10",
-                "url": "https://www.ithome.com/0/903/762.htm"
-            },
-            {
-                "title": "8点1氪｜山姆回应“麻薯盒内出现活老鼠”；水银体温计明年起禁产；京东外卖回应“随心囤”Bug ：将承担商家全部损失",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-10",
-                "url": "https://36kr.com/p/3588961105330434"
-            },
-            {
-                "title": "微软宣布未来四年将在印度投资 175 亿美元，布局 AI 与云计算业务",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-09",
-                "url": "https://www.ithome.com/0/903/752.htm"
             },
             {
                 "title": "2025年12月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入｜智能涌现独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-10",
+                "url": "https://36kr.com/p/3589320428879873"
+            },
+            {
+                "title": "AI繁荣引爆需求 “存储巨头”SK海力士正考虑赴美上市",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540304.htm"
+            },
+            {
+                "title": "欧洲央行管委帕内塔：美元地位正在下降 全球货币或迎“多极化”格局",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540300.htm"
+            },
+            {
                 "title": "华为鸿蒙 HarmonyOS 5 / 6 实况窗支持应用更新，新增淘宝闪购、网易云音乐等",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-10",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-10",
                 "url": "https://www.secretchina.com/news/gb/2025/12/10/1091832.html"
-            },
-            {
-                "title": "美国与中国已经处于冷战状态(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-10",
-                "url": "https://www.secretchina.com/news/gb/2025/12/10/1091831.html"
-            },
-            {
-                "title": "FCC警告可能切断中国三大电信企业与美国电话网络的连接(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-10",
-                "url": "https://www.secretchina.com/news/gb/2025/12/10/1091829.html"
-            },
-            {
-                "title": "2026 金球奖提名揭晓：苹果靠《人生切割术》等杀疯了，确立“高端美剧”霸主地位",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-10",
-                "url": "https://www.ithome.com/0/903/763.htm"
             },
             {
                 "title": "2025年12月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-11T01:23:49.781691+00:00"
+    "last_updated": "2025-12-11T06:29:49.110811+00:00"
 }
