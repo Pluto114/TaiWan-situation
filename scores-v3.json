@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "“特朗普金卡”正式发售 面向个人定价100万美元",
+                "title": "特朗普新国安战略：让中国满意的美国外交？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-11",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E8%AE%A9%E4%B8%AD%E5%9B%BD%E6%BB%A1%E6%84%8F%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4/a-75095824"
+            },
+            {
+                "title": "投资者称马斯克旗下SpaceX的上市将成“史上最疯狂IPO”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540528.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540580.htm"
             },
             {
-                "title": "中兴通讯被曝拟就海外行贿案向美方支付逾10亿美元和解金",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540522.htm"
-            },
-            {
-                "title": "俄罗斯全新CPU首次公开：真正自主龙芯授权 最高64核心2.0GHz",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540510.htm"
-            },
-            {
-                "title": "10 英寸“口袋显示器”：三星最贵手机 Galaxy Z TriFold 可变身 Win10/Win11 副屏",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/157.htm"
-            },
-            {
-                "title": "前百川智能合伙人邓江创业，想走一条不同的AI医疗路",
+                "title": "氪星晚报｜朱啸虎：十年后中国AI肯定领先美国；夸克AI眼镜“一机难求”，核心供应商曝已新增产线；钉钉8.1.10版本上线，AI可以自动回复同事的聊天",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-11",
-                "url": "https://36kr.com/p/3590707769163780"
+                "url": "https://36kr.com/p/3591005465526275"
+            },
+            {
+                "title": "双十二星闪设备选购指南：无线连接“天花板”级体验，办公家居游戏全覆盖",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-11",
+                "url": "https://www.ithome.com/0/904/280.htm"
+            },
+            {
+                "title": "苹果的“空间魔法”，iPhone 17 系列 A19/Pro 芯片 Die Size 较前代缩小 9%/10%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-11",
+                "url": "https://www.ithome.com/0/904/270.htm"
             }
         ],
         "mil": [
+            {
+                "title": "投资者称马斯克旗下SpaceX的上市将成“史上最疯狂IPO”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540580.htm"
+            },
+            {
+                "title": "泽连斯基：俄罗斯向中国出让领土主权换取军工合作",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-11",
+                "url": "https://www.dw.com/zh/%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E8%AE%A9%E9%A2%86%E5%9C%9F%E4%B8%BB%E6%9D%83%E6%8D%A2%E5%8F%96%E5%86%9B%E5%B7%A5%E5%90%88%E4%BD%9C/a-75107270"
+            },
+            {
+                "title": "双十二星闪设备选购指南：无线连接“天花板”级体验，办公家居游戏全覆盖",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-11",
+                "url": "https://www.ithome.com/0/904/280.htm"
+            },
+            {
+                "title": "硅谷11万人大裁员，真凶出现了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540558.htm"
+            },
             {
                 "title": "特朗普谈6G：能让你更深入地看清别人的皮肤吗？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-11",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1540498.htm"
-            },
-            {
-                "title": "首创空中蜂群母舰 “九天”无人机首飞成功",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540496.htm"
-            },
-            {
-                "title": "美国AI春晚，一盆凉水浇在Agent身上",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-11",
-                "url": "https://36kr.com/p/3590703651389442"
-            },
-            {
-                "title": "“地球人你好”：首个太空 AI 发回问候，英伟达 H100 “上天”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/063.htm"
-            },
-            {
-                "title": "用AI做整包临床试验，「深度智耀」获近5000万美元D轮融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-11",
-                "url": "https://36kr.com/p/3589638825984009"
             },
             {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻累西腓总领事兰和平会见伯南布哥州日报社社长 - mfa.gov.cn",
+                "title": "驻爱尔兰大使赵希源会见爱外交贸易部新任礼宾司司长奥布莱恩_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamNTeVdnVWplZGQtelc3Q1pSTXBoa2VTcVJXb2JKcW1PWEQ1MzFGcjkwQ1FmSDJJRHhaSEtTT2QtMUhQVzNjQmg0NWF1cW5tWEVEQWtaVm1jLUxwdTZFTEprdm9UaWlyeXUtbldwNjFkMWJEcUdhWjdMendhbkVaUzhFdWE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmpkbElvb2pKUHBSeGVXaVNyWGpzX0ZWVU1EMUE0R1BMeTh0RExKZVM2UjNYZWVwVjN4Sl9nX2JaemxvNGhjcWVhUHp3MV9ILTdwWlBVNEJLdS1FLTZ0YTRWSDIzQ2stdndGVDdwUE5VRUQyanN2QVktR1ZJRFJsb2plNms?oc=5"
             },
             {
                 "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "中兴通讯被曝拟就海外行贿案向美方支付逾10亿美元和解金",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540522.htm"
-            },
-            {
-                "title": "俄罗斯全新CPU首次公开：真正自主龙芯授权 最高64核心2.0GHz",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540510.htm"
-            },
-            {
-                "title": "10 英寸“口袋显示器”：三星最贵手机 Galaxy Z TriFold 可变身 Win10/Win11 副屏",
+                "title": "摩尔线程科创板上市股价暴涨 723%，官方提示新产品量产仍需时日",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/157.htm"
+                "url": "https://www.ithome.com/0/904/293.htm"
             },
             {
-                "title": "前百川智能合伙人邓江创业，想走一条不同的AI医疗路",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特朗普新国安战略：让中国满意的美国外交？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-11",
-                "url": "https://36kr.com/p/3590707769163780"
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E8%AE%A9%E4%B8%AD%E5%9B%BD%E6%BB%A1%E6%84%8F%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4/a-75095824"
             },
             {
-                "title": "京东工业于港交所主板上市 募资28.27亿港元",
+                "title": "TerraUSD创始人权道亨因400亿美元加密货币崩盘案将被判刑",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540474.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540582.htm"
+            },
+            {
+                "title": "投资者称马斯克旗下SpaceX的上市将成“史上最疯狂IPO”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540580.htm"
+            },
+            {
+                "title": "泽连斯基：俄罗斯向中国出让领土主权换取军工合作",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-11",
+                "url": "https://www.dw.com/zh/%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E8%AE%A9%E9%A2%86%E5%9C%9F%E4%B8%BB%E6%9D%83%E6%8D%A2%E5%8F%96%E5%86%9B%E5%B7%A5%E5%90%88%E4%BD%9C/a-75107270"
             },
             {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻累西腓总领事兰和平会见伯南布哥州日报社社长 - mfa.gov.cn",
+                "title": "驻爱尔兰大使赵希源会见爱外交贸易部新任礼宾司司长奥布莱恩_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamNTeVdnVWplZGQtelc3Q1pSTXBoa2VTcVJXb2JKcW1PWEQ1MzFGcjkwQ1FmSDJJRHhaSEtTT2QtMUhQVzNjQmg0NWF1cW5tWEVEQWtaVm1jLUxwdTZFTEprdm9UaWlyeXUtbldwNjFkMWJEcUdhWjdMendhbkVaUzhFdWE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmpkbElvb2pKUHBSeGVXaVNyWGpzX0ZWVU1EMUE0R1BMeTh0RExKZVM2UjNYZWVwVjN4Sl9nX2JaemxvNGhjcWVhUHp3MV9ILTdwWlBVNEJLdS1FLTZ0YTRWSDIzQ2stdndGVDdwUE5VRUQyanN2QVktR1ZJRFJsb2plNms?oc=5"
             },
             {
                 "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-12T06:28:54.871100+00:00"
+    "last_updated": "2025-12-12T12:38:23.512791+00:00"
 }
