@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "“地球人你好”：首个太空 AI 发回问候，英伟达 H100 “上天”",
+                "title": "“特朗普金卡”正式发售 面向个人定价100万美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540528.htm"
+            },
+            {
+                "title": "中兴通讯被曝拟就海外行贿案向美方支付逾10亿美元和解金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540522.htm"
+            },
+            {
+                "title": "俄罗斯全新CPU首次公开：真正自主龙芯授权 最高64核心2.0GHz",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540510.htm"
+            },
+            {
+                "title": "10 英寸“口袋显示器”：三星最贵手机 Galaxy Z TriFold 可变身 Win10/Win11 副屏",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/063.htm"
+                "url": "https://www.ithome.com/0/904/157.htm"
             },
             {
-                "title": "丰田将在 BEV 车载充电系统导入 Wolfspeed 碳化硅 MOSFET 器件",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/061.htm"
-            },
-            {
-                "title": "中信建投：未来PCB将更加类似于半导体，价值量将稳步提升",
+                "title": "前百川智能合伙人邓江创业，想走一条不同的AI医疗路",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-11",
-                "url": "https://36kr.com/newsflashes/3590389105393673"
-            },
-            {
-                "title": "燃油车加速智能化，供应链或重塑",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-11",
-                "url": "https://36kr.com/newsflashes/3590387019530498"
-            },
-            {
-                "title": "IMF上调2025年中国经济增长预期至5%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-11",
-                "url": "https://36kr.com/newsflashes/3590364745040128"
+                "url": "https://36kr.com/p/3590707769163780"
             }
         ],
         "mil": [
+            {
+                "title": "特朗普谈6G：能让你更深入地看清别人的皮肤吗？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540498.htm"
+            },
+            {
+                "title": "首创空中蜂群母舰 “九天”无人机首飞成功",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540496.htm"
+            },
+            {
+                "title": "美国AI春晚，一盆凉水浇在Agent身上",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-11",
+                "url": "https://36kr.com/p/3590703651389442"
+            },
             {
                 "title": "“地球人你好”：首个太空 AI 发回问候，英伟达 H100 “上天”",
                 "source": "NewsAPI / Ithome.com",
@@ -56,34 +74,10 @@
                 "url": "https://36kr.com/p/3589638825984009"
             },
             {
-                "title": "8点1氪｜大使馆回应网红蓝战非被胁迫转账：确有此事；湖北一地：试管婴儿补贴10000元；“特朗普黄金卡”签证开始接受申请",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-10",
-                "url": "https://36kr.com/p/3590371645046793"
-            },
-            {
-                "title": "Temu都柏林欧洲总部遭欧盟突击检查 涉疑获得中国政府不公平补贴",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540464.htm"
-            },
-            {
-                "title": "中国向日本释出 “临战讯号” 要开战吗？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-10",
-                "url": "https://www.secretchina.com/news/gb/2025/12/11/1091881.html"
-            },
-            {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-11",
                 "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdG1FNHFUXzQ1WXVYeGJEeWYyY29CUng1N3pua1pLSGdfaXl3RmM3WnA2b1liMUh5QWoyRkVsSzAzZllubkttempERzM2Si1BT1RFOTE1WFVCTDlCbXg0ZWFUcVlxUVV1RVpuc1gzU1NwQkdXd2VFOWZiYmllQkhlUU9ibw?oc=5"
-            },
-            {
-                "title": "国防部新闻发言人张晓刚就中俄联合空中战略巡航答记者问 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tRVdOWGZUNVVXV1MzR0lPSGZtUHlwWk4yd3ZzajB6amc1cHh0S1NuOTFpQkdCMDlCNkU3UDBnTmd2ZmpvdEctQ2k3YW44VXpQaWRfNVJhdkM?oc=5"
             },
             {
                 "title": "外交动态 - mfa.gov.cn",
@@ -92,54 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "图片 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThzYlpVd0pRb29iQ2wySGxZbHRPRk0wWGtrN0d6d0h4Q1pGSldnRnVQc0NiSnRtMmxqS18zUXZSdGRsR2dSWUFDeFg4S2RPODZVSkV1NFk5eGZTTi1EWXpOM2hFUVl6SzhZTHhTU0lGbWRJaXFGc3F1YWJOM2laZzQ2VzJBWHFqWDM0THgxOUVudVpMNFlRUzJsVjJmeVZjTE1pemlGOHcybnBvQmRhT0h3?oc=5"
+                "title": "驻累西腓总领事兰和平会见伯南布哥州日报社社长 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-11",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamNTeVdnVWplZGQtelc3Q1pSTXBoa2VTcVJXb2JKcW1PWEQ1MzFGcjkwQ1FmSDJJRHhaSEtTT2QtMUhQVzNjQmg0NWF1cW5tWEVEQWtaVm1jLUxwdTZFTEprdm9UaWlyeXUtbldwNjFkMWJEcUdhWjdMendhbkVaUzhFdWE?oc=5"
             },
             {
-                "title": "今冬最大范围雨雪“首战” 新疆全力应对保民生 - 中国军网",
+                "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dDJYcm5ORVBJQ21zN3dnQ3JVc0diSjZsSlJzc0lKcHExVURqcUEySEJ0TlFPMlkzaXZKMVg3N2x0WGZpR1dKcVVUOXdiLXllRmc?oc=5"
+                "date": "2025-12-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQWprSU5QaUhFYk9IU0R5Q2lna2hvN0pSQTRnRUFhd0VPSWRFcjNfMVVUZTdpNnpQbW9pWF9BNFdIM3ZxUi05T09PdU1BcWpORVE?oc=5"
             },
             {
-                "title": "日本青森县东部海域地震致52人受伤 - 中国军网",
+                "title": "国家公祭日丨永远不会忘记！ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQ3JkcXdqZ1hzTVh3SEcya3lFLVMwVF9fdldpRGVYdmE2LVdGcXdIZnVPQ0tRay1CSmRERDRTaWd1clVLVjZ3cnU5X0paQkIycVE?oc=5"
+                "date": "2025-12-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYSEZ2cXVUS0M4N1ZoM0hvcUVLcFpoUW9JSUt2TnFmOHR4bTkyV0NKNlo0OFVLcDZOdVowT1BMU21WZFgxb3ktT0pZOW1IQy1RVGc?oc=5"
+            },
+            {
+                "title": "外交部：高市早苗的涉台错误言论，日本国内有越来越多反对和批评声音 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-11",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDc1daOTBpVkh0cTRlSmFRSThBSGluczdvSzNVYWl5Uk1xaEx3cXBRV1dJX1c2Q1hVbHQya0ZOdl9WYU0tT3VxMHJn?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "全球首富马斯克的一天",
+                "title": "中兴通讯被曝拟就海外行贿案向美方支付逾10亿美元和解金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540522.htm"
+            },
+            {
+                "title": "俄罗斯全新CPU首次公开：真正自主龙芯授权 最高64核心2.0GHz",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540510.htm"
+            },
+            {
+                "title": "10 英寸“口袋显示器”：三星最贵手机 Galaxy Z TriFold 可变身 Win10/Win11 副屏",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/066.htm"
+                "url": "https://www.ithome.com/0/904/157.htm"
             },
             {
-                "title": "一家空间智能公司，要做AI时代的卖水人 | 最前线",
+                "title": "前百川智能合伙人邓江创业，想走一条不同的AI医疗路",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-11",
-                "url": "https://36kr.com/p/3589383556038665"
+                "url": "https://36kr.com/p/3590707769163780"
             },
             {
-                "title": "科技昨夜今晨 1211：2026 马年春晚主题发布；苹果官网推出免费“三小时快送”服务；微软称明年 Win11 游戏体验将大幅提升...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "京东工业于港交所主板上市 募资28.27亿港元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/050.htm"
-            },
-            {
-                "title": "8点1氪｜大使馆回应网红蓝战非被胁迫转账：确有此事；湖北一地：试管婴儿补贴10000元；“特朗普黄金卡”签证开始接受申请",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-10",
-                "url": "https://36kr.com/p/3590371645046793"
-            },
-            {
-                "title": "中企做不到？中国人被日本公司裁员却感恩让我们“一夜暴富”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-10",
-                "url": "https://www.secretchina.com/news/gb/2025/12/11/1091886.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540474.htm"
             },
             {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
@@ -148,37 +148,37 @@
                 "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdG1FNHFUXzQ1WXVYeGJEeWYyY29CUng1N3pua1pLSGdfaXl3RmM3WnA2b1liMUh5QWoyRkVsSzAzZllubkttempERzM2Si1BT1RFOTE1WFVCTDlCbXg0ZWFUcVlxUVV1RVpuc1gzU1NwQkdXd2VFOWZiYmllQkhlUU9ibw?oc=5"
             },
             {
-                "title": "国防部新闻发言人张晓刚就中俄联合空中战略巡航答记者问 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tRVdOWGZUNVVXV1MzR0lPSGZtUHlwWk4yd3ZzajB6amc1cHh0S1NuOTFpQkdCMDlCNkU3UDBnTmd2ZmpvdEctQ2k3YW44VXpQaWRfNVJhdkM?oc=5"
-            },
-            {
                 "title": "外交动态 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2021-12-03",
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "图片 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThzYlpVd0pRb29iQ2wySGxZbHRPRk0wWGtrN0d6d0h4Q1pGSldnRnVQc0NiSnRtMmxqS18zUXZSdGRsR2dSWUFDeFg4S2RPODZVSkV1NFk5eGZTTi1EWXpOM2hFUVl6SzhZTHhTU0lGbWRJaXFGc3F1YWJOM2laZzQ2VzJBWHFqWDM0THgxOUVudVpMNFlRUzJsVjJmeVZjTE1pemlGOHcybnBvQmRhT0h3?oc=5"
+                "title": "驻累西腓总领事兰和平会见伯南布哥州日报社社长 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-11",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamNTeVdnVWplZGQtelc3Q1pSTXBoa2VTcVJXb2JKcW1PWEQ1MzFGcjkwQ1FmSDJJRHhaSEtTT2QtMUhQVzNjQmg0NWF1cW5tWEVEQWtaVm1jLUxwdTZFTEprdm9UaWlyeXUtbldwNjFkMWJEcUdhWjdMendhbkVaUzhFdWE?oc=5"
             },
             {
-                "title": "今冬最大范围雨雪“首战” 新疆全力应对保民生 - 中国军网",
+                "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dDJYcm5ORVBJQ21zN3dnQ3JVc0diSjZsSlJzc0lKcHExVURqcUEySEJ0TlFPMlkzaXZKMVg3N2x0WGZpR1dKcVVUOXdiLXllRmc?oc=5"
+                "date": "2025-12-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQWprSU5QaUhFYk9IU0R5Q2lna2hvN0pSQTRnRUFhd0VPSWRFcjNfMVVUZTdpNnpQbW9pWF9BNFdIM3ZxUi05T09PdU1BcWpORVE?oc=5"
             },
             {
-                "title": "日本青森县东部海域地震致52人受伤 - 中国军网",
+                "title": "国家公祭日丨永远不会忘记！ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCQ3JkcXdqZ1hzTVh3SEcya3lFLVMwVF9fdldpRGVYdmE2LVdGcXdIZnVPQ0tRay1CSmRERDRTaWd1clVLVjZ3cnU5X0paQkIycVE?oc=5"
+                "date": "2025-12-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYSEZ2cXVUS0M4N1ZoM0hvcUVLcFpoUW9JSUt2TnFmOHR4bTkyV0NKNlo0OFVLcDZOdVowT1BMU21WZFgxb3ktT0pZOW1IQy1RVGc?oc=5"
+            },
+            {
+                "title": "外交部：高市早苗的涉台错误言论，日本国内有越来越多反对和批评声音 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-11",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDc1daOTBpVkh0cTRlSmFRSThBSGluczdvSzNVYWl5Uk1xaEx3cXBRV1dJX1c2Q1hVbHQya0ZOdl9WYU0tT3VxMHJn?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-12T01:23:40.478052+00:00"
+    "last_updated": "2025-12-12T06:28:54.871100+00:00"
 }
