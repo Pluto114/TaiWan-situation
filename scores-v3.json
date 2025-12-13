@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "马达巴：在“马赛克之城”寻找历史的斑斓和精度",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-11",
-                "url": "https://www.ftchinese.com/story/001108415"
-            },
-            {
-                "title": "倪夏莲：用体育沟通和影响世界",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-11",
-                "url": "https://www.ftchinese.com/story/001108425"
-            },
-            {
-                "title": "国际货币基金组织敦促中国“勇敢抉择”：减少出口、增加消费",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-11",
-                "url": "https://www.dw.com/zh/%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87%E6%95%A6%E4%BF%83%E4%B8%AD%E5%9B%BD%E5%8B%87%E6%95%A2%E6%8A%89%E6%8B%A9%E5%87%8F%E5%B0%91%E5%87%BA%E5%8F%A3%E5%A2%9E%E5%8A%A0%E6%B6%88%E8%B4%B9/a-75115520"
-            },
-            {
-                "title": "德语媒体：人民币上调汇率势在必行",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-11",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8A%E8%B0%83%E6%B1%87%E7%8E%87%E5%8A%BF%E5%9C%A8%E5%BF%85%E8%A1%8C/a-75115310"
-            },
-            {
-                "title": "涉案 1.03 亿元，华星创业因知识产权合同纠纷起诉三体宇宙",
+                "title": "科技昨夜今晨 1212：“国补”明年有望继续；B站客服辟谣视频全面会员化；小米首座大家电工厂一期竣工投产...",
                 "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-12",
+                "url": "https://www.ithome.com/0/904/360.htm"
+            },
+            {
+                "title": "8点1氪｜B站辟谣“全面会员制”；蜜雪冰城推出7.9元早餐套餐；Apple针对部分产品推出免费3小时快送服务",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-12",
+                "url": "https://36kr.com/p/3591792921640960"
+            },
+            {
+                "title": "卢特尼克：美国不该再接收低于平均收入的移民(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/335.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/12/1091933.html"
+            },
+            {
+                "title": "与迪士尼达成合作同日 OpenAI推出“幻觉更少”的新模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540616.htm"
+            },
+            {
+                "title": "OpenAI推出GPT-5.2 瞄准“代理型 AI”竞争前沿",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540612.htm"
             }
         ],
         "mil": [
+            {
+                "title": "科技昨夜今晨 1212：“国补”明年有望继续；B站客服辟谣视频全面会员化；小米首座大家电工厂一期竣工投产...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-12",
+                "url": "https://www.ithome.com/0/904/360.htm"
+            },
+            {
+                "title": "8点1氪｜B站辟谣“全面会员制”；蜜雪冰城推出7.9元早餐套餐；Apple针对部分产品推出免费3小时快送服务",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-12",
+                "url": "https://36kr.com/p/3591792921640960"
+            },
             {
                 "title": "马达巴：在“马赛克之城”寻找历史的斑斓和精度",
                 "source": "NewsAPI / Ftchinese.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1540596.htm"
             },
             {
-                "title": "《时代》周刊 2025 年度人物公布：“AI 建设者”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/328.htm"
-            },
-            {
-                "title": "张亚勤院士：基础大模型最终不超过 10 个，十年后机器人比人多",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/308.htm"
-            },
-            {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-11",
                 "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdG1FNHFUXzQ1WXVYeGJEeWYyY29CUng1N3pua1pLSGdfaXl3RmM3WnA2b1liMUh5QWoyRkVsSzAzZllubkttempERzM2Si1BT1RFOTE1WFVCTDlCbXg0ZWFUcVlxUVV1RVpuc1gzU1NwQkdXd2VFOWZiYmllQkhlUU9ibw?oc=5"
             },
             {
+                "title": "2025年12月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-12",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFZGdtZ0F4QjhGNXhCSnp1X05vbkZNMDJmb21oS2l3cnU4dTVNaTVmOU9PYXVKOWhqczVxTVpYblVhNGtZNktRZVN1SjVyTjFabmdEVjNhMlFrbEVCMGExM3JMMkc3OWlObXZlX21Ja3FmVDJnYWc?oc=5"
+            },
+            {
                 "title": "外交动态 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2021-12-03",
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
-                "title": "驻爱尔兰大使赵希源会见爱外交贸易部新任礼宾司司长奥布莱恩_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmpkbElvb2pKUHBSeGVXaVNyWGpzX0ZWVU1EMUE0R1BMeTh0RExKZVM2UjNYZWVwVjN4Sl9nX2JaemxvNGhjcWVhUHp3MV9ILTdwWlBVNEJLdS1FLTZ0YTRWSDIzQ2stdndGVDdwUE5VRUQyanN2QVktR1ZJRFJsb2plNms?oc=5"
             },
             {
                 "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "因一个骚操作 印度的反诈App被全民抵制了",
+                "title": "科技昨夜今晨 1212：“国补”明年有望继续；B站客服辟谣视频全面会员化；小米首座大家电工厂一期竣工投产...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-12",
+                "url": "https://www.ithome.com/0/904/360.htm"
+            },
+            {
+                "title": "8点1氪｜B站辟谣“全面会员制”；蜜雪冰城推出7.9元早餐套餐；Apple针对部分产品推出免费3小时快送服务",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-12",
+                "url": "https://36kr.com/p/3591792921640960"
+            },
+            {
+                "title": "与迪士尼达成合作同日 OpenAI推出“幻觉更少”的新模型",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540602.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540616.htm"
             },
             {
-                "title": "美军在委内瑞拉近海扣押油轮 对马杜罗施压重大升级",
-                "source": "NewsAPI / DW (English)",
+                "title": "OpenAI推出GPT-5.2 瞄准“代理型 AI”竞争前沿",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-11",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%86%9B%E5%9C%A8%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%BF%91%E6%B5%B7%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE-%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%96%BD%E5%8E%8B%E9%87%8D%E5%A4%A7%E5%8D%87%E7%BA%A7/a-75115777"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540612.htm"
             },
             {
-                "title": "《有石膏头像的画室》：毕加索的记忆与欲望",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "美上诉法院撤回部分禁令：允许苹果对 Epic 等外部支付链接重新收费",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-11",
-                "url": "https://www.ftchinese.com/story/001108416"
-            },
-            {
-                "title": "马达巴：在“马赛克之城”寻找历史的斑斓和精度",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-11",
-                "url": "https://www.ftchinese.com/story/001108415"
-            },
-            {
-                "title": "丛林到渔村，探寻“从前的巴厘岛”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-11",
-                "url": "https://www.ftchinese.com/story/001108417"
+                "url": "https://www.ithome.com/0/904/347.htm"
             },
             {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdG1FNHFUXzQ1WXVYeGJEeWYyY29CUng1N3pua1pLSGdfaXl3RmM3WnA2b1liMUh5QWoyRkVsSzAzZllubkttempERzM2Si1BT1RFOTE1WFVCTDlCbXg0ZWFUcVlxUVV1RVpuc1gzU1NwQkdXd2VFOWZiYmllQkhlUU9ibw?oc=5"
             },
             {
+                "title": "2025年12月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-12",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFZGdtZ0F4QjhGNXhCSnp1X05vbkZNMDJmb21oS2l3cnU4dTVNaTVmOU9PYXVKOWhqczVxTVpYblVhNGtZNktRZVN1SjVyTjFabmdEVjNhMlFrbEVCMGExM3JMMkc3OWlObXZlX21Ja3FmVDJnYWc?oc=5"
+            },
+            {
                 "title": "外交动态 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2021-12-03",
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
-                "title": "驻爱尔兰大使赵希源会见爱外交贸易部新任礼宾司司长奥布莱恩_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmpkbElvb2pKUHBSeGVXaVNyWGpzX0ZWVU1EMUE0R1BMeTh0RExKZVM2UjNYZWVwVjN4Sl9nX2JaemxvNGhjcWVhUHp3MV9ILTdwWlBVNEJLdS1FLTZ0YTRWSDIzQ2stdndGVDdwUE5VRUQyanN2QVktR1ZJRFJsb2plNms?oc=5"
             },
             {
                 "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-12T18:28:37.048183+00:00"
+    "last_updated": "2025-12-13T01:18:54.889109+00:00"
 }
