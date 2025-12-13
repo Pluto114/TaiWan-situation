@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "科技昨夜今晨 1212：“国补”明年有望继续；B站客服辟谣视频全面会员化；小米首座大家电工厂一期竣工投产...",
+                "title": "苹果与Epic拉锯战上诉失败 禁止27%佣金但准许知识产权费",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540664.htm"
+            },
+            {
+                "title": "三星Galaxy S26 Ultra已获3C认证 搭配60W快充",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540660.htm"
+            },
+            {
+                "title": "让手机不再发烫：消息称三星有意向高通、苹果开放“芯片降温 30%”封装技术",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-12",
-                "url": "https://www.ithome.com/0/904/360.htm"
+                "url": "https://www.ithome.com/0/904/469.htm"
             },
             {
-                "title": "8点1氪｜B站辟谣“全面会员制”；蜜雪冰城推出7.9元早餐套餐；Apple针对部分产品推出免费3小时快送服务",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特斯拉劲敌Rivian开发AI芯片 计划未来车型中取代英伟达产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-12",
-                "url": "https://36kr.com/p/3591792921640960"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540644.htm"
             },
             {
-                "title": "卢特尼克：美国不该再接收低于平均收入的移民(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-11",
-                "url": "https://www.secretchina.com/news/gb/2025/12/12/1091933.html"
-            },
-            {
-                "title": "与迪士尼达成合作同日 OpenAI推出“幻觉更少”的新模型",
+                "title": "荷兰QuantWare研发出量子处理器扩展架构VIO-40K 可支持高达10000个量子比特",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540616.htm"
-            },
-            {
-                "title": "OpenAI推出GPT-5.2 瞄准“代理型 AI”竞争前沿",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540612.htm"
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540622.htm"
             }
         ],
         "mil": [
+            {
+                "title": "《最后生还者》联合主创 Bruce Straley 回归，官宣《Coven of the Chicken Foot》手绘风冒险游戏",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-12",
+                "url": "https://www.ithome.com/0/904/398.htm"
+            },
             {
                 "title": "科技昨夜今晨 1212：“国补”明年有望继续；B站客服辟谣视频全面会员化；小米首座大家电工厂一期竣工投产...",
                 "source": "NewsAPI / Ithome.com",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-11",
                 "url": "https://www.ftchinese.com/story/001108425"
-            },
-            {
-                "title": "迪士尼与OpenAI达成协议 将旗下全品牌经典角色引入Sora平台",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540596.htm"
             },
             {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "科技昨夜今晨 1212：“国补”明年有望继续；B站客服辟谣视频全面会员化；小米首座大家电工厂一期竣工投产...",
+                "title": "特朗普签署行政令 为AI制定统一联邦法规",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540670.htm"
+            },
+            {
+                "title": "苹果与Epic拉锯战上诉失败 禁止27%佣金但准许知识产权费",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540664.htm"
+            },
+            {
+                "title": "苹果iOS 26.2正式版下周发布：动效丝滑流畅 8大新功能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540646.htm"
+            },
+            {
+                "title": "导致约 160 万英国用户数据被盗，密码管理器 LastPass 被重罚 120 万英镑",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-12",
-                "url": "https://www.ithome.com/0/904/360.htm"
+                "url": "https://www.ithome.com/0/904/472.htm"
             },
             {
-                "title": "8点1氪｜B站辟谣“全面会员制”；蜜雪冰城推出7.9元早餐套餐；Apple针对部分产品推出免费3小时快送服务",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-12",
-                "url": "https://36kr.com/p/3591792921640960"
-            },
-            {
-                "title": "与迪士尼达成合作同日 OpenAI推出“幻觉更少”的新模型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540616.htm"
-            },
-            {
-                "title": "OpenAI推出GPT-5.2 瞄准“代理型 AI”竞争前沿",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540612.htm"
-            },
-            {
-                "title": "美上诉法院撤回部分禁令：允许苹果对 Epic 等外部支付链接重新收费",
+                "title": "让手机不再发烫：消息称三星有意向高通、苹果开放“芯片降温 30%”封装技术",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-11",
-                "url": "https://www.ithome.com/0/904/347.htm"
+                "date": "2025-12-12",
+                "url": "https://www.ithome.com/0/904/469.htm"
             },
             {
                 "title": "再次提醒：中国公民近期避免前往日本 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-13T01:18:54.889109+00:00"
+    "last_updated": "2025-12-13T06:26:29.429526+00:00"
 }
