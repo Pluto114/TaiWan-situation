@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "9点1氪丨小米公司辟谣不让卖小米；ChatGPT成人模式或于明年一季度上线；罗马仕公司被罚没超124万元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-13",
+                "url": "https://36kr.com/p/3593276900933897"
+            },
+            {
+                "title": "苹果 iOS / iPadOS 26.2 正式版更新汇总：深化液态玻璃设计、升级睡眠评分等",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-12",
+                "url": "https://www.ithome.com/0/904/666.htm"
+            },
+            {
+                "title": "美国白宫推动联邦统一AI监管架构 科技公司支持但引发强烈反对",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540798.htm"
+            },
+            {
+                "title": "苹果发布 iOS 26.2 正式版：新增提醒闹钟、锁屏显示调整及安全警报强化",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540794.htm"
+            },
+            {
                 "title": "从经济工作会议看见习近平治理的构造性悖论(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-12",
                 "url": "https://www.secretchina.com/news/gb/2025/12/13/1091978.html"
-            },
-            {
-                "title": "甲骨文将部分面向OpenAI的数据中心项目延期至2028年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540792.htm"
-            },
-            {
-                "title": "谷歌 DeepMind 首席 AGI 科学家预测：最小 AGI 或于 2028 年降临",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-12",
-                "url": "https://www.ithome.com/0/904/659.htm"
-            },
-            {
-                "title": "TGA上宣布定档，梁其伟终于把《影之刃零》端上来了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-12",
-                "url": "https://36kr.com/p/3592724488356097"
-            },
-            {
-                "title": "欧盟对小包裹征收3欧元关税 明年生效",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-12",
-                "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%B0%8F%E5%8C%85%E8%A3%B9%E5%BE%81%E6%94%B63%E6%AC%A7%E5%85%83%E5%85%B3%E7%A8%8E-%E6%98%8E%E5%B9%B4%E7%94%9F%E6%95%88/a-75133901"
             }
         ],
         "mil": [
+            {
+                "title": "9点1氪丨小米公司辟谣不让卖小米；ChatGPT成人模式或于明年一季度上线；罗马仕公司被罚没超124万元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-13",
+                "url": "https://36kr.com/p/3593276900933897"
+            },
+            {
+                "title": "苹果 iOS / iPadOS 26.2 正式版更新汇总：深化液态玻璃设计、升级睡眠评分等",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-12",
+                "url": "https://www.ithome.com/0/904/666.htm"
+            },
+            {
+                "title": "Google翻译推实时耳机同声传译测试 还能保留语气与节奏",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540796.htm"
+            },
             {
                 "title": "美国战争部长与日本防卫大臣通话，讨论中国军事活动，并重申美日同盟的重要性",
                 "source": "NewsAPI / Voachinese.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.voachinese.com/a/8092675.html"
             },
             {
-                "title": "谷歌 DeepMind 首席 AGI 科学家预测：最小 AGI 或于 2028 年降临",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-12",
-                "url": "https://www.ithome.com/0/904/659.htm"
-            },
-            {
-                "title": "TGA上宣布定档，梁其伟终于把《影之刃零》端上来了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-12",
-                "url": "https://36kr.com/p/3592724488356097"
-            },
-            {
-                "title": "全球最卖座体育电影：《F1：狂飙飞车》登陆苹果 Apple TV",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-12",
-                "url": "https://www.ithome.com/0/904/643.htm"
-            },
-            {
                 "title": "2025年12月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-12",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUxBODA1aXhqMkxJelhvcGVyWjNGRmxfX0xMaGJSSExBaGtoajBTdExSdk1DeE9IRU9RS3ZNTW1yVG9KUHVJdlB0cmNfRWdWT2pvZXNyQ0dtbXhzdmhFT1paSHFkRlhKWEhzcjdfcmI4bFptaDJ3RXN4ZWE1cXJCOUhHNDA?oc=5"
             },
             {
-                "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQWprSU5QaUhFYk9IU0R5Q2lna2hvN0pSQTRnRUFhd0VPSWRFcjNfMVVUZTdpNnpQbW9pWF9BNFdIM3ZxUi05T09PdU1BcWpORVE?oc=5"
-            },
-            {
                 "title": "China Coast Guard expels Philippine vessels from waters near Xianbin Jiao - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-12",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYSEZ2cXVUS0M4N1ZoM0hvcUVLcFpoUW9JSUt2TnFmOHR4bTkyV0NKNlo0OFVLcDZOdVowT1BMU21WZFgxb3ktT0pZOW1IQy1RVGc?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 军队人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "从经济工作会议看见习近平治理的构造性悖论(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-12",
-                "url": "https://www.secretchina.com/news/gb/2025/12/13/1091978.html"
+                "title": "9点1氪丨小米公司辟谣不让卖小米；ChatGPT成人模式或于明年一季度上线；罗马仕公司被罚没超124万元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-13",
+                "url": "https://36kr.com/p/3593276900933897"
             },
             {
-                "title": "谷歌 DeepMind 首席 AGI 科学家预测：最小 AGI 或于 2028 年降临",
+                "title": "法庭文件披露马斯克起诉苹果和 OpenAI 深层原因：把 X 打造成“西方的微信”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-13",
+                "url": "https://www.ithome.com/0/904/672.htm"
+            },
+            {
+                "title": "苹果 iOS / iPadOS 26.2 正式版更新汇总：深化液态玻璃设计、升级睡眠评分等",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-12",
-                "url": "https://www.ithome.com/0/904/659.htm"
+                "url": "https://www.ithome.com/0/904/666.htm"
             },
             {
-                "title": "TGA上宣布定档，梁其伟终于把《影之刃零》端上来了",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国白宫推动联邦统一AI监管架构 科技公司支持但引发强烈反对",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-12",
-                "url": "https://36kr.com/p/3592724488356097"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540798.htm"
             },
             {
-                "title": "高市早苗「台灣有事論」真是脫稿演出？日本參議員曝光幕僚手稿，要她為中日關係惡化負責",
-                "source": "NewsAPI / Yahoo Entertainment",
+                "title": "Google翻译推实时耳机同声传译测试 还能保留语气与节奏",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-12",
-                "url": "https://tw.news.yahoo.com/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E5%8F%B0%E7%81%A3%E6%9C%89%E4%BA%8B%E8%AB%96-%E7%9C%9F%E6%98%AF%E8%84%AB%E7%A8%BF%E6%BC%94%E5%87%BA-%E6%97%A5%E6%9C%AC%E5%8F%83%E8%AD%B0%E5%93%A1%E6%9B%9D%E5%85%89%E5%B9%95%E5%83%9A%E6%89%8B%E7%A8%BF-%E8%A6%81%E5%A5%B9%E7%82%BA%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E6%83%A1%E5%8C%96%E8%B2%A0%E8%B2%AC-154000083.html"
-            },
-            {
-                "title": "德语媒体：干部晋升机制决定了中国的产能过剩",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-12",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%B9%B2%E9%83%A8%E6%99%8B%E5%8D%87%E6%9C%BA%E5%88%B6%E5%86%B3%E5%AE%9A%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9/a-75130983"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540796.htm"
             },
             {
                 "title": "2025年12月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUxBODA1aXhqMkxJelhvcGVyWjNGRmxfX0xMaGJSSExBaGtoajBTdExSdk1DeE9IRU9RS3ZNTW1yVG9KUHVJdlB0cmNfRWdWT2pvZXNyQ0dtbXhzdmhFT1paSHFkRlhKWEhzcjdfcmI4bFptaDJ3RXN4ZWE1cXJCOUhHNDA?oc=5"
             },
             {
-                "title": "要强化政治干部能力建设，以能力提升立起政治工作威信 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQWprSU5QaUhFYk9IU0R5Q2lna2hvN0pSQTRnRUFhd0VPSWRFcjNfMVVUZTdpNnpQbW9pWF9BNFdIM3ZxUi05T09PdU1BcWpORVE?oc=5"
-            },
-            {
                 "title": "China Coast Guard expels Philippine vessels from waters near Xianbin Jiao - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-12",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYSEZ2cXVUS0M4N1ZoM0hvcUVLcFpoUW9JSUt2TnFmOHR4bTkyV0NKNlo0OFVLcDZOdVowT1BMU21WZFgxb3ktT0pZOW1IQy1RVGc?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 军队人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-13T18:23:06.737469+00:00"
+    "last_updated": "2025-12-14T01:29:05.277566+00:00"
 }
