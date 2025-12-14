@@ -4,13 +4,31 @@
     "active_indicators_count": 0,
     "active_indicators": {},
     "category_reasoning": {
-        "econ": "API错误: 403",
-        "mil": "API错误: 403",
-        "pol": "API错误: 403",
-        "local": "API错误: 403"
+        "econ": "API错误: 400",
+        "mil": "API错误: 400",
+        "pol": "API错误: 400",
+        "local": "API错误: 400"
     },
     "news_sources": {
         "econ": [
+            {
+                "title": "深度智联地产AI就绪，房地产智能化进入“交付时刻”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-13",
+                "url": "https://36kr.com/p/3593367577182470"
+            },
+            {
+                "title": "二十岁当保安 少走四十年弯路？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540828.htm"
+            },
+            {
+                "title": "内存涨价压力开始传导 戴尔据传下周全面提高商用PC定价",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540822.htm"
+            },
             {
                 "title": "中国经济年会：明年要扩大绿电应用，加快新型能源体系建设",
                 "source": "NewsAPI / 36kr.com",
@@ -22,27 +40,27 @@
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2025-12-13",
                 "url": "https://chinadigitaltimes.net/chinese/723424.html"
-            },
-            {
-                "title": "韩文秀：明年还将根据形势变化出台实施增量政策",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-13",
-                "url": "https://36kr.com/newsflashes/3593406942576903"
-            },
-            {
-                "title": "甲骨文退出自研 AI 芯片赛道，董事长埃里森阐述背后原因",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/697.htm"
-            },
-            {
-                "title": "摩尔线程回应“ 75 亿元闲资做理财”：实际金额明显小于上限，绝不会因此影响募投项目的正常实施和公司主营业务的正常发展",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/693.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中日关系紧张之际 中国低调纪念南京大屠杀",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-13",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E4%BD%8E%E8%B0%83%E7%BA%AA%E5%BF%B5%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80/a-75141342"
+            },
+            {
+                "title": "深度智联地产AI就绪，房地产智能化进入“交付时刻”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-13",
+                "url": "https://36kr.com/p/3593367577182470"
+            },
+            {
+                "title": "泰柬边境今晚停火 东协联手美国启动史无前例监督机制(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-13",
+                "url": "https://www.secretchina.com/news/gb/2025/12/13/1092009.html"
+            },
             {
                 "title": "9点1氪丨小米公司辟谣不让卖小米；ChatGPT成人模式或于明年一季度上线；罗马仕公司被罚没超124万元",
                 "source": "NewsAPI / 36kr.com",
@@ -56,40 +74,28 @@
                 "url": "https://www.ithome.com/0/904/666.htm"
             },
             {
-                "title": "Google翻译推实时耳机同声传译测试 还能保留语气与节奏",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540796.htm"
+                "title": "王毅同阿联酋副总理兼外长阿卜杜拉会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-13",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jVUdXSnlrcUhzV1hPOEQ0TVlQLVh2SVU2STVPMmVTM2NWU2t2Z3dwVXplWjVOQUxWRlpMTDZCQ25YMWs0Qlh2bjE3aGlWdkttX2s5SDJieGtTYTdRemo0TjRlLTJjcXpBV3NCejBWSnVabDk2X2tjVUlXMA?oc=5"
             },
             {
-                "title": "美国战争部长与日本防卫大臣通话，讨论中国军事活动，并重申美日同盟的重要性",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-12-12",
-                "url": "https://www.voachinese.com/a/hegseth-koizumi-sound-alarm-on-china-underscore-vital-u-s-japan-allianceance-20251212/8092675.html"
-            },
-            {
-                "title": "美国战争部长与日本防卫大臣通话，讨论中国军事活动，并重申美日同盟的重要性",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-12-12",
-                "url": "https://www.voachinese.com/a/8092675.html"
-            },
-            {
-                "title": "2025年12月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "赵乐际同卢森堡国民议会议长维斯勒会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-12",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFZGdtZ0F4QjhGNXhCSnp1X05vbkZNMDJmb21oS2l3cnU4dTVNaTVmOU9PYXVKOWhqczVxTVpYblVhNGtZNktRZVN1SjVyTjFabmdEVjNhMlFrbEVCMGExM3JMMkc3OWlObXZlX21Ja3FmVDJnYWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHF3bGl5Q2VtOUpwTGh3M1pac19CelM1eGFyZmZkVDlTblV1VFIteHFySlozUklZckdDWDRrYXpUdWVnZHlOdEZvVGRLbG9CLWRsdzJsMll5SWxNMkFXbGV5cFFQdGxXZlAxWGUtSDBFOFdwSk9zeUdGUmd2RVZwSWpSRHJ5LW9KZ243cVpR?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
+                "title": "王毅会见阿联酋总统中国事务特使哈勒敦 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2025-12-13",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQVVrU0k2ZVYxbHhOVmtvTXYwWG9BVEoyUXN6Z2VmRzl4a1QxWGZsREU5dWM5UTdqZWowd011bjVGd3ZOVWx3YlBmb0s3UFdHWWprbU42QnRtQ1RWV0NVd3loUy1hZjFGbWxsdy1B?oc=5"
             },
             {
-                "title": "驻巴基斯坦大使姜再冬同巴国民议会各党派议员就中巴农业和减贫合作进行专题交流 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "俄军“匕首”导弹创单月使用新纪录乌方情报机构罕见承认前线形势严峻- 八一视频 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-12",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUxBODA1aXhqMkxJelhvcGVyWjNGRmxfX0xMaGJSSExBaGtoajBTdExSdk1DeE9IRU9RS3ZNTW1yVG9KUHVJdlB0cmNfRWdWT2pvZXNyQ0dtbXhzdmhFT1paSHFkRlhKWEhzcjdfcmI4bFptaDJ3RXN4ZWE1cXJCOUhHNDA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UksyNnpoS3JlMGlEcG1zUUlQamxEUldiNUFNSUdVU19OY0xiWVg0Umd0S0NpUmRtMnUtM24xSDRROWhXSXZZRHk3djV1UHREQlE?oc=5"
             },
             {
                 "title": "China Coast Guard expels Philippine vessels from waters near Xianbin Jiao - 中国军网",
@@ -102,62 +108,62 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "历史不容忘却，坚决捍卫和平——二〇二五年南京大屠杀死难者国家公祭仪式侧记 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sY2VaUTdKNmJGRi1UaGdSRjlUdjRhSjZTTWVlVW5VN0g1eFZSalNBNTJSdUltempkQUp6YVNPVGdsYWNEZjlIU1J2aGs2VExLX1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "韩文秀：明年还将根据形势变化出台实施增量政策",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-13",
-                "url": "https://36kr.com/newsflashes/3593406942576903"
-            },
-            {
-                "title": "甲骨文退出自研 AI 芯片赛道，董事长埃里森阐述背后原因",
+                "title": "马斯克 xAI 与萨尔瓦多政府达成合作，Grok 未来两年进入 5000 余所公立学校",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/697.htm"
+                "url": "https://www.ithome.com/0/904/787.htm"
             },
             {
-                "title": "纽约中领馆人权日再现政治投影 吁释放良心犯(图)",
+                "title": "中日关系紧张之际 中国低调纪念南京大屠杀",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-13",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E4%BD%8E%E8%B0%83%E7%BA%AA%E5%BF%B5%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80/a-75141342"
+            },
+            {
+                "title": "菲律宾指中国海警用高压水炮袭击菲渔民",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-13",
+                "url": "https://www.dw.com/zh/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%87%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E7%94%A8%E9%AB%98%E5%8E%8B%E6%B0%B4%E7%82%AE%E8%A2%AD%E5%87%BB%E8%8F%B2%E6%B8%94%E6%B0%91/a-75141335"
+            },
+            {
+                "title": "泰柬边境今晚停火 东协联手美国启动史无前例监督机制(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-13",
-                "url": "https://www.secretchina.com/news/gb/2025/12/13/1091981.html"
+                "url": "https://www.secretchina.com/news/gb/2025/12/13/1092009.html"
             },
             {
-                "title": "9点1氪丨小米公司辟谣不让卖小米；ChatGPT成人模式或于明年一季度上线；罗马仕公司被罚没超124万元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "川普“厌倦开会”美特使赴欧推和平 俄乌战局进入止损倒数(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-13",
-                "url": "https://36kr.com/p/3593276900933897"
+                "url": "https://www.secretchina.com/news/gb/2025/12/13/1092006.html"
             },
             {
-                "title": "法庭文件披露马斯克起诉苹果和 OpenAI 深层原因：把 X 打造成“西方的微信”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "王毅同阿联酋副总理兼外长阿卜杜拉会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/672.htm"
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jVUdXSnlrcUhzV1hPOEQ0TVlQLVh2SVU2STVPMmVTM2NWU2t2Z3dwVXplWjVOQUxWRlpMTDZCQ25YMWs0Qlh2bjE3aGlWdkttX2s5SDJieGtTYTdRemo0TjRlLTJjcXpBV3NCejBWSnVabDk2X2tjVUlXMA?oc=5"
             },
             {
-                "title": "2025年12月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "赵乐际同卢森堡国民议会议长维斯勒会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-12",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFZGdtZ0F4QjhGNXhCSnp1X05vbkZNMDJmb21oS2l3cnU4dTVNaTVmOU9PYXVKOWhqczVxTVpYblVhNGtZNktRZVN1SjVyTjFabmdEVjNhMlFrbEVCMGExM3JMMkc3OWlObXZlX21Ja3FmVDJnYWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHF3bGl5Q2VtOUpwTGh3M1pac19CelM1eGFyZmZkVDlTblV1VFIteHFySlozUklZckdDWDRrYXpUdWVnZHlOdEZvVGRLbG9CLWRsdzJsMll5SWxNMkFXbGV5cFFQdGxXZlAxWGUtSDBFOFdwSk9zeUdGUmd2RVZwSWpSRHJ5LW9KZ243cVpR?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
+                "title": "王毅会见阿联酋总统中国事务特使哈勒敦 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2025-12-13",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQVVrU0k2ZVYxbHhOVmtvTXYwWG9BVEoyUXN6Z2VmRzl4a1QxWGZsREU5dWM5UTdqZWowd011bjVGd3ZOVWx3YlBmb0s3UFdHWWprbU42QnRtQ1RWV0NVd3loUy1hZjFGbWxsdy1B?oc=5"
             },
             {
-                "title": "驻巴基斯坦大使姜再冬同巴国民议会各党派议员就中巴农业和减贫合作进行专题交流 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "俄军“匕首”导弹创单月使用新纪录乌方情报机构罕见承认前线形势严峻- 八一视频 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-12",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUxBODA1aXhqMkxJelhvcGVyWjNGRmxfX0xMaGJSSExBaGtoajBTdExSdk1DeE9IRU9RS3ZNTW1yVG9KUHVJdlB0cmNfRWdWT2pvZXNyQ0dtbXhzdmhFT1paSHFkRlhKWEhzcjdfcmI4bFptaDJ3RXN4ZWE1cXJCOUhHNDA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12UksyNnpoS3JlMGlEcG1zUUlQamxEUldiNUFNSUdVU19OY0xiWVg0Umd0S0NpUmRtMnUtM24xSDRROWhXSXZZRHk3djV1UHREQlE?oc=5"
             },
             {
                 "title": "China Coast Guard expels Philippine vessels from waters near Xianbin Jiao - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "历史不容忘却，坚决捍卫和平——二〇二五年南京大屠杀死难者国家公祭仪式侧记 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sY2VaUTdKNmJGRi1UaGdSRjlUdjRhSjZTTWVlVW5VN0g1eFZSalNBNTJSdUltempkQUp6YVNPVGdsYWNEZjlIU1J2aGs2VExLX1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-14T06:26:13.207628+00:00"
+    "last_updated": "2025-12-14T12:34:19.234339+00:00"
 }
