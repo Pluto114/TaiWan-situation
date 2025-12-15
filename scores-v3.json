@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "白俄罗斯释放诺奖得主及反对派人物 美放松钾肥制裁(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-13",
-                "url": "https://www.secretchina.com/news/gb/2025/12/13/1092020.html"
+                "title": "美国工程师研发出新型 3D 芯片，性能超 2D 芯片一个数量级",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/819.htm"
             },
             {
-                "title": "豆包手机助手澄清技术误解：产品使用系统原生截屏接口，无法截屏银行键盘等受保护内容",
+                "title": "机器学习助力科研人员绘制全球最大规模建筑 3D 地图，亚洲 12.2 亿座占半壁江山",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/814.htm"
+            },
+            {
+                "title": "华为昇腾950 AI加速器实物图曝光",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540866.htm"
+            },
+            {
+                "title": "中国车企转攻混动 / 燃油车，欧盟对华电动汽车加征关税被指注定失败",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/793.htm"
+                "url": "https://www.ithome.com/0/904/807.htm"
             },
             {
-                "title": "深度智联地产AI就绪，房地产智能化进入“交付时刻”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-13",
-                "url": "https://36kr.com/p/3593367577182470"
-            },
-            {
-                "title": "二十岁当保安 少走四十年弯路？",
+                "title": "机器学习团队打造出全球最大的三维建筑地图",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540828.htm"
-            },
-            {
-                "title": "内存涨价压力开始传导 戴尔据传下周全面提高商用PC定价",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540822.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540862.htm"
             }
         ],
         "mil": [
+            {
+                "title": "机器学习助力科研人员绘制全球最大规模建筑 3D 地图，亚洲 12.2 亿座占半壁江山",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/814.htm"
+            },
+            {
+                "title": "机器学习团队打造出全球最大的三维建筑地图",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540862.htm"
+            },
+            {
+                "title": "Tether拟以11亿欧元竞购尤文图斯足球俱乐部",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540842.htm"
+            },
             {
                 "title": "中共被指纵容伊朗导弹重建 美军海上拦截中伊货船(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2025-12-13",
                 "url": "https://www.dw.com/zh/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E4%BD%8E%E8%B0%83%E7%BA%AA%E5%BF%B5%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80/a-75141342"
-            },
-            {
-                "title": "深度智联地产AI就绪，房地产智能化进入“交付时刻”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-13",
-                "url": "https://36kr.com/p/3593367577182470"
-            },
-            {
-                "title": "泰柬边境今晚停火 东协联手美国启动史无前例监督机制(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-13",
-                "url": "https://www.secretchina.com/news/gb/2025/12/13/1092009.html"
-            },
-            {
-                "title": "9点1氪丨小米公司辟谣不让卖小米；ChatGPT成人模式或于明年一季度上线；罗马仕公司被罚没超124万元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-13",
-                "url": "https://36kr.com/p/3593276900933897"
             },
             {
                 "title": "王毅同阿联酋副总理兼外长阿卜杜拉会谈 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "忧洪都拉斯与台复交？中共发“拉美文件”误导国际视听(图)",
+                "title": "中国最怕面对“台湾地位未定”真相(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-13",
-                "url": "https://www.secretchina.com/news/gb/2025/12/13/1092019.html"
+                "date": "2025-12-14",
+                "url": "https://www.secretchina.com/news/gb/2025/12/14/1092032.html"
             },
             {
-                "title": "YouTube CEO 莫汉：我会严管自家孩子使用社交媒体",
+                "title": "AI 武器检测系统误判单簧管为枪支，导致美国一校园被封锁",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/797.htm"
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/813.htm"
             },
             {
-                "title": "中国农村现代化的另一种路径——评《创造新世界：重庆北碚的乡村现代化探索1918-1936》 (评论: 创造新世界)",
-                "source": "NewsAPI / Douban.com",
-                "date": "2025-12-13",
-                "url": "https://book.douban.com/review/17337837/"
-            },
-            {
-                "title": "马斯克 xAI 与萨尔瓦多政府达成合作，Grok 未来两年进入 5000 余所公立学校",
+                "title": "科技昨夜今晨 1214：2025 电影总票房破 500 亿；摩尔线程回应“ 75 亿元闲资做理财”；曝多家上市公司拟对磷酸铁锂产品提价...",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/787.htm"
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/812.htm"
             },
             {
-                "title": "中日关系紧张之际 中国低调纪念南京大屠杀",
-                "source": "NewsAPI / DW (English)",
+                "title": "美国布朗大学突发枪击案 至少2死多人伤(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-14",
+                "url": "https://www.secretchina.com/news/gb/2025/12/14/1092026.html"
+            },
+            {
+                "title": "佛州中学封校风波：AI将单簧管识别成枪支",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-13",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E4%BD%8E%E8%B0%83%E7%BA%AA%E5%BF%B5%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80/a-75141342"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540858.htm"
             },
             {
                 "title": "王毅同阿联酋副总理兼外长阿卜杜拉会谈 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-14T18:24:28.242234+00:00"
+    "last_updated": "2025-12-15T01:26:04.243385+00:00"
 }
