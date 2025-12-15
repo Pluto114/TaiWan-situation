@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "外资豪华车在华遇冷：销量下滑、二手车价跳水，国产车企抢占市场",
-                "source": "NewsAPI / Ithome.com",
+                "title": "2025年，科技大厂就业市场崩溃的一年",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/859.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540966.htm"
             },
             {
-                "title": "中国人力资本报告：全国劳动力人口平均年龄达39.66岁",
-                "source": "NewsAPI / 36kr.com",
+                "title": "大众汽车88年历史上首次关闭德国生产线",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://36kr.com/newsflashes/3594750746165510"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540962.htm"
             },
             {
-                "title": "vivo S50 Pro mini 手机官宣全球首批搭载高通第五代骁龙 8 芯片",
-                "source": "NewsAPI / Ithome.com",
+                "title": "一家机器人公司要破产了",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/832.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540960.htm"
             },
             {
-                "title": "美国工程师研发出新型 3D 芯片，性能超 2D 芯片一个数量级",
-                "source": "NewsAPI / Ithome.com",
+                "title": "马云现身非洲与卢旺达总统会谈",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/819.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540934.htm"
             },
             {
-                "title": "机器学习助力科研人员绘制全球最大规模建筑 3D 地图，亚洲 12.2 亿座占半壁江山",
-                "source": "NewsAPI / Ithome.com",
+                "title": "长光卫星眼中的印度大城市孟买",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/814.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540928.htm"
             }
         ],
         "mil": [
+            {
+                "title": "一家机器人公司要破产了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540960.htm"
+            },
+            {
+                "title": "抵制上市多年 马斯克为何突然想让SpaceX IPO了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540894.htm"
+            },
             {
                 "title": "TGA 的奖项为什么颁着颁着就“权威”了？",
                 "source": "NewsAPI / Ithome.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.ithome.com/0/904/814.htm"
             },
             {
-                "title": "机器学习团队打造出全球最大的三维建筑地图",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540862.htm"
-            },
-            {
-                "title": "Tether拟以11亿欧元竞购尤文图斯足球俱乐部",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540842.htm"
-            },
-            {
                 "title": "领导人活动 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2021-12-03",
@@ -86,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
             },
             {
-                "title": "驻孟买总领事​秦杰拜会卡邦礼宾长阿比金 - mfa.gov.cn",
+                "title": "驻黎巴嫩大使陈传东同圣约瑟夫大学基金会座谈交流 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWJIMzlaRndXSTZtM19DdjlEdkhXeHJSMGhJbzQzLTh3c0dvY1BGMTdsVDh0U1licS1YOHJzeTdhY3RENmc3OHJSM0hWSjBrYURHSTU3NXpRM1VPN2c5VXpsLVFtR2NzTDRnV3l3NDJISGRWeEx6TlYxRWZMOXRfbVJDVlg?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0RCZEhFNnNiaGV3eW11LWJSNFgxVHhuUjA1X3AzeHBIQ0w2bU1CSGVkYktmV2kxTFBVc1p6VDBNN0YyaWltc1pua3RXb3NCenNqNjF0THNpa1FibC1SeFFUVXFjeWxERVpkSHBpdTN0ZXRUU2pGZ2NJajgwTVBXd0dDYjQ?oc=5"
+            },
+            {
+                "title": "China denounces Japan for hyping up regular military training - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZnNiQnhVUWREUDZWOGhQOUE1TkZBaklKUno0SUZSdUtnYV9Ua2RkZUY4QmxRTGZVQzdQM3IwMWU1T2lHWlMyVmp4c2E0aXBLcFpfSndIdlZCWGFkZ3B3MGtSWGhVeEk?oc=5"
+            },
+            {
+                "title": "外交部：中央政府坚定支持香港特区惩治危害国家安全的犯罪行为 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VSEZXdDU2dEdGdnlKUE1uQURMTkZ3T0R5aXJ0M3c1eFcwSE1SeXcydFU2TE5Kc0Q5STQ1Y3dBd1ZCZmtwWVBVODBR?oc=5"
             },
             {
                 "title": "着力提升征兵宣传质效 激发适龄青年参军报国的热情 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-15",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNS0J4RVlaQTBzRXpVU3BXc1IzQVR1TDRGcHh2U0pyaGliNWwza0RMdFJseS03MjdwUl93QXBZb2lFb0NVd1hJSXF4WDVtdjFfN0E?oc=5"
-            },
-            {
-                "title": "我军加速构建跨军种一体化联合保障模式 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVEdyZ0xGMjBUYnpMSERhTGpJT2c4Z0hsckxWYlpDUFRyS3hVQm9sNTFoSWU1cTJiTDRVaDZOc1lqaGZlUzR0WVNneTZleGoyOGc?oc=5"
-            },
-            {
-                "title": "赤诚本色第3集浩然正气英烈魂- 八一视频 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wS0ZJaUROZ09DdVRuVUdnWUtVc3gxbjRtQUJtYUdEdWNXVHBEbGNtOG5zdl9pRFJxbVdNS044c2RHS29BOUhDbXpid1RPR0JISHc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "外资豪华车在华遇冷：销量下滑、二手车价跳水，国产车企抢占市场",
-                "source": "NewsAPI / Ithome.com",
+                "title": "一家机器人公司要破产了",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/859.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540960.htm"
             },
             {
-                "title": "TGA 的奖项为什么颁着颁着就“权威”了？",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/845.htm"
-            },
-            {
-                "title": "中国最怕面对“台湾地位未定”真相(图)",
+                "title": "台湾正从传统载台对抗 转向灵活的不对称防卫(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-14",
-                "url": "https://www.secretchina.com/news/gb/2025/12/14/1092032.html"
+                "url": "https://www.secretchina.com/news/gb/2025/12/14/1092040.html"
             },
             {
-                "title": "AI 武器检测系统误判单簧管为枪支，导致美国一校园被封锁",
-                "source": "NewsAPI / Ithome.com",
+                "title": "李国庆妻子怒怼偏见：没有遇到他 自己找30到70岁的都行",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/813.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540950.htm"
             },
             {
-                "title": "科技昨夜今晨 1214：2025 电影总票房破 500 亿；摩尔线程回应“ 75 亿元闲资做理财”；曝多家上市公司拟对磷酸铁锂产品提价...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "市监总局发文禁止亏本卖车 比亚迪、长城、长安等多家车企响应",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-14",
-                "url": "https://www.ithome.com/0/904/812.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540942.htm"
+            },
+            {
+                "title": "清华教授李稻葵建议放开禁限摩：可破解新国标电动车争议",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1540926.htm"
             },
             {
                 "title": "领导人活动 - mfa.gov.cn",
@@ -154,31 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
             },
             {
-                "title": "驻孟买总领事​秦杰拜会卡邦礼宾长阿比金 - mfa.gov.cn",
+                "title": "驻黎巴嫩大使陈传东同圣约瑟夫大学基金会座谈交流 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWJIMzlaRndXSTZtM19DdjlEdkhXeHJSMGhJbzQzLTh3c0dvY1BGMTdsVDh0U1licS1YOHJzeTdhY3RENmc3OHJSM0hWSjBrYURHSTU3NXpRM1VPN2c5VXpsLVFtR2NzTDRnV3l3NDJISGRWeEx6TlYxRWZMOXRfbVJDVlg?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0RCZEhFNnNiaGV3eW11LWJSNFgxVHhuUjA1X3AzeHBIQ0w2bU1CSGVkYktmV2kxTFBVc1p6VDBNN0YyaWltc1pua3RXb3NCenNqNjF0THNpa1FibC1SeFFUVXFjeWxERVpkSHBpdTN0ZXRUU2pGZ2NJajgwTVBXd0dDYjQ?oc=5"
+            },
+            {
+                "title": "China denounces Japan for hyping up regular military training - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZnNiQnhVUWREUDZWOGhQOUE1TkZBaklKUno0SUZSdUtnYV9Ua2RkZUY4QmxRTGZVQzdQM3IwMWU1T2lHWlMyVmp4c2E0aXBLcFpfSndIdlZCWGFkZ3B3MGtSWGhVeEk?oc=5"
+            },
+            {
+                "title": "外交部：中央政府坚定支持香港特区惩治危害国家安全的犯罪行为 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VSEZXdDU2dEdGdnlKUE1uQURMTkZ3T0R5aXJ0M3c1eFcwSE1SeXcydFU2TE5Kc0Q5STQ1Y3dBd1ZCZmtwWVBVODBR?oc=5"
             },
             {
                 "title": "着力提升征兵宣传质效 激发适龄青年参军报国的热情 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-15",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNS0J4RVlaQTBzRXpVU3BXc1IzQVR1TDRGcHh2U0pyaGliNWwza0RMdFJseS03MjdwUl93QXBZb2lFb0NVd1hJSXF4WDVtdjFfN0E?oc=5"
-            },
-            {
-                "title": "我军加速构建跨军种一体化联合保障模式 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVEdyZ0xGMjBUYnpMSERhTGpJT2c4Z0hsckxWYlpDUFRyS3hVQm9sNTFoSWU1cTJiTDRVaDZOc1lqaGZlUzR0WVNneTZleGoyOGc?oc=5"
-            },
-            {
-                "title": "赤诚本色第3集浩然正气英烈魂- 八一视频 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wS0ZJaUROZ09DdVRuVUdnWUtVc3gxbjRtQUJtYUdEdWNXVHBEbGNtOG5zdl9pRFJxbVdNS044c2RHS29BOUhDbXpid1RPR0JISHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-15T06:31:31.559224+00:00"
+    "last_updated": "2025-12-15T12:41:17.514849+00:00"
 }
