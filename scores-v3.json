@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "外资豪华车在华遇冷：销量下滑、二手车价跳水，国产车企抢占市场",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/859.htm"
+            },
+            {
+                "title": "中国人力资本报告：全国劳动力人口平均年龄达39.66岁",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-14",
+                "url": "https://36kr.com/newsflashes/3594750746165510"
+            },
+            {
+                "title": "vivo S50 Pro mini 手机官宣全球首批搭载高通第五代骁龙 8 芯片",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/832.htm"
+            },
+            {
                 "title": "美国工程师研发出新型 3D 芯片，性能超 2D 芯片一个数量级",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-14",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-14",
                 "url": "https://www.ithome.com/0/904/814.htm"
-            },
-            {
-                "title": "华为昇腾950 AI加速器实物图曝光",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540866.htm"
-            },
-            {
-                "title": "中国车企转攻混动 / 燃油车，欧盟对华电动汽车加征关税被指注定失败",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-13",
-                "url": "https://www.ithome.com/0/904/807.htm"
-            },
-            {
-                "title": "机器学习团队打造出全球最大的三维建筑地图",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540862.htm"
             }
         ],
         "mil": [
+            {
+                "title": "TGA 的奖项为什么颁着颁着就“权威”了？",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/845.htm"
+            },
+            {
+                "title": "比哈佛还难进，人形机器人初创公司 Figure AI 录用率仅 0.24%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/844.htm"
+            },
             {
                 "title": "机器学习助力科研人员绘制全球最大规模建筑 3D 地图，亚洲 12.2 亿座占半壁江山",
                 "source": "NewsAPI / Ithome.com",
@@ -62,55 +74,55 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1540842.htm"
             },
             {
-                "title": "中共被指纵容伊朗导弹重建 美军海上拦截中伊货船(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-13",
-                "url": "https://www.secretchina.com/news/gb/2025/12/13/1092014.html"
+                "title": "领导人活动 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
             },
             {
-                "title": "中日关系紧张之际 中国低调纪念南京大屠杀",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-13",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E4%BD%8E%E8%B0%83%E7%BA%AA%E5%BF%B5%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80/a-75141342"
+                "title": "外交部新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
             },
             {
-                "title": "王毅同阿联酋副总理兼外长阿卜杜拉会谈 - mfa.gov.cn",
+                "title": "驻孟买总领事​秦杰拜会卡邦礼宾长阿比金 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jVUdXSnlrcUhzV1hPOEQ0TVlQLVh2SVU2STVPMmVTM2NWU2t2Z3dwVXplWjVOQUxWRlpMTDZCQ25YMWs0Qlh2bjE3aGlWdkttX2s5SDJieGtTYTdRemo0TjRlLTJjcXpBV3NCejBWSnVabDk2X2tjVUlXMA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWJIMzlaRndXSTZtM19DdjlEdkhXeHJSMGhJbzQzLTh3c0dvY1BGMTdsVDh0U1licS1YOHJzeTdhY3RENmc3OHJSM0hWSjBrYURHSTU3NXpRM1VPN2c5VXpsLVFtR2NzTDRnV3l3NDJISGRWeEx6TlYxRWZMOXRfbVJDVlg?oc=5"
             },
             {
-                "title": "中国沙特高级别联合委员会政治分委会第五次会议在利雅得举行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "着力提升征兵宣传质效 激发适龄青年参军报国的热情 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNS0J4RVlaQTBzRXpVU3BXc1IzQVR1TDRGcHh2U0pyaGliNWwza0RMdFJseS03MjdwUl93QXBZb2lFb0NVd1hJSXF4WDVtdjFfN0E?oc=5"
+            },
+            {
+                "title": "我军加速构建跨军种一体化联合保障模式 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0pCVXk4NF9sQndGYlRIVkloem1MWE94LWdNS2ZfY2ItSVlJM1FRX21ZUFJoTU55THFSMnFldFpXbUtxWE00MlliS2stOFctSV9FRjQxMXZCeDB5ZnZ1NTlLYVpGNVNvYTdlOXBiUE04NUhKdTdxRXVTTkd5OW9tYXA0ZXdnZw?oc=5"
-            },
-            {
-                "title": "王毅会见阿联酋总统中国事务特使哈勒敦 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQVVrU0k2ZVYxbHhOVmtvTXYwWG9BVEoyUXN6Z2VmRzl4a1QxWGZsREU5dWM5UTdqZWowd011bjVGd3ZOVWx3YlBmb0s3UFdHWWprbU42QnRtQ1RWV0NVd3loUy1hZjFGbWxsdy1B?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVEdyZ0xGMjBUYnpMSERhTGpJT2c4Z0hsckxWYlpDUFRyS3hVQm9sNTFoSWU1cTJiTDRVaDZOc1lqaGZlUzR0WVNneTZleGoyOGc?oc=5"
             },
             {
                 "title": "赤诚本色第3集浩然正气英烈魂- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wS0ZJaUROZ09DdVRuVUdnWUtVc3gxbjRtQUJtYUdEdWNXVHBEbGNtOG5zdl9pRFJxbVdNS044c2RHS29BOUhDbXpid1RPR0JISHc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 军队人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "历史不容忘却，坚决捍卫和平——二〇二五年南京大屠杀死难者国家公祭仪式侧记 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sY2VaUTdKNmJGRi1UaGdSRjlUdjRhSjZTTWVlVW5VN0g1eFZSalNBNTJSdUltempkQUp6YVNPVGdsYWNEZjlIU1J2aGs2VExLX1E?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "外资豪华车在华遇冷：销量下滑、二手车价跳水，国产车企抢占市场",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/859.htm"
+            },
+            {
+                "title": "TGA 的奖项为什么颁着颁着就“权威”了？",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-14",
+                "url": "https://www.ithome.com/0/904/845.htm"
+            },
             {
                 "title": "中国最怕面对“台湾地位未定”真相(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -130,55 +142,43 @@
                 "url": "https://www.ithome.com/0/904/812.htm"
             },
             {
-                "title": "美国布朗大学突发枪击案 至少2死多人伤(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "领导人活动 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
+            },
+            {
+                "title": "外交部新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
+            },
+            {
+                "title": "驻孟买总领事​秦杰拜会卡邦礼宾长阿比金 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-13",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWJIMzlaRndXSTZtM19DdjlEdkhXeHJSMGhJbzQzLTh3c0dvY1BGMTdsVDh0U1licS1YOHJzeTdhY3RENmc3OHJSM0hWSjBrYURHSTU3NXpRM1VPN2c5VXpsLVFtR2NzTDRnV3l3NDJISGRWeEx6TlYxRWZMOXRfbVJDVlg?oc=5"
+            },
+            {
+                "title": "着力提升征兵宣传质效 激发适龄青年参军报国的热情 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNS0J4RVlaQTBzRXpVU3BXc1IzQVR1TDRGcHh2U0pyaGliNWwza0RMdFJseS03MjdwUl93QXBZb2lFb0NVd1hJSXF4WDVtdjFfN0E?oc=5"
+            },
+            {
+                "title": "我军加速构建跨军种一体化联合保障模式 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-14",
-                "url": "https://www.secretchina.com/news/gb/2025/12/14/1092026.html"
-            },
-            {
-                "title": "佛州中学封校风波：AI将单簧管识别成枪支",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540858.htm"
-            },
-            {
-                "title": "王毅同阿联酋副总理兼外长阿卜杜拉会谈 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jVUdXSnlrcUhzV1hPOEQ0TVlQLVh2SVU2STVPMmVTM2NWU2t2Z3dwVXplWjVOQUxWRlpMTDZCQ25YMWs0Qlh2bjE3aGlWdkttX2s5SDJieGtTYTdRemo0TjRlLTJjcXpBV3NCejBWSnVabDk2X2tjVUlXMA?oc=5"
-            },
-            {
-                "title": "中国沙特高级别联合委员会政治分委会第五次会议在利雅得举行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0pCVXk4NF9sQndGYlRIVkloem1MWE94LWdNS2ZfY2ItSVlJM1FRX21ZUFJoTU55THFSMnFldFpXbUtxWE00MlliS2stOFctSV9FRjQxMXZCeDB5ZnZ1NTlLYVpGNVNvYTdlOXBiUE04NUhKdTdxRXVTTkd5OW9tYXA0ZXdnZw?oc=5"
-            },
-            {
-                "title": "王毅会见阿联酋总统中国事务特使哈勒敦 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQVVrU0k2ZVYxbHhOVmtvTXYwWG9BVEoyUXN6Z2VmRzl4a1QxWGZsREU5dWM5UTdqZWowd011bjVGd3ZOVWx3YlBmb0s3UFdHWWprbU42QnRtQ1RWV0NVd3loUy1hZjFGbWxsdy1B?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVEdyZ0xGMjBUYnpMSERhTGpJT2c4Z0hsckxWYlpDUFRyS3hVQm9sNTFoSWU1cTJiTDRVaDZOc1lqaGZlUzR0WVNneTZleGoyOGc?oc=5"
             },
             {
                 "title": "赤诚本色第3集浩然正气英烈魂- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wS0ZJaUROZ09DdVRuVUdnWUtVc3gxbjRtQUJtYUdEdWNXVHBEbGNtOG5zdl9pRFJxbVdNS044c2RHS29BOUhDbXpid1RPR0JISHc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 军队人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "历史不容忘却，坚决捍卫和平——二〇二五年南京大屠杀死难者国家公祭仪式侧记 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sY2VaUTdKNmJGRi1UaGdSRjlUdjRhSjZTTWVlVW5VN0g1eFZSalNBNTJSdUltempkQUp6YVNPVGdsYWNEZjlIU1J2aGs2VExLX1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-15T01:26:04.243385+00:00"
+    "last_updated": "2025-12-15T06:31:31.559224+00:00"
 }
