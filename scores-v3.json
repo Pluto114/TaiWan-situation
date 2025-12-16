@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "白宫AI顾问：中国已看穿套路 不会买H200而是全力支持华为等国产芯",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541022.htm"
-            },
-            {
-                "title": "扫地机器人鼻祖iRobot破产重组 将被中国制造商收购并私有化",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541016.htm"
-            },
-            {
-                "title": "哈啰“双线翻车”：电动车大规模断服 Robotaxi当街撞人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541004.htm"
-            },
-            {
-                "title": "国家统计局：实现全年预期目标有较好条件",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-15",
-                "url": "https://36kr.com/newsflashes/3596257340817414"
-            },
-            {
-                "title": "中国电动汽车在泰国掀起价格战，日系燃油车失宠",
+                "title": "医疗 AI 迎来大考，南洋理工发布首个 LLM 电子病历处理评测",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/905/014.htm"
+                "url": "https://www.ithome.com/0/905/181.htm"
+            },
+            {
+                "title": "SpaceX星链与中国卫星上周在轨“擦肩而过” 险酿相撞事故",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541130.htm"
+            },
+            {
+                "title": "我国医用同位素再突破，中核集团攻克富集靶材辐照制备碘-131 全链条技术",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-15",
+                "url": "https://www.ithome.com/0/905/169.htm"
+            },
+            {
+                "title": "36氪晚报｜马斯克：特斯拉启动无安全员Robotaxi路测；咨询机构：美股七巨头光环褪色；寒武纪：拟使用27.78亿元资本公积金弥补亏损",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-15",
+                "url": "https://36kr.com/p/3596670054252802"
+            },
+            {
+                "title": "二级火箭已完成总装总测，「宇石空间」完成超亿元Pre-A轮融资，年内累计融资近3亿元｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-15",
+                "url": "https://36kr.com/p/3596669851238407"
             }
         ],
         "mil": [
+            {
+                "title": "36氪晚报｜马斯克：特斯拉启动无安全员Robotaxi路测；咨询机构：美股七巨头光环褪色；寒武纪：拟使用27.78亿元资本公积金弥补亏损",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-15",
+                "url": "https://36kr.com/p/3596670054252802"
+            },
+            {
+                "title": "机器人教父冷酷预言：人形机器人终成废铁 未来15年百亿资金灰飞烟灭",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541104.htm"
+            },
             {
                 "title": "哈啰“双线翻车”：电动车大规模断服 Robotaxi当街撞人",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-15",
                 "url": "https://36kr.com/p/3594866063835145"
-            },
-            {
-                "title": "特斯拉启动 Robotaixi 测试；ChatGPT 成人模式最快明年一季度上线；DRAM 紧缺至 2028 年 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-15",
-                "url": "https://www.geekpark.net/news/358009"
-            },
-            {
-                "title": "8点1氪丨被罗永浩指责收高价“祸害客人”，涉事酒店回应；全国劳动力人口平均年龄达39.66岁；马斯克或成全球首位万亿美元富豪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-14",
-                "url": "https://36kr.com/p/3596032641679363"
             },
             {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "知名投资者看衰特斯拉：问题不少，2026年将是“清算年”",
+                "title": "SpaceX星链与中国卫星上周在轨“擦肩而过” 险酿相撞事故",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541014.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541130.htm"
             },
             {
-                "title": "哈啰“双线翻车”：电动车大规模断服 Robotaxi当街撞人",
+                "title": "二级火箭已完成总装总测，「宇石空间」完成超亿元Pre-A轮融资，年内累计融资近3亿元｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-15",
+                "url": "https://36kr.com/p/3596669851238407"
+            },
+            {
+                "title": "机器人教父冷酷预言：人形机器人终成废铁 未来15年百亿资金灰飞烟灭",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541004.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541104.htm"
             },
             {
-                "title": "中国电动汽车在泰国掀起价格战，日系燃油车失宠",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国首款“三全”脑机接口成功完成首例临床试验",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/905/014.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541092.htm"
             },
             {
-                "title": "具身智能的共识与非共识：地平线携手生态伙伴共话产业未来",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "小鹏汽车正式启动马来西亚本地化生产项目 2026年实现量产",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
-                "url": "https://www.geekpark.net/news/358003"
-            },
-            {
-                "title": "扫地机器人“鼻祖”iRobot 申请破产重组，深圳杉川公司拿下控制权",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/905/002.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541090.htm"
             },
             {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-16T06:29:30.057678+00:00"
+    "last_updated": "2025-12-16T12:39:07.165723+00:00"
 }
