@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "医疗 AI 迎来大考，南洋理工发布首个 LLM 电子病历处理评测",
-                "source": "NewsAPI / Ithome.com",
+                "title": "展望2026：中年社会的长期主义",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/905/181.htm"
+                "url": "https://www.ftchinese.com/story/001108445"
             },
             {
-                "title": "SpaceX星链与中国卫星上周在轨“擦肩而过” 险酿相撞事故",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "德语媒体：德国经济界仍对中国抱持天真幻想",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541130.htm"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%BE%B7%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%95%8C%E4%BB%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%8A%B1%E6%8C%81%E5%A4%A9%E7%9C%9F%E5%B9%BB%E6%83%B3/a-75166466"
             },
             {
-                "title": "我国医用同位素再突破，中核集团攻克富集靶材辐照制备碘-131 全链条技术",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/905/169.htm"
-            },
-            {
-                "title": "36氪晚报｜马斯克：特斯拉启动无安全员Robotaxi路测；咨询机构：美股七巨头光环褪色；寒武纪：拟使用27.78亿元资本公积金弥补亏损",
+                "title": "年轻人的手机，比谁都更懂他们自己",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-15",
-                "url": "https://36kr.com/p/3596670054252802"
+                "url": "https://36kr.com/p/3596875506728961"
             },
             {
-                "title": "二级火箭已完成总装总测，「宇石空间」完成超亿元Pre-A轮融资，年内累计融资近3亿元｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "经济政策能否转化为选票？川普坦言“不确定”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-15",
-                "url": "https://36kr.com/p/3596669851238407"
+                "url": "https://www.secretchina.com/news/gb/2025/12/15/1092096.html"
+            },
+            {
+                "title": "冲刺港股，国产 GPU 公司壁仞科技完成境外上市备案",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-15",
+                "url": "https://www.ithome.com/0/905/185.htm"
             }
         ],
         "mil": [
+            {
+                "title": "展望2026：中年社会的长期主义",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-15",
+                "url": "https://www.ftchinese.com/story/001108445"
+            },
+            {
+                "title": "五角大楼秘密文件：若美国军事干预“台海战争”恐将遭遇失败",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-15",
+                "url": "https://www.dw.com/zh/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E7%A7%98%E5%AF%86%E6%96%87%E4%BB%B6%E8%8B%A5%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%B9%B2%E9%A2%84%E5%8F%B0%E6%B5%B7%E6%88%98%E4%BA%89%E6%81%90%E5%B0%86%E9%81%AD%E9%81%87%E5%A4%B1%E8%B4%A5/a-75165685"
+            },
+            {
+                "title": "年轻人的手机，比谁都更懂他们自己",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-15",
+                "url": "https://36kr.com/p/3596875506728961"
+            },
             {
                 "title": "36氪晚报｜马斯克：特斯拉启动无安全员Robotaxi路测；咨询机构：美股七巨头光环褪色；寒武纪：拟使用27.78亿元资本公积金弥补亏损",
                 "source": "NewsAPI / 36kr.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1541104.htm"
-            },
-            {
-                "title": "哈啰“双线翻车”：电动车大规模断服 Robotaxi当街撞人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541004.htm"
-            },
-            {
-                "title": "具身智能的共识与非共识：地平线携手生态伙伴共话产业未来",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-15",
-                "url": "https://www.geekpark.net/news/358003"
-            },
-            {
-                "title": "硬氪专访｜商汤联创王晓刚带队具身智能新业务，要帮机器人重新理解真实世界",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-15",
-                "url": "https://36kr.com/p/3594866063835145"
             },
             {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "SpaceX星链与中国卫星上周在轨“擦肩而过” 险酿相撞事故",
+                "title": "特斯拉无人驾驶出租车现身公共道路 且未配备安全员",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541130.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541166.htm"
             },
             {
-                "title": "二级火箭已完成总装总测，「宇石空间」完成超亿元Pre-A轮融资，年内累计融资近3亿元｜36氪首发",
+                "title": "展望2026：中年社会的长期主义",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-15",
+                "url": "https://www.ftchinese.com/story/001108445"
+            },
+            {
+                "title": "年轻人的手机，比谁都更懂他们自己",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-15",
-                "url": "https://36kr.com/p/3596669851238407"
+                "url": "https://36kr.com/p/3596875506728961"
             },
             {
-                "title": "机器人教父冷酷预言：人形机器人终成废铁 未来15年百亿资金灰飞烟灭",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "从设计到体验，这家卫浴品牌把“理想生活”刻进产品细节中",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541104.htm"
+                "url": "https://www.toodaylab.com/83839"
             },
             {
-                "title": "中国首款“三全”脑机接口成功完成首例临床试验",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "冲刺港股，国产 GPU 公司壁仞科技完成境外上市备案",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541092.htm"
-            },
-            {
-                "title": "小鹏汽车正式启动马来西亚本地化生产项目 2026年实现量产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541090.htm"
+                "url": "https://www.ithome.com/0/905/185.htm"
             },
             {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-16T12:39:07.165723+00:00"
+    "last_updated": "2025-12-16T18:28:08.037101+00:00"
 }
