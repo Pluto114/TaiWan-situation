@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国银河证券：重点关注明年政策红利与景气方向的布局机会",
+                "title": "白宫AI顾问：中国已看穿套路 不会买H200而是全力支持华为等国产芯",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541022.htm"
+            },
+            {
+                "title": "扫地机器人鼻祖iRobot破产重组 将被中国制造商收购并私有化",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541016.htm"
+            },
+            {
+                "title": "哈啰“双线翻车”：电动车大规模断服 Robotaxi当街撞人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541004.htm"
+            },
+            {
+                "title": "国家统计局：实现全年预期目标有较好条件",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-15",
-                "url": "https://36kr.com/newsflashes/3596095458492422"
+                "url": "https://36kr.com/newsflashes/3596257340817414"
             },
             {
-                "title": "特斯拉启动 Robotaixi 测试；ChatGPT 成人模式最快明年一季度上线；DRAM 紧缺至 2028 年 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-15",
-                "url": "https://www.geekpark.net/news/358009"
-            },
-            {
-                "title": "华泰证券：建议关注AI算力等行业板块",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-15",
-                "url": "https://36kr.com/newsflashes/3596042383704065"
-            },
-            {
-                "title": "科技昨夜今晨 1215：小米春节前新品曝光；董明珠回应空调“铝代铜”问题；外资豪华车在华遇冷...",
+                "title": "中国电动汽车在泰国掀起价格战，日系燃油车失宠",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/904/961.htm"
-            },
-            {
-                "title": "8点1氪丨被罗永浩指责收高价“祸害客人”，涉事酒店回应；全国劳动力人口平均年龄达39.66岁；马斯克或成全球首位万亿美元富豪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-14",
-                "url": "https://36kr.com/p/3596032641679363"
+                "url": "https://www.ithome.com/0/905/014.htm"
             }
         ],
         "mil": [
             {
+                "title": "哈啰“双线翻车”：电动车大规模断服 Robotaxi当街撞人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541004.htm"
+            },
+            {
+                "title": "具身智能的共识与非共识：地平线携手生态伙伴共话产业未来",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2025-12-15",
+                "url": "https://www.geekpark.net/news/358003"
+            },
+            {
+                "title": "硬氪专访｜商汤联创王晓刚带队具身智能新业务，要帮机器人重新理解真实世界",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-15",
+                "url": "https://36kr.com/p/3594866063835145"
+            },
+            {
                 "title": "特斯拉启动 Robotaixi 测试；ChatGPT 成人模式最快明年一季度上线；DRAM 紧缺至 2028 年 | 极客早知道",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2025-12-15",
@@ -54,36 +72,18 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-14",
                 "url": "https://36kr.com/p/3596032641679363"
-            },
-            {
-                "title": "松冈美里：中日需建立持续、多层次的沟通机制",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-14",
-                "url": "https://www.ftchinese.com/story/001108440"
-            },
-            {
-                "title": "一家机器人公司要破产了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540960.htm"
-            },
-            {
-                "title": "抵制上市多年 马斯克为何突然想让SpaceX IPO了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1540894.htm"
-            },
-            {
-                "title": "领导人活动 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
             },
             {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-15",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
+            },
+            {
+                "title": "领导人活动 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -112,46 +112,46 @@
         ],
         "pol": [
             {
-                "title": "特斯拉启动 Robotaixi 测试；ChatGPT 成人模式最快明年一季度上线；DRAM 紧缺至 2028 年 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "知名投资者看衰特斯拉：问题不少，2026年将是“清算年”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
-                "url": "https://www.geekpark.net/news/358009"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541014.htm"
             },
             {
-                "title": "今日消费资讯：《阿凡达 3》在香港延期到 2026 年上映、% ARABICA 温哥华首店开幕",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "哈啰“双线翻车”：电动车大规模断服 Robotaxi当街撞人",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-15",
-                "url": "https://www.toodaylab.com/83838"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541004.htm"
             },
             {
-                "title": "科技昨夜今晨 1215：小米春节前新品曝光；董明珠回应空调“铝代铜”问题；外资豪华车在华遇冷...",
+                "title": "中国电动汽车在泰国掀起价格战，日系燃油车失宠",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/904/961.htm"
+                "url": "https://www.ithome.com/0/905/014.htm"
             },
             {
-                "title": "8点1氪丨被罗永浩指责收高价“祸害客人”，涉事酒店回应；全国劳动力人口平均年龄达39.66岁；马斯克或成全球首位万亿美元富豪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-14",
-                "url": "https://36kr.com/p/3596032641679363"
+                "title": "具身智能的共识与非共识：地平线携手生态伙伴共话产业未来",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2025-12-15",
+                "url": "https://www.geekpark.net/news/358003"
             },
             {
-                "title": "36氪研究院 | 服务分发创新实践：鸿蒙元服务研究报告",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-14",
-                "url": "https://36kr.com/p/3594831272443912"
-            },
-            {
-                "title": "领导人活动 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
+                "title": "扫地机器人“鼻祖”iRobot 申请破产重组，深圳杉川公司拿下控制权",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-15",
+                "url": "https://www.ithome.com/0/905/002.htm"
             },
             {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-15",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
+            },
+            {
+                "title": "领导人活动 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-16T01:24:23.764212+00:00"
+    "last_updated": "2025-12-16T06:29:30.057678+00:00"
 }
