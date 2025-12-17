@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "突破供电瓶颈 英特尔代工实现功率传输的跨代际飞跃",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "换季降温注意身体：Apple Watch S10 46mm 国补后 1902 元京东直降",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541238.htm"
+                "url": "https://www.ithome.com/0/905/474.htm"
             },
             {
-                "title": "得州惊现“幽灵车”让特斯拉股价一夜狂欢 却是在悬崖边跳舞？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "车百会理事长张永伟：预计 2026 年国内汽车市场增长 2%，高端品牌是高科技而不是高价格",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541232.htm"
+                "url": "https://www.ithome.com/0/905/468.htm"
             },
             {
-                "title": "上海GPU龙头壁仞科技通过备案 赴港IPO",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中国2010年来首次跌出德国前五大出口国",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541224.htm"
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD2010%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%B7%8C%E5%87%BA%E5%BE%B7%E5%9B%BD%E5%89%8D%E4%BA%94%E5%A4%A7%E5%87%BA%E5%8F%A3%E5%9B%BD/a-75180272"
             },
             {
-                "title": "哈啰电动车大面积断网 IoT时代如何让设备体面地“退网”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "36氪晚报｜阿里发布电影级视频模型万相2.6；福特汽车在美召回32160辆E-Transit；AMD苏姿丰到访联想集团全球总部",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541222.htm"
+                "url": "https://36kr.com/p/3598032388079879"
             },
             {
-                "title": "传FF正谋划进军AI机器人领域 贾跃亭要打造中美机器人桥梁？",
+                "title": "欧盟拟放宽2035年燃油车禁售令这一标志性政策",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541218.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541336.htm"
             }
         ],
         "mil": [
+            {
+                "title": "欧盟拟放宽2035年燃油车禁售令这一标志性政策",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541336.htm"
+            },
+            {
+                "title": "法拉第未来晒FX Super One工厂组装现场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541312.htm"
+            },
             {
                 "title": "得州惊现“幽灵车”让特斯拉股价一夜狂欢 却是在悬崖边跳舞？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,28 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1541196.htm"
             },
             {
-                "title": "年度中文词、年度汉字来了，看看它们是怎样概括各地区的人民的这一年的",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-16",
-                "url": "https://www.toodaylab.com/83841"
-            },
-            {
-                "title": "群核科技，摸着李飞飞过河",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-16",
-                "url": "https://www.geekpark.net/news/358069"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56RnZoaVlucWU3aXpFcl9FczlKMTNPZWQzVFZ4YXFNSFV3SzhiZVJXMF9vNzhHb3k0ZlM5VHl6SjlJY1EzRHlCRXZBQzFvb3RMd1FrTHVrSmdSVzlwVGNtR05SZWMtYTN3T2pjX2l4ZldXb1ktWVE?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "外交动态 - mfa.gov.cn",
@@ -98,60 +98,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
             },
             {
-                "title": "外交部：中央政府坚定支持香港特区惩治危害国家安全的犯罪行为 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-15",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VSEZXdDU2dEdGdnlKUE1uQURMTkZ3T0R5aXJ0M3c1eFcwSE1SeXcydFU2TE5Kc0Q5STQ1Y3dBd1ZCZmtwWVBVODBR?oc=5"
-            },
-            {
                 "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-16",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCN1d3T1dzVkpPRGQ1NGRtaC1zeUMzeWVGYUxnZnNVb1ZGRThTaWZHNmV0M0ZaZjAtMGN0UDNPVElSM05jQTBxQWt3?oc=5"
+            },
+            {
+                "title": "中国大学生中国式摔跤锦标赛落幕，军校学员表现不俗 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96cjVQc3M5cDcxNEo0cDhxTlM4T0MyUWJkRVgtUmlLUWdnanlvb3VIalF2M3ItT3h3SFRoYUVRM3Q0Rkk0MFZPZ1VZbTg3UGo4Smc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "得州惊现“幽灵车”让特斯拉股价一夜狂欢 却是在悬崖边跳舞？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "车百会理事长张永伟：预计 2026 年国内汽车市场增长 2%，高端品牌是高科技而不是高价格",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541232.htm"
+                "url": "https://www.ithome.com/0/905/468.htm"
             },
             {
-                "title": "上海GPU龙头壁仞科技通过备案 赴港IPO",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "36氪晚报｜阿里发布电影级视频模型万相2.6；福特汽车在美召回32160辆E-Transit；AMD苏姿丰到访联想集团全球总部",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541224.htm"
+                "url": "https://36kr.com/p/3598032388079879"
             },
             {
-                "title": "AI 时代，如何定义电商营销新范式？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-16",
-                "url": "https://www.geekpark.net/news/358075"
-            },
-            {
-                "title": "哈啰电动车大面积断网 IoT时代如何让设备体面地“退网”？",
+                "title": "欧盟拟放宽2035年燃油车禁售令这一标志性政策",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541222.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541336.htm"
             },
             {
-                "title": "英国批准手机直连卫星监管框架 用户无需单独申请执照",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "柏林峰会推俄乌和谈历史性突破 川普称“前所未有接近”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541220.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/16/1092127.html"
+            },
+            {
+                "title": "专访Buccellati布契拉提CEO Nicolas Luchsinger：四只蝴蝶，如何传递一种百年审美？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-16",
+                "url": "https://36kr.com/p/3597991289798918"
+            },
+            {
+                "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-16",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56RnZoaVlucWU3aXpFcl9FczlKMTNPZWQzVFZ4YXFNSFV3SzhiZVJXMF9vNzhHb3k0ZlM5VHl6SjlJY1EzRHlCRXZBQzFvb3RMd1FrTHVrSmdSVzlwVGNtR05SZWMtYTN3T2pjX2l4ZldXb1ktWVE?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "外交动态 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
             },
             {
-                "title": "外交部：中央政府坚定支持香港特区惩治危害国家安全的犯罪行为 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-15",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VSEZXdDU2dEdGdnlKUE1uQURMTkZ3T0R5aXJ0M3c1eFcwSE1SeXcydFU2TE5Kc0Q5STQ1Y3dBd1ZCZmtwWVBVODBR?oc=5"
-            },
-            {
                 "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-16",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCN1d3T1dzVkpPRGQ1NGRtaC1zeUMzeWVGYUxnZnNVb1ZGRThTaWZHNmV0M0ZaZjAtMGN0UDNPVElSM05jQTBxQWt3?oc=5"
+            },
+            {
+                "title": "中国大学生中国式摔跤锦标赛落幕，军校学员表现不俗 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96cjVQc3M5cDcxNEo0cDhxTlM4T0MyUWJkRVgtUmlLUWdnanlvb3VIalF2M3ItT3h3SFRoYUVRM3Q0Rkk0MFZPZ1VZbTg3UGo4Smc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-17T06:29:18.268378+00:00"
+    "last_updated": "2025-12-17T12:39:19.594981+00:00"
 }
