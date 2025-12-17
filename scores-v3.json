@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "苹果正测试搭载M5 Max芯片的新款iMac Pro 或于2026年回归",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541368.htm"
+            },
+            {
+                "title": "东本发动机“易主”后续：楼顶招牌已被摘除 去“东风”进行时",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541362.htm"
+            },
+            {
+                "title": "《民法典》第278条：一个闭门造车的反民主标本",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-16",
+                "url": "https://www.ftchinese.com/story/001108466"
+            },
+            {
                 "title": "换季降温注意身体：Apple Watch S10 46mm 国补后 1902 元京东直降",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-16",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-16",
                 "url": "https://www.ithome.com/0/905/468.htm"
-            },
-            {
-                "title": "中国2010年来首次跌出德国前五大出口国",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-16",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD2010%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%B7%8C%E5%87%BA%E5%BE%B7%E5%9B%BD%E5%89%8D%E4%BA%94%E5%A4%A7%E5%87%BA%E5%8F%A3%E5%9B%BD/a-75180272"
-            },
-            {
-                "title": "36氪晚报｜阿里发布电影级视频模型万相2.6；福特汽车在美召回32160辆E-Transit；AMD苏姿丰到访联想集团全球总部",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-16",
-                "url": "https://36kr.com/p/3598032388079879"
-            },
-            {
-                "title": "欧盟拟放宽2035年燃油车禁售令这一标志性政策",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541336.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中国网民涌入泰国驻华使馆官微 感谢摧毁电诈园区(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-16",
+                "url": "https://www.secretchina.com/news/gb/2025/12/17/1092150.html"
+            },
+            {
+                "title": "《民法典》第278条：一个闭门造车的反民主标本",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-16",
+                "url": "https://www.ftchinese.com/story/001108466"
+            },
             {
                 "title": "欧盟拟放宽2035年燃油车禁售令这一标志性政策",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1541232.htm"
             },
             {
-                "title": "传FF正谋划进军AI机器人领域 贾跃亭要打造中美机器人桥梁？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541218.htm"
-            },
-            {
-                "title": "特朗普政府拟招聘1000名工程师 组建“联邦技术部队”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541196.htm"
-            },
-            {
                 "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-16",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "您的位置： 在线调查 - 军队人才网",
@@ -108,38 +108,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96cjVQc3M5cDcxNEo0cDhxTlM4T0MyUWJkRVgtUmlLUWdnanlvb3VIalF2M3ItT3h3SFRoYUVRM3Q0Rkk0MFZPZ1VZbTg3UGo4Smc?oc=5"
+            },
+            {
+                "title": "海事法规 - 上海海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2019-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "车百会理事长张永伟：预计 2026 年国内汽车市场增长 2%，高端品牌是高科技而不是高价格",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-16",
-                "url": "https://www.ithome.com/0/905/468.htm"
-            },
-            {
-                "title": "36氪晚报｜阿里发布电影级视频模型万相2.6；福特汽车在美召回32160辆E-Transit；AMD苏姿丰到访联想集团全球总部",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-16",
-                "url": "https://36kr.com/p/3598032388079879"
-            },
-            {
-                "title": "欧盟拟放宽2035年燃油车禁售令这一标志性政策",
+                "title": "苹果正测试搭载M5 Max芯片的新款iMac Pro 或于2026年回归",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541336.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541368.htm"
             },
             {
-                "title": "柏林峰会推俄乌和谈历史性突破 川普称“前所未有接近”(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "美国最后一批1美分硬币拍卖 696枚卖了1亿多元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-16",
-                "url": "https://www.secretchina.com/news/gb/2025/12/16/1092127.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541366.htm"
             },
             {
-                "title": "专访Buccellati布契拉提CEO Nicolas Luchsinger：四只蝴蝶，如何传递一种百年审美？",
-                "source": "NewsAPI / 36kr.com",
+                "title": "东本发动机“易主”后续：楼顶招牌已被摘除 去“东风”进行时",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-16",
-                "url": "https://36kr.com/p/3597991289798918"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541362.htm"
+            },
+            {
+                "title": "破晓前的宁静与重生 (评论: If I Could Tell You)",
+                "source": "NewsAPI / Douban.com",
+                "date": "2025-12-16",
+                "url": "https://music.douban.com/review/17344816/"
+            },
+            {
+                "title": "《民法典》第278条：一个闭门造车的反民主标本",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-16",
+                "url": "https://www.ftchinese.com/story/001108466"
             },
             {
                 "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "您的位置： 在线调查 - 军队人才网",
@@ -176,9 +182,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96cjVQc3M5cDcxNEo0cDhxTlM4T0MyUWJkRVgtUmlLUWdnanlvb3VIalF2M3ItT3h3SFRoYUVRM3Q0Rkk0MFZPZ1VZbTg3UGo4Smc?oc=5"
+            },
+            {
+                "title": "海事法规 - 上海海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2019-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-17T12:39:19.594981+00:00"
+    "last_updated": "2025-12-17T18:28:48.260002+00:00"
 }
