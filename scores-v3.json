@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "展望2026：中年社会的长期主义",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-15",
-                "url": "https://www.ftchinese.com/story/001108445"
-            },
-            {
-                "title": "德语媒体：德国经济界仍对中国抱持天真幻想",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-15",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%BE%B7%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%95%8C%E4%BB%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%8A%B1%E6%8C%81%E5%A4%A9%E7%9C%9F%E5%B9%BB%E6%83%B3/a-75166466"
-            },
-            {
-                "title": "年轻人的手机，比谁都更懂他们自己",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-15",
-                "url": "https://36kr.com/p/3596875506728961"
-            },
-            {
-                "title": "经济政策能否转化为选票？川普坦言“不确定”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-15",
-                "url": "https://www.secretchina.com/news/gb/2025/12/15/1092096.html"
-            },
-            {
-                "title": "冲刺港股，国产 GPU 公司壁仞科技完成境外上市备案",
+                "title": "美国 Luminar 公司申请破产，激光雷达业务面临出售",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/905/185.htm"
+                "date": "2025-12-16",
+                "url": "https://www.ithome.com/0/905/249.htm"
+            },
+            {
+                "title": "美国 CEO 薪酬有多高？苹果库克 7 小时收入超普通工人年薪",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-16",
+                "url": "https://www.ithome.com/0/905/243.htm"
+            },
+            {
+                "title": "马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2025-12-16",
+                "url": "https://www.geekpark.net/news/358055"
+            },
+            {
+                "title": "消息称北汽极狐 L3 试点车采用华为第一代 ADS 方案：400T 算力 + 3 颗主激光雷达",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-16",
+                "url": "https://www.ithome.com/0/905/239.htm"
+            },
+            {
+                "title": "福特砸 20 亿美元进军储能市场，采用宁德时代授权的磷酸铁锂电池",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-16",
+                "url": "https://www.ithome.com/0/905/235.htm"
             }
         ],
         "mil": [
+            {
+                "title": "福特砸 20 亿美元进军储能市场，采用宁德时代授权的磷酸铁锂电池",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-16",
+                "url": "https://www.ithome.com/0/905/235.htm"
+            },
+            {
+                "title": "8点1氪丨麦当劳多款餐品涨价；深圳一地厕所安装“吸烟会变透明”玻璃；纳斯达克称申请将工作日交易时长延长至23小时",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-16",
+                "url": "https://36kr.com/p/3597459822313728"
+            },
+            {
+                "title": "福特斥资20亿美元进军电池储能市场 瞄准数据中心与电网需求",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541180.htm"
+            },
             {
                 "title": "展望2026：中年社会的长期主义",
                 "source": "NewsAPI / Ftchinese.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.dw.com/zh/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E7%A7%98%E5%AF%86%E6%96%87%E4%BB%B6%E8%8B%A5%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%B9%B2%E9%A2%84%E5%8F%B0%E6%B5%B7%E6%88%98%E4%BA%89%E6%81%90%E5%B0%86%E9%81%AD%E9%81%87%E5%A4%B1%E8%B4%A5/a-75165685"
             },
             {
-                "title": "年轻人的手机，比谁都更懂他们自己",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-15",
-                "url": "https://36kr.com/p/3596875506728961"
-            },
-            {
-                "title": "36氪晚报｜马斯克：特斯拉启动无安全员Robotaxi路测；咨询机构：美股七巨头光环褪色；寒武纪：拟使用27.78亿元资本公积金弥补亏损",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-15",
-                "url": "https://36kr.com/p/3596670054252802"
-            },
-            {
-                "title": "机器人教父冷酷预言：人形机器人终成废铁 未来15年百亿资金灰飞烟灭",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541104.htm"
-            },
-            {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-15",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
             },
             {
-                "title": "领导人活动 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
-            },
-            {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "外交部：中央政府坚定支持香港特区惩治危害国家安全的犯罪行为 - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNS0J4RVlaQTBzRXpVU3BXc1IzQVR1TDRGcHh2U0pyaGliNWwza0RMdFJseS03MjdwUl93QXBZb2lFb0NVd1hJSXF4WDVtdjFfN0E?oc=5"
             },
             {
-                "title": "我军加速构建跨军种一体化联合保障模式 - 中国军网",
+                "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVEdyZ0xGMjBUYnpMSERhTGpJT2c4Z0hsckxWYlpDUFRyS3hVQm9sNTFoSWU1cTJiTDRVaDZOc1lqaGZlUzR0WVNneTZleGoyOGc?oc=5"
+                "date": "2025-12-16",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCN1d3T1dzVkpPRGQ1NGRtaC1zeUMzeWVGYUxnZnNVb1ZGRThTaWZHNmV0M0ZaZjAtMGN0UDNPVElSM05jQTBxQWt3?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "特斯拉无人驾驶出租车现身公共道路 且未配备安全员",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541166.htm"
+                "title": "马斯克：在地球建核聚变装置愚蠢至极；英伟达发布新一代开源大模型；全球首款猫用减肥药进入临床试验",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2025-12-16",
+                "url": "https://www.geekpark.net/news/358055"
             },
             {
-                "title": "展望2026：中年社会的长期主义",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-15",
-                "url": "https://www.ftchinese.com/story/001108445"
+                "title": "福特砸 20 亿美元进军储能市场，采用宁德时代授权的磷酸铁锂电池",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-16",
+                "url": "https://www.ithome.com/0/905/235.htm"
             },
             {
-                "title": "年轻人的手机，比谁都更懂他们自己",
+                "title": "8点1氪丨麦当劳多款餐品涨价；深圳一地厕所安装“吸烟会变透明”玻璃；纳斯达克称申请将工作日交易时长延长至23小时",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-15",
-                "url": "https://36kr.com/p/3596875506728961"
+                "date": "2025-12-16",
+                "url": "https://36kr.com/p/3597459822313728"
             },
             {
-                "title": "从设计到体验，这家卫浴品牌把“理想生活”刻进产品细节中",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2025-12-15",
-                "url": "https://www.toodaylab.com/83839"
-            },
-            {
-                "title": "冲刺港股，国产 GPU 公司壁仞科技完成境外上市备案",
+                "title": "6770 亿美元！马斯克成为史上首位身家超 6000 亿美元的人",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-15",
-                "url": "https://www.ithome.com/0/905/185.htm"
+                "url": "https://www.ithome.com/0/905/227.htm"
+            },
+            {
+                "title": "福特斥资20亿美元进军电池储能市场 瞄准数据中心与电网需求",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541180.htm"
             },
             {
                 "title": "关于对岩崎茂采取反制措施的决定 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZWxPZmFYLU9kSnBjQURGSTRSUWRoM2xBandwSGdIY0VYdEgzZEQ2aFBnUHZHbDdCM1Z3TVpUZGxfdVMtY1ZnWXpseHUzbldGOXh3NlUwTmwyRFoxTmlwenc1dVA1R3haeG52a3lzVmVmUQ?oc=5"
             },
             {
-                "title": "领导人活动 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWl9oYUswX3pPVk00WEhZN1ZSMloxZzNLdThoY2RISVVLLU9pT00taTFiTUVBMTVWU0xiUVIzaGpnQ0ZKLUpNRU9JMA?oc=5"
-            },
-            {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "外交部：中央政府坚定支持香港特区惩治危害国家安全的犯罪行为 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNS0J4RVlaQTBzRXpVU3BXc1IzQVR1TDRGcHh2U0pyaGliNWwza0RMdFJseS03MjdwUl93QXBZb2lFb0NVd1hJSXF4WDVtdjFfN0E?oc=5"
             },
             {
-                "title": "我军加速构建跨军种一体化联合保障模式 - 中国军网",
+                "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVEdyZ0xGMjBUYnpMSERhTGpJT2c4Z0hsckxWYlpDUFRyS3hVQm9sNTFoSWU1cTJiTDRVaDZOc1lqaGZlUzR0WVNneTZleGoyOGc?oc=5"
+                "date": "2025-12-16",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCN1d3T1dzVkpPRGQ1NGRtaC1zeUMzeWVGYUxnZnNVb1ZGRThTaWZHNmV0M0ZaZjAtMGN0UDNPVElSM05jQTBxQWt3?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-16T18:28:08.037101+00:00"
+    "last_updated": "2025-12-17T01:19:35.132690+00:00"
 }
