@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "青岛“十五五”规划建议：加快新一代海洋科学卫星、海洋综合试验场等布局建设",
+                "title": "跑分第一实战拉胯 GPT Image 1.5被骂惨",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541430.htm"
+            },
+            {
+                "title": "空客中国总装第800架A320系列飞机今日交付",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-17",
-                "url": "https://36kr.com/newsflashes/3598913796964354"
+                "url": "https://36kr.com/newsflashes/3599226543898626"
             },
             {
-                "title": "尊界超豪华国产成功，消息称新车上线后销量将维持 5000-6000 台",
-                "source": "NewsAPI / Ithome.com",
+                "title": "召回近50万台充电宝后 罗马仕领百万“罚单”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-17",
-                "url": "https://www.ithome.com/0/905/544.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541412.htm"
             },
             {
-                "title": "追赶谷歌，OpenAI 推出全新旗舰生图模型；折叠屏 iPhone 设计细节曝光；余承东接任华为终端有限公司董事长｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "借知名政客推进布局 OpenAI聘请英国前财长与各国合建AI基础设施",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-17",
-                "url": "https://www.geekpark.net/news/358098"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541410.htm"
             },
             {
-                "title": "复盘2025 展望2026年中国经济(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "马斯克的X平台就Twitter商标使用权起诉社交媒体初创公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-17",
-                "url": "https://www.secretchina.com/news/gb/2025/12/17/1092148.html"
-            },
-            {
-                "title": "科技昨夜今晨 1217：AMD CEO 苏姿丰到访中国；苹果 WWDC 2026 前瞻；小米之后荣耀宣布平板将涨价...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-17",
-                "url": "https://www.ithome.com/0/905/537.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541404.htm"
             }
         ],
         "mil": [
+            {
+                "title": "跑分第一实战拉胯 GPT Image 1.5被骂惨",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541430.htm"
+            },
+            {
+                "title": "召回近50万台充电宝后 罗马仕领百万“罚单”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541412.htm"
+            },
             {
                 "title": "中国网民涌入泰国驻华使馆官微 感谢摧毁电诈园区(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1541336.htm"
             },
             {
-                "title": "法拉第未来晒FX Super One工厂组装现场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541312.htm"
-            },
-            {
-                "title": "得州惊现“幽灵车”让特斯拉股价一夜狂欢 却是在悬崖边跳舞？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541232.htm"
-            },
-            {
                 "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-17",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55d1FfZWRGekMxOTZOLWlweWVkVWRiTmhKel9NVVlVZmtYekRPUTdobTFXSXU5UWJ6RTJRcVhuOWtHbTZiWk0xX1FYeFZrdmlpbXRyT3FBUU1feXBIMGU2WGNlZ1NKOXgxVWRNd0lFVFRvYjQ3QXc?oc=5"
             },
             {
+                "title": "王毅同委内瑞拉外长希尔通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-17",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMi1KMWlmU01QY01zY25XVVJEb0U1bkV4VEJqV1h6LXpNSjB0WGtPbnNycG1fSWZDWUFHQ0gwUkRUcFZ6VnlCYkRxYUJDS2laSmFpUWxhNmdQRF92a0F6cVBidTYtMUNLOUJjRnRB?oc=5"
+            },
+            {
                 "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-16",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56RnZoaVlucWU3aXpFcl9FczlKMTNPZWQzVFZ4YXFNSFV3SzhiZVJXMF9vNzhHb3k0ZlM5VHl6SjlJY1EzRHlCRXZBQzFvb3RMd1FrTHVrSmdSVzlwVGNtR05SZWMtYTN3T2pjX2l4ZldXb1ktWVE?oc=5"
-            },
-            {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "您的位置： 在线调查 - 军队人才网",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "北京甲流来势凶猛 多地重症及死亡人数同比大幅上升(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "跑分第一实战拉胯 GPT Image 1.5被骂惨",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-17",
-                "url": "https://www.secretchina.com/news/gb/2025/12/17/1092162.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541430.htm"
             },
             {
-                "title": "香港议会议长谈黎智英案 新闻自由崩塌只剩“一言堂”(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "空客中国总装第800架A320系列飞机今日交付",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-17",
-                "url": "https://www.secretchina.com/news/gb/2025/12/17/1092160.html"
+                "url": "https://36kr.com/newsflashes/3599226543898626"
             },
             {
-                "title": "追赶谷歌，OpenAI 推出全新旗舰生图模型；折叠屏 iPhone 设计细节曝光；余承东接任华为终端有限公司董事长｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "召回近50万台充电宝后 罗马仕领百万“罚单”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-17",
-                "url": "https://www.geekpark.net/news/358098"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541412.htm"
             },
             {
-                "title": "复盘2025 展望2026年中国经济(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "借知名政客推进布局 OpenAI聘请英国前财长与各国合建AI基础设施",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-17",
-                "url": "https://www.secretchina.com/news/gb/2025/12/17/1092148.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541410.htm"
             },
             {
-                "title": "微软 Win11 新专利获批：剪贴板迎 AI 改造，一键移除图片背景、转译代码等",
+                "title": "诺基亚完成对诺基亚贝尔股权收购，曾为首家中外合资通信企业",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-17",
-                "url": "https://www.ithome.com/0/905/539.htm"
+                "url": "https://www.ithome.com/0/905/630.htm"
             },
             {
                 "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问 - mfa.gov.cn",
@@ -154,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55d1FfZWRGekMxOTZOLWlweWVkVWRiTmhKel9NVVlVZmtYekRPUTdobTFXSXU5UWJ6RTJRcVhuOWtHbTZiWk0xX1FYeFZrdmlpbXRyT3FBUU1feXBIMGU2WGNlZ1NKOXgxVWRNd0lFVFRvYjQ3QXc?oc=5"
             },
             {
+                "title": "王毅同委内瑞拉外长希尔通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-17",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMi1KMWlmU01QY01zY25XVVJEb0U1bkV4VEJqV1h6LXpNSjB0WGtPbnNycG1fSWZDWUFHQ0gwUkRUcFZ6VnlCYkRxYUJDS2laSmFpUWxhNmdQRF92a0F6cVBidTYtMUNLOUJjRnRB?oc=5"
+            },
+            {
                 "title": "2025年12月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-16",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56RnZoaVlucWU3aXpFcl9FczlKMTNPZWQzVFZ4YXFNSFV3SzhiZVJXMF9vNzhHb3k0ZlM5VHl6SjlJY1EzRHlCRXZBQzFvb3RMd1FrTHVrSmdSVzlwVGNtR05SZWMtYTN3T2pjX2l4ZldXb1ktWVE?oc=5"
-            },
-            {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "您的位置： 在线调查 - 军队人才网",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-18T01:20:11.133052+00:00"
+    "last_updated": "2025-12-18T06:29:36.760655+00:00"
 }
