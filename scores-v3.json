@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "日版App Store大改 引入第三方应用商店与支付选项",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-18",
-                "url": "http://www.geekpark.net/news/358151"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541626.htm"
             },
             {
-                "title": "8点1氪丨罗永浩回应“骂俞敏洪是忘恩负义”；馆藏估价8800万名作现身拍卖市场，南京博物院回应；多只“宝宝类”基金收益率跌破1%",
+                "title": "工信部部长会见AMD CEO苏姿丰：希望继续深耕中国市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541624.htm"
+            },
+            {
+                "title": "两年门店扩至170家，这个被收购的美国品牌活过来了",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-18",
-                "url": "https://36kr.com/p/3600287411077122"
+                "url": "https://36kr.com/p/3600585711157249"
             },
             {
-                "title": "科技昨夜今晨 1218：消息称小米 SU7 换代明年二季度上市；我国山东舰航母正式入列 6 周年；曝苹果 iPhone 18 Pro 摒弃药丸状挖孔...",
+                "title": "苹果首款折叠屏iPhone渲染图：阔折叠比例 内屏无开孔",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541600.htm"
+            },
+            {
+                "title": "扫地机器人鼻祖 iRobot 破产，CEO 坦言没打过中国品牌",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-18",
-                "url": "https://www.ithome.com/0/905/868.htm"
-            },
-            {
-                "title": "模型免费、推理翻倍：Gemini 3 Flash发放智能体时代的“入场券”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541566.htm"
-            },
-            {
-                "title": "中国根本就没有过真正的改革开放(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-17",
-                "url": "https://www.secretchina.com/news/gb/2025/12/18/1092198.html"
+                "url": "https://www.ithome.com/0/905/963.htm"
             }
         ],
         "mil": [
             {
+                "title": "OpenAI推出ChatGPT应用目录 向“一站式超级应用”迈进",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541634.htm"
+            },
+            {
+                "title": "国际版小米 17 Ultra 手机认证公示：支持 Wi-Fi 7、蓝牙 LE，有线快充 100W",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-18",
+                "url": "https://www.ithome.com/0/905/954.htm"
+            },
+            {
+                "title": "深圳老牌硬件公司，对标xTool，做出众筹超500万美元爆款",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-18",
+                "url": "https://36kr.com/p/3599799092035845"
+            },
+            {
                 "title": "OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2025-12-18",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-18",
                 "url": "https://36kr.com/p/3600287411077122"
-            },
-            {
-                "title": "科技昨夜今晨 1218：消息称小米 SU7 换代明年二季度上市；我国山东舰航母正式入列 6 周年；曝苹果 iPhone 18 Pro 摒弃药丸状挖孔...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-18",
-                "url": "https://www.ithome.com/0/905/868.htm"
-            },
-            {
-                "title": "美中举行年度防务政策会谈，强调军事沟通与降低冲突",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-12-17",
-                "url": "https://www.voachinese.com/a/u-s-china-hold-defense-policy-talks-as-military-communications-resume-20251217/8094027.html"
-            },
-            {
-                "title": "当AI助手成为ENFP马屁精",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-17",
-                "url": "https://www.ftchinese.com/story/001108462"
             },
             {
                 "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
@@ -80,10 +80,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNkR0cy1HTEVrbm5tT0xRNkdLLWZNams3NE9wUWllQ0UzbFdLMEEzdk1oazVSaGxpNXI2blZFWEpUYXoweXhyTHEzVWRCeldHRjdQb2Z6OFRxQWUzSHdVQkJZck5rX2lEQ3BUcXFR?oc=5"
             },
             {
-                "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问 - mfa.gov.cn",
+                "title": "外交部部长助理刘彬同乌克兰第一副外长基斯利察举行中乌外交部政治磋商 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-17",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55d1FfZWRGekMxOTZOLWlweWVkVWRiTmhKel9NVVlVZmtYekRPUTdobTFXSXU5UWJ6RTJRcVhuOWtHbTZiWk0xX1FYeFZrdmlpbXRyT3FBUU1feXBIMGU2WGNlZ1NKOXgxVWRNd0lFVFRvYjQ3QXc?oc=5"
+                "date": "2025-12-18",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zT0NjcDhtOTVZbS1xNE5ORl9EbnJXMFR3U3VLYWJ1a2xJeDkwODZ6akhCcllldWJ5V1J2azRzWXF6bGViUm5fdDBPYXU5SUNWTzhnQnNWS3VfSWdFcEQ5Z19WUmJyN3FRRTZudm83S2tXQQ?oc=5"
             },
             {
                 "title": "王毅同委内瑞拉外长希尔通电话 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-18",
-                "url": "http://www.geekpark.net/news/358151"
-            },
-            {
-                "title": "8点1氪丨罗永浩回应“骂俞敏洪是忘恩负义”；馆藏估价8800万名作现身拍卖市场，南京博物院回应；多只“宝宝类”基金收益率跌破1%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-18",
-                "url": "https://36kr.com/p/3600287411077122"
-            },
-            {
-                "title": "科技昨夜今晨 1218：消息称小米 SU7 换代明年二季度上市；我国山东舰航母正式入列 6 周年；曝苹果 iPhone 18 Pro 摒弃药丸状挖孔...",
+                "title": "2025 年“世界品牌 500 强”揭晓：谷歌、微软和苹果居前三，中国 50 个品牌上榜",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-18",
-                "url": "https://www.ithome.com/0/905/868.htm"
+                "url": "https://www.ithome.com/0/905/976.htm"
             },
             {
-                "title": "模型免费、推理翻倍：Gemini 3 Flash发放智能体时代的“入场券”",
+                "title": "OpenAI推出ChatGPT应用目录 向“一站式超级应用”迈进",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541566.htm"
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541634.htm"
             },
             {
-                "title": "当AI助手成为ENFP马屁精",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-17",
-                "url": "https://www.ftchinese.com/story/001108462"
+                "title": "日版App Store大改 引入第三方应用商店与支付选项",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541626.htm"
+            },
+            {
+                "title": "工信部部长会见AMD CEO苏姿丰：希望继续深耕中国市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541624.htm"
+            },
+            {
+                "title": "两年门店扩至170家，这个被收购的美国品牌活过来了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-18",
+                "url": "https://36kr.com/p/3600585711157249"
             },
             {
                 "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
@@ -148,10 +148,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNkR0cy1HTEVrbm5tT0xRNkdLLWZNams3NE9wUWllQ0UzbFdLMEEzdk1oazVSaGxpNXI2blZFWEpUYXoweXhyTHEzVWRCeldHRjdQb2Z6OFRxQWUzSHdVQkJZck5rX2lEQ3BUcXFR?oc=5"
             },
             {
-                "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问 - mfa.gov.cn",
+                "title": "外交部部长助理刘彬同乌克兰第一副外长基斯利察举行中乌外交部政治磋商 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-17",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55d1FfZWRGekMxOTZOLWlweWVkVWRiTmhKel9NVVlVZmtYekRPUTdobTFXSXU5UWJ6RTJRcVhuOWtHbTZiWk0xX1FYeFZrdmlpbXRyT3FBUU1feXBIMGU2WGNlZ1NKOXgxVWRNd0lFVFRvYjQ3QXc?oc=5"
+                "date": "2025-12-18",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zT0NjcDhtOTVZbS1xNE5ORl9EbnJXMFR3U3VLYWJ1a2xJeDkwODZ6akhCcllldWJ5V1J2azRzWXF6bGViUm5fdDBPYXU5SUNWTzhnQnNWS3VfSWdFcEQ5Z19WUmJyN3FRRTZudm83S2tXQQ?oc=5"
             },
             {
                 "title": "王毅同委内瑞拉外长希尔通电话 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-19T01:23:49.069829+00:00"
+    "last_updated": "2025-12-19T06:28:38.414810+00:00"
 }
