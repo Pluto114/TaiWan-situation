@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "日版App Store大改 引入第三方应用商店与支付选项",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "戳破习近平称半导体行业“卡不住”的世纪谎言(组图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541626.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/18/1092238.html"
             },
             {
-                "title": "工信部部长会见AMD CEO苏姿丰：希望继续深耕中国市场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541624.htm"
-            },
-            {
-                "title": "两年门店扩至170家，这个被收购的美国品牌活过来了",
+                "title": "氪星晚报｜电影《疯狂动物城2》进入年度票房榜前二；小红书社区架构再调整；周大福再涨价",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-18",
-                "url": "https://36kr.com/p/3600585711157249"
+                "url": "https://36kr.com/p/3600881512792064"
             },
             {
-                "title": "苹果首款折叠屏iPhone渲染图：阔折叠比例 内屏无开孔",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "特朗普全国讲话：自诩成就斐然 猛烈抨击拜登",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541600.htm"
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E5%9B%BD%E8%AE%B2%E8%AF%9D%E8%87%AA%E8%AF%A9%E6%88%90%E5%B0%B1%E6%96%90%E7%84%B6-%E7%8C%9B%E7%83%88%E6%8A%A8%E5%87%BB%E6%8B%9C%E7%99%BB/a-75215854"
             },
             {
-                "title": "扫地机器人鼻祖 iRobot 破产，CEO 坦言没打过中国品牌",
+                "title": "我国科学家实现温和条件下以氮气和水为原料直接合成氨",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-18",
-                "url": "https://www.ithome.com/0/905/963.htm"
+                "url": "https://www.ithome.com/0/906/087.htm"
+            },
+            {
+                "title": "国产 scaleX 万卡超集群真机首次亮相，中科曙光打造",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-18",
+                "url": "https://www.ithome.com/0/906/070.htm"
             }
         ],
         "mil": [
+            {
+                "title": "火山引擎的「火」，是怎么点起来的",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2025-12-18",
+                "url": "http://www.geekpark.net/news/358192"
+            },
+            {
+                "title": "魏建军：智能车\"大忽悠\"太多 我要搞购车防忽悠指南",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541654.htm"
+            },
+            {
+                "title": "拼多多与中国监管人员发生肢体冲突后大幅裁撤政府事务团队",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541636.htm"
+            },
             {
                 "title": "OpenAI推出ChatGPT应用目录 向“一站式超级应用”迈进",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,24 +74,6 @@
                 "url": "https://www.ithome.com/0/905/954.htm"
             },
             {
-                "title": "深圳老牌硬件公司，对标xTool，做出众筹超500万美元爆款",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-18",
-                "url": "https://36kr.com/p/3599799092035845"
-            },
-            {
-                "title": "OpenAI 已讨论以约 7500 亿美元的估值筹集数百亿美元资金；消息称 SpaceX 要求员工进入 IPO 前的「静默期」；《阿凡达 3》媒体口碑解禁：烂番茄新鲜度 68%，M 站开分 64｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-18",
-                "url": "http://www.geekpark.net/news/358151"
-            },
-            {
-                "title": "8点1氪丨罗永浩回应“骂俞敏洪是忘恩负义”；馆藏估价8800万名作现身拍卖市场，南京博物院回应；多只“宝宝类”基金收益率跌破1%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-18",
-                "url": "https://36kr.com/p/3600287411077122"
-            },
-            {
                 "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-18",
@@ -86,22 +86,22 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zT0NjcDhtOTVZbS1xNE5ORl9EbnJXMFR3U3VLYWJ1a2xJeDkwODZ6akhCcllldWJ5V1J2azRzWXF6bGViUm5fdDBPYXU5SUNWTzhnQnNWS3VfSWdFcEQ5Z19WUmJyN3FRRTZudm83S2tXQQ?oc=5"
             },
             {
-                "title": "王毅同委内瑞拉外长希尔通电话 - mfa.gov.cn",
+                "title": "2025年12月18日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-17",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMi1KMWlmU01QY01zY25XVVJEb0U1bkV4VEJqV1h6LXpNSjB0WGtPbnNycG1fSWZDWUFHQ0gwUkRUcFZ6VnlCYkRxYUJDS2laSmFpUWxhNmdQRF92a0F6cVBidTYtMUNLOUJjRnRB?oc=5"
-            },
-            {
-                "title": "您的位置： 在线调查 - 军队人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
+                "date": "2025-12-18",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81UXpVNUdIYjdZNDl1elVXemo0eGJWdmxEeDByc1dSWTI1X0h1c1dCbENuN1BrV1ZOOFBMenRvXzZhOWVrdG1ET0NOOENzeVNHclMwcDBzX2ZJUzMzUWJQWWZrRm9QMmdlellJQ1B2eXhyOGVtRlE?oc=5"
             },
             {
                 "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在京隆重举行- 国防教育 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-17",
                 "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tSWIzV1dhd2ZTemhwUFhmUnlrOGQxSEVOLW1QVkk0QktjV1JhakVBSGNnX29DVGNhZkRpbVdmN3RJUWQyZWNueUhhbVFnblBMeFhsVzJMbU1oX09BMHdjY3VBY3Y0WHJ6MzFxT2t4UEVGX0RuT2pOQWF6ZUR5Tjg?oc=5"
+            },
+            {
+                "title": "伟力·文化抗战丨第九集 燎原 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-19",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UeHhCQlJEY0I1UVg1SGpzU3ZuZ3hIZHpGZHliSzhMejAwOVRqTWxmQmI3dV92QXk3N1hPODItYUc1YTJZR29iWHNncFlTRV9CemNNSVNvRHRZTTIyZF9UYw?oc=5"
             },
             {
                 "title": "香港、澳门：铭记抗战历史 培育家国情怀- 国防教育 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "2025 年“世界品牌 500 强”揭晓：谷歌、微软和苹果居前三，中国 50 个品牌上榜",
+                "title": "“保卫人民 拒绝当党卫军”原“首长”致中国军人公开信(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-18",
+                "url": "https://www.secretchina.com/news/gb/2025/12/18/1092236.html"
+            },
+            {
+                "title": "【USA】米議会で日本支持・中国批判の動き　外交委員会の上院議員が「中国による日本への威圧に対抗」の決議案を提出",
+                "source": "NewsAPI / Itainews.com",
+                "date": "2025-12-18",
+                "url": "https://itainews.com/archives/2056547.html"
+            },
+            {
+                "title": "比特币资深持有者大举套现 加密货币市场遭遇无声撤离潮",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541690.htm"
+            },
+            {
+                "title": "索尼关闭广东惠州工厂 去年底完成股权转让",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541676.htm"
+            },
+            {
+                "title": "国产 scaleX 万卡超集群真机首次亮相，中科曙光打造",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-18",
-                "url": "https://www.ithome.com/0/905/976.htm"
-            },
-            {
-                "title": "OpenAI推出ChatGPT应用目录 向“一站式超级应用”迈进",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541634.htm"
-            },
-            {
-                "title": "日版App Store大改 引入第三方应用商店与支付选项",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541626.htm"
-            },
-            {
-                "title": "工信部部长会见AMD CEO苏姿丰：希望继续深耕中国市场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541624.htm"
-            },
-            {
-                "title": "两年门店扩至170家，这个被收购的美国品牌活过来了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-18",
-                "url": "https://36kr.com/p/3600585711157249"
+                "url": "https://www.ithome.com/0/906/070.htm"
             },
             {
                 "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
@@ -154,22 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zT0NjcDhtOTVZbS1xNE5ORl9EbnJXMFR3U3VLYWJ1a2xJeDkwODZ6akhCcllldWJ5V1J2azRzWXF6bGViUm5fdDBPYXU5SUNWTzhnQnNWS3VfSWdFcEQ5Z19WUmJyN3FRRTZudm83S2tXQQ?oc=5"
             },
             {
-                "title": "王毅同委内瑞拉外长希尔通电话 - mfa.gov.cn",
+                "title": "2025年12月18日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-17",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMi1KMWlmU01QY01zY25XVVJEb0U1bkV4VEJqV1h6LXpNSjB0WGtPbnNycG1fSWZDWUFHQ0gwUkRUcFZ6VnlCYkRxYUJDS2laSmFpUWxhNmdQRF92a0F6cVBidTYtMUNLOUJjRnRB?oc=5"
-            },
-            {
-                "title": "您的位置： 在线调查 - 军队人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
+                "date": "2025-12-18",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81UXpVNUdIYjdZNDl1elVXemo0eGJWdmxEeDByc1dSWTI1X0h1c1dCbENuN1BrV1ZOOFBMenRvXzZhOWVrdG1ET0NOOENzeVNHclMwcDBzX2ZJUzMzUWJQWWZrRm9QMmdlellJQ1B2eXhyOGVtRlE?oc=5"
             },
             {
                 "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在京隆重举行- 国防教育 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-17",
                 "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tSWIzV1dhd2ZTemhwUFhmUnlrOGQxSEVOLW1QVkk0QktjV1JhakVBSGNnX29DVGNhZkRpbVdmN3RJUWQyZWNueUhhbVFnblBMeFhsVzJMbU1oX09BMHdjY3VBY3Y0WHJ6MzFxT2t4UEVGX0RuT2pOQWF6ZUR5Tjg?oc=5"
+            },
+            {
+                "title": "伟力·文化抗战丨第九集 燎原 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-19",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UeHhCQlJEY0I1UVg1SGpzU3ZuZ3hIZHpGZHliSzhMejAwOVRqTWxmQmI3dV92QXk3N1hPODItYUc1YTJZR29iWHNncFlTRV9CemNNSVNvRHRZTTIyZF9UYw?oc=5"
             },
             {
                 "title": "香港、澳门：铭记抗战历史 培育家国情怀- 国防教育 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-19T06:28:38.414810+00:00"
+    "last_updated": "2025-12-19T12:36:49.775987+00:00"
 }
