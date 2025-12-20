@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "氪星晚报｜拼多多回应欧盟“黎明突袭”询问；麦当劳中国：门店数量已超过7500家，全国餐厅将陆续启用生物基新包装；全国首个高海拔岩洞式算力舱智算中心投运",
-                "source": "NewsAPI / 36kr.com",
+                "title": "新年将至 期待一个没有共产党的中国(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-19",
-                "url": "https://36kr.com/p/3602333827564553"
+                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092297.html"
             },
             {
-                "title": "22.98 万元起，福特智趣烈马纯电 / 增程 SUV 上市",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中共体制内人爆经济内幕：穷苦百姓孩子无出头之日(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-19",
-                "url": "https://www.ithome.com/0/906/409.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092296.html"
             },
             {
-                "title": "消息称 Momenta 自研芯片 BMC 7X 实现交付上车，算力高于英伟达 Orin-X",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德语媒体：中国芯片制造技术取得重大突破？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-19",
-                "url": "https://www.ithome.com/0/906/300.htm"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4/a-75246274"
             },
             {
-                "title": "每日路演精选项目｜人工智能、低空经济、新材料、生物制造、核聚变等领域",
-                "source": "NewsAPI / 36kr.com",
+                "title": "【CDT报告汇】路透社调查：Meta纵容中国诈骗广告，内部反欺诈团队被叫停以维护数十亿美元收入（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2025-12-19",
-                "url": "https://36kr.com/p/3600788540309509"
+                "url": "https://chinadigitaltimes.net/chinese/723616.html"
             },
             {
-                "title": "AI破解出海增长困局，易蛙智能助力商家实现效率平权",
-                "source": "NewsAPI / 36kr.com",
+                "title": "受安世半导体争端影响 本田部分工厂短暂停产​",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-19",
-                "url": "https://36kr.com/p/3602109849764871"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541870.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美众议员强化“挺台10措施”阻中共武统(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-19",
+                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092295.html"
+            },
+            {
+                "title": "丹麦指责俄罗斯策动两起“破坏性和干扰性”网络攻击",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541868.htm"
+            },
+            {
+                "title": "南京导航集体失灵 核心原因是GNSS卫星信号受到干扰压制",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541852.htm"
+            },
             {
                 "title": "游戏工委：未成年人线上娱乐活动占比达 79.3%，防沉迷体系成效与挑战并存",
                 "source": "NewsAPI / Ithome.com",
@@ -56,30 +74,6 @@
                 "url": "https://www.ithome.com/0/906/297.htm"
             },
             {
-                "title": "告别知识库时代，印象笔记如何打造你的「第二大脑」？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358235"
-            },
-            {
-                "title": "特朗普的媒体公司与核聚变公司合并：利用核聚变为AI供电",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541756.htm"
-            },
-            {
-                "title": "高端汽车市场创2亿营收，「悉智科技」拓疆AIDC蓝海 ｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-19",
-                "url": "https://36kr.com/p/3601841999037444"
-            },
-            {
-                "title": "外交部部长助理刘彬同乌克兰第一副外长基斯利察举行中乌外交部政治磋商 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-18",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zT0NjcDhtOTVZbS1xNE5ORl9EbnJXMFR3U3VLYWJ1a2xJeDkwODZ6akhCcllldWJ5V1J2azRzWXF6bGViUm5fdDBPYXU5SUNWTzhnQnNWS3VfSWdFcEQ5Z19WUmJyN3FRRTZudm83S2tXQQ?oc=5"
-            },
-            {
                 "title": "2025年12月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-19",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "谨慎、暂勿前往 注意安全 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-01-17",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkd2lOcHVCSWxPZzJWZ1NXV1hnNkZrOVVEeHFmSnNGcS0wZ2hkRFQwcmNBM3BNenUxbmRJYmdkc013Q0RZOUpiNGREaDBScmZCT3BEMk9ZVGVad1E?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
+                "title": "新年将至 期待一个没有共产党的中国(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-19",
+                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092297.html"
+            },
+            {
+                "title": "受安世半导体争端影响 本田部分工厂短暂停产​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541870.htm"
+            },
+            {
+                "title": "丹麦指责俄罗斯策动两起“破坏性和干扰性”网络攻击",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541868.htm"
+            },
+            {
+                "title": "美国知名空头迈克尔・伯里质疑英伟达出货数据，在线征集“囤货照片”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-19",
+                "url": "https://www.ithome.com/0/906/435.htm"
+            },
+            {
                 "title": "太讽刺 不信神的中共为何寻访转世灵童？(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-19",
                 "url": "https://www.secretchina.com/news/gb/2025/12/19/1091943.html"
-            },
-            {
-                "title": "氪星晚报｜拼多多回应欧盟“黎明突袭”询问；麦当劳中国：门店数量已超过7500家，全国餐厅将陆续启用生物基新包装；全国首个高海拔岩洞式算力舱智算中心投运",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-19",
-                "url": "https://36kr.com/p/3602333827564553"
-            },
-            {
-                "title": "22.98 万元起，福特智趣烈马纯电 / 增程 SUV 上市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-19",
-                "url": "https://www.ithome.com/0/906/409.htm"
-            },
-            {
-                "title": "客座评论：西方国家的“软外交”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-19",
-                "url": "https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%BD%AF%E5%A4%96%E4%BA%A4/a-75224733"
-            },
-            {
-                "title": "特斯拉估值逻辑正在转变：押注自动驾驶和机器人 汽车业务占比降低",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541838.htm"
-            },
-            {
-                "title": "外交部部长助理刘彬同乌克兰第一副外长基斯利察举行中乌外交部政治磋商 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-18",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zT0NjcDhtOTVZbS1xNE5ORl9EbnJXMFR3U3VLYWJ1a2xJeDkwODZ6akhCcllldWJ5V1J2azRzWXF6bGViUm5fdDBPYXU5SUNWTzhnQnNWS3VfSWdFcEQ5Z19WUmJyN3FRRTZudm83S2tXQQ?oc=5"
             },
             {
                 "title": "2025年12月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "谨慎、暂勿前往 注意安全 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-01-17",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkd2lOcHVCSWxPZzJWZ1NXV1hnNkZrOVVEeHFmSnNGcS0wZ2hkRFQwcmNBM3BNenUxbmRJYmdkc013Q0RZOUpiNGREaDBScmZCT3BEMk9ZVGVad1E?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-20T12:33:44.417199+00:00"
+    "last_updated": "2025-12-20T18:23:07.586190+00:00"
 }
