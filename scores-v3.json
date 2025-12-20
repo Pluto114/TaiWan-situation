@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星Exynos 2600正式发布 全球首款2nm手机芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜拼多多回应欧盟“黎明突袭”询问；麦当劳中国：门店数量已超过7500家，全国餐厅将陆续启用生物基新包装；全国首个高海拔岩洞式算力舱智算中心投运",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541790.htm"
+                "url": "https://36kr.com/p/3602333827564553"
             },
             {
-                "title": "模型免费、推理翻倍：Gemini 3 Flash 深夜炸场，发放智能体时代的「入场券」",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "22.98 万元起，福特智趣烈马纯电 / 增程 SUV 上市",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358272"
+                "url": "https://www.ithome.com/0/906/409.htm"
             },
             {
-                "title": "华尔街盛赞美光财报：美国芯片史上最大惊喜之一",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "消息称 Momenta 自研芯片 BMC 7X 实现交付上车，算力高于英伟达 Orin-X",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541766.htm"
+                "url": "https://www.ithome.com/0/906/300.htm"
             },
             {
-                "title": "告别知识库时代，印象笔记如何打造你的「第二大脑」？",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "每日路演精选项目｜人工智能、低空经济、新材料、生物制造、核聚变等领域",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358235"
+                "url": "https://36kr.com/p/3600788540309509"
             },
             {
-                "title": "AI校园争夺战升级：OpenAI以“批发价”抢占百万用户",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "AI破解出海增长困局，易蛙智能助力商家实现效率平权",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541754.htm"
+                "url": "https://36kr.com/p/3602109849764871"
             }
         ],
         "mil": [
+            {
+                "title": "游戏工委：未成年人线上娱乐活动占比达 79.3%，防沉迷体系成效与挑战并存",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-19",
+                "url": "https://www.ithome.com/0/906/406.htm"
+            },
+            {
+                "title": "谷歌版两门「小钢炮」开源！2.7 亿参数干翻 SOTA",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-19",
+                "url": "https://www.ithome.com/0/906/297.htm"
+            },
             {
                 "title": "告别知识库时代，印象笔记如何打造你的「第二大脑」？",
                 "source": "NewsAPI / Geekpark.net",
@@ -62,24 +74,6 @@
                 "url": "https://36kr.com/p/3601841999037444"
             },
             {
-                "title": "OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358210"
-            },
-            {
-                "title": "8点1氪丨苹果客服回应iPhone内存用完就坏；香港发生十亿日元劫案；杭州率先立法管理居民体重",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-19",
-                "url": "https://36kr.com/p/3601701793203462"
-            },
-            {
-                "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-18",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNkR0cy1HTEVrbm5tT0xRNkdLLWZNams3NE9wUWllQ0UzbFdLMEEzdk1oazVSaGxpNXI2blZFWEpUYXoweXhyTHEzVWRCeldHRjdQb2Z6OFRxQWUzSHdVQkJZck5rX2lEQ3BUcXFR?oc=5"
-            },
-            {
                 "title": "外交部部长助理刘彬同乌克兰第一副外长基斯利察举行中乌外交部政治磋商 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-18",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-19",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VDI4WWNhc3lLNXRQSnpPWGQtdnNIbU9FbjZ6WEh5eFo3djJmcElzU01NZm5HblVaOE9DcEc1QlpqbUZzdGg0cTJZSVBxODJuUFdsZzFFem5TZ2VyWFk5d0lsY1kxNWpTZXhnalhJRm5yYjF1WkE?oc=5"
+            },
+            {
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "模型免费、推理翻倍：Gemini 3 Flash 深夜炸场，发放智能体时代的「入场券」",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "太讽刺 不信神的中共为何寻访转世灵童？(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358272"
+                "url": "https://www.secretchina.com/news/gb/2025/12/19/1091943.html"
             },
             {
-                "title": "华尔街盛赞美光财报：美国芯片史上最大惊喜之一",
+                "title": "氪星晚报｜拼多多回应欧盟“黎明突袭”询问；麦当劳中国：门店数量已超过7500家，全国餐厅将陆续启用生物基新包装；全国首个高海拔岩洞式算力舱智算中心投运",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-19",
+                "url": "https://36kr.com/p/3602333827564553"
+            },
+            {
+                "title": "22.98 万元起，福特智趣烈马纯电 / 增程 SUV 上市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-19",
+                "url": "https://www.ithome.com/0/906/409.htm"
+            },
+            {
+                "title": "客座评论：西方国家的“软外交”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-19",
+                "url": "https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%BD%AF%E5%A4%96%E4%BA%A4/a-75224733"
+            },
+            {
+                "title": "特斯拉估值逻辑正在转变：押注自动驾驶和机器人 汽车业务占比降低",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541766.htm"
-            },
-            {
-                "title": "告别知识库时代，印象笔记如何打造你的「第二大脑」？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358235"
-            },
-            {
-                "title": "周受资内部信曝TikTok美国方案：字节与合资公司职责公开",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541758.htm"
-            },
-            {
-                "title": "特朗普的媒体公司与核聚变公司合并：利用核聚变为AI供电",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541756.htm"
-            },
-            {
-                "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-18",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNkR0cy1HTEVrbm5tT0xRNkdLLWZNams3NE9wUWllQ0UzbFdLMEEzdk1oazVSaGxpNXI2blZFWEpUYXoweXhyTHEzVWRCeldHRjdQb2Z6OFRxQWUzSHdVQkJZck5rX2lEQ3BUcXFR?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541838.htm"
             },
             {
                 "title": "外交部部长助理刘彬同乌克兰第一副外长基斯利察举行中乌外交部政治磋商 - mfa.gov.cn",
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-19",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VDI4WWNhc3lLNXRQSnpPWGQtdnNIbU9FbjZ6WEh5eFo3djJmcElzU01NZm5HblVaOE9DcEc1QlpqbUZzdGg0cTJZSVBxODJuUFdsZzFFem5TZ2VyWFk5d0lsY1kxNWpTZXhnalhJRm5yYjF1WkE?oc=5"
+            },
+            {
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-20T06:27:01.886376+00:00"
+    "last_updated": "2025-12-20T12:33:44.417199+00:00"
 }
