@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录",
+                "title": "三星Exynos 2600正式发布 全球首款2nm手机芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541790.htm"
+            },
+            {
+                "title": "模型免费、推理翻倍：Gemini 3 Flash 深夜炸场，发放智能体时代的「入场券」",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358210"
+                "url": "http://www.geekpark.net/news/358272"
             },
             {
-                "title": "联想 Legion Pro 卷轴屏概念笔记本爆料：16 英寸展开至 21.5 或 24 英寸，RTX 5090 显卡",
-                "source": "NewsAPI / Ithome.com",
+                "title": "华尔街盛赞美光财报：美国芯片史上最大惊喜之一",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-19",
-                "url": "https://www.ithome.com/0/906/168.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541766.htm"
             },
             {
-                "title": "早报｜App Store搜索页将加更多广告/海南封关：iPhone直降最高2140元/小红书发力「优质中长视频」",
-                "source": "NewsAPI / Ifanr.com",
+                "title": "告别知识库时代，印象笔记如何打造你的「第二大脑」？",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2025-12-19",
-                "url": "https://www.ifanr.com/1649041"
+                "url": "http://www.geekpark.net/news/358235"
             },
             {
-                "title": "8点1氪丨苹果客服回应iPhone内存用完就坏；香港发生十亿日元劫案；杭州率先立法管理居民体重",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI校园争夺战升级：OpenAI以“批发价”抢占百万用户",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-19",
-                "url": "https://36kr.com/p/3601701793203462"
-            },
-            {
-                "title": "亲中经济崩溃 这国外汇存底蒸发近9成终于醒了(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-18",
-                "url": "https://www.secretchina.com/news/gb/2025/12/19/1092260.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541754.htm"
             }
         ],
         "mil": [
             {
+                "title": "告别知识库时代，印象笔记如何打造你的「第二大脑」？",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2025-12-19",
+                "url": "http://www.geekpark.net/news/358235"
+            },
+            {
+                "title": "特朗普的媒体公司与核聚变公司合并：利用核聚变为AI供电",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541756.htm"
+            },
+            {
+                "title": "高端汽车市场创2亿营收，「悉智科技」拓疆AIDC蓝海 ｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-19",
+                "url": "https://36kr.com/p/3601841999037444"
+            },
+            {
                 "title": "OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2025-12-19",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-19",
                 "url": "https://36kr.com/p/3601701793203462"
-            },
-            {
-                "title": "美逾111亿美元对台军售 引发中方强烈反弹(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-18",
-                "url": "https://www.secretchina.com/news/gb/2025/12/19/1092229.html"
-            },
-            {
-                "title": "【年终专题】“演习进逼，拿下台湾”……2025年度敏感词",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2025-12-18",
-                "url": "https://chinadigitaltimes.net/chinese/723561.html"
-            },
-            {
-                "title": "朝鲜劳动党八届十三中全会解读",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-18",
-                "url": "https://www.ftchinese.com/story/001108483"
             },
             {
                 "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VDI4WWNhc3lLNXRQSnpPWGQtdnNIbU9FbjZ6WEh5eFo3djJmcElzU01NZm5HblVaOE9DcEc1QlpqbUZzdGg0cTJZSVBxODJuUFdsZzFFem5TZ2VyWFk5d0lsY1kxNWpTZXhnalhJRm5yYjF1WkE?oc=5"
             },
             {
+                "title": "《军报每天读》20251220 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-20",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MlJEQm56dWNmMExGT3I5MzB3cE4yY0M5VmxPV0R0Z05vVnU2WFd5dHIzRVpmV0ZkOHBXTi1VUkpFRFBHMFoxZzlIVkZYWmhlbWc5bQ?oc=5"
+            },
+            {
                 "title": "湖南省怀化市鹤城区人武部组织工作人员帮助种植户采摘草莓 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-19",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-19",
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UeHhCQlJEY0I1UVg1SGpzU3ZuZ3hIZHpGZHliSzhMejAwOVRqTWxmQmI3dV92QXk3N1hPODItYUc1YTJZR29iWHNncFlTRV9CemNNSVNvRHRZTTIyZF9UYw?oc=5"
-            },
-            {
-                "title": "澳门举办电视剧《风与潮》观影交流会共话家国情怀 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd3A3T05yeG8xOVNtREtkZGk5b3FhUl9wQzRXWVgtLTI1OGl1TUJhNDcxV0x1RFNrTEY4VGcwMFlzdjlkTVdpQXE3SDdfWW9sSFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "微软 Win10/Win11 应用商店月活突破 2.5 亿，携手腾讯扩展中国内容生态",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-19",
-                "url": "https://www.ithome.com/0/906/176.htm"
-            },
-            {
-                "title": "OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录",
+                "title": "模型免费、推理翻倍：Gemini 3 Flash 深夜炸场，发放智能体时代的「入场券」",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2025-12-19",
-                "url": "http://www.geekpark.net/news/358210"
+                "url": "http://www.geekpark.net/news/358272"
             },
             {
-                "title": "8点1氪丨苹果客服回应iPhone内存用完就坏；香港发生十亿日元劫案；杭州率先立法管理居民体重",
-                "source": "NewsAPI / 36kr.com",
+                "title": "华尔街盛赞美光财报：美国芯片史上最大惊喜之一",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-19",
-                "url": "https://36kr.com/p/3601701793203462"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541766.htm"
             },
             {
-                "title": "亲中经济崩溃 这国外汇存底蒸发近9成终于醒了(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-18",
-                "url": "https://www.secretchina.com/news/gb/2025/12/19/1092260.html"
+                "title": "告别知识库时代，印象笔记如何打造你的「第二大脑」？",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2025-12-19",
+                "url": "http://www.geekpark.net/news/358235"
             },
             {
-                "title": "台湾若被大陆收回 失去的将是什么(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-18",
-                "url": "https://www.secretchina.com/news/gb/2025/12/19/1092257.html"
+                "title": "周受资内部信曝TikTok美国方案：字节与合资公司职责公开",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541758.htm"
+            },
+            {
+                "title": "特朗普的媒体公司与核聚变公司合并：利用核聚变为AI供电",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541756.htm"
             },
             {
                 "title": "王毅分别同柬埔寨、泰国外长通电话 - mfa.gov.cn",
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VDI4WWNhc3lLNXRQSnpPWGQtdnNIbU9FbjZ6WEh5eFo3djJmcElzU01NZm5HblVaOE9DcEc1QlpqbUZzdGg0cTJZSVBxODJuUFdsZzFFem5TZ2VyWFk5d0lsY1kxNWpTZXhnalhJRm5yYjF1WkE?oc=5"
             },
             {
+                "title": "《军报每天读》20251220 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-20",
+                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MlJEQm56dWNmMExGT3I5MzB3cE4yY0M5VmxPV0R0Z05vVnU2WFd5dHIzRVpmV0ZkOHBXTi1VUkpFRFBHMFoxZzlIVkZYWmhlbWc5bQ?oc=5"
+            },
+            {
                 "title": "湖南省怀化市鹤城区人武部组织工作人员帮助种植户采摘草莓 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-19",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-19",
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UeHhCQlJEY0I1UVg1SGpzU3ZuZ3hIZHpGZHliSzhMejAwOVRqTWxmQmI3dV92QXk3N1hPODItYUc1YTJZR29iWHNncFlTRV9CemNNSVNvRHRZTTIyZF9UYw?oc=5"
-            },
-            {
-                "title": "澳门举办电视剧《风与潮》观影交流会共话家国情怀 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd3A3T05yeG8xOVNtREtkZGk5b3FhUl9wQzRXWVgtLTI1OGl1TUJhNDcxV0x1RFNrTEY4VGcwMFlzdjlkTVdpQXE3SDdfWW9sSFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-20T01:19:36.373536+00:00"
+    "last_updated": "2025-12-20T06:27:01.886376+00:00"
 }
