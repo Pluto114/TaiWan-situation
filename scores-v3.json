@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "大陆农村抗争事件暴增70% 经济低迷加剧民怨(图)",
+                "title": "美国在委内瑞拉附近扣押第二艘油轮 中国能源渠道承压(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-20",
-                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092330.html"
+                "url": "https://www.secretchina.com/news/gb/2025/12/21/1092345.html"
             },
             {
-                "title": "美国丰田卖回日本 特朗普产业回流仍“病入膏肓”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "智利学者乌尔迪内斯：拉丁美洲在中美间平衡将愈发艰难",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541912.htm"
+                "url": "https://www.ftchinese.com/story/001108492"
             },
             {
-                "title": "摩尔线程首款“AI电脑”发布 内置2D数字人“小麦”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "13.5%：中国苹果税合理费率测算值应低于日本",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541894.htm"
+                "url": "https://www.ftchinese.com/story/001108491"
             },
             {
-                "title": "摩尔线程游戏显卡三年发布 36 版驱动：性能提升至 3.4 倍，中国 Top 50 热门游戏 100% 兼容",
-                "source": "NewsAPI / Ithome.com",
+                "title": "AI“三重冲击”与2026年美国经济展望（下）",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-20",
-                "url": "https://www.ithome.com/0/906/510.htm"
+                "url": "https://www.ftchinese.com/story/001108490"
             },
             {
-                "title": "封关首日，三亚免税销售额1.18亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "经济观察报｜三聚氰胺吹哨人简光洲：一名调查记者的转身",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2025-12-20",
-                "url": "https://36kr.com/newsflashes/3603216083616769"
+                "url": "https://chinadigitaltimes.net/chinese/723666.html"
             }
         ],
         "mil": [
+            {
+                "title": "智利学者乌尔迪内斯：拉丁美洲在中美间平衡将愈发艰难",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-20",
+                "url": "https://www.ftchinese.com/story/001108492"
+            },
             {
                 "title": "9点1氪丨字节跳动面向全球员工涨薪；飞天茅台价格暴跌，黄牛半个月亏损超30万元；上海电信回应“罗永浩吐槽网速”",
                 "source": "NewsAPI / 36kr.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1541852.htm"
             },
             {
-                "title": "游戏工委：未成年人线上娱乐活动占比达 79.3%，防沉迷体系成效与挑战并存",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-19",
-                "url": "https://www.ithome.com/0/906/406.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻哈萨克斯坦大使韩春霖会见哈议会下院外事、国防和安全委员会主席库斯潘 - mfa.gov.cn",
+                "title": "相关新闻 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnNDZlVvbEp6X1d4bjVXQmh3V2JUbUpEU3FKbmx6YXJHaER1RXVsTnk3bmNaWlNyT2FsbGZ0X3RfTEtmMG5lZ1p6SVI3RW9kQV9lTlh3TXRDMGtDbkdTS3VMbVZQTHJfV0dNaFdMYVJFUDRFSUZINTlXMzk1ZnExRjlFd28?oc=5"
+                "date": "2025-12-20",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTZTMUxFc2JwdmRTaFRBcm9vLUZMdFZSMGl2QXExeFpGNXpUVVhxLThSREItSERmYVBWWmdrZjlEMk9FOGcwalpzXy1ENlNPM2g3ZE9oaHlqTjVkM09GVGVxSlhLQTVwOXBPekZ3X0Z2NHlqZWY3OUI0cXBGcUc5cA?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2FsMDNYbnA0eTFpcDdQdGZUODdIdEFLWl9OdlBZMW5rTEF1UjA3WTFUb2RxS2xYa2dYdUs5QTJ3ajN1ck40S0RLT0hLY1J3YzhYU3RRUEVtdUt1TTRWTw?oc=5"
             },
             {
-                "title": "澳门举办电视剧《风与潮》观影交流会共话家国情怀 - 中国军网",
+                "title": "秀我中国丨致敬守护家国的军人，祝福相守一生的爱人 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd3A3T05yeG8xOVNtREtkZGk5b3FhUl9wQzRXWVgtLTI1OGl1TUJhNDcxV0x1RFNrTEY4VGcwMFlzdjlkTVdpQXE3SDdfWW9sSFE?oc=5"
+                "date": "2025-12-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JVEFiZ1BfQXcxdlB4Z0dBeWdEd01DbXBUUk1kbnpRVThHZ2JwSFcyWHF2Tkp0RGVsSEs1SmVjUW9lTUdoaTZ6ZVRSWlpneGtEWHc?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "一座未来之城，一场未来大秀，迪桑特 90 周年庆的压轴大戏在北京上演",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "智利学者乌尔迪内斯：拉丁美洲在中美间平衡将愈发艰难",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-20",
-                "url": "https://www.toodaylab.com/83847"
+                "url": "https://www.ftchinese.com/story/001108492"
             },
             {
-                "title": "疯狂追捧的“徒步圈顶流” 是国内死亡率最高的“夺命路线”",
+                "title": "AI“三重冲击”与2026年美国经济展望（下）",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-20",
+                "url": "https://www.ftchinese.com/story/001108490"
+            },
+            {
+                "title": "特朗普推出新核能试点计划 重塑美国反应堆审批模式",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541944.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541956.htm"
             },
             {
-                "title": "被质疑“小字免责”“插座一哥”公牛集团反索赔420万",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "日本为何正大力加强其在联合国的影响力？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541926.htm"
+                "url": "https://www.dw.com/zh/%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E6%AD%A3%E5%A4%A7%E5%8A%9B%E5%8A%A0%E5%BC%BA%E5%85%B6%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B/a-75253165"
             },
             {
-                "title": "摩尔线程首款“AI电脑”发布 内置2D数字人“小麦”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "日本为何正大力加强其在联合国的影响力？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541894.htm"
-            },
-            {
-                "title": "26 元/小时，人人喊贵，广州终于要对天价停车费出手了",
-                "source": "NewsAPI / Ifanr.com",
-                "date": "2025-12-20",
-                "url": "https://www.ifanr.com/1649082"
+                "url": "https://www.dw.com/zh/%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E6%AD%A3%E5%A4%A7%E5%8A%9B%E5%8A%A0%E5%BC%BA%E5%85%B6%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B/a-75253165"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻哈萨克斯坦大使韩春霖会见哈议会下院外事、国防和安全委员会主席库斯潘 - mfa.gov.cn",
+                "title": "相关新闻 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnNDZlVvbEp6X1d4bjVXQmh3V2JUbUpEU3FKbmx6YXJHaER1RXVsTnk3bmNaWlNyT2FsbGZ0X3RfTEtmMG5lZ1p6SVI3RW9kQV9lTlh3TXRDMGtDbkdTS3VMbVZQTHJfV0dNaFdMYVJFUDRFSUZINTlXMzk1ZnExRjlFd28?oc=5"
+                "date": "2025-12-20",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTZTMUxFc2JwdmRTaFRBcm9vLUZMdFZSMGl2QXExeFpGNXpUVVhxLThSREItSERmYVBWWmdrZjlEMk9FOGcwalpzXy1ENlNPM2g3ZE9oaHlqTjVkM09GVGVxSlhLQTVwOXBPekZ3X0Z2NHlqZWY3OUI0cXBGcUc5cA?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2FsMDNYbnA0eTFpcDdQdGZUODdIdEFLWl9OdlBZMW5rTEF1UjA3WTFUb2RxS2xYa2dYdUs5QTJ3ajN1ck40S0RLT0hLY1J3YzhYU3RRUEVtdUt1TTRWTw?oc=5"
             },
             {
-                "title": "澳门举办电视剧《风与潮》观影交流会共话家国情怀 - 中国军网",
+                "title": "秀我中国丨致敬守护家国的军人，祝福相守一生的爱人 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd3A3T05yeG8xOVNtREtkZGk5b3FhUl9wQzRXWVgtLTI1OGl1TUJhNDcxV0x1RFNrTEY4VGcwMFlzdjlkTVdpQXE3SDdfWW9sSFE?oc=5"
+                "date": "2025-12-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JVEFiZ1BfQXcxdlB4Z0dBeWdEd01DbXBUUk1kbnpRVThHZ2JwSFcyWHF2Tkp0RGVsSEs1SmVjUW9lTUdoaTZ6ZVRSWlpneGtEWHc?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-21T12:34:35.511579+00:00"
+    "last_updated": "2025-12-21T18:24:38.942186+00:00"
 }
