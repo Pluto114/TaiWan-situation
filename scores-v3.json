@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "大陆农村抗争事件暴增70% 经济低迷加剧民怨(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-20",
+                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092330.html"
+            },
+            {
+                "title": "美国丰田卖回日本 特朗普产业回流仍“病入膏肓”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541912.htm"
+            },
+            {
+                "title": "摩尔线程首款“AI电脑”发布 内置2D数字人“小麦”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541894.htm"
+            },
+            {
                 "title": "摩尔线程游戏显卡三年发布 36 版驱动：性能提升至 3.4 倍，中国 Top 50 热门游戏 100% 兼容",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-20",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-20",
                 "url": "https://36kr.com/newsflashes/3603216083616769"
-            },
-            {
-                "title": "9点1氪丨字节跳动面向全球员工涨薪；飞天茅台价格暴跌，黄牛半个月亏损超30万元；上海电信回应“罗永浩吐槽网速”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-20",
-                "url": "https://36kr.com/p/3603180661933059"
-            },
-            {
-                "title": "中情局长：总统，他们比我们想象的还要糟糕(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-20",
-                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092310.html"
-            },
-            {
-                "title": "科技昨夜今晨 1220：2025“年度字词”揭晓；苹果客服回应 iPhone 存储空间用完就坏；字节被曝正推进与多家厂商开展 AI 手机合作",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-20",
-                "url": "https://www.ithome.com/0/906/476.htm"
             }
         ],
         "mil": [
@@ -74,10 +74,10 @@
                 "url": "https://www.ithome.com/0/906/406.htm"
             },
             {
-                "title": "2025年12月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VDI4WWNhc3lLNXRQSnpPWGQtdnNIbU9FbjZ6WEh5eFo3djJmcElzU01NZm5HblVaOE9DcEc1QlpqbUZzdGg0cTJZSVBxODJuUFdsZzFFem5TZ2VyWFk5d0lsY1kxNWpTZXhnalhJRm5yYjF1WkE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "外交动态 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻津巴布韦大使周鼎与津财长签署援津灌溉设施升级项目立项换文 - mfa.gov.cn",
+                "title": "驻哈萨克斯坦大使韩春霖会见哈议会下院外事、国防和安全委员会主席库斯潘 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakJOVmZjZ2toc2ExY2cyRFFGM1NmUmRPakZDOE5PZTdHVmJOYjRYV1NzVFFrZUc5MTIxZVdBX2Rsejh0U1oyOUNYTUZKdFhweGNtVlFCTjR6dkg0RDM2eWpKY3dHRGFGOTB3Y3dTcUtMNGFoOXd1SWUtZkxqSmNOWnBFa0w?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnNDZlVvbEp6X1d4bjVXQmh3V2JUbUpEU3FKbmx6YXJHaER1RXVsTnk3bmNaWlNyT2FsbGZ0X3RfTEtmMG5lZ1p6SVI3RW9kQV9lTlh3TXRDMGtDbkdTS3VMbVZQTHJfV0dNaFdMYVJFUDRFSUZINTlXMzk1ZnExRjlFd28?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2FsMDNYbnA0eTFpcDdQdGZUODdIdEFLWl9OdlBZMW5rTEF1UjA3WTFUb2RxS2xYa2dYdUs5QTJ3ajN1ck40S0RLT0hLY1J3YzhYU3RRUEVtdUt1TTRWTw?oc=5"
             },
             {
-                "title": "伟力·文化抗战丨第九集 燎原 - 中国军网",
+                "title": "澳门举办电视剧《风与潮》观影交流会共话家国情怀 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UeHhCQlJEY0I1UVg1SGpzU3ZuZ3hIZHpGZHliSzhMejAwOVRqTWxmQmI3dV92QXk3N1hPODItYUc1YTJZR29iWHNncFlTRV9CemNNSVNvRHRZTTIyZF9UYw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd3A3T05yeG8xOVNtREtkZGk5b3FhUl9wQzRXWVgtLTI1OGl1TUJhNDcxV0x1RFNrTEY4VGcwMFlzdjlkTVdpQXE3SDdfWW9sSFE?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -118,40 +118,40 @@
         ],
         "pol": [
             {
+                "title": "一座未来之城，一场未来大秀，迪桑特 90 周年庆的压轴大戏在北京上演",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2025-12-20",
+                "url": "https://www.toodaylab.com/83847"
+            },
+            {
+                "title": "疯狂追捧的“徒步圈顶流” 是国内死亡率最高的“夺命路线”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541944.htm"
+            },
+            {
+                "title": "被质疑“小字免责”“插座一哥”公牛集团反索赔420万",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541926.htm"
+            },
+            {
+                "title": "摩尔线程首款“AI电脑”发布 内置2D数字人“小麦”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541894.htm"
+            },
+            {
                 "title": "26 元/小时，人人喊贵，广州终于要对天价停车费出手了",
                 "source": "NewsAPI / Ifanr.com",
                 "date": "2025-12-20",
                 "url": "https://www.ifanr.com/1649082"
             },
             {
-                "title": "9点1氪丨字节跳动面向全球员工涨薪；飞天茅台价格暴跌，黄牛半个月亏损超30万元；上海电信回应“罗永浩吐槽网速”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-20",
-                "url": "https://36kr.com/p/3603180661933059"
-            },
-            {
-                "title": "科技昨夜今晨 1220：2025“年度字词”揭晓；苹果客服回应 iPhone 存储空间用完就坏；字节被曝正推进与多家厂商开展 AI 手机合作",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-20",
-                "url": "https://www.ithome.com/0/906/476.htm"
-            },
-            {
-                "title": "全新二手旧国标电动车成抢手货 有人囤100台涨价卖",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541878.htm"
-            },
-            {
-                "title": "新年将至 期待一个没有共产党的中国(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-19",
-                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092297.html"
-            },
-            {
-                "title": "2025年12月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VDI4WWNhc3lLNXRQSnpPWGQtdnNIbU9FbjZ6WEh5eFo3djJmcElzU01NZm5HblVaOE9DcEc1QlpqbUZzdGg0cTJZSVBxODJuUFdsZzFFem5TZ2VyWFk5d0lsY1kxNWpTZXhnalhJRm5yYjF1WkE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "外交动态 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻津巴布韦大使周鼎与津财长签署援津灌溉设施升级项目立项换文 - mfa.gov.cn",
+                "title": "驻哈萨克斯坦大使韩春霖会见哈议会下院外事、国防和安全委员会主席库斯潘 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakJOVmZjZ2toc2ExY2cyRFFGM1NmUmRPakZDOE5PZTdHVmJOYjRYV1NzVFFrZUc5MTIxZVdBX2Rsejh0U1oyOUNYTUZKdFhweGNtVlFCTjR6dkg0RDM2eWpKY3dHRGFGOTB3Y3dTcUtMNGFoOXd1SWUtZkxqSmNOWnBFa0w?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnNDZlVvbEp6X1d4bjVXQmh3V2JUbUpEU3FKbmx6YXJHaER1RXVsTnk3bmNaWlNyT2FsbGZ0X3RfTEtmMG5lZ1p6SVI3RW9kQV9lTlh3TXRDMGtDbkdTS3VMbVZQTHJfV0dNaFdMYVJFUDRFSUZINTlXMzk1ZnExRjlFd28?oc=5"
             },
             {
                 "title": "《军报每天读》20251220 - 中国军网",
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPY2FsMDNYbnA0eTFpcDdQdGZUODdIdEFLWl9OdlBZMW5rTEF1UjA3WTFUb2RxS2xYa2dYdUs5QTJ3ajN1ck40S0RLT0hLY1J3YzhYU3RRUEVtdUt1TTRWTw?oc=5"
             },
             {
-                "title": "伟力·文化抗战丨第九集 燎原 - 中国军网",
+                "title": "澳门举办电视剧《风与潮》观影交流会共话家国情怀 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-19",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UeHhCQlJEY0I1UVg1SGpzU3ZuZ3hIZHpGZHliSzhMejAwOVRqTWxmQmI3dV92QXk3N1hPODItYUc1YTJZR29iWHNncFlTRV9CemNNSVNvRHRZTTIyZF9UYw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd3A3T05yeG8xOVNtREtkZGk5b3FhUl9wQzRXWVgtLTI1OGl1TUJhNDcxV0x1RFNrTEY4VGcwMFlzdjlkTVdpQXE3SDdfWW9sSFE?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-21T06:26:45.312045+00:00"
+    "last_updated": "2025-12-21T12:34:35.511579+00:00"
 }
