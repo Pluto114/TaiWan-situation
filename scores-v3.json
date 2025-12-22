@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "消息称三星 Galaxy S26 系列手机确定 2 月发布，预计 3 月发售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-21",
+                "url": "https://www.ithome.com/0/906/685.htm"
+            },
+            {
                 "title": "科技昨夜今晨 1221：三部门印发《互联网平台价格行为规则》；小米汽车豪掷超亿元“红包”补贴经销商；摩尔线程 GPU 技术路线图首次全公开...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-21",
@@ -30,16 +36,10 @@
                 "url": "https://www.secretchina.com/news/gb/2025/12/21/1092345.html"
             },
             {
-                "title": "智利学者乌尔迪内斯：拉丁美洲在中美间平衡将愈发艰难",
+                "title": "AI“三重冲击”与2026年美国经济展望（下）",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-20",
-                "url": "https://www.ftchinese.com/story/001108492"
-            },
-            {
-                "title": "13.5%：中国苹果税合理费率测算值应低于日本",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-20",
-                "url": "https://www.ftchinese.com/story/001108491"
+                "url": "https://www.ftchinese.com/story/001108490"
             }
         ],
         "mil": [
@@ -80,16 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
                 "title": "相关新闻 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-20",
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTZTMUxFc2JwdmRTaFRBcm9vLUZMdFZSMGl2QXExeFpGNXpUVVhxLThSREItSERmYVBWWmdrZjlEMk9FOGcwalpzXy1ENlNPM2g3ZE9oaHlqTjVkM09GVGVxSlhLQTVwOXBPekZ3X0Z2NHlqZWY3OUI0cXBGcUc5cA?oc=5"
+            },
+            {
+                "title": "中国地图 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
                 "title": "秀我中国丨致敬守护家国的军人，祝福相守一生的爱人 - 中国军网",
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BOEdkYjN2SzlEVDRKQlRHaXl1WnNTTHEzQWt4YXZVTENYYjNhV3lTbVNEWW5XemxZd1l2NXlQNTdQbHJYc0pLaFB6V1V1cUhGeVE?oc=5"
             },
             {
-                "title": "学习贯彻党的二十届四中全会精神丨完善党中央重大决策部署落实机制 - 中国军网",
+                "title": "党员干部要增强思想改造的政治自觉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UG9CMDJoTlQyWndGUDBPOGVGeXJaUVAzdTFOZWR5Mmg3T1lSY250Y1dqV1k5YTZQQXBoNlJvYlppTVdOamItUkVZbmtMcXhMdGc?oc=5"
+                "date": "2025-12-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOW94eEtqWmlrTVBEWEpBNWpyY19yQU5BUWdjcHpKSDRhUW1pemVQdC1jWlFlMDAtSmhwWThSV2VnMW5veElOUTFPa0VHSGlWTWc?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -117,6 +117,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "香港泰拳王看《九评》 坚信中共必亡(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-21",
+                "url": "https://www.secretchina.com/news/gb/2025/12/21/1092306.html"
+            },
             {
                 "title": "今日消费资讯：Carven 举行 2026 春夏系列预览活动、FILA VETTA“智酷之境”限时概念空间在成都亮相",
                 "source": "NewsAPI / Toodaylab.com",
@@ -142,28 +148,22 @@
                 "url": "https://www.ftchinese.com/story/001108492"
             },
             {
-                "title": "特朗普推出新核能试点计划 重塑美国反应堆审批模式",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541956.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
                 "title": "相关新闻 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-20",
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTZTMUxFc2JwdmRTaFRBcm9vLUZMdFZSMGl2QXExeFpGNXpUVVhxLThSREItSERmYVBWWmdrZjlEMk9FOGcwalpzXy1ENlNPM2g3ZE9oaHlqTjVkM09GVGVxSlhLQTVwOXBPekZ3X0Z2NHlqZWY3OUI0cXBGcUc5cA?oc=5"
+            },
+            {
+                "title": "中国地图 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
                 "title": "秀我中国丨致敬守护家国的军人，祝福相守一生的爱人 - 中国军网",
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BOEdkYjN2SzlEVDRKQlRHaXl1WnNTTHEzQWt4YXZVTENYYjNhV3lTbVNEWW5XemxZd1l2NXlQNTdQbHJYc0pLaFB6V1V1cUhGeVE?oc=5"
             },
             {
-                "title": "学习贯彻党的二十届四中全会精神丨完善党中央重大决策部署落实机制 - 中国军网",
+                "title": "党员干部要增强思想改造的政治自觉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UG9CMDJoTlQyWndGUDBPOGVGeXJaUVAzdTFOZWR5Mmg3T1lSY250Y1dqV1k5YTZQQXBoNlJvYlppTVdOamItUkVZbmtMcXhMdGc?oc=5"
+                "date": "2025-12-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOW94eEtqWmlrTVBEWEpBNWpyY19yQU5BUWdjcHpKSDRhUW1pemVQdC1jWlFlMDAtSmhwWThSV2VnMW5veElOUTFPa0VHSGlWTWc?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-22T01:27:12.495210+00:00"
+    "last_updated": "2025-12-22T06:30:58.483184+00:00"
 }
