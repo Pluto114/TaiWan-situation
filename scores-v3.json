@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "消息称三星 Galaxy S26 系列手机确定 2 月发布，预计 3 月发售",
+                "title": "谷歌 AI 逆袭背后的头号功臣：Josh Woodward",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-21",
-                "url": "https://www.ithome.com/0/906/685.htm"
+                "url": "https://www.ithome.com/0/906/742.htm"
             },
             {
-                "title": "科技昨夜今晨 1221：三部门印发《互联网平台价格行为规则》；小米汽车豪掷超亿元“红包”补贴经销商；摩尔线程 GPU 技术路线图首次全公开...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "法拉第FX One明天量产下线 方向盘只与长城高山换了个标",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-21",
-                "url": "https://www.ithome.com/0/906/640.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541998.htm"
             },
             {
-                "title": "卢伟冰公布小米 17 Ultra 手机首张样片：烟花色彩鲜明、暗部黑的非常纯净",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-20",
-                "url": "https://www.ithome.com/0/906/634.htm"
+                "title": "2026年恐爆发史上最严重存储芯片短缺",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541978.htm"
             },
             {
-                "title": "美国在委内瑞拉附近扣押第二艘油轮 中国能源渠道承压(图)",
+                "title": "SpaceX一“星链”卫星突发罕见事故 正在太空翻滚 可能发生了某种爆炸",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541966.htm"
+            },
+            {
+                "title": "面对2026 埃德加・凯西留下的《地球变迁》预言(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-20",
-                "url": "https://www.secretchina.com/news/gb/2025/12/21/1092345.html"
-            },
-            {
-                "title": "AI“三重冲击”与2026年美国经济展望（下）",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-20",
-                "url": "https://www.ftchinese.com/story/001108490"
+                "date": "2025-12-21",
+                "url": "https://www.secretchina.com/news/gb/2025/12/21/1092366.html"
             }
         ],
         "mil": [
+            {
+                "title": "谷歌 AI 逆袭背后的头号功臣：Josh Woodward",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-21",
+                "url": "https://www.ithome.com/0/906/742.htm"
+            },
+            {
+                "title": "法拉第FX One明天量产下线 方向盘只与长城高山换了个标",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541998.htm"
+            },
+            {
+                "title": "SpaceX一“星链”卫星突发罕见事故 正在太空翻滚 可能发生了某种爆炸",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541966.htm"
+            },
             {
                 "title": "今日消费资讯：Carven 举行 2026 春夏系列预览活动、FILA VETTA“智酷之境”限时概念空间在成都亮相",
                 "source": "NewsAPI / Toodaylab.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.ftchinese.com/story/001108492"
             },
             {
-                "title": "9点1氪丨字节跳动面向全球员工涨薪；飞天茅台价格暴跌，黄牛半个月亏损超30万元；上海电信回应“罗永浩吐槽网速”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-20",
-                "url": "https://36kr.com/p/3603180661933059"
-            },
-            {
-                "title": "美众议员强化“挺台10措施”阻中共武统(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-19",
-                "url": "https://www.secretchina.com/news/gb/2025/12/20/1092295.html"
-            },
-            {
-                "title": "丹麦指责俄罗斯策动两起“破坏性和干扰性”网络攻击",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541868.htm"
+                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-22",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiZUllMVliaXlxLWFQYWVzb1RPZ2V4MmprcUpjMnVycWRaWldLY1F5Zkd5WDdoT2FINUYtZkhHMWpidzlRMlIwMktSQ0VtY3pyZlo4a21WTEZuZ2ZzQ2pYQWZqUQ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -80,34 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "相关新闻 - mfa.gov.cn",
+                "title": "驻拉各斯总领事严宇清出席总领馆侨界新年答谢会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-20",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTZTMUxFc2JwdmRTaFRBcm9vLUZMdFZSMGl2QXExeFpGNXpUVVhxLThSREItSERmYVBWWmdrZjlEMk9FOGcwalpzXy1ENlNPM2g3ZE9oaHlqTjVkM09GVGVxSlhLQTVwOXBPekZ3X0Z2NHlqZWY3OUI0cXBGcUc5cA?oc=5"
-            },
-            {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
-            },
-            {
-                "title": "秀我中国丨致敬守护家国的军人，祝福相守一生的爱人 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JVEFiZ1BfQXcxdlB4Z0dBeWdEd01DbXBUUk1kbnpRVThHZ2JwSFcyWHF2Tkp0RGVsSEs1SmVjUW9lTUdoaTZ6ZVRSWlpneGtEWHc?oc=5"
-            },
-            {
-                "title": "母亲心中这首歌，激励着我们把爱与担当传承下去 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BOEdkYjN2SzlEVDRKQlRHaXl1WnNTTHEzQWt4YXZVTENYYjNhV3lTbVNEWW5XemxZd1l2NXlQNTdQbHJYc0pLaFB6V1V1cUhGeVE?oc=5"
-            },
-            {
-                "title": "党员干部要增强思想改造的政治自觉 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOW94eEtqWmlrTVBEWEpBNWpyY19yQU5BUWdjcHpKSDRhUW1pemVQdC1jWlFlMDAtSmhwWThSV2VnMW5veElOUTFPa0VHSGlWTWc?oc=5"
+                "date": "2025-12-22",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1lVbjVFTHlsZHFtY2NLUjJZdGVheXdBQW9BRjJIWlJCRjhPdmtJd2dKMElsRjZSaUJpUHR5SGZzemZVa3hKOWc3QUlxTWNsQndUZ2psbGwzR3FCbjRlMEJTY0loMnE4eFM3bjF4X3B3dlRFMjJYRlZ1V2JOMFVBbWcybVQ?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -118,34 +100,40 @@
         ],
         "pol": [
             {
-                "title": "香港泰拳王看《九评》 坚信中共必亡(图)",
+                "title": "谷歌 AI 逆袭背后的头号功臣：Josh Woodward",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-21",
+                "url": "https://www.ithome.com/0/906/742.htm"
+            },
+            {
+                "title": "专家警告：电动汽车购补恐成中国厂商“助力”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-21",
+                "url": "https://www.dw.com/zh/%E4%B8%93%E5%AE%B6%E8%AD%A6%E5%91%8A%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%B4%AD%E8%A1%A5%E6%81%90%E6%88%90%E4%B8%AD%E5%9B%BD%E5%8E%82%E5%95%86%E5%8A%A9%E5%8A%9B/a-75257006"
+            },
+            {
+                "title": "SpaceX一“星链”卫星突发罕见事故 正在太空翻滚 可能发生了某种爆炸",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1541966.htm"
+            },
+            {
+                "title": "面对2026 埃德加・凯西留下的《地球变迁》预言(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-21",
-                "url": "https://www.secretchina.com/news/gb/2025/12/21/1092306.html"
+                "url": "https://www.secretchina.com/news/gb/2025/12/21/1092366.html"
             },
             {
-                "title": "今日消费资讯：Carven 举行 2026 春夏系列预览活动、FILA VETTA“智酷之境”限时概念空间在成都亮相",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "ChatGPT 文风，原产地肯尼亚",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-21",
-                "url": "https://www.toodaylab.com/83846"
+                "url": "https://www.ithome.com/0/906/720.htm"
             },
             {
-                "title": "红色渗透就是不怕玩火(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-20",
-                "url": "https://www.secretchina.com/news/gb/2025/12/21/1092347.html"
-            },
-            {
-                "title": "AI“三重冲击”与2026年美国经济展望（下）",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-20",
-                "url": "https://www.ftchinese.com/story/001108490"
-            },
-            {
-                "title": "智利学者乌尔迪内斯：拉丁美洲在中美间平衡将愈发艰难",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-20",
-                "url": "https://www.ftchinese.com/story/001108492"
+                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-22",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiZUllMVliaXlxLWFQYWVzb1RPZ2V4MmprcUpjMnVycWRaWldLY1F5Zkd5WDdoT2FINUYtZkhHMWpidzlRMlIwMktSQ0VtY3pyZlo4a21WTEZuZ2ZzQ2pYQWZqUQ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,34 +142,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "相关新闻 - mfa.gov.cn",
+                "title": "驻拉各斯总领事严宇清出席总领馆侨界新年答谢会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-20",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTZTMUxFc2JwdmRTaFRBcm9vLUZMdFZSMGl2QXExeFpGNXpUVVhxLThSREItSERmYVBWWmdrZjlEMk9FOGcwalpzXy1ENlNPM2g3ZE9oaHlqTjVkM09GVGVxSlhLQTVwOXBPekZ3X0Z2NHlqZWY3OUI0cXBGcUc5cA?oc=5"
-            },
-            {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
-            },
-            {
-                "title": "秀我中国丨致敬守护家国的军人，祝福相守一生的爱人 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JVEFiZ1BfQXcxdlB4Z0dBeWdEd01DbXBUUk1kbnpRVThHZ2JwSFcyWHF2Tkp0RGVsSEs1SmVjUW9lTUdoaTZ6ZVRSWlpneGtEWHc?oc=5"
-            },
-            {
-                "title": "母亲心中这首歌，激励着我们把爱与担当传承下去 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BOEdkYjN2SzlEVDRKQlRHaXl1WnNTTHEzQWt4YXZVTENYYjNhV3lTbVNEWW5XemxZd1l2NXlQNTdQbHJYc0pLaFB6V1V1cUhGeVE?oc=5"
-            },
-            {
-                "title": "党员干部要增强思想改造的政治自觉 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOW94eEtqWmlrTVBEWEpBNWpyY19yQU5BUWdjcHpKSDRhUW1pemVQdC1jWlFlMDAtSmhwWThSV2VnMW5veElOUTFPa0VHSGlWTWc?oc=5"
+                "date": "2025-12-22",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1lVbjVFTHlsZHFtY2NLUjJZdGVheXdBQW9BRjJIWlJCRjhPdmtJd2dKMElsRjZSaUJpUHR5SGZzemZVa3hKOWc3QUlxTWNsQndUZ2psbGwzR3FCbjRlMEJTY0loMnE4eFM3bjF4X3B3dlRFMjJYRlZ1V2JOMFVBbWcybVQ?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -192,5 +156,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-22T06:30:58.483184+00:00"
+    "last_updated": "2025-12-22T12:38:02.003478+00:00"
 }
