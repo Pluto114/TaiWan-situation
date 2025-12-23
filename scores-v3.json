@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "我国科学家破译锌溴液流电池长寿命“密码”，可稳定运行超 700 个循环",
-                "source": "NewsAPI / Ithome.com",
+                "title": "彭博：中国产业级AI芯片加速崛起 最早2026年迎来“DeepSeek时刻”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/906/808.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542118.htm"
             },
             {
-                "title": "以 AI 之名，亚马逊、微软等美巨头今年已裁员近 5.5 万人",
-                "source": "NewsAPI / Ithome.com",
+                "title": "电信千兆宽带实测不足百兆 是不是虚标？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/906/799.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542100.htm"
             },
             {
-                "title": "科技昨夜今晨 1222：华为鸿蒙系统开发者人数突破 1000 万；2025 年成中国影史动画电影票房最高一年；公牛回应宣传语争议...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Google Play外部下载收费2~4美元 且内购还要抽成20%",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/906/798.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542080.htm"
             },
             {
-                "title": "8点1氪｜官方通报独居女子离世遗产“归公”进展；罗永浩称吐槽电信后“网速快到惶恐”；2G退网致部分电动车功能无法使用",
+                "title": "拉美人爱上看中国言情小说，阅文海外站增长最快的十个海外市场有九个是拉美国家",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-21",
-                "url": "https://36kr.com/p/3605941177304071"
+                "date": "2025-12-22",
+                "url": "https://36kr.com/p/3600703442731013"
             },
             {
-                "title": "GPU 公司壁仞科技香港 IPO 拟发行逾 2.47 亿股，最高定价 19.6 港元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-21",
-                "url": "https://www.ithome.com/0/906/784.htm"
+                "title": "清华系具身大脑公司获近亿元融资，预计2026年接入设备达十万台以上｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-22",
+                "url": "https://36kr.com/p/3602151684604937"
             }
         ],
         "mil": [
+            {
+                "title": "中共收买网红录音曝光 “一条红线”分辨大外宣(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-22",
+                "url": "https://www.secretchina.com/news/gb/2025/12/22/1092407.html"
+            },
+            {
+                "title": "清华系具身大脑公司获近亿元融资，预计2026年接入设备达十万台以上｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-22",
+                "url": "https://36kr.com/p/3602151684604937"
+            },
             {
                 "title": "怎么这么多年了 国内二手车还是这副德行?",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,22 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1542026.htm"
             },
             {
-                "title": "谷歌 AI 逆袭背后的头号功臣：Josh Woodward",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-21",
-                "url": "https://www.ithome.com/0/906/742.htm"
-            },
-            {
-                "title": "法拉第FX One明天量产下线 方向盘只与长城高山换了个标",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1541998.htm"
+                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RYy1xNFVRS2pEX1JKb2lzdWdyRDk2R0Q0cXdJamVrd215M290QWhkN2lMZzY5MTBzaTlVbFllZ1hHSUxVb0F0XzJUVEVXT3dld0J3S3VOQmtodw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85anQ1R2xOZjhfZFZlc1NpaThtUVFiTTkyTXczU3BzUXBZVG1yLUpETFhKRGF2aVhIUkd5d2lZRGUzWUJjYjFkeHNkN2lnVmRqS1JkUlBTNzY?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -86,72 +92,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻拉各斯总领事严宇清出席总领馆侨界新年答谢会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1lVbjVFTHlsZHFtY2NLUjJZdGVheXdBQW9BRjJIWlJCRjhPdmtJd2dKMElsRjZSaUJpUHR5SGZzemZVa3hKOWc3QUlxTWNsQndUZ2psbGwzR3FCbjRlMEJTY0loMnE4eFM3bjF4X3B3dlRFMjJYRlZ1V2JOMFVBbWcybVQ?oc=5"
-            },
-            {
                 "title": "彭珮云同志逝世 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-21",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0hqXzdFVkVzUnItU3BNQURiMFlLZFdqU2Q2QnBwMmcxekctcEhnc2k1WUVTdlR0NTdrRG1rMXpETmNUM0N6SERLMldITlhzSFh3WEh3ZjBUVFk0bFl3SmY3TEZWQWZGRExIRU0xcmRpS1Q1cGRJSnM4dXZJTHFlSUVJXzRpRzFOWFB5dDJxWjY1SVFxaG81UHdGWWtiWXZHU2pZcVZGZmpFamFuMml5S1FR?oc=5"
             },
             {
+                "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoMDlfZzk5ak5BdVhNOXhqT25lcmxDRFQxQkNlR2RBb3R3TmR4Y3F4V2cwMjlobFR5a1hOUEpJcVYwQlp1VTJ3Q1h5TGtFMkU5SVE?oc=5"
+            },
+            {
                 "title": "特别关注·聚焦年终考核场丨崇尚荣誉，勇争第一 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Sc2xXU1Vfd3d3WEk4dzlsWUItOFo0bE54bzlrUE9RZW9hVmJ5eU5NVXR4Ym41Rms3ZlgxZWhqd3M1bldzeTVYMlVNVDdYZEJrenc?oc=5"
-            },
-            {
-                "title": "新华时评·聚焦中央经济工作会议|让人工智能“+”出发展新活力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96c0N4SXlqTlRtSWVuN0xKdlRmbEw4aVZTOUxIdWZyeUtSNXpwTzc3RWp1dVBSbDItTnR4dllZRDdJZXdlVjRnWnoxX3BPY3owM0E?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "央行发布一次性信用修复政策，支持信用受损但积极还款个人重塑信用",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/906/811.htm"
-            },
-            {
-                "title": "以 AI 之名，亚马逊、微软等美巨头今年已裁员近 5.5 万人",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/906/799.htm"
-            },
-            {
-                "title": "怎么这么多年了 国内二手车还是这副德行?",
+                "title": "彭博：中国产业级AI芯片加速崛起 最早2026年迎来“DeepSeek时刻”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542072.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542118.htm"
             },
             {
-                "title": "8点1氪｜官方通报独居女子离世遗产“归公”进展；罗永浩称吐槽电信后“网速快到惶恐”；2G退网致部分电动车功能无法使用",
+                "title": "电信千兆宽带实测不足百兆 是不是虚标？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542100.htm"
+            },
+            {
+                "title": "Google Play外部下载收费2~4美元 且内购还要抽成20%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542080.htm"
+            },
+            {
+                "title": "前所未有的“军门大开”张又侠的公开羞辱(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-22",
+                "url": "https://www.secretchina.com/news/gb/2025/12/22/1092406.html"
+            },
+            {
+                "title": "拉美人爱上看中国言情小说，阅文海外站增长最快的十个海外市场有九个是拉美国家",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-21",
-                "url": "https://36kr.com/p/3605941177304071"
+                "date": "2025-12-22",
+                "url": "https://36kr.com/p/3600703442731013"
             },
             {
-                "title": "停电引发混乱后 Waymo暂停旧金山robotaxi服务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542068.htm"
+                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RYy1xNFVRS2pEX1JKb2lzdWdyRDk2R0Q0cXdJamVrd215M290QWhkN2lMZzY5MTBzaTlVbFllZ1hHSUxVb0F0XzJUVEVXT3dld0J3S3VOQmtodw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85anQ1R2xOZjhfZFZlc1NpaThtUVFiTTkyTXczU3BzUXBZVG1yLUpETFhKRGF2aVhIUkd5d2lZRGUzWUJjYjFkeHNkN2lnVmRqS1JkUlBTNzY?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,37 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻拉各斯总领事严宇清出席总领馆侨界新年答谢会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1lVbjVFTHlsZHFtY2NLUjJZdGVheXdBQW9BRjJIWlJCRjhPdmtJd2dKMElsRjZSaUJpUHR5SGZzemZVa3hKOWc3QUlxTWNsQndUZ2psbGwzR3FCbjRlMEJTY0loMnE4eFM3bjF4X3B3dlRFMjJYRlZ1V2JOMFVBbWcybVQ?oc=5"
-            },
-            {
                 "title": "彭珮云同志逝世 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-21",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0hqXzdFVkVzUnItU3BNQURiMFlLZFdqU2Q2QnBwMmcxekctcEhnc2k1WUVTdlR0NTdrRG1rMXpETmNUM0N6SERLMldITlhzSFh3WEh3ZjBUVFk0bFl3SmY3TEZWQWZGRExIRU0xcmRpS1Q1cGRJSnM4dXZJTHFlSUVJXzRpRzFOWFB5dDJxWjY1SVFxaG81UHdGWWtiWXZHU2pZcVZGZmpFamFuMml5S1FR?oc=5"
             },
             {
+                "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoMDlfZzk5ak5BdVhNOXhqT25lcmxDRFQxQkNlR2RBb3R3TmR4Y3F4V2cwMjlobFR5a1hOUEpJcVYwQlp1VTJ3Q1h5TGtFMkU5SVE?oc=5"
+            },
+            {
                 "title": "特别关注·聚焦年终考核场丨崇尚荣誉，勇争第一 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Sc2xXU1Vfd3d3WEk4dzlsWUItOFo0bE54bzlrUE9RZW9hVmJ5eU5NVXR4Ym41Rms3ZlgxZWhqd3M1bldzeTVYMlVNVDdYZEJrenc?oc=5"
-            },
-            {
-                "title": "新华时评·聚焦中央经济工作会议|让人工智能“+”出发展新活力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96c0N4SXlqTlRtSWVuN0xKdlRmbEw4aVZTOUxIdWZyeUtSNXpwTzc3RWp1dVBSbDItTnR4dllZRDdJZXdlVjRnWnoxX3BPY3owM0E?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-23T01:23:51.629346+00:00"
+    "last_updated": "2025-12-23T06:30:03.740814+00:00"
 }
