@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "火锅界“黑吃黑”？客单价连降的巴奴广告牌被盗 海底捞“躺枪”？",
+                "title": "日本留学“性价比神话”破灭",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-22",
+                "url": "https://www.ftchinese.com/story/001108456"
+            },
+            {
+                "title": "信息披露监管手段的泛化使用和合理边界的选择",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-22",
+                "url": "https://www.ftchinese.com/story/001108506"
+            },
+            {
+                "title": "苹果在内存价格飙升之际加大对三星依赖",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542184.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542216.htm"
             },
             {
-                "title": "亚马逊CPU热销榜被AMD“屠榜” 前20名中占据19席 Intel几乎全线失守 ​",
+                "title": "贸易战升级：中国对欧盟乳制品征收惩罚性关税",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-22",
+                "url": "https://www.dw.com/zh/%E8%B4%B8%E6%98%93%E6%88%98%E5%8D%87%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%AC%A7%E7%9B%9F%E4%B9%B3%E5%88%B6%E5%93%81%E5%BE%81%E6%94%B6%E6%83%A9%E7%BD%9A%E6%80%A7%E5%85%B3%E7%A8%8E/a-75270646"
+            },
+            {
+                "title": "消息人士：英伟达拟于2月中旬起向中国交付 H200 芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542182.htm"
-            },
-            {
-                "title": "《无畏契约：源能行动》手游团队亮相苹果 Today at Apple，拿下中国大陆年度游戏",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/907/048.htm"
-            },
-            {
-                "title": "消息称一加 Turbo 新机支持《王者荣耀》144Hz 原生高帧等",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/907/047.htm"
-            },
-            {
-                "title": "“迄今为止最大规模更新”的 Apple Music 有哪些变化，我们好好感受了一下",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2025-12-22",
-                "url": "https://www.toodaylab.com/83850"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542208.htm"
             }
         ],
         "mil": [
+            {
+                "title": "信息披露监管手段的泛化使用和合理边界的选择",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-22",
+                "url": "https://www.ftchinese.com/story/001108506"
+            },
             {
                 "title": "“迄今为止最大规模更新”的 Apple Music 有哪些变化，我们好好感受了一下",
                 "source": "NewsAPI / Toodaylab.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2025/12/22/1092407.html"
             },
             {
-                "title": "清华系具身大脑公司获近亿元融资，预计2026年接入设备达十万台以上｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-22",
-                "url": "https://36kr.com/p/3602151684604937"
-            },
-            {
                 "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-22",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "陆军某团开展机动训练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0za0Nvc09FWGRzNDM1a2JDd0Q3M1l4VmtmN3prQkdYNWNfcDJvX2laRkVtbUdYLXFhYTBYMTN3UGdNREJ5OExOeU95aU91Um1ZcWJwbzFlYjZfV1ladXBrUA?oc=5"
+            },
+            {
                 "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-23",
@@ -104,42 +110,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzZElETWM5Rm9WQnAtQUg0cDVXdDlZREhQY1dubElwaUlkNVVmTVgzR2d3RzZTZUlQNkVmUU5Cb2h1UkJrSHdTSVpJakx6M2JxbFE?oc=5"
             },
             {
-                "title": "特别关注·聚焦年终考核场丨崇尚荣誉，勇争第一 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Sc2xXU1Vfd3d3WEk4dzlsWUItOFo0bE54bzlrUE9RZW9hVmJ5eU5NVXR4Ym41Rms3ZlgxZWhqd3M1bldzeTVYMlVNVDdYZEJrenc?oc=5"
+                "title": "上海海事局 - 上海海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2019-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlbG5rOWZ2cWRmUXE5Ymo2dXFKTGlvVXA0Q0F0bUJGZ053ZjNFUDFqWjBIOHFtOFVLN1JjMVVBNA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "川普任命格陵兰岛特使 北极地缘政治新篇章 (图)",
+                "title": "日本留学“性价比神话”破灭",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-22",
+                "url": "https://www.ftchinese.com/story/001108456"
+            },
+            {
+                "title": "信息披露监管手段的泛化使用和合理边界的选择",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-22",
+                "url": "https://www.ftchinese.com/story/001108506"
+            },
+            {
+                "title": "彭博：特斯拉车门打不开已在美国造成至少15人身亡",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542206.htm"
+            },
+            {
+                "title": "MiniMax 港股 IPO 获中国证监会备案，与智谱角逐“AI 大模型第一股”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-22",
+                "url": "https://www.ithome.com/0/907/084.htm"
+            },
+            {
+                "title": "万斯2028或选总统 获查理・柯克遗产帝国背书(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-22",
-                "url": "https://www.secretchina.com/news/gb/2025/12/22/1092419.html"
-            },
-            {
-                "title": "英国将试点无人驾驶网约车 \"机器人税\"争议或再起",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542198.htm"
-            },
-            {
-                "title": "火锅界“黑吃黑”？客单价连降的巴奴广告牌被盗 海底捞“躺枪”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542184.htm"
-            },
-            {
-                "title": "氪星晚报 ｜日本将对电动车加征新税：车越重，税越高；减重版司美格鲁肽心血管适应症获批上市；Uber将与百度合作，在英国开展无人驾驶出租车试点项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-22",
-                "url": "https://36kr.com/p/3606638055982088"
-            },
-            {
-                "title": "亚马逊CPU热销榜被AMD“屠榜” 前20名中占据19席 Intel几乎全线失守 ​",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542182.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/22/1092413.html"
             },
             {
                 "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,6 +166,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "陆军某团开展机动训练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0za0Nvc09FWGRzNDM1a2JDd0Q3M1l4VmtmN3prQkdYNWNfcDJvX2laRkVtbUdYLXFhYTBYMTN3UGdNREJ5OExOeU95aU91Um1ZcWJwbzFlYjZfV1ladXBrUA?oc=5"
+            },
+            {
                 "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-23",
@@ -172,13 +184,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzZElETWM5Rm9WQnAtQUg0cDVXdDlZREhQY1dubElwaUlkNVVmTVgzR2d3RzZTZUlQNkVmUU5Cb2h1UkJrSHdTSVpJakx6M2JxbFE?oc=5"
             },
             {
-                "title": "特别关注·聚焦年终考核场丨崇尚荣誉，勇争第一 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Sc2xXU1Vfd3d3WEk4dzlsWUItOFo0bE54bzlrUE9RZW9hVmJ5eU5NVXR4Ym41Rms3ZlgxZWhqd3M1bldzeTVYMlVNVDdYZEJrenc?oc=5"
+                "title": "上海海事局 - 上海海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2019-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlbG5rOWZ2cWRmUXE5Ymo2dXFKTGlvVXA0Q0F0bUJGZ053ZjNFUDFqWjBIOHFtOFVLN1JjMVVBNA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-23T12:38:41.988044+00:00"
+    "last_updated": "2025-12-23T18:27:13.316522+00:00"
 }
