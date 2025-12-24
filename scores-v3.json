@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "星巴克和汉堡王大量出售股权给中国业者的背后(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-23",
-                "url": "https://www.secretchina.com/news/gb/2025/12/23/1092435.html"
-            },
-            {
-                "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
+                "title": "传英伟达H200春节前到货 首批规模最多8万颗",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542254.htm"
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542276.htm"
             },
             {
-                "title": "全美最准原子钟因飓风停电出现 4.8 微秒误差",
+                "title": "揭秘特斯拉门把手设计：十年前决策埋下安全隐患 马斯克学苹果要求电动控制",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542268.htm"
+            },
+            {
+                "title": "骁龙 8s Gen4 新机配置曝光：9K 级大电池、165Hz 京东方直屏，预计为一加 Turbo",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/907/107.htm"
+                "date": "2025-12-23",
+                "url": "https://www.ithome.com/0/907/162.htm"
             },
             {
-                "title": "拒绝溢价、死磕15%毛利：零跑的“逆势增长”飞轮",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2025-12-22",
-                "url": "https://www.huxiu.com/article/4819762.html"
+                "title": "我国 5G 基站总数达 483 万个，比上年末净增 57.9 万个",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-23",
+                "url": "https://www.ithome.com/0/907/149.htm"
             },
             {
-                "title": "美国农业部五个月内减少超2万名员工",
+                "title": "一家另类深圳Ebike的低调故事：不融资不烧钱，年营收超1亿美金｜Insight全球",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-22",
-                "url": "https://36kr.com/newsflashes/3607321483674886"
+                "date": "2025-12-23",
+                "url": "https://36kr.com/p/3607466244818179"
             }
         ],
         "mil": [
+            {
+                "title": "美政府封禁外国无人机引发愤怒 飞手：中国无人机无法替代",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542262.htm"
+            },
+            {
+                "title": "一家另类深圳Ebike的低调故事：不融资不烧钱，年营收超1亿美金｜Insight全球",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-23",
+                "url": "https://36kr.com/p/3607466244818179"
+            },
             {
                 "title": "科技昨夜今晨 1223：央行发布一次性信用修复政策；央视曝光部分直播间“大牌尾货”是回收箱旧衣服；2699 元起华为 nova 15 系列手机发布...",
                 "source": "NewsAPI / Ithome.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.huxiu.com/article/4819762.html"
             },
             {
-                "title": "黑客能让 AI 发辞职信？OpenAI 承认 Atlas 浏览器提示词注入攻击难以根治",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/907/102.htm"
-            },
-            {
-                "title": "特朗普政府叫停美国所有海上风电项目",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542246.htm"
-            },
-            {
-                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
-            },
-            {
                 "title": "2025年12月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-23",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdXo1YnpneHBobnFDQ2hqU1F4Q1VkdWJKT1Ffc1pLekhFNl9rYWJXY1RVNHpjWjZLazRSTW14T3YtUWgydWl5bW1vZ3J6NTNJUF8tX29PbFNvSEJFeDlseXludzNCNWtyZ0p2NkpuV3JtUGViNWc?oc=5"
             },
             {
-                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "title": "外交部亚洲事务特使再赴柬泰穿梭调停_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMk9oZUpXbzQtOXVFTERWR1I3YVZXMkthZnFaR0FmRXlNbEpURXVyaXhodzA2NTk3ZC0tVFE1ajhKUFRpcmxFNzkxZ1o3VmxnZzJKVnA5RERqY1NubTRGcUZ2dFN5SUtJRUlnbkVMMWpjcG9GRy1CNGlYRHhISlJWWE40OGU?oc=5"
+            },
+            {
+                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85anQ1R2xOZjhfZFZlc1NpaThtUVFiTTkyTXczU3BzUXBZVG1yLUpETFhKRGF2aVhIUkd5d2lZRGUzWUJjYjFkeHNkN2lnVmRqS1JkUlBTNzY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
             },
             {
                 "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
@@ -118,40 +118,34 @@
         ],
         "pol": [
             {
-                "title": "全球限量 3 台：Caviar 推出“亿万富翁的惊喜”金蛋版 iPhone 17 Pro / Max",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-23",
-                "url": "https://www.ithome.com/0/907/125.htm"
-            },
-            {
-                "title": "2026年是世界分水岭 38次轻度地震是大灾征兆？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-23",
-                "url": "https://www.secretchina.com/news/gb/2025/12/23/1092433.html"
-            },
-            {
-                "title": "智谱发布新一代旗舰 AI 模型 GLM-4.7：编程 SOTA，上线即开源",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-23",
-                "url": "https://www.ithome.com/0/907/120.htm"
-            },
-            {
-                "title": "OpenAI警示：AI浏览器恐难完全摆脱提示注入风险",
+                "title": "揭秘特斯拉门把手设计：十年前决策埋下安全隐患 马斯克学苹果要求电动控制",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542250.htm"
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542268.htm"
             },
             {
-                "title": "拒绝溢价、死磕15%毛利：零跑的“逆势增长”飞轮",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2025-12-22",
-                "url": "https://www.huxiu.com/article/4819762.html"
+                "title": "诺和诺德减肥药丸获美国FDA批准 股价盘后大涨6%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542260.htm"
             },
             {
-                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
+                "title": "续写阿波罗传奇：Airstream 房车成为美国 Artemis II 登月计划摆渡车",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-23",
+                "url": "https://www.ithome.com/0/907/226.htm"
+            },
+            {
+                "title": "记者联合作家起诉多家 AI 巨头，指控谷歌、xAI、Anthropic 和 OpenAI 等未经授权使用受版权保护书籍训练 AI",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-23",
+                "url": "https://www.ithome.com/0/907/194.htm"
+            },
+            {
+                "title": "一家另类深圳Ebike的低调故事：不融资不烧钱，年营收超1亿美金｜Insight全球",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-23",
+                "url": "https://36kr.com/p/3607466244818179"
             },
             {
                 "title": "2025年12月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdXo1YnpneHBobnFDQ2hqU1F4Q1VkdWJKT1Ffc1pLekhFNl9rYWJXY1RVNHpjWjZLazRSTW14T3YtUWgydWl5bW1vZ3J6NTNJUF8tX29PbFNvSEJFeDlseXludzNCNWtyZ0p2NkpuV3JtUGViNWc?oc=5"
             },
             {
-                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "title": "外交部亚洲事务特使再赴柬泰穿梭调停_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMk9oZUpXbzQtOXVFTERWR1I3YVZXMkthZnFaR0FmRXlNbEpURXVyaXhodzA2NTk3ZC0tVFE1ajhKUFRpcmxFNzkxZ1o3VmxnZzJKVnA5RERqY1NubTRGcUZ2dFN5SUtJRUlnbkVMMWpjcG9GRy1CNGlYRHhISlJWWE40OGU?oc=5"
+            },
+            {
+                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85anQ1R2xOZjhfZFZlc1NpaThtUVFiTTkyTXczU3BzUXBZVG1yLUpETFhKRGF2aVhIUkd5d2lZRGUzWUJjYjFkeHNkN2lnVmRqS1JkUlBTNzY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
             },
             {
                 "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-24T01:22:49.847350+00:00"
+    "last_updated": "2025-12-24T06:29:55.546127+00:00"
 }
