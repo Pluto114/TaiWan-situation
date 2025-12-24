@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "传英伟达H200春节前到货 首批规模最多8万颗",
+                "title": "阿里巴巴计划下单5万颗AMD MI308 AI芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542276.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542398.htm"
             },
             {
-                "title": "揭秘特斯拉门把手设计：十年前决策埋下安全隐患 马斯克学苹果要求电动控制",
+                "title": "党媒罕见狂捧“墨脱茶”传胡春华将复出管经济(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-23",
+                "url": "https://www.secretchina.com/news/gb/2025/12/23/1092452.html"
+            },
+            {
+                "title": "五角大楼与人工智能巨头的共同软肋：亟需中国电池供应",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542268.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542396.htm"
             },
             {
-                "title": "骁龙 8s Gen4 新机配置曝光：9K 级大电池、165Hz 京东方直屏，预计为一加 Turbo",
-                "source": "NewsAPI / Ithome.com",
+                "title": "三星子公司哈曼国际以15亿欧元收购采埃孚驾驶辅助业务",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-23",
-                "url": "https://www.ithome.com/0/907/162.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542378.htm"
             },
             {
-                "title": "我国 5G 基站总数达 483 万个，比上年末净增 57.9 万个",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-23",
-                "url": "https://www.ithome.com/0/907/149.htm"
-            },
-            {
-                "title": "一家另类深圳Ebike的低调故事：不融资不烧钱，年营收超1亿美金｜Insight全球",
+                "title": "氪星晚报 ｜USANA任命王生为中国区总裁；快手：快手应用的直播功能已逐步恢复正常服务；英伟达正重组云团队，将原有云业务团队与工程和运维部门合并",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-23",
-                "url": "https://36kr.com/p/3607466244818179"
+                "url": "https://36kr.com/p/3608041000879368"
             }
         ],
         "mil": [
+            {
+                "title": "英勇救夫 西安事变时蒋夫人亲笔信托他送达(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-23",
+                "url": "https://www.secretchina.com/news/gb/2025/12/23/1092453.html"
+            },
+            {
+                "title": "五角大楼与人工智能巨头的共同软肋：亟需中国电池供应",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542396.htm"
+            },
+            {
+                "title": "美政府封禁外国无人机引发愤怒，飞手称中国无人机无法替代",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-23",
+                "url": "https://www.ithome.com/0/907/295.htm"
+            },
+            {
+                "title": "五角大楼牵手马斯克 xAI Grok将进驻美国军方与政府系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542332.htm"
+            },
             {
                 "title": "美政府封禁外国无人机引发愤怒 飞手：中国无人机无法替代",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-23",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1542262.htm"
-            },
-            {
-                "title": "一家另类深圳Ebike的低调故事：不融资不烧钱，年营收超1亿美金｜Insight全球",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-23",
-                "url": "https://36kr.com/p/3607466244818179"
-            },
-            {
-                "title": "科技昨夜今晨 1223：央行发布一次性信用修复政策；央视曝光部分直播间“大牌尾货”是回收箱旧衣服；2699 元起华为 nova 15 系列手机发布...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-22",
-                "url": "https://www.ithome.com/0/907/111.htm"
-            },
-            {
-                "title": "OpenAI警示：AI浏览器恐难完全摆脱提示注入风险",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542250.htm"
-            },
-            {
-                "title": "拒绝溢价、死磕15%毛利：零跑的“逆势增长”飞轮",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2025-12-22",
-                "url": "https://www.huxiu.com/article/4819762.html"
             },
             {
                 "title": "2025年12月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMk9oZUpXbzQtOXVFTERWR1I3YVZXMkthZnFaR0FmRXlNbEpURXVyaXhodzA2NTk3ZC0tVFE1ajhKUFRpcmxFNzkxZ1o3VmxnZzJKVnA5RERqY1NubTRGcUZ2dFN5SUtJRUlnbkVMMWpjcG9GRy1CNGlYRHhISlJWWE40OGU?oc=5"
             },
             {
-                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "外交动态 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
                 "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "揭秘特斯拉门把手设计：十年前决策埋下安全隐患 马斯克学苹果要求电动控制",
+                "title": "罗马尼亚国家水务署遭勒索软件攻击 黑客滥用BitLocker加密约千台电脑 ​",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542268.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542404.htm"
             },
             {
-                "title": "诺和诺德减肥药丸获美国FDA批准 股价盘后大涨6%",
+                "title": "五角大楼与人工智能巨头的共同软肋：亟需中国电池供应",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542260.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542396.htm"
             },
             {
-                "title": "续写阿波罗传奇：Airstream 房车成为美国 Artemis II 登月计划摆渡车",
-                "source": "NewsAPI / Ithome.com",
+                "title": "三星子公司哈曼国际以15亿欧元收购采埃孚驾驶辅助业务",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-23",
-                "url": "https://www.ithome.com/0/907/226.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542378.htm"
             },
             {
-                "title": "记者联合作家起诉多家 AI 巨头，指控谷歌、xAI、Anthropic 和 OpenAI 等未经授权使用受版权保护书籍训练 AI",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-23",
-                "url": "https://www.ithome.com/0/907/194.htm"
-            },
-            {
-                "title": "一家另类深圳Ebike的低调故事：不融资不烧钱，年营收超1亿美金｜Insight全球",
+                "title": "氪星晚报 ｜USANA任命王生为中国区总裁；快手：快手应用的直播功能已逐步恢复正常服务；英伟达正重组云团队，将原有云业务团队与工程和运维部门合并",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-23",
-                "url": "https://36kr.com/p/3607466244818179"
+                "url": "https://36kr.com/p/3608041000879368"
+            },
+            {
+                "title": "新能源全年渗透率有望达50%：自主品牌领涨 比亚迪吉利上汽位居三甲",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542354.htm"
             },
             {
                 "title": "2025年12月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMk9oZUpXbzQtOXVFTERWR1I3YVZXMkthZnFaR0FmRXlNbEpURXVyaXhodzA2NTk3ZC0tVFE1ajhKUFRpcmxFNzkxZ1o3VmxnZzJKVnA5RERqY1NubTRGcUZ2dFN5SUtJRUlnbkVMMWpjcG9GRy1CNGlYRHhISlJWWE40OGU?oc=5"
             },
             {
-                "title": "2025年12月22日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "外交动态 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84LThFMkxta1Z3V0xlbmdmX0pocFowQnJZQjh3bEEydFB1Tlk5aXdRaDFOUm1IMVQ0NWkxUUJqQThqVUNQSWt3Mm9vNUc3Z2FUcmJ0NHliVUZEc3lMLXBEckc4UlVtVHBJYjNpc2hFa0lxNkFrRWc?oc=5"
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
                 "title": "【讲习所·2025年终特刊】“让人民过上幸福生活是头等大事” - 中国军网",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-24T06:29:55.546127+00:00"
+    "last_updated": "2025-12-24T12:37:52.439548+00:00"
 }
