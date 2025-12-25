@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "快手被黑客攻击“涉黄” 谁才是个巨大“草台班子”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜现代汽车美国公司因安全隐患召回逾5万辆汽车；京东：七鲜小厨在北京已开出30家门店；日本最大核电站将于明年1月20日重启",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542454.htm"
+                "url": "https://36kr.com/p/3609258567828745"
             },
             {
-                "title": "3年半亏损62亿，清华系独角兽智谱AI“流血”上市",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542452.htm"
-            },
-            {
-                "title": "连线：糟糕的2025年，马斯克凭什么挺过去的？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542450.htm"
-            },
-            {
-                "title": "美国法官下令阻止德克萨斯州要求应用商店验证用户年龄的法律生效",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542442.htm"
-            },
-            {
-                "title": "11 月特斯拉欧洲销量 22801 辆同比下跌 11.8%，比亚迪 21133 辆同比大增 221.8%",
+                "title": "本吉奥反驳辛顿：AI 时代「水管工」工作人类也保不住",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-24",
-                "url": "https://www.ithome.com/0/907/575.htm"
+                "url": "https://www.ithome.com/0/907/677.htm"
+            },
+            {
+                "title": "“商汤系”跑出一堆独角兽，可闫俊杰无法复制",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-24",
+                "url": "https://36kr.com/p/3609258452141057"
+            },
+            {
+                "title": "20 年来首次：库克自掏腰包买入耐克股票，总持仓价值约 604 万美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-24",
+                "url": "https://www.ithome.com/0/907/629.htm"
+            },
+            {
+                "title": "因向中国长鑫存储泄露核心技术 韩国检方起诉前三星高管等人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542510.htm"
             }
         ],
         "mil": [
+            {
+                "title": "本吉奥反驳辛顿：AI 时代「水管工」工作人类也保不住",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-24",
+                "url": "https://www.ithome.com/0/907/677.htm"
+            },
+            {
+                "title": "“商汤系”跑出一堆独角兽，可闫俊杰无法复制",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-24",
+                "url": "https://36kr.com/p/3609258452141057"
+            },
             {
                 "title": "快手被黑客攻击“涉黄” 谁才是个巨大“草台班子”？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3608983235740930"
             },
             {
-                "title": "美国对台军售案 全面升级国防(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-24",
-                "url": "https://www.secretchina.com/news/gb/2025/12/24/1092466.html"
-            },
-            {
-                "title": "魏建军回应魏牌 9 年 8 换 CEO：不是我们辞退人家，是他们自己感觉到压力特别大",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-24",
-                "url": "https://www.ithome.com/0/907/499.htm"
-            },
-            {
-                "title": "2025年12月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdXo1YnpneHBobnFDQ2hqU1F4Q1VkdWJKT1Ffc1pLekhFNl9rYWJXY1RVNHpjWjZLazRSTW14T3YtUWgydWl5bW1vZ3J6NTNJUF8tX29PbFNvSEJFeDlseXludzNCNWtyZ0p2NkpuV3JtUGViNWc?oc=5"
-            },
-            {
-                "title": "外交动态 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
                 "title": "驻约旦大使郭伟拜会约投资大臣 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-23",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWRxV1EyRTVFdXJsRFZuYS1BUjVTX2xwSnNFYVFqclh6YW5pd2VmT2lZVWlPOWp6ZDhoMGVYellFZ01XanFSanlRZHphS2dDNlFUTUFDQUVpWGxyQ0YyY09fTEVIQ2ZnWFo2SGk4dUZ3R3NKR1RLcjlHTU9vdXQ2elh1Tm0?oc=5"
+            },
+            {
+                "title": "林剑：日本首相官邸高官的拥核言论绝非孤立事件 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-24",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLVpVeU5ScmlfdkhlOEYzdXQ3VDRac3RvbDR6eDJ6TmdDWUc5RWZxYVpiNy1PMXN6OFVUX3lxdXhZb2FpTlBxTU5zbTJvNUN0UE1aRkh3ajF5eDRuOThhTjRidVdkeS1hM0RNY1RNZzMzYlZOb1FSWWhKYzk4X1ZaWjQyMUVuUG1SblJB?oc=5"
+            },
+            {
+                "title": "驻几内亚比绍大使杨仁火走访慰问中国援几比农业技术专家组 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkczWm5ocHlMbGNDN3JVVmtvN3FWOWI0dXlkV0E3XzdXZWlUdXFMV1ZPV3VMdlJjeUtHLWhUN3lReEREelM4QWRqU3EtQ3J0c1RPUVZ4X090em1DNy01amg4SGFuejdRcDBtTkZaZE5KZGFaSE5EWVNQYkcwNDFYZ25tNW8?oc=5"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式- 解放军报 - 中国军网",
@@ -104,66 +104,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbXU3SHRBRUZfOHlwUHBvS0x2Y19yS1FpQVZhWFFWRUpiOERwTlBEb1dZUW9RRDdiNjBTR1lYaXRPSHlhNjlkVWdsMThJOWVJLWdN?oc=5"
             },
             {
-                "title": "国防大学联合勤务学院保障战线文职人员工作扫描 - 中国军网",
+                "title": "从毛泽东军事斗争实践中汲取智慧 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-24",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXTzhCWVExLXhrUDd1eVduX1Nfam45OEIxdFlZYXVCMHRSYVllVkxUaVpwUVZwNlJ4SGNyd2huS1VsbTRyb1N4OElyRVV5Y1JXSEw4UjE4MG9OLUtHZ0VTLQ?oc=5"
-            },
-            {
-                "title": "上海海事局 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlbG5rOWZ2cWRmUXE5Ymo2dXFKTGlvVXA0Q0F0bUJGZ053ZjNFUDFqWjBIOHFtOFVLN1JjMVVBNA?oc=5"
+                "date": "2025-12-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ITnVFRGliRGVSd1lVN2xsbW9XRmZZdkZhVnlwU3lMOVgyNWhYTy1GUEZscUpHQWNiMm50SnpJWmRnbE01WllzbHRwSFNGbExHbEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "白帽黑客攻破某恶意软件服务器并批量向中毒用户弹出警告 建议用户重装系统",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "手机在伦敦被抢：女子仅靠定位两小时找回三星 Galaxy S25 Ultra，同时还挖出另外 4 部苹果 iPhone",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542470.htm"
+                "url": "https://www.ithome.com/0/907/725.htm"
             },
             {
-                "title": "加密货币交易所Bybit明年开始逐步清退日本用户 原因是未获得监管机构批准",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜现代汽车美国公司因安全隐患召回逾5万辆汽车；京东：七鲜小厨在北京已开出30家门店；日本最大核电站将于明年1月20日重启",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542468.htm"
+                "url": "https://36kr.com/p/3609258567828745"
             },
             {
-                "title": "L3专用号牌来了 但车企再也不敢＂狂奔＂",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "本吉奥反驳辛顿：AI 时代「水管工」工作人类也保不住",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542456.htm"
+                "url": "https://www.ithome.com/0/907/677.htm"
             },
             {
-                "title": "快手被黑客攻击“涉黄” 谁才是个巨大“草台班子”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "“商汤系”跑出一堆独角兽，可闫俊杰无法复制",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542454.htm"
+                "url": "https://36kr.com/p/3609258452141057"
             },
             {
-                "title": "3年半亏损62亿，清华系独角兽智谱AI“流血”上市",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "抖音：今年 1-11 月共拦截近 1.2 亿条涉网暴违规评论，处置账号超 41 万个",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542452.htm"
-            },
-            {
-                "title": "2025年12月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdXo1YnpneHBobnFDQ2hqU1F4Q1VkdWJKT1Ffc1pLekhFNl9rYWJXY1RVNHpjWjZLazRSTW14T3YtUWgydWl5bW1vZ3J6NTNJUF8tX29PbFNvSEJFeDlseXludzNCNWtyZ0p2NkpuV3JtUGViNWc?oc=5"
-            },
-            {
-                "title": "外交动态 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "url": "https://www.ithome.com/0/907/630.htm"
             },
             {
                 "title": "驻约旦大使郭伟拜会约投资大臣 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-23",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWRxV1EyRTVFdXJsRFZuYS1BUjVTX2xwSnNFYVFqclh6YW5pd2VmT2lZVWlPOWp6ZDhoMGVYellFZ01XanFSanlRZHphS2dDNlFUTUFDQUVpWGxyQ0YyY09fTEVIQ2ZnWFo2SGk4dUZ3R3NKR1RLcjlHTU9vdXQ2elh1Tm0?oc=5"
+            },
+            {
+                "title": "林剑：日本首相官邸高官的拥核言论绝非孤立事件 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-24",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLVpVeU5ScmlfdkhlOEYzdXQ3VDRac3RvbDR6eDJ6TmdDWUc5RWZxYVpiNy1PMXN6OFVUX3lxdXhZb2FpTlBxTU5zbTJvNUN0UE1aRkh3ajF5eDRuOThhTjRidVdkeS1hM0RNY1RNZzMzYlZOb1FSWWhKYzk4X1ZaWjQyMUVuUG1SblJB?oc=5"
+            },
+            {
+                "title": "驻几内亚比绍大使杨仁火走访慰问中国援几比农业技术专家组 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-23",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkczWm5ocHlMbGNDN3JVVmtvN3FWOWI0dXlkV0E3XzdXZWlUdXFMV1ZPV3VMdlJjeUtHLWhUN3lReEREelM4QWRqU3EtQ3J0c1RPUVZ4X090em1DNy01amg4SGFuejdRcDBtTkZaZE5KZGFaSE5EWVNQYkcwNDFYZ25tNW8?oc=5"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式- 解放军报 - 中国军网",
@@ -178,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbXU3SHRBRUZfOHlwUHBvS0x2Y19yS1FpQVZhWFFWRUpiOERwTlBEb1dZUW9RRDdiNjBTR1lYaXRPSHlhNjlkVWdsMThJOWVJLWdN?oc=5"
             },
             {
-                "title": "国防大学联合勤务学院保障战线文职人员工作扫描 - 中国军网",
+                "title": "从毛泽东军事斗争实践中汲取智慧 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-24",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXTzhCWVExLXhrUDd1eVduX1Nfam45OEIxdFlZYXVCMHRSYVllVkxUaVpwUVZwNlJ4SGNyd2huS1VsbTRyb1N4OElyRVV5Y1JXSEw4UjE4MG9OLUtHZ0VTLQ?oc=5"
-            },
-            {
-                "title": "上海海事局 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlbG5rOWZ2cWRmUXE5Ymo2dXFKTGlvVXA0Q0F0bUJGZ053ZjNFUDFqWjBIOHFtOFVLN1JjMVVBNA?oc=5"
+                "date": "2025-12-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ITnVFRGliRGVSd1lVN2xsbW9XRmZZdkZhVnlwU3lMOVgyNWhYTy1GUEZscUpHQWNiMm50SnpJWmRnbE01WllzbHRwSFNGbExHbEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-25T06:29:21.089487+00:00"
+    "last_updated": "2025-12-25T12:36:54.599889+00:00"
 }
