@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "氪星晚报｜希音湾区西部智慧产业园竣工交付；深蓝汽车完成61.22亿元C轮融资；广州首个游戏电竞产业专项扶持政策发布",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国“划半球而治”，中企面临新的孤立与排挤风险",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-25",
-                "url": "https://36kr.com/p/3609258818061321"
+                "url": "https://www.ftchinese.com/story/001108541"
             },
             {
-                "title": "“十四五”期间，我国 5G 用户普及率从 15% 增至 83.9%",
+                "title": "从大埔大火到企业业绩看定期公开资讯的价值",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-25",
+                "url": "https://www.ftchinese.com/story/001108507"
+            },
+            {
+                "title": "网易《逆水寒》手游 3.2.3 版本更新发布：全新场景【敦煌】，海量跨年福利",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-25",
-                "url": "https://www.ithome.com/0/908/000.htm"
+                "url": "https://www.ithome.com/0/908/045.htm"
             },
             {
-                "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "小米 17 Ultra 新品发布会一文汇总：方方面面尽徕卡，科技家电齐登场",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542724.htm"
+                "url": "https://www.ithome.com/0/908/038.htm"
             },
             {
-                "title": "监视员工的电脑软件被公开叫卖 记者实测：微信聊天就像在“裸奔”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "穿越星门，奔赴山野，走进焕新亮相的 Salomon 萨洛蒙成都太古里店",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2025-12-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542666.htm"
-            },
-            {
-                "title": "美国GDP短期翻番？马斯克再抛新预言，嘲讽存钱＂毫无意义＂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542662.htm"
+                "url": "https://www.toodaylab.com/83856"
             }
         ],
         "mil": [
+            {
+                "title": "远离家乡 驻外美军这样度过2025圣诞(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-25",
+                "url": "https://www.secretchina.com/news/gb/2025/12/26/1092550.html"
+            },
+            {
+                "title": "美国“划半球而治”，中企面临新的孤立与排挤风险",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-25",
+                "url": "https://www.ftchinese.com/story/001108541"
+            },
+            {
+                "title": "网易《逆水寒》手游 3.2.3 版本更新发布：全新场景【敦煌】，海量跨年福利",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-25",
+                "url": "https://www.ithome.com/0/908/045.htm"
+            },
+            {
+                "title": "反诈App变监控 全网删除(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-25",
+                "url": "https://www.secretchina.com/news/gb/2025/12/25/1092538.html"
+            },
             {
                 "title": "央视播出福建舰电磁弹射超近画面",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,28 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1542728.htm"
             },
             {
-                "title": "「2025是海洋科技元年」，智能船舶与水中装备正在爆发前夜｜OpenTalk回顾",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-25",
-                "url": "https://36kr.com/p/3610328679498752"
-            },
-            {
-                "title": "科技昨夜今晨 1225：“福建舰”航母内部画面首度公开；曝小米汽车预研市面上所有智驾路线；微信公众号正式上线“付费加热”功能...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-25",
-                "url": "https://www.ithome.com/0/907/771.htm"
-            },
-            {
-                "title": "乌克兰同意在顿巴斯设立非军事区 推进川普和平计划(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-24",
-                "url": "https://www.secretchina.com/news/gb/2025/12/25/1092517.html"
-            },
-            {
-                "title": "五角大楼公布中共军事报告 指出关键变化(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-24",
-                "url": "https://www.secretchina.com/news/gb/2025/12/25/1092515.html"
+                "title": "关于对美国军工相关企业及高级管理人员采取反制措施的决定 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-26",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBES29sb21TSjhYQVZMTVk4RHQ0YjAzSGIwdHVTV0pGWld6dVJ5UGZWcldZbnFRQVRpWUc3VlB6X05GZnRfOFhYd0RQTUFCM05WN3J4Q0hDNTZTcm1BeFVGMzlfZkZ2UHpRTmFURlBCOXkzdw?oc=5"
             },
             {
                 "title": "国防部：解放军全时待战 随时能战 战之必胜 - 中华人民共和国国防部",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻瑞典使馆临时代办万德刚出席瑞典青田同乡会年会暨瑞典华侨华人青年总会成立仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFVmOVlsd1BXcXUtcG1TQWdvNE9ncDNGc1ptNmtZeENXU0g2bzRFYUtuWmNteFp3RVNsd25oTlVwazdIYlpQQllRVE5ZMFMxTV9mSXpuYzlpakdSakJFMlB6YkhYckNOWTh3V0FvbFVwY3E5N0FXZC0zR1g4Vm5RTlBfdkI?oc=5"
-            },
-            {
                 "title": "从毛泽东军事斗争实践中汲取智慧 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ITnVFRGliRGVSd1lVN2xsbW9XRmZZdkZhVnlwU3lMOVgyNWhYTy1GUEZscUpHQWNiMm50SnpJWmRnbE01WllzbHRwSFNGbExHbEE?oc=5"
             },
             {
-                "title": "国台办：反制与“台独”分裂势力沆瀣一气的人员有理有据合情合法 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-24",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBybVZPYmhJWFI4VjZkU1p1VUN0MWRRV3cweXVDZEt2WHhGSUdsc0t0RktubjBHXzBiYXF0UW1HS00xQ1N0VVU1VzJR?oc=5"
-            },
-            {
                 "title": "国防部：美方渲染所谓“中国军事威胁”误导国际社会- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-25",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxdmRZN1ZhZmJ2MThXMXBpdEZROFJESE9sVVdGSnhKM2hWZmYtV0dXdTd4dUV3dWpkMjhxSnJVMWVwLVhoM0VuMkRNRQ?oc=5"
+            },
+            {
+                "title": "双语海报丨国防部：对日本右翼势力姑息纵容必遭反噬 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wWXRpa29xd0NtcGpTbUJ6RUI3THFJWXBCQldzVkJFRHVSVW5RM0p3ekJvdE9Cb1BrR2E5andISUl3X0FhTndKZUMzX3c2MTZpWmc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "氪星晚报｜希音湾区西部智慧产业园竣工交付；深蓝汽车完成61.22亿元C轮融资；广州首个游戏电竞产业专项扶持政策发布",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国“划半球而治”，中企面临新的孤立与排挤风险",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-25",
-                "url": "https://36kr.com/p/3609258818061321"
+                "url": "https://www.ftchinese.com/story/001108541"
             },
             {
-                "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "从大埔大火到企业业绩看定期公开资讯的价值",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542724.htm"
+                "url": "https://www.ftchinese.com/story/001108507"
             },
             {
-                "title": "“外国无人机禁令”引发囤货潮：美国从业者狂购大疆和零部件",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "网易《逆水寒》手游 3.2.3 版本更新发布：全新场景【敦煌】，海量跨年福利",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542712.htm"
+                "url": "https://www.ithome.com/0/908/045.htm"
             },
             {
-                "title": "监视员工的电脑软件被公开叫卖 记者实测：微信聊天就像在“裸奔”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "梦回 90 年代：台湾地区推出 3.5 英寸软盘造型 iPass 异形交通卡",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542666.htm"
+                "url": "https://www.ithome.com/0/908/030.htm"
             },
             {
-                "title": "美国GDP短期翻番？马斯克再抛新预言，嘲讽存钱＂毫无意义＂",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "AI 推高“大厂实习生”薪资，OpenAI、谷歌等祭出全职员工级待遇",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542662.htm"
+                "url": "https://www.ithome.com/0/908/027.htm"
+            },
+            {
+                "title": "关于对美国军工相关企业及高级管理人员采取反制措施的决定 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-26",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBES29sb21TSjhYQVZMTVk4RHQ0YjAzSGIwdHVTV0pGWld6dVJ5UGZWcldZbnFRQVRpWUc3VlB6X05GZnRfOFhYd0RQTUFCM05WN3J4Q0hDNTZTcm1BeFVGMzlfZkZ2UHpRTmFURlBCOXkzdw?oc=5"
             },
             {
                 "title": "国防部：解放军全时待战 随时能战 战之必胜 - 中华人民共和国国防部",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "驻瑞典使馆临时代办万德刚出席瑞典青田同乡会年会暨瑞典华侨华人青年总会成立仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFVmOVlsd1BXcXUtcG1TQWdvNE9ncDNGc1ptNmtZeENXU0g2bzRFYUtuWmNteFp3RVNsd25oTlVwazdIYlpQQllRVE5ZMFMxTV9mSXpuYzlpakdSakJFMlB6YkhYckNOWTh3V0FvbFVwY3E5N0FXZC0zR1g4Vm5RTlBfdkI?oc=5"
-            },
-            {
                 "title": "从毛泽东军事斗争实践中汲取智慧 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ITnVFRGliRGVSd1lVN2xsbW9XRmZZdkZhVnlwU3lMOVgyNWhYTy1GUEZscUpHQWNiMm50SnpJWmRnbE01WllzbHRwSFNGbExHbEE?oc=5"
             },
             {
-                "title": "国台办：反制与“台独”分裂势力沆瀣一气的人员有理有据合情合法 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-24",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBybVZPYmhJWFI4VjZkU1p1VUN0MWRRV3cweXVDZEt2WHhGSUdsc0t0RktubjBHXzBiYXF0UW1HS00xQ1N0VVU1VzJR?oc=5"
-            },
-            {
                 "title": "国防部：美方渲染所谓“中国军事威胁”误导国际社会- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-25",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxdmRZN1ZhZmJ2MThXMXBpdEZROFJESE9sVVdGSnhKM2hWZmYtV0dXdTd4dUV3dWpkMjhxSnJVMWVwLVhoM0VuMkRNRQ?oc=5"
+            },
+            {
+                "title": "双语海报丨国防部：对日本右翼势力姑息纵容必遭反噬 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wWXRpa29xd0NtcGpTbUJ6RUI3THFJWXBCQldzVkJFRHVSVW5RM0p3ekJvdE9Cb1BrR2E5andISUl3X0FhTndKZUMzX3c2MTZpWmc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-26T12:37:04.248503+00:00"
+    "last_updated": "2025-12-26T18:26:33.081515+00:00"
 }
