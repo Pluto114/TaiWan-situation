@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "工信部：深入实施新一轮十大重点行业稳增长工作方案，加大绿色产品、潮品、适老产品等供给",
+                "title": "闻泰科技：10月中旬以来安世中国累计出货超110亿片芯片 公司将于近期参加安世第二次听证会",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-26",
-                "url": "https://36kr.com/newsflashes/3611964036285698"
+                "url": "https://36kr.com/newsflashes/3612313256084745"
             },
             {
-                "title": "芯擎科技 7nm 高阶辅助驾驶芯片“星辰一号”宣布量产：关键指标全面超越国际先进主流产品",
+                "title": "中国人民银行：实施更加积极有为的宏观政策，防范化解重点领域风险",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-26",
+                "url": "https://36kr.com/newsflashes/3612321938588933"
+            },
+            {
+                "title": "长安汽车：L3 获批车型经过超 500 万公里大规模测试验证，无任何违规事件",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-26",
-                "url": "https://www.ithome.com/0/908/173.htm"
+                "url": "https://www.ithome.com/0/908/325.htm"
             },
             {
-                "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
+                "title": "中美红线对撞：北京制裁波音诺格等20家美企",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-26",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E7%BE%8E%E7%BA%A2%E7%BA%BF%E5%AF%B9%E6%92%9E%E5%8C%97%E4%BA%AC%E5%88%B6%E8%A3%81%E6%B3%A2%E9%9F%B3%E8%AF%BA%E6%A0%BC%E7%AD%8920%E5%AE%B6%E7%BE%8E%E4%BC%81/a-75309284"
+            },
+            {
+                "title": "氪星晚报｜MiniMax与快看漫画达成“AI+IP”合作，上线首个AI互动漫画；联想将推出超级AI智能体；国家创业投资引导基金将重点支持新兴产业和未来产业",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-26",
-                "url": "https://36kr.com/newsflashes/3611833758352642"
-            },
-            {
-                "title": "加速功能复合薄膜国产替代，这家清华系新材料公司完成数千万天使轮融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-26",
-                "url": "https://36kr.com/p/3611803013940230"
-            },
-            {
-                "title": "【IT之家评测室】小米 17 Ultra 徕卡版手机体验：当「徕卡」成为一个形容词",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-26",
-                "url": "https://www.ithome.com/0/908/142.htm"
+                "url": "https://36kr.com/p/3609259023926274"
             }
         ],
         "mil": [
+            {
+                "title": "五角大厦指中国预期具备“2027攻台取胜”能力 中国批渲染威胁",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-26",
+                "url": "https://www.dw.com/zh/%E4%BA%94%E8%A7%92%E5%A4%A7%E5%8E%A6%E6%8C%87%E4%B8%AD%E5%9B%BD%E9%A2%84%E6%9C%9F%E5%85%B7%E5%A4%872027%E6%94%BB%E5%8F%B0%E5%8F%96%E8%83%9C%E8%83%BD%E5%8A%9B-%E4%B8%AD%E5%9B%BD%E6%89%B9%E6%B8%B2%E6%9F%93%E5%A8%81%E8%83%81/a-75285479"
+            },
+            {
+                "title": "魔方公寓多地“爆雷”：租客被清退，赔偿方案全无",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542776.htm"
+            },
             {
                 "title": "致天下灭共志士的公开信(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1542768.htm"
             },
             {
-                "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
-                "source": "NewsAPI / Ruanyifeng.com",
-                "date": "2025-12-25",
-                "url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html"
-            },
-            {
-                "title": "以军表示在黎南消灭伊朗境外部队圣城旅恐怖组织的指挥官",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-12-25",
-                "url": "https://www.voachinese.com/a/israel-says-it-eliminated-commander-of-iran-s-extraterritorial-quds-force-designated-by-us-as-terror-group-in-south-lebanon-strike-20251225/8096250.html"
-            },
-            {
                 "title": "外交部新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-26",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQXFUaW9CbDlOTk41eVNQLUkyaDZkak5MUVBpRjRxVm5yT21sazJKeGg1ZmtsVy1rZExzazl3RjR6ejJtNUZSVXFVbVVMbnZwRE9YVjR4WW0zZUNsTEw0XzU0OXJubEVtRWZ4a3JhdDdhWENGZVE?oc=5"
             },
             {
-                "title": "国防部：解放军全时待战 随时能战 战之必胜 - 中华人民共和国国防部",
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-25",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3TEtKM0U4dGgxd2xxek9OY1RmX2hXZXJscXloZGxiekQ2ZDdFcUZDYzF6VDZ6cFBOVG9CNVY2d1pqemVtTFdsbWtIU1dZSFpyNi10bmtLLUg?oc=5"
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "三部重要法律案将提请2026年全国人代会审议 - 中国军网",
@@ -98,10 +98,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02VDBVRWtoQjl1RzJsc0hfR2NJQURZVnRlVUVvYXozOHZuaGF1RDRGb3BzdWlyblNVRDlvc2N3SkxFQ2J4RTN3V1owV2ZZNVE4TlE?oc=5"
             },
             {
-                "title": "国防部：美方渲染所谓“中国军事威胁”误导国际社会- 八一视频 - 中国军网",
+                "title": "图片 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-25",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxdmRZN1ZhZmJ2MThXMXBpdEZROFJESE9sVVdGSnhKM2hWZmYtV0dXdTd4dUV3dWpkMjhxSnJVMWVwLVhoM0VuMkRNRQ?oc=5"
+                "date": "2025-12-27",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUFNWlhBOXBNRURkT0R3Ql9xWGNBeXFwdmEyN19Qc3o4UXB6SmhLVEJENTBJbkNKWG54QU03LXczQWliUFRLUjhxSXVBRnR3NXZZTnVkTlIzckNGYkFPcWtqcWZQUTFyMTFCVmptTElCd0xmNFNpeXlRc3lsLXVYNmE1WERTaURyT00xa1hwUU1Ta3VTODBadlhaT1o3RjdFN2lFa0hGSU1wMTlNTGx1SlBB?oc=5"
             },
             {
                 "title": "致敬我们的英雄丨烽火里的赤诚 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "芯擎科技 7nm 高阶辅助驾驶芯片“星辰一号”宣布量产：关键指标全面超越国际先进主流产品",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中美红线对撞：北京制裁波音诺格等20家美企",
+                "source": "NewsAPI / DW (English)",
                 "date": "2025-12-26",
-                "url": "https://www.ithome.com/0/908/173.htm"
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E7%BE%8E%E7%BA%A2%E7%BA%BF%E5%AF%B9%E6%92%9E%E5%8C%97%E4%BA%AC%E5%88%B6%E8%A3%81%E6%B3%A2%E9%9F%B3%E8%AF%BA%E6%A0%BC%E7%AD%8920%E5%AE%B6%E7%BE%8E%E4%BC%81/a-75309284"
             },
             {
-                "title": "2025年末话中国政经热点(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-26",
-                "url": "https://www.secretchina.com/news/gb/2025/12/26/1092560.html"
-            },
-            {
-                "title": "从极地科考站到国民衣橱，波司登重新定义冬日御寒",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2025-12-26",
-                "url": "https://www.toodaylab.com/83854"
-            },
-            {
-                "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
+                "title": "氪星晚报｜MiniMax与快看漫画达成“AI+IP”合作，上线首个AI互动漫画；联想将推出超级AI智能体；国家创业投资引导基金将重点支持新兴产业和未来产业",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-26",
-                "url": "https://36kr.com/newsflashes/3611833758352642"
+                "url": "https://36kr.com/p/3609259023926274"
             },
             {
-                "title": "加速功能复合薄膜国产替代，这家清华系新材料公司完成数千万天使轮融资",
+                "title": "香港不再是「李家的城」",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-26",
-                "url": "https://36kr.com/p/3611803013940230"
+                "url": "https://36kr.com/p/3612277974778882"
+            },
+            {
+                "title": "中铝国际：与境外客户签订约140亿元项目合同",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-26",
+                "url": "https://36kr.com/newsflashes/3612253576955137"
+            },
+            {
+                "title": "华尔街日报：人形机器人赛道过热 创业者警告技术成熟度被高估",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542850.htm"
             },
             {
                 "title": "外交部新闻_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQXFUaW9CbDlOTk41eVNQLUkyaDZkak5MUVBpRjRxVm5yT21sazJKeGg1ZmtsVy1rZExzazl3RjR6ejJtNUZSVXFVbVVMbnZwRE9YVjR4WW0zZUNsTEw0XzU0OXJubEVtRWZ4a3JhdDdhWENGZVE?oc=5"
             },
             {
-                "title": "国防部：解放军全时待战 随时能战 战之必胜 - 中华人民共和国国防部",
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-25",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3TEtKM0U4dGgxd2xxek9OY1RmX2hXZXJscXloZGxiekQ2ZDdFcUZDYzF6VDZ6cFBOVG9CNVY2d1pqemVtTFdsbWtIU1dZSFpyNi10bmtLLUg?oc=5"
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "三部重要法律案将提请2026年全国人代会审议 - 中国军网",
@@ -166,10 +166,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02VDBVRWtoQjl1RzJsc0hfR2NJQURZVnRlVUVvYXozOHZuaGF1RDRGb3BzdWlyblNVRDlvc2N3SkxFQ2J4RTN3V1owV2ZZNVE4TlE?oc=5"
             },
             {
-                "title": "国防部：美方渲染所谓“中国军事威胁”误导国际社会- 八一视频 - 中国军网",
+                "title": "图片 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-25",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxdmRZN1ZhZmJ2MThXMXBpdEZROFJESE9sVVdGSnhKM2hWZmYtV0dXdTd4dUV3dWpkMjhxSnJVMWVwLVhoM0VuMkRNRQ?oc=5"
+                "date": "2025-12-27",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUFNWlhBOXBNRURkT0R3Ql9xWGNBeXFwdmEyN19Qc3o4UXB6SmhLVEJENTBJbkNKWG54QU03LXczQWliUFRLUjhxSXVBRnR3NXZZTnVkTlIzckNGYkFPcWtqcWZQUTFyMTFCVmptTElCd0xmNFNpeXlRc3lsLXVYNmE1WERTaURyT00xa1hwUU1Ta3VTODBadlhaT1o3RjdFN2lFa0hGSU1wMTlNTGx1SlBB?oc=5"
             },
             {
                 "title": "致敬我们的英雄丨烽火里的赤诚 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-27T06:27:24.054807+00:00"
+    "last_updated": "2025-12-27T12:34:51.176174+00:00"
 }
