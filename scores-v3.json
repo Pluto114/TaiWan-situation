@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "全球内存短缺背景下，俄罗斯博主从中国海淘零件“手搓”DDR5 内存",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-26",
-                "url": "https://www.ithome.com/0/908/082.htm"
-            },
-            {
-                "title": "中金：坚定看好中国资产重估，维持超配中国股票",
+                "title": "工信部：深入实施新一轮十大重点行业稳增长工作方案，加大绿色产品、潮品、适老产品等供给",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-26",
-                "url": "https://36kr.com/newsflashes/3611662391543046"
+                "url": "https://36kr.com/newsflashes/3611964036285698"
             },
             {
-                "title": "日经调查预测：2026中国经济增长4.5%",
-                "source": "NewsAPI / Nikkei.com",
-                "date": "2025-12-26",
-                "url": "https://cn.nikkei.com/china/ceconomy/60852-2025-12-26-08-34-10.html"
-            },
-            {
-                "title": "中金：维持超配黄金，把握短期波段机会与流动性外溢机会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-26",
-                "url": "https://36kr.com/newsflashes/3611642347881481"
-            },
-            {
-                "title": "科技昨夜今晨 1226：小米 17 Ultra 手机正式发布 6999 元起；央视曝光“外国山海经”乱象；首批汽车智能底盘实测研究报告发布...",
+                "title": "芯擎科技 7nm 高阶辅助驾驶芯片“星辰一号”宣布量产：关键指标全面超越国际先进主流产品",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-26",
-                "url": "https://www.ithome.com/0/908/069.htm"
+                "url": "https://www.ithome.com/0/908/173.htm"
+            },
+            {
+                "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-26",
+                "url": "https://36kr.com/newsflashes/3611833758352642"
+            },
+            {
+                "title": "加速功能复合薄膜国产替代，这家清华系新材料公司完成数千万天使轮融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-26",
+                "url": "https://36kr.com/p/3611803013940230"
+            },
+            {
+                "title": "【IT之家评测室】小米 17 Ultra 徕卡版手机体验：当「徕卡」成为一个形容词",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-26",
+                "url": "https://www.ithome.com/0/908/142.htm"
             }
         ],
         "mil": [
+            {
+                "title": "致天下灭共志士的公开信(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-26",
+                "url": "https://www.secretchina.com/news/gb/2025/12/26/1092562.html"
+            },
             {
                 "title": "航母心脏变身 AI 引擎：美企提案用退役核反应堆填补美国能源缺口",
                 "source": "NewsAPI / Ithome.com",
@@ -68,13 +74,7 @@
                 "url": "https://www.voachinese.com/a/israel-says-it-eliminated-commander-of-iran-s-extraterritorial-quds-force-designated-by-us-as-terror-group-in-south-lebanon-strike-20251225/8096250.html"
             },
             {
-                "title": "远离家乡 驻外美军这样度过2025圣诞(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-25",
-                "url": "https://www.secretchina.com/news/gb/2025/12/26/1092550.html"
-            },
-            {
-                "title": "关于对美国军工相关企业及高级管理人员采取反制措施的决定 - mfa.gov.cn",
+                "title": "外交部新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-26",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBES29sb21TSjhYQVZMTVk4RHQ0YjAzSGIwdHVTV0pGWld6dVJ5UGZWcldZbnFRQVRpWUc3VlB6X05GZnRfOFhYd0RQTUFCM05WN3J4Q0hDNTZTcm1BeFVGMzlfZkZ2UHpRTmFURlBCOXkzdw?oc=5"
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3TEtKM0U4dGgxd2xxek9OY1RmX2hXZXJscXloZGxiekQ2ZDdFcUZDYzF6VDZ6cFBOVG9CNVY2d1pqemVtTFdsbWtIU1dZSFpyNi10bmtLLUg?oc=5"
             },
             {
+                "title": "三部重要法律案将提请2026年全国人代会审议 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02VDBVRWtoQjl1RzJsc0hfR2NJQURZVnRlVUVvYXozOHZuaGF1RDRGb3BzdWlyblNVRDlvc2N3SkxFQ2J4RTN3V1owV2ZZNVE4TlE?oc=5"
+            },
+            {
                 "title": "国防部：美方渲染所谓“中国军事威胁”误导国际社会- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-25",
@@ -102,47 +108,41 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GYldLVHU1SWFRTHJUOGptaDFlTXVaWWIweU1FTlpDZ01rSm5KYWZROVN4bEkwQmVOSGtSaXNZVnpITWU1bVhLc2E0S2xJeno4bnc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "科技昨夜今晨 1226：小米 17 Ultra 手机正式发布 6999 元起；央视曝光“外国山海经”乱象；首批汽车智能底盘实测研究报告发布...",
+                "title": "芯擎科技 7nm 高阶辅助驾驶芯片“星辰一号”宣布量产：关键指标全面超越国际先进主流产品",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-26",
-                "url": "https://www.ithome.com/0/908/069.htm"
+                "url": "https://www.ithome.com/0/908/173.htm"
             },
             {
-                "title": "极简创新还是致命隐患？特斯拉隐藏式车门面临拷问",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542768.htm"
-            },
-            {
-                "title": "2025年赤潮汹涌：中共对世界文明与民主的渗透与侵蚀(图)",
+                "title": "2025年末话中国政经热点(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-25",
-                "url": "https://www.secretchina.com/news/gb/2025/12/26/1092542.html"
+                "date": "2025-12-26",
+                "url": "https://www.secretchina.com/news/gb/2025/12/26/1092560.html"
             },
             {
-                "title": "8点1氪｜贾国龙首次回应西贝预制菜风波；京东发布年终奖计划：采销平均25薪，上不封顶；王思聪名下资产被法拍",
+                "title": "从极地科考站到国民衣橱，波司登重新定义冬日御寒",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2025-12-26",
+                "url": "https://www.toodaylab.com/83854"
+            },
+            {
+                "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-25",
-                "url": "https://36kr.com/p/3611602625758215"
+                "date": "2025-12-26",
+                "url": "https://36kr.com/newsflashes/3611833758352642"
             },
             {
-                "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
-                "source": "NewsAPI / Ruanyifeng.com",
-                "date": "2025-12-25",
-                "url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html"
+                "title": "加速功能复合薄膜国产替代，这家清华系新材料公司完成数千万天使轮融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-26",
+                "url": "https://36kr.com/p/3611803013940230"
             },
             {
-                "title": "关于对美国军工相关企业及高级管理人员采取反制措施的决定 - mfa.gov.cn",
+                "title": "外交部新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-26",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBES29sb21TSjhYQVZMTVk4RHQ0YjAzSGIwdHVTV0pGWld6dVJ5UGZWcldZbnFRQVRpWUc3VlB6X05GZnRfOFhYd0RQTUFCM05WN3J4Q0hDNTZTcm1BeFVGMzlfZkZ2UHpRTmFURlBCOXkzdw?oc=5"
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3TEtKM0U4dGgxd2xxek9OY1RmX2hXZXJscXloZGxiekQ2ZDdFcUZDYzF6VDZ6cFBOVG9CNVY2d1pqemVtTFdsbWtIU1dZSFpyNi10bmtLLUg?oc=5"
             },
             {
+                "title": "三部重要法律案将提请2026年全国人代会审议 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02VDBVRWtoQjl1RzJsc0hfR2NJQURZVnRlVUVvYXozOHZuaGF1RDRGb3BzdWlyblNVRDlvc2N3SkxFQ2J4RTN3V1owV2ZZNVE4TlE?oc=5"
+            },
+            {
                 "title": "国防部：美方渲染所谓“中国军事威胁”误导国际社会- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-25",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GYldLVHU1SWFRTHJUOGptaDFlTXVaWWIweU1FTlpDZ01rSm5KYWZROVN4bEkwQmVOSGtSaXNZVnpITWU1bVhLc2E0S2xJeno4bnc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-27T01:21:56.102217+00:00"
+    "last_updated": "2025-12-27T06:27:24.054807+00:00"
 }
