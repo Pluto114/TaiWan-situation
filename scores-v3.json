@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "白宫推迟对华半导体关税至2027年 紧张关系暂现缓和",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542962.htm"
+            },
+            {
+                "title": "欧洲芯片野心受挫 补贴与现实落差尽显",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542958.htm"
+            },
+            {
                 "title": "2025 年度央企十大超级工程开启投票：神舟二十二号飞船、世界最大跨度斜拉桥等入围",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-27",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-27",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1542926.htm"
-            },
-            {
-                "title": "美国码农正被AI“大屠杀” 26届毕业生已无路可走",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542918.htm"
-            },
-            {
-                "title": "18000条规章 台积电的美国梦魇",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542914.htm"
             }
         ],
         "mil": [
+            {
+                "title": "白宫推迟对华半导体关税至2027年 紧张关系暂现缓和",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542962.htm"
+            },
+            {
+                "title": "Stack Overflow 年度开发者调查报告：66% 程序员被 AI“坑惨”，改 bug 比自己写还花时间",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-27",
+                "url": "https://www.ithome.com/0/908/534.htm"
+            },
             {
                 "title": "英伟达华人AI大神怒赞特斯拉“神乎其技” 马斯克得意坏了",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-27",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1542914.htm"
-            },
-            {
-                "title": "金融时报：外卖大战损害美团利润制约海外扩张",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542910.htm"
-            },
-            {
-                "title": "让纳智捷“消失” 富士康只花了1.7亿",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542902.htm"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "白宫推迟对华半导体关税至2027年 紧张关系暂现缓和",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542962.htm"
+            },
+            {
+                "title": "Stack Overflow 年度开发者调查报告：66% 程序员被 AI“坑惨”，改 bug 比自己写还花时间",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-27",
+                "url": "https://www.ithome.com/0/908/534.htm"
+            },
+            {
+                "title": "欧洲芯片野心受挫 补贴与现实落差尽显",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542958.htm"
+            },
+            {
+                "title": "中剧点击率全球暴增 专制价值观隐性扩散",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-27",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%89%A7%E7%82%B9%E5%87%BB%E7%8E%87%E5%85%A8%E7%90%83%E6%9A%B4%E5%A2%9E-%E4%B8%93%E5%88%B6%E4%BB%B7%E5%80%BC%E8%A7%82%E9%9A%90%E6%80%A7%E6%89%A9%E6%95%A3/a-75316219"
+            },
+            {
                 "title": "2025 年度央企十大超级工程开启投票：神舟二十二号飞船、世界最大跨度斜拉桥等入围",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-27",
                 "url": "https://www.ithome.com/0/908/519.htm"
-            },
-            {
-                "title": "美国强烈反对北京因对台军售而报复美国企业和高管",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-12-27",
-                "url": "https://www.voachinese.com/a/us-strongly-objects-beijing-s-retaliation-against-american-companies-and-executives-over-arms-sales-to-taiwan-20251226/8096709.html"
-            },
-            {
-                "title": "英伟达华人AI大神怒赞特斯拉“神乎其技” 马斯克得意坏了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542920.htm"
-            },
-            {
-                "title": "美国码农正被AI“大屠杀” 26届毕业生已无路可走",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542918.htm"
-            },
-            {
-                "title": "18000条规章 台积电的美国梦魇",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542914.htm"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-28T12:35:40.412036+00:00"
+    "last_updated": "2025-12-28T18:25:54.047699+00:00"
 }
