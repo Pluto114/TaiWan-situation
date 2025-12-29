@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "白宫推迟对华半导体关税至2027年 紧张关系暂现缓和",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542962.htm"
+                "title": "闪极科技完成近亿元A+轮融资，新款AI眼镜计划一年内出货超十万台｜硬氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-28",
+                "url": "https://36kr.com/p/3613581871416328"
             },
             {
-                "title": "欧洲芯片野心受挫 补贴与现实落差尽显",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542958.htm"
+                "title": "AI在2025年捧出50+新亿万富翁，有人才22岁",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-28",
+                "url": "https://36kr.com/p/3614509135086857"
             },
             {
-                "title": "2025 年度央企十大超级工程开启投票：神舟二十二号飞船、世界最大跨度斜拉桥等入围",
+                "title": "科技昨夜今晨 1228：比亚迪方程豹首款轿车谍照曝光；B站 2025 年度弹幕“致敬”公布；首个吉瓦级海上光伏项目全容量并网...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-28",
+                "url": "https://www.ithome.com/0/908/547.htm"
+            },
+            {
+                "title": "中国广电成功开展 5G-A 低空通信专网关键技术验证，实测上行速率达 200Mbps 以上",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-27",
-                "url": "https://www.ithome.com/0/908/519.htm"
+                "url": "https://www.ithome.com/0/908/544.htm"
             },
             {
-                "title": "美国强烈反对北京因对台军售而报复美国企业和高管",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2025-12-27",
-                "url": "https://www.voachinese.com/a/us-strongly-objects-beijing-s-retaliation-against-american-companies-and-executives-over-arms-sales-to-taiwan-20251226/8096709.html"
-            },
-            {
-                "title": "瑞芯微复制FFmpeg代码违反许可协议被投诉 相关存储库已被GitHub冻结",
+                "title": "4TB DDR5 ECC RDIMM内存套装标价逾7万美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542926.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542974.htm"
             }
         ],
         "mil": [
             {
+                "title": "科技昨夜今晨 1228：比亚迪方程豹首款轿车谍照曝光；B站 2025 年度弹幕“致敬”公布；首个吉瓦级海上光伏项目全容量并网...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-28",
+                "url": "https://www.ithome.com/0/908/547.htm"
+            },
+            {
+                "title": "Waymo旧金山系统故障引质疑 自动驾驶出租车应急能力遭拷问",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542970.htm"
+            },
+            {
+                "title": "不止间谍：2025年中国对美安全渗透多点爆发(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-27",
+                "url": "https://www.secretchina.com/news/gb/2025/12/28/1092642.html"
+            },
+            {
                 "title": "白宫推迟对华半导体关税至2027年 紧张关系暂现缓和",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-27",
@@ -56,22 +74,10 @@
                 "url": "https://www.ithome.com/0/908/534.htm"
             },
             {
-                "title": "英伟达华人AI大神怒赞特斯拉“神乎其技” 马斯克得意坏了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542920.htm"
-            },
-            {
-                "title": "美国码农正被AI“大屠杀” 26届毕业生已无路可走",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542918.htm"
-            },
-            {
-                "title": "18000条规章 台积电的美国梦魇",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542914.htm"
+                "title": "东部战区开展“正义使命-2025”演习 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kVHNaOExfZXNmbnNUenZ2WndOU3JCdkY2QkE2c2VKZkN6Y3VHcVQyM1IwUHZpbkFNOWlacFh0UmxCc2thT2Y0cG1vU1FnMms4cjNNc09nVzc?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -80,22 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "东部战区发布联合演训区公告及示意图 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "驻尼加拉瓜大使瞿瑜辉在尼官媒《19数字报》发表署名文章《坚持互利共赢，携手共同发展》 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-26",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnZ1RMUDkwdWNsOTRIUG53d3BURmpNbHhKTGZJQjBYM25uaDZBSURwZUlJR0VOUi1CMVliZzFxVmhzWVM1N2FQYjBXRGFWY3VYM3JGcU5yaThXcnpqcEg1VTF6RFlJaGs5SDBuV0FLZC1QdHZubWM2UjlnTQ?oc=5"
-            },
-            {
-                "title": "三部重要法律案将提请2026年全国人代会审议 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02VDBVRWtoQjl1RzJsc0hfR2NJQURZVnRlVUVvYXozOHZuaGF1RDRGb3BzdWlyblNVRDlvc2N3SkxFQ2J4RTN3V1owV2ZZNVE4TlE?oc=5"
+                "date": "2025-12-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lTks5ZkozQUt6UmNScmdreHlqRnJQVl9tdy03RnVzQVlEdHk1YTdZTE9mY05xTlY5WHl4aDVTa0VZRlNCMnNMS3dlZG5SRENKaGRuTENfaWo?oc=5"
             },
             {
                 "title": "图片 - 中国军网",
@@ -104,42 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUFNWlhBOXBNRURkT0R3Ql9xWGNBeXFwdmEyN19Qc3o4UXB6SmhLVEJENTBJbkNKWG54QU03LXczQWliUFRLUjhxSXVBRnR3NXZZTnVkTlIzckNGYkFPcWtqcWZQUTFyMTFCVmptTElCd0xmNFNpeXlRc3lsLXVYNmE1WERTaURyT00xa1hwUU1Ta3VTODBadlhaT1o3RjdFN2lFa0hGSU1wMTlNTGx1SlBB?oc=5"
             },
             {
-                "title": "致敬我们的英雄丨烽火里的赤诚 - 中国军网",
+                "title": "我军军事训练考核评估加速向标准化实战化迈进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GYldLVHU1SWFRTHJUOGptaDFlTXVaWWIweU1FTlpDZ01rSm5KYWZROVN4bEkwQmVOSGtSaXNZVnpITWU1bVhLc2E0S2xJeno4bnc?oc=5"
+                "date": "2025-12-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bHVmUlZBN1pmbnQ1Wkw2T0szN1YtNkh6MjQ1Z2twU2piZEcwYV9FNkpTZUV1a3o1TE40a05wZ2ZXbGNndDJfeVV4TUYzUi0ya3c?oc=5"
+            },
+            {
+                "title": "空军多支部队加快数智转型建设催生训练新动能 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJdmdKdktsd2ViSFFaLW5RNFRTWnZJa2xPQmJUN08zcFNoYVVZRFltOFVmdHVuZ1JsaTNNVDhlVlpUNklhbUlhQlZJckR3M2pyQkE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "白宫推迟对华半导体关税至2027年 紧张关系暂现缓和",
+                "title": "闪极科技完成近亿元A+轮融资，新款AI眼镜计划一年内出货超十万台｜硬氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-28",
+                "url": "https://36kr.com/p/3613581871416328"
+            },
+            {
+                "title": "AI在2025年捧出50+新亿万富翁，有人才22岁",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-28",
+                "url": "https://36kr.com/p/3614509135086857"
+            },
+            {
+                "title": "超速 1 英里就报警，欧盟 ISA 系统让本田车主抓狂",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-28",
+                "url": "https://www.ithome.com/0/908/545.htm"
+            },
+            {
+                "title": "Waymo旧金山系统故障引质疑 自动驾驶出租车应急能力遭拷问",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542962.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1542970.htm"
             },
             {
-                "title": "Stack Overflow 年度开发者调查报告：66% 程序员被 AI“坑惨”，改 bug 比自己写还花时间",
-                "source": "NewsAPI / Ithome.com",
+                "title": "一场正在扩大的“静默退场”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-27",
-                "url": "https://www.ithome.com/0/908/534.htm"
+                "url": "https://www.secretchina.com/news/gb/2025/12/28/1092644.html"
             },
             {
-                "title": "欧洲芯片野心受挫 补贴与现实落差尽显",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542958.htm"
-            },
-            {
-                "title": "中剧点击率全球暴增 专制价值观隐性扩散",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-27",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%89%A7%E7%82%B9%E5%87%BB%E7%8E%87%E5%85%A8%E7%90%83%E6%9A%B4%E5%A2%9E-%E4%B8%93%E5%88%B6%E4%BB%B7%E5%80%BC%E8%A7%82%E9%9A%90%E6%80%A7%E6%89%A9%E6%95%A3/a-75316219"
-            },
-            {
-                "title": "2025 年度央企十大超级工程开启投票：神舟二十二号飞船、世界最大跨度斜拉桥等入围",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-27",
-                "url": "https://www.ithome.com/0/908/519.htm"
+                "title": "东部战区开展“正义使命-2025”演习 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kVHNaOExfZXNmbnNUenZ2WndOU3JCdkY2QkE2c2VKZkN6Y3VHcVQyM1IwUHZpbkFNOWlacFh0UmxCc2thT2Y0cG1vU1FnMms4cjNNc09nVzc?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -148,22 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "东部战区发布联合演训区公告及示意图 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "驻尼加拉瓜大使瞿瑜辉在尼官媒《19数字报》发表署名文章《坚持互利共赢，携手共同发展》 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-26",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnZ1RMUDkwdWNsOTRIUG53d3BURmpNbHhKTGZJQjBYM25uaDZBSURwZUlJR0VOUi1CMVliZzFxVmhzWVM1N2FQYjBXRGFWY3VYM3JGcU5yaThXcnpqcEg1VTF6RFlJaGs5SDBuV0FLZC1QdHZubWM2UjlnTQ?oc=5"
-            },
-            {
-                "title": "三部重要法律案将提请2026年全国人代会审议 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02VDBVRWtoQjl1RzJsc0hfR2NJQURZVnRlVUVvYXozOHZuaGF1RDRGb3BzdWlyblNVRDlvc2N3SkxFQ2J4RTN3V1owV2ZZNVE4TlE?oc=5"
+                "date": "2025-12-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lTks5ZkozQUt6UmNScmdreHlqRnJQVl9tdy03RnVzQVlEdHk1YTdZTE9mY05xTlY5WHl4aDVTa0VZRlNCMnNMS3dlZG5SRENKaGRuTENfaWo?oc=5"
             },
             {
                 "title": "图片 - 中国军网",
@@ -172,13 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUFNWlhBOXBNRURkT0R3Ql9xWGNBeXFwdmEyN19Qc3o4UXB6SmhLVEJENTBJbkNKWG54QU03LXczQWliUFRLUjhxSXVBRnR3NXZZTnVkTlIzckNGYkFPcWtqcWZQUTFyMTFCVmptTElCd0xmNFNpeXlRc3lsLXVYNmE1WERTaURyT00xa1hwUU1Ta3VTODBadlhaT1o3RjdFN2lFa0hGSU1wMTlNTGx1SlBB?oc=5"
             },
             {
-                "title": "致敬我们的英雄丨烽火里的赤诚 - 中国军网",
+                "title": "我军军事训练考核评估加速向标准化实战化迈进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GYldLVHU1SWFRTHJUOGptaDFlTXVaWWIweU1FTlpDZ01rSm5KYWZROVN4bEkwQmVOSGtSaXNZVnpITWU1bVhLc2E0S2xJeno4bnc?oc=5"
+                "date": "2025-12-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bHVmUlZBN1pmbnQ1Wkw2T0szN1YtNkh6MjQ1Z2twU2piZEcwYV9FNkpTZUV1a3o1TE40a05wZ2ZXbGNndDJfeVV4TUYzUi0ya3c?oc=5"
+            },
+            {
+                "title": "空军多支部队加快数智转型建设催生训练新动能 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2025-12-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJdmdKdktsd2ViSFFaLW5RNFRTWnZJa2xPQmJUN08zcFNoYVVZRFltOFVmdHVuZ1JsaTNNVDhlVlpUNklhbUlhQlZJckR3M2pyQkE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-28T18:25:54.047699+00:00"
+    "last_updated": "2025-12-29T01:40:39.581472+00:00"
 }
