@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "14亿消费者神话褪色，万宁撤离映照外资零售困局",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-28",
+                "url": "https://www.ftchinese.com/story/001108558"
+            },
+            {
+                "title": "2025年国际时政大事盘点",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-28",
+                "url": "https://www.ftchinese.com/story/001108560"
+            },
+            {
+                "title": "香港靠边站？ 北交所将成为中国IPO新枢纽",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-28",
+                "url": "https://www.ftchinese.com/story/001108564"
+            },
+            {
+                "title": "内存飙涨PC行业已接近绝望 产品推迟几成是唯一选择",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543050.htm"
+            },
+            {
                 "title": "一加 Turbo 6 命名公布：165 满帧游戏体验，真机同步亮相",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-28",
                 "url": "https://www.ithome.com/0/908/675.htm"
-            },
-            {
-                "title": "苹果前全球供应链高管创业，将“十五五”高端碳材料价格打到10万元以内丨36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-28",
-                "url": "https://36kr.com/p/3615082631021825"
-            },
-            {
-                "title": "FFmpeg 投诉 Rockchip(瑞芯微电子) 两年无果，向 GitHub 提交 DMCA 删除通知后，相关代码被屏蔽",
-                "source": "NewsAPI / Appinn.com",
-                "date": "2025-12-28",
-                "url": "https://www.appinn.com/ffmpeg-dmca-rockchip-code-removal/"
-            },
-            {
-                "title": "老黄200亿“钞能力”回应谷歌：联手Groq，补上推理短板",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-28",
-                "url": "https://36kr.com/p/3614914172077065"
-            },
-            {
-                "title": "网约车这一年：司机谋求打破低价 平台押注Robotaxi和出海",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542998.htm"
             }
         ],
         "mil": [
+            {
+                "title": "2025年国际时政大事盘点",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-28",
+                "url": "https://www.ftchinese.com/story/001108560"
+            },
+            {
+                "title": "家贼几十年偷盗南京博物院文物 日军占领北京八年未抢劫国宝(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-28",
+                "url": "https://www.secretchina.com/news/gb/2025/12/28/1092673.html"
+            },
             {
                 "title": "习近平噩梦 美国掌握了什么让中南海彻夜难眠？(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3615082631021825"
             },
             {
-                "title": "中国超导磁浮测试创纪录：1吨载具2秒内飙至700公里/时",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543034.htm"
-            },
-            {
-                "title": "网约车这一年：司机谋求打破低价 平台押注Robotaxi和出海",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542998.htm"
-            },
-            {
-                "title": "- mfa.gov.cn",
+                "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55LVRtWEVoTzVvdUgtdUZ4Q2pCRWFTUHRfZHd6TDNDcE95RFgwUkpmOVFpcjFDUzgwNm0tX2tJZXYwMHFMajFZczdUNTcxWXMzNXJNVTlkLVgzZWZNWEFkd2NFblRXWGtWcm1lN0tR?oc=5"
+            },
+            {
+                "title": "中柬泰三方抚仙会晤新闻公报（全文） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
             },
             {
                 "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-28",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWEY5OEdVZU5DWUMyZ1BnN0F3ZTNiNVM2cnRGZzhQWDE2NFFENzNHUm5nQjFPNjY3c0NsR3VBQXBLbFFycjdmLTNfSFZEN1ZEU2pQOXZTWmFBeHZucDM2UWVqUGVsTnpaNGYtbXN3?oc=5"
-            },
-            {
-                "title": "王毅会见泰国外长西哈萨 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-28",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2ZkI5MHBmTHZzNWJiUWNGZy1nX1hzdi1McmJYcUE0cXV1QWMtb1lPT1pUbkNjZl91WHVWOGpYMnJmYVhOZjFlU3ZabGFoSHNjRzJxZVhpT01NOE82aUxsN1RjQ3dXOFhJR3llNVBB?oc=5"
             },
             {
                 "title": "福建海警位马祖岛、乌丘屿附近海域开展综合执法巡查 - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "网易集团丁迎峰退休；《王者万象棋》开启大规模测试；《燕云十六声》周年时装引争议 | 氪游周报",
-                "source": "NewsAPI / 36kr.com",
+                "title": "14亿消费者神话褪色，万宁撤离映照外资零售困局",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2025-12-28",
-                "url": "https://36kr.com/p/3615181092914178"
+                "url": "https://www.ftchinese.com/story/001108558"
             },
             {
-                "title": "美对委内瑞拉施压升级：中俄各怀何种利益考量？",
+                "title": "2025年国际时政大事盘点",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-28",
+                "url": "https://www.ftchinese.com/story/001108560"
+            },
+            {
+                "title": "香港靠边站？ 北交所将成为中国IPO新枢纽",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2025-12-28",
+                "url": "https://www.ftchinese.com/story/001108564"
+            },
+            {
+                "title": "中国邀请泰柬外长在云南举行会谈",
                 "source": "NewsAPI / DW (English)",
                 "date": "2025-12-28",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%96%BD%E5%8E%8B%E5%8D%87%E7%BA%A7%E4%B8%AD%E4%BF%84%E5%90%84%E6%80%80%E4%BD%95%E7%A7%8D%E5%88%A9%E7%9B%8A%E8%80%83%E9%87%8F/a-75289718"
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E9%82%80%E8%AF%B7%E6%B3%B0%E6%9F%AC%E5%A4%96%E9%95%BF%E5%9C%A8%E4%BA%91%E5%8D%97%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88/a-75322068"
             },
             {
-                "title": "工会警告：德国企业欠缺未来战略",
-                "source": "NewsAPI / DW (English)",
+                "title": "她看见了2026-2027 最可怕的未来(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2025-12-28",
-                "url": "https://www.dw.com/zh/%E5%B7%A5%E4%BC%9A%E8%AD%A6%E5%91%8A%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%AC%A0%E7%BC%BA%E6%9C%AA%E6%9D%A5%E6%88%98%E7%95%A5/a-75317132"
+                "url": "https://www.secretchina.com/news/gb/2025/12/28/1092667.html"
             },
             {
-                "title": "网约车这一年：司机谋求打破低价 平台押注Robotaxi和出海",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542998.htm"
-            },
-            {
-                "title": "顺丰充值赠送金“陷阱”背后",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1542996.htm"
-            },
-            {
-                "title": "- mfa.gov.cn",
+                "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55LVRtWEVoTzVvdUgtdUZ4Q2pCRWFTUHRfZHd6TDNDcE95RFgwUkpmOVFpcjFDUzgwNm0tX2tJZXYwMHFMajFZczdUNTcxWXMzNXJNVTlkLVgzZWZNWEFkd2NFblRXWGtWcm1lN0tR?oc=5"
+            },
+            {
+                "title": "中柬泰三方抚仙会晤新闻公报（全文） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
             },
             {
                 "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-28",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWEY5OEdVZU5DWUMyZ1BnN0F3ZTNiNVM2cnRGZzhQWDE2NFFENzNHUm5nQjFPNjY3c0NsR3VBQXBLbFFycjdmLTNfSFZEN1ZEU2pQOXZTWmFBeHZucDM2UWVqUGVsTnpaNGYtbXN3?oc=5"
-            },
-            {
-                "title": "王毅会见泰国外长西哈萨 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-28",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2ZkI5MHBmTHZzNWJiUWNGZy1nX1hzdi1McmJYcUE0cXV1QWMtb1lPT1pUbkNjZl91WHVWOGpYMnJmYVhOZjFlU3ZabGFoSHNjRzJxZVhpT01NOE82aUxsN1RjQ3dXOFhJR3llNVBB?oc=5"
             },
             {
                 "title": "福建海警位马祖岛、乌丘屿附近海域开展综合执法巡查 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-29T12:39:26.234476+00:00"
+    "last_updated": "2025-12-29T18:27:22.925890+00:00"
 }
