@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "年关近爆讨薪潮 多家国企欠薪 山东环卫罢工讨薪(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-29",
+                "url": "https://www.secretchina.com/news/gb/2025/12/30/1092726.html"
+            },
+            {
                 "title": "六部门联合印发现代物流标准化重点工作计划",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-29",
@@ -34,15 +40,27 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-29",
                 "url": "https://www.ithome.com/0/908/910.htm"
-            },
-            {
-                "title": "京东自营外卖店七鲜小厨宣布走向全国：明年完成国内所有一二线城市布局",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543142.htm"
             }
         ],
         "mil": [
+            {
+                "title": "大规模围台军演：向实战准备靠近？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2025-12-29",
+                "url": "https://www.dw.com/zh/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9B%B4%E5%8F%B0%E5%86%9B%E6%BC%94%E5%90%91%E5%AE%9E%E6%88%98%E5%87%86%E5%A4%87%E9%9D%A0%E8%BF%91/a-75333327"
+            },
+            {
+                "title": "从台海到网络空间：美国面对的“低烈度多战线压力”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-29",
+                "url": "https://www.secretchina.com/news/gb/2025/12/29/1092716.html"
+            },
+            {
+                "title": "闪极多款配件预告：300W 超级移动电源、170W 移动超充站等",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-29",
+                "url": "https://www.ithome.com/0/908/999.htm"
+            },
             {
                 "title": "从垄断全球到跌落神坛 日本动力电池标杆全线败退",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,34 +74,16 @@
                 "url": "https://www.secretchina.com/news/gb/2025/12/29/1092687.html"
             },
             {
-                "title": "中科时代获3亿元B2轮融资，创2025年工业计算赛道最大单笔融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
-                "url": "https://36kr.com/p/3615189786641409"
-            },
-            {
-                "title": "中国货轮疑似进行了武器化改造 真实照片背后迷雾重重",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543058.htm"
-            },
-            {
-                "title": "刀片式斩首将在北京重演？他点名习近平(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-28",
-                "url": "https://www.secretchina.com/news/gb/2025/12/29/1092679.html"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
             },
             {
                 "title": "中柬泰三方抚仙会晤新闻公报（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
-            },
-            {
-                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
             },
             {
                 "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "中共“欲突破第一岛链”台湾命运与美日交织(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-29",
+                "url": "https://www.secretchina.com/news/gb/2025/12/29/1092715.html"
+            },
+            {
+                "title": "售价 650 万元，亿航智能 VT35 无人驾驶载人 eVTOL 完成首次公开飞行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-29",
+                "url": "https://www.ithome.com/0/909/003.htm"
+            },
+            {
                 "title": "红杉中国宣布控股 Golden Goose，意大利“小脏鞋”要开启新阶段了",
                 "source": "NewsAPI / Toodaylab.com",
                 "date": "2025-12-29",
@@ -130,28 +142,16 @@
                 "url": "https://36kr.com/p/3616514213397760"
             },
             {
-                "title": "想买 2.5 万欧元“性价比小车”还得等，大众 ID.Polo 入门版并非首发车型",
-                "source": "NewsAPI / Ithome.com",
+                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
-                "url": "https://www.ithome.com/0/908/967.htm"
-            },
-            {
-                "title": "香港修订最强禁烟令：针对吸烟罪行罚款3000港元 还有可能坐牢",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543178.htm"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
             },
             {
                 "title": "中柬泰三方抚仙会晤新闻公报（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
-            },
-            {
-                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
             },
             {
                 "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-30T12:38:59.071849+00:00"
+    "last_updated": "2025-12-30T18:27:51.482783+00:00"
 }
