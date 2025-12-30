@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "14亿消费者神话褪色，万宁撤离映照外资零售困局",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-28",
-                "url": "https://www.ftchinese.com/story/001108558"
+                "title": "中科时代获3亿元B2轮融资，创2025年工业计算赛道最大单笔融资｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-29",
+                "url": "https://36kr.com/p/3615189786641409"
             },
             {
-                "title": "2025年国际时政大事盘点",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-28",
-                "url": "https://www.ftchinese.com/story/001108560"
-            },
-            {
-                "title": "香港靠边站？ 北交所将成为中国IPO新枢纽",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-28",
-                "url": "https://www.ftchinese.com/story/001108564"
-            },
-            {
-                "title": "内存飙涨PC行业已接近绝望 产品推迟几成是唯一选择",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2025-12-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543050.htm"
-            },
-            {
-                "title": "一加 Turbo 6 命名公布：165 满帧游戏体验，真机同步亮相",
+                "title": "一加 Turbo 6/6V 系列手机官宣 1 月 8 日发布，宣称“续航久到离谱”",
                 "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-29",
+                "url": "https://www.ithome.com/0/908/725.htm"
+            },
+            {
+                "title": "一加 Ace 6T 原神神里绫华定制机补货：赠“周边大礼包”手提箱礼盒，3699 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-29",
+                "url": "https://www.ithome.com/0/908/715.htm"
+            },
+            {
+                "title": "科技昨夜今晨 1229：财政部明确明年继续实施“国补”；广汽自主品牌“三担责”政策发布；2026 春晚分会场宣布...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-29",
+                "url": "https://www.ithome.com/0/908/709.htm"
+            },
+            {
+                "title": "8点1氪丨爱奇艺回应充25年会员退费难；B站2025年度弹幕为“致敬”；官方明确明年继续“国补”",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2025-12-28",
-                "url": "https://www.ithome.com/0/908/675.htm"
+                "url": "https://36kr.com/p/3615851090838529"
             }
         ],
         "mil": [
+            {
+                "title": "中科时代获3亿元B2轮融资，创2025年工业计算赛道最大单笔融资｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-29",
+                "url": "https://36kr.com/p/3615189786641409"
+            },
+            {
+                "title": "中国货轮疑似进行了武器化改造 真实照片背后迷雾重重",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543058.htm"
+            },
+            {
+                "title": "刀片式斩首将在北京重演？他点名习近平(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-28",
+                "url": "https://www.secretchina.com/news/gb/2025/12/29/1092679.html"
+            },
             {
                 "title": "2025年国际时政大事盘点",
                 "source": "NewsAPI / Ftchinese.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2025/12/28/1092673.html"
             },
             {
-                "title": "习近平噩梦 美国掌握了什么让中南海彻夜难眠？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-28",
-                "url": "https://www.secretchina.com/news/gb/2025/12/28/1092661.html"
-            },
-            {
-                "title": "张学良被蒋介石软禁54年 晚年亲述“4件事”(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-28",
-                "url": "https://www.secretchina.com/news/gb/2025/12/28/1074768.html"
-            },
-            {
-                "title": "苹果前全球供应链高管创业，将“十五五”高端碳材料价格打到10万元以内丨36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-28",
-                "url": "https://36kr.com/p/3615082631021825"
-            },
-            {
                 "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWEY5OEdVZU5DWUMyZ1BnN0F3ZTNiNVM2cnRGZzhQWDE2NFFENzNHUm5nQjFPNjY3c0NsR3VBQXBLbFFycjdmLTNfSFZEN1ZEU2pQOXZTWmFBeHZucDM2UWVqUGVsTnpaNGYtbXN3?oc=5"
             },
             {
-                "title": "福建海警位马祖岛、乌丘屿附近海域开展综合执法巡查 - 中国军网",
+                "title": "以历史主动精神持续深化政治整训 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQR1FHc3g5OTJpR3o5UmhtU2ZNUVZmb2hySGVHYms1Qm8tSFJkMXlOcHBHMTd2U3dVbThZRDYyU3NsY0FpcWg2TEJFeDN4b2tZNlE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDFmeWRsdzE2YVIxQ0I5TWZRZTB1Vi1GTmUwYVNOUWdJZjk4d0tvRVQzcnhfVzdKTG5sUjRid3lIbFoyY2lWXzdNUkhlb3hqZ0NGMjNoWFZrTXllQUNKR052Z1dzeE05Z0tIcFJhcVk0dThqbmxsX3hyOGNNQ0FMeG1pTWx3UVdJMlpndm1sMjl4bU45M09FNGxkOExwUFh6V2hUdlNBcjV6Y2FjYXpLZWR3?oc=5"
             },
             {
-                "title": "我军军事训练考核评估加速向标准化实战化迈进 - 中国军网",
+                "title": "锤炼严实作风，在抓常抓细抓长中确保作风过硬、立好样子 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bHVmUlZBN1pmbnQ1Wkw2T0szN1YtNkh6MjQ1Z2twU2piZEcwYV9FNkpTZUV1a3o1TE40a05wZ2ZXbGNndDJfeVV4TUYzUi0ya3c?oc=5"
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDVXREpzM3FybmFXcWxveGJVdEZwQTFYbEh3RzlHZnY2bGVLMDJ4dGRFS1o1aUNUNF9GZjM4TGsyaVVVV0liLWdiOVFqWUItYVE?oc=5"
             },
             {
-                "title": "空军多支部队加快数智转型建设催生训练新动能 - 中国军网",
+                "title": "钧正平：天价军购买不来“台独”的“保命符” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJdmdKdktsd2ViSFFaLW5RNFRTWnZJa2xPQmJUN08zcFNoYVVZRFltOFVmdHVuZ1JsaTNNVDhlVlpUNklhbUlhQlZJckR3M2pyQkE?oc=5"
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tT0V6MGwzOGZKMU1mb21abXU4RVl0ejBpdG1Ma29Hd2stcWQxY0hpcW5PUW5LYVpOSmpRSXdwRlBlZ0FCRHpnckUwQm10ODFfMWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "14亿消费者神话褪色，万宁撤离映照外资零售困局",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-28",
-                "url": "https://www.ftchinese.com/story/001108558"
+                "title": "中国軍　台湾周辺で軍事演習行うと発表 「台湾独立勢力と外部干渉勢力への厳重な警告」　頼清徳政権と高市総理「台湾有事」発言をけん制か",
+                "source": "NewsAPI / Livedoor.jp",
+                "date": "2025-12-29",
+                "url": "http://blog.livedoor.jp/nanjstu/archives/62893554.html"
             },
             {
-                "title": "2025年国际时政大事盘点",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-28",
-                "url": "https://www.ftchinese.com/story/001108560"
+                "title": "中科时代获3亿元B2轮融资，创2025年工业计算赛道最大单笔融资｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2025-12-29",
+                "url": "https://36kr.com/p/3615189786641409"
             },
             {
-                "title": "香港靠边站？ 北交所将成为中国IPO新枢纽",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-28",
-                "url": "https://www.ftchinese.com/story/001108564"
-            },
-            {
-                "title": "中国邀请泰柬外长在云南举行会谈",
+                "title": "獨家專訪關恆：在中國沒有免於恐懼的自由",
                 "source": "NewsAPI / DW (English)",
-                "date": "2025-12-28",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E9%82%80%E8%AF%B7%E6%B3%B0%E6%9F%AC%E5%A4%96%E9%95%BF%E5%9C%A8%E4%BA%91%E5%8D%97%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88/a-75322068"
+                "date": "2025-12-29",
+                "url": "https://www.dw.com/zh/%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%E5%85%B3%E6%81%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%85%8D%E4%BA%8E%E6%81%90%E6%83%A7%E7%9A%84%E8%87%AA%E7%94%B1/a-75320922"
             },
             {
-                "title": "她看见了2026-2027 最可怕的未来(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-28",
-                "url": "https://www.secretchina.com/news/gb/2025/12/28/1092667.html"
+                "title": "现代 Ioniq 3 细节曝光：搭载 400V 平台，最大续航 644km",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-29",
+                "url": "https://www.ithome.com/0/908/711.htm"
+            },
+            {
+                "title": "科技昨夜今晨 1229：财政部明确明年继续实施“国补”；广汽自主品牌“三担责”政策发布；2026 春晚分会场宣布...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2025-12-29",
+                "url": "https://www.ithome.com/0/908/709.htm"
             },
             {
                 "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWEY5OEdVZU5DWUMyZ1BnN0F3ZTNiNVM2cnRGZzhQWDE2NFFENzNHUm5nQjFPNjY3c0NsR3VBQXBLbFFycjdmLTNfSFZEN1ZEU2pQOXZTWmFBeHZucDM2UWVqUGVsTnpaNGYtbXN3?oc=5"
             },
             {
-                "title": "福建海警位马祖岛、乌丘屿附近海域开展综合执法巡查 - 中国军网",
+                "title": "以历史主动精神持续深化政治整训 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQR1FHc3g5OTJpR3o5UmhtU2ZNUVZmb2hySGVHYms1Qm8tSFJkMXlOcHBHMTd2U3dVbThZRDYyU3NsY0FpcWg2TEJFeDN4b2tZNlE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDFmeWRsdzE2YVIxQ0I5TWZRZTB1Vi1GTmUwYVNOUWdJZjk4d0tvRVQzcnhfVzdKTG5sUjRid3lIbFoyY2lWXzdNUkhlb3hqZ0NGMjNoWFZrTXllQUNKR052Z1dzeE05Z0tIcFJhcVk0dThqbmxsX3hyOGNNQ0FMeG1pTWx3UVdJMlpndm1sMjl4bU45M09FNGxkOExwUFh6V2hUdlNBcjV6Y2FjYXpLZWR3?oc=5"
             },
             {
-                "title": "我军军事训练考核评估加速向标准化实战化迈进 - 中国军网",
+                "title": "锤炼严实作风，在抓常抓细抓长中确保作风过硬、立好样子 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bHVmUlZBN1pmbnQ1Wkw2T0szN1YtNkh6MjQ1Z2twU2piZEcwYV9FNkpTZUV1a3o1TE40a05wZ2ZXbGNndDJfeVV4TUYzUi0ya3c?oc=5"
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDVXREpzM3FybmFXcWxveGJVdEZwQTFYbEh3RzlHZnY2bGVLMDJ4dGRFS1o1aUNUNF9GZjM4TGsyaVVVV0liLWdiOVFqWUItYVE?oc=5"
             },
             {
-                "title": "空军多支部队加快数智转型建设催生训练新动能 - 中国军网",
+                "title": "钧正平：天价军购买不来“台独”的“保命符” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJdmdKdktsd2ViSFFaLW5RNFRTWnZJa2xPQmJUN08zcFNoYVVZRFltOFVmdHVuZ1JsaTNNVDhlVlpUNklhbUlhQlZJckR3M2pyQkE?oc=5"
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tT0V6MGwzOGZKMU1mb21abXU4RVl0ejBpdG1Ma29Hd2stcWQxY0hpcW5PUW5LYVpOSmpRSXdwRlBlZ0FCRHpnckUwQm10ODFfMWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-29T18:27:22.925890+00:00"
+    "last_updated": "2025-12-30T01:24:13.556241+00:00"
 }
