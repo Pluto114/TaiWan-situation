@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中科时代获3亿元B2轮融资，创2025年工业计算赛道最大单笔融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "冲突下的以色列科技产业：占GDP 20%、跨国公司与人才外流",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-29",
-                "url": "https://36kr.com/p/3615189786641409"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543092.htm"
             },
             {
-                "title": "一加 Turbo 6/6V 系列手机官宣 1 月 8 日发布，宣称“续航久到离谱”",
+                "title": "纽约时报：从AI到芯片，特朗普对美科技巨头予取予求引发争议",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543090.htm"
+            },
+            {
+                "title": "中国国航第 9 架 C919 国产大飞机入列",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-29",
-                "url": "https://www.ithome.com/0/908/725.htm"
+                "url": "https://www.ithome.com/0/908/847.htm"
             },
             {
-                "title": "一加 Ace 6T 原神神里绫华定制机补货：赠“周边大礼包”手提箱礼盒，3699 元",
+                "title": "英伟达 200 亿美元“收购”Groq，员工人均套现 500 万美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-29",
-                "url": "https://www.ithome.com/0/908/715.htm"
+                "url": "https://www.ithome.com/0/908/840.htm"
             },
             {
-                "title": "科技昨夜今晨 1229：财政部明确明年继续实施“国补”；广汽自主品牌“三担责”政策发布；2026 春晚分会场宣布...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "从垄断全球到跌落神坛 日本动力电池标杆全线败退",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-29",
-                "url": "https://www.ithome.com/0/908/709.htm"
-            },
-            {
-                "title": "8点1氪丨爱奇艺回应充25年会员退费难；B站2025年度弹幕为“致敬”；官方明确明年继续“国补”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-28",
-                "url": "https://36kr.com/p/3615851090838529"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543082.htm"
             }
         ],
         "mil": [
+            {
+                "title": "从垄断全球到跌落神坛 日本动力电池标杆全线败退",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543082.htm"
+            },
+            {
+                "title": "共军突袭宣布环台军演 台湾全方位部署应对(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-29",
+                "url": "https://www.secretchina.com/news/gb/2025/12/29/1092687.html"
+            },
             {
                 "title": "中科时代获3亿元B2轮融资，创2025年工业计算赛道最大单笔融资｜硬氪首发",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2025/12/29/1092679.html"
             },
             {
-                "title": "2025年国际时政大事盘点",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2025-12-28",
-                "url": "https://www.ftchinese.com/story/001108560"
-            },
-            {
-                "title": "家贼几十年偷盗南京博物院文物 日军占领北京八年未抢劫国宝(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-28",
-                "url": "https://www.secretchina.com/news/gb/2025/12/28/1092673.html"
-            },
-            {
                 "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-12-29",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
             },
             {
-                "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆 - mfa.gov.cn",
+                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-28",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWEY5OEdVZU5DWUMyZ1BnN0F3ZTNiNVM2cnRGZzhQWDE2NFFENzNHUm5nQjFPNjY3c0NsR3VBQXBLbFFycjdmLTNfSFZEN1ZEU2pQOXZTWmFBeHZucDM2UWVqUGVsTnpaNGYtbXN3?oc=5"
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
             },
             {
                 "title": "以历史主动精神持续深化政治整训 - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDVXREpzM3FybmFXcWxveGJVdEZwQTFYbEh3RzlHZnY2bGVLMDJ4dGRFS1o1aUNUNF9GZjM4TGsyaVVVV0liLWdiOVFqWUItYVE?oc=5"
             },
             {
-                "title": "钧正平：天价军购买不来“台独”的“保命符” - 中国军网",
+                "title": "国家主席习近平将发表二〇二六年新年贺词 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tT0V6MGwzOGZKMU1mb21abXU4RVl0ejBpdG1Ma29Hd2stcWQxY0hpcW5PUW5LYVpOSmpRSXdwRlBlZ0FCRHpnckUwQm10ODFfMWc?oc=5"
+                "date": "2025-12-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzNk9rM0d5d01FdDFUbzVXT1BuNXk4TjVtLVdfT2hDblRmSW02MmNmWTNJSmlIcklQVFE3dXZmSm5zZ1huZVdsdVY5YjZCTUtBUWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "中国軍　台湾周辺で軍事演習行うと発表 「台湾独立勢力と外部干渉勢力への厳重な警告」　頼清徳政権と高市総理「台湾有事」発言をけん制か",
-                "source": "NewsAPI / Livedoor.jp",
+                "title": "麦当劳中国举行的第二届粉丝大会，带来了 2026 年的多个“超值”预告",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2025-12-29",
-                "url": "http://blog.livedoor.jp/nanjstu/archives/62893554.html"
+                "url": "https://www.toodaylab.com/83859"
             },
             {
-                "title": "中科时代获3亿元B2轮融资，创2025年工业计算赛道最大单笔融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "冲突下的以色列科技产业：占GDP 20%、跨国公司与人才外流",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-29",
-                "url": "https://36kr.com/p/3615189786641409"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543092.htm"
             },
             {
-                "title": "獨家專訪關恆：在中國沒有免於恐懼的自由",
-                "source": "NewsAPI / DW (English)",
+                "title": "纽约时报：从AI到芯片，特朗普对美科技巨头予取予求引发争议",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-29",
-                "url": "https://www.dw.com/zh/%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%E5%85%B3%E6%81%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E5%85%8D%E4%BA%8E%E6%81%90%E6%83%A7%E7%9A%84%E8%87%AA%E7%94%B1/a-75320922"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543090.htm"
             },
             {
-                "title": "现代 Ioniq 3 细节曝光：搭载 400V 平台，最大续航 644km",
+                "title": "英伟达 200 亿美元“收购”Groq，员工人均套现 500 万美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-29",
-                "url": "https://www.ithome.com/0/908/711.htm"
+                "url": "https://www.ithome.com/0/908/840.htm"
             },
             {
-                "title": "科技昨夜今晨 1229：财政部明确明年继续实施“国补”；广汽自主品牌“三担责”政策发布；2026 春晚分会场宣布...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "从垄断全球到跌落神坛 日本动力电池标杆全线败退",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2025-12-29",
-                "url": "https://www.ithome.com/0/908/709.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543082.htm"
             },
             {
                 "title": "中柬泰外长举行三方会晤 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
             },
             {
-                "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆 - mfa.gov.cn",
+                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-28",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWEY5OEdVZU5DWUMyZ1BnN0F3ZTNiNVM2cnRGZzhQWDE2NFFENzNHUm5nQjFPNjY3c0NsR3VBQXBLbFFycjdmLTNfSFZEN1ZEU2pQOXZTWmFBeHZucDM2UWVqUGVsTnpaNGYtbXN3?oc=5"
+                "date": "2025-12-29",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
             },
             {
                 "title": "以历史主动精神持续深化政治整训 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDVXREpzM3FybmFXcWxveGJVdEZwQTFYbEh3RzlHZnY2bGVLMDJ4dGRFS1o1aUNUNF9GZjM4TGsyaVVVV0liLWdiOVFqWUItYVE?oc=5"
             },
             {
-                "title": "钧正平：天价军购买不来“台独”的“保命符” - 中国军网",
+                "title": "国家主席习近平将发表二〇二六年新年贺词 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tT0V6MGwzOGZKMU1mb21abXU4RVl0ejBpdG1Ma29Hd2stcWQxY0hpcW5PUW5LYVpOSmpRSXdwRlBlZ0FCRHpnckUwQm10ODFfMWc?oc=5"
+                "date": "2025-12-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzNk9rM0d5d01FdDFUbzVXT1BuNXk4TjVtLVdfT2hDblRmSW02MmNmWTNJSmlIcklQVFE3dXZmSm5zZ1huZVdsdVY5YjZCTUtBUWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2025-12-30T01:24:13.556241+00:00"
+    "last_updated": "2025-12-30T06:29:18.216768+00:00"
 }
