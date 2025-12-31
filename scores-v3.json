@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Cybertruck 坑惨供应商，韩电池材料公司 L&F 与特斯拉的合同额暴降 99%",
+                "title": "Manus的十余天闪电抉择：创始人成Meta副总裁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543260.htm"
+            },
+            {
+                "title": "那个教科书级的出海标杆 如今自己先倒下了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543242.htm"
+            },
+            {
+                "title": "Manus卖给了Meta 年初火爆年底数十亿美元被收购",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543234.htm"
+            },
+            {
+                "title": "软银斥资40亿美元收购DigitalBridge 加速布局人工智能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543214.htm"
+            },
+            {
+                "title": "显卡也能“盖楼”？英伟达 Feynman GPU 前瞻，效仿 AMD X3D 方式堆叠 Groq 的 LPU 单元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-30",
-                "url": "https://www.ithome.com/0/909/046.htm"
-            },
-            {
-                "title": "中金：中国证券行业长期投资配置价值料将进一步凸显",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-30",
-                "url": "https://36kr.com/newsflashes/3617294385562885"
-            },
-            {
-                "title": "农民无产化对中共统治构成的风险(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-30",
-                "url": "https://www.secretchina.com/news/gb/2025/12/30/1092739.html"
-            },
-            {
-                "title": "8点1氪丨Meta宣布收购Manus；微信回应安装包10多年膨胀几百倍；上海禁毒办回应霸王茶姬咖啡因争议",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-30",
-                "url": "https://36kr.com/p/3617281583186953"
-            },
-            {
-                "title": "科技昨夜今晨 1230：微信回应关于占存储空间的误解；央行将出台数字人民币相关行动方案；华为非凡大师品牌主题曲上线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2025-12-30",
-                "url": "https://www.ithome.com/0/909/029.htm"
+                "url": "https://www.ithome.com/0/909/137.htm"
             }
         ],
         "mil": [
+            {
+                "title": "那个教科书级的出海标杆 如今自己先倒下了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543242.htm"
+            },
+            {
+                "title": "枪声猛烈响起，美国海军：做好战斗准备！(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-30",
+                "url": "https://www.secretchina.com/news/gb/2025/12/30/1092744.html"
+            },
             {
                 "title": "8点1氪丨Meta宣布收购Manus；微信回应安装包10多年膨胀几百倍；上海禁毒办回应霸王茶姬咖啡因争议",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3616436553696514"
             },
             {
-                "title": "北京环台军演不单纯 专家揭背后盘算(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-29",
-                "url": "https://www.secretchina.com/news/gb/2025/12/30/1092735.html"
-            },
-            {
-                "title": "大规模围台军演：向实战准备靠近？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2025-12-29",
-                "url": "https://www.dw.com/zh/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9B%B4%E5%8F%B0%E5%86%9B%E6%BC%94%E5%90%91%E5%AE%9E%E6%88%98%E5%87%86%E5%A4%87%E9%9D%A0%E8%BF%91/a-75333327"
-            },
-            {
                 "title": "领导人活动 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2018-01-11",
                 "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8waGhDWnJTQ3VwbVQ4bDlHSWtmcUV3MlRvSk5HNEVWQnVFbVhLUVpzNDlmQjVuLXJfYW9WRTZmRmpMYW5mTUJkSG1tejlQQk5T?oc=5"
             },
             {
-                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "在历史演进重大关头开拓中国特色大国外交新境界 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
+                "date": "2025-12-30",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94VWFhTWptR1BwN3BWb21hVi10Q2ZScTFRMHhuTElZR2drS2dFdlpCVGtHYVJzRTJVcVdBQnphUEhkVjMzYnNrdm5ZOFoxUDY1VS1WcFFpV3NfVlJ2ZHhlYWNELWhsY0xaRFlIQVdn?oc=5"
             },
             {
-                "title": "中柬泰三方抚仙会晤新闻公报（全文） - mfa.gov.cn",
+                "title": "2025年12月30日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
+                "date": "2025-12-30",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SjFJZE5MU0Rod0JvUHptVEYycHNZMHJKYzYwcnVveVFqN1BnSnA5cmRyTVA0V2NtYm4yRUlEUjJjNF84X1lvM2wzejE4T0hxdGp6SjBEVWdKZFVyRElPaHdzUUNFRlBjLXZsMkktSU94Nm9DVmc?oc=5"
             },
             {
                 "title": "以历史主动精神持续深化政治整训 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "调查显示 TikTok 超越 YouTube 和 Instagram，成美国年轻人获取新闻的首选平台",
+                "title": "Manus的十余天闪电抉择：创始人成Meta副总裁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543260.htm"
+            },
+            {
+                "title": "那个教科书级的出海标杆 如今自己先倒下了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543242.htm"
+            },
+            {
+                "title": "Manus卖给了Meta 年初火爆年底数十亿美元被收购",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2025-12-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543234.htm"
+            },
+            {
+                "title": "世界重塑 美中俄巨变带来的灵性觉醒(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2025-12-30",
+                "url": "https://www.secretchina.com/news/gb/2025/12/30/1092738.html"
+            },
+            {
+                "title": "重磅收购！中芯国际：拟 406 亿元购买中芯北方 49% 股权",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2025-12-30",
-                "url": "https://www.ithome.com/0/909/036.htm"
-            },
-            {
-                "title": "今日消费资讯：百年灵 x 铁臂阿童木联名限量腕表发布、文淇出任 CHAUMET 品牌大使",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2025-12-30",
-                "url": "https://www.toodaylab.com/83861"
-            },
-            {
-                "title": "8点1氪丨Meta宣布收购Manus；微信回应安装包10多年膨胀几百倍；上海禁毒办回应霸王茶姬咖啡因争议",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-30",
-                "url": "https://36kr.com/p/3617281583186953"
-            },
-            {
-                "title": "前字节技术负责人创业，要做企业级Coding Agent平台，已获数千万元融资 | 36氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2025-12-30",
-                "url": "https://36kr.com/p/3616436553696514"
-            },
-            {
-                "title": "北京环台军演不单纯 专家揭背后盘算(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-29",
-                "url": "https://www.secretchina.com/news/gb/2025/12/30/1092735.html"
+                "url": "https://www.ithome.com/0/909/073.htm"
             },
             {
                 "title": "领导人活动 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8waGhDWnJTQ3VwbVQ4bDlHSWtmcUV3MlRvSk5HNEVWQnVFbVhLUVpzNDlmQjVuLXJfYW9WRTZmRmpMYW5mTUJkSG1tejlQQk5T?oc=5"
             },
             {
-                "title": "2025年12月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "在历史演进重大关头开拓中国特色大国外交新境界 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90WEZ4X05pUEpTdkxma0xwVXhLOUJDR0I5azdSbTV1MFRCOFI0cmJ2SHVER1poUXRpaGgtRmpPTS1yZFpPanBOcWlobS14ZUZyS2x2ZjkzQnJlSEVoZWU4S3FoVFp5clNWQ0lIMGpIWFdfN3FkX0E?oc=5"
+                "date": "2025-12-30",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94VWFhTWptR1BwN3BWb21hVi10Q2ZScTFRMHhuTElZR2drS2dFdlpCVGtHYVJzRTJVcVdBQnphUEhkVjMzYnNrdm5ZOFoxUDY1VS1WcFFpV3NfVlJ2ZHhlYWNELWhsY0xaRFlIQVdn?oc=5"
             },
             {
-                "title": "中柬泰三方抚仙会晤新闻公报（全文） - mfa.gov.cn",
+                "title": "2025年12月30日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-29",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdk40SllHQjB2ZUpCdHZKYndFY3ktdmxXbWxNWUpoTEJGcmdCdFMxdGd4Q2JyYWtwRno4UDlDSk9MaGRNWUJ0elY4b0NaZkZmb0daWU9xTUI4dXI0eC1QbDZSVmR4RHlCRDRpak5n?oc=5"
+                "date": "2025-12-30",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95SjFJZE5MU0Rod0JvUHptVEYycHNZMHJKYzYwcnVveVFqN1BnSnA5cmRyTVA0V2NtYm4yRUlEUjJjNF84X1lvM2wzejE4T0hxdGp6SjBEVWdKZFVyRElPaHdzUUNFRlBjLXZsMkktSU94Nm9DVmc?oc=5"
             },
             {
                 "title": "以历史主动精神持续深化政治整训 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2025-12-31T01:25:21.065380+00:00"
+    "last_updated": "2025-12-31T06:29:44.275796+00:00"
 }
