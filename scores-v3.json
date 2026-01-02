@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "2026年1月1日A4白纸自由宣言(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-01",
+                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092872.html"
+            },
+            {
+                "title": "36氪首发 | 消费科技品牌「xTool」递表港交所，腾讯领投 2 亿美元 Pre-IPO 融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-01",
+                "url": "https://36kr.com/p/3620865484637190"
+            },
+            {
                 "title": "一切为了销量、利润，消息称三星决定不提高 Galaxy S26 系列机型售价",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-01",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-01-01",
                 "url": "https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E4%BB%8E%E5%A2%9E%E9%95%BF%E8%B5%B0%E5%90%91%E7%BB%93%E6%9E%84%E6%80%A7%E7%94%9F%E5%AD%98%E5%AF%B92025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%80%BB%E7%BB%93/a-75359590"
-            },
-            {
-                "title": "AI 浪潮推高存储芯片成本，分析师称未来一年消费电子或涨价两成",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-01",
-                "url": "https://www.ithome.com/0/909/822.htm"
-            },
-            {
-                "title": "AMD锐龙7 9800X3D成功超频7335MHz 创下新世界纪录",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543576.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中国一汽 2025 年整车销量超 330 万辆，自主新能源突破 36.6 万辆同比增长 71.4%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-01",
+                "url": "https://www.ithome.com/0/909/859.htm"
+            },
             {
                 "title": "客座评论：从增长走向结构性生存：对2025年中国的总结",
                 "source": "NewsAPI / DW (English)",
@@ -68,16 +74,10 @@
                 "url": "https://36kr.com/p/3619579802485766"
             },
             {
-                "title": "共军环台军演 美法等多国议员声援挺台(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2025-12-31",
-                "url": "https://www.secretchina.com/news/gb/2025/12/31/1092827.html"
-            },
-            {
-                "title": "王毅同韩国外长赵显通电话 - mfa.gov.cn",
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-31",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXFLLWt5SlFFckQ3TThta3htd1dvMldnUklLdWV4aVdSTS1aNWFUenhnRFFva2p0aF9HLTFPQWJ4S2RSQjBHTE1sQXJHX2I4a0x6eWsxMGJsMWs1REdWZnBjT2t5UFdBSlc0VFU0emVKZndaM2VQREo1a2xDbmNiQlJLQ0hqVThWRkR3cXVR?oc=5"
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "习近平向瑞士新任联邦主席帕姆兰致贺电 - mfa.gov.cn",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHVoQzVOOGdfeFhwVjJESjh3V3E2YU9CNVZsYWd2VXZnQU1TakdyMWd1NjczbWtTWXlKQ01HWEhwakx4SFljZXh1UEJxMDJLN1luMWJuU2pLNW1tY3BreUdOekNQYWlNNV9VdEd0M0tPOU9tUmdCUVFMRWMxekE0S3J5eE1yMWNxeVZqS2JPR2E0Mk42WUxBR09YRExydw?oc=5"
             },
             {
-                "title": "产业助农带来幸福滋味 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-31",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGlXNW5ZRGxFMzZBbVRyRHFfWXU3MG1qcVdRY3lzMUd3cXVybjNBY1FyalJEaFktY2xvN2l0QVRyY0hubnhaVnRaQ2VReXk2Rl9yM3d1VHUtNFU0eno4YUNlLVhOdWVDcUlxUldZNlFVZmk3NTl0eTlObGhtWE9KTUdCRDNWcTFlVGhNWFFKTm9ZU21ib29SWDNkakNhZDZwVjFPY1VzVUpjUG8tdjkyUmZn?oc=5"
-            },
-            {
                 "title": "学习好贯彻好党的二十届四中全会精神 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-01",
@@ -108,9 +102,21 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbFRoNnhBdHlTbDRhU21hejJlU0RHU19vSXRQendERHJpRTdHT2VOOXg1aW5rTGZrVVpfWjZuX201LWt5MDNvOXlyUkg4VW8zM0E?oc=5"
+            },
+            {
+                "title": "此行间·开局之年怎么干？习主席的新年贺词这样展望2026年 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM2xOVEFTdW5VWHFwWm5ZQUZGekF2ME1rMzBrN1NuS2ozMUcyTm9oTUdtUTBiX2VpcEh5emdEQ05vMktHTm45Nkg4b0J3eUpDbHc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "36氪首发 | 消费科技品牌「xTool」递表港交所，腾讯领投 2 亿美元 Pre-IPO 融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-01",
+                "url": "https://36kr.com/p/3620865484637190"
+            },
             {
                 "title": "客座评论：从增长走向结构性生存：对2025年中国的总结",
                 "source": "NewsAPI / DW (English)",
@@ -136,16 +142,10 @@
                 "url": "https://www.ithome.com/0/909/834.htm"
             },
             {
-                "title": "AI 浪潮推高存储芯片成本，分析师称未来一年消费电子或涨价两成",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-01",
-                "url": "https://www.ithome.com/0/909/822.htm"
-            },
-            {
-                "title": "王毅同韩国外长赵显通电话 - mfa.gov.cn",
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-12-31",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXFLLWt5SlFFckQ3TThta3htd1dvMldnUklLdWV4aVdSTS1aNWFUenhnRFFva2p0aF9HLTFPQWJ4S2RSQjBHTE1sQXJHX2I4a0x6eWsxMGJsMWs1REdWZnBjT2t5UFdBSlc0VFU0emVKZndaM2VQREo1a2xDbmNiQlJLQ0hqVThWRkR3cXVR?oc=5"
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "习近平向瑞士新任联邦主席帕姆兰致贺电 - mfa.gov.cn",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHVoQzVOOGdfeFhwVjJESjh3V3E2YU9CNVZsYWd2VXZnQU1TakdyMWd1NjczbWtTWXlKQ01HWEhwakx4SFljZXh1UEJxMDJLN1luMWJuU2pLNW1tY3BreUdOekNQYWlNNV9VdEd0M0tPOU9tUmdCUVFMRWMxekE0S3J5eE1yMWNxeVZqS2JPR2E0Mk42WUxBR09YRExydw?oc=5"
             },
             {
-                "title": "产业助农带来幸福滋味 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2025-12-31",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGlXNW5ZRGxFMzZBbVRyRHFfWXU3MG1qcVdRY3lzMUd3cXVybjNBY1FyalJEaFktY2xvN2l0QVRyY0hubnhaVnRaQ2VReXk2Rl9yM3d1VHUtNFU0eno4YUNlLVhOdWVDcUlxUldZNlFVZmk3NTl0eTlObGhtWE9KTUdCRDNWcTFlVGhNWFFKTm9ZU21ib29SWDNkakNhZDZwVjFPY1VzVUpjUG8tdjkyUmZn?oc=5"
-            },
-            {
                 "title": "学习好贯彻好党的二十届四中全会精神 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-01",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbFRoNnhBdHlTbDRhU21hejJlU0RHU19vSXRQendERHJpRTdHT2VOOXg1aW5rTGZrVVpfWjZuX201LWt5MDNvOXlyUkg4VW8zM0E?oc=5"
+            },
+            {
+                "title": "此行间·开局之年怎么干？习主席的新年贺词这样展望2026年 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM2xOVEFTdW5VWHFwWm5ZQUZGekF2ME1rMzBrN1NuS2ozMUcyTm9oTUdtUTBiX2VpcEh5emdEQ05vMktHTm45Nkg4b0J3eUpDbHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-02T12:36:47.531502+00:00"
+    "last_updated": "2026-01-02T18:26:44.753957+00:00"
 }
