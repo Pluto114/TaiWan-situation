@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小鹏汽车：2026 款小鹏 P7+ 和小鹏 G7 超级增程开启新年首次发运",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-02",
-                "url": "https://www.ithome.com/0/909/977.htm"
-            },
-            {
-                "title": "2025 年度央企十大超级工程揭晓：海南 500 千伏主网架工程、新疆乌尉高速公路等",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-02",
-                "url": "https://www.ithome.com/0/909/976.htm"
-            },
-            {
-                "title": "德国工商会：能源转型危及德国工业基础",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-02",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E5%B7%A5%E5%95%86%E4%BC%9A%E8%83%BD%E6%BA%90%E8%BD%AC%E5%9E%8B%E5%8D%B1%E5%8F%8A%E5%BE%B7%E5%9B%BD%E5%B7%A5%E4%B8%9A%E5%9F%BA%E7%A1%80/a-75366941"
-            },
-            {
-                "title": "伊朗示威首传6死！川普警告“美军已蓄势待发”：杀示威者必介入(图)",
+                "title": "涉案近4亿美元 SBA暂停明州6900名借款人资格(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092910.html"
+                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092931.html"
             },
             {
-                "title": "中国东三省经济崩塌 人们看见“那四个字”就烦(图)",
+                "title": "“中国模式”面临破产 “中国人苦日子刚开始”(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092907.html"
+                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092842.html"
+            },
+            {
+                "title": "新论文暗示DeepSeek V4已完成训练",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543716.htm"
+            },
+            {
+                "title": "德国装配、主打隐私：Punkt MC03智能手机今年春季登陆美国市场 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543714.htm"
+            },
+            {
+                "title": "机构预计AI芯片“抢货大战”或推高消费电子价格两成",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543712.htm"
             }
         ],
         "mil": [
+            {
+                "title": "全球新能源汽车新王者诞生 特斯拉黯然让位",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543718.htm"
+            },
             {
                 "title": "中国小伙儿杀进日本千年刀剑产业",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,10 +74,10 @@
                 "url": "https://www.ithome.com/0/909/929.htm"
             },
             {
-                "title": "美国 AI 创业潮怪象，辍学正成为创始人的“荣誉勋章”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-02",
-                "url": "https://www.ithome.com/0/909/892.htm"
+                "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOXQzaDlHOHpPSDNuZDA4U3VDVVMwN0tjMFZZUmkzd1dfZm5DZlRQT0VqV2dpTHBraWJnYVNLS3NYckNTMklWY0VqSUVHenlaLUdzN1hrb0w4cDB5eHpfSWdRbmZWOEdzX3U2NkRyOUZTRFp0REE?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-03",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcEdvY0FkcjV5cV9nOTJDVUNkMDFLeFRsbWJuOFAwYlVYTER1QWZaTUtQUG9FUFNwd1JhSlcxU184cmsxMDdsdFRvbGw5dlgwMXNzUVdySVo4emdHN0pOSU9YcVlMR1hiRTAyeldqU2g3ZHlzVGc?oc=5"
-            },
-            {
-                "title": "爱尔兰总理马丁将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS1tWW04R1QxSEhqcXJSTktXTmhqQ1ducVkxX05kNmlibGNPQmZfNU9LcjlGRWhvbXYxSDRPeXNDbWtqZjZjZHhRdkJCa0F0aGh0SjZzaXhiLTd5blkyMmppbVh3ZDY4cnpCSHo0WWRGQ1h2MWVrcllFb1AxSzBkRUNCWjgtVmxnNEE?oc=5"
             },
             {
                 "title": "学习好贯彻好党的二十届四中全会精神 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
+                "title": "全球新能源汽车新王者诞生 特斯拉黯然让位",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543718.htm"
+            },
+            {
+                "title": "机构预计AI芯片“抢货大战”或推高消费电子价格两成",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543712.htm"
+            },
+            {
+                "title": "乌克兰前线士兵曝照：遭炮弹弹片击穿的 MacBook Air 仍能开机工作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543702.htm"
+            },
+            {
+                "title": "中共回应美国2025《中国军力报告》(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-02",
+                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092918.html"
+            },
+            {
                 "title": "边开车边充电，美国佛罗里达州将启动无线充电高速公路测试",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-02",
                 "url": "https://www.ithome.com/0/909/979.htm"
             },
             {
-                "title": "2025 年度央企十大超级工程揭晓：海南 500 千伏主网架工程、新疆乌尉高速公路等",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-02",
-                "url": "https://www.ithome.com/0/909/976.htm"
-            },
-            {
-                "title": "一骑绝尘：挪威 2025 年电动汽车渗透率达 95.9%，12 月更接近 98%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-02",
-                "url": "https://www.ithome.com/0/909/973.htm"
-            },
-            {
-                "title": "伊朗示威首传6死！川普警告“美军已蓄势待发”：杀示威者必介入(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092910.html"
-            },
-            {
-                "title": "挪威2025年新车销量的96%为电动汽车",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543692.htm"
+                "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOXQzaDlHOHpPSDNuZDA4U3VDVVMwN0tjMFZZUmkzd1dfZm5DZlRQT0VqV2dpTHBraWJnYVNLS3NYckNTMklWY0VqSUVHenlaLUdzN1hrb0w4cDB5eHpfSWdRbmZWOEdzX3U2NkRyOUZTRFp0REE?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-03",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcEdvY0FkcjV5cV9nOTJDVUNkMDFLeFRsbWJuOFAwYlVYTER1QWZaTUtQUG9FUFNwd1JhSlcxU184cmsxMDdsdFRvbGw5dlgwMXNzUVdySVo4emdHN0pOSU9YcVlMR1hiRTAyeldqU2g3ZHlzVGc?oc=5"
-            },
-            {
-                "title": "爱尔兰总理马丁将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS1tWW04R1QxSEhqcXJSTktXTmhqQ1ducVkxX05kNmlibGNPQmZfNU9LcjlGRWhvbXYxSDRPeXNDbWtqZjZjZHhRdkJCa0F0aGh0SjZzaXhiLTd5blkyMmppbVh3ZDY4cnpCSHo0WWRGQ1h2MWVrcllFb1AxSzBkRUNCWjgtVmxnNEE?oc=5"
             },
             {
                 "title": "学习好贯彻好党的二十届四中全会精神 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-03T12:35:21.362376+00:00"
+    "last_updated": "2026-01-03T18:25:02.352174+00:00"
 }
