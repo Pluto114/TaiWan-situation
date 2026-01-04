@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "被“封杀”的 RTX 5090 现身中国 高算力硬件流入渠道仍在运转",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543820.htm"
+            },
+            {
+                "title": "台积电市值1.6万亿美元全球第六 半导体行业仅次于NVIDIA",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543816.htm"
+            },
+            {
+                "title": "一次性信用修复政策落地：多地借款人征信报告 “逾期记录没有了”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543812.htm"
+            },
+            {
+                "title": "特朗普下令“涉中资公司”剥离美企芯片资产",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-03",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%B6%89%E4%B8%AD%E8%B5%84%E5%85%AC%E5%8F%B8%E5%89%A5%E7%A6%BB%E7%BE%8E%E4%BC%81%E8%8A%AF%E7%89%87%E8%B5%84%E4%BA%A7/a-75376916"
+            },
+            {
                 "title": "OpenAI总裁向特朗普捐赠2500万美元 成最大捐款人",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-03",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1543748.htm"
-            },
-            {
-                "title": "OPPO 推出 Reno 15 Pro Max 手机：天玑 8450 芯片、2 亿像素主摄，支持 50W 无线充",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-03",
-                "url": "https://www.ithome.com/0/910/046.htm"
-            },
-            {
-                "title": "日本三大经济团体推迟访华",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-03",
-                "url": "https://36kr.com/newsflashes/3623076669359113"
-            },
-            {
-                "title": "曝苹果平价版 MacBook 搭载 12.9 英寸屏幕，价格有望定在 599-899 美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-03",
-                "url": "https://www.ithome.com/0/910/012.htm"
-            },
-            {
-                "title": "川普减税新政2026年显效 美国家庭税后收入有望明显增加(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/03/1092950.html"
             }
         ],
         "mil": [
+            {
+                "title": "美国对委内瑞拉行动全梳理：从反毒军事集结到马杜罗被捕(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-03",
+                "url": "https://www.secretchina.com/news/gb/2026/01/03/1092979.html"
+            },
+            {
+                "title": "小米雷军再谈去纽北赛道：和比亚迪等同行共同努力，让全世界看到中国创新的力量",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-03",
+                "url": "https://www.ithome.com/0/910/120.htm"
+            },
             {
                 "title": "长平观察：中共攻打台湾，会再次出现“抗命将军”吗？",
                 "source": "NewsAPI / DW (English)",
@@ -62,19 +74,7 @@
                 "url": "https://www.secretchina.com/news/gb/2026/01/03/1092943.html"
             },
             {
-                "title": "全球新能源汽车新王者诞生 特斯拉黯然让位",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543718.htm"
-            },
-            {
-                "title": "中国小伙儿杀进日本千年刀剑产业",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543668.htm"
-            },
-            {
-                "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "外交部网站 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-03",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOXQzaDlHOHpPSDNuZDA4U3VDVVMwN0tjMFZZUmkzd1dfZm5DZlRQT0VqV2dpTHBraWJnYVNLS3NYckNTMklWY0VqSUVHenlaLUdzN1hrb0w4cDB5eHpfSWdRbmZWOEdzX3U2NkRyOUZTRFp0REE?oc=5"
@@ -104,13 +104,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3anlNX1FlUzM5aGRia3pXNHFoSnVhVzRCZjB4MFhsamI0TXJQN0tLRFh0WDk3Q2E3MWIydzdsajVpdkxVanNlc1ZveUg0U2ZScXc?oc=5"
             },
             {
-                "title": "从蓝图规划加速走向演训一线 我军“智慧联勤”建设迈出坚实步伐 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUEVwREdHYTRZZjlXWlFNWmtXTGxkbEtrU3c5a1ZuVWYxWHE4N1pVamRyNlJpdnlrQjhOTkJORHpHaXhidjhhN1Z5S3hlMHdnQnc?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "美国对委内瑞拉行动全梳理：从反毒军事集结到马杜罗被捕(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-03",
+                "url": "https://www.secretchina.com/news/gb/2026/01/03/1092979.html"
+            },
+            {
+                "title": "一次性信用修复政策落地：多地借款人征信报告 “逾期记录没有了”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543812.htm"
+            },
+            {
+                "title": "2026开年震撼 德国中领馆亮巨型抗议投影(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-03",
+                "url": "https://www.secretchina.com/news/gb/2026/01/03/1092972.html"
+            },
+            {
+                "title": "盛雪：从中亚新格局到台海定结局（一）(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-03",
+                "url": "https://www.secretchina.com/news/gb/2026/01/03/1092933.html"
+            },
             {
                 "title": "特朗普减刑助比特币大盗提前出狱 称将投身网络安全事业",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -118,31 +142,7 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1543802.htm"
             },
             {
-                "title": "2025 年度央企十大国之重器出炉：福建舰航母、天问二号在列",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-03",
-                "url": "https://www.ithome.com/0/910/079.htm"
-            },
-            {
-                "title": "OpenAI总裁向特朗普捐赠2500万美元 成最大捐款人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543748.htm"
-            },
-            {
-                "title": "2025年我国批准创新药76个，对外授权破千亿美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-03",
-                "url": "https://36kr.com/newsflashes/3623331185788163"
-            },
-            {
-                "title": "全球新能源汽车新王者诞生 特斯拉黯然让位",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543718.htm"
-            },
-            {
-                "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "外交部网站 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-03",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOXQzaDlHOHpPSDNuZDA4U3VDVVMwN0tjMFZZUmkzd1dfZm5DZlRQT0VqV2dpTHBraWJnYVNLS3NYckNTMklWY0VqSUVHenlaLUdzN1hrb0w4cDB5eHpfSWdRbmZWOEdzX3U2NkRyOUZTRFp0REE?oc=5"
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3anlNX1FlUzM5aGRia3pXNHFoSnVhVzRCZjB4MFhsamI0TXJQN0tLRFh0WDk3Q2E3MWIydzdsajVpdkxVanNlc1ZveUg0U2ZScXc?oc=5"
             },
             {
-                "title": "从蓝图规划加速走向演训一线 我军“智慧联勤”建设迈出坚实步伐 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUEVwREdHYTRZZjlXWlFNWmtXTGxkbEtrU3c5a1ZuVWYxWHE4N1pVamRyNlJpdnlrQjhOTkJORHpHaXhidjhhN1Z5S3hlMHdnQnc?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-04T12:35:41.342760+00:00"
+    "last_updated": "2026-01-04T18:25:13.794726+00:00"
 }
