@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "OPPO 推出 Reno 15 Pro Max 手机：天玑 8450 芯片、2 亿像素主摄，支持 50W 无线充",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-03",
+                "url": "https://www.ithome.com/0/910/046.htm"
+            },
+            {
+                "title": "日本三大经济团体推迟访华",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-03",
+                "url": "https://36kr.com/newsflashes/3623076669359113"
+            },
+            {
+                "title": "曝苹果平价版 MacBook 搭载 12.9 英寸屏幕，价格有望定在 599-899 美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-03",
+                "url": "https://www.ithome.com/0/910/012.htm"
+            },
+            {
                 "title": "川普减税新政2026年显效 美国家庭税后收入有望明显增加(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-02",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-02",
                 "url": "https://www.secretchina.com/news/gb/2026/01/03/1092943.html"
-            },
-            {
-                "title": "伊朗民变邪恶轴心分崩 中国社会危机未到火候(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/03/1092939.html"
-            },
-            {
-                "title": "苹果今年春季或推12.9英寸低价MacBook 搭载A18 Pro芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543730.htm"
-            },
-            {
-                "title": "涉案近4亿美元 SBA暂停明州6900名借款人资格(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092931.html"
             }
         ],
         "mil": [
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcEdvY0FkcjV5cV9nOTJDVUNkMDFLeFRsbWJuOFAwYlVYTER1QWZaTUtQUG9FUFNwd1JhSlcxU184cmsxMDdsdFRvbGw5dlgwMXNzUVdySVo4emdHN0pOSU9YcVlMR1hiRTAyeldqU2g3ZHlzVGc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "爱尔兰总理马丁将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-01-03",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS1tWW04R1QxSEhqcXJSTktXTmhqQ1ducVkxX05kNmlibGNPQmZfNU9LcjlGRWhvbXYxSDRPeXNDbWtqZjZjZHhRdkJCa0F0aGh0SjZzaXhiLTd5blkyMmppbVh3ZDY4cnpCSHo0WWRGQ1h2MWVrcllFb1AxSzBkRUNCWjgtVmxnNEE?oc=5"
             },
             {
                 "title": "外国军人眼中的中国式现代化丨搭乘中国快车 实现振兴梦想 - 中国军网",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcEdvY0FkcjV5cV9nOTJDVUNkMDFLeFRsbWJuOFAwYlVYTER1QWZaTUtQUG9FUFNwd1JhSlcxU184cmsxMDdsdFRvbGw5dlgwMXNzUVdySVo4emdHN0pOSU9YcVlMR1hiRTAyeldqU2g3ZHlzVGc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "爱尔兰总理马丁将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-01-03",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS1tWW04R1QxSEhqcXJSTktXTmhqQ1ducVkxX05kNmlibGNPQmZfNU9LcjlGRWhvbXYxSDRPeXNDbWtqZjZjZHhRdkJCa0F0aGh0SjZzaXhiLTd5blkyMmppbVh3ZDY4cnpCSHo0WWRGQ1h2MWVrcllFb1AxSzBkRUNCWjgtVmxnNEE?oc=5"
             },
             {
                 "title": "外国军人眼中的中国式现代化丨搭乘中国快车 实现振兴梦想 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-04T01:43:22.102978+00:00"
+    "last_updated": "2026-01-04T06:28:06.613259+00:00"
 }
