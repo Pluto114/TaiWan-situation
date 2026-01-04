@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "OpenAI总裁向特朗普捐赠2500万美元 成最大捐款人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543748.htm"
+            },
+            {
                 "title": "OPPO 推出 Reno 15 Pro Max 手机：天玑 8450 芯片、2 亿像素主摄，支持 50W 无线充",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-03",
@@ -34,15 +40,21 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-02",
                 "url": "https://www.secretchina.com/news/gb/2026/01/03/1092950.html"
-            },
-            {
-                "title": "看不见的战争：中共如何系统性渗透台湾，并向美国延伸(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/03/1092943.html"
             }
         ],
         "mil": [
+            {
+                "title": "长平观察：中共攻打台湾，会再次出现“抗命将军”吗？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-03",
+                "url": "https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E4%B8%AD%E5%85%B1%E6%94%BB%E6%89%93%E5%8F%B0%E6%B9%BE%E4%BC%9A%E5%86%8D%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%8A%97%E5%91%BD%E5%B0%86%E5%86%9B%E5%90%97/a-75374972"
+            },
+            {
+                "title": "2025 年度央企十大国之重器出炉：福建舰航母、天问二号在列",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-03",
+                "url": "https://www.ithome.com/0/910/079.htm"
+            },
             {
                 "title": "看不见的战争：中共如何系统性渗透台湾，并向美国延伸(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,22 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1543668.htm"
             },
             {
-                "title": "大批名校生退学 年轻人正在用难以想象的速度重塑世界",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543636.htm"
-            },
-            {
-                "title": "谷歌 DeepMind 震撼预言：2026 年，持续学习将让 AI「永生」",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-02",
-                "url": "https://www.ithome.com/0/909/939.htm"
-            },
-            {
                 "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-03",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOXQzaDlHOHpPSDNuZDA4U3VDVVMwN0tjMFZZUmkzd1dfZm5DZlRQT0VqV2dpTHBraWJnYVNLS3NYckNTMklWY0VqSUVHenlaLUdzN1hrb0w4cDB5eHpfSWdRbmZWOEdzX3U2NkRyOUZTRFp0REE?oc=5"
+            },
+            {
+                "title": "外交部发言人就美国强行控制委内瑞拉总统马杜罗夫妇答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSWUyY0RXdjU0TXhQSjVyZU9WTVlaTkIzQjdYUHMtaDh6RFhGMHZuRk5lSUlfMkV6YjZFTFh5MFJpT1ppNVRVVWhDNS1xZEpVN1V5dEZZYll4WjgtRDFTV0VrVGxOallyS2I3TW1sd2s0YmE3Zmc?oc=5"
             },
             {
                 "title": "外交部发言人就爱尔兰总理马丁将访华答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcEdvY0FkcjV5cV9nOTJDVUNkMDFLeFRsbWJuOFAwYlVYTER1QWZaTUtQUG9FUFNwd1JhSlcxU184cmsxMDdsdFRvbGw5dlgwMXNzUVdySVo4emdHN0pOSU9YcVlMR1hiRTAyeldqU2g3ZHlzVGc?oc=5"
             },
             {
-                "title": "爱尔兰总理马丁将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS1tWW04R1QxSEhqcXJSTktXTmhqQ1ducVkxX05kNmlibGNPQmZfNU9LcjlGRWhvbXYxSDRPeXNDbWtqZjZjZHhRdkJCa0F0aGh0SjZzaXhiLTd5blkyMmppbVh3ZDY4cnpCSHo0WWRGQ1h2MWVrcllFb1AxSzBkRUNCWjgtVmxnNEE?oc=5"
+                "title": "“军队是要准备打仗的” - 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-04",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFhvRFZGcm91Mm9qYUJhempJOS1GU0NzTWJOTFBUVzljbGJ1Qjk0bnU3MTZORDBaSDQ1Z3lvNk92eDFsMHVsODNSRzJ3ODk1dXFReVRMYVBaa0RTTW0zOGxZMzM1RERoLTdhaUtQc0ljLWNsUHNPeDhhaDZ4SGdSdmc4UmhzZzk2TXVNazBsTjlLcnhMcmFiT2FwaE1VUi1HWXk3aVhkbzFTelFJekZzdUF3?oc=5"
             },
             {
                 "title": "外国军人眼中的中国式现代化丨搭乘中国快车 实现振兴梦想 - 中国军网",
@@ -98,19 +104,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3anlNX1FlUzM5aGRia3pXNHFoSnVhVzRCZjB4MFhsamI0TXJQN0tLRFh0WDk3Q2E3MWIydzdsajVpdkxVanNlc1ZveUg0U2ZScXc?oc=5"
             },
             {
-                "title": "坚定信心 乘势而上 扎实推动高质量发展 - 中国军网",
+                "title": "从蓝图规划加速走向演训一线 我军“智慧联勤”建设迈出坚实步伐 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-02",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaml2Snc5R0stRDVWYjR3VTdIV2ZiT2c4cmRlcF9yNmprVk5ra0Nhcko0bWM2dEMxNllRWXhLUkRwTHFUNFZiaW82bDBDNzVSRmdEQnpGR18zeTZkZkk4WTk1dVZ2blVsSDhvRHUzNEl6MjYtSzU4QzE3Qm5vZDdOUy1MVjl1RTgzX3NlWld2NURYM3lTX05lZXJCWHpNdjlSMjdQdF9tMTByREVrdDdaN1Z3?oc=5"
-            },
-            {
-                "title": "此行间·开局之年怎么干？习主席的新年贺词这样展望2026年 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM2xOVEFTdW5VWHFwWm5ZQUZGekF2ME1rMzBrN1NuS2ozMUcyTm9oTUdtUTBiX2VpcEh5emdEQ05vMktHTm45Nkg4b0J3eUpDbHc?oc=5"
+                "date": "2026-01-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUEVwREdHYTRZZjlXWlFNWmtXTGxkbEtrU3c5a1ZuVWYxWHE4N1pVamRyNlJpdnlrQjhOTkJORHpHaXhidjhhN1Z5S3hlMHdnQnc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "特朗普减刑助比特币大盗提前出狱 称将投身网络安全事业",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543802.htm"
+            },
+            {
+                "title": "2025 年度央企十大国之重器出炉：福建舰航母、天问二号在列",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-03",
+                "url": "https://www.ithome.com/0/910/079.htm"
+            },
+            {
+                "title": "OpenAI总裁向特朗普捐赠2500万美元 成最大捐款人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543748.htm"
+            },
+            {
+                "title": "2025年我国批准创新药76个，对外授权破千亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-03",
+                "url": "https://36kr.com/newsflashes/3623331185788163"
+            },
             {
                 "title": "全球新能源汽车新王者诞生 特斯拉黯然让位",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -118,34 +142,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1543718.htm"
             },
             {
-                "title": "机构预计AI芯片“抢货大战”或推高消费电子价格两成",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543712.htm"
-            },
-            {
-                "title": "乌克兰前线士兵曝照：遭炮弹弹片击穿的 MacBook Air 仍能开机工作",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543702.htm"
-            },
-            {
-                "title": "中共回应美国2025《中国军力报告》(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-02",
-                "url": "https://www.secretchina.com/news/gb/2026/01/02/1092918.html"
-            },
-            {
-                "title": "边开车边充电，美国佛罗里达州将启动无线充电高速公路测试",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-02",
-                "url": "https://www.ithome.com/0/909/979.htm"
-            },
-            {
                 "title": "外交部发言人就美国对委内瑞拉实施军事打击答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-03",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOXQzaDlHOHpPSDNuZDA4U3VDVVMwN0tjMFZZUmkzd1dfZm5DZlRQT0VqV2dpTHBraWJnYVNLS3NYckNTMklWY0VqSUVHenlaLUdzN1hrb0w4cDB5eHpfSWdRbmZWOEdzX3U2NkRyOUZTRFp0REE?oc=5"
+            },
+            {
+                "title": "外交部发言人就美国强行控制委内瑞拉总统马杜罗夫妇答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSWUyY0RXdjU0TXhQSjVyZU9WTVlaTkIzQjdYUHMtaDh6RFhGMHZuRk5lSUlfMkV6YjZFTFh5MFJpT1ppNVRVVWhDNS1xZEpVN1V5dEZZYll4WjgtRDFTV0VrVGxOallyS2I3TW1sd2s0YmE3Zmc?oc=5"
             },
             {
                 "title": "外交部发言人就爱尔兰总理马丁将访华答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcEdvY0FkcjV5cV9nOTJDVUNkMDFLeFRsbWJuOFAwYlVYTER1QWZaTUtQUG9FUFNwd1JhSlcxU184cmsxMDdsdFRvbGw5dlgwMXNzUVdySVo4emdHN0pOSU9YcVlMR1hiRTAyeldqU2g3ZHlzVGc?oc=5"
             },
             {
-                "title": "爱尔兰总理马丁将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS1tWW04R1QxSEhqcXJSTktXTmhqQ1ducVkxX05kNmlibGNPQmZfNU9LcjlGRWhvbXYxSDRPeXNDbWtqZjZjZHhRdkJCa0F0aGh0SjZzaXhiLTd5blkyMmppbVh3ZDY4cnpCSHo0WWRGQ1h2MWVrcllFb1AxSzBkRUNCWjgtVmxnNEE?oc=5"
+                "title": "“军队是要准备打仗的” - 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-04",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFhvRFZGcm91Mm9qYUJhempJOS1GU0NzTWJOTFBUVzljbGJ1Qjk0bnU3MTZORDBaSDQ1Z3lvNk92eDFsMHVsODNSRzJ3ODk1dXFReVRMYVBaa0RTTW0zOGxZMzM1RERoLTdhaUtQc0ljLWNsUHNPeDhhaDZ4SGdSdmc4UmhzZzk2TXVNazBsTjlLcnhMcmFiT2FwaE1VUi1HWXk3aVhkbzFTelFJekZzdUF3?oc=5"
             },
             {
                 "title": "外国军人眼中的中国式现代化丨搭乘中国快车 实现振兴梦想 - 中国军网",
@@ -166,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3anlNX1FlUzM5aGRia3pXNHFoSnVhVzRCZjB4MFhsamI0TXJQN0tLRFh0WDk3Q2E3MWIydzdsajVpdkxVanNlc1ZveUg0U2ZScXc?oc=5"
             },
             {
-                "title": "坚定信心 乘势而上 扎实推动高质量发展 - 中国军网",
+                "title": "从蓝图规划加速走向演训一线 我军“智慧联勤”建设迈出坚实步伐 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-02",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaml2Snc5R0stRDVWYjR3VTdIV2ZiT2c4cmRlcF9yNmprVk5ra0Nhcko0bWM2dEMxNllRWXhLUkRwTHFUNFZiaW82bDBDNzVSRmdEQnpGR18zeTZkZkk4WTk1dVZ2blVsSDhvRHUzNEl6MjYtSzU4QzE3Qm5vZDdOUy1MVjl1RTgzX3NlWld2NURYM3lTX05lZXJCWHpNdjlSMjdQdF9tMTByREVrdDdaN1Z3?oc=5"
-            },
-            {
-                "title": "此行间·开局之年怎么干？习主席的新年贺词这样展望2026年 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM2xOVEFTdW5VWHFwWm5ZQUZGekF2ME1rMzBrN1NuS2ozMUcyTm9oTUdtUTBiX2VpcEh5emdEQ05vMktHTm45Nkg4b0J3eUpDbHc?oc=5"
+                "date": "2026-01-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUEVwREdHYTRZZjlXWlFNWmtXTGxkbEtrU3c5a1ZuVWYxWHE4N1pVamRyNlJpdnlrQjhOTkJORHpHaXhidjhhN1Z5S3hlMHdnQnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-04T06:28:06.613259+00:00"
+    "last_updated": "2026-01-04T12:35:41.342760+00:00"
 }
