@@ -12,38 +12,50 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国大宗商品价格指数连续八个月环比上升",
-                "source": "NewsAPI / 36kr.com",
+                "title": "台积电美国厂5nm毛利率大幅缩水87% 劳动力成本居高不下",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-05",
-                "url": "https://36kr.com/newsflashes/3625842946376969"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1543950.htm"
             },
             {
-                "title": "科技昨夜今晨 0105：消息称宇树科技上市绿色通道被叫停；iQOO 15 Ultra 手机官宣春节前发布；欧盟公布 2024 年全球研发投入百强企业...",
+                "title": "【CDT报告汇】裴敏欣新书《破碎的中国梦》：改革并未终结恐惧，反让极权得以复兴（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-01-05",
+                "url": "https://chinadigitaltimes.net/chinese/724124.html"
+            },
+            {
+                "title": "TCL 2026 SQD-Mini LED 电视组合 Q10M Pro / Q10M 发布：万象分区、TSR AI 光色同控芯片，9999 元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-05",
-                "url": "https://www.ithome.com/0/910/380.htm"
+                "url": "https://www.ithome.com/0/910/464.htm"
             },
             {
-                "title": "8点1氪丨雷军回应“小字营销”：确实是行业陋习；宇树科技：未涉及申请“绿色通道”相关事宜，上市工作正常推进；罗马仕启动重组方案",
+                "title": "前中金、甲骨文团队再创业，其AI智能自动化平台渗透三成央企，再获亿元融资 | 硬氪首发",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-04",
-                "url": "https://36kr.com/p/3625756011217925"
+                "date": "2026-01-05",
+                "url": "https://36kr.com/p/3625896773240067"
             },
             {
-                "title": "港股迎来siRNA领军企业，瑞博生物启动招股",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108609"
-            },
-            {
-                "title": "逮捕马杜罗后，美国能掌控委内瑞拉变局吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108604"
+                "title": "科沃斯参股基金投了一家柔性触觉感知公司，产品已上车头部新势力｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-05",
+                "url": "https://36kr.com/p/3618139468923911"
             }
         ],
         "mil": [
             {
+                "title": "Starlink向委内瑞拉提供免费网络服务 美军行动及马杜罗被捕后局势生变 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544002.htm"
+            },
+            {
+                "title": "前中金、甲骨文团队再创业，其AI智能自动化平台渗透三成央企，再获亿元融资 | 硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-05",
+                "url": "https://36kr.com/p/3625896773240067"
+            },
+            {
                 "title": "科技昨夜今晨 0105：消息称宇树科技上市绿色通道被叫停；iQOO 15 Ultra 手机官宣春节前发布；欧盟公布 2024 年全球研发投入百强企业...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-05",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-04",
                 "url": "https://www.ftchinese.com/story/001108604"
-            },
-            {
-                "title": "马杜罗倒了，委内瑞拉能站起来吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108603"
-            },
-            {
-                "title": "评论：说“小字营销”是行业陋习 小米认错诚意不足",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543924.htm"
             },
             {
                 "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1veFFHNGVFVTk0WFN0Y0EzTWhpel94UkJqVkNkVzZNTnN1b1ZKRV9Ib25NaHQzM0VUWlRFTmxWeEF0TTJjaTBsaElkeU82bzh1alFkT3ZyRXRORklucUtYMDVVVlNEQ1VSSF80SzdsN1h6QmxiTmc?oc=5"
             },
             {
-                "title": "外交部发言人就美国强行控制委内瑞拉总统马杜罗夫妇答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSWUyY0RXdjU0TXhQSjVyZU9WTVlaTkIzQjdYUHMtaDh6RFhGMHZuRk5lSUlfMkV6YjZFTFh5MFJpT1ppNVRVVWhDNS1xZEpVN1V5dEZZYll4WjgtRDFTV0VrVGxOallyS2I3TW1sd2s0YmE3Zmc?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "Zeroth 元点智能推出“现实版瓦力机器人”：5599 美元，能搬东西能当主持人",
+                "title": "OpenAI应用商店实测翻车 打车、订餐频频掉链 回应称不追求一步到位",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544020.htm"
+            },
+            {
+                "title": "Starlink向委内瑞拉提供免费网络服务 美军行动及马杜罗被捕后局势生变 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544002.htm"
+            },
+            {
+                "title": "前中金、甲骨文团队再创业，其AI智能自动化平台渗透三成央企，再获亿元融资 | 硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-05",
+                "url": "https://36kr.com/p/3625896773240067"
+            },
+            {
+                "title": "科沃斯参股基金投了一家柔性触觉感知公司，产品已上车头部新势力｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-05",
+                "url": "https://36kr.com/p/3618139468923911"
+            },
+            {
+                "title": "宝马首款纯电轿跑 SUV，新世代 iX4 实车谍照曝光",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-05",
-                "url": "https://www.ithome.com/0/910/381.htm"
-            },
-            {
-                "title": "8点1氪丨雷军回应“小字营销”：确实是行业陋习；宇树科技：未涉及申请“绿色通道”相关事宜，上市工作正常推进；罗马仕启动重组方案",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-04",
-                "url": "https://36kr.com/p/3625756011217925"
-            },
-            {
-                "title": "李在明开启访华之旅 朝鲜新年首射弹道导弹",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-04",
-                "url": "https://www.dw.com/zh/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%BC%80%E5%90%AF%E8%AE%BF%E5%8D%8E%E4%B9%8B%E6%97%85-%E6%9C%9D%E9%B2%9C%E6%96%B0%E5%B9%B4%E9%A6%96%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9/a-75386166"
-            },
-            {
-                "title": "港股迎来siRNA领军企业，瑞博生物启动招股",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108609"
-            },
-            {
-                "title": "逮捕马杜罗后，美国能掌控委内瑞拉变局吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108604"
+                "url": "https://www.ithome.com/0/910/405.htm"
             },
             {
                 "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1veFFHNGVFVTk0WFN0Y0EzTWhpel94UkJqVkNkVzZNTnN1b1ZKRV9Ib25NaHQzM0VUWlRFTmxWeEF0TTJjaTBsaElkeU82bzh1alFkT3ZyRXRORklucUtYMDVVVlNEQ1VSSF80SzdsN1h6QmxiTmc?oc=5"
             },
             {
-                "title": "外交部发言人就美国强行控制委内瑞拉总统马杜罗夫妇答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSWUyY0RXdjU0TXhQSjVyZU9WTVlaTkIzQjdYUHMtaDh6RFhGMHZuRk5lSUlfMkV6YjZFTFh5MFJpT1ppNVRVVWhDNS1xZEpVN1V5dEZZYll4WjgtRDFTV0VrVGxOallyS2I3TW1sd2s0YmE3Zmc?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-06T01:25:42.827249+00:00"
+    "last_updated": "2026-01-06T06:30:39.620103+00:00"
 }
