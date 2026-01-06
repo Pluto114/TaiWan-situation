@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "中国大宗商品价格指数连续八个月环比上升",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-05",
+                "url": "https://36kr.com/newsflashes/3625842946376969"
+            },
+            {
+                "title": "科技昨夜今晨 0105：消息称宇树科技上市绿色通道被叫停；iQOO 15 Ultra 手机官宣春节前发布；欧盟公布 2024 年全球研发投入百强企业...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-05",
+                "url": "https://www.ithome.com/0/910/380.htm"
+            },
+            {
+                "title": "8点1氪丨雷军回应“小字营销”：确实是行业陋习；宇树科技：未涉及申请“绿色通道”相关事宜，上市工作正常推进；罗马仕启动重组方案",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-04",
+                "url": "https://36kr.com/p/3625756011217925"
+            },
+            {
                 "title": "港股迎来siRNA领军企业，瑞博生物启动招股",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-04",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-04",
                 "url": "https://www.ftchinese.com/story/001108604"
-            },
-            {
-                "title": "马杜罗倒了，委内瑞拉能站起来吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108603"
-            },
-            {
-                "title": "华为鸿蒙 HarmonyOS 6.0.2（22）Beta 版本发布，开发能力得到进一步增强",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-04",
-                "url": "https://www.ithome.com/0/910/355.htm"
-            },
-            {
-                "title": "巴菲特「身退，权还在」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-04",
-                "url": "https://36kr.com/p/3624969527723017"
             }
         ],
         "mil": [
+            {
+                "title": "科技昨夜今晨 0105：消息称宇树科技上市绿色通道被叫停；iQOO 15 Ultra 手机官宣春节前发布；欧盟公布 2024 年全球研发投入百强企业...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-05",
+                "url": "https://www.ithome.com/0/910/380.htm"
+            },
+            {
+                "title": "8点1氪丨雷军回应“小字营销”：确实是行业陋习；宇树科技：未涉及申请“绿色通道”相关事宜，上市工作正常推进；罗马仕启动重组方案",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-04",
+                "url": "https://36kr.com/p/3625756011217925"
+            },
             {
                 "title": "逮捕马杜罗后，美国能掌控委内瑞拉变局吗？",
                 "source": "NewsAPI / Ftchinese.com",
@@ -62,16 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1543924.htm"
             },
             {
-                "title": "OpenAI的2026：要么封神 要么破产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543840.htm"
+                "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-05",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PbVk3M1hUaDNlam15Wlg4M1ZkaEw2YVJDMVI4MzV0WWFDUTRfaFBvcUNZT1BOUkN2TE1vN04wS2Fmck1qQ1V3Z0lfZGg4eFI4VFpQMWg5X1dCWGl2NUltSHMwek4xNGhUaWZr?oc=5"
             },
             {
-                "title": "杨立昆：Meta新人满脑子都是大语言模型 但这是一条死胡同",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1543832.htm"
+                "title": "2026年1月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-05",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1veFFHNGVFVTk0WFN0Y0EzTWhpel94UkJqVkNkVzZNTnN1b1ZKRV9Ib25NaHQzM0VUWlRFTmxWeEF0TTJjaTBsaElkeU82bzh1alFkT3ZyRXRORklucUtYMDVVVlNEQ1VSSF80SzdsN1h6QmxiTmc?oc=5"
             },
             {
                 "title": "外交部发言人就美国强行控制委内瑞拉总统马杜罗夫妇答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -80,16 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSWUyY0RXdjU0TXhQSjVyZU9WTVlaTkIzQjdYUHMtaDh6RFhGMHZuRk5lSUlfMkV6YjZFTFh5MFJpT1ppNVRVVWhDNS1xZEpVN1V5dEZZYll4WjgtRDFTV0VrVGxOallyS2I3TW1sd2s0YmE3Zmc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "习近平会见爱尔兰总理马丁 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-05",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0bnZQVk9tTzVoSWoxVmJfLUNWZURkSW5fNmtuYkRqbVh3ZXVrNWR0RHZpRWN5Y0ZaU2h1SHY2cUhRRFpscEVPdjRFNnpXOHFrbE9PVzRPWDZXWmc2Q2xOemFCZEVaY1N1SXhUTng0eXk?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDd6LXZmSEZ0SzBrVWR2R1VDdzUxVDJvS3Zmc3VQLTFOazAxempiMFFyejlyb2hYNXNXVkxyRHpMRGpXVG5sWUtJdlFLZ0ppZjNPWVVocWN3a3lmRldBM25BUUxUd04xVVZWTm0xMWp4X1lGcGFjb28tcEpiU1pQSDRwYVNFYjAwUXQ1OEJudUlpYVZUdm9sWVE3Zzh5Y2U3?oc=5"
             },
             {
                 "title": "新华图讯丨习近平同韩国总统李在明会谈 - 中国军网",
@@ -102,15 +108,21 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-04",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFhvRFZGcm91Mm9qYUJhempJOS1GU0NzTWJOTFBUVzljbGJ1Qjk0bnU3MTZORDBaSDQ1Z3lvNk92eDFsMHVsODNSRzJ3ODk1dXFReVRMYVBaa0RTTW0zOGxZMzM1RERoLTdhaUtQc0ljLWNsUHNPeDhhaDZ4SGdSdmc4UmhzZzk2TXVNazBsTjlLcnhMcmFiT2FwaE1VUi1HWXk3aVhkbzFTelFJekZzdUF3?oc=5"
-            },
-            {
-                "title": "联勤保障部队第968医院开展“联勤军医老区行”巡诊活动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nYXY0a1Q5WlNUTjIzSTdBNW9Kb2x4VGNkN1BWVkVPZW5CQmcybF9RNzJWTkIzbkppSDRwWnFtTG5uUUVjZ0Y0cEVuM3hpc3NCb3c?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "Zeroth 元点智能推出“现实版瓦力机器人”：5599 美元，能搬东西能当主持人",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-05",
+                "url": "https://www.ithome.com/0/910/381.htm"
+            },
+            {
+                "title": "8点1氪丨雷军回应“小字营销”：确实是行业陋习；宇树科技：未涉及申请“绿色通道”相关事宜，上市工作正常推进；罗马仕启动重组方案",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-04",
+                "url": "https://36kr.com/p/3625756011217925"
+            },
             {
                 "title": "李在明开启访华之旅 朝鲜新年首射弹道导弹",
                 "source": "NewsAPI / DW (English)",
@@ -130,16 +142,16 @@
                 "url": "https://www.ftchinese.com/story/001108604"
             },
             {
-                "title": "加码押注北美火锅品牌，九毛九为海外扩张添柴火",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108610"
+                "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-05",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PbVk3M1hUaDNlam15Wlg4M1ZkaEw2YVJDMVI4MzV0WWFDUTRfaFBvcUNZT1BOUkN2TE1vN04wS2Fmck1qQ1V3Z0lfZGg4eFI4VFpQMWg5X1dCWGl2NUltSHMwek4xNGhUaWZr?oc=5"
             },
             {
-                "title": "马杜罗倒了，委内瑞拉能站起来吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-04",
-                "url": "https://www.ftchinese.com/story/001108603"
+                "title": "2026年1月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-05",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1veFFHNGVFVTk0WFN0Y0EzTWhpel94UkJqVkNkVzZNTnN1b1ZKRV9Ib25NaHQzM0VUWlRFTmxWeEF0TTJjaTBsaElkeU82bzh1alFkT3ZyRXRORklucUtYMDVVVlNEQ1VSSF80SzdsN1h6QmxiTmc?oc=5"
             },
             {
                 "title": "外交部发言人就美国强行控制委内瑞拉总统马杜罗夫妇答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSWUyY0RXdjU0TXhQSjVyZU9WTVlaTkIzQjdYUHMtaDh6RFhGMHZuRk5lSUlfMkV6YjZFTFh5MFJpT1ppNVRVVWhDNS1xZEpVN1V5dEZZYll4WjgtRDFTV0VrVGxOallyS2I3TW1sd2s0YmE3Zmc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "习近平会见爱尔兰总理马丁 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-05",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0bnZQVk9tTzVoSWoxVmJfLUNWZURkSW5fNmtuYkRqbVh3ZXVrNWR0RHZpRWN5Y0ZaU2h1SHY2cUhRRFpscEVPdjRFNnpXOHFrbE9PVzRPWDZXWmc2Q2xOemFCZEVaY1N1SXhUTng0eXk?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDd6LXZmSEZ0SzBrVWR2R1VDdzUxVDJvS3Zmc3VQLTFOazAxempiMFFyejlyb2hYNXNXVkxyRHpMRGpXVG5sWUtJdlFLZ0ppZjNPWVVocWN3a3lmRldBM25BUUxUd04xVVZWTm0xMWp4X1lGcGFjb28tcEpiU1pQSDRwYVNFYjAwUXQ1OEJudUlpYVZUdm9sWVE3Zzh5Y2U3?oc=5"
             },
             {
                 "title": "新华图讯丨习近平同韩国总统李在明会谈 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-04",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFhvRFZGcm91Mm9qYUJhempJOS1GU0NzTWJOTFBUVzljbGJ1Qjk0bnU3MTZORDBaSDQ1Z3lvNk92eDFsMHVsODNSRzJ3ODk1dXFReVRMYVBaa0RTTW0zOGxZMzM1RERoLTdhaUtQc0ljLWNsUHNPeDhhaDZ4SGdSdmc4UmhzZzk2TXVNazBsTjlLcnhMcmFiT2FwaE1VUi1HWXk3aVhkbzFTelFJekZzdUF3?oc=5"
-            },
-            {
-                "title": "联勤保障部队第968医院开展“联勤军医老区行”巡诊活动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nYXY0a1Q5WlNUTjIzSTdBNW9Kb2x4VGNkN1BWVkVPZW5CQmcybF9RNzJWTkIzbkppSDRwWnFtTG5uUUVjZ0Y0cEVuM3hpc3NCb3c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-05T18:28:45.433142+00:00"
+    "last_updated": "2026-01-06T01:25:42.827249+00:00"
 }
