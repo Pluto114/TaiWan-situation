@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "罗技面向中国推出G304 X Lightspeed无线游戏鼠标",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544106.htm"
+                "title": "马杜洛被抓　中共中枪(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-06",
+                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093068.html"
             },
             {
-                "title": "联发科押注AI ASIC芯片业务 侧重于手机芯片的战略悄然转向",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544102.htm"
+                "title": "三家半导体龙头企业齐推重组交易，科创板并购迈向“质变”新阶段",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-06",
+                "url": "https://36kr.com/newsflashes/3627232983287042"
             },
             {
-                "title": "三星加码HBM4谋求AI存储主导权 2026年是关键一年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544100.htm"
+                "title": "关税担忧叠加风险偏好升温，铜价触及每吨13000美元历史新高",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-06",
+                "url": "https://36kr.com/newsflashes/3627170725364741"
             },
             {
-                "title": "卡曼•卢塞罗：中国仍是美国的长期竞争对手",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "8点1氪丨网约车司机捡乘客相机拒不归还，曹操出行回应；雷军再谈“丢轮保车”：非常成熟的安全设计；段永平否认卖课带货",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108616"
+                "url": "https://36kr.com/p/3627176762049543"
             },
             {
-                "title": "为什么美国现在对委内瑞拉动手？",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "科技昨夜今晨 0106：vivo、小米、苹果拿下 2025 国内激活销量 TOP3；格力承诺家用空调不涨价；央视曝光偷 SIM 卡套路...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108612"
+                "url": "https://www.ithome.com/0/910/690.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨网约车司机捡乘客相机拒不归还，曹操出行回应；雷军再谈“丢轮保车”：非常成熟的安全设计；段永平否认卖课带货",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-05",
+                "url": "https://36kr.com/p/3627176762049543"
+            },
+            {
+                "title": "科技昨夜今晨 0106：vivo、小米、苹果拿下 2025 国内激活销量 TOP3；格力承诺家用空调不涨价；央视曝光偷 SIM 卡套路...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-05",
+                "url": "https://www.ithome.com/0/910/690.htm"
+            },
+            {
+                "title": "美军将新一代“蝗虫”激光武器完成装车 变身机动反无人机“电蚊拍”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544124.htm"
+            },
             {
                 "title": "“我躲这里谁敢抓”大陆博主发天安门照片配文引热议(组图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.ftchinese.com/story/001108616"
             },
             {
-                "title": "为什么在阿尔法围棋以后，人们仍热衷围棋比赛？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108611"
-            },
-            {
-                "title": "为什么美国现在对委内瑞拉动手？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108612"
-            },
-            {
-                "title": "委内瑞拉变局，如何影响全球经济与金融市场？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108608"
-            },
-            {
                 "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-05",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PbVk3M1hUaDNlam15Wlg4M1ZkaEw2YVJDMVI4MzV0WWFDUTRfaFBvcUNZT1BOUkN2TE1vN04wS2Fmck1qQ1V3Z0lfZGg4eFI4VFpQMWg5X1dCWGl2NUltSHMwek4xNGhUaWZr?oc=5"
             },
             {
+                "title": "2026年1月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRQVVQamR5dUI5cExpdVFmZlhTV2FtUWVzTm95RjI3TVg4VXJwT3ZvWWI1bGRCdm5rNkJ2RVZiRGMweWRhUktnVXdaUEZHRG9meUxyOHBJdmtQdGh4QlBEQnVuNi1QTWtPZ3FZcExMU1dHLTVORlE?oc=5"
+            },
+            {
                 "title": "2026年1月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-05",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1veFFHNGVFVTk0WFN0Y0EzTWhpel94UkJqVkNkVzZNTnN1b1ZKRV9Ib25NaHQzM0VUWlRFTmxWeEF0TTJjaTBsaElkeU82bzh1alFkT3ZyRXRORklucUtYMDVVVlNEQ1VSSF80SzdsN1h6QmxiTmc?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fX29FTE95UGczTGI5cHBMZS0xTVpsT2tuOHI0eExFUWF4Rk42QVpwY3pkOXEtc3lUZXFuTnlzZFV3MGxDNTRnb2tjOVM?oc=5"
             },
             {
-                "title": "联勤保障部队第968医院开展“联勤军医老区行”巡诊活动 - 中国军网",
+                "title": "解放军和武警部队新年度军事训练拉开大幕 - rmt-static-publish.81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nYXY0a1Q5WlNUTjIzSTdBNW9Kb2x4VGNkN1BWVkVPZW5CQmcybF9RNzJWTkIzbkppSDRwWnFtTG5uUUVjZ0Y0cEVuM3hpc3NCb3c?oc=5"
+                "date": "2026-01-05",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWElaOHpzOVdzM3FXdWpaaG45cWljOUNyZy1LdjRjNUY5Rm9OVzNPTnZjWXdDMm5pbU9tV3ZaMmdocHp0eU50aEU3V3hVWGU0V05hT05QTGhKeXZvVkUtY0RQTkhhRktWVzg5TnlsZVF3TURZZ2JqV09vNUJSZ3VycHJlbHl4SFVaZzlN?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "联发科押注AI ASIC芯片业务 侧重于手机芯片的战略悄然转向",
+                "title": "8点1氪丨网约车司机捡乘客相机拒不归还，曹操出行回应；雷军再谈“丢轮保车”：非常成熟的安全设计；段永平否认卖课带货",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-05",
+                "url": "https://36kr.com/p/3627176762049543"
+            },
+            {
+                "title": "科技昨夜今晨 0106：vivo、小米、苹果拿下 2025 国内激活销量 TOP3；格力承诺家用空调不涨价；央视曝光偷 SIM 卡套路...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-05",
+                "url": "https://www.ithome.com/0/910/690.htm"
+            },
+            {
+                "title": "微软CEO纳德拉呼吁别再把 AI 当作“垃圾内容制造机”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544102.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544138.htm"
             },
             {
-                "title": "三星加码HBM4谋求AI存储主导权 2026年是关键一年",
+                "title": "挑战戴森，博世 Unlimited 系列高端无线吸尘器亮相",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-05",
+                "url": "https://www.ithome.com/0/910/686.htm"
+            },
+            {
+                "title": "美军将新一代“蝗虫”激光武器完成装车 变身机动反无人机“电蚊拍”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544100.htm"
-            },
-            {
-                "title": "卡曼•卢塞罗：中国仍是美国的长期竞争对手",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108616"
-            },
-            {
-                "title": "为什么美国现在对委内瑞拉动手？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108612"
-            },
-            {
-                "title": "为什么在阿尔法围棋以后，人们仍热衷围棋比赛？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108611"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544124.htm"
             },
             {
                 "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PbVk3M1hUaDNlam15Wlg4M1ZkaEw2YVJDMVI4MzV0WWFDUTRfaFBvcUNZT1BOUkN2TE1vN04wS2Fmck1qQ1V3Z0lfZGg4eFI4VFpQMWg5X1dCWGl2NUltSHMwek4xNGhUaWZr?oc=5"
             },
             {
+                "title": "2026年1月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRQVVQamR5dUI5cExpdVFmZlhTV2FtUWVzTm95RjI3TVg4VXJwT3ZvWWI1bGRCdm5rNkJ2RVZiRGMweWRhUktnVXdaUEZHRG9meUxyOHBJdmtQdGh4QlBEQnVuNi1QTWtPZ3FZcExMU1dHLTVORlE?oc=5"
+            },
+            {
                 "title": "2026年1月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-05",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1veFFHNGVFVTk0WFN0Y0EzTWhpel94UkJqVkNkVzZNTnN1b1ZKRV9Ib25NaHQzM0VUWlRFTmxWeEF0TTJjaTBsaElkeU82bzh1alFkT3ZyRXRORklucUtYMDVVVlNEQ1VSSF80SzdsN1h6QmxiTmc?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fX29FTE95UGczTGI5cHBMZS0xTVpsT2tuOHI0eExFUWF4Rk42QVpwY3pkOXEtc3lUZXFuTnlzZFV3MGxDNTRnb2tjOVM?oc=5"
             },
             {
-                "title": "联勤保障部队第968医院开展“联勤军医老区行”巡诊活动 - 中国军网",
+                "title": "解放军和武警部队新年度军事训练拉开大幕 - rmt-static-publish.81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nYXY0a1Q5WlNUTjIzSTdBNW9Kb2x4VGNkN1BWVkVPZW5CQmcybF9RNzJWTkIzbkppSDRwWnFtTG5uUUVjZ0Y0cEVuM3hpc3NCb3c?oc=5"
+                "date": "2026-01-05",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWElaOHpzOVdzM3FXdWpaaG45cWljOUNyZy1LdjRjNUY5Rm9OVzNPTnZjWXdDMm5pbU9tV3ZaMmdocHp0eU50aEU3V3hVWGU0V05hT05QTGhKeXZvVkUtY0RQTkhhRktWVzg5TnlsZVF3TURZZ2JqV09vNUJSZ3VycHJlbHl4SFVaZzlN?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-06T18:27:54.344004+00:00"
+    "last_updated": "2026-01-07T01:25:51.750722+00:00"
 }
