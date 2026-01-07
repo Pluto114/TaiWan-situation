@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "马杜洛被抓　中共中枪(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-06",
-                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093068.html"
-            },
-            {
-                "title": "三家半导体龙头企业齐推重组交易，科创板并购迈向“质变”新阶段",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-06",
-                "url": "https://36kr.com/newsflashes/3627232983287042"
-            },
-            {
-                "title": "关税担忧叠加风险偏好升温，铜价触及每吨13000美元历史新高",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-06",
-                "url": "https://36kr.com/newsflashes/3627170725364741"
-            },
-            {
-                "title": "8点1氪丨网约车司机捡乘客相机拒不归还，曹操出行回应；雷军再谈“丢轮保车”：非常成熟的安全设计；段永平否认卖课带货",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-05",
-                "url": "https://36kr.com/p/3627176762049543"
-            },
-            {
-                "title": "科技昨夜今晨 0106：vivo、小米、苹果拿下 2025 国内激活销量 TOP3；格力承诺家用空调不涨价；央视曝光偷 SIM 卡套路...",
+                "title": "报告称印度过去 5 年出口 iPhone 总值超 500 亿美元",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-05",
-                "url": "https://www.ithome.com/0/910/690.htm"
+                "date": "2026-01-06",
+                "url": "https://www.ithome.com/0/910/843.htm"
+            },
+            {
+                "title": "三星掌门人李在镕在北京买LABUBU 商场购物引关注",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544184.htm"
+            },
+            {
+                "title": "Intel正式发布酷睿Ultra 300系列CPU：游戏性能提升77% 27小时x86续航王",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544180.htm"
+            },
+            {
+                "title": "黄仁勋新年第一场演讲提及DeepSeek 称其“点燃了全球热情”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544174.htm"
+            },
+            {
+                "title": "马斯克回应英伟达自动驾驶AI模型：特斯拉正在做 达到99%很容易",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544168.htm"
             }
         ],
         "mil": [
             {
+                "title": "马杜罗垮台习近平心惊 中共损失有多惨？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-06",
+                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093079.html"
+            },
+            {
+                "title": "质疑校服，理解校服，爱上校服，多年后才知道校服之于青春的含金量",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-06",
+                "url": "https://36kr.com/p/3626121598911497"
+            },
+            {
+                "title": "从3D打印到桌面CNC，中国创客硬件集体破圈｜硬氪直击CES",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-06",
+                "url": "https://36kr.com/p/3627345155539972"
+            },
+            {
                 "title": "8点1氪丨网约车司机捡乘客相机拒不归还，曹操出行回应；雷军再谈“丢轮保车”：非常成熟的安全设计；段永平否认卖课带货",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-05",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-05",
                 "url": "https://www.ithome.com/0/910/690.htm"
-            },
-            {
-                "title": "美军将新一代“蝗虫”激光武器完成装车 变身机动反无人机“电蚊拍”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544124.htm"
-            },
-            {
-                "title": "“我躲这里谁敢抓”大陆博主发天安门照片配文引热议(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-05",
-                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093059.html"
-            },
-            {
-                "title": "卡曼•卢塞罗：中国仍是美国的长期竞争对手",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-05",
-                "url": "https://www.ftchinese.com/story/001108616"
             },
             {
                 "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fX29FTE95UGczTGI5cHBMZS0xTVpsT2tuOHI0eExFUWF4Rk42QVpwY3pkOXEtc3lUZXFuTnlzZFV3MGxDNTRnb2tjOVM?oc=5"
             },
             {
-                "title": "解放军和武警部队新年度军事训练拉开大幕 - rmt-static-publish.81.cn",
+                "title": "德国成立国家级无人机防御中心 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-05",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWElaOHpzOVdzM3FXdWpaaG45cWljOUNyZy1LdjRjNUY5Rm9OVzNPTnZjWXdDMm5pbU9tV3ZaMmdocHp0eU50aEU3V3hVWGU0V05hT05QTGhKeXZvVkUtY0RQTkhhRktWVzg5TnlsZVF3TURZZ2JqV09vNUJSZ3VycHJlbHl4SFVaZzlN?oc=5"
+                "date": "2026-01-07",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3d0FKaU4zaVhCN0NOa29RbUxWbFJqTGF3YVJIVkloVFZQM0t5RnotVE42RXpFNkhRUXpabUVXS1FiSktXenIzOEd3MzdoQWQ3XzNCVzU2Q0lsaVRla0RNMA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "8点1氪丨网约车司机捡乘客相机拒不归还，曹操出行回应；雷军再谈“丢轮保车”：非常成熟的安全设计；段永平否认卖课带货",
+                "title": "特斯拉首推7年超低息购车方案：Model 3/Y首付7.99万 月供1918元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544166.htm"
+            },
+            {
+                "title": "挑战行业最轻：极米子品牌 MemoMind 发布 28.9 克超轻 AI 眼镜",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-06",
+                "url": "https://www.ithome.com/0/910/779.htm"
+            },
+            {
+                "title": "中共出大糗，发言人无比尴尬的49秒钟(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-06",
+                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093076.html"
+            },
+            {
+                "title": "Uber 无人驾驶出租车 Robotaxi 在 CES 2026 首秀",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-06",
+                "url": "https://www.ithome.com/0/910/760.htm"
+            },
+            {
+                "title": "从3D打印到桌面CNC，中国创客硬件集体破圈｜硬氪直击CES",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-05",
-                "url": "https://36kr.com/p/3627176762049543"
-            },
-            {
-                "title": "科技昨夜今晨 0106：vivo、小米、苹果拿下 2025 国内激活销量 TOP3；格力承诺家用空调不涨价；央视曝光偷 SIM 卡套路...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-05",
-                "url": "https://www.ithome.com/0/910/690.htm"
-            },
-            {
-                "title": "微软CEO纳德拉呼吁别再把 AI 当作“垃圾内容制造机”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544138.htm"
-            },
-            {
-                "title": "挑战戴森，博世 Unlimited 系列高端无线吸尘器亮相",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-05",
-                "url": "https://www.ithome.com/0/910/686.htm"
-            },
-            {
-                "title": "美军将新一代“蝗虫”激光武器完成装车 变身机动反无人机“电蚊拍”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544124.htm"
+                "date": "2026-01-06",
+                "url": "https://36kr.com/p/3627345155539972"
             },
             {
                 "title": "习近平同韩国总统李在明举行会谈 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fX29FTE95UGczTGI5cHBMZS0xTVpsT2tuOHI0eExFUWF4Rk42QVpwY3pkOXEtc3lUZXFuTnlzZFV3MGxDNTRnb2tjOVM?oc=5"
             },
             {
-                "title": "解放军和武警部队新年度军事训练拉开大幕 - rmt-static-publish.81.cn",
+                "title": "德国成立国家级无人机防御中心 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-05",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWElaOHpzOVdzM3FXdWpaaG45cWljOUNyZy1LdjRjNUY5Rm9OVzNPTnZjWXdDMm5pbU9tV3ZaMmdocHp0eU50aEU3V3hVWGU0V05hT05QTGhKeXZvVkUtY0RQTkhhRktWVzg5TnlsZVF3TURZZ2JqV09vNUJSZ3VycHJlbHl4SFVaZzlN?oc=5"
+                "date": "2026-01-07",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3d0FKaU4zaVhCN0NOa29RbUxWbFJqTGF3YVJIVkloVFZQM0t5RnotVE42RXpFNkhRUXpabUVXS1FiSktXenIzOEd3MzdoQWQ3XzNCVzU2Q0lsaVRla0RNMA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-07T01:25:51.750722+00:00"
+    "last_updated": "2026-01-07T06:30:07.229559+00:00"
 }
