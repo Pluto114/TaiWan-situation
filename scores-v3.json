@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "8点1氪丨机长、副机长被传驾驶舱内打架，长荣航空回应；小米正式回应米黑KOL合作事件；霸王茶姬通报“徒手搅拌奶茶”事件",
+                "title": "黄仁勋杨元庆官宣最新合作计划 推出联想人工智能云超级工厂",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544350.htm"
+            },
+            {
+                "title": "速腾聚创展出全球首款AI机器人“配送小哥”，现场演示自主打包拆包操作｜最前线",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-07",
-                "url": "https://36kr.com/p/3628610343650565"
+                "url": "https://36kr.com/p/3628814394819848"
             },
             {
-                "title": "科技昨夜今晨 0107：最强游戏处理器 AMD Ryzen 7 9850X3D 发布；特斯拉 Model Y 推出小改款；广电总局要求公共场所电视开机全程无商业广告...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "AMD暗示可能重新推出老款AM4桌面处理器 帮助玩家度过内存价格疯涨危机",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-07",
-                "url": "https://www.ithome.com/0/911/029.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544322.htm"
             },
             {
-                "title": "黄仁勋等英伟达高管齐发积极信号 看好公司营收比预测更加乐观",
+                "title": "小米潘九堂回应“包养”KOL：接触KOL或是“被黑昏招”",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544294.htm"
+                "date": "2026-01-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544308.htm"
             },
             {
-                "title": "苏姿丰：人工智能并非取代人类 而是改变招聘标准",
+                "title": "黄仁勋：Blackwell、下一代Rubin芯片会“及时”供应中国市场",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544292.htm"
-            },
-            {
-                "title": "英特尔正打造掌上游戏专属平台 含定制芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544288.htm"
+                "date": "2026-01-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544300.htm"
             }
         ],
         "mil": [
+            {
+                "title": "100天，10亿人，一个超级入口：高德不再只是地图",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-07",
+                "url": "https://36kr.com/p/3628814355268616"
+            },
+            {
+                "title": "中国加强管制对日出口军民两用物项 日本要求撤回",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-07",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BC%BA%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E5%87%BA%E5%8F%A3%E5%86%9B%E6%B0%91%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9-%E6%97%A5%E6%9C%AC%E8%A6%81%E6%B1%82%E6%92%A4%E5%9B%9E/a-75404490"
+            },
             {
                 "title": "8点1氪丨机长、副机长被传驾驶舱内打架，长荣航空回应；小米正式回应米黑KOL合作事件；霸王茶姬通报“徒手搅拌奶茶”事件",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.ftchinese.com/story/001108629"
             },
             {
-                "title": "美国抓捕马杜罗 中国网友狂转《北京欢迎你》歌曲(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-06",
-                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093101.html"
-            },
-            {
-                "title": "中共年末环台军演 学者谈细节意涵(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-06",
-                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093099.html"
-            },
-            {
                 "title": "2026年1月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-06",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanR6MDNWYmE3bnJFR21KU1RRWFBCdkZxcVA3WlZCckhTM29QdFJhUnJobERvcnB0VFEwS0txM0QyQ0Nrd0dEZDZhMkxEbnozM3NWdzh6NVhLcTdmeDdVRmpibnJXNXRDdDBfRWQ2VGxrMVliWFByWHRUN2VQbURIcTFnLTJva3F5Nmc?oc=5"
             },
             {
+                "title": "演都不演了！美国“霸权剧本”如今已撕下所有伪装 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42cmgyZmFQalRpclM4Q1ppc050M1NfQ2o3ZUoyWkNRVUFTSTVfb0pRYnl1S3pzTHpSZ20xaEV0eGhxWF9zVDRzVU5ybkFOMkppN3c?oc=5"
+            },
+            {
                 "title": "军营观察丨场务兵：机场跑道的“守望者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-07",
@@ -102,15 +108,27 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-07",
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3d0FKaU4zaVhCN0NOa29RbUxWbFJqTGF3YVJIVkloVFZQM0t5RnotVE42RXpFNkhRUXpabUVXS1FiSktXenIzOEd3MzdoQWQ3XzNCVzU2Q0lsaVRla0RNMA?oc=5"
-            },
-            {
-                "title": "解放军总医院第七医学中心为超早产儿筑牢生命防线 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZSWp3SU1CSHVDSFozeWRIUWZxWlBUUHF2RmY3TXdNUE1oM2pGUnVwTEFmTTU5Mk9OOFByQTYteW5OR2gwMVpGem5TYVhaZDNVT0E?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "100天，10亿人，一个超级入口：高德不再只是地图",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-07",
+                "url": "https://36kr.com/p/3628814355268616"
+            },
+            {
+                "title": "速腾聚创展出全球首款AI机器人“配送小哥”，现场演示自主打包拆包操作｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-07",
+                "url": "https://36kr.com/p/3628814394819848"
+            },
+            {
+                "title": "2025 年英国新车销量重回 200 万辆：中国车企助力当地车市回春",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-07",
+                "url": "https://www.ithome.com/0/911/146.htm"
+            },
             {
                 "title": "8点1氪丨机长、副机长被传驾驶舱内打架，长荣航空回应；小米正式回应米黑KOL合作事件；霸王茶姬通报“徒手搅拌奶茶”事件",
                 "source": "NewsAPI / 36kr.com",
@@ -124,24 +142,6 @@
                 "url": "https://www.ithome.com/0/911/029.htm"
             },
             {
-                "title": "黄仁勋等英伟达高管齐发积极信号 看好公司营收比预测更加乐观",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544294.htm"
-            },
-            {
-                "title": "实验室带你过周末：2026.1.10 - 1.11 上海篇",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-01-06",
-                "url": "https://www.toodaylab.com/83870"
-            },
-            {
-                "title": "欧盟谴责马斯克旗下Grok生成含未成年人的非法色情图像",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544280.htm"
-            },
-            {
                 "title": "2026年1月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-06",
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanR6MDNWYmE3bnJFR21KU1RRWFBCdkZxcVA3WlZCckhTM29QdFJhUnJobERvcnB0VFEwS0txM0QyQ0Nrd0dEZDZhMkxEbnozM3NWdzh6NVhLcTdmeDdVRmpibnJXNXRDdDBfRWQ2VGxrMVliWFByWHRUN2VQbURIcTFnLTJva3F5Nmc?oc=5"
             },
             {
+                "title": "演都不演了！美国“霸权剧本”如今已撕下所有伪装 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42cmgyZmFQalRpclM4Q1ppc050M1NfQ2o3ZUoyWkNRVUFTSTVfb0pRYnl1S3pzTHpSZ20xaEV0eGhxWF9zVDRzVU5ybkFOMkppN3c?oc=5"
+            },
+            {
                 "title": "军营观察丨场务兵：机场跑道的“守望者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-07",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-07",
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3d0FKaU4zaVhCN0NOa29RbUxWbFJqTGF3YVJIVkloVFZQM0t5RnotVE42RXpFNkhRUXpabUVXS1FiSktXenIzOEd3MzdoQWQ3XzNCVzU2Q0lsaVRla0RNMA?oc=5"
-            },
-            {
-                "title": "解放军总医院第七医学中心为超早产儿筑牢生命防线 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZSWp3SU1CSHVDSFozeWRIUWZxWlBUUHF2RmY3TXdNUE1oM2pGUnVwTEFmTTU5Mk9OOFByQTYteW5OR2gwMVpGem5TYVhaZDNVT0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-08T01:26:29.950550+00:00"
+    "last_updated": "2026-01-08T06:30:50.059813+00:00"
 }
