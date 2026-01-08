@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "摩根士丹利预计苹果iPhone将于2028年起配备2亿像素相机",
+                "title": "8点1氪丨机长、副机长被传驾驶舱内打架，长荣航空回应；小米正式回应米黑KOL合作事件；霸王茶姬通报“徒手搅拌奶茶”事件",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-07",
+                "url": "https://36kr.com/p/3628610343650565"
+            },
+            {
+                "title": "科技昨夜今晨 0107：最强游戏处理器 AMD Ryzen 7 9850X3D 发布；特斯拉 Model Y 推出小改款；广电总局要求公共场所电视开机全程无商业广告...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-07",
+                "url": "https://www.ithome.com/0/911/029.htm"
+            },
+            {
+                "title": "黄仁勋等英伟达高管齐发积极信号 看好公司营收比预测更加乐观",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544284.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544294.htm"
             },
             {
-                "title": "苹果面临内存与晶圆双重涨价压力 2026年硬件利润率承压",
+                "title": "苏姿丰：人工智能并非取代人类 而是改变招聘标准",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544282.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544292.htm"
             },
             {
-                "title": "据称苹果本月启动iPhone 17e量产 或配备灵动岛与降频版A19芯片",
+                "title": "英特尔正打造掌上游戏专属平台 含定制芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544278.htm"
-            },
-            {
-                "title": "我们距离楼市的底部还有多远？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-06",
-                "url": "https://www.ftchinese.com/story/001108624"
-            },
-            {
-                "title": "“唐罗主义”——贴上特朗普标签的新帝国主义",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-06",
-                "url": "https://www.ftchinese.com/story/001108629"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544288.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨机长、副机长被传驾驶舱内打架，长荣航空回应；小米正式回应米黑KOL合作事件；霸王茶姬通报“徒手搅拌奶茶”事件",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-07",
+                "url": "https://36kr.com/p/3628610343650565"
+            },
+            {
+                "title": "英特尔正打造掌上游戏专属平台 含定制芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544288.htm"
+            },
             {
                 "title": "“唐罗主义”——贴上特朗普标签的新帝国主义",
                 "source": "NewsAPI / Ftchinese.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/01/06/1093099.html"
             },
             {
-                "title": "中共拉美能源布局受重击 “新冷战”中美加速脱钩(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-06",
-                "url": "https://www.secretchina.com/news/gb/2026/01/06/1093098.html"
-            },
-            {
-                "title": "客座评论：北京最新军演，台湾不能轻忽",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-06",
-                "url": "https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E5%8C%97%E4%BA%AC%E6%9C%80%E6%96%B0%E5%86%9B%E6%BC%94%E5%8F%B0%E6%B9%BE%E4%B8%8D%E8%83%BD%E8%BD%BB%E5%BF%BD/a-75408054"
-            },
-            {
                 "title": "2026年1月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-06",
@@ -92,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanR6MDNWYmE3bnJFR21KU1RRWFBCdkZxcVA3WlZCckhTM29QdFJhUnJobERvcnB0VFEwS0txM0QyQ0Nrd0dEZDZhMkxEbnozM3NWdzh6NVhLcTdmeDdVRmpibnJXNXRDdDBfRWQ2VGxrMVliWFByWHRUN2VQbURIcTFnLTJva3F5Nmc?oc=5"
             },
             {
-                "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
+                "title": "军营观察丨场务兵：机场跑道的“守望者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-05",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDd6LXZmSEZ0SzBrVWR2R1VDdzUxVDJvS3Zmc3VQLTFOazAxempiMFFyejlyb2hYNXNXVkxyRHpMRGpXVG5sWUtJdlFLZ0ppZjNPWVVocWN3a3lmRldBM25BUUxUd04xVVZWTm0xMWp4X1lGcGFjb28tcEpiU1pQSDRwYVNFYjAwUXQ1OEJudUlpYVZUdm9sWVE3Zzh5Y2U3?oc=5"
+                "date": "2026-01-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5icTBtRFE1M2Q1bVBhbE9nSUhOTXJlYmpmVE9mZC1YM0UzMHlyTU5rTkI1LXJ2S0U5eF92WEUtVUE2VGFzaW1uTXVOcTU?oc=5"
             },
             {
                 "title": "德国成立国家级无人机防御中心 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "8点1氪丨机长、副机长被传驾驶舱内打架，长荣航空回应；小米正式回应米黑KOL合作事件；霸王茶姬通报“徒手搅拌奶茶”事件",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-07",
+                "url": "https://36kr.com/p/3628610343650565"
+            },
+            {
+                "title": "科技昨夜今晨 0107：最强游戏处理器 AMD Ryzen 7 9850X3D 发布；特斯拉 Model Y 推出小改款；广电总局要求公共场所电视开机全程无商业广告...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-07",
+                "url": "https://www.ithome.com/0/911/029.htm"
+            },
+            {
+                "title": "黄仁勋等英伟达高管齐发积极信号 看好公司营收比预测更加乐观",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544294.htm"
+            },
+            {
+                "title": "实验室带你过周末：2026.1.10 - 1.11 上海篇",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-01-06",
+                "url": "https://www.toodaylab.com/83870"
+            },
+            {
                 "title": "欧盟谴责马斯克旗下Grok生成含未成年人的非法色情图像",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-06",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1544280.htm"
-            },
-            {
-                "title": "据称苹果本月启动iPhone 17e量产 或配备灵动岛与降频版A19芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544278.htm"
-            },
-            {
-                "title": "我们距离楼市的底部还有多远？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-06",
-                "url": "https://www.ftchinese.com/story/001108624"
-            },
-            {
-                "title": "“唐罗主义”——贴上特朗普标签的新帝国主义",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-06",
-                "url": "https://www.ftchinese.com/story/001108629"
-            },
-            {
-                "title": "苹果创始人乔布斯的遗物被拍卖：Apple I 原型机 5 万美元起拍，高中领结等私人物品现身",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-06",
-                "url": "https://www.ithome.com/0/911/010.htm"
             },
             {
                 "title": "2026年1月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanR6MDNWYmE3bnJFR21KU1RRWFBCdkZxcVA3WlZCckhTM29QdFJhUnJobERvcnB0VFEwS0txM0QyQ0Nrd0dEZDZhMkxEbnozM3NWdzh6NVhLcTdmeDdVRmpibnJXNXRDdDBfRWQ2VGxrMVliWFByWHRUN2VQbURIcTFnLTJva3F5Nmc?oc=5"
             },
             {
-                "title": "2026年1月6日中国国防报第01版：要闻 - 中国军网",
+                "title": "军营观察丨场务兵：机场跑道的“守望者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-05",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDd6LXZmSEZ0SzBrVWR2R1VDdzUxVDJvS3Zmc3VQLTFOazAxempiMFFyejlyb2hYNXNXVkxyRHpMRGpXVG5sWUtJdlFLZ0ppZjNPWVVocWN3a3lmRldBM25BUUxUd04xVVZWTm0xMWp4X1lGcGFjb28tcEpiU1pQSDRwYVNFYjAwUXQ1OEJudUlpYVZUdm9sWVE3Zzh5Y2U3?oc=5"
+                "date": "2026-01-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5icTBtRFE1M2Q1bVBhbE9nSUhOTXJlYmpmVE9mZC1YM0UzMHlyTU5rTkI1LXJ2S0U5eF92WEUtVUE2VGFzaW1uTXVOcTU?oc=5"
             },
             {
                 "title": "德国成立国家级无人机防御中心 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-07T18:29:06.481278+00:00"
+    "last_updated": "2026-01-08T01:26:29.950550+00:00"
 }
