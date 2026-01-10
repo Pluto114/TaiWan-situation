@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "30 分钟 0%→ 75%，消息称三星 Galaxy S26 Ultra 手机配 60W 充电",
-                "source": "NewsAPI / Ithome.com",
+                "title": "挑动千万网友情绪的“外卖平台离职软件工程师爆料” 竟是AI谣言",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-09",
-                "url": "https://www.ithome.com/0/911/741.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544580.htm"
             },
             {
-                "title": "智谱、MiniMax港股IPO，熬过孤独的人和500亿奖赏 | 深氪lite",
+                "title": "马斯克称星链无法在南非获得运营许可 因为他不是黑人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544564.htm"
+            },
+            {
+                "title": "卡尼将访华 盛雪伯顿警告对中“务实外交”代价高昂(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-09",
+                "url": "https://www.secretchina.com/news/gb/2026/01/09/1093217.html"
+            },
+            {
+                "title": "普通眼镜秒变 AI 眼镜：歌尔 CES 2026 展示外挂配件 Rox-Vision，还有超轻百克 MR 头显",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-09",
+                "url": "https://www.ithome.com/0/911/810.htm"
+            },
+            {
+                "title": "PhotonPay光子易获数千万美元B轮融资，IDG领投",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-09",
-                "url": "https://36kr.com/p/3631042586395657"
-            },
-            {
-                "title": "8点1氪丨继“小便门”后，海底捞再曝火锅异物事件；商务部回应审查Meta收购Manus；上海移动辟谣强迫员工“上门断网”言论",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-09",
-                "url": "https://36kr.com/p/3631430184961033"
-            },
-            {
-                "title": "科技昨夜今晨 0109：2026 款比亚迪秦 L DM-i 上市；新一代小米 SU7 申报；曝英伟达 2027 下半年推 RTX 60 显卡...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-09",
-                "url": "https://www.ithome.com/0/911/725.htm"
-            },
-            {
-                "title": "监控软件 pcTattletale 开发者认罪，承认纵容软件被用于非法监视配偶",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-08",
-                "url": "https://www.ithome.com/0/911/714.htm"
+                "url": "https://36kr.com/p/3631598319682823"
             }
         ],
         "mil": [
+            {
+                "title": "智元第一、宇树第二 中国企业正主宰全球人形机器人市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544578.htm"
+            },
             {
                 "title": "智谱、MiniMax港股IPO，熬过孤独的人和500亿奖赏 | 深氪lite",
                 "source": "NewsAPI / 36kr.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.ftchinese.com/story/001108665"
             },
             {
-                "title": "美国回到丛林，南方国家还有选择权吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-08",
-                "url": "https://www.ftchinese.com/story/001108662"
-            },
-            {
                 "title": "2026年1月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-09",
@@ -92,13 +92,7 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "日本在野党批评高市将日本引向“战争国家” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xZTdIOWRWX2laY3EyNmVhNzkxemkxVlU0YWttMmJOalloYk1CaGNMblkxcWFuWlZJQnllcEVNRzFJbXBJZWgxUU40NWlIak5zWWc?oc=5"
-            },
-            {
-                "title": "解放军文化艺术中心大力弘扬军事文艺优良传统 - 中国军网",
+                "title": "解放军文化艺术中心大力弘扬军事文艺优良传统 “文艺轻骑队”向战而行为兵而歌 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcnQ2WG5VQWJ2bUl2dWk3SG9XQmhNcjg5N05JQ29pSmZHaWhBbGRSbnk2RzFiLTRsa1otSURVU0VZQmhRaERScFY2ZjllZGxJb3c?oc=5"
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BU2F5MU5kZGpzSk9Na3VKT19NcUZhZUFQQnE0SnFnX2RkWnY5QkYtS0ZfblZKdVp1dDR0VnNPcmVxdTNtbVZJTEFxUlpmV2k3QkE?oc=5"
+            },
+            {
+                "title": "“格陵兰岛绝不出售!”——丹麦民众强烈抗议美国霸权行径 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80SGJpRG5tMkNqSTgxZUlxbUo4TDJaWjZLdXE1aFNtYk5oV0RHTEVYdV9hSjhZSmVaSWNsUFU3eVR4XzloZGh5d1VaMmFIeUd5QkE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "CES 2026，这20个产品有亮点",
-                "source": "NewsAPI / 36kr.com",
+                "title": "挑动千万网友情绪的“外卖平台离职软件工程师爆料” 竟是AI谣言",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-09",
-                "url": "https://36kr.com/p/3631494888736007"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544580.htm"
             },
             {
-                "title": "智谱、MiniMax港股IPO，熬过孤独的人和500亿奖赏 | 深氪lite",
-                "source": "NewsAPI / 36kr.com",
+                "title": "马斯克称星链无法在南非获得运营许可 因为他不是黑人",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-09",
-                "url": "https://36kr.com/p/3631042586395657"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544564.htm"
             },
             {
-                "title": "RPG 游戏《英雄传说 界之轨迹 -告别塞姆利亚-》获 IGN 8 分，1 月 22 日登 Steam 平台",
+                "title": "卡尼将访华 盛雪伯顿警告对中“务实外交”代价高昂(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-09",
+                "url": "https://www.secretchina.com/news/gb/2026/01/09/1093217.html"
+            },
+            {
+                "title": "普通眼镜秒变 AI 眼镜：歌尔 CES 2026 展示外挂配件 Rox-Vision，还有超轻百克 MR 头显",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-09",
-                "url": "https://www.ithome.com/0/911/737.htm"
+                "url": "https://www.ithome.com/0/911/810.htm"
             },
             {
-                "title": "8点1氪丨继“小便门”后，海底捞再曝火锅异物事件；商务部回应审查Meta收购Manus；上海移动辟谣强迫员工“上门断网”言论",
+                "title": "PhotonPay光子易获数千万美元B轮融资，IDG领投",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-09",
-                "url": "https://36kr.com/p/3631430184961033"
-            },
-            {
-                "title": "科技昨夜今晨 0109：2026 款比亚迪秦 L DM-i 上市；新一代小米 SU7 申报；曝英伟达 2027 下半年推 RTX 60 显卡...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-09",
-                "url": "https://www.ithome.com/0/911/725.htm"
+                "url": "https://36kr.com/p/3631598319682823"
             },
             {
                 "title": "2026年1月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,13 +160,7 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "日本在野党批评高市将日本引向“战争国家” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xZTdIOWRWX2laY3EyNmVhNzkxemkxVlU0YWttMmJOalloYk1CaGNMblkxcWFuWlZJQnllcEVNRzFJbXBJZWgxUU40NWlIak5zWWc?oc=5"
-            },
-            {
-                "title": "解放军文化艺术中心大力弘扬军事文艺优良传统 - 中国军网",
+                "title": "解放军文化艺术中心大力弘扬军事文艺优良传统 “文艺轻骑队”向战而行为兵而歌 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcnQ2WG5VQWJ2bUl2dWk3SG9XQmhNcjg5N05JQ29pSmZHaWhBbGRSbnk2RzFiLTRsa1otSURVU0VZQmhRaERScFY2ZjllZGxJb3c?oc=5"
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BU2F5MU5kZGpzSk9Na3VKT19NcUZhZUFQQnE0SnFnX2RkWnY5QkYtS0ZfblZKdVp1dDR0VnNPcmVxdTNtbVZJTEFxUlpmV2k3QkE?oc=5"
+            },
+            {
+                "title": "“格陵兰岛绝不出售!”——丹麦民众强烈抗议美国霸权行径 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80SGJpRG5tMkNqSTgxZUlxbUo4TDJaWjZLdXE1aFNtYk5oV0RHTEVYdV9hSjhZSmVaSWNsUFU3eVR4XzloZGh5d1VaMmFIeUd5QkE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-10T01:23:50.933211+00:00"
+    "last_updated": "2026-01-10T06:27:06.937041+00:00"
 }
