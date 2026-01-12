@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "唐杰/杨植麟/林俊旸/姚顺雨罕见同台，“基模四杰”开聊中国AGI",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-11",
+                "url": "https://36kr.com/p/3633816041735171"
+            },
+            {
+                "title": "消息称索尼 WF-1000XM6“降噪豆”耳机 2 月 12 日提前发售，只提供黑白两种配色",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-11",
+                "url": "https://www.ithome.com/0/912/216.htm"
+            },
+            {
+                "title": "今日消费资讯：《闪灵》确认内地引进、李政厚出任泰格豪雅品牌大使",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-01-11",
+                "url": "https://www.toodaylab.com/83875"
+            },
+            {
+                "title": "科技昨夜今晨 0111：DeepSeek V4 大模型被曝春节前后发布；苹果 20 周年版 iPhone 泄露；电视剧《三体：大史》登央视 2026 片单...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-11",
+                "url": "https://www.ithome.com/0/912/211.htm"
+            },
+            {
                 "title": "AI大模型算力潮重塑美国核电版图",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-10",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1544734.htm"
-            },
-            {
-                "title": "美国芯片厂利润暴跌99% 台积电表态将助力美国完善供应链",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544726.htm"
-            },
-            {
-                "title": "德国总理出访印度：德国工业寻求对华“去风险”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-10",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E5%87%BA%E8%AE%BF%E5%8D%B0%E5%BA%A6%E5%BE%B7%E5%9B%BD%E5%B7%A5%E4%B8%9A%E5%AF%BB%E6%B1%82%E5%AF%B9%E5%8D%8E%E5%8E%BB%E9%A3%8E%E9%99%A9/a-75460905"
-            },
-            {
-                "title": "关税效应显现：美国贸易逆差降至2009年以来最低(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-10",
-                "url": "https://www.secretchina.com/news/gb/2026/01/10/1093317.html"
-            },
-            {
-                "title": "因打印机软件故障导致资料页机读码缺失，爱尔兰召回近 13000 本护照",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-10",
-                "url": "https://www.ithome.com/0/912/181.htm"
             }
         ],
         "mil": [
+            {
+                "title": "今天不用“隐身”展示：我国首款隐身战机歼-20 首飞珍贵影像公开",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-11",
+                "url": "https://www.ithome.com/0/912/217.htm"
+            },
+            {
+                "title": "科技昨夜今晨 0111：DeepSeek V4 大模型被曝春节前后发布；苹果 20 周年版 iPhone 泄露；电视剧《三体：大史》登央视 2026 片单...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-11",
+                "url": "https://www.ithome.com/0/912/211.htm"
+            },
             {
                 "title": "“活捉”马杜罗给北京攻打台湾多少激励？",
                 "source": "NewsAPI / DW (English)",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3632912705832193"
             },
             {
-                "title": "我亲历的故事（一）：1945苏联红军的阴谋和暴行(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-10",
-                "url": "https://www.secretchina.com/news/gb/2026/01/10/1093258.html"
-            },
-            {
-                "title": "“唐罗主义”重塑国际秩序 清算中共对外扩张模式(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-09",
-                "url": "https://www.secretchina.com/news/gb/2026/01/10/1093249.html"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BZnZXZzBHZFdoNE9PaHdBem81TWZWZmJWREpMWnFyTldRUmR4bFlDWkd0bEhja3llRGlDMXpOSk5INS1hWDZYMGJvNExyVWZCa3NiRXdJaw?oc=5"
             },
             {
-                "title": "中非共同捍卫正义，共同追求进步，共同倡导互利 - mfa.gov.cn",
+                "title": "坦桑尼亚总统哈桑会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-09",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzdGekQyeDlVdDl5YXBWcG9RRmwwWkttc04tR3dPMkEwOURCRjFNenBJTXYyUm9RTUlBanI5VEFGSEd5YzNCRFQ2a2lFcDZyUXpyWldYMGc4bVdiV0xTZlY4dnI2NHdaQk5UYVVibnltS3FuQmc2QVlITF92NkVNak1Mdzc1MVBHeUE?oc=5"
-            },
-            {
-                "title": "解放军文化艺术中心大力弘扬军事文艺优良传统 “文艺轻骑队”向战而行为兵而歌 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcnQ2WG5VQWJ2bUl2dWk3SG9XQmhNcjg5N05JQ29pSmZHaWhBbGRSbnk2RzFiLTRsa1otSURVU0VZQmhRaERScFY2ZjllZGxJb3c?oc=5"
+                "date": "2026-01-10",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVNycFFnQ3hwR2d3YUpJcTYxNnBRZmJOdGo4dGVlQ0NpX2dCcmozYm1DbUQzelJMSUtrUENWWnZoOXpoMHRCc0pJWHMtbktuejF3bXVXdUlCZjJ0emJnX2tTM1Bhc3NXbHNvelJfNVVFak81aXlrQmROeDVfamZaZzlYTjhidVEwTVRxeHJR?oc=5"
             },
             {
                 "title": "三九探哨丨托举战鹰：我爱祖国的蓝天 - 中国军网",
@@ -108,9 +102,27 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41SkxRZHBxQkdwUEFQYl9LUmFEZURZYlE4OE5BR0NCbUNtbHpjZWU0a1VPSWgxRXRvQjE3T192UmszQUw3dWlfRVE4WXhxVGFWRXc?oc=5"
+            },
+            {
+                "title": "环球军情丨美加速推进“无人机优势计划” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-11",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rMFYyNXlBMzh3NGZiUkJIdnZDbXRGb1hjMDhIMTFIVm5VNm1fSVBlTWtNNXVWQjVXb0Z3ZXVLVXh4V29nZ3h3RWZwYmJVZUVUQlhFNzZ1UXZSUUNBcVI1bw?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "唐杰/杨植麟/林俊旸/姚顺雨罕见同台，“基模四杰”开聊中国AGI",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-11",
+                "url": "https://36kr.com/p/3633816041735171"
+            },
+            {
+                "title": "今日消费资讯：《闪灵》确认内地引进、李政厚出任泰格豪雅品牌大使",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-01-11",
+                "url": "https://www.toodaylab.com/83875"
+            },
             {
                 "title": "“活捉”马杜罗给北京攻打台湾多少激励？",
                 "source": "NewsAPI / DW (English)",
@@ -130,18 +142,6 @@
                 "url": "https://www.ithome.com/0/912/181.htm"
             },
             {
-                "title": "航发团队攻坚半导体真空设备，多款产品性能对标国际标杆，完成数千万天使轮融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-10",
-                "url": "https://36kr.com/p/3633518419428361"
-            },
-            {
-                "title": "拒不配合反盗版封锁DNS Cloudflare被意大利监管机构罚款1420万欧元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544710.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BZnZXZzBHZFdoNE9PaHdBem81TWZWZmJWREpMWnFyTldRUmR4bFlDWkd0bEhja3llRGlDMXpOSk5INS1hWDZYMGJvNExyVWZCa3NiRXdJaw?oc=5"
             },
             {
-                "title": "中非共同捍卫正义，共同追求进步，共同倡导互利 - mfa.gov.cn",
+                "title": "坦桑尼亚总统哈桑会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-09",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzdGekQyeDlVdDl5YXBWcG9RRmwwWkttc04tR3dPMkEwOURCRjFNenBJTXYyUm9RTUlBanI5VEFGSEd5YzNCRFQ2a2lFcDZyUXpyWldYMGc4bVdiV0xTZlY4dnI2NHdaQk5UYVVibnltS3FuQmc2QVlITF92NkVNak1Mdzc1MVBHeUE?oc=5"
-            },
-            {
-                "title": "解放军文化艺术中心大力弘扬军事文艺优良传统 “文艺轻骑队”向战而行为兵而歌 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcnQ2WG5VQWJ2bUl2dWk3SG9XQmhNcjg5N05JQ29pSmZHaWhBbGRSbnk2RzFiLTRsa1otSURVU0VZQmhRaERScFY2ZjllZGxJb3c?oc=5"
+                "date": "2026-01-10",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVNycFFnQ3hwR2d3YUpJcTYxNnBRZmJOdGo4dGVlQ0NpX2dCcmozYm1DbUQzelJMSUtrUENWWnZoOXpoMHRCc0pJWHMtbktuejF3bXVXdUlCZjJ0emJnX2tTM1Bhc3NXbHNvelJfNVVFak81aXlrQmROeDVfamZaZzlYTjhidVEwTVRxeHJR?oc=5"
             },
             {
                 "title": "三九探哨丨托举战鹰：我爱祖国的蓝天 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41SkxRZHBxQkdwUEFQYl9LUmFEZURZYlE4OE5BR0NCbUNtbHpjZWU0a1VPSWgxRXRvQjE3T192UmszQUw3dWlfRVE4WXhxVGFWRXc?oc=5"
+            },
+            {
+                "title": "环球军情丨美加速推进“无人机优势计划” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-11",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rMFYyNXlBMzh3NGZiUkJIdnZDbXRGb1hjMDhIMTFIVm5VNm1fSVBlTWtNNXVWQjVXb0Z3ZXVLVXh4V29nZ3h3RWZwYmJVZUVUQlhFNzZ1UXZSUUNBcVI1bw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-11T18:25:53.348916+00:00"
+    "last_updated": "2026-01-12T01:40:03.734316+00:00"
 }
