@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英特尔前CEO祝贺18A项目完成",
+                "title": "加拿大总理卡尼访华，中加关系会不会改善？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-01-12",
+                "url": "https://www.ftchinese.com/story/001108690"
+            },
+            {
+                "title": "欧盟出台替代方案 中国电动车关税争议有解",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-12",
+                "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E5%87%BA%E5%8F%B0%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%85%B3%E7%A8%8E%E4%BA%89%E8%AE%AE%E6%9C%89%E8%A7%A3/a-75477947"
+            },
+            {
+                "title": "电脑四大配件价格暴涨 华强北配一台电脑至少涨1000元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544954.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544972.htm"
             },
             {
-                "title": "马斯克 3 小时高能量访谈，全是“暴论”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "【CDT周报】第252期：蓝天越蓝，屋子越寒；北京越体面，河北越冰冷",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-01-12",
-                "url": "https://www.ithome.com/0/912/595.htm"
+                "url": "https://chinadigitaltimes.net/chinese/724292.html"
             },
             {
-                "title": "戴德梁行：房地产市场还有潜力 REITs扩围开启不动产金融化新阶段",
-                "source": "NewsAPI / 36kr.com",
+                "title": "C919彩绘涂装亮相 广州往返南京航线上新",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-12",
-                "url": "https://36kr.com/p/3636261248320771"
-            },
-            {
-                "title": "氪星晚报｜加拿大Kepler公司发射10颗卫星；被传离职？小米卢伟冰发文：今天上班；我国牵头的滑动轴承国际标准正式发布",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-12",
-                "url": "https://36kr.com/p/3636224407651591"
-            },
-            {
-                "title": "俄罗斯达人“手搓”DDR5 内存，成本低性能强",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-12",
-                "url": "https://www.ithome.com/0/912/520.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544970.htm"
             }
         ],
         "mil": [
+            {
+                "title": "上亿中国烟民觉醒造反 决定不养孙子了(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-12",
+                "url": "https://www.secretchina.com/news/gb/2026/01/12/1093408.html"
+            },
             {
                 "title": "填补奥迪全尺寸旗舰 SUV 空白：Q9 年内登场，美国经销商兴奋直呼“快点发布吧”",
                 "source": "NewsAPI / Ithome.com",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-12",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1544888.htm"
-            },
-            {
-                "title": "硅谷超级富豪们正在仓皇逃离加州",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544880.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "加拿大总理访华 联手抵御特朗普关税？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-12",
-                "url": "https://www.dw.com/zh/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E8%AE%BF%E5%8D%8E-%E8%81%94%E6%89%8B%E6%8A%B5%E5%BE%A1%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E/a-75473661"
-            },
-            {
-                "title": "《一战再战》和《混沌少年时》成为大赢家的 83 届金球奖，还首次为播客颁了奖",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-01-12",
-                "url": "https://www.toodaylab.com/83878"
-            },
-            {
-                "title": "英特尔前CEO祝贺18A项目完成",
+                "title": "澳大利亚未成年人社媒禁令生效 Meta一月内关闭近55万账户",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544954.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544986.htm"
             },
             {
-                "title": "戴德梁行：房地产市场还有潜力 REITs扩围开启不动产金融化新阶段",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-12",
-                "url": "https://36kr.com/p/3636261248320771"
-            },
-            {
-                "title": "韩国致179死空难黑匣子录音首次公布 调查称客机若未撞围墙乘客可全员生还",
+                "title": "苹果牵手Google：新一代Siri将由Gemini提供动力",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1544940.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544984.htm"
+            },
+            {
+                "title": "加拿大总理卡尼访华，中加关系会不会改善？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-01-12",
+                "url": "https://www.ftchinese.com/story/001108690"
+            },
+            {
+                "title": "消息称小鹏今年将推 G01 等 4 款新车，冲击 55 万-60 万销量目标",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-12",
+                "url": "https://www.ithome.com/0/912/636.htm"
+            },
+            {
+                "title": "梅赛德斯-奔驰 2025 年汽车销量同比下滑 9% 至 180 万辆，中国市场暴跌 19%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-12",
+                "url": "https://www.ithome.com/0/912/628.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-13T12:41:24.355987+00:00"
+    "last_updated": "2026-01-13T18:31:13.748751+00:00"
 }
