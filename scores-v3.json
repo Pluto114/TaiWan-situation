@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美光：消费者对厂商存在误解 正在努力扩产",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544858.htm"
+            },
+            {
+                "title": "联发科携手耕兴取得 FCC 全球首份 Wi-Fi 8 认证",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-12",
+                "url": "https://www.ithome.com/0/912/434.htm"
+            },
+            {
+                "title": "国家标准全文免费公开成效显著，全年浏览量达 1 亿多次",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-12",
+                "url": "https://www.ithome.com/0/912/423.htm"
+            },
+            {
+                "title": "【IT之家评测室】让 AI 开发更简单 —— 摩尔线程 MTT AIBOOK 全面评测",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-12",
+                "url": "https://www.ithome.com/0/912/422.htm"
+            },
+            {
                 "title": "【CDT报告汇】保护卫士：2025年中国庇护申请者人数超过胡锦涛十年（外二篇）",
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-01-12",
                 "url": "https://chinadigitaltimes.net/chinese/724285.html"
-            },
-            {
-                "title": "伊朗血腥镇压逾538人死及万人遭拘留 川普选项曝光(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-12",
-                "url": "https://www.secretchina.com/news/gb/2026/01/12/1093380.html"
-            },
-            {
-                "title": "中信建投：投资与需求端利好频出，关注扩内需与高景气细分赛道",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-12",
-                "url": "https://36kr.com/newsflashes/3635724939314440"
-            },
-            {
-                "title": "科技昨夜今晨：0112：2025 年底新旗舰单品激活百万机型曝光；独居安全 App“死了么”引热议；华为引望回应 2026 下半年上市传闻 ...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-12",
-                "url": "https://www.ithome.com/0/912/354.htm"
-            },
-            {
-                "title": "8点1氪丨“死了么”APP估值已达1000万元；霍启刚主动公开个人财产；iPhone 4需求激增近1000%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-11",
-                "url": "https://36kr.com/p/3635665486071045"
             }
         ],
         "mil": [
+            {
+                "title": "习近平恐“斩首” 中南海地图消失半夜播“习语录”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-12",
+                "url": "https://www.secretchina.com/news/gb/2026/01/12/1093330.html"
+            },
             {
                 "title": "伊朗血腥镇压逾538人死及万人遭拘留 川普选项曝光(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,10 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1544840.htm"
             },
             {
-                "title": "欧洲应考虑走自己的独木桥",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-11",
-                "url": "https://www.ftchinese.com/story/001108680"
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2006-03-15",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE0zQzU0V3VZX043ZGF1YXdwZEQtZV9VdjR0WElLdm9keXNaTHRHekVBT25ya01NZThDaHc?oc=5"
             },
             {
                 "title": "王毅同索马里外长德埃电话会谈 - mfa.gov.cn",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻马来西亚大使欧阳玉靖出席新一对旅马大熊猫亮相仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3N2bTJpbDRYdHJJdlhZN3RvSVhwcVo3UjRncVFDR0xZT1NkRlFLc2hNakVILW82SzRWWlM2MGxPajQyYk1qTC1xbmktZXl4NDdXanhyTGdHVDFDTWFaUmJGRkc1WEVmSGNVRjNuOGdlQWxjZXRzaE1UaTR1S1hsa1Rxd3g?oc=5"
-            },
-            {
                 "title": "关爱新兵要把握好“火候” ，别让过度热情“灼伤”新战友 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qdzRzQmlOYWJFRk13WHU3ZW9VU0tFX0NidkNHYzJReHhEUkZIU3ZlV0dzLTNwdWtoRjhfOVFXenJmRFJoVmFfMm0yMXhHUmlPZVE?oc=5"
             },
             {
+                "title": "2026年1月12日中国国防报第04版：国际 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-13",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHI4MTVRTExRWklULV9ZQUVHXzRCazBjLUlaZC1Hc0hKMWk3RG9mdFk1ZU51ZFhsQ1NUN0dia1FDOXlCWVZodWVtU0UwWGFlN2sxN3pxWVhjOXZnWmYzaTRHU0tKcndjN2x0WXFvbFFzbXhHVGN1cVJWVnd1bWk3d0VEcFV6TEdpN2Ryc0pwcXk1RTBOa04wR3Z4MDlRQzBj?oc=5"
+            },
+            {
                 "title": "反腐败是党与民心的“进一步握手” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vWEJSeVlzc0hfdk04SnBpQm10MUcxU1pCWVM1ZGlJTU9qWk05OXpqaFQ3YkFtc2dqREMya2pSY181S3VxVGlwQkozQS1zMGF5X1E?oc=5"
-            },
-            {
-                "title": "浴血鲁西南抗日战场的“铁军将才” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXX1RpTDU1TDdSaWZpWHp1OUoxSUhCNHM2WFQ0OGlSRlRyWjJjcU56THd2ZnZZX3JTS0VWaDBKVnVlVFBjbm5qel8yUzhfV2Z6bEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "川普警告古巴尽快与美达成协议 切断委国油钱支持(图)",
+                "title": "习近平恐“斩首” 中南海地图消失半夜播“习语录”(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-11",
-                "url": "https://www.secretchina.com/news/gb/2026/01/12/1093379.html"
+                "date": "2026-01-12",
+                "url": "https://www.secretchina.com/news/gb/2026/01/12/1093330.html"
             },
             {
-                "title": "8点1氪丨“死了么”APP估值已达1000万元；霍启刚主动公开个人财产；iPhone 4需求激增近1000%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-11",
-                "url": "https://36kr.com/p/3635665486071045"
+                "title": "美国启动“地磁导航”全球测绘计划 不怕信号被干扰",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544848.htm"
             },
             {
-                "title": "家庭出身即原罪 “我逃离了谎言国度”(组图)",
+                "title": "现代汽车发布Staria纯电MPV量产版：800V快充、WLTP续航400公里",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1544842.htm"
+            },
+            {
+                "title": "中日关系紧张延烧 香港与日本交流受阻(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-11",
-                "url": "https://www.secretchina.com/news/gb/2026/01/12/1093113.html"
+                "date": "2026-01-12",
+                "url": "https://www.secretchina.com/news/gb/2026/01/12/1093385.html"
             },
             {
-                "title": "电池行业的残酷代价",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-11",
-                "url": "https://www.ftchinese.com/story/001108679"
+                "title": "【IT之家评测室】让 AI 开发更简单 —— 摩尔线程 MTT AIBOOK 全面评测",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-12",
+                "url": "https://www.ithome.com/0/912/422.htm"
             },
             {
-                "title": "政策转向重塑上市版图，中企境外IPO由美转港",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-11",
-                "url": "https://www.ftchinese.com/story/001108678"
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2006-03-15",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE0zQzU0V3VZX043ZGF1YXdwZEQtZV9VdjR0WElLdm9keXNaTHRHekVBT25ya01NZThDaHc?oc=5"
             },
             {
                 "title": "王毅同索马里外长德埃电话会谈 - mfa.gov.cn",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻马来西亚大使欧阳玉靖出席新一对旅马大熊猫亮相仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3N2bTJpbDRYdHJJdlhZN3RvSVhwcVo3UjRncVFDR0xZT1NkRlFLc2hNakVILW82SzRWWlM2MGxPajQyYk1qTC1xbmktZXl4NDdXanhyTGdHVDFDTWFaUmJGRkc1WEVmSGNVRjNuOGdlQWxjZXRzaE1UaTR1S1hsa1Rxd3g?oc=5"
-            },
-            {
                 "title": "关爱新兵要把握好“火候” ，别让过度热情“灼伤”新战友 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qdzRzQmlOYWJFRk13WHU3ZW9VU0tFX0NidkNHYzJReHhEUkZIU3ZlV0dzLTNwdWtoRjhfOVFXenJmRFJoVmFfMm0yMXhHUmlPZVE?oc=5"
             },
             {
+                "title": "2026年1月12日中国国防报第04版：国际 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-13",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHI4MTVRTExRWklULV9ZQUVHXzRCazBjLUlaZC1Hc0hKMWk3RG9mdFk1ZU51ZFhsQ1NUN0dia1FDOXlCWVZodWVtU0UwWGFlN2sxN3pxWVhjOXZnWmYzaTRHU0tKcndjN2x0WXFvbFFzbXhHVGN1cVJWVnd1bWk3d0VEcFV6TEdpN2Ryc0pwcXk1RTBOa04wR3Z4MDlRQzBj?oc=5"
+            },
+            {
                 "title": "反腐败是党与民心的“进一步握手” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vWEJSeVlzc0hfdk04SnBpQm10MUcxU1pCWVM1ZGlJTU9qWk05OXpqaFQ3YkFtc2dqREMya2pSY181S3VxVGlwQkozQS1zMGF5X1E?oc=5"
-            },
-            {
-                "title": "浴血鲁西南抗日战场的“铁军将才” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXX1RpTDU1TDdSaWZpWHp1OUoxSUhCNHM2WFQ0OGlSRlRyWjJjcU56THd2ZnZZX3JTS0VWaDBKVnVlVFBjbm5qel8yUzhfV2Z6bEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-13T01:22:54.689571+00:00"
+    "last_updated": "2026-01-13T06:29:54.687845+00:00"
 }
