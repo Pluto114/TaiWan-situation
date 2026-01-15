@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "欧洲汽车零部件行业持续“失血”，近两年裁员逾 10 万人",
+                "title": "中汽协：2025 年汽车产销分别完成 3453.1 万辆和 3440 万辆再创新高，连续 17 年稳居全球第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-14",
-                "url": "https://www.ithome.com/0/913/027.htm"
+                "url": "https://www.ithome.com/0/913/137.htm"
             },
             {
-                "title": "Gemini推出购物功能，AI重塑消费入口的1000天",
+                "title": "内存价格创近8年来最高点 3000亿长鑫科技“单挑”国际巨头",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545204.htm"
+            },
+            {
+                "title": "存储涨价有多疯狂?32G内存从600涨到2000 1台PC从6000几天涨至7500",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545202.htm"
+            },
+            {
+                "title": "2025年汽车产销量再创历史新高，连续17年稳居全球第一",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-14",
-                "url": "https://36kr.com/p/3637918071098753"
+                "url": "https://36kr.com/newsflashes/3638863025229189"
             },
             {
-                "title": "中国出现中产阶级革命的关键(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "伊朗抗議逾2000死 美祭關稅牽動中伊關係",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-01-14",
-                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093482.html"
-            },
-            {
-                "title": "伊朗垮台的四大地缘效应(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-14",
-                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093481.html"
-            },
-            {
-                "title": "8点1氪丨钟薛高创始人胜诉：“爱买不买”不是我说的；“死了么”APP将更名为Demumu；麦当劳客服回应汉堡包越做越小",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-13",
-                "url": "https://36kr.com/p/3638500184739202"
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE%E9%80%BE2000%E6%AD%BB-%E7%BE%8E%E7%A5%AD%E5%85%B3%E7%A8%8E%E7%89%B5%E5%8A%A8%E4%B8%AD%E4%BC%8A%E5%85%B3%E7%B3%BB/a-75497486"
             }
         ],
         "mil": [
+            {
+                "title": "前小鹏高管创业，给美国家庭造了台户外陪伴机器人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-14",
+                "url": "https://36kr.com/p/3638686789454983"
+            },
             {
                 "title": "Gemini推出购物功能，AI重塑消费入口的1000天",
                 "source": "NewsAPI / 36kr.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/01/14/1093459.html"
             },
             {
-                "title": "马杜罗被捕背后的大棋局：震慑中共 提醒拉美(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-13",
-                "url": "https://www.secretchina.com/news/gb/2026/01/13/1093459.html"
-            },
-            {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2017-12-17",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZRHNUV21ZdnBESzA3SlJIZ3pDVEhKcXgxOVNYT1NubnktTkQwd1RiaVlFdEVaSWxhS1FCc2JZOGE3cktTNnlDYmw0VEFGRjVVbXlpdmxHbEtFd1NRRDd0aVA4ckhzX1lQSi1ndFZfR2lEc2d1R0E?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年1月14日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-01-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fNU9HX0c5bEM2VTJRZjdqMHk4S3dVbHBXVkdIMHlQT0hNVDhZM2tjWEYtOVVTdkhvOFRrVVRQWnAxZGNEdXp0Y3h2QUVWTUZ2RmtOM0VBVXJ2NW5IVngtUVB2SjRjWXBEZkpOaWNlbDBQM01PNlE?oc=5"
             },
             {
                 "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wa3ZVMkZNT0g0c2JpOG9VeDNSZEp0QnlQd2s0ZHVyZDYxMHpJaElwZGQxTkdYQm5yaEc5OUxVVjhJUmNhWUFqMHRPaW80blFFQ2c?oc=5"
             },
             {
-                "title": "看到班长的身影，心里就踏实了- 八一视频 - 八一视频",
+                "title": "空军某部：信息网络新技术赋能增效新时代政治工作 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-13",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyTlpfY0V5dlVsc3o2Q0tscmhFR0tWQWFDbkQ1STA1V19hZVdDTXI4ODlLODJuaHQzVDRKRmI2c2FRdFJnWE1QSXd3?oc=5"
+                "date": "2026-01-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sQ056cDNfendmemVJQ2pKSjFIS09RMW5GbGRKTXI0dDNiUXJuQ20wMURINnkzN3lOaDk2d1VldGpuWUIySTlUaTZaTlRGS1JvMUE?oc=5"
             },
             {
-                "title": "2026年1月12日中国国防报第04版：国际 - 中国军网",
+                "title": "中国海警舰艇编队1月14日在我钓鱼岛领海巡航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-13",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHI4MTVRTExRWklULV9ZQUVHXzRCazBjLUlaZC1Hc0hKMWk3RG9mdFk1ZU51ZFhsQ1NUN0dia1FDOXlCWVZodWVtU0UwWGFlN2sxN3pxWVhjOXZnWmYzaTRHU0tKcndjN2x0WXFvbFFzbXhHVGN1cVJWVnd1bWk3d0VEcFV6TEdpN2Ryc0pwcXk1RTBOa04wR3Z4MDlRQzBj?oc=5"
+                "date": "2026-01-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aeGwwSDZaVk1UdV9pb2ppMDNFWnhQeG9kR3lRZ1hTLTJfVTZWZjYtOVA4cjB2TG9Bc3RNdGdaV2FzWHJKUVdZalN5ZlZORW9kZWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "欧洲汽车零部件行业持续“失血”，近两年裁员逾 10 万人",
+                "title": "内存价格创近8年来最高点 3000亿长鑫科技“单挑”国际巨头",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545204.htm"
+            },
+            {
+                "title": "中国申请20.3万颗卫星频轨资源：未来手机将不再失联、海里沙漠里也能上网",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545196.htm"
+            },
+            {
+                "title": "IDC：2025 年全球智能手机出货量 12.6 亿部，苹果连续三年稳居第一，华为国内第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-14",
-                "url": "https://www.ithome.com/0/913/027.htm"
+                "url": "https://www.ithome.com/0/913/114.htm"
             },
             {
-                "title": "Gemini推出购物功能，AI重塑消费入口的1000天",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-14",
-                "url": "https://36kr.com/p/3637918071098753"
-            },
-            {
-                "title": "中国出现中产阶级革命的关键(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-14",
-                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093482.html"
-            },
-            {
-                "title": "8点1氪丨钟薛高创始人胜诉：“爱买不买”不是我说的；“死了么”APP将更名为Demumu；麦当劳客服回应汉堡包越做越小",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-13",
-                "url": "https://36kr.com/p/3638500184739202"
-            },
-            {
-                "title": "特斯拉续约朱晓彤 并授予约52万股限制性股票激励",
+                "title": "特斯拉第四季度美国电动汽车份额大增至59%",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545148.htm"
+                "date": "2026-01-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545170.htm"
+            },
+            {
+                "title": "“死了么”引发美媒关注 《连线》采访创始人：被60多家投资者接触、将整合AI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545158.htm"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZRHNUV21ZdnBESzA3SlJIZ3pDVEhKcXgxOVNYT1NubnktTkQwd1RiaVlFdEVaSWxhS1FCc2JZOGE3cktTNnlDYmw0VEFGRjVVbXlpdmxHbEtFd1NRRDd0aVA4ckhzX1lQSi1ndFZfR2lEc2d1R0E?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年1月14日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-01-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fNU9HX0c5bEM2VTJRZjdqMHk4S3dVbHBXVkdIMHlQT0hNVDhZM2tjWEYtOVVTdkhvOFRrVVRQWnAxZGNEdXp0Y3h2QUVWTUZ2RmtOM0VBVXJ2NW5IVngtUVB2SjRjWXBEZkpOaWNlbDBQM01PNlE?oc=5"
             },
             {
                 "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wa3ZVMkZNT0g0c2JpOG9VeDNSZEp0QnlQd2s0ZHVyZDYxMHpJaElwZGQxTkdYQm5yaEc5OUxVVjhJUmNhWUFqMHRPaW80blFFQ2c?oc=5"
             },
             {
-                "title": "看到班长的身影，心里就踏实了- 八一视频 - 八一视频",
+                "title": "空军某部：信息网络新技术赋能增效新时代政治工作 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-13",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyTlpfY0V5dlVsc3o2Q0tscmhFR0tWQWFDbkQ1STA1V19hZVdDTXI4ODlLODJuaHQzVDRKRmI2c2FRdFJnWE1QSXd3?oc=5"
+                "date": "2026-01-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sQ056cDNfendmemVJQ2pKSjFIS09RMW5GbGRKTXI0dDNiUXJuQ20wMURINnkzN3lOaDk2d1VldGpuWUIySTlUaTZaTlRGS1JvMUE?oc=5"
             },
             {
-                "title": "2026年1月12日中国国防报第04版：国际 - 中国军网",
+                "title": "中国海警舰艇编队1月14日在我钓鱼岛领海巡航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-13",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHI4MTVRTExRWklULV9ZQUVHXzRCazBjLUlaZC1Hc0hKMWk3RG9mdFk1ZU51ZFhsQ1NUN0dia1FDOXlCWVZodWVtU0UwWGFlN2sxN3pxWVhjOXZnWmYzaTRHU0tKcndjN2x0WXFvbFFzbXhHVGN1cVJWVnd1bWk3d0VEcFV6TEdpN2Ryc0pwcXk1RTBOa04wR3Z4MDlRQzBj?oc=5"
+                "date": "2026-01-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aeGwwSDZaVk1UdV9pb2ppMDNFWnhQeG9kR3lRZ1hTLTJfVTZWZjYtOVA4cjB2TG9Bc3RNdGdaV2FzWHJKUVdZalN5ZlZORW9kZWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-15T01:24:52.159111+00:00"
+    "last_updated": "2026-01-15T06:29:43.412231+00:00"
 }
