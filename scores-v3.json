@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "台湾销美关税降至15% 台积电加强赴美投资(图)",
+                "title": "欧洲汽车零部件行业持续“失血”，近两年裁员逾 10 万人",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-14",
+                "url": "https://www.ithome.com/0/913/027.htm"
+            },
+            {
+                "title": "Gemini推出购物功能，AI重塑消费入口的1000天",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-14",
+                "url": "https://36kr.com/p/3637918071098753"
+            },
+            {
+                "title": "中国出现中产阶级革命的关键(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-13",
-                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093472.html"
+                "date": "2026-01-14",
+                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093482.html"
             },
             {
-                "title": "展望2026：劳动“回归”的中国经济",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-13",
-                "url": "https://www.ftchinese.com/story/001108667"
+                "title": "伊朗垮台的四大地缘效应(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-14",
+                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093481.html"
             },
             {
-                "title": "罗泽特：国际社会应认真对待反犹主义历史",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-13",
-                "url": "https://www.ftchinese.com/story/001108701"
-            },
-            {
-                "title": "智能化爆发前夜，智界汽车正在经历一场从1到100的品牌跃升战",
+                "title": "8点1氪丨钟薛高创始人胜诉：“爱买不买”不是我说的；“死了么”APP将更名为Demumu；麦当劳客服回应汉堡包越做越小",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-13",
-                "url": "https://36kr.com/p/3638008100211842"
-            },
-            {
-                "title": "柬埔寨暂停出售太子集团房产",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-13",
-                "url": "https://www.dw.com/zh/%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%9A%82%E5%81%9C%E5%87%BA%E5%94%AE%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9B%A2%E6%88%BF%E4%BA%A7/a-75494646"
+                "url": "https://36kr.com/p/3638500184739202"
             }
         ],
         "mil": [
+            {
+                "title": "Gemini推出购物功能，AI重塑消费入口的1000天",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-14",
+                "url": "https://36kr.com/p/3637918071098753"
+            },
+            {
+                "title": "8点1氪丨钟薛高创始人胜诉：“爱买不买”不是我说的；“死了么”APP将更名为Demumu；麦当劳客服回应汉堡包越做越小",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-13",
+                "url": "https://36kr.com/p/3638500184739202"
+            },
+            {
+                "title": "美国政府正式批准英伟达H200芯片对华出口",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545146.htm"
+            },
+            {
+                "title": "马杜罗被捕背后的大棋局：震慑中共 提醒拉美(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-13",
+                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093459.html"
+            },
             {
                 "title": "马杜罗被捕背后的大棋局：震慑中共 提醒拉美(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -50,28 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/01/13/1093459.html"
             },
             {
-                "title": "“救救我们 救救中国百姓”中国大批网民向川普弹窗呼救(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-13",
-                "url": "https://www.secretchina.com/news/gb/2026/01/13/1093454.html"
-            },
-            {
-                "title": "行车记录仪制造商Motive标榜人工智能技术 实则依赖人工审核",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545092.htm"
-            },
-            {
-                "title": "氪星晚报｜美防长称马斯克旗下AI聊天机器人将接入五角大楼系统；瑞银首席执行官据悉将于2027年4月卸任；王小川：百川智能预计2027年启动IPO",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-13",
-                "url": "https://36kr.com/p/3637665871807496"
-            },
-            {
-                "title": "美海军借仿真F-35推演有人机协同作战新战术 战机无需真正升空",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545064.htm"
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
                 "title": "2026年1月13日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,18 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
-                "title": "关爱新兵要把握好“火候” ，别让过度热情“灼伤”新战友 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qdzRzQmlOYWJFRk13WHU3ZW9VU0tFX0NidkNHYzJReHhEUkZIU3ZlV0dzLTNwdWtoRjhfOVFXenJmRFJoVmFfMm0yMXhHUmlPZVE?oc=5"
-            },
-            {
                 "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-14",
@@ -108,38 +102,50 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-13",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyTlpfY0V5dlVsc3o2Q0tscmhFR0tWQWFDbkQ1STA1V19hZVdDTXI4ODlLODJuaHQzVDRKRmI2c2FRdFJnWE1QSXd3?oc=5"
+            },
+            {
+                "title": "2026年1月12日中国国防报第04版：国际 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-13",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHI4MTVRTExRWklULV9ZQUVHXzRCazBjLUlaZC1Hc0hKMWk3RG9mdFk1ZU51ZFhsQ1NUN0dia1FDOXlCWVZodWVtU0UwWGFlN2sxN3pxWVhjOXZnWmYzaTRHU0tKcndjN2x0WXFvbFFzbXhHVGN1cVJWVnd1bWk3d0VEcFV6TEdpN2Ryc0pwcXk1RTBOa04wR3Z4MDlRQzBj?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "罗泽特：国际社会应认真对待反犹主义历史",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-13",
-                "url": "https://www.ftchinese.com/story/001108701"
+                "title": "欧洲汽车零部件行业持续“失血”，近两年裁员逾 10 万人",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-14",
+                "url": "https://www.ithome.com/0/913/027.htm"
             },
             {
-                "title": "智能化爆发前夜，智界汽车正在经历一场从1到100的品牌跃升战",
+                "title": "Gemini推出购物功能，AI重塑消费入口的1000天",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-14",
+                "url": "https://36kr.com/p/3637918071098753"
+            },
+            {
+                "title": "中国出现中产阶级革命的关键(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-14",
+                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093482.html"
+            },
+            {
+                "title": "8点1氪丨钟薛高创始人胜诉：“爱买不买”不是我说的；“死了么”APP将更名为Demumu；麦当劳客服回应汉堡包越做越小",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-13",
-                "url": "https://36kr.com/p/3638008100211842"
+                "url": "https://36kr.com/p/3638500184739202"
             },
             {
-                "title": "专访：“梅尔茨对华表现出一定距离 是适当的”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-13",
-                "url": "https://www.dw.com/zh/%E4%B8%93%E8%AE%BF%E6%A2%85%E5%B0%94%E8%8C%A8%E5%AF%B9%E5%8D%8E%E8%A1%A8%E7%8E%B0%E5%87%BA%E4%B8%80%E5%AE%9A%E8%B7%9D%E7%A6%BB-%E6%98%AF%E9%80%82%E5%BD%93%E7%9A%84/a-75493987"
-            },
-            {
-                "title": "行车记录仪制造商Motive标榜人工智能技术 实则依赖人工审核",
+                "title": "特斯拉续约朱晓彤 并授予约52万股限制性股票激励",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545092.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545148.htm"
             },
             {
-                "title": "氪星晚报｜美防长称马斯克旗下AI聊天机器人将接入五角大楼系统；瑞银首席执行官据悉将于2027年4月卸任；王小川：百川智能预计2027年启动IPO",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-13",
-                "url": "https://36kr.com/p/3637665871807496"
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
                 "title": "2026年1月13日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,18 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
-                "title": "关爱新兵要把握好“火候” ，别让过度热情“灼伤”新战友 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qdzRzQmlOYWJFRk13WHU3ZW9VU0tFX0NidkNHYzJReHhEUkZIU3ZlV0dzLTNwdWtoRjhfOVFXenJmRFJoVmFfMm0yMXhHUmlPZVE?oc=5"
-            },
-            {
                 "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-14",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-13",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyTlpfY0V5dlVsc3o2Q0tscmhFR0tWQWFDbkQ1STA1V19hZVdDTXI4ODlLODJuaHQzVDRKRmI2c2FRdFJnWE1QSXd3?oc=5"
+            },
+            {
+                "title": "2026年1月12日中国国防报第04版：国际 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-13",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHI4MTVRTExRWklULV9ZQUVHXzRCazBjLUlaZC1Hc0hKMWk3RG9mdFk1ZU51ZFhsQ1NUN0dia1FDOXlCWVZodWVtU0UwWGFlN2sxN3pxWVhjOXZnWmYzaTRHU0tKcndjN2x0WXFvbFFzbXhHVGN1cVJWVnd1bWk3d0VEcFV6TEdpN2Ryc0pwcXk1RTBOa04wR3Z4MDlRQzBj?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-14T18:29:59.081512+00:00"
+    "last_updated": "2026-01-15T01:24:52.159111+00:00"
 }
