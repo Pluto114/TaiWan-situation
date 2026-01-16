@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "前泽宝创始人再创业，深耕北美AI高端烹饪，首年营收破两千万美元、毛利超60%｜早期项目",
-                "source": "NewsAPI / 36kr.com",
+                "title": "全球高端玻纤布紧缺 黄仁勋亲自赴日企抢购",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://36kr.com/p/3639448562716033"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545386.htm"
             },
             {
-                "title": "对北京的幻想破灭 伊朗四面楚歌下“好友”却撒手？(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "​农历丙午马年将至，10 家腕表品牌这样诠释“马”元素",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-01-15",
-                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093537.html"
+                "url": "https://www.toodaylab.com/83879"
             },
             {
-                "title": "奔驰、宝马2026年预测不足50万辆，退回十年前｜36氪独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "OpenAI签下近700亿AI芯片巨单",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://36kr.com/p/3638726927092868"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545362.htm"
             },
             {
-                "title": "科技昨夜今晨 0115：美政府批准向中国出口 H200；携程回应被立案调查；我国发布全球首个“月球计时软件”...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特斯拉砍掉FSD买断制 表面是降门槛，背后其实藏着三个心眼",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/326.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545360.htm"
             },
             {
-                "title": "8点1氪丨携程回应因涉嫌垄断行为被立案调查；茶颜悦色没喝就“消失”半杯，内部人士回应；老干妈回应“味道变了”",
-                "source": "NewsAPI / 36kr.com",
+                "title": "5年悬案与2亿追索：迅雷重启诉讼 指控前CEO陈磊隐秘掏空公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://36kr.com/p/3639921068871046"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545356.htm"
             }
         ],
         "mil": [
+            {
+                "title": "特斯拉砍掉FSD买断制 表面是降门槛，背后其实藏着三个心眼",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545360.htm"
+            },
+            {
+                "title": "黄金之外的撤退 1949年“抢救学人计划”(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-15",
+                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093538.html"
+            },
             {
                 "title": "科技昨夜今晨 0115：美政府批准向中国出口 H200；携程回应被立案调查；我国发布全球首个“月球计时软件”...",
                 "source": "NewsAPI / Ithome.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.ftchinese.com/story/001108708"
             },
             {
-                "title": "AI原生应用：舰载机与航母的战略博弈",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108713"
-            },
-            {
-                "title": "破解巴西养牛业毁林与暴力之结",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108714"
-            },
-            {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-15",
@@ -86,7 +86,7 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VnRMNUJpV3M3eFI2aUhuSkNpVFNYZE5hX1dSa3czdnhvNDd1UUtfNEhFOHJFbks4R1BjSjR1N3BJU0NVeFRIQjNVTjl2Y0hITjdaeU4ycnFfUGpEclpfX3VGUzlPWTFrci15T0dR?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "李强同加拿大总理卡尼会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-15",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZVzFpWFdQQlRsZGdwb2s0S3dSSDVLVU8tM0ROTTJhR2hQLXk4V2d0UWJrZ20wTFBfdlBNTmpRNUJOSm03dzV6ZnVVczYzcW55eHdBV2ZFXzZKcV9Fc0FwYi11b09Ud3AzNTM0?oc=5"
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wa3ZVMkZNT0g0c2JpOG9VeDNSZEp0QnlQd2s0ZHVyZDYxMHpJaElwZGQxTkdYQm5yaEc5OUxVVjhJUmNhWUFqMHRPaW80blFFQ2c?oc=5"
             },
             {
-                "title": "空军某部：信息网络新技术赋能增效新时代政治工作 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sQ056cDNfendmemVJQ2pKSjFIS09RMW5GbGRKTXI0dDNiUXJuQ20wMURINnkzN3lOaDk2d1VldGpuWUIySTlUaTZaTlRGS1JvMUE?oc=5"
-            },
-            {
                 "title": "中国海警舰艇编队1月14日在我钓鱼岛领海巡航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aeGwwSDZaVk1UdV9pb2ppMDNFWnhQeG9kR3lRZ1hTLTJfVTZWZjYtOVA4cjB2TG9Bc3RNdGdaV2FzWHJKUVdZalN5ZlZORW9kZWc?oc=5"
+            },
+            {
+                "title": "写在“三九探哨”专栏收官之际：滚烫的故事生长在“天边边” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZm5fRFQ1OFBKbzI5SGg1RFJFVU5ScWFSbGRCd29lS2JyX0xLeWxMc1Q4SUY4Wkd0d1cyU2RDdkZfdE9Zemc2QVZ3SERuSHFsSFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "奔驰、宝马2026年预测不足50万辆，退回十年前｜36氪独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "携程或面临最高65亿元罚款",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://36kr.com/p/3638726927092868"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545396.htm"
             },
             {
-                "title": "观致汽车部分资产将被拍卖，起拍价约 8.59 亿元",
+                "title": "蔚来乐道 L60 马到成功版车型明天上市交付：类香槟金配色车漆、内饰加入 2026 马年元素",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/330.htm"
+                "url": "https://www.ithome.com/0/913/451.htm"
             },
             {
-                "title": "科技昨夜今晨 0115：美政府批准向中国出口 H200；携程回应被立案调查；我国发布全球首个“月球计时软件”...",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特斯拉砍掉FSD买断制 表面是降门槛，背后其实藏着三个心眼",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/326.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545360.htm"
             },
             {
-                "title": "8点1氪丨携程回应因涉嫌垄断行为被立案调查；茶颜悦色没喝就“消失”半杯，内部人士回应；老干妈回应“味道变了”",
-                "source": "NewsAPI / 36kr.com",
+                "title": "苹果宣布为中国大陆用户支持Apple Pay跨境支付 已可添加Visa信用卡",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://36kr.com/p/3639921068871046"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545358.htm"
             },
             {
-                "title": "苹果 Apple Card“分手费”曝光：高盛含泪割肉，摩根大通抄底",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-14",
-                "url": "https://www.ithome.com/0/913/314.htm"
+                "title": "5年悬案与2亿追索：迅雷重启诉讼 指控前CEO陈磊隐秘掏空公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545356.htm"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
@@ -154,7 +154,7 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VnRMNUJpV3M3eFI2aUhuSkNpVFNYZE5hX1dSa3czdnhvNDd1UUtfNEhFOHJFbks4R1BjSjR1N3BJU0NVeFRIQjNVTjl2Y0hITjdaeU4ycnFfUGpEclpfX3VGUzlPWTFrci15T0dR?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "李强同加拿大总理卡尼会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-15",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZVzFpWFdQQlRsZGdwb2s0S3dSSDVLVU8tM0ROTTJhR2hQLXk4V2d0UWJrZ20wTFBfdlBNTmpRNUJOSm03dzV6ZnVVczYzcW55eHdBV2ZFXzZKcV9Fc0FwYi11b09Ud3AzNTM0?oc=5"
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wa3ZVMkZNT0g0c2JpOG9VeDNSZEp0QnlQd2s0ZHVyZDYxMHpJaElwZGQxTkdYQm5yaEc5OUxVVjhJUmNhWUFqMHRPaW80blFFQ2c?oc=5"
             },
             {
-                "title": "空军某部：信息网络新技术赋能增效新时代政治工作 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sQ056cDNfendmemVJQ2pKSjFIS09RMW5GbGRKTXI0dDNiUXJuQ20wMURINnkzN3lOaDk2d1VldGpuWUIySTlUaTZaTlRGS1JvMUE?oc=5"
-            },
-            {
                 "title": "中国海警舰艇编队1月14日在我钓鱼岛领海巡航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aeGwwSDZaVk1UdV9pb2ppMDNFWnhQeG9kR3lRZ1hTLTJfVTZWZjYtOVA4cjB2TG9Bc3RNdGdaV2FzWHJKUVdZalN5ZlZORW9kZWc?oc=5"
+            },
+            {
+                "title": "写在“三九探哨”专栏收官之际：滚烫的故事生长在“天边边” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZm5fRFQ1OFBKbzI5SGg1RFJFVU5ScWFSbGRCd29lS2JyX0xLeWxMc1Q4SUY4Wkd0d1cyU2RDdkZfdE9Zemc2QVZ3SERuSHFsSFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-16T01:26:57.686589+00:00"
+    "last_updated": "2026-01-16T06:30:35.025894+00:00"
 }
