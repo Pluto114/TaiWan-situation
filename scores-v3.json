@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "苹果采用谷歌 Gemini 赋能 Siri，双方合作内幕曝光",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/600.htm"
-            },
-            {
-                "title": "英伟达投资初创公司 Harmonic，后者专注开发解决数学问题的 AI 系统",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/596.htm"
-            },
-            {
-                "title": "iQOO Z11 Turbo 手机发布：第五代骁龙 8 与 2 亿主摄加持，国补到手价 2039.15 元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/592.htm"
-            },
-            {
-                "title": "苹果在华扩大跨境Apple Pay支持范围",
+                "title": "美国开始对出口到中国的英伟达H200 AI芯片征收25%关税 ​",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545456.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545494.htm"
             },
             {
-                "title": "维基百科运营方与微软、元宇宙平台公司达成人工智能内容训练合作协议",
+                "title": "内存超级牛市冲击智能手机行业 厂商二季度开始调价减产",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545454.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545482.htm"
+            },
+            {
+                "title": "OPPO A6s 手机现身中国电信终端产品库：7000mAh 电池、后置 5000 万像素镜头",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-15",
+                "url": "https://www.ithome.com/0/913/634.htm"
+            },
+            {
+                "title": "美媒揭中共“恫吓台湾与日本”6大施压手段(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-15",
+                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093554.html"
+            },
+            {
+                "title": "氪星晚报｜国内首只千亿黄金ETF诞生；英国通信管理局称将继续调查X平台伪造图像事件；“十五五”国网公司固定资产投资预计4万亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-15",
+                "url": "https://36kr.com/p/3640550492867714"
             }
         ],
         "mil": [
+            {
+                "title": "美国明州冲突升级 川普警告或许启动《叛乱法》(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-15",
+                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093570.html"
+            },
+            {
+                "title": "美媒揭中共“恫吓台湾与日本”6大施压手段(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-15",
+                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093554.html"
+            },
             {
                 "title": "反对单方面改变现状 日菲签署军事后勤协议",
                 "source": "NewsAPI / DW (English)",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3638895618739335"
             },
             {
-                "title": "台积电人工智能芯片产能供不应求",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545452.htm"
-            },
-            {
-                "title": "中国Coding Agent最大融资浮现，蚂蚁、凯辉、锦秋等投了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-15",
-                "url": "https://36kr.com/p/3640426144812417"
-            },
-            {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-15",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXdjY28taEtQUnlvclBvbWFKTF9KRndRYUV5VG9aX2NSeUt1Vi1Jbjl5RVROYzMtQVJHNXdDNjQweEdReU9QQzdzRVFuOXFYYXgxX2kzcGEya2ZfNC1tZGNyYW45cERvWEgtYm10R01iMTdCei0yZXI2MklUaVk5SnE3OF9uZWpXTWxqWW93?oc=5"
             },
             {
-                "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wa3ZVMkZNT0g0c2JpOG9VeDNSZEp0QnlQd2s0ZHVyZDYxMHpJaElwZGQxTkdYQm5yaEc5OUxVVjhJUmNhWUFqMHRPaW80blFFQ2c?oc=5"
-            },
-            {
                 "title": "写在“三九探哨”专栏收官之际：滚烫的故事生长在“天边边” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-15",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMVFEOTVSNWtDU2p4c2loTFREUmJDWUdQLWh2VTZZQVI1TWNCV0RUWUR4d2gtR09jUTU4clJUMGRsb2t3eldoMW5iVERLMnl5clE?oc=5"
+            },
+            {
+                "title": "中国和加拿大领导人会晤联合声明 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBodk10M3dHS2hkVFZQR1ZkSF9mcy1QbVZMT2ZqWHVSRXJZYzFTY2d3Q2w2ZFhPSDV3ZFdnZ1Yyd1pDQXhtZHk4elZsVTNnT1g3dEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "苹果采用谷歌 Gemini 赋能 Siri，双方合作内幕曝光",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国开始对出口到中国的英伟达H200 AI芯片征收25%关税 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/600.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545494.htm"
             },
             {
-                "title": "iQOO Z11 Turbo 手机发布：第五代骁龙 8 与 2 亿主摄加持，国补到手价 2039.15 元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "全新一代奥迪A6L首秀 首搭华为双激光辅助驾驶",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/592.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545486.htm"
             },
             {
-                "title": "卡梅隆：要想拍摄《阿凡达 4/5》，必须找到更省钱的制作方法",
-                "source": "NewsAPI / Ithome.com",
+                "title": "日本两大反对党宣布联手挑战高市早苗",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/583.htm"
+                "url": "https://www.ftchinese.com/story/001108724"
             },
             {
-                "title": "AI时代的全球创作消费平台，出现了一家来自中国的“隐形冠军”",
-                "source": "NewsAPI / 36kr.com",
+                "title": "《图兰朵》百年：冷面公主与“想象的东方”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-15",
-                "url": "https://36kr.com/p/3638895618739335"
+                "url": "https://www.ftchinese.com/story/001108717"
             },
             {
-                "title": "格陵兰人眼中的真正危机不是川普 而是生计(图)",
+                "title": "美国明州冲突升级 川普警告或许启动《叛乱法》(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-15",
-                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093553.html"
+                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093570.html"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXdjY28taEtQUnlvclBvbWFKTF9KRndRYUV5VG9aX2NSeUt1Vi1Jbjl5RVROYzMtQVJHNXdDNjQweEdReU9QQzdzRVFuOXFYYXgxX2kzcGEya2ZfNC1tZGNyYW45cERvWEgtYm10R01iMTdCei0yZXI2MklUaVk5SnE3OF9uZWpXTWxqWW93?oc=5"
             },
             {
-                "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wa3ZVMkZNT0g0c2JpOG9VeDNSZEp0QnlQd2s0ZHVyZDYxMHpJaElwZGQxTkdYQm5yaEc5OUxVVjhJUmNhWUFqMHRPaW80blFFQ2c?oc=5"
-            },
-            {
                 "title": "写在“三九探哨”专栏收官之际：滚烫的故事生长在“天边边” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-15",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMVFEOTVSNWtDU2p4c2loTFREUmJDWUdQLWh2VTZZQVI1TWNCV0RUWUR4d2gtR09jUTU4clJUMGRsb2t3eldoMW5iVERLMnl5clE?oc=5"
+            },
+            {
+                "title": "中国和加拿大领导人会晤联合声明 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBodk10M3dHS2hkVFZQR1ZkSF9mcy1QbVZMT2ZqWHVSRXJZYzFTY2d3Q2w2ZFhPSDV3ZFdnZ1Yyd1pDQXhtZHk4elZsVTNnT1g3dEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-16T12:39:22.950791+00:00"
+    "last_updated": "2026-01-16T18:29:08.921696+00:00"
 }
