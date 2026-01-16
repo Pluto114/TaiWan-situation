@@ -12,38 +12,50 @@
     "news_sources": {
         "econ": [
             {
-                "title": "谷歌与苹果达成人工智能合作协议 OpenAI遭遇“重大失利”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545306.htm"
+                "title": "前泽宝创始人再创业，深耕北美AI高端烹饪，首年营收破两千万美元、毛利超60%｜早期项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-15",
+                "url": "https://36kr.com/p/3639448562716033"
             },
             {
-                "title": "为什么特朗普如此护着ICE？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108708"
+                "title": "对北京的幻想破灭 伊朗四面楚歌下“好友”却撒手？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-15",
+                "url": "https://www.secretchina.com/news/gb/2026/01/15/1093537.html"
             },
             {
-                "title": "AI原生应用：舰载机与航母的战略博弈",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108713"
+                "title": "奔驰、宝马2026年预测不足50万辆，退回十年前｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-15",
+                "url": "https://36kr.com/p/3638726927092868"
             },
             {
-                "title": "破解巴西养牛业毁林与暴力之结",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108714"
-            },
-            {
-                "title": "宝马新款 iX3 取消经典 iDrive 旋钮，官方称暂无车主投诉",
+                "title": "科技昨夜今晨 0115：美政府批准向中国出口 H200；携程回应被立案调查；我国发布全球首个“月球计时软件”...",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-14",
-                "url": "https://www.ithome.com/0/913/302.htm"
+                "date": "2026-01-15",
+                "url": "https://www.ithome.com/0/913/326.htm"
+            },
+            {
+                "title": "8点1氪丨携程回应因涉嫌垄断行为被立案调查；茶颜悦色没喝就“消失”半杯，内部人士回应；老干妈回应“味道变了”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-15",
+                "url": "https://36kr.com/p/3639921068871046"
             }
         ],
         "mil": [
             {
+                "title": "科技昨夜今晨 0115：美政府批准向中国出口 H200；携程回应被立案调查；我国发布全球首个“月球计时软件”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-15",
+                "url": "https://www.ithome.com/0/913/326.htm"
+            },
+            {
+                "title": "8点1氪丨携程回应因涉嫌垄断行为被立案调查；茶颜悦色没喝就“消失”半杯，内部人士回应；老干妈回应“味道变了”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-15",
+                "url": "https://36kr.com/p/3639921068871046"
+            },
+            {
                 "title": "为什么特朗普如此护着ICE？",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-14",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-14",
                 "url": "https://www.ftchinese.com/story/001108714"
-            },
-            {
-                "title": "可街可赛：凯飞车队 × 广汽传祺推出影豹 R N1 赛车，搭载国产最强 2.0T 发动机",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-14",
-                "url": "https://www.ithome.com/0/913/304.htm"
-            },
-            {
-                "title": "军事博主析川普对伊动武组合拳 习近平七大噩梦(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-14",
-                "url": "https://www.secretchina.com/news/gb/2026/01/14/1093517.html"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VnRMNUJpV3M3eFI2aUhuSkNpVFNYZE5hX1dSa3czdnhvNDd1UUtfNEhFOHJFbks4R1BjSjR1N3BJU0NVeFRIQjNVTjl2Y0hITjdaeU4ycnFfUGpEclpfX3VGUzlPWTFrci15T0dR?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2026-01-15",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZVzFpWFdQQlRsZGdwb2s0S3dSSDVLVU8tM0ROTTJhR2hQLXk4V2d0UWJrZ20wTFBfdlBNTmpRNUJOSm03dzV6ZnVVczYzcW55eHdBV2ZFXzZKcV9Fc0FwYi11b09Ud3AzNTM0?oc=5"
             },
             {
                 "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "谷歌与苹果达成人工智能合作协议 OpenAI遭遇“重大失利”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545306.htm"
+                "title": "奔驰、宝马2026年预测不足50万辆，退回十年前｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-15",
+                "url": "https://36kr.com/p/3638726927092868"
             },
             {
-                "title": "为什么特朗普如此护着ICE？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108708"
+                "title": "观致汽车部分资产将被拍卖，起拍价约 8.59 亿元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-15",
+                "url": "https://www.ithome.com/0/913/330.htm"
             },
             {
-                "title": "AI原生应用：舰载机与航母的战略博弈",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108713"
+                "title": "科技昨夜今晨 0115：美政府批准向中国出口 H200；携程回应被立案调查；我国发布全球首个“月球计时软件”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-15",
+                "url": "https://www.ithome.com/0/913/326.htm"
             },
             {
-                "title": "破解巴西养牛业毁林与暴力之结",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-14",
-                "url": "https://www.ftchinese.com/story/001108714"
+                "title": "8点1氪丨携程回应因涉嫌垄断行为被立案调查；茶颜悦色没喝就“消失”半杯，内部人士回应；老干妈回应“味道变了”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-15",
+                "url": "https://36kr.com/p/3639921068871046"
             },
             {
-                "title": "宝马新款 iX3 取消经典 iDrive 旋钮，官方称暂无车主投诉",
+                "title": "苹果 Apple Card“分手费”曝光：高盛含泪割肉，摩根大通抄底",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-14",
-                "url": "https://www.ithome.com/0/913/302.htm"
+                "url": "https://www.ithome.com/0/913/314.htm"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VnRMNUJpV3M3eFI2aUhuSkNpVFNYZE5hX1dSa3czdnhvNDd1UUtfNEhFOHJFbks4R1BjSjR1N3BJU0NVeFRIQjNVTjl2Y0hITjdaeU4ycnFfUGpEclpfX3VGUzlPWTFrci15T0dR?oc=5"
             },
             {
-                "title": "外交动态 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2021-12-03",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
+                "date": "2026-01-15",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZVzFpWFdQQlRsZGdwb2s0S3dSSDVLVU8tM0ROTTJhR2hQLXk4V2d0UWJrZ20wTFBfdlBNTmpRNUJOSm03dzV6ZnVVczYzcW55eHdBV2ZFXzZKcV9Fc0FwYi11b09Ud3AzNTM0?oc=5"
             },
             {
                 "title": "学习新语｜把权力关进制度的笼子 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-15T18:33:24.218548+00:00"
+    "last_updated": "2026-01-16T01:26:57.686589+00:00"
 }
