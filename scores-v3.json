@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "加拿大将开放中国电动车进口 美方动向受关注",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545676.htm"
+            },
+            {
+                "title": "「元宇宙」已经塌缩，AI 才是下一个奇点",
+                "source": "NewsAPI / Dgtle.com",
+                "date": "2026-01-16",
+                "url": "https://www.dgtle.com/article-1724926-1.html"
+            },
+            {
+                "title": "Mentra推出直播型智能眼镜Mentra Live 面向内容创作者的新工具 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545658.htm"
+            },
+            {
+                "title": "苹果OLED MacBook Pro面板量产取得进展",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545656.htm"
+            },
+            {
                 "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-16",
                 "url": "https://36kr.com/p/3641990475140738"
-            },
-            {
-                "title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-16",
-                "url": "https://36kr.com/p/3641730074300038"
-            },
-            {
-                "title": "“网络黑嘴”罗永浩or老板贾国龙 到底是谁把西贝推进了泥潭？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545644.htm"
-            },
-            {
-                "title": "我国液态金属柔性电子制造研究取得进展，在可穿戴健康监测等领域展现出应用前景",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-16",
-                "url": "https://www.ithome.com/0/913/922.htm"
-            },
-            {
-                "title": "消息称北京现代将推出高阶辅助驾驶，引入 Momenta 方案",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-16",
-                "url": "https://www.ithome.com/0/913/887.htm"
             }
         ],
         "mil": [
+            {
+                "title": "德语媒体：北京觊觎格陵兰？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-16",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%8C%97%E4%BA%AC%E8%A7%8A%E8%A7%8E%E6%A0%BC%E9%99%B5%E5%85%B0/a-75541522"
+            },
             {
                 "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
                 "source": "NewsAPI / 36kr.com",
@@ -68,10 +74,10 @@
                 "url": "https://36kr.com/p/3640240794225793"
             },
             {
-                "title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2026年1月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
-                "url": "https://36kr.com/p/3641479608881030"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SjVMVEJ6b25SUVlITlBtQVFxMEd0WFZDaDNaTTZWeEtlcGJMYUtIc1FIczNSOGVMeW1zQkN0S1J4eC15VE5JbVdCS0hBUXZQSU8zVDlHZmduclZJTkNGMThsRUVzSF9saXU1RmVDZzZfTUtuakE?oc=5"
             },
             {
                 "title": "双方发表联合声明 - 外交部 - mfa.gov.cn",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQURYQ3NZWFg0S0J3cmxEc1BmR3hDcUpBZGhRMThBNUFZem9mS2FmOGZpci1hSlVEZnJ6NVdBZ2wxMU01dVJreGRlV1pLY1ZYM054bG14UVF2eHNqT1NVR0tpUy1BcXFkTVo4?oc=5"
             },
             {
-                "title": "2026年1月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平会见加拿大总理卡尼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SjVMVEJ6b25SUVlITlBtQVFxMEd0WFZDaDNaTTZWeEtlcGJMYUtIc1FIczNSOGVMeW1zQkN0S1J4eC15VE5JbVdCS0hBUXZQSU8zVDlHZmduclZJTkNGMThsRUVzSF9saXU1RmVDZzZfTUtuakE?oc=5"
-            },
-            {
-                "title": "【双语】国防部：日本军国主义野心一旦失控将给日本人民带来毁灭性灾难 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VcTlMdE9zQVFjWkdNdURZZGZqVlM5WjNoM1B2cE9mcTJpNWQxbmo5QkFJTnhEVVUyMXdXOElQSVhUcHhvbGNoVEpVdWxTVkZ3dXZPSGt3LWs?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50dFh4UUVTSHkyQXloUzI4TlVDejJJRGVENFZRbFV1TkZ5VlJzTzFLNEUtOE1aeTFKdFlIRmUyZDBwYWx2YzJ0N1NKX1Fna2JaSy04XzZhdEFpTXpkWkxMR2M0aXVhWTVfeC1z?oc=5"
             },
             {
                 "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
@@ -111,6 +111,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "美国中情局局长和委内瑞拉代总统会面(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-16",
+                "url": "https://www.secretchina.com/news/gb/2026/01/17/1093619.html"
+            },
             {
                 "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
                 "source": "NewsAPI / 36kr.com",
@@ -136,10 +142,10 @@
                 "url": "https://36kr.com/p/3640520932560006"
             },
             {
-                "title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2026年1月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
-                "url": "https://36kr.com/p/3640240794225793"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SjVMVEJ6b25SUVlITlBtQVFxMEd0WFZDaDNaTTZWeEtlcGJMYUtIc1FIczNSOGVMeW1zQkN0S1J4eC15VE5JbVdCS0hBUXZQSU8zVDlHZmduclZJTkNGMThsRUVzSF9saXU1RmVDZzZfTUtuakE?oc=5"
             },
             {
                 "title": "双方发表联合声明 - 外交部 - mfa.gov.cn",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQURYQ3NZWFg0S0J3cmxEc1BmR3hDcUpBZGhRMThBNUFZem9mS2FmOGZpci1hSlVEZnJ6NVdBZ2wxMU01dVJreGRlV1pLY1ZYM054bG14UVF2eHNqT1NVR0tpUy1BcXFkTVo4?oc=5"
             },
             {
-                "title": "2026年1月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平会见加拿大总理卡尼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SjVMVEJ6b25SUVlITlBtQVFxMEd0WFZDaDNaTTZWeEtlcGJMYUtIc1FIczNSOGVMeW1zQkN0S1J4eC15VE5JbVdCS0hBUXZQSU8zVDlHZmduclZJTkNGMThsRUVzSF9saXU1RmVDZzZfTUtuakE?oc=5"
-            },
-            {
-                "title": "【双语】国防部：日本军国主义野心一旦失控将给日本人民带来毁灭性灾难 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VcTlMdE9zQVFjWkdNdURZZGZqVlM5WjNoM1B2cE9mcTJpNWQxbmo5QkFJTnhEVVUyMXdXOElQSVhUcHhvbGNoVEpVdWxTVkZ3dXZPSGt3LWs?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50dFh4UUVTSHkyQXloUzI4TlVDejJJRGVENFZRbFV1TkZ5VlJzTzFLNEUtOE1aeTFKdFlIRmUyZDBwYWx2YzJ0N1NKX1Fna2JaSy04XzZhdEFpTXpkWkxMR2M0aXVhWTVfeC1z?oc=5"
             },
             {
                 "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-17T12:34:50.196825+00:00"
+    "last_updated": "2026-01-17T18:24:56.905487+00:00"
 }
