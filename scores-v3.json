@@ -12,75 +12,69 @@
     "news_sources": {
         "econ": [
             {
-                "title": "七年前旧MacBook进苹果售后修电池 免费换回M4 Max旗舰",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545568.htm"
-            },
-            {
-                "title": "特朗普手机订购7个月没发货 被质疑虚假宣传",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545564.htm"
-            },
-            {
-                "title": "台积电CFO：未来会加速向美国转移先进芯片技术",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545530.htm"
-            },
-            {
-                "title": "DeepMind CEO：中美AI模型差距小，或许只有“几个月”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545528.htm"
-            },
-            {
-                "title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
+                "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-16",
-                "url": "https://36kr.com/p/3641479608881030"
+                "url": "https://36kr.com/p/3641990475140738"
+            },
+            {
+                "title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-16",
+                "url": "https://36kr.com/p/3641730074300038"
+            },
+            {
+                "title": "“网络黑嘴”罗永浩or老板贾国龙 到底是谁把西贝推进了泥潭？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545644.htm"
+            },
+            {
+                "title": "我国液态金属柔性电子制造研究取得进展，在可穿戴健康监测等领域展现出应用前景",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-16",
+                "url": "https://www.ithome.com/0/913/922.htm"
+            },
+            {
+                "title": "消息称北京现代将推出高阶辅助驾驶，引入 Momenta 方案",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-16",
+                "url": "https://www.ithome.com/0/913/887.htm"
             }
         ],
         "mil": [
             {
+                "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-16",
+                "url": "https://36kr.com/p/3641990475140738"
+            },
+            {
+                "title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-16",
+                "url": "https://36kr.com/p/3641730074300038"
+            },
+            {
+                "title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-16",
+                "url": "https://36kr.com/p/3640520932560006"
+            },
+            {
+                "title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-16",
+                "url": "https://36kr.com/p/3640240794225793"
+            },
+            {
                 "title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-16",
                 "url": "https://36kr.com/p/3641479608881030"
             },
             {
-                "title": "美国明州冲突升级 川普警告或许启动《叛乱法》(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-16",
-                "url": "https://www.secretchina.com/news/gb/2026/01/16/1093570.html"
-            },
-            {
-                "title": "8点1氪丨西贝关店102家，贾国龙最新发声；爱马仕客服回应一个悠悠球售价超1.8万；霸王茶姬及创始人起诉网民，公司回应",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-16",
-                "url": "https://36kr.com/p/3641337324949125"
-            },
-            {
-                "title": "科技昨夜今晨 0116：苹果内地开放 Apple Pay 跨境支付；小米 YU7 汽车推出“7 年低息”政策；曝苹果 iPhone 17e 上半年登场...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-15",
-                "url": "https://www.ithome.com/0/913/657.htm"
-            },
-            {
-                "title": "伊朗全国断网进入第二周 规模与时长创历史纪录",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545508.htm"
-            },
-            {
-                "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Gdm5LSWxtUGNfZGdVMjhGZDdMeHY1YjlkZTF3bUUwODE5Vzg5UlV3LURCUWRWWGdnU0JHcUZlZnE0Si1pb1JoZ2xYNDdpUFNIWmZwNWU4S3hueFZpWG1MTjZmQlNXbGRGejFFLU1R?oc=5"
-            },
-            {
-                "title": "中国和加拿大领导人会晤联合声明（2026-01-16） - 外交部 - mfa.gov.cn",
+                "title": "双方发表联合声明 - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQURYQ3NZWFg0S0J3cmxEc1BmR3hDcUpBZGhRMThBNUFZem9mS2FmOGZpci1hSlVEZnJ6NVdBZ2wxMU01dVJreGRlV1pLY1ZYM054bG14UVF2eHNqT1NVR0tpUy1BcXFkTVo4?oc=5"
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SjVMVEJ6b25SUVlITlBtQVFxMEd0WFZDaDNaTTZWeEtlcGJMYUtIc1FIczNSOGVMeW1zQkN0S1J4eC15VE5JbVdCS0hBUXZQSU8zVDlHZmduclZJTkNGMThsRUVzSF9saXU1RmVDZzZfTUtuakE?oc=5"
+            },
+            {
+                "title": "【双语】国防部：日本军国主义野心一旦失控将给日本人民带来毁灭性灾难 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-16",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VcTlMdE9zQVFjWkdNdURZZGZqVlM5WjNoM1B2cE9mcTJpNWQxbmo5QkFJTnhEVVUyMXdXOElQSVhUcHhvbGNoVEpVdWxTVkZ3dXZPSGt3LWs?oc=5"
             },
             {
                 "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
@@ -112,43 +112,37 @@
         ],
         "pol": [
             {
-                "title": "韩国多款AI模型被指与中国模型相似 疑借用代码",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545570.htm"
-            },
-            {
-                "title": "北京市委金融办：加大力度推动更多符合条件企业在境内外上市融资",
+                "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-16",
-                "url": "https://36kr.com/newsflashes/3641676830429063"
+                "url": "https://36kr.com/p/3641990475140738"
             },
             {
-                "title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-16",
-                "url": "https://36kr.com/p/3641479608881030"
-            },
-            {
-                "title": "全球最大在线百科 Wikipedia 迎 25 周年，官方上线回顾页面",
+                "title": "保时捷 2025 年全球交付量 27.94 万辆同比下降 10%，中国市场下滑 26%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-16",
-                "url": "https://www.ithome.com/0/913/680.htm"
+                "url": "https://www.ithome.com/0/913/866.htm"
             },
             {
-                "title": "美国明州冲突升级 川普警告或许启动《叛乱法》(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "保时捷2025年全球交付量为279449辆，同比下降10%",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-16",
-                "url": "https://www.secretchina.com/news/gb/2026/01/16/1093570.html"
+                "url": "https://36kr.com/newsflashes/3641834150121094"
             },
             {
-                "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Gdm5LSWxtUGNfZGdVMjhGZDdMeHY1YjlkZTF3bUUwODE5Vzg5UlV3LURCUWRWWGdnU0JHcUZlZnE0Si1pb1JoZ2xYNDdpUFNIWmZwNWU4S3hueFZpWG1MTjZmQlNXbGRGejFFLU1R?oc=5"
+                "title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-16",
+                "url": "https://36kr.com/p/3640520932560006"
             },
             {
-                "title": "中国和加拿大领导人会晤联合声明（2026-01-16） - 外交部 - mfa.gov.cn",
+                "title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-16",
+                "url": "https://36kr.com/p/3640240794225793"
+            },
+            {
+                "title": "双方发表联合声明 - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQURYQ3NZWFg0S0J3cmxEc1BmR3hDcUpBZGhRMThBNUFZem9mS2FmOGZpci1hSlVEZnJ6NVdBZ2wxMU01dVJreGRlV1pLY1ZYM054bG14UVF2eHNqT1NVR0tpUy1BcXFkTVo4?oc=5"
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-16",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SjVMVEJ6b25SUVlITlBtQVFxMEd0WFZDaDNaTTZWeEtlcGJMYUtIc1FIczNSOGVMeW1zQkN0S1J4eC15VE5JbVdCS0hBUXZQSU8zVDlHZmduclZJTkNGMThsRUVzSF9saXU1RmVDZzZfTUtuakE?oc=5"
+            },
+            {
+                "title": "【双语】国防部：日本军国主义野心一旦失控将给日本人民带来毁灭性灾难 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-16",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VcTlMdE9zQVFjWkdNdURZZGZqVlM5WjNoM1B2cE9mcTJpNWQxbmo5QkFJTnhEVVUyMXdXOElQSVhUcHhvbGNoVEpVdWxTVkZ3dXZPSGt3LWs?oc=5"
             },
             {
                 "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-17T06:27:15.601716+00:00"
+    "last_updated": "2026-01-17T12:34:50.196825+00:00"
 }
