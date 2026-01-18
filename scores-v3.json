@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美光拟18亿美元收购台湾力晶半导体晶圆厂 扩产内存芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545790.htm"
+            },
+            {
+                "title": "美官员警告：加拿大放行中国电动车将付出代价(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-17",
+                "url": "https://www.secretchina.com/news/gb/2026/01/17/1093656.html"
+            },
+            {
+                "title": "全新奇瑞 QQ3 纯电车预告：灵犀座舱、猎鹰 500 智驾，有望下月发布",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-17",
+                "url": "https://www.ithome.com/0/914/143.htm"
+            },
+            {
                 "title": "国家能源局：2025 年充换电服务业用电量增速达 48.8%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-17",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-17",
                 "url": "https://www.ithome.com/0/914/114.htm"
-            },
-            {
-                "title": "英伟达H200获美放行却遭中国海关拦截 供应商被迫暂停生产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545758.htm"
-            },
-            {
-                "title": "欧盟拟立法逐步淘汰华为中兴等中国产设备",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545756.htm"
-            },
-            {
-                "title": "Google就“非法搜索垄断”判决提起上诉 要求法院暂停竞争救济措施",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545748.htm"
             }
         ],
         "mil": [
@@ -74,6 +74,12 @@
                 "url": "https://36kr.com/p/3642816248172161"
             },
             {
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
+            },
+            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2021-12-03",
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
-                "title": "- mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fZ0MwSFMzYmpQQXFjaWRZUnFJdDRGZVVJM1ZLRFE5eEFPc2NpUC1leTZvU05wbnlQYmRGTUdHWFV4Q1JRZ1Z5TzduRkJOLUdtb2MzMWdTSDZuWm9ZS3JOSHdBNjFhSF9hMDBvYzM1MWQxOGJFX3c0Z05n?oc=5"
             },
             {
                 "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "美光拟18亿美元收购台湾力晶半导体晶圆厂 扩产内存芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1545790.htm"
+            },
+            {
+                "title": "马斯克：用于 Grok 的“Colossus 2”超级计算机已投入运行，全球首个吉瓦级训练集群",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-17",
+                "url": "https://www.ithome.com/0/914/153.htm"
+            },
+            {
+                "title": "美官员警告：加拿大放行中国电动车将付出代价(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-17",
+                "url": "https://www.secretchina.com/news/gb/2026/01/17/1093656.html"
+            },
+            {
                 "title": "美光拟以 18 亿美元买下力积电铜锣晶圆厂，双方还将进行其它深度合作",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-17",
@@ -124,22 +142,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1545758.htm"
             },
             {
-                "title": "欧盟拟立法逐步淘汰华为中兴等中国产设备",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545756.htm"
-            },
-            {
-                "title": "马斯克旗下 xAI 孟菲斯数据中心被裁定非法自发电",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545754.htm"
-            },
-            {
-                "title": "为了万亿美元薪酬马斯克取消FSD买断制 但不适合中国国情？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545740.htm"
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2021-12-03",
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
-            },
-            {
-                "title": "- mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fZ0MwSFMzYmpQQXFjaWRZUnFJdDRGZVVJM1ZLRFE5eEFPc2NpUC1leTZvU05wbnlQYmRGTUdHWFV4Q1JRZ1Z5TzduRkJOLUdtb2MzMWdTSDZuWm9ZS3JOSHdBNjFhSF9hMDBvYzM1MWQxOGJFX3c0Z05n?oc=5"
             },
             {
                 "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-18T12:35:15.664032+00:00"
+    "last_updated": "2026-01-18T18:24:39.224769+00:00"
 }
