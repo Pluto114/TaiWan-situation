@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "科技昨夜今晨 0118：2026 央视春晚完成首次彩排；曝苹果计划为 5 款产品升级 OLED 屏幕；罗永浩称个人不会再回应“西贝事件”...",
+                "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644499135221632"
+            },
+            {
+                "title": "联想 moto X70 Air Pro 新机预热：中国国家地理山河四季联合影像，1 月 20 日发布",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-17",
-                "url": "https://www.ithome.com/0/914/162.htm"
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/221.htm"
             },
             {
-                "title": "美光拟18亿美元收购台湾力晶半导体晶圆厂 扩产内存芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545790.htm"
+                "title": "新能源车的“硬核”战事，2026年卷向何处？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644455846514304"
             },
             {
-                "title": "美官员警告：加拿大放行中国电动车将付出代价(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-17",
-                "url": "https://www.secretchina.com/news/gb/2026/01/17/1093656.html"
+                "title": "富达基金张笑牧：2026年的核心投资机遇仍将锚定在科技创新领域",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/newsflashes/3644384003035012"
             },
             {
-                "title": "全新奇瑞 QQ3 纯电车预告：灵犀座舱、猎鹰 500 智驾，有望下月发布",
+                "title": "华为智慧屏 V6 开售：赠灵犀手写笔、75 / 85 / 98 英寸，补贴到手价 7999~14999 元",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-17",
-                "url": "https://www.ithome.com/0/914/143.htm"
-            },
-            {
-                "title": "国家能源局：2025 年充换电服务业用电量增速达 48.8%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-17",
-                "url": "https://www.ithome.com/0/914/137.htm"
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/197.htm"
             }
         ],
         "mil": [
+            {
+                "title": "新能源车的“硬核”战事，2026年卷向何处？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644455846514304"
+            },
+            {
+                "title": "大学无用？奥特曼辍学当了CEO，但名校生撑起了整个OpenAI！",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644311216344712"
+            },
             {
                 "title": "为了万亿美元薪酬马斯克取消FSD买断制 但不适合中国国情？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-17",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1545688.htm"
-            },
-            {
-                "title": "实验室带你过周末：2026.1.17 - 1.18 成都篇",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-01-17",
-                "url": "https://www.toodaylab.com/83882"
-            },
-            {
-                "title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-17",
-                "url": "https://36kr.com/p/3642816248172161"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644499135221632"
+            },
+            {
+                "title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644462576995970"
+            },
+            {
+                "title": "新能源车的“硬核”战事，2026年卷向何处？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644455846514304"
+            },
+            {
                 "title": "美国若重新控制拉美 中国将面临五大冲击(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-18",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-17",
                 "url": "https://www.secretchina.com/news/gb/2026/01/18/1093667.html"
-            },
-            {
-                "title": "美光拟18亿美元收购台湾力晶半导体晶圆厂 扩产内存芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545790.htm"
-            },
-            {
-                "title": "马斯克：用于 Grok 的“Colossus 2”超级计算机已投入运行，全球首个吉瓦级训练集群",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-17",
-                "url": "https://www.ithome.com/0/914/153.htm"
-            },
-            {
-                "title": "美官员警告：加拿大放行中国电动车将付出代价(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-17",
-                "url": "https://www.secretchina.com/news/gb/2026/01/17/1093656.html"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-19T01:40:51.406007+00:00"
+    "last_updated": "2026-01-19T06:34:46.755581+00:00"
 }
