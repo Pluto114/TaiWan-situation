@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-18",
-                "url": "https://36kr.com/p/3644499135221632"
-            },
-            {
-                "title": "联想 moto X70 Air Pro 新机预热：中国国家地理山河四季联合影像，1 月 20 日发布",
+                "title": "三星高管：不追噱头，专注打造“真正有用且不唐突”的 AI",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-18",
-                "url": "https://www.ithome.com/0/914/221.htm"
+                "url": "https://www.ithome.com/0/914/292.htm"
             },
             {
-                "title": "新能源车的“硬核”战事，2026年卷向何处？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-18",
-                "url": "https://36kr.com/p/3644455846514304"
-            },
-            {
-                "title": "富达基金张笑牧：2026年的核心投资机遇仍将锚定在科技创新领域",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-18",
-                "url": "https://36kr.com/newsflashes/3644384003035012"
-            },
-            {
-                "title": "华为智慧屏 V6 开售：赠灵犀手写笔、75 / 85 / 98 英寸，补贴到手价 7999~14999 元",
+                "title": "《赛博朋克 2077》付费 VR Mod 遭 CDPR 官方下架",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-18",
-                "url": "https://www.ithome.com/0/914/197.htm"
+                "url": "https://www.ithome.com/0/914/288.htm"
+            },
+            {
+                "title": "只剩 5 年？诺奖得主 Hassabis 放出 AGI 时间表：还差一两个技术突破",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/278.htm"
+            },
+            {
+                "title": "中科院理化所：在自融合液态金属变形机制方面取得新进展，为纳米药物设计提供新思路",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/276.htm"
+            },
+            {
+                "title": "加拿大下调中国电动汽车关税至 6.1%，莲花 Eletre 价格有望减半",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/270.htm"
             }
         ],
         "mil": [
+            {
+                "title": "墙外文摘：小心中国在金马绑架台湾领导人",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-18",
+                "url": "https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E5%B0%8F%E5%BF%83%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%87%91%E9%A9%AC%E7%BB%91%E6%9E%B6%E5%8F%B0%E6%B9%BE%E9%A2%86%E5%AF%BC%E4%BA%BA/a-75552404"
+            },
+            {
+                "title": "只剩 5 年？诺奖得主 Hassabis 放出 AGI 时间表：还差一两个技术突破",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/278.htm"
+            },
+            {
+                "title": "智谱1000亿 , 清华赚翻了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-18",
+                "url": "https://36kr.com/p/3644717569625990"
+            },
             {
                 "title": "新能源车的“硬核”战事，2026年卷向何处？",
                 "source": "NewsAPI / 36kr.com",
@@ -56,24 +74,6 @@
                 "url": "https://36kr.com/p/3644311216344712"
             },
             {
-                "title": "为了万亿美元薪酬马斯克取消FSD买断制 但不适合中国国情？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545740.htm"
-            },
-            {
-                "title": "BBA，势败如山倒",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2026-01-17",
-                "url": "https://www.huxiu.com/article/4827348.html"
-            },
-            {
-                "title": "2026开年第一场AI大战：开源翻译模型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545688.htm"
-            },
-            {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2017-12-17",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTVBSEM5ZlRQMHlsUjZqQUFpaFg3UE0zSVJzRDl2ZThlQnlQZFJmNVNmR1hUZGN5VGNYVVpSRG5UWVc2dlA3U1FYZUhieDkyWmVraEd1TVN6bXBnaEEtajVxNmdPRDdoc1c1eG51d21ZSmVtUVFNUDNmT2g0U0ZrQzU0T1RNQ3VidXVVdW9GVUlZb2JTVFRTRnhtaVJsUmtGRzBIcFJTOVk4VFRHLVNjUUx3?oc=5"
             },
             {
-                "title": "持续深化政治整训纵深推进正风反腐为实现建军一百年奋斗目标提供坚强作风和纪律保障- 解放军报 - 中国军网",
+                "title": "中央层面整治形式主义为基层减负专项工作机制办公室中央纪委办公厅公开通报3起整治形式主义为基层减负典型问题 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-17",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdldicV9VblNyeS1sVlhjVlZFdXdXZU5rSHZmUjVfaXM4U09mLW5fYVo3eEtoQ3ltMi1kLTF6Skg3bUQ3Sy1aQ1Q2QnRxLTZkelZDZGJJTzlGcV9mM2xWeGsxZVFYWnNwd3ZlaEJEb2ZHOW1MbTdjN1NhWm5CemtBc2N1QV85TDI3X0NqbjI4TlZ4S1ItcDRVcUVfOHVZSXREa3F0SFlQZWRCUFZGWlE2eThn?oc=5"
+                "date": "2026-01-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hWGxuR1ZfSF9YS2llTzZPVGFLRXA2M0JpVmlWa2ZvUFdQZWZqOFhaWV9wYlhuZXZxSC1jckFRQko4TXBRa0p4bXdtNDM1SmZXNmc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+                "title": "《赛博朋克 2077》付费 VR Mod 遭 CDPR 官方下架",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/288.htm"
+            },
+            {
+                "title": "只剩 5 年？诺奖得主 Hassabis 放出 AGI 时间表：还差一两个技术突破",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/278.htm"
+            },
+            {
+                "title": "中科院理化所：在自融合液态金属变形机制方面取得新进展，为纳米药物设计提供新思路",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/276.htm"
+            },
+            {
+                "title": "纯电车型占比四分之一，宝马集团 2025 年欧洲电动化表现亮眼",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-18",
+                "url": "https://www.ithome.com/0/914/274.htm"
+            },
+            {
+                "title": "智谱1000亿 , 清华赚翻了",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-18",
-                "url": "https://36kr.com/p/3644499135221632"
-            },
-            {
-                "title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-18",
-                "url": "https://36kr.com/p/3644462576995970"
-            },
-            {
-                "title": "新能源车的“硬核”战事，2026年卷向何处？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-18",
-                "url": "https://36kr.com/p/3644455846514304"
-            },
-            {
-                "title": "美国若重新控制拉美 中国将面临五大冲击(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-18",
-                "url": "https://www.secretchina.com/news/gb/2026/01/18/1093675.html"
-            },
-            {
-                "title": "川普：伊朗该结束哈梅内伊统治了(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-17",
-                "url": "https://www.secretchina.com/news/gb/2026/01/18/1093667.html"
+                "url": "https://36kr.com/p/3644717569625990"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTVBSEM5ZlRQMHlsUjZqQUFpaFg3UE0zSVJzRDl2ZThlQnlQZFJmNVNmR1hUZGN5VGNYVVpSRG5UWVc2dlA3U1FYZUhieDkyWmVraEd1TVN6bXBnaEEtajVxNmdPRDdoc1c1eG51d21ZSmVtUVFNUDNmT2g0U0ZrQzU0T1RNQ3VidXVVdW9GVUlZb2JTVFRTRnhtaVJsUmtGRzBIcFJTOVk4VFRHLVNjUUx3?oc=5"
             },
             {
-                "title": "持续深化政治整训纵深推进正风反腐为实现建军一百年奋斗目标提供坚强作风和纪律保障- 解放军报 - 中国军网",
+                "title": "中央层面整治形式主义为基层减负专项工作机制办公室中央纪委办公厅公开通报3起整治形式主义为基层减负典型问题 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-17",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdldicV9VblNyeS1sVlhjVlZFdXdXZU5rSHZmUjVfaXM4U09mLW5fYVo3eEtoQ3ltMi1kLTF6Skg3bUQ3Sy1aQ1Q2QnRxLTZkelZDZGJJTzlGcV9mM2xWeGsxZVFYWnNwd3ZlaEJEb2ZHOW1MbTdjN1NhWm5CemtBc2N1QV85TDI3X0NqbjI4TlZ4S1ItcDRVcUVfOHVZSXREa3F0SFlQZWRCUFZGWlE2eThn?oc=5"
+                "date": "2026-01-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hWGxuR1ZfSF9YS2llTzZPVGFLRXA2M0JpVmlWa2ZvUFdQZWZqOFhaWV9wYlhuZXZxSC1jckFRQko4TXBRa0p4bXdtNDM1SmZXNmc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-19T06:34:46.755581+00:00"
+    "last_updated": "2026-01-19T12:43:24.368253+00:00"
 }
