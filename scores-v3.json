@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "科技昨夜今晨 0118：2026 央视春晚完成首次彩排；曝苹果计划为 5 款产品升级 OLED 屏幕；罗永浩称个人不会再回应“西贝事件”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-17",
+                "url": "https://www.ithome.com/0/914/162.htm"
+            },
+            {
                 "title": "美光拟18亿美元收购台湾力晶半导体晶圆厂 扩产内存芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-17",
@@ -34,12 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-17",
                 "url": "https://www.ithome.com/0/914/137.htm"
-            },
-            {
-                "title": "美光拟以 18 亿美元买下力积电铜锣晶圆厂，双方还将进行其它深度合作",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-17",
-                "url": "https://www.ithome.com/0/914/114.htm"
             }
         ],
         "mil": [
@@ -92,25 +92,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
+                "title": "政治建军专刊·政治整训丨不能啥事都“按惯例办” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lWk1LbkhNT0E0TmloV1otRmpJTzIxRWxlS3k0STFYZnNoM1YySzVyY1NBR2otRW1QQUdyVUV5VC1kQ05lYWh2b2lmb1kzLTVGU0E?oc=5"
-            },
-            {
-                "title": "四中全会精神在军营丨信息支援部队某部深入学习贯彻全会精神 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdlZGS0NSS1Z4VDJ2eFMxcE9DQTliSGlqUU40QmdBUjZ2S0RlaDlBd2FqVnVoQUdfb1poVlN0akl3Rk5ZREdZcGsySmt4Yno5VUE?oc=5"
+                "date": "2026-01-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WU0xyMlFtLWc3M3pkVnhVVFpZYnllOTkwQzZHdEhpMTBlak15M1p2bDBnR3pqTkQ2UkhVOTFIcXZxcXlGTHlpSXU0WGFQVjlPaGc?oc=5"
             },
             {
                 "title": "海上小体系协同练兵向纵深推进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-18",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTVBSEM5ZlRQMHlsUjZqQUFpaFg3UE0zSVJzRDl2ZThlQnlQZFJmNVNmR1hUZGN5VGNYVVpSRG5UWVc2dlA3U1FYZUhieDkyWmVraEd1TVN6bXBnaEEtajVxNmdPRDdoc1c1eG51d21ZSmVtUVFNUDNmT2g0U0ZrQzU0T1RNQ3VidXVVdW9GVUlZb2JTVFRTRnhtaVJsUmtGRzBIcFJTOVk4VFRHLVNjUUx3?oc=5"
+            },
+            {
+                "title": "持续深化政治整训纵深推进正风反腐为实现建军一百年奋斗目标提供坚强作风和纪律保障- 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-17",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdldicV9VblNyeS1sVlhjVlZFdXdXZU5rSHZmUjVfaXM4U09mLW5fYVo3eEtoQ3ltMi1kLTF6Skg3bUQ3Sy1aQ1Q2QnRxLTZkelZDZGJJTzlGcV9mM2xWeGsxZVFYWnNwd3ZlaEJEb2ZHOW1MbTdjN1NhWm5CemtBc2N1QV85TDI3X0NqbjI4TlZ4S1ItcDRVcUVfOHVZSXREa3F0SFlQZWRCUFZGWlE2eThn?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "美国若重新控制拉美 中国将面临五大冲击(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-18",
+                "url": "https://www.secretchina.com/news/gb/2026/01/18/1093675.html"
+            },
+            {
+                "title": "川普：伊朗该结束哈梅内伊统治了(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-17",
+                "url": "https://www.secretchina.com/news/gb/2026/01/18/1093667.html"
+            },
             {
                 "title": "美光拟18亿美元收购台湾力晶半导体晶圆厂 扩产内存芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-17",
                 "url": "https://www.secretchina.com/news/gb/2026/01/17/1093656.html"
-            },
-            {
-                "title": "美光拟以 18 亿美元买下力积电铜锣晶圆厂，双方还将进行其它深度合作",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-17",
-                "url": "https://www.ithome.com/0/914/114.htm"
-            },
-            {
-                "title": "英伟达H200获美放行却遭中国海关拦截 供应商被迫暂停生产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545758.htm"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "国际观察丨美国向中东增兵引关注 - 中国军网",
+                "title": "政治建军专刊·政治整训丨不能啥事都“按惯例办” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lWk1LbkhNT0E0TmloV1otRmpJTzIxRWxlS3k0STFYZnNoM1YySzVyY1NBR2otRW1QQUdyVUV5VC1kQ05lYWh2b2lmb1kzLTVGU0E?oc=5"
-            },
-            {
-                "title": "四中全会精神在军营丨信息支援部队某部深入学习贯彻全会精神 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdlZGS0NSS1Z4VDJ2eFMxcE9DQTliSGlqUU40QmdBUjZ2S0RlaDlBd2FqVnVoQUdfb1poVlN0akl3Rk5ZREdZcGsySmt4Yno5VUE?oc=5"
+                "date": "2026-01-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WU0xyMlFtLWc3M3pkVnhVVFpZYnllOTkwQzZHdEhpMTBlak15M1p2bDBnR3pqTkQ2UkhVOTFIcXZxcXlGTHlpSXU0WGFQVjlPaGc?oc=5"
             },
             {
                 "title": "海上小体系协同练兵向纵深推进 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-18",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTVBSEM5ZlRQMHlsUjZqQUFpaFg3UE0zSVJzRDl2ZThlQnlQZFJmNVNmR1hUZGN5VGNYVVpSRG5UWVc2dlA3U1FYZUhieDkyWmVraEd1TVN6bXBnaEEtajVxNmdPRDdoc1c1eG51d21ZSmVtUVFNUDNmT2g0U0ZrQzU0T1RNQ3VidXVVdW9GVUlZb2JTVFRTRnhtaVJsUmtGRzBIcFJTOVk4VFRHLVNjUUx3?oc=5"
+            },
+            {
+                "title": "持续深化政治整训纵深推进正风反腐为实现建军一百年奋斗目标提供坚强作风和纪律保障- 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-17",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdldicV9VblNyeS1sVlhjVlZFdXdXZU5rSHZmUjVfaXM4U09mLW5fYVo3eEtoQ3ltMi1kLTF6Skg3bUQ3Sy1aQ1Q2QnRxLTZkelZDZGJJTzlGcV9mM2xWeGsxZVFYWnNwd3ZlaEJEb2ZHOW1MbTdjN1NhWm5CemtBc2N1QV85TDI3X0NqbjI4TlZ4S1ItcDRVcUVfOHVZSXREa3F0SFlQZWRCUFZGWlE2eThn?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-18T18:24:39.224769+00:00"
+    "last_updated": "2026-01-19T01:40:51.406007+00:00"
 }
