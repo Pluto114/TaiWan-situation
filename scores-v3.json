@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "CNBC：关税协议难消美依赖台半导体 台湾“矽盾”固若金汤(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-19",
+                "url": "https://www.secretchina.com/news/gb/2026/01/20/1093753.html"
+            },
+            {
+                "title": "如何更好实现国资的保值增值？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-01-19",
+                "url": "https://www.ftchinese.com/story/001108748"
+            },
+            {
+                "title": "传iPhone 18 Pro将把灵动岛移至屏幕左上角 并采用屏下Face ID方案",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546032.htm"
+            },
+            {
+                "title": "中国智能手机市场Q4出货量同比下滑1.6% 苹果夺得季度冠军",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546028.htm"
+            },
+            {
                 "title": "福特或采购比亚迪电池加码混动市场？官方回应：在很多业务领域会与不同公司有会谈",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-19",
                 "url": "https://36kr.com/newsflashes/3646297953996425"
-            },
-            {
-                "title": "氪星晚报 ｜飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”；良品铺子2025年预计净亏损1.2亿至1.6亿元；马斯克称AI5将是一款“性能非常强大”的芯片",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-19",
-                "url": "https://36kr.com/p/3646220101701256"
-            },
-            {
-                "title": "专家预测：2030 年前，全机器人汽车工厂有望在中国或美国诞生",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-19",
-                "url": "https://www.ithome.com/0/914/541.htm"
-            },
-            {
-                "title": "路透：加拿大恢复进口中国产电动汽车 特斯拉有望抢先获益",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546008.htm"
-            },
-            {
-                "title": "美光称人工智能驱动的内存短缺现象“前所未有”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546004.htm"
             }
         ],
         "mil": [
+            {
+                "title": "如何更好实现国资的保值增值？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-01-19",
+                "url": "https://www.ftchinese.com/story/001108748"
+            },
+            {
+                "title": "传iPhone 18 Pro将把灵动岛移至屏幕左上角 并采用屏下Face ID方案",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546032.htm"
+            },
             {
                 "title": "氪星晚报 ｜飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”；良品铺子2025年预计净亏损1.2亿至1.6亿元；马斯克称AI5将是一款“性能非常强大”的芯片",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1545964.htm"
             },
             {
-                "title": "通用原子MQ-9B“海上守护者”无人机投放声呐浮标参与反潜巡逻测试",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545962.htm"
-            },
-            {
-                "title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-19",
-                "url": "https://36kr.com/p/3644947937972103"
-            },
-            {
                 "title": "2026年1月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-19",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBdW9RVGlINFpVd1NMODlCTXNfSTNCUzhNc25BRDV1RG1ycU10eDQ3UVNtV3RUZjNsaVE0MUZ6a2RMOFNiUU56elJSZFBBV2lIc2c?oc=5"
             },
             {
-                "title": "中央层面整治形式主义为基层减负专项工作机制办公室中央纪委办公厅公开通报3起整治形式主义为基层减负典型问题 - 中国军网",
+                "title": "大型专题节目《习近平法治思想系列讲读》即将开播 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hWGxuR1ZfSF9YS2llTzZPVGFLRXA2M0JpVmlWa2ZvUFdQZWZqOFhaWV9wYlhuZXZxSC1jckFRQko4TXBRa0p4bXdtNDM1SmZXNmc?oc=5"
+                "date": "2026-01-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSlZYcmh2Snp1ZTNTTElWMUNxc0RheTNiczFuTmF4eEZWamRNaHNJZGdSZk1VUFV0TmxVQVFsN2ZFYzRuMnlYaDdKc1BDTklXWnc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "东华软件：拟3亿元设立全资子公司东华数智",
-                "source": "NewsAPI / 36kr.com",
+                "title": "如何更好实现国资的保值增值？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-19",
-                "url": "https://36kr.com/newsflashes/3646284400414598"
+                "url": "https://www.ftchinese.com/story/001108748"
             },
             {
-                "title": "氪星晚报 ｜飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”；良品铺子2025年预计净亏损1.2亿至1.6亿元；马斯克称AI5将是一款“性能非常强大”的芯片",
-                "source": "NewsAPI / 36kr.com",
+                "title": "卡琳•瓦斯奎兹：巴西与中国走向深度结构性合作",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-19",
-                "url": "https://36kr.com/p/3646220101701256"
+                "url": "https://www.ftchinese.com/story/001108759"
             },
             {
-                "title": "汇川技术：筹划发行H股股票并在香港联交所上市",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-19",
-                "url": "https://36kr.com/newsflashes/3646210955873921"
-            },
-            {
-                "title": "前《刺客信条》系列负责人因“被降职”起诉育碧，索赔 130 万加元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-19",
-                "url": "https://www.ithome.com/0/914/524.htm"
-            },
-            {
-                "title": "Anthropic拟再融250亿美元 估值剑指3500亿美元 红杉资本入局",
+                "title": "EPA封堵xAI孟菲斯巨型数据中心“离网燃机”监管漏洞",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1545976.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546044.htm"
+            },
+            {
+                "title": "德国重启电动汽车购车补贴：最高可达 6000 欧元，中国品牌也能享",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-19",
+                "url": "https://www.ithome.com/0/914/578.htm"
+            },
+            {
+                "title": "荣耀护眼学习机火火兔版发布：专为 3-10 岁孩子启蒙学习设计，2999 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-19",
+                "url": "https://www.ithome.com/0/914/569.htm"
             },
             {
                 "title": "2026年1月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBdW9RVGlINFpVd1NMODlCTXNfSTNCUzhNc25BRDV1RG1ycU10eDQ3UVNtV3RUZjNsaVE0MUZ6a2RMOFNiUU56elJSZFBBV2lIc2c?oc=5"
             },
             {
-                "title": "中央层面整治形式主义为基层减负专项工作机制办公室中央纪委办公厅公开通报3起整治形式主义为基层减负典型问题 - 中国军网",
+                "title": "大型专题节目《习近平法治思想系列讲读》即将开播 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hWGxuR1ZfSF9YS2llTzZPVGFLRXA2M0JpVmlWa2ZvUFdQZWZqOFhaWV9wYlhuZXZxSC1jckFRQko4TXBRa0p4bXdtNDM1SmZXNmc?oc=5"
+                "date": "2026-01-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSlZYcmh2Snp1ZTNTTElWMUNxc0RheTNiczFuTmF4eEZWamRNaHNJZGdSZk1VUFV0TmxVQVFsN2ZFYzRuMnlYaDdKc1BDTklXWnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-20T12:43:25.291494+00:00"
+    "last_updated": "2026-01-20T18:32:38.993085+00:00"
 }
