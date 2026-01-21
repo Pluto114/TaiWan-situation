@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国通缩压力大，名义GDP增速或低于日本",
-                "source": "NewsAPI / Nikkei.com",
-                "date": "2026-01-20",
-                "url": "https://cn.nikkei.com/china/ceconomy/61129-2026-01-20-09-08-32.html"
-            },
-            {
-                "title": "中信证券：AI应用有望迎来拐点机遇",
+                "title": "舌尖经济热，解码食品巨头如何撬动情感消费｜世研消费指数品牌榜Vol.97",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-20",
-                "url": "https://36kr.com/newsflashes/3647062130019968"
+                "url": "https://36kr.com/p/3647373928107648"
             },
             {
-                "title": "股债期市场协同改革，提升服务高质量发展质效",
-                "source": "NewsAPI / 36kr.com",
+                "title": "SK海力士完成无锡DRAM晶圆厂制程升级 占公司40%DRAM产量",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://36kr.com/newsflashes/3647019990667137"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546128.htm"
             },
             {
-                "title": "美台贸易协定签署 台湾战略地位升级(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "美欧电动车需求疲软重创韩电池业 LG等三大巨头集体亏损",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.secretchina.com/news/gb/2026/01/20/1093761.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546126.htm"
             },
             {
-                "title": "8点1氪丨SK海力士向全体员工发放人均超64万元绩效奖金；深圳水贝市场推出投资铜条；茶颜悦色回应在北上深开店传闻",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英伟达H200被暂停入华后 PCB等所需组件已暂停生产",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://36kr.com/p/3647003519864708"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546118.htm"
+            },
+            {
+                "title": "连线：与美国关系出现裂痕 欧洲要学中国打造自主版DeepSeek",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546090.htm"
             }
         ],
         "mil": [
+            {
+                "title": "连线：与美国关系出现裂痕 欧洲要学中国打造自主版DeepSeek",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546090.htm"
+            },
+            {
+                "title": "半日主力资金加仓房地产股，抛售电力设备股",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-20",
+                "url": "https://36kr.com/newsflashes/3647218423664521"
+            },
             {
                 "title": "8点1氪丨SK海力士向全体员工发放人均超64万元绩效奖金；深圳水贝市场推出投资铜条；茶颜悦色回应在北上深开店传闻",
                 "source": "NewsAPI / 36kr.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-19",
                 "url": "https://www.ftchinese.com/story/001108748"
-            },
-            {
-                "title": "传iPhone 18 Pro将把灵动岛移至屏幕左上角 并采用屏下Face ID方案",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546032.htm"
-            },
-            {
-                "title": "氪星晚报 ｜飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”；良品铺子2025年预计净亏损1.2亿至1.6亿元；马斯克称AI5将是一款“性能非常强大”的芯片",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-19",
-                "url": "https://36kr.com/p/3646220101701256"
             },
             {
                 "title": "2026年1月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "8点1氪丨SK海力士向全体员工发放人均超64万元绩效奖金；深圳水贝市场推出投资铜条；茶颜悦色回应在北上深开店传闻",
+                "title": "连线：与美国关系出现裂痕 欧洲要学中国打造自主版DeepSeek",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546090.htm"
+            },
+            {
+                "title": "马斯克犯众怒 不雅图像考验全球AI监管底线",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546088.htm"
+            },
+            {
+                "title": "马斯克就收购瑞安航空发起“民调”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546074.htm"
+            },
+            {
+                "title": "让设计师成为“超级个体”，「iMuse.AI」想用虚拟研发破局服装行业的同质化困境 | 早期项目",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-20",
-                "url": "https://36kr.com/p/3647003519864708"
+                "url": "https://36kr.com/p/3646630011031426"
             },
             {
-                "title": "美国或迎来第二座“球体”沉浸式场馆 马里兰国家港拟建迷你Sphere",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546052.htm"
-            },
-            {
-                "title": "如何更好实现国资的保值增值？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-19",
-                "url": "https://www.ftchinese.com/story/001108748"
-            },
-            {
-                "title": "卡琳•瓦斯奎兹：巴西与中国走向深度结构性合作",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-01-19",
-                "url": "https://www.ftchinese.com/story/001108759"
-            },
-            {
-                "title": "EPA封堵xAI孟菲斯巨型数据中心“离网燃机”监管漏洞",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546044.htm"
+                "title": "如果护肤是门科学，那它迟早会被 AI 重做一遍 | 早期项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-20",
+                "url": "https://36kr.com/p/3645771583672192"
             },
             {
                 "title": "2026年1月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-21T01:28:51.069908+00:00"
+    "last_updated": "2026-01-21T06:32:26.582592+00:00"
 }
