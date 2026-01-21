@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "限时 26.98 万元起，吉利银河 V900 增程 MPV 上市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-20",
-                "url": "https://www.ithome.com/0/914/886.htm"
-            },
-            {
-                "title": "数据中心建设成美国建筑业增长最快板块",
+                "title": "三星得克萨斯州晶圆厂成AI热潮下科技大厂的“备胎之选”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546208.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546234.htm"
             },
             {
-                "title": "中国监管部门加大对拼多多的调查力度",
+                "title": "Anthropic创始人称允许NVIDIA向中国销售H200如同\"向朝鲜出售核武器\"",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546200.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546224.htm"
             },
             {
-                "title": "2.7 万名员工大调查，报告称 Z 世代年轻人最怕被 AI 抢走工作",
-                "source": "NewsAPI / Ithome.com",
+                "title": "乌克兰拟向盟友开放战时作战数据用于训练人工智能",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.ithome.com/0/914/870.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546222.htm"
             },
             {
-                "title": "英伟达遭版权诉讼，被指联系影子图书馆获取 500TB 盗版数据",
-                "source": "NewsAPI / Ithome.com",
+                "title": "亚马逊CEO称关税正开始推高美国消费市场的商品价格",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.ithome.com/0/914/860.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546220.htm"
+            },
+            {
+                "title": "展望2026：中国内需攻坚之年",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-01-20",
+                "url": "https://www.ftchinese.com/story/001108755"
             }
         ],
         "mil": [
+            {
+                "title": "乌克兰拟向盟友开放战时作战数据用于训练人工智能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546222.htm"
+            },
+            {
+                "title": "特朗普上任一周年：竞选承诺的履行与隐忧",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-01-20",
+                "url": "https://www.ftchinese.com/story/001108751"
+            },
             {
                 "title": "韩国军事高官向中共泄露间谍名单 判刑20年(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-20",
                 "url": "https://36kr.com/p/3647460169092745"
-            },
-            {
-                "title": "连线：与美国关系出现裂痕 欧洲要学中国打造自主版DeepSeek",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546090.htm"
-            },
-            {
-                "title": "半日主力资金加仓房地产股，抛售电力设备股",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-20",
-                "url": "https://36kr.com/newsflashes/3647218423664521"
             },
             {
                 "title": "2026年1月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "数据中心建设成美国建筑业增长最快板块",
+                "title": "OSHA称SpaceX在星际基地起重机倒塌前没有进行适当的检查",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546208.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546230.htm"
             },
             {
-                "title": "英中设立网络安全对话机制 缓和黑客指控引发的紧张关系",
+                "title": "Anthropic创始人称允许NVIDIA向中国销售H200如同\"向朝鲜出售核武器\"",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546206.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546224.htm"
             },
             {
-                "title": "中国监管部门加大对拼多多的调查力度",
+                "title": "乌克兰拟向盟友开放战时作战数据用于训练人工智能",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546200.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546222.htm"
             },
             {
-                "title": "氪星晚报 ｜宜家计划在五年内将其在印度的投资增加一倍，至超过22亿美元；百度文心助手月活破2亿；王腾新公司“今日宜休”完成数千万种子轮融资",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特朗普上任一周年：竞选承诺的履行与隐忧",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-01-20",
-                "url": "https://36kr.com/p/3647666989895304"
+                "url": "https://www.ftchinese.com/story/001108751"
             },
             {
-                "title": "英伟达遭版权诉讼，被指联系影子图书馆获取 500TB 盗版数据",
-                "source": "NewsAPI / Ithome.com",
+                "title": "大多数美国插电式混合动力汽车车主并不会经常给车充电",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-20",
-                "url": "https://www.ithome.com/0/914/860.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546216.htm"
             },
             {
                 "title": "2026年1月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-21T12:43:24.659684+00:00"
+    "last_updated": "2026-01-21T18:38:44.251988+00:00"
 }
