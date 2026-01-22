@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "带货1亿，李亚鹏真反转了吗？",
+                "title": "瑞安航空CEO奥利里乐见与马斯克的公开争执",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546390.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546416.htm"
             },
             {
-                "title": "谷歌 DeepMind CEO 哈萨比斯：中国 AI 公司“只比前沿水平落后六个月”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-21",
-                "url": "https://www.ithome.com/0/915/246.htm"
-            },
-            {
-                "title": "氪星晚报｜联想集团与英伟达联合推出“联想人工智能云超级工厂”；OpenAI与盖茨基金会将向非洲医疗人工智能领域投资5000万美元；我国去年电影全产业链产值超8100亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-21",
-                "url": "https://36kr.com/p/3649059100843657"
-            },
-            {
-                "title": "NVIDIA N1X Arm笔记本芯片方案曝光：20核CPU配RTX级独显 最快今年一季度登场 ​",
+                "title": "美军测试千瓦级激光无线供电系统 为军用无人机“无限续航”铺路",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546378.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546412.htm"
             },
             {
-                "title": "泡泡玛特反击「空头」",
-                "source": "NewsAPI / 36kr.com",
+                "title": "无偿救人反被告？我们和鳌太线救援队聊了聊",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-21",
-                "url": "https://36kr.com/p/3648979523706501"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546406.htm"
+            },
+            {
+                "title": "贝森特称与中国副总理何立峰就落实美中经济协议进行了“积极讨论”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-01-21",
+                "url": "https://www.voachinese.com/a/bessent-says-he-had-positive-talks-with-china-s-he-lifeng-20260121/8105318.html"
+            },
+            {
+                "title": "特朗普在达沃斯：抱怨欧洲不肯献出格陵兰",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-21",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BE%BE%E6%B2%83%E6%96%AF%E6%8A%B1%E6%80%A8%E6%AC%A7%E6%B4%B2%E4%B8%8D%E8%82%AF%E7%8C%AE%E5%87%BA%E6%A0%BC%E9%99%B5%E5%85%B0/a-75593144"
             }
         ],
         "mil": [
+            {
+                "title": "泰国和中美联合军演 不等于将联合作战(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-21",
+                "url": "https://www.secretchina.com/news/gb/2026/01/22/1093844.html"
+            },
+            {
+                "title": "无偿救人反被告？我们和鳌太线救援队聊了聊",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546406.htm"
+            },
             {
                 "title": "带货1亿，李亚鹏真反转了吗？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-21",
                 "url": "https://36kr.com/p/3649059100843657"
-            },
-            {
-                "title": "NVIDIA N1X Arm笔记本芯片方案曝光：20核CPU配RTX级独显 最快今年一季度登场 ​",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546378.htm"
-            },
-            {
-                "title": "马斯克高调“复活”特斯拉Dojo3芯片项目 再度剑指“太空AI”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546350.htm"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "瑞安航空CEO奥利里乐见与马斯克的公开争执",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546416.htm"
+            },
+            {
+                "title": "无偿救人反被告？我们和鳌太线救援队聊了聊",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546406.htm"
+            },
+            {
+                "title": "消息称 OpenAI 开始销售 ChatGPT 广告：按曝光量而非点击量收费",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-21",
+                "url": "https://www.ithome.com/0/915/263.htm"
+            },
+            {
+                "title": "Steam 国区 328 元起，RPG 游戏《英雄传说 界之轨迹 -告别塞姆利亚-》发售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-21",
+                "url": "https://www.ithome.com/0/915/262.htm"
+            },
+            {
                 "title": "带货1亿，李亚鹏真反转了吗？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-21",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1546390.htm"
-            },
-            {
-                "title": "谷歌 DeepMind CEO 哈萨比斯：中国 AI 公司“只比前沿水平落后六个月”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-21",
-                "url": "https://www.ithome.com/0/915/246.htm"
-            },
-            {
-                "title": "习近平假装病重 蔡奇配合演戏“反扑”？ (图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-21",
-                "url": "https://www.secretchina.com/news/gb/2026/01/21/1093820.html"
-            },
-            {
-                "title": "氪星晚报｜联想集团与英伟达联合推出“联想人工智能云超级工厂”；OpenAI与盖茨基金会将向非洲医疗人工智能领域投资5000万美元；我国去年电影全产业链产值超8100亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-21",
-                "url": "https://36kr.com/p/3649059100843657"
-            },
-            {
-                "title": "OpenAI敲定广告合作方，公布广告业务上线核心细节",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546384.htm"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-22T12:42:55.988201+00:00"
+    "last_updated": "2026-01-22T18:28:50.538244+00:00"
 }
