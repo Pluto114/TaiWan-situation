@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "瑞安航空CEO奥利里乐见与马斯克的公开争执",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546416.htm"
+                "title": "美专家：习近平处境恐更脆弱 川普不会在台湾问题上让步(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-22",
+                "url": "https://www.secretchina.com/news/gb/2026/01/22/1093865.html"
             },
             {
-                "title": "美军测试千瓦级激光无线供电系统 为军用无人机“无限续航”铺路",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546412.htm"
+                "title": "路透社：存储芯片价格飙升，消费电子产品制造商前景黯淡",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-22",
+                "url": "https://www.ithome.com/0/915/299.htm"
             },
             {
-                "title": "无偿救人反被告？我们和鳌太线救援队聊了聊",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546406.htm"
+                "title": "破解“不可能三角”：我国科学家超越传统制冷原理框架，首次发现“溶解压卡效应”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-22",
+                "url": "https://www.ithome.com/0/915/297.htm"
             },
             {
-                "title": "贝森特称与中国副总理何立峰就落实美中经济协议进行了“积极讨论”",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-01-21",
-                "url": "https://www.voachinese.com/a/bessent-says-he-had-positive-talks-with-china-s-he-lifeng-20260121/8105318.html"
+                "title": "消息称立讯精密遭黑客攻破，苹果、英伟达等公司绝密图纸恐曝光",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-22",
+                "url": "https://www.ithome.com/0/915/293.htm"
             },
             {
-                "title": "特朗普在达沃斯：抱怨欧洲不肯献出格陵兰",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-21",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BE%BE%E6%B2%83%E6%96%AF%E6%8A%B1%E6%80%A8%E6%AC%A7%E6%B4%B2%E4%B8%8D%E8%82%AF%E7%8C%AE%E5%87%BA%E6%A0%BC%E9%99%B5%E5%85%B0/a-75593144"
+                "title": "华泰证券：建议关注具备全产业链优势、积极布局全球的整车企业",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-22",
+                "url": "https://36kr.com/newsflashes/3649838762336390"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨西贝获新融资；永辉已申请多枚胖小辉商标；全球最大钻石生产商宣布降价",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-22",
+                "url": "https://36kr.com/p/3649832835260809"
+            },
+            {
+                "title": "科技昨夜今晨 0122：工信部称将扩大“二次号码焕新”覆盖范围；上海市税务部门依法对“拼多多”作出处罚；苹果首款折叠屏手机 iPhone Fold 模型曝光...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-22",
+                "url": "https://www.ithome.com/0/915/288.htm"
+            },
+            {
+                "title": "法国呛军演 丹麦抛美债 美国财长表态“无足轻重”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-21",
+                "url": "https://www.secretchina.com/news/gb/2026/01/22/1093849.html"
+            },
             {
                 "title": "泰国和中美联合军演 不等于将联合作战(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1546406.htm"
             },
             {
-                "title": "带货1亿，李亚鹏真反转了吗？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546390.htm"
-            },
-            {
-                "title": "习近平假装病重 蔡奇配合演戏“反扑”？ (图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-21",
-                "url": "https://www.secretchina.com/news/gb/2026/01/21/1093820.html"
-            },
-            {
-                "title": "氪星晚报｜联想集团与英伟达联合推出“联想人工智能云超级工厂”；OpenAI与盖茨基金会将向非洲医疗人工智能领域投资5000万美元；我国去年电影全产业链产值超8100亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-21",
-                "url": "https://36kr.com/p/3649059100843657"
+                "title": "2026年1月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FcGdjV3E1NlJTam9nOW9RbVNRajVTOE9obk40aklEMEp6XzhJQW50OXNrcXpPWjl6ZVpYaUlHTXpBWUdoQmdNQUQ2MC1pakJLaVNqZXh2cDFpZk5GZXU5N05kT0lPeXZpQVc4NURQcl94d21VTHc?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -86,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-22",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkhUTmdtS01xWVZGdGVrZ3NwcDlRZEVRWXhXRnh5TzRwTzc3RDhJMElKUzlNRkpDN2g1TGE0WHVSUUhmd0xSWTZBb0Jrblc4QjNka0U5by1wNFBjejhHc0J2aHJmR1Z4SktLQXRONVBlTDI5QjJQRWh2TVppSTlfSWJsTHA?oc=5"
-            },
-            {
                 "title": "甘肃省白银市完善“军地互办实事”工作机制 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
@@ -104,42 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUhmYlZpOXVjT2xrUWdDN0YxNE9kNnVFcFhsUlMyM01XT0l6eGU1YlMtcDNXZ1FMV0dhcDZQZDB6M3JVekNOZHdndERTOEZONDNVRTNlaDYwZ3BpMVdKX3FTaEVYdmJ1YkVHWG1TNlZxbzRFbUcxTFhkc1pRZUJfdmhZbC16MjFRQnFQY3hUT2djSGhhbGFaMXZ0UnplZjJzWjg0cE1ldWRNX3pEaDJvbUl3?oc=5"
             },
             {
-                "title": "用习近平强军思想立德树人、为战育人——《习近平强军思想概论》学习研讨交流活动发言摘登 - 中国军网",
+                "title": "中共中央国务院中央军委关于给陈冬颁发“一级航天功勋奖章” 授予陈中瑞 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05RGxhZGVJcmMyYXNyQkhiS0JNNVlHckdSdm1mbXJtNi14LUxTSXZhWVdnWElYZTM2aV8ycEYtcjl1a1JNd3hwZThWUnJHNHhtb2c?oc=5"
+                "date": "2026-01-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zRTQyVDB5N2ZaR1FfQ2RVN2V0RzZiX3lObnpOQUlCUjRtTUttZU85TTJfaUphQm56Zk5JNmV0LW02S2dneHFRV2VFUHZDV0UyV3c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "瑞安航空CEO奥利里乐见与马斯克的公开争执",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546416.htm"
+                "title": "苹果放话：举全公司之力，打造史上最强 F1 转播",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-22",
+                "url": "https://www.ithome.com/0/915/306.htm"
             },
             {
-                "title": "无偿救人反被告？我们和鳌太线救援队聊了聊",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546406.htm"
+                "title": "路透社：存储芯片价格飙升，消费电子产品制造商前景黯淡",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-22",
+                "url": "https://www.ithome.com/0/915/299.htm"
             },
             {
-                "title": "消息称 OpenAI 开始销售 ChatGPT 广告：按曝光量而非点击量收费",
+                "title": "科技昨夜今晨 0122：工信部称将扩大“二次号码焕新”覆盖范围；上海市税务部门依法对“拼多多”作出处罚；苹果首款折叠屏手机 iPhone Fold 模型曝光...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-22",
+                "url": "https://www.ithome.com/0/915/288.htm"
+            },
+            {
+                "title": "8点1氪丨西贝获新融资；永辉已申请多枚胖小辉商标；全球最大钻石生产商宣布降价",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-22",
+                "url": "https://36kr.com/p/3649832835260809"
+            },
+            {
+                "title": "李东生卸任 TCL 科技 CEO 并继续担任公司董事长，王成接任",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-21",
-                "url": "https://www.ithome.com/0/915/263.htm"
+                "url": "https://www.ithome.com/0/915/282.htm"
             },
             {
-                "title": "Steam 国区 328 元起，RPG 游戏《英雄传说 界之轨迹 -告别塞姆利亚-》发售",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-21",
-                "url": "https://www.ithome.com/0/915/262.htm"
-            },
-            {
-                "title": "带货1亿，李亚鹏真反转了吗？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546390.htm"
+                "title": "2026年1月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FcGdjV3E1NlJTam9nOW9RbVNRajVTOE9obk40aklEMEp6XzhJQW50OXNrcXpPWjl6ZVpYaUlHTXpBWUdoQmdNQUQ2MC1pakJLaVNqZXh2cDFpZk5GZXU5N05kT0lPeXZpQVc4NURQcl94d21VTHc?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -154,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-22",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkhUTmdtS01xWVZGdGVrZ3NwcDlRZEVRWXhXRnh5TzRwTzc3RDhJMElKUzlNRkpDN2g1TGE0WHVSUUhmd0xSWTZBb0Jrblc4QjNka0U5by1wNFBjejhHc0J2aHJmR1Z4SktLQXRONVBlTDI5QjJQRWh2TVppSTlfSWJsTHA?oc=5"
-            },
-            {
                 "title": "甘肃省白银市完善“军地互办实事”工作机制 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUhmYlZpOXVjT2xrUWdDN0YxNE9kNnVFcFhsUlMyM01XT0l6eGU1YlMtcDNXZ1FMV0dhcDZQZDB6M3JVekNOZHdndERTOEZONDNVRTNlaDYwZ3BpMVdKX3FTaEVYdmJ1YkVHWG1TNlZxbzRFbUcxTFhkc1pRZUJfdmhZbC16MjFRQnFQY3hUT2djSGhhbGFaMXZ0UnplZjJzWjg0cE1ldWRNX3pEaDJvbUl3?oc=5"
             },
             {
-                "title": "用习近平强军思想立德树人、为战育人——《习近平强军思想概论》学习研讨交流活动发言摘登 - 中国军网",
+                "title": "中共中央国务院中央军委关于给陈冬颁发“一级航天功勋奖章” 授予陈中瑞 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05RGxhZGVJcmMyYXNyQkhiS0JNNVlHckdSdm1mbXJtNi14LUxTSXZhWVdnWElYZTM2aV8ycEYtcjl1a1JNd3hwZThWUnJHNHhtb2c?oc=5"
+                "date": "2026-01-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zRTQyVDB5N2ZaR1FfQ2RVN2V0RzZiX3lObnpOQUlCUjRtTUttZU85TTJfaUphQm56Zk5JNmV0LW02S2dneHFRV2VFUHZDV0UyV3c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-22T18:28:50.538244+00:00"
+    "last_updated": "2026-01-23T01:26:35.695879+00:00"
 }
