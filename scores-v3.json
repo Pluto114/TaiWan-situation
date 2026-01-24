@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "乌俄美三方谈判登场 泽连斯基：安全保障文件已完成(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "谷歌 DeepMind 发布 4D 世界模型 D4RT，比 SOTA 快 300 倍",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-23",
-                "url": "https://www.secretchina.com/news/gb/2026/01/23/1093914.html"
+                "url": "https://www.ithome.com/0/915/789.htm"
             },
             {
-                "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-23",
-                "url": "https://36kr.com/p/3650535923032196"
-            },
-            {
-                "title": "8点1氪丨错版“马年茅台”二手价格被炒至2800元；vivo叫停AI眼镜项目；兰博基尼2025销量创历史新高，卖出10747辆",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-22",
-                "url": "https://36kr.com/p/3651238105162115"
-            },
-            {
-                "title": "马斯克：到今年年底将在美国建立广泛的Robotaxi网络",
+                "title": "刘强东章泽天手牵手出席冬季达沃斯年会 现身特朗普演讲现场",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546620.htm"
+                "date": "2026-01-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546684.htm"
             },
             {
-                "title": "川习2026年要见几次面？贝森特透露安排(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-22",
-                "url": "https://www.secretchina.com/news/gb/2026/01/23/1093910.html"
+                "title": "新一代游戏神U降临 AMD锐龙7 9850X3D售价公布",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546676.htm"
+            },
+            {
+                "title": "华强北给iPhone Air装上实体SIM卡槽",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546674.htm"
+            },
+            {
+                "title": "Intel已经走到了扭亏为盈的边缘",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546672.htm"
             }
         ],
         "mil": [
+            {
+                "title": "起底32岁程序员猝死背后公司：不配合工伤认定 曾给39万“封口费”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546632.htm"
+            },
+            {
+                "title": "京东方：第 8.6 代 AMOLED 产线预计下半年量产，品牌厂正积极采购 LCD 产品",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-23",
+                "url": "https://www.ithome.com/0/915/678.htm"
+            },
             {
                 "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3651238105162115"
             },
             {
-                "title": "网易《我的世界》中国版：部分网络游戏服务器将于 2026 年 2 月 6 日停服",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-22",
-                "url": "https://www.ithome.com/0/915/588.htm"
-            },
-            {
-                "title": "消息称 OpenAI 低调布局人形机器人：旧金山实验室百人团队训练机械臂做家务",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-22",
-                "url": "https://www.ithome.com/0/915/580.htm"
-            },
-            {
                 "title": "2026年1月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-23",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85X3p4R0VZY3EyOVhxWF9lVEFfMndvTlJ4c3Fxa2FISjhRM0JYMjZVb1VGdUUxbExqb3RTWHRwSWgtYllIdm1YQ0lCYTdvV3haWjFTWUVzQzY?oc=5"
             },
             {
+                "title": "2026年1月23日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+            },
+            {
                 "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-23",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
                 "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42MzZqaUVXT18yLVk4MEpKQ1kwNWZ6WFVVU3AtU09WenNGSGxnLTJDUTFTbGxXczVHU3dCQUZVd29qUWxXNWZuZk9neHhpQ0hPWjl1dXo1OHg2Y21TUjduU1NVYmRnRC1JTUZBM19KX1BGQ19qTUVCb2xqbnd1cmc?oc=5"
-            },
-            {
-                "title": "图片 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-22",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUhmYlZpOXVjT2xrUWdDN0YxNE9kNnVFcFhsUlMyM01XT0l6eGU1YlMtcDNXZ1FMV0dhcDZQZDB6M3JVekNOZHdndERTOEZONDNVRTNlaDYwZ3BpMVdKX3FTaEVYdmJ1YkVHWG1TNlZxbzRFbUcxTFhkc1pRZUJfdmhZbC16MjFRQnFQY3hUT2djSGhhbGFaMXZ0UnplZjJzWjg0cE1ldWRNX3pEaDJvbUl3?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "乌俄美三方谈判登场 泽连斯基：安全保障文件已完成(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "刘强东章泽天手牵手出席冬季达沃斯年会 现身特朗普演讲现场",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-23",
-                "url": "https://www.secretchina.com/news/gb/2026/01/23/1093914.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546684.htm"
             },
             {
-                "title": "欧盟委员会遭苹果指责：使用“政治拖延战术”强加罚款",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-23",
-                "url": "https://www.ithome.com/0/915/644.htm"
-            },
-            {
-                "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
+                "title": "头部AI基础设施服务商获亿元级美金投资，Forebright、高瓴、云锋等参与，已进入大厂供应链",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-23",
-                "url": "https://36kr.com/p/3650535923032196"
+                "url": "https://36kr.com/p/3651582023524488"
             },
             {
-                "title": "8点1氪丨错版“马年茅台”二手价格被炒至2800元；vivo叫停AI眼镜项目；兰博基尼2025销量创历史新高，卖出10747辆",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-22",
-                "url": "https://36kr.com/p/3651238105162115"
+                "title": "回归 OPPO 体系的 realme 发布真我 Neo8，要打造“同档最强综合产品力”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-01-23",
+                "url": "https://www.toodaylab.com/83888"
             },
             {
-                "title": "库克交棒信号：50 岁少壮派 John Ternus 接管设计大权，成苹果最热 CEO 接班人",
+                "title": "起底32岁程序员猝死背后公司：不配合工伤认定 曾给39万“封口费”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546632.htm"
+            },
+            {
+                "title": "商务部：2025 年手机、智能机器人等数字产品网上零售额分别增长 20.5% 和 18%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-22",
-                "url": "https://www.ithome.com/0/915/634.htm"
+                "date": "2026-01-23",
+                "url": "https://www.ithome.com/0/915/722.htm"
             },
             {
                 "title": "2026年1月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85X3p4R0VZY3EyOVhxWF9lVEFfMndvTlJ4c3Fxa2FISjhRM0JYMjZVb1VGdUUxbExqb3RTWHRwSWgtYllIdm1YQ0lCYTdvV3haWjFTWUVzQzY?oc=5"
             },
             {
+                "title": "2026年1月23日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+            },
+            {
                 "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-23",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
                 "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42MzZqaUVXT18yLVk4MEpKQ1kwNWZ6WFVVU3AtU09WenNGSGxnLTJDUTFTbGxXczVHU3dCQUZVd29qUWxXNWZuZk9neHhpQ0hPWjl1dXo1OHg2Y21TUjduU1NVYmRnRC1JTUZBM19KX1BGQ19qTUVCb2xqbnd1cmc?oc=5"
-            },
-            {
-                "title": "图片 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-22",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUhmYlZpOXVjT2xrUWdDN0YxNE9kNnVFcFhsUlMyM01XT0l6eGU1YlMtcDNXZ1FMV0dhcDZQZDB6M3JVekNOZHdndERTOEZONDNVRTNlaDYwZ3BpMVdKX3FTaEVYdmJ1YkVHWG1TNlZxbzRFbUcxTFhkc1pRZUJfdmhZbC16MjFRQnFQY3hUT2djSGhhbGFaMXZ0UnplZjJzWjg0cE1ldWRNX3pEaDJvbUl3?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-24T01:24:26.186903+00:00"
+    "last_updated": "2026-01-24T06:28:14.811214+00:00"
 }
