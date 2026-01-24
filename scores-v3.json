@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国经济“大厦将倾”信号灯全亮 国人及早做防护(图)",
+                "title": "乌俄美三方谈判登场 泽连斯基：安全保障文件已完成(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-23",
+                "url": "https://www.secretchina.com/news/gb/2026/01/23/1093914.html"
+            },
+            {
+                "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-23",
+                "url": "https://36kr.com/p/3650535923032196"
+            },
+            {
+                "title": "8点1氪丨错版“马年茅台”二手价格被炒至2800元；vivo叫停AI眼镜项目；兰博基尼2025销量创历史新高，卖出10747辆",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-22",
+                "url": "https://36kr.com/p/3651238105162115"
+            },
+            {
+                "title": "马斯克：到今年年底将在美国建立广泛的Robotaxi网络",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546620.htm"
+            },
+            {
+                "title": "川习2026年要见几次面？贝森特透露安排(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-22",
-                "url": "https://www.secretchina.com/news/gb/2026/01/23/1093898.html"
-            },
-            {
-                "title": "月之暗面张予彤：Kimi仅使用美国顶尖实验室1%的资源 最新模型将很快发布",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546568.htm"
-            },
-            {
-                "title": "中国AI落后美国？Mistral CEO：无稽之谈 美CEO或感到压力了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546566.htm"
-            },
-            {
-                "title": "事实核查：特朗普达沃斯演讲中的五大谬误",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-22",
-                "url": "https://www.dw.com/zh/%E4%BA%8B%E5%AE%9E%E6%A0%B8%E6%9F%A5%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%BC%94%E8%AE%B2%E4%B8%AD%E7%9A%84%E4%BA%94%E5%A4%A7%E8%B0%AC%E8%AF%AF/a-75605887"
-            },
-            {
-                "title": "消息称曦望完成近 30 亿元融资，将用于下一代推理 GPU 研发",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-22",
-                "url": "https://www.ithome.com/0/915/597.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/01/23/1093910.html"
             }
         ],
         "mil": [
+            {
+                "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-23",
+                "url": "https://36kr.com/p/3650535923032196"
+            },
+            {
+                "title": "科技昨夜今晨 0123：realme 正式回归 OPPO 商城；腾讯回应开源项目被下架；智界 R7 刷新全球量产 SUV 最低风阻...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-23",
+                "url": "https://www.ithome.com/0/915/641.htm"
+            },
+            {
+                "title": "8点1氪丨错版“马年茅台”二手价格被炒至2800元；vivo叫停AI眼镜项目；兰博基尼2025销量创历史新高，卖出10747辆",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-22",
+                "url": "https://36kr.com/p/3651238105162115"
+            },
             {
                 "title": "网易《我的世界》中国版：部分网络游戏服务器将于 2026 年 2 月 6 日停服",
                 "source": "NewsAPI / Ithome.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.ithome.com/0/915/580.htm"
             },
             {
-                "title": "英伟达 CEO 黄仁勋：上千亿美元只是开胃菜，AI 基建还得再砸几万亿",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-22",
-                "url": "https://www.ithome.com/0/915/487.htm"
-            },
-            {
-                "title": "首创“证据锚定”技术，百川智能推出最低幻觉循证增强医疗大模型 M3 Plus",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-22",
-                "url": "https://www.ithome.com/0/915/453.htm"
-            },
-            {
-                "title": "美国众议院寻求对AI芯片销售的控制权 拟立法强化出口审查",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546518.htm"
-            },
-            {
                 "title": "2026年1月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-23",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85X3p4R0VZY3EyOVhxWF9lVEFfMndvTlJ4c3Fxa2FISjhRM0JYMjZVb1VGdUUxbExqb3RTWHRwSWgtYllIdm1YQ0lCYTdvV3haWjFTWUVzQzY?oc=5"
             },
             {
+                "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTFJZTW0yWmdLd0txMjV2SHZxRk4wSVlUelVETm0xa3dwbW9IM09GWGE2QVpmNzkxYUNfZ1hmTXNjcGF3dzJVUXhnQlYtUlFDVmc?oc=5"
+            },
+            {
                 "title": "甘肃省白银市完善“军地互办实事”工作机制 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUhmYlZpOXVjT2xrUWdDN0YxNE9kNnVFcFhsUlMyM01XT0l6eGU1YlMtcDNXZ1FMV0dhcDZQZDB6M3JVekNOZHdndERTOEZONDNVRTNlaDYwZ3BpMVdKX3FTaEVYdmJ1YkVHWG1TNlZxbzRFbUcxTFhkc1pRZUJfdmhZbC16MjFRQnFQY3hUT2djSGhhbGFaMXZ0UnplZjJzWjg0cE1ldWRNX3pEaDJvbUl3?oc=5"
-            },
-            {
-                "title": "@带兵人 爱兵更出战斗力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tdEF1dEEwSlNQbllBeFBWMncyMVU2elFxbVhEYW14cTVfRGFuLWhMczlSZjdFZ3dabEkzYVQ2Z2RTaTJCeVJaWXpia2tNUXh4bnc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "中美均已认可TikTok美国业务分拆的交易",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546600.htm"
+                "title": "乌俄美三方谈判登场 泽连斯基：安全保障文件已完成(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-23",
+                "url": "https://www.secretchina.com/news/gb/2026/01/23/1093914.html"
             },
             {
-                "title": "现代汽车拟部署类人机器人 工会警告或引发大规模失业",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546588.htm"
+                "title": "欧盟委员会遭苹果指责：使用“政治拖延战术”强加罚款",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-23",
+                "url": "https://www.ithome.com/0/915/644.htm"
             },
             {
-                "title": "氪星晚报｜潘功胜：今年降准降息还有一定的空间；高盛上调2026年底金价目标至5400美元；百川推出最低幻觉循证增强医疗大模型M3 Plus",
+                "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-23",
+                "url": "https://36kr.com/p/3650535923032196"
+            },
+            {
+                "title": "8点1氪丨错版“马年茅台”二手价格被炒至2800元；vivo叫停AI眼镜项目；兰博基尼2025销量创历史新高，卖出10747辆",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-22",
-                "url": "https://36kr.com/p/3650396043092101"
+                "url": "https://36kr.com/p/3651238105162115"
             },
             {
-                "title": "网易《我的世界》中国版：部分网络游戏服务器将于 2026 年 2 月 6 日停服",
+                "title": "库克交棒信号：50 岁少壮派 John Ternus 接管设计大权，成苹果最热 CEO 接班人",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-22",
-                "url": "https://www.ithome.com/0/915/588.htm"
-            },
-            {
-                "title": "三星授权经销商被曝大幅上调存储产品售价 官方对此表示否认",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546550.htm"
+                "url": "https://www.ithome.com/0/915/634.htm"
             },
             {
                 "title": "2026年1月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85X3p4R0VZY3EyOVhxWF9lVEFfMndvTlJ4c3Fxa2FISjhRM0JYMjZVb1VGdUUxbExqb3RTWHRwSWgtYllIdm1YQ0lCYTdvV3haWjFTWUVzQzY?oc=5"
             },
             {
+                "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTFJZTW0yWmdLd0txMjV2SHZxRk4wSVlUelVETm0xa3dwbW9IM09GWGE2QVpmNzkxYUNfZ1hmTXNjcGF3dzJVUXhnQlYtUlFDVmc?oc=5"
+            },
+            {
                 "title": "甘肃省白银市完善“军地互办实事”工作机制 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-22",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUhmYlZpOXVjT2xrUWdDN0YxNE9kNnVFcFhsUlMyM01XT0l6eGU1YlMtcDNXZ1FMV0dhcDZQZDB6M3JVekNOZHdndERTOEZONDNVRTNlaDYwZ3BpMVdKX3FTaEVYdmJ1YkVHWG1TNlZxbzRFbUcxTFhkc1pRZUJfdmhZbC16MjFRQnFQY3hUT2djSGhhbGFaMXZ0UnplZjJzWjg0cE1ldWRNX3pEaDJvbUl3?oc=5"
-            },
-            {
-                "title": "@带兵人 爱兵更出战斗力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tdEF1dEEwSlNQbllBeFBWMncyMVU2elFxbVhEYW14cTVfRGFuLWhMczlSZjdFZ3dabEkzYVQ2Z2RTaTJCeVJaWXpia2tNUXh4bnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-23T18:29:46.201853+00:00"
+    "last_updated": "2026-01-24T01:24:26.186903+00:00"
 }
