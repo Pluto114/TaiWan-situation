@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "iPhone Air官方价格暴跌2000元：累积激活量还不到20万 不及预期",
+                "title": "即将到来的苹果iPhone 17e并不打算涨价",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546908.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546918.htm"
             },
             {
-                "title": "OpenAI携手Leidos向美联邦机构部署代理型生成式人工智能",
+                "title": "苹果再登《财富》“全球最受赞赏公司”榜首 连续19年蝉联第一",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546900.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546912.htm"
             },
             {
-                "title": "【CDT报告汇】保护记者委员会：中国连续三年成为世界最大的记者监狱（外二篇）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
+                "title": "加中协议激怒川普 川普威胁对加拿大征收100%关税(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-24",
-                "url": "https://chinadigitaltimes.net/chinese/?p=724595"
+                "url": "https://www.secretchina.com/news/gb/2026/01/24/1093998.html"
             },
             {
-                "title": "京东上线iPhone Air优惠 国补叠加以旧换新补贴：到手价只要5099元起",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "五角大楼发布国防战略 寻求与中国相互尊重关系",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546874.htm"
+                "url": "https://www.dw.com/zh/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%8F%91%E5%B8%83%E5%9B%BD%E9%98%B2%E6%88%98%E7%95%A5-%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9B%B8%E4%BA%92%E5%B0%8A%E9%87%8D%E5%85%B3%E7%B3%BB/a-75640361"
             },
             {
-                "title": "特斯拉Robotaxi启动全无人运营 但被网友吐槽是“障眼法”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546846.htm"
+                "url": "https://36kr.com/p/3653424523682183"
             }
         ],
         "mil": [
+            {
+                "title": "报告称海上安全正被失控的告警系统侵蚀",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546928.htm"
+            },
+            {
+                "title": "苹果再登《财富》“全球最受赞赏公司”榜首 连续19年蝉联第一",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546912.htm"
+            },
+            {
+                "title": "死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-24",
+                "url": "https://36kr.com/p/3653424523682183"
+            },
             {
                 "title": "俄、中如何扩大在北极的影响力",
                 "source": "NewsAPI / DW (English)",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-24",
                 "url": "https://36kr.com/p/3652729313108355"
-            },
-            {
-                "title": "波兰电力设施遭遇大规模网络攻击 安全公司指俄黑客“沙虫”组织是元凶",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546818.htm"
-            },
-            {
-                "title": "起底32岁程序员猝死背后公司：不配合工伤认定 曾给39万“封口费”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546632.htm"
-            },
-            {
-                "title": "京东方：第 8.6 代 AMOLED 产线预计下半年量产，品牌厂正积极采购 LCD 产品",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-23",
-                "url": "https://www.ithome.com/0/915/678.htm"
             },
             {
                 "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81Zm1KM2o0elROX3lzSHNRNFFmenpodjVXamRYVkZYUi1yY3hPcG1OOXpNNzB1eGl1R0RSTHNxai0zdWpabURZSVA2UnRkX0hXVU15UjQ5c3Y?oc=5"
             },
             {
-                "title": "国防部新闻发言人蒋斌就近期涉军问题发布消息 - 中华人民共和国国防部",
+                "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-24",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92RlZVNHZvalNyZm1hdjVNVjJNMS1nSi1tbHRVSWZmSDZHVkt2cktweHFXczF0MXpMbjNhME1zVGdweWVsUjZYbGJSel9JRS1pVlZvOE4tQmQ?oc=5"
+                "date": "2026-01-25",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuT3JhVlNRVTNnc241YVlnSWlFNEFFVG9iU3MxWGdrbElEUDh4ODJ2czVsckE4YXlNT0laVlFwbFhobUhTdmtvaDlhLTNub3dPd001ZDhfQUQ?oc=5"
             },
             {
                 "title": "环球军情- 解放军报 - 中国军网",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "报告称海上安全正被失控的告警系统侵蚀",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546928.htm"
+            },
+            {
+                "title": "死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-24",
+                "url": "https://36kr.com/p/3653424523682183"
+            },
+            {
                 "title": "OSM中的道路等级-小型/等级外道路",
                 "source": "NewsAPI / Openstreetmap.org",
                 "date": "2026-01-24",
@@ -130,18 +142,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1546846.htm"
             },
             {
-                "title": "Meta与依视路因智能眼镜涉嫌专利侵权遭起诉",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546834.htm"
-            },
-            {
-                "title": "苹果 2025 年在印度出货约 1400 万部 iPhone，市场份额升至 9% 逆势创新高",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-24",
-                "url": "https://www.ithome.com/0/916/031.htm"
-            },
-            {
                 "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-24",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81Zm1KM2o0elROX3lzSHNRNFFmenpodjVXamRYVkZYUi1yY3hPcG1OOXpNNzB1eGl1R0RSTHNxai0zdWpabURZSVA2UnRkX0hXVU15UjQ5c3Y?oc=5"
             },
             {
-                "title": "国防部新闻发言人蒋斌就近期涉军问题发布消息 - 中华人民共和国国防部",
+                "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-24",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92RlZVNHZvalNyZm1hdjVNVjJNMS1nSi1tbHRVSWZmSDZHVkt2cktweHFXczF0MXpMbjNhME1zVGdweWVsUjZYbGJSel9JRS1pVlZvOE4tQmQ?oc=5"
+                "date": "2026-01-25",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuT3JhVlNRVTNnc241YVlnSWlFNEFFVG9iU3MxWGdrbElEUDh4ODJ2czVsckE4YXlNT0laVlFwbFhobUhTdmtvaDlhLTNub3dPd001ZDhfQUQ?oc=5"
             },
             {
                 "title": "环球军情- 解放军报 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-25T12:37:33.262535+00:00"
+    "last_updated": "2026-01-25T18:26:24.886930+00:00"
 }
