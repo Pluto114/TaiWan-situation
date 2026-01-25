@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "还有更低！5099 元起京东自营苹果 iPhone Air 手机大促，支持 12 期免息",
-                "source": "NewsAPI / Ithome.com",
+                "title": "iPhone Air官方价格暴跌2000元：累积激活量还不到20万 不及预期",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-24",
-                "url": "https://www.ithome.com/0/916/042.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546908.htm"
             },
             {
-                "title": "iPhone17e或维持原价：A19 芯片、升级灵动岛",
-                "source": "NewsAPI / 36kr.com",
+                "title": "OpenAI携手Leidos向美联邦机构部署代理型生成式人工智能",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-24",
-                "url": "https://36kr.com/newsflashes/3652905748816263"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546900.htm"
             },
             {
-                "title": "消息称苹果 iPhone 17e 维持原价：A19 芯片、升级灵动岛",
-                "source": "NewsAPI / Ithome.com",
+                "title": "【CDT报告汇】保护记者委员会：中国连续三年成为世界最大的记者监狱（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-01-24",
-                "url": "https://www.ithome.com/0/916/013.htm"
+                "url": "https://chinadigitaltimes.net/chinese/?p=724595"
             },
             {
-                "title": "前字节团队创业，做无屏儿童口语陪练AI硬件｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "京东上线iPhone Air优惠 国补叠加以旧换新补贴：到手价只要5099元起",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-24",
-                "url": "https://36kr.com/p/3581375032605829"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546874.htm"
             },
             {
-                "title": "硫磺价格持续走高 产业链上下游冷暖分化",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特斯拉Robotaxi启动全无人运营 但被网友吐槽是“障眼法”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-24",
-                "url": "https://36kr.com/newsflashes/3652760041922945"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546846.htm"
             }
         ],
         "mil": [
+            {
+                "title": "俄、中如何扩大在北极的影响力",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-24",
+                "url": "https://www.dw.com/zh/%E4%BF%84%E4%B8%AD%E5%A6%82%E4%BD%95%E6%89%A9%E5%A4%A7%E5%9C%A8%E5%8C%97%E6%9E%81%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B/a-75622894"
+            },
             {
                 "title": "9点1氪丨高铁车厢二氧化碳浓度超标，12306客服回应；中国太空旅游预售票300万一张；五家韩国航司26日起禁止机舱内使用充电宝",
                 "source": "NewsAPI / 36kr.com",
@@ -68,18 +74,6 @@
                 "url": "https://www.ithome.com/0/915/678.htm"
             },
             {
-                "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-23",
-                "url": "https://36kr.com/p/3650535923032196"
-            },
-            {
-                "title": "2026年1月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93TC1RMHJSUTJFeS16YW5Pc1c1UmQ4VTk3ZXhXcm1aREpYQ19qWXRQLWNiUUFXMTQ3UlVTRTM1UV9DZnVYNE55SE11MTZBSnBkdDBmSEt1NlpnN2g2dHpCOVFicnpheUZQd3NwLWRtLUZkS0hKVGc?oc=5"
-            },
-            {
                 "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-24",
@@ -92,6 +86,18 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81Zm1KM2o0elROX3lzSHNRNFFmenpodjVXamRYVkZYUi1yY3hPcG1OOXpNNzB1eGl1R0RSTHNxai0zdWpabURZSVA2UnRkX0hXVU15UjQ5c3Y?oc=5"
             },
             {
+                "title": "国防部新闻发言人蒋斌就近期涉军问题发布消息 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-24",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92RlZVNHZvalNyZm1hdjVNVjJNMS1nSi1tbHRVSWZmSDZHVkt2cktweHFXczF0MXpMbjNhME1zVGdweWVsUjZYbGJSel9JRS1pVlZvOE4tQmQ?oc=5"
+            },
+            {
+                "title": "环球军情- 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-25",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmRFbkF2QVB5VnhjSjc3bDN4YloweV93dlBDU0pya21qZWpYZERJS3ZPS2gwYW5OSWtpSDRQX3U2THE1UlJVRVd6S0V6OEd5aTRBQnhVQmJxdEJHSHFIZnZZNmdEcVctcmkzc095VGRUTmxxeVZ6ZXptZnZ4bF81M2V2U1VvMWR2aDBQaW9RMXQ5a0hBa0VuR1k5c09PWlZtdi1kelBFeHl0OExjS3Rhdmpn?oc=5"
+            },
+            {
                 "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-23",
@@ -102,15 +108,33 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-24",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kdlBqTU5LZmNIbzkyTGFSR2plWUQ2QkdValkweXQxMFhPMFFrSjM4eWc3NjlaR1EzZnkzY01PVmF6aDBSSkZjay1jdw?oc=5"
-            },
-            {
-                "title": "空军航空兵某旅多课目飞行训练影像 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-24",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9keE1KVmRXOEptNEpYc1F5ZFdDRnpudlRWeUxmeVJrTTNVTUpDVnkzUXFKWEhPZzNTdThjZVlWSVBpMzB4QWlVZ21OSWU?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "OSM中的道路等级-小型/等级外道路",
+                "source": "NewsAPI / Openstreetmap.org",
+                "date": "2026-01-24",
+                "url": "https://www.openstreetmap.org/user/BG4WDV/diary/408144"
+            },
+            {
+                "title": "俞敏洪：随着人工智能的升级 中国中小学教师一大半是不合格的",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546856.htm"
+            },
+            {
+                "title": "特斯拉Robotaxi启动全无人运营 但被网友吐槽是“障眼法”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546846.htm"
+            },
+            {
+                "title": "Meta与依视路因智能眼镜涉嫌专利侵权遭起诉",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1546834.htm"
+            },
             {
                 "title": "苹果 2025 年在印度出货约 1400 万部 iPhone，市场份额升至 9% 逆势创新高",
                 "source": "NewsAPI / Ithome.com",
@@ -118,36 +142,6 @@
                 "url": "https://www.ithome.com/0/916/031.htm"
             },
             {
-                "title": "前字节团队创业，做无屏儿童口语陪练AI硬件｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-24",
-                "url": "https://36kr.com/p/3581375032605829"
-            },
-            {
-                "title": "奔驰董事会：纯电 GLC 供不应求，不来梅工厂已启动三班制生产",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-24",
-                "url": "https://www.ithome.com/0/915/995.htm"
-            },
-            {
-                "title": "Apple 2026 新春限时优惠开启：最多立省 1000 元、最高 24 期免息分期，iPhone、iPad、Mac、手表、耳机全都有",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-24",
-                "url": "https://www.ithome.com/0/915/971.htm"
-            },
-            {
-                "title": "9点1氪丨高铁车厢二氧化碳浓度超标，12306客服回应；中国太空旅游预售票300万一张；五家韩国航司26日起禁止机舱内使用充电宝",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-24",
-                "url": "https://36kr.com/p/3652729313108355"
-            },
-            {
-                "title": "2026年1月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93TC1RMHJSUTJFeS16YW5Pc1c1UmQ4VTk3ZXhXcm1aREpYQ19qWXRQLWNiUUFXMTQ3UlVTRTM1UV9DZnVYNE55SE11MTZBSnBkdDBmSEt1NlpnN2g2dHpCOVFicnpheUZQd3NwLWRtLUZkS0hKVGc?oc=5"
-            },
-            {
                 "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-24",
@@ -160,6 +154,18 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81Zm1KM2o0elROX3lzSHNRNFFmenpodjVXamRYVkZYUi1yY3hPcG1OOXpNNzB1eGl1R0RSTHNxai0zdWpabURZSVA2UnRkX0hXVU15UjQ5c3Y?oc=5"
             },
             {
+                "title": "国防部新闻发言人蒋斌就近期涉军问题发布消息 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-24",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92RlZVNHZvalNyZm1hdjVNVjJNMS1nSi1tbHRVSWZmSDZHVkt2cktweHFXczF0MXpMbjNhME1zVGdweWVsUjZYbGJSel9JRS1pVlZvOE4tQmQ?oc=5"
+            },
+            {
+                "title": "环球军情- 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-25",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmRFbkF2QVB5VnhjSjc3bDN4YloweV93dlBDU0pya21qZWpYZERJS3ZPS2gwYW5OSWtpSDRQX3U2THE1UlJVRVd6S0V6OEd5aTRBQnhVQmJxdEJHSHFIZnZZNmdEcVctcmkzc095VGRUTmxxeVZ6ZXptZnZ4bF81M2V2U1VvMWR2aDBQaW9RMXQ5a0hBa0VuR1k5c09PWlZtdi1kelBFeHl0OExjS3Rhdmpn?oc=5"
+            },
+            {
                 "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-23",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-24",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kdlBqTU5LZmNIbzkyTGFSR2plWUQ2QkdValkweXQxMFhPMFFrSjM4eWc3NjlaR1EzZnkzY01PVmF6aDBSSkZjay1jdw?oc=5"
-            },
-            {
-                "title": "空军航空兵某旅多课目飞行训练影像 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-24",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9keE1KVmRXOEptNEpYc1F5ZFdDRnpudlRWeUxmeVJrTTNVTUpDVnkzUXFKWEhPZzNTdThjZVlWSVBpMzB4QWlVZ21OSWU?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-25T06:28:24.869263+00:00"
+    "last_updated": "2026-01-25T12:37:33.262535+00:00"
 }
