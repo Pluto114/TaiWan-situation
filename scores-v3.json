@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "测试发现主流 AI 聊天机器人难辨伪造视频，ChatGPT 对自家 Sora 内容识别准确率不足 8%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/305.htm"
+            },
+            {
+                "title": "再补真要下手了：苹果 M4 MacBook Air 仅需 4258~4777 元，低过去年双 11",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/294.htm"
+            },
+            {
                 "title": "特朗普警告加拿大:和中国签协议将遭高额关税",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-01-25",
@@ -28,21 +40,27 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-25",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1546984.htm"
-            },
-            {
-                "title": "同方股份原董事长去世：享年78岁 曾组建清华同方并上市",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546970.htm"
-            },
-            {
-                "title": "大众裁员大刀砍向董事会 一次撸掉10位",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546950.htm"
             }
         ],
         "mil": [
+            {
+                "title": "川普爆料：美军出动神秘武器 零伤亡活捉马杜罗(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-25",
+                "url": "https://www.secretchina.com/news/gb/2026/01/25/1094033.html"
+            },
+            {
+                "title": "欧洲道路上中国汽车越来越多?波兰警告泄密风险",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-25",
+                "url": "https://www.dw.com/zh/%E6%AC%A7%E6%B4%B2%E9%81%93%E8%B7%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%B3%A2%E5%85%B0%E8%AD%A6%E5%91%8A%E6%B3%84%E5%AF%86%E9%A3%8E%E9%99%A9/a-75651134"
+            },
+            {
+                "title": "测试发现主流 AI 聊天机器人难辨伪造视频，ChatGPT 对自家 Sora 内容识别准确率不足 8%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/305.htm"
+            },
             {
                 "title": "从匈牙利到伊朗的美国抉择(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,30 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/01/25/1094005.html"
             },
             {
-                "title": "报告称海上安全正被失控的告警系统侵蚀",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546928.htm"
-            },
-            {
-                "title": "苹果再登《财富》“全球最受赞赏公司”榜首 连续19年蝉联第一",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546912.htm"
-            },
-            {
-                "title": "死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-24",
-                "url": "https://36kr.com/p/3653424523682183"
-            },
-            {
-                "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-24",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OMk1QeHhfcnVwTDdEMDFBc3JQekJ0SjBQOVJ2TkpEa2hXcWdpZHgwRG9kYjJwQ2ZLTEQzX2tQbDcyYWlZb3RTVWtLX21ZeHQ2QjVoT2dJeEk?oc=5"
-            },
-            {
                 "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-25",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "火箭军 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUnQzRzZfdnNWSHJoTWtZYXlLODJsdGsxUlhpTHYyYW1tVDBHTnF4bWlLRzQyRzltc292VlVRV1dJRnBMSzNlMnpFMTQ2a2lJTnhCeTNjY0EwQQ?oc=5"
             },
             {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "欧洲道路上中国汽车越来越多?波兰警告泄密风险",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-25",
+                "url": "https://www.dw.com/zh/%E6%AC%A7%E6%B4%B2%E9%81%93%E8%B7%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%B3%A2%E5%85%B0%E8%AD%A6%E5%91%8A%E6%B3%84%E5%AF%86%E9%A3%8E%E9%99%A9/a-75651134"
+            },
+            {
+                "title": "测试发现主流 AI 聊天机器人难辨伪造视频，ChatGPT 对自家 Sora 内容识别准确率不足 8%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/305.htm"
+            },
+            {
                 "title": "特朗普警告加拿大:和中国签协议将遭高额关税",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-01-25",
@@ -130,24 +142,6 @@
                 "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%A4%A9%E6%AF%8D%E8%88%B0%E9%B8%BE%E9%B8%9F%E8%B6%85%E7%BA%A7%E6%AD%A6%E5%99%A8%E8%BF%98%E6%98%AF%E5%AE%A3%E4%BC%A0%E6%94%BB%E5%8A%BF/a-75608145"
             },
             {
-                "title": "教宗良十四世警告：生成式AI正侵蚀人类身份与社会关系(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-25",
-                "url": "https://www.secretchina.com/news/gb/2026/01/25/1094020.html"
-            },
-            {
-                "title": "“.ai”域名去年为安圭拉政府贡献逾7000万美元收入",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546984.htm"
-            },
-            {
-                "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-24",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OMk1QeHhfcnVwTDdEMDFBc3JQekJ0SjBQOVJ2TkpEa2hXcWdpZHgwRG9kYjJwQ2ZLTEQzX2tQbDcyYWlZb3RTVWtLX21ZeHQ2QjVoT2dJeEk?oc=5"
-            },
-            {
                 "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-25",
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "火箭军 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUnQzRzZfdnNWSHJoTWtZYXlLODJsdGsxUlhpTHYyYW1tVDBHTnF4bWlLRzQyRzltc292VlVRV1dJRnBMSzNlMnpFMTQ2a2lJTnhCeTNjY0EwQQ?oc=5"
             },
             {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-26T12:42:00.117658+00:00"
+    "last_updated": "2026-01-26T18:31:43.263867+00:00"
 }
