@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "荣耀林林谈 iPhone Air 降价：并不会改变销量基本面，因为它是个逆着绝大多数用户需求来的产品",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/158.htm"
+            },
+            {
+                "title": "科技昨夜今晨 0125：专家回应网传“高铁二氧化碳超标；曝 iPhone 17e 维持原价；英伟达 CEO 黄仁勋 2026 年首度来华现身菜市场...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/148.htm"
+            },
+            {
                 "title": "即将到来的苹果iPhone 17e并不打算涨价",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-24",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-24",
                 "url": "https://www.secretchina.com/news/gb/2026/01/24/1093998.html"
-            },
-            {
-                "title": "五角大楼发布国防战略 寻求与中国相互尊重关系",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-24",
-                "url": "https://www.dw.com/zh/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%8F%91%E5%B8%83%E5%9B%BD%E9%98%B2%E6%88%98%E7%95%A5-%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9B%B8%E4%BA%92%E5%B0%8A%E9%87%8D%E5%85%B3%E7%B3%BB/a-75640361"
-            },
-            {
-                "title": "死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-24",
-                "url": "https://36kr.com/p/3653424523682183"
             }
         ],
         "mil": [
+            {
+                "title": "从匈牙利到伊朗的美国抉择(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-24",
+                "url": "https://www.secretchina.com/news/gb/2026/01/25/1094006.html"
+            },
+            {
+                "title": "分析：习近平“斩首”张又侠爆恐慌 中国处历史巨变拐点(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-24",
+                "url": "https://www.secretchina.com/news/gb/2026/01/25/1094005.html"
+            },
             {
                 "title": "报告称海上安全正被失控的告警系统侵蚀",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3653424523682183"
             },
             {
-                "title": "俄、中如何扩大在北极的影响力",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-24",
-                "url": "https://www.dw.com/zh/%E4%BF%84%E4%B8%AD%E5%A6%82%E4%BD%95%E6%89%A9%E5%A4%A7%E5%9C%A8%E5%8C%97%E6%9E%81%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B/a-75622894"
-            },
-            {
-                "title": "9点1氪丨高铁车厢二氧化碳浓度超标，12306客服回应；中国太空旅游预售票300万一张；五家韩国航司26日起禁止机舱内使用充电宝",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-24",
-                "url": "https://36kr.com/p/3652729313108355"
-            },
-            {
                 "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-24",
@@ -98,19 +98,37 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmRFbkF2QVB5VnhjSjc3bDN4YloweV93dlBDU0pya21qZWpYZERJS3ZPS2gwYW5OSWtpSDRQX3U2THE1UlJVRVd6S0V6OEd5aTRBQnhVQmJxdEJHSHFIZnZZNmdEcVctcmkzc095VGRUTmxxeVZ6ZXptZnZ4bF81M2V2U1VvMWR2aDBQaW9RMXQ5a0hBa0VuR1k5c09PWlZtdi1kelBFeHl0OExjS3Rhdmpn?oc=5"
             },
             {
-                "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTFJZTW0yWmdLd0txMjV2SHZxRk4wSVlUelVETm0xa3dwbW9IM09GWGE2QVpmNzkxYUNfZ1hmTXNjcGF3dzJVUXhnQlYtUlFDVmc?oc=5"
-            },
-            {
                 "title": "踔厉奋发向前进笃行实干绘蓝图——习近平总书记在省部级主要领导干部专题研讨班开班式上的重要讲话激励广大干部群众奋进“十五五”开局之年 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-24",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kdlBqTU5LZmNIbzkyTGFSR2plWUQ2QkdValkweXQxMFhPMFFrSjM4eWc3NjlaR1EzZnkzY01PVmF6aDBSSkZjay1jdw?oc=5"
+            },
+            {
+                "title": "“移动军事体验站”有群老兵志愿者- 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-25",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVlMOHh0NGYzdmtMSHBnQ1FrZ0xCM0pTbjJVT3FXdlcwVzJrYWYwdGlwMmpEbEFCQkpiYzJLZXFxV0JhVWRDcXBETHhCM0d6NGNfdUQzRE1pdUxBR3E4czhhbGZQMWlZQ2M5dmpEcnpUanJIUFpPUEdxLXUtMU1PcmJXT05fb0MxRU55YXoteHZxSUdGaEFqYW5NVzhUWnFfREUybjBucnY4dkpabV9MbmVR?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "科技昨夜今晨 0125：专家回应网传“高铁二氧化碳超标；曝 iPhone 17e 维持原价；英伟达 CEO 黄仁勋 2026 年首度来华现身菜市场...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/148.htm"
+            },
+            {
+                "title": "从匈牙利到伊朗的美国抉择(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-24",
+                "url": "https://www.secretchina.com/news/gb/2026/01/25/1094006.html"
+            },
+            {
+                "title": "入住监狱会是怎样的体验？虹夕诺雅将奈良监狱打造成了酒店，今年 6 月开业",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-01-24",
+                "url": "https://www.toodaylab.com/83892"
+            },
             {
                 "title": "报告称海上安全正被失控的告警系统侵蚀",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -124,24 +142,6 @@
                 "url": "https://36kr.com/p/3653424523682183"
             },
             {
-                "title": "OSM中的道路等级-小型/等级外道路",
-                "source": "NewsAPI / Openstreetmap.org",
-                "date": "2026-01-24",
-                "url": "https://www.openstreetmap.org/user/BG4WDV/diary/408144"
-            },
-            {
-                "title": "俞敏洪：随着人工智能的升级 中国中小学教师一大半是不合格的",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546856.htm"
-            },
-            {
-                "title": "特斯拉Robotaxi启动全无人运营 但被网友吐槽是“障眼法”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546846.htm"
-            },
-            {
                 "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-24",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmRFbkF2QVB5VnhjSjc3bDN4YloweV93dlBDU0pya21qZWpYZERJS3ZPS2gwYW5OSWtpSDRQX3U2THE1UlJVRVd6S0V6OEd5aTRBQnhVQmJxdEJHSHFIZnZZNmdEcVctcmkzc095VGRUTmxxeVZ6ZXptZnZ4bF81M2V2U1VvMWR2aDBQaW9RMXQ5a0hBa0VuR1k5c09PWlZtdi1kelBFeHl0OExjS3Rhdmpn?oc=5"
             },
             {
-                "title": "强军论坛丨当好党性原则的“护卫者” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTFJZTW0yWmdLd0txMjV2SHZxRk4wSVlUelVETm0xa3dwbW9IM09GWGE2QVpmNzkxYUNfZ1hmTXNjcGF3dzJVUXhnQlYtUlFDVmc?oc=5"
-            },
-            {
                 "title": "踔厉奋发向前进笃行实干绘蓝图——习近平总书记在省部级主要领导干部专题研讨班开班式上的重要讲话激励广大干部群众奋进“十五五”开局之年 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-24",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kdlBqTU5LZmNIbzkyTGFSR2plWUQ2QkdValkweXQxMFhPMFFrSjM4eWc3NjlaR1EzZnkzY01PVmF6aDBSSkZjay1jdw?oc=5"
+            },
+            {
+                "title": "“移动军事体验站”有群老兵志愿者- 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-25",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVlMOHh0NGYzdmtMSHBnQ1FrZ0xCM0pTbjJVT3FXdlcwVzJrYWYwdGlwMmpEbEFCQkpiYzJLZXFxV0JhVWRDcXBETHhCM0d6NGNfdUQzRE1pdUxBR3E4czhhbGZQMWlZQ2M5dmpEcnpUanJIUFpPUEdxLXUtMU1PcmJXT05fb0MxRU55YXoteHZxSUdGaEFqYW5NVzhUWnFfREUybjBucnY4dkpabV9MbmVR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-25T18:26:24.886930+00:00"
+    "last_updated": "2026-01-26T01:44:10.629029+00:00"
 }
