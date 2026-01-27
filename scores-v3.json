@@ -12,72 +12,78 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星接近获得英伟达关键HBM4 AI存储芯片认证",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "国产厂商禾赛位列全球激光雷达行业专利第一，累计交付突破 200 万大关",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547074.htm"
+                "url": "https://www.ithome.com/0/916/604.htm"
             },
             {
-                "title": "英国剑桥DAWN超级计算机将用AMD加速卡实现扩容 算力提升六倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "暴降 2000+ 后真香？京东 iPhone Air 已卖断货，发货时间延至 2 月",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547066.htm"
+                "url": "https://www.ithome.com/0/916/596.htm"
             },
             {
-                "title": "一特斯拉Model S车主遭遇电池故障 更换要比买同款二手车还贵",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "国星宇航披露“星算”计划进展：全球首次在轨部署通用大模型",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547056.htm"
+                "url": "https://www.ithome.com/0/916/576.htm"
             },
             {
-                "title": "轻舟智航CEO于骞：智驾市场会留存4-5家企业｜36氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-26",
-                "url": "https://36kr.com/p/3652006209020288"
-            },
-            {
-                "title": "贾跃亭：FF机器人即将销售交付 当前股价被严重低估",
+                "title": "印度拟下调欧盟进口汽车关税 从110%砍到40%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547048.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547146.htm"
+            },
+            {
+                "title": "天数智芯发布四代芯片路线图：2027 年超越英伟达 Rubin",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/569.htm"
             }
         ],
         "mil": [
             {
+                "title": "自主战斗无人机MQ-20“复仇者”在演习中首获空战击杀战绩",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547128.htm"
+            },
+            {
+                "title": "伊朗打造“军营互联网”：让8500万民众被锁在国境防火墙之后",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547092.htm"
+            },
+            {
+                "title": "国地中心发布全球首个跨本体视触觉多模态数据集“白虎-VTouch”，涵盖多种机器人",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/508.htm"
+            },
+            {
+                "title": "扎克伯格豪赌AI、抽身元宇宙，VR将迎来寒冬？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547082.htm"
+            },
+            {
                 "title": "金价首次突破5000美元大关 全球激荡推动贵金属涨势",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-26",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1547076.htm"
             },
             {
-                "title": "轻舟智航CEO于骞：智驾市场会留存4-5家企业｜36氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-26",
-                "url": "https://36kr.com/p/3652006209020288"
-            },
-            {
-                "title": "无人机新规落地，行业担心的“海禁”要来了？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-26",
-                "url": "https://36kr.com/p/3655808383541376"
-            },
-            {
-                "title": "从品类冠军到全生态：追觅凭什么能春晚“大满贯”？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-26",
-                "url": "https://36kr.com/p/3655649486053762"
-            },
-            {
-                "title": "8点1氪丨永辉学习胖东来后仍每天亏600万，亏损幅度进一步扩大；苹果客服回应iPhone Air降价2000元；贾国龙称将回归一线，不再打造个人IP",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-26",
-                "url": "https://36kr.com/p/3655490995576964"
-            },
-            {
-                "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
+                "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-25",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuT3JhVlNRVTNnc241YVlnSWlFNEFFVG9iU3MxWGdrbElEUDh4ODJ2czVsckE4YXlNT0laVlFwbFhobUhTdmtvaDlhLTNub3dPd001ZDhfQUQ?oc=5"
+                "date": "2026-01-26",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRHhRWFVEVnVZRVBUMEFRMkpqN01Ocjk4VWZieEIzVGRCb0dLMHFYT19HbWphMFpuWkU2MmVOYXo2YUQ3R2NQMURCa3hYR0E0UHRZMk4yM1hid3JNVWJfZXhmbWs1dFJ5VTlv?oc=5"
+            },
+            {
+                "title": "乌拉圭总统奥尔西将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOam9kV1lOVWc1ejJ2NE80Zy05SXJZVjdDRHN3MVJWSjhlRk5iZU9QUl9ZVGstd0hQZG9Wend2bUcxMjdiaUt1aWlncTU3VUNXckIyR2VlY2dEOWNQdVQwcmZkZlRZY3NYRmY4c3E1QURXR19Zb0FRVW9zd0ZUak1Jd3JnVXA?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -86,66 +92,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "火箭军 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUnQzRzZfdnNWSHJoTWtZYXlLODJsdGsxUlhpTHYyYW1tVDBHTnF4bWlLRzQyRzltc292VlVRV1dJRnBMSzNlMnpFMTQ2a2lJTnhCeTNjY0EwQQ?oc=5"
-            },
-            {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSHl2cUxIenh3QmZOdkNXMjNkY0d3Q2QxT2hJOXkwTkZjYlN5bE0tck1oTk9DbmhzZnpTS1JWUmxBZFl4WXkwR0NUQVFnWFpZYWc?oc=5"
             },
             {
-                "title": "感悟理论学习的三种境界 - 中国军网",
+                "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-26",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0JHdWhBNnFDZG9HX292d0tZN3dNYmw5c3VMZ1E5SHZMckVHUTVzcUstc2twUzdTMzF1TEZJcDVrMnNWUjcwY29ka1VEMVZxaGFiaWxqSXNrTkRXWU96cWVERlRyaXM1d0s0SVZhSXRjbDJiLXF1amFwNi1ncVlNM25jMEpwazZpcVJaMEZsMDVJczJzQS1MOUJqOEZrcGh2TzlERXdZVUNZVjh3WnVCTWpB?oc=5"
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTk9mVHFSSlVzaU9LY2dyUFgtU2hDWWhURDgyUV9YbFp5Snc2Zm9XcjhtMlE0YTJvWjZvNnFpUEJxcTd3UV9qX3FiblBwa3k4a24tdkpGZ3lsOGw3enEteDVlUVFJZUZTcl9MSzVRZ1lVNEhNaXUwcUZycnR5ZkZUNlRZcXBKMXlhRU1meGtRX1o3YkpmZmx1bG04dURsYVVhcnkyNlI4SnRYbkhWYS11M0VR?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "看我雪中“变脸” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEekFrN2NRRGNDNkZJMDc0dG9rOXFWb2NhSXJyU0psTU9jNHR6cno2b3hmVTd2NXRwdzBKZ1hoSW9HLUREMk91UFRNeTM0N21BUjI5bngwYjBJUlN3MEFWWlJSS0Y?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "金价首次突破5000美元大关 全球激荡推动贵金属涨势",
+                "title": "欧盟就马斯克旗下xAI Grok生成并扩散针对妇女和儿童的性化图像立案调查",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547076.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547148.htm"
             },
             {
-                "title": "轻舟智航CEO于骞：智驾市场会留存4-5家企业｜36氪专访",
+                "title": "天数智芯发布四代芯片路线图：2027 年超越英伟达 Rubin",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/569.htm"
+            },
+            {
+                "title": "氪星晚报｜爱立信预计2026年继续裁员5000人；马化腾：腾讯唯一花钱投入比较多的就是AI；肯德基外卖涨价，平均上调0.8元",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-26",
-                "url": "https://36kr.com/p/3652006209020288"
+                "url": "https://36kr.com/p/3656083905273986"
             },
             {
-                "title": "买票贵、打车贵 苹果用户的“天”到底要塌几次？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "三星 Galaxy Buds 4/4 Pro 现身三星会员 App，采用扁平化耳机柄设计",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547050.htm"
+                "url": "https://www.ithome.com/0/916/547.htm"
             },
             {
-                "title": "香港安全带新规生效 不系最高可罚5000港元及监禁3个月",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547046.htm"
-            },
-            {
-                "title": "无人机新规落地，行业担心的“海禁”要来了？",
+                "title": "B股，最后的金矿？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-26",
-                "url": "https://36kr.com/p/3655808383541376"
+                "url": "https://36kr.com/p/3656051954966918"
             },
             {
-                "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
+                "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-25",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuT3JhVlNRVTNnc241YVlnSWlFNEFFVG9iU3MxWGdrbElEUDh4ODJ2czVsckE4YXlNT0laVlFwbFhobUhTdmtvaDlhLTNub3dPd001ZDhfQUQ?oc=5"
+                "date": "2026-01-26",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRHhRWFVEVnVZRVBUMEFRMkpqN01Ocjk4VWZieEIzVGRCb0dLMHFYT19HbWphMFpuWkU2MmVOYXo2YUQ3R2NQMURCa3hYR0E0UHRZMk4yM1hid3JNVWJfZXhmbWs1dFJ5VTlv?oc=5"
+            },
+            {
+                "title": "乌拉圭总统奥尔西将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOam9kV1lOVWc1ejJ2NE80Zy05SXJZVjdDRHN3MVJWSjhlRk5iZU9QUl9ZVGstd0hQZG9Wend2bUcxMjdiaUt1aWlncTU3VUNXckIyR2VlY2dEOWNQdVQwcmZkZlRZY3NYRmY4c3E1QURXR19Zb0FRVW9zd0ZUak1Jd3JnVXA?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
-                "title": "火箭军 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUnQzRzZfdnNWSHJoTWtZYXlLODJsdGsxUlhpTHYyYW1tVDBHTnF4bWlLRzQyRzltc292VlVRV1dJRnBMSzNlMnpFMTQ2a2lJTnhCeTNjY0EwQQ?oc=5"
-            },
-            {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSHl2cUxIenh3QmZOdkNXMjNkY0d3Q2QxT2hJOXkwTkZjYlN5bE0tck1oTk9DbmhzZnpTS1JWUmxBZFl4WXkwR0NUQVFnWFpZYWc?oc=5"
             },
             {
-                "title": "感悟理论学习的三种境界 - 中国军网",
+                "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-26",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0JHdWhBNnFDZG9HX292d0tZN3dNYmw5c3VMZ1E5SHZMckVHUTVzcUstc2twUzdTMzF1TEZJcDVrMnNWUjcwY29ka1VEMVZxaGFiaWxqSXNrTkRXWU96cWVERlRyaXM1d0s0SVZhSXRjbDJiLXF1amFwNi1ncVlNM25jMEpwazZpcVJaMEZsMDVJczJzQS1MOUJqOEZrcGh2TzlERXdZVUNZVjh3WnVCTWpB?oc=5"
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTk9mVHFSSlVzaU9LY2dyUFgtU2hDWWhURDgyUV9YbFp5Snc2Zm9XcjhtMlE0YTJvWjZvNnFpUEJxcTd3UV9qX3FiblBwa3k4a24tdkpGZ3lsOGw3enEteDVlUVFJZUZTcl9MSzVRZ1lVNEhNaXUwcUZycnR5ZkZUNlRZcXBKMXlhRU1meGtRX1o3YkpmZmx1bG04dURsYVVhcnkyNlI4SnRYbkhWYS11M0VR?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "看我雪中“变脸” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEekFrN2NRRGNDNkZJMDc0dG9rOXFWb2NhSXJyU0psTU9jNHR6cno2b3hmVTd2NXRwdzBKZ1hoSW9HLUREMk91UFRNeTM0N21BUjI5bngwYjBJUlN3MEFWWlJSS0Y?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-27T06:31:35.899313+00:00"
+    "last_updated": "2026-01-27T12:42:58.528858+00:00"
 }
