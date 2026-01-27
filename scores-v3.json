@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "测试发现主流 AI 聊天机器人难辨伪造视频，ChatGPT 对自家 Sora 内容识别准确率不足 8%",
+                "title": "澜起科技国内率先发布 PCIe 6.x / CXL 3.x 有源电缆（AEC）解决方案",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/334.htm"
+            },
+            {
+                "title": "“端到端加密”名不副实，Meta 被指可直接查看 WhatsApp 聊天记录",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/327.htm"
+            },
+            {
+                "title": "科技昨夜今晨 0126：华为鸿蒙 HarmonyOS 5 / 6 终端设备数突破 4000 万；新一代小米 SU7 争取春节前部分样车进店；内存之后闪存也大涨...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/325.htm"
+            },
+            {
+                "title": "8点1氪丨永辉学习胖东来后仍每天亏600万，亏损幅度进一步扩大；苹果客服回应iPhone Air降价2000元；贾国龙称将回归一线，不再打造个人IP",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-26",
+                "url": "https://36kr.com/p/3655490995576964"
+            },
+            {
+                "title": "特斯拉 Model S 老车主自曝遭“电池刺客”：换电池费用需 1.3 万美元，超过二手车价",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-25",
-                "url": "https://www.ithome.com/0/916/305.htm"
-            },
-            {
-                "title": "再补真要下手了：苹果 M4 MacBook Air 仅需 4258~4777 元，低过去年双 11",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-25",
-                "url": "https://www.ithome.com/0/916/294.htm"
-            },
-            {
-                "title": "特朗普警告加拿大:和中国签协议将遭高额关税",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-25",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%AD%BE%E5%8D%8F%E8%AE%AE%E5%B0%86%E9%81%AD%E9%AB%98%E9%A2%9D%E5%85%B3%E7%A8%8E/a-75649899"
-            },
-            {
-                "title": "我们开箱了一加 Turbo 6，感受了一下不降频不减亮度的高帧游戏体验",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-01-25",
-                "url": "https://www.toodaylab.com/83893"
-            },
-            {
-                "title": "“.ai”域名去年为安圭拉政府贡献逾7000万美元收入",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1546984.htm"
+                "url": "https://www.ithome.com/0/916/320.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨永辉学习胖东来后仍每天亏600万，亏损幅度进一步扩大；苹果客服回应iPhone Air降价2000元；贾国龙称将回归一线，不再打造个人IP",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-26",
+                "url": "https://36kr.com/p/3655490995576964"
+            },
+            {
+                "title": "川普爆料：美军出动神秘武器 零伤亡活捉马杜罗(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-25",
+                "url": "https://www.secretchina.com/news/gb/2026/01/26/1094033.html"
+            },
+            {
+                "title": "张又侠落马 习近平在防“内鬼”？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-25",
+                "url": "https://www.secretchina.com/news/gb/2026/01/26/1094053.html"
+            },
             {
                 "title": "川普爆料：美军出动神秘武器 零伤亡活捉马杜罗(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.dw.com/zh/%E6%AC%A7%E6%B4%B2%E9%81%93%E8%B7%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%B3%A2%E5%85%B0%E8%AD%A6%E5%91%8A%E6%B3%84%E5%AF%86%E9%A3%8E%E9%99%A9/a-75651134"
             },
             {
-                "title": "测试发现主流 AI 聊天机器人难辨伪造视频，ChatGPT 对自家 Sora 内容识别准确率不足 8%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-25",
-                "url": "https://www.ithome.com/0/916/305.htm"
-            },
-            {
-                "title": "从匈牙利到伊朗的美国抉择(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-24",
-                "url": "https://www.secretchina.com/news/gb/2026/01/25/1094006.html"
-            },
-            {
-                "title": "分析：习近平“斩首”张又侠爆恐慌 中国处历史巨变拐点(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-24",
-                "url": "https://www.secretchina.com/news/gb/2026/01/25/1094005.html"
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2006-03-15",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE0zQzU0V3VZX043ZGF1YXdwZEQtZV9VdjR0WElLdm9keXNaTHRHekVBT25ya01NZThDaHc?oc=5"
             },
             {
                 "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "火箭军 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUnQzRzZfdnNWSHJoTWtZYXlLODJsdGsxUlhpTHYyYW1tVDBHTnF4bWlLRzQyRzltc292VlVRV1dJRnBMSzNlMnpFMTQ2a2lJTnhCeTNjY0EwQQ?oc=5"
             },
             {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "从伊朗到格陵兰 世界已进入预言转折点(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-26",
+                "url": "https://www.secretchina.com/news/gb/2026/01/26/1094055.html"
+            },
+            {
+                "title": "8点1氪丨永辉学习胖东来后仍每天亏600万，亏损幅度进一步扩大；苹果客服回应iPhone Air降价2000元；贾国龙称将回归一线，不再打造个人IP",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-26",
+                "url": "https://36kr.com/p/3655490995576964"
+            },
+            {
+                "title": "特斯拉 Model S 老车主自曝遭“电池刺客”：换电池费用需 1.3 万美元，超过二手车价",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-25",
+                "url": "https://www.ithome.com/0/916/320.htm"
+            },
+            {
                 "title": "欧洲道路上中国汽车越来越多?波兰警告泄密风险",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-01-25",
@@ -124,22 +142,10 @@
                 "url": "https://www.ithome.com/0/916/305.htm"
             },
             {
-                "title": "特朗普警告加拿大:和中国签协议将遭高额关税",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-25",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%AD%BE%E5%8D%8F%E8%AE%AE%E5%B0%86%E9%81%AD%E9%AB%98%E9%A2%9D%E5%85%B3%E7%A8%8E/a-75649899"
-            },
-            {
-                "title": "法国总统马克龙承诺加速立法禁止 15 岁以下未成年人使用社交媒体，目标今年 9 月生效",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-25",
-                "url": "https://www.ithome.com/0/916/288.htm"
-            },
-            {
-                "title": "中国空天母舰“鸾鸟”：超级武器还是宣传攻势？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-25",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%A4%A9%E6%AF%8D%E8%88%B0%E9%B8%BE%E9%B8%9F%E8%B6%85%E7%BA%A7%E6%AD%A6%E5%99%A8%E8%BF%98%E6%98%AF%E5%AE%A3%E4%BC%A0%E6%94%BB%E5%8A%BF/a-75608145"
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2006-03-15",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE0zQzU0V3VZX043ZGF1YXdwZEQtZV9VdjR0WElLdm9keXNaTHRHekVBT25ya01NZThDaHc?oc=5"
             },
             {
                 "title": "中央军委印发《军队党组织选举工作规定》 - 中华人民共和国国防部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "火箭军 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUnQzRzZfdnNWSHJoTWtZYXlLODJsdGsxUlhpTHYyYW1tVDBHTnF4bWlLRzQyRzltc292VlVRV1dJRnBMSzNlMnpFMTQ2a2lJTnhCeTNjY0EwQQ?oc=5"
             },
             {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-26T18:31:43.263867+00:00"
+    "last_updated": "2026-01-27T01:42:08.304736+00:00"
 }
