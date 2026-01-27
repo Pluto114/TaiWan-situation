@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "国产厂商禾赛位列全球激光雷达行业专利第一，累计交付突破 200 万大关",
+                "title": "阿里发布千问旗舰推理模型 Qwen3-Max-Thinking：总参数超万亿，号称性能媲美 GPT-5.2",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/604.htm"
+                "url": "https://www.ithome.com/0/916/638.htm"
             },
             {
-                "title": "暴降 2000+ 后真香？京东 iPhone Air 已卖断货，发货时间延至 2 月",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/596.htm"
-            },
-            {
-                "title": "国星宇航披露“星算”计划进展：全球首次在轨部署通用大模型",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/576.htm"
-            },
-            {
-                "title": "印度拟下调欧盟进口汽车关税 从110%砍到40%",
+                "title": "英伟达向CoreWeave投资20亿美元 推动数据中心建设",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547146.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547170.htm"
             },
             {
-                "title": "天数智芯发布四代芯片路线图：2027 年超越英伟达 Rubin",
-                "source": "NewsAPI / Ithome.com",
+                "title": "民调显示：多数选民认为中产阶级生活正渐行渐远",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/569.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547164.htm"
+            },
+            {
+                "title": "OpenAI试水广告业务 定价对标高端资源",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547160.htm"
+            },
+            {
+                "title": "中等强国论激怒川普 加拿大在中美之间踩上危险红线(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-26",
+                "url": "https://www.secretchina.com/news/gb/2026/01/26/1094090.html"
             }
         ],
         "mil": [
+            {
+                "title": "德语媒体：“中国精英政治的转折时刻”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-26",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E7%B2%BE%E8%8B%B1%E6%94%BF%E6%B2%BB%E7%9A%84%E8%BD%AC%E6%8A%98%E6%97%B6%E5%88%BB/a-75665903"
+            },
+            {
+                "title": "英伟达向云计算服务提供商 CoreWeave 追加 20 亿美元投资，黄仁勋否认“循环交易”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/618.htm"
+            },
+            {
+                "title": "我国计算机和人工智能领域重要奠基人之一李未院士逝世，享年 82 岁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/607.htm"
+            },
             {
                 "title": "自主战斗无人机MQ-20“复仇者”在演习中首获空战击杀战绩",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,22 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1547092.htm"
             },
             {
-                "title": "国地中心发布全球首个跨本体视触觉多模态数据集“白虎-VTouch”，涵盖多种机器人",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/508.htm"
-            },
-            {
-                "title": "扎克伯格豪赌AI、抽身元宇宙，VR将迎来寒冬？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547082.htm"
-            },
-            {
-                "title": "金价首次突破5000美元大关 全球激荡推动贵金属涨势",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547076.htm"
+                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-26",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOam9kV1lOVWc1ejJ2NE80Zy05SXJZVjdDRHN3MVJWSjhlRk5iZU9QUl9ZVGstd0hQZG9Wend2bUcxMjdiaUt1aWlncTU3VUNXckIyR2VlY2dEOWNQdVQwcmZkZlRZY3NYRmY4c3E1QURXR19Zb0FRVW9zd0ZUak1Jd3JnVXA?oc=5"
-            },
-            {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "欧盟就马斯克旗下xAI Grok生成并扩散针对妇女和儿童的性化图像立案调查",
+                "title": "阿里发布千问旗舰推理模型 Qwen3-Max-Thinking：总参数超万亿，号称性能媲美 GPT-5.2",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-26",
+                "url": "https://www.ithome.com/0/916/638.htm"
+            },
+            {
+                "title": "民调显示：多数选民认为中产阶级生活正渐行渐远",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547148.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547164.htm"
             },
             {
-                "title": "天数智芯发布四代芯片路线图：2027 年超越英伟达 Rubin",
+                "title": "德语媒体：“中国精英政治的转折时刻”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-26",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E7%B2%BE%E8%8B%B1%E6%94%BF%E6%B2%BB%E7%9A%84%E8%BD%AC%E6%8A%98%E6%97%B6%E5%88%BB/a-75665903"
+            },
+            {
+                "title": "张又侠其人？为何落马？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-26",
+                "url": "https://www.dw.com/zh/%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%85%B6%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%90%BD%E9%A9%AC/a-75665911"
+            },
+            {
+                "title": "英伟达向云计算服务提供商 CoreWeave 追加 20 亿美元投资，黄仁勋否认“循环交易”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/569.htm"
+                "url": "https://www.ithome.com/0/916/618.htm"
             },
             {
-                "title": "氪星晚报｜爱立信预计2026年继续裁员5000人；马化腾：腾讯唯一花钱投入比较多的就是AI；肯德基外卖涨价，平均上调0.8元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-26",
-                "url": "https://36kr.com/p/3656083905273986"
-            },
-            {
-                "title": "三星 Galaxy Buds 4/4 Pro 现身三星会员 App，采用扁平化耳机柄设计",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/547.htm"
-            },
-            {
-                "title": "B股，最后的金矿？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-26",
-                "url": "https://36kr.com/p/3656051954966918"
+                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-26",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOam9kV1lOVWc1ejJ2NE80Zy05SXJZVjdDRHN3MVJWSjhlRk5iZU9QUl9ZVGstd0hQZG9Wend2bUcxMjdiaUt1aWlncTU3VUNXckIyR2VlY2dEOWNQdVQwcmZkZlRZY3NYRmY4c3E1QURXR19Zb0FRVW9zd0ZUak1Jd3JnVXA?oc=5"
-            },
-            {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-27T12:42:58.528858+00:00"
+    "last_updated": "2026-01-27T18:35:07.831212+00:00"
 }
