@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "阿里发布千问旗舰推理模型 Qwen3-Max-Thinking：总参数超万亿，号称性能媲美 GPT-5.2",
+                "title": "上海交大教授创业光量子计算，再获数亿融资，公司估值已近70亿｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3656992648650888"
+            },
+            {
+                "title": "發那科凈利潤增長14%，中國拉動",
+                "source": "NewsAPI / Nikkei.com",
+                "date": "2026-01-27",
+                "url": "https://cn.nikkei.com/industry/manufacturing/61226-2026-01-27-08-57-17.html"
+            },
+            {
+                "title": "年收入飙涨10倍，一家医疗公司接住了AGI",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3647401456078465"
+            },
+            {
+                "title": "微软发布新定制 AI 芯片 Maia 200：台积电 3nm 工艺，性能强三成还更省水",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/638.htm"
+                "date": "2026-01-27",
+                "url": "https://www.ithome.com/0/916/680.htm"
             },
             {
-                "title": "英伟达向CoreWeave投资20亿美元 推动数据中心建设",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547170.htm"
-            },
-            {
-                "title": "民调显示：多数选民认为中产阶级生活正渐行渐远",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547164.htm"
-            },
-            {
-                "title": "OpenAI试水广告业务 定价对标高端资源",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547160.htm"
-            },
-            {
-                "title": "中等强国论激怒川普 加拿大在中美之间踩上危险红线(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-26",
-                "url": "https://www.secretchina.com/news/gb/2026/01/26/1094090.html"
+                "title": "科技昨夜今晨 0127：多家快递宣布 2026 春节期间不打烊；苹果 AirTag 2 发布；问界 M6 冬测影像曝光...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-27",
+                "url": "https://www.ithome.com/0/916/676.htm"
             }
         ],
         "mil": [
             {
+                "title": "上海交大教授创业光量子计算，再获数亿融资，公司估值已近70亿｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3656992648650888"
+            },
+            {
+                "title": "8点1氪丨958g坚果礼盒仅33g坚果，百草味客服回应；49条中日航线取消全部航班；肯德基外卖涨价，堂食价格维持不变",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3656915993337986"
+            },
+            {
+                "title": "卢比奥自曝为何躲着川普打盹(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-26",
+                "url": "https://www.secretchina.com/news/gb/2026/01/27/1094098.html"
+            },
+            {
+                "title": "习近平自毁引四大势力反扑 出兵台湾六大阻碍(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-26",
+                "url": "https://www.secretchina.com/news/gb/2026/01/27/1094096.html"
+            },
+            {
                 "title": "德语媒体：“中国精英政治的转折时刻”",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-01-26",
                 "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E7%B2%BE%E8%8B%B1%E6%94%BF%E6%B2%BB%E7%9A%84%E8%BD%AC%E6%8A%98%E6%97%B6%E5%88%BB/a-75665903"
-            },
-            {
-                "title": "英伟达向云计算服务提供商 CoreWeave 追加 20 亿美元投资，黄仁勋否认“循环交易”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/618.htm"
-            },
-            {
-                "title": "我国计算机和人工智能领域重要奠基人之一李未院士逝世，享年 82 岁",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/607.htm"
-            },
-            {
-                "title": "自主战斗无人机MQ-20“复仇者”在演习中首获空战击杀战绩",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547128.htm"
-            },
-            {
-                "title": "伊朗打造“军营互联网”：让8500万民众被锁在国境防火墙之后",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547092.htm"
             },
             {
                 "title": "英国首相斯塔默将访华 - mfa.gov.cn",
@@ -80,22 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
+                "title": "习近平会见芬兰总理奥尔波 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
+            },
+            {
                 "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-26",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRHhRWFVEVnVZRVBUMEFRMkpqN01Ocjk4VWZieEIzVGRCb0dLMHFYT19HbWphMFpuWkU2MmVOYXo2YUQ3R2NQMURCa3hYR0E0UHRZMk4yM1hid3JNVWJfZXhmbWs1dFJ5VTlv?oc=5"
-            },
-            {
-                "title": "乌拉圭总统奥尔西将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOam9kV1lOVWc1ejJ2NE80Zy05SXJZVjdDRHN3MVJWSjhlRk5iZU9QUl9ZVGstd0hQZG9Wend2bUcxMjdiaUt1aWlncTU3VUNXckIyR2VlY2dEOWNQdVQwcmZkZlRZY3NYRmY4c3E1QURXR19Zb0FRVW9zd0ZUak1Jd3JnVXA?oc=5"
-            },
-            {
-                "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSHl2cUxIenh3QmZOdkNXMjNkY0d3Q2QxT2hJOXkwTkZjYlN5bE0tck1oTk9DbmhzZnpTS1JWUmxBZFl4WXkwR0NUQVFnWFpZYWc?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-27",
                 "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEekFrN2NRRGNDNkZJMDc0dG9rOXFWb2NhSXJyU0psTU9jNHR6cno2b3hmVTd2NXRwdzBKZ1hoSW9HLUREMk91UFRNeTM0N21BUjI5bngwYjBJUlN3MEFWWlJSS0Y?oc=5"
+            },
+            {
+                "title": "欢迎中外记者采访十四届全国人大四次会议和全国政协十四届四次会议 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZjZSTUtiMGVuZ24wNDJtWWNmMmRhdmdBRWxLOTRtUXA1LThOdHc5ZEdwMUE5aWs5bGtYRkFBOVhVSWJOSlJzUWlWbHVYdWdrZVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "阿里发布千问旗舰推理模型 Qwen3-Max-Thinking：总参数超万亿，号称性能媲美 GPT-5.2",
+                "title": "上海交大教授创业光量子计算，再获数亿融资，公司估值已近70亿｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3656992648650888"
+            },
+            {
+                "title": "年收入飙涨10倍，一家医疗公司接住了AGI",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3647401456078465"
+            },
+            {
+                "title": "科技昨夜今晨 0127：多家快递宣布 2026 春节期间不打烊；苹果 AirTag 2 发布；问界 M6 冬测影像曝光...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-27",
+                "url": "https://www.ithome.com/0/916/676.htm"
+            },
+            {
+                "title": "8点1氪丨958g坚果礼盒仅33g坚果，百草味客服回应；49条中日航线取消全部航班；肯德基外卖涨价，堂食价格维持不变",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3656915993337986"
+            },
+            {
+                "title": "1.49 亿条 96GB 密码泄露，影响谷歌、苹果、Meta 等公司用户",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/638.htm"
-            },
-            {
-                "title": "民调显示：多数选民认为中产阶级生活正渐行渐远",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547164.htm"
-            },
-            {
-                "title": "德语媒体：“中国精英政治的转折时刻”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-26",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E7%B2%BE%E8%8B%B1%E6%94%BF%E6%B2%BB%E7%9A%84%E8%BD%AC%E6%8A%98%E6%97%B6%E5%88%BB/a-75665903"
-            },
-            {
-                "title": "张又侠其人？为何落马？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-26",
-                "url": "https://www.dw.com/zh/%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%85%B6%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%90%BD%E9%A9%AC/a-75665911"
-            },
-            {
-                "title": "英伟达向云计算服务提供商 CoreWeave 追加 20 亿美元投资，黄仁勋否认“循环交易”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-26",
-                "url": "https://www.ithome.com/0/916/618.htm"
+                "url": "https://www.ithome.com/0/916/661.htm"
             },
             {
                 "title": "英国首相斯塔默将访华 - mfa.gov.cn",
@@ -148,22 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
+                "title": "习近平会见芬兰总理奥尔波 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
+            },
+            {
                 "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-26",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRHhRWFVEVnVZRVBUMEFRMkpqN01Ocjk4VWZieEIzVGRCb0dLMHFYT19HbWphMFpuWkU2MmVOYXo2YUQ3R2NQMURCa3hYR0E0UHRZMk4yM1hid3JNVWJfZXhmbWs1dFJ5VTlv?oc=5"
-            },
-            {
-                "title": "乌拉圭总统奥尔西将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOam9kV1lOVWc1ejJ2NE80Zy05SXJZVjdDRHN3MVJWSjhlRk5iZU9QUl9ZVGstd0hQZG9Wend2bUcxMjdiaUt1aWlncTU3VUNXckIyR2VlY2dEOWNQdVQwcmZkZlRZY3NYRmY4c3E1QURXR19Zb0FRVW9zd0ZUak1Jd3JnVXA?oc=5"
-            },
-            {
-                "title": "思想战线丨以更高标准更实举措推进全面从严治党 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSHl2cUxIenh3QmZOdkNXMjNkY0d3Q2QxT2hJOXkwTkZjYlN5bE0tck1oTk9DbmhzZnpTS1JWUmxBZFl4WXkwR0NUQVFnWFpZYWc?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-01-27",
                 "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEekFrN2NRRGNDNkZJMDc0dG9rOXFWb2NhSXJyU0psTU9jNHR6cno2b3hmVTd2NXRwdzBKZ1hoSW9HLUREMk91UFRNeTM0N21BUjI5bngwYjBJUlN3MEFWWlJSS0Y?oc=5"
+            },
+            {
+                "title": "欢迎中外记者采访十四届全国人大四次会议和全国政协十四届四次会议 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZjZSTUtiMGVuZ24wNDJtWWNmMmRhdmdBRWxLOTRtUXA1LThOdHc5ZEdwMUE5aWs5bGtYRkFBOVhVSWJOSlJzUWlWbHVYdWdrZVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-01-27T18:35:07.831212+00:00"
+    "last_updated": "2026-01-28T01:28:33.769099+00:00"
 }
