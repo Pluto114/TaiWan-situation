@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "消失的联发科 G99 方案：小米 REDMI Note 12 Pro 4G 手机立项配置曝光",
+                "title": "半导体涨价潮开始蔓延 中微半导宣布最高涨50%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547372.htm"
+            },
+            {
+                "title": "因 Steam 收取 30% 佣金，Valve 在英国面临 6.56 亿英镑反垄断诉讼",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-27",
-                "url": "https://www.ithome.com/0/916/813.htm"
+                "url": "https://www.ithome.com/0/916/960.htm"
             },
             {
-                "title": "李彦宏接受《时代》专访：AGI可能不存在 中国模型落后的不太多",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "育碧计划裁员 200 人，员工将罢工抗议",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547232.htm"
+                "url": "https://www.ithome.com/0/916/956.htm"
             },
             {
-                "title": "金融时报：中国是如何实现科技大逆袭的？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "卡尼先在达沃斯“嘴硬” 后跟特朗普“服软”",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547224.htm"
+                "url": "https://www.dw.com/zh/%E5%8D%A1%E5%B0%BC%E5%85%88%E5%9C%A8%E8%BE%BE%E6%B2%83%E6%96%AF%E5%98%B4%E7%A1%AC-%E5%90%8E%E8%B7%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%8D%E8%BD%AF/a-75677136"
             },
             {
-                "title": "特朗普政府宣布对联邦航空管理局进行重大改革 成立安全办公室",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "溢价60%卖出股权，PUMA凭什么？",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547222.htm"
-            },
-            {
-                "title": "大阪的中国大陆游客25年12月减少45%",
-                "source": "NewsAPI / Nikkei.com",
-                "date": "2026-01-27",
-                "url": "https://cn.nikkei.com/industry/tradingretail/61233-2026-01-27-10-59-26.html"
+                "url": "https://36kr.com/p/3657541274575750"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜德国军工巨头要为德军打造本土版“星链”；OpenAI首席信息安全官奈特将卸任职务；金饰克价涨至1585元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/p/3657497474999172"
+            },
+            {
+                "title": "《英雄联盟》韩国赛区 2026 LCK 杯决赛阶段将在中国香港举行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-27",
+                "url": "https://www.ithome.com/0/916/923.htm"
+            },
+            {
+                "title": "苹果在iOS 26.3预览版中测试新机制 限制运营商通过基站获取用户详细位置",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547314.htm"
+            },
             {
                 "title": "蔚来 Banyan 3.3.0 计划明天全量推送，率先应用「世界模型 + 闭环强化学习」范式",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-27",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1547268.htm"
-            },
-            {
-                "title": "李彦宏接受《时代》专访：AGI可能不存在 中国模型落后的不太多",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547232.htm"
-            },
-            {
-                "title": "特朗普政府宣布对联邦航空管理局进行重大改革 成立安全办公室",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547222.htm"
-            },
-            {
-                "title": "上海交大教授创业光量子计算，再获数亿融资，公司估值已近70亿｜36氪独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-27",
-                "url": "https://36kr.com/p/3656992648650888"
             },
             {
                 "title": "英国首相斯塔默将访华 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
             },
             {
-                "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
+                "title": "2026年1月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRHhRWFVEVnVZRVBUMEFRMkpqN01Ocjk4VWZieEIzVGRCb0dLMHFYT19HbWphMFpuWkU2MmVOYXo2YUQ3R2NQMURCa3hYR0E0UHRZMk4yM1hid3JNVWJfZXhmbWs1dFJ5VTlv?oc=5"
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sd2JFYWpBM0RXYWFCX2s2WGlfZ3hIOE1NZTFidlRZVGdsUVlsTVBNYWFWN1U0cW5HNy1XXzhsczBRWlNPN2ZERTlFaS1hYUdEU0FvR056eWRBMnpWY0FPcFdvTk9VR1lJQnBSdzRSbTV5cFg1Z1E?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "C919今年有望每10到15天生产一架 美国供应发动机决定一切",
+                "title": "欧盟要求Google向竞争对手的AI系统开放Android",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547268.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547376.htm"
             },
             {
-                "title": "曹操出行网约车连撞八车事故调查报告公布：司机带病驾驶且无从业资格",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "溢价60%卖出股权，PUMA凭什么？",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547258.htm"
+                "url": "https://36kr.com/p/3657541274575750"
             },
             {
-                "title": "李彦宏接受《时代》专访：AGI可能不存在 中国模型落后的不太多",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547232.htm"
-            },
-            {
-                "title": "金融时报：中国是如何实现科技大逆袭的？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547224.htm"
-            },
-            {
-                "title": "让法律再次伟大？美国政府被曝计划使用 AI 起草联邦法规",
+                "title": "曦望新一代推理 GPU 芯片启望 S3 发布：单位 Token 推理成本降低 90%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-27",
-                "url": "https://www.ithome.com/0/916/737.htm"
+                "url": "https://www.ithome.com/0/916/950.htm"
+            },
+            {
+                "title": "湖南黄金：公司经营正常 无应披露而未披露的重大事项",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-27",
+                "url": "https://36kr.com/newsflashes/3657559093404292"
+            },
+            {
+                "title": "我们用 5 个关键词，走进 Jonathan Anderson 带来的 DIOR 高定首秀",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-01-27",
+                "url": "https://www.toodaylab.com/83897"
             },
             {
                 "title": "英国首相斯塔默将访华 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
             },
             {
-                "title": "习近平同越共中央总书记苏林通电话 - mfa.gov.cn",
+                "title": "2026年1月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RRHhRWFVEVnVZRVBUMEFRMkpqN01Ocjk4VWZieEIzVGRCb0dLMHFYT19HbWphMFpuWkU2MmVOYXo2YUQ3R2NQMURCa3hYR0E0UHRZMk4yM1hid3JNVWJfZXhmbWs1dFJ5VTlv?oc=5"
+                "date": "2026-01-27",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sd2JFYWpBM0RXYWFCX2s2WGlfZ3hIOE1NZTFidlRZVGdsUVlsTVBNYWFWN1U0cW5HNy1XXzhsczBRWlNPN2ZERTlFaS1hYUdEU0FvR056eWRBMnpWY0FPcFdvTk9VR1lJQnBSdzRSbTV5cFg1Z1E?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-28T06:32:45.547069+00:00"
+    "last_updated": "2026-01-28T12:43:23.856140+00:00"
 }
