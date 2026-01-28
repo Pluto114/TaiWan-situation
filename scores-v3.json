@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "德国企业2025年在华投资再度激增",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-27",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A2025%E5%B9%B4%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E5%86%8D%E5%BA%A6%E6%BF%80%E5%A2%9E/a-75679475"
+            },
+            {
+                "title": "卡尼与川普通话 淡化达沃斯言论引发的分歧(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-27",
+                "url": "https://www.secretchina.com/news/gb/2026/01/27/1094142.html"
+            },
+            {
+                "title": "印欧达成自贸协定 中国忧心",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-27",
+                "url": "https://www.dw.com/zh/%E5%8D%B0%E6%AC%A7%E8%BE%BE%E6%88%90%E8%87%AA%E8%B4%B8%E5%8D%8F%E5%AE%9A-%E4%B8%AD%E5%9B%BD%E5%BF%A7%E5%BF%83/a-75678839"
+            },
+            {
                 "title": "半导体涨价潮开始蔓延 中微半导宣布最高涨50%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-27",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-27",
                 "url": "https://www.ithome.com/0/916/960.htm"
-            },
-            {
-                "title": "育碧计划裁员 200 人，员工将罢工抗议",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-27",
-                "url": "https://www.ithome.com/0/916/956.htm"
-            },
-            {
-                "title": "卡尼先在达沃斯“嘴硬” 后跟特朗普“服软”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-27",
-                "url": "https://www.dw.com/zh/%E5%8D%A1%E5%B0%BC%E5%85%88%E5%9C%A8%E8%BE%BE%E6%B2%83%E6%96%AF%E5%98%B4%E7%A1%AC-%E5%90%8E%E8%B7%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%8D%E8%BD%AF/a-75677136"
-            },
-            {
-                "title": "溢价60%卖出股权，PUMA凭什么？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-27",
-                "url": "https://36kr.com/p/3657541274575750"
             }
         ],
         "mil": [
@@ -74,10 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1547268.htm"
             },
             {
-                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "title": "阿塞拜疆外长巴伊拉莫夫将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1hia1ZVTktobTRtTDA2aEx5YWVnOHYtTWI0eS1XN3dDYzh6bFpDSEJ6am5ZNFJKREJ3OGp6ek9VMllQVUc0aFJUeDJESk9HNU5WTEJETnJSck1hTnNBeGVxYVBHU0VTSUFIT25FNERSeW5Ga2VmNk8tTVkzeUdsMjlOTy0?oc=5"
             },
             {
                 "title": "习近平会见芬兰总理奥尔波 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
             },
             {
-                "title": "2026年1月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sd2JFYWpBM0RXYWFCX2s2WGlfZ3hIOE1NZTFidlRZVGdsUVlsTVBNYWFWN1U0cW5HNy1XXzhsczBRWlNPN2ZERTlFaS1hYUdEU0FvR056eWRBMnpWY0FPcFdvTk9VR1lJQnBSdzRSbTV5cFg1Z1E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "【敏感词库】马杜罗被抓、柬埔寨「收网」、出生率新低（2026.1）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-01-27",
+                "url": "https://chinadigitaltimes.net/chinese/724676.html"
+            },
+            {
+                "title": "法国将弃用微软 Teams 等美国视频会议工具，国产 Visio 将服务所有政府部门",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-27",
+                "url": "https://www.ithome.com/0/916/965.htm"
+            },
+            {
                 "title": "欧盟要求Google向竞争对手的AI系统开放Android",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-27",
@@ -130,22 +142,10 @@
                 "url": "https://www.ithome.com/0/916/950.htm"
             },
             {
-                "title": "湖南黄金：公司经营正常 无应披露而未披露的重大事项",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-27",
-                "url": "https://36kr.com/newsflashes/3657559093404292"
-            },
-            {
-                "title": "我们用 5 个关键词，走进 Jonathan Anderson 带来的 DIOR 高定首秀",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-01-27",
-                "url": "https://www.toodaylab.com/83897"
-            },
-            {
-                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "title": "阿塞拜疆外长巴伊拉莫夫将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1hia1ZVTktobTRtTDA2aEx5YWVnOHYtTWI0eS1XN3dDYzh6bFpDSEJ6am5ZNFJKREJ3OGp6ek9VMllQVUc0aFJUeDJESk9HNU5WTEJETnJSck1hTnNBeGVxYVBHU0VTSUFIT25FNERSeW5Ga2VmNk8tTVkzeUdsMjlOTy0?oc=5"
             },
             {
                 "title": "习近平会见芬兰总理奥尔波 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
             },
             {
-                "title": "2026年1月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sd2JFYWpBM0RXYWFCX2s2WGlfZ3hIOE1NZTFidlRZVGdsUVlsTVBNYWFWN1U0cW5HNy1XXzhsczBRWlNPN2ZERTlFaS1hYUdEU0FvR056eWRBMnpWY0FPcFdvTk9VR1lJQnBSdzRSbTV5cFg1Z1E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-28T12:43:23.856140+00:00"
+    "last_updated": "2026-01-28T18:33:57.580026+00:00"
 }
