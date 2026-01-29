@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "工信部：2025 年电信业务收入累计完成 1.75 万亿元，比上年增长 0.7%",
+                "title": "美物流巨头 UPS 宣布今年将裁员 3 万人，快递员、仓库工人首当其冲",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-28",
-                "url": "https://www.ithome.com/0/917/189.htm"
+                "url": "https://www.ithome.com/0/917/317.htm"
             },
             {
-                "title": "曦望发布新一代推理芯片S3",
+                "title": "特斯拉品牌价值三连跌 马斯克介入政治拖累公司声誉",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547532.htm"
+            },
+            {
+                "title": "电池技术落后20年 德国汽车教父：得赶紧转向中国",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547530.htm"
+            },
+            {
+                "title": "韩国 AI 芯片企业 FuriosaAI 实现 RNGD 推理加速器量产",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-28",
+                "url": "https://www.ithome.com/0/917/279.htm"
+            },
+            {
+                "title": "氪星晚报｜字节跳动旗下公司等入股弋途科技；SpaceX考虑于6月中旬进行IPO；曦望发布新一代推理芯片S3",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-01-28",
-                "url": "https://36kr.com/newsflashes/3658691638879111"
-            },
-            {
-                "title": "国产大飞机C919今年有望交付28架 前提LEAP-1C发动机能正常进口",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547456.htm"
-            },
-            {
-                "title": "帮美国保管比特币的供应商总裁儿子窃取价值4000万美元的比特币/以太坊",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547454.htm"
-            },
-            {
-                "title": "黄仁勋现身深圳吃牛肉火锅 消费800余元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547438.htm"
+                "url": "https://36kr.com/p/3658880359965314"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜字节跳动旗下公司等入股弋途科技；SpaceX考虑于6月中旬进行IPO；曦望发布新一代推理芯片S3",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-28",
+                "url": "https://36kr.com/p/3658880359965314"
+            },
             {
                 "title": "失去张又侠中国很危险？全网一边倒挺张批习(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,34 +74,28 @@
                 "url": "https://www.secretchina.com/news/gb/2026/01/28/1094152.html"
             },
             {
-                "title": "氪星晚报｜德国军工巨头要为德军打造本土版“星链”；OpenAI首席信息安全官奈特将卸任职务；金饰克价涨至1585元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-27",
-                "url": "https://36kr.com/p/3657497474999172"
-            },
-            {
-                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
-                "title": "阿塞拜疆外长巴伊拉莫夫将访华 - mfa.gov.cn",
+                "title": "习近平复信津巴布韦老战士 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1hia1ZVTktobTRtTDA2aEx5YWVnOHYtTWI0eS1XN3dDYzh6bFpDSEJ6am5ZNFJKREJ3OGp6ek9VMllQVUc0aFJUeDJESk9HNU5WTEJETnJSck1hTnNBeGVxYVBHU0VTSUFIT25FNERSeW5Ga2VmNk8tTVkzeUdsMjlOTy0?oc=5"
+                "date": "2026-01-28",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YMk5pdHc5YmRPMlcyMXRGejVZbm1LNTBqX3RPREFWMExhQ2Q2cUVqWUNhX0hkSjJRYXRQSXA3NW1zX215SlprcmpBb2YyRXBzRHVfbkFQUGk5YzI4eDZhbVJoR3drUndhR2g0YVEyOVA?oc=5"
             },
             {
-                "title": "2026年1月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "所谓“击沉”中国军舰动画纯属自嗨- 中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sd2JFYWpBM0RXYWFCX2s2WGlfZ3hIOE1NZTFidlRZVGdsUVlsTVBNYWFWN1U0cW5HNy1XXzhsczBRWlNPN2ZERTlFaS1hYUdEU0FvR056eWRBMnpWY0FPcFdvTk9VR1lJQnBSdzRSbTV5cFg1Z1E?oc=5"
+                "date": "2026-01-29",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XdGxyMVA4VGw0LWowd0RGOTB6TXI0dDZpZGJJZE5DSHB2Q3JkbUl4RE85M3pMTXNwSVFDOFRKcUNLc2FNc1hiaXpNVmx5d2VlSGtuS19zOGZLQQ?oc=5"
             },
             {
-                "title": "看我雪中“变脸” - 中国军网",
+                "title": "此行间·我们的中华体育健儿要奋斗 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEekFrN2NRRGNDNkZJMDc0dG9rOXFWb2NhSXJyU0psTU9jNHR6cno2b3hmVTd2NXRwdzBKZ1hoSW9HLUREMk91UFRNeTM0N21BUjI5bngwYjBJUlN3MEFWWlJSS0Y?oc=5"
+                "date": "2026-01-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rb2NFTGZjLUdnakQ0ZV83bDgtaUpLQVZJbTBYMzhMSC1Ta0xQVlVhQm5zVm9mMGMwdjNzbk84SmJtYzdkZmdLVmY1VGJjSjUxUkE?oc=5"
             },
             {
                 "title": "欢迎中外记者采访十四届全国人大四次会议和全国政协十四届四次会议 - 中国军网",
@@ -112,58 +112,58 @@
         ],
         "pol": [
             {
-                "title": "美国移民局明尼阿波利斯枪击案惹怒苹果粉丝 Tim Cook回应：感到心碎",
+                "title": "TCL有望超越三星成为全球第一大电视品牌",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547458.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547548.htm"
             },
             {
-                "title": "帮美国保管比特币的供应商总裁儿子窃取价值4000万美元的比特币/以太坊",
+                "title": "团结海内外 “法宝”依然在？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-01-28",
+                "url": "https://www.dw.com/zh/%E5%9B%A2%E7%BB%93%E6%B5%B7%E5%86%85%E5%A4%96-%E6%B3%95%E5%AE%9D%E4%BE%9D%E7%84%B6%E5%9C%A8/a-75692867"
+            },
+            {
+                "title": "品牌在地化能做到什么程度，焕新亮相的 MUJI 成都太古里世界旗舰店给出了答案",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-01-28",
+                "url": "https://www.toodaylab.com/83890"
+            },
+            {
+                "title": "特斯拉品牌价值三连跌 马斯克介入政治拖累公司声誉",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547454.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547532.htm"
             },
             {
-                "title": "黄仁勋现身深圳吃牛肉火锅 消费800余元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "超过 15 亿欧元拿下近 30% 股权，安踏集团即将成为 PUMA 的最大股东",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547438.htm"
+                "url": "https://www.toodaylab.com/83899"
             },
             {
-                "title": "汽车订单供不应求 比亚迪拟扩大印度业务 考虑本地组装",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547434.htm"
-            },
-            {
-                "title": "Anthropic警告：AI将颠覆就业市场 异常痛苦且难以恢复",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547432.htm"
-            },
-            {
-                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
-                "title": "阿塞拜疆外长巴伊拉莫夫将访华 - mfa.gov.cn",
+                "title": "习近平复信津巴布韦老战士 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1hia1ZVTktobTRtTDA2aEx5YWVnOHYtTWI0eS1XN3dDYzh6bFpDSEJ6am5ZNFJKREJ3OGp6ek9VMllQVUc0aFJUeDJESk9HNU5WTEJETnJSck1hTnNBeGVxYVBHU0VTSUFIT25FNERSeW5Ga2VmNk8tTVkzeUdsMjlOTy0?oc=5"
+                "date": "2026-01-28",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YMk5pdHc5YmRPMlcyMXRGejVZbm1LNTBqX3RPREFWMExhQ2Q2cUVqWUNhX0hkSjJRYXRQSXA3NW1zX215SlprcmpBb2YyRXBzRHVfbkFQUGk5YzI4eDZhbVJoR3drUndhR2g0YVEyOVA?oc=5"
             },
             {
-                "title": "2026年1月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "所谓“击沉”中国军舰动画纯属自嗨- 中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sd2JFYWpBM0RXYWFCX2s2WGlfZ3hIOE1NZTFidlRZVGdsUVlsTVBNYWFWN1U0cW5HNy1XXzhsczBRWlNPN2ZERTlFaS1hYUdEU0FvR056eWRBMnpWY0FPcFdvTk9VR1lJQnBSdzRSbTV5cFg1Z1E?oc=5"
+                "date": "2026-01-29",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XdGxyMVA4VGw0LWowd0RGOTB6TXI0dDZpZGJJZE5DSHB2Q3JkbUl4RE85M3pMTXNwSVFDOFRKcUNLc2FNc1hiaXpNVmx5d2VlSGtuS19zOGZLQQ?oc=5"
             },
             {
-                "title": "看我雪中“变脸” - 中国军网",
+                "title": "此行间·我们的中华体育健儿要奋斗 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEekFrN2NRRGNDNkZJMDc0dG9rOXFWb2NhSXJyU0psTU9jNHR6cno2b3hmVTd2NXRwdzBKZ1hoSW9HLUREMk91UFRNeTM0N21BUjI5bngwYjBJUlN3MEFWWlJSS0Y?oc=5"
+                "date": "2026-01-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rb2NFTGZjLUdnakQ0ZV83bDgtaUpLQVZJbTBYMzhMSC1Ta0xQVlVhQm5zVm9mMGMwdjNzbk84SmJtYzdkZmdLVmY1VGJjSjUxUkE?oc=5"
             },
             {
                 "title": "欢迎中外记者采访十四届全国人大四次会议和全国政协十四届四次会议 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-29T06:42:32.685468+00:00"
+    "last_updated": "2026-01-29T12:52:21.176424+00:00"
 }
