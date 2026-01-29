@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "德国企业2025年在华投资再度激增",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-27",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A2025%E5%B9%B4%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E5%86%8D%E5%BA%A6%E6%BF%80%E5%A2%9E/a-75679475"
+                "title": "硬氪对话松鼠动力萧昂：智能房车赛道爆火，前安克首位产品经理早已跑步入场",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-28",
+                "url": "https://36kr.com/p/3631707316388872"
             },
             {
-                "title": "卡尼与川普通话 淡化达沃斯言论引发的分歧(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-27",
-                "url": "https://www.secretchina.com/news/gb/2026/01/27/1094142.html"
+                "title": "华泰证券：看好各技术路线设备在海外光伏产能大规模建设背景下的发展潜力",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-28",
+                "url": "https://36kr.com/newsflashes/3658345390809988"
             },
             {
-                "title": "印欧达成自贸协定 中国忧心",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-27",
-                "url": "https://www.dw.com/zh/%E5%8D%B0%E6%AC%A7%E8%BE%BE%E6%88%90%E8%87%AA%E8%B4%B8%E5%8D%8F%E5%AE%9A-%E4%B8%AD%E5%9B%BD%E5%BF%A7%E5%BF%83/a-75678839"
-            },
-            {
-                "title": "半导体涨价潮开始蔓延 中微半导宣布最高涨50%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547372.htm"
-            },
-            {
-                "title": "因 Steam 收取 30% 佣金，Valve 在英国面临 6.56 亿英镑反垄断诉讼",
+                "title": "科技昨夜今晨 0128：我国将出台应对人工智能影响促就业文件；比亚迪“大唐”实车曝光；支付宝“2026 年马年集福”活动开启...",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-27",
-                "url": "https://www.ithome.com/0/916/960.htm"
+                "date": "2026-01-28",
+                "url": "https://www.ithome.com/0/917/024.htm"
+            },
+            {
+                "title": "8点1氪丨大批中成药将退出市场；汽车行业利润率降至历史最低；妙可蓝多回应“罢免”创始人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-28",
+                "url": "https://36kr.com/p/3658332721030022"
+            },
+            {
+                "title": "存储芯片行业高景气2026年仍将持续，全球厂商扩产忙",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-28",
+                "url": "https://36kr.com/newsflashes/3658303645393795"
             }
         ],
         "mil": [
+            {
+                "title": "创票房纪录后：迪士尼《疯狂动物城 2》正式上线数字点播，实体版 3 月 3 日发售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-28",
+                "url": "https://www.ithome.com/0/917/027.htm"
+            },
+            {
+                "title": "盛雪：中共权力体系失控 习近平清洗正遭反噬(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-27",
+                "url": "https://www.secretchina.com/news/gb/2026/01/28/1094152.html"
+            },
             {
                 "title": "氪星晚报｜德国军工巨头要为德军打造本土版“星链”；OpenAI首席信息安全官奈特将卸任职务；金饰克价涨至1585元",
                 "source": "NewsAPI / 36kr.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1547314.htm"
             },
             {
-                "title": "蔚来 Banyan 3.3.0 计划明天全量推送，率先应用「世界模型 + 闭环强化学习」范式",
-                "source": "NewsAPI / Ithome.com",
+                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
-                "url": "https://www.ithome.com/0/916/832.htm"
-            },
-            {
-                "title": "C919今年有望每10到15天生产一架 美国供应发动机决定一切",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547268.htm"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "阿塞拜疆外长巴伊拉莫夫将访华 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
-            },
-            {
-                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "【敏感词库】马杜罗被抓、柬埔寨「收网」、出生率新低（2026.1）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-01-27",
-                "url": "https://chinadigitaltimes.net/chinese/724676.html"
-            },
-            {
-                "title": "法国将弃用微软 Teams 等美国视频会议工具，国产 Visio 将服务所有政府部门",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-27",
-                "url": "https://www.ithome.com/0/916/965.htm"
-            },
-            {
-                "title": "欧盟要求Google向竞争对手的AI系统开放Android",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547376.htm"
-            },
-            {
-                "title": "溢价60%卖出股权，PUMA凭什么？",
+                "title": "硬氪对话松鼠动力萧昂：智能房车赛道爆火，前安克首位产品经理早已跑步入场",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-27",
-                "url": "https://36kr.com/p/3657541274575750"
+                "date": "2026-01-28",
+                "url": "https://36kr.com/p/3631707316388872"
             },
             {
-                "title": "曦望新一代推理 GPU 芯片启望 S3 发布：单位 Token 推理成本降低 90%",
+                "title": "追赶 ChatGPT：微软 Copilot AI 新增“长期记忆”，输入上限破 1 万字符",
                 "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-28",
+                "url": "https://www.ithome.com/0/917/045.htm"
+            },
+            {
+                "title": "多部门协同发力，“反内卷”政策推动市场竞争从“卷价格”向“优价值”转变",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-28",
+                "url": "https://36kr.com/newsflashes/3658307890356873"
+            },
+            {
+                "title": "科技昨夜今晨 0128：我国将出台应对人工智能影响促就业文件；比亚迪“大唐”实车曝光；支付宝“2026 年马年集福”活动开启...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-28",
+                "url": "https://www.ithome.com/0/917/024.htm"
+            },
+            {
+                "title": "8点1氪丨大批中成药将退出市场；汽车行业利润率降至历史最低；妙可蓝多回应“罢免”创始人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-28",
+                "url": "https://36kr.com/p/3658332721030022"
+            },
+            {
+                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
-                "url": "https://www.ithome.com/0/916/950.htm"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "阿塞拜疆外长巴伊拉莫夫将访华 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-27",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtJV3ZJdkt3aXlna2hYSnBJd01lNHIwd25rWWxoNDJKdlZpck9GVGpRbXYzTkdFUFlNWklMUHZTZF9aMDhQZUdNU1owM2F3c2NiNXVaT0lMZ05fYXI0NnVTb0Z5cWQybldRZno3MEM0Z0x6SDVJSFlFRmpBdEpWckdqYWNiV0Q5WFRuaEpB?oc=5"
-            },
-            {
-                "title": "英国首相斯塔默将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXRmVDVya3dMNi10ZDlmODBxWDVoV2JwUW9aSWZKbTRGQTJ0LVVWSHY5cnNvYjhzc3dQc2txcXBfZFdNZGJvVzR6bWNzNjZ2aHBhekU5c2lTbUxMUHRkVHlHQVpqQ2VtMERMSXNtQnJhUm56ZFVlbzZXcVNycjhKVDl3ZHhDQkxIYkE?oc=5"
             },
             {
                 "title": "军队油料保障全流程监管措施出台- 解放军报 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-28T18:33:57.580026+00:00"
+    "last_updated": "2026-01-29T01:50:07.283756+00:00"
 }
