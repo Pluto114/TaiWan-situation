@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "iPhone 16 成为 2025 年全球最畅销智能手机",
+                "title": "Waymo英国将于今年九月起试点无人驾驶出租车服务",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547726.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547740.htm"
             },
             {
-                "title": "Hugging Face 曾拒绝英伟达 5 亿美元投资：不想看单一巨头脸色",
+                "title": "苹果政策反复：Patreon 创作者必须在 11 月前改用订阅计费方式",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-29",
-                "url": "https://www.ithome.com/0/917/642.htm"
+                "url": "https://www.ithome.com/0/917/681.htm"
             },
             {
-                "title": "黄仁勋对H200中国订单获批表示乐观",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-01-29",
-                "url": "https://www.dw.com/zh/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%AF%B9h200%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E8%8E%B7%E6%89%B9%E8%A1%A8%E7%A4%BA%E4%B9%90%E8%A7%82/a-75712526"
-            },
-            {
-                "title": "还没卖出去！黄仁勋：NVIDIA H200芯片至今仍零订单",
+                "title": "欧盟准备将伊朗伊斯兰革命卫队列为恐怖组织",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547716.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547738.htm"
             },
             {
-                "title": "能录音的AI戒指，是个伪需求吗？|一个95后的硬件生死局",
-                "source": "NewsAPI / 36kr.com",
+                "title": "与诺基亚达成全球专利许可协议后，OPPO 重返德国智能手机市场",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-29",
-                "url": "https://36kr.com/p/3660353540236168"
+                "url": "https://www.ithome.com/0/917/670.htm"
+            },
+            {
+                "title": "调查：超 1/4 游戏开发者近两年遭解雇，近一半仍未找到新工作",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-29",
+                "url": "https://www.ithome.com/0/917/669.htm"
             }
         ],
         "mil": [
+            {
+                "title": "张又侠是否泄密给美国人？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-29",
+                "url": "https://www.secretchina.com/news/gb/2026/01/30/1094260.html"
+            },
+            {
+                "title": "河北大名县免费给0-18岁孩子筛查先心病 网民恐慌(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-29",
+                "url": "https://www.secretchina.com/news/gb/2026/01/29/1094245.html"
+            },
             {
                 "title": "川普警告“时间不多了” 美军5万大军压境伊朗 战与谈判关键48小时(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-29",
                 "url": "https://www.secretchina.com/news/gb/2026/01/29/1094232.html"
-            },
-            {
-                "title": "氪星晚报｜马斯克：人形机器人领域最大竞争对手将来自中国；黄仁勋：英伟达正与英特尔合作开发一款定制的X86处理器",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-29",
-                "url": "https://36kr.com/p/3660284714492808"
-            },
-            {
-                "title": "英伟达被指曾协助DeepSeek优化AI模型 相关技术后被中国军方采用",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547686.htm"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "Hugging Face 曾拒绝英伟达 5 亿美元投资：不想看单一巨头脸色",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-29",
-                "url": "https://www.ithome.com/0/917/642.htm"
-            },
-            {
-                "title": "川普警告“时间不多了” 美军5万大军压境伊朗 战与谈判关键48小时(图)",
+                "title": "张又侠是否泄密给美国人？(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-01-29",
-                "url": "https://www.secretchina.com/news/gb/2026/01/29/1094241.html"
+                "url": "https://www.secretchina.com/news/gb/2026/01/30/1094260.html"
             },
             {
-                "title": "保险公司客服回应金晨事件：驾驶员逃逸保险公司一般不会直接告发",
+                "title": "星巴克将为会员忠诚度计划重新引入等级制度",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-01-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547718.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547744.htm"
             },
             {
-                "title": "5天4板铜陵有色：若未来阴极铜价格出现大幅波动，将对公司经营业绩产生显著影响",
-                "source": "NewsAPI / 36kr.com",
+                "title": "德国总理：“我们不是特朗普的下属！”",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-01-29",
-                "url": "https://36kr.com/newsflashes/3660336646726272"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E4%B8%8B%E5%B1%9E/a-75716857"
             },
             {
-                "title": "【文末赠书】世界上八分之七的博物馆诞生于50年内？ (评论: 博物馆，一部世界史I)",
-                "source": "NewsAPI / Douban.com",
+                "title": "苹果政策反复：Patreon 创作者必须在 11 月前改用订阅计费方式",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-29",
-                "url": "https://book.douban.com/review/17419236/"
+                "url": "https://www.ithome.com/0/917/681.htm"
+            },
+            {
+                "title": "欧盟准备将伊朗伊斯兰革命卫队列为恐怖组织",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547738.htm"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-30T12:50:23.145772+00:00"
+    "last_updated": "2026-01-30T18:38:13.530345+00:00"
 }
