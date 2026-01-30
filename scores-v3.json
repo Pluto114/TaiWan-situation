@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "8点1氪丨盒马回应将鲜百合误送成水仙球致用户中毒；水贝知名黄金平台“杰我睿”被曝经营异常；追觅CEO首次回应“断指计划”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-29",
-                "url": "https://36kr.com/p/3659745663067011"
-            },
-            {
-                "title": "科技昨夜今晨 0129：比亚迪天神之眼 5.0 辅助驾驶发布；苹果 iOS 26 系统普及率已近五成；折叠屏到了东北变“碎碎冰”...",
+                "title": "AI 算力新赛道：热力学计算登场，生图仅需百亿分之一电量",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-29",
-                "url": "https://www.ithome.com/0/917/363.htm"
+                "url": "https://www.ithome.com/0/917/521.htm"
             },
             {
-                "title": "挑战大众 ID.7，“欧洲造”小鹏 P7+ 将于 4 月上市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-28",
-                "url": "https://www.ithome.com/0/917/361.htm"
-            },
-            {
-                "title": "从“颠覆性技术”到“供应链备胎”五年变迁：特斯拉 4680 电池悄悄回归 Model Y 汽车",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-28",
-                "url": "https://www.ithome.com/0/917/357.htm"
-            },
-            {
-                "title": "微软与SK海力士签署独家高带宽内存（HBM）供应协议",
+                "title": "马斯克：中国是下一个层级的狠角色",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547590.htm"
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547648.htm"
+            },
+            {
+                "title": "三星Galaxy S26系列获FCC认证 全球搭载首款2nm芯片智能手机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547642.htm"
+            },
+            {
+                "title": "两大客户砍单，歌尔股份开启滚动式裁员",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547602.htm"
+            },
+            {
+                "title": "全球疯抢光刻机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547600.htm"
             }
         ],
         "mil": [
+            {
+                "title": "华东最大豪车经销商宝利德爆雷：总部被贴封条 且已人去楼空",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547630.htm"
+            },
+            {
+                "title": "中国区CEO潘励驰：保时捷不会让消费者当小白鼠｜36氪专访",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-29",
+                "url": "https://36kr.com/p/3657372223103109"
+            },
+            {
+                "title": "半日主力资金加仓传媒、计算机股，抛售电子股",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-01-29",
+                "url": "https://36kr.com/newsflashes/3659960998797954"
+            },
             {
                 "title": "富达发行首枚稳定币FIDD 拥挤的数字美元赛道又添一员",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-28",
                 "url": "https://www.ithome.com/0/917/334.htm"
-            },
-            {
-                "title": "美媒警告：中国以“医疗与科研”方式扩大在拉美影响力(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-28",
-                "url": "https://www.secretchina.com/news/gb/2026/01/28/1094196.html"
-            },
-            {
-                "title": "美军“航母战斗群”逼近伊朗 川普发出强硬最后通牒(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-28",
-                "url": "https://www.secretchina.com/news/gb/2026/01/28/1094195.html"
-            },
-            {
-                "title": "氪星晚报｜字节跳动旗下公司等入股弋途科技；SpaceX考虑于6月中旬进行IPO；曦望发布新一代推理芯片S3",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-28",
-                "url": "https://36kr.com/p/3658880359965314"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44Y2dpazVqdUw5dkQzdERJRm9jVjJLV09wLUMzLURCQjQ4dHB3TjhGbWhvQWp1TFlsckhTYkRYZm0zeE9KRk9lTF9sTXhEdHotVU9xRXFtNDF3c1NLd0JHNEl0ZmNRUnpBeDFZYl9tSHg?oc=5"
             },
             {
-                "title": "习近平复信津巴布韦老战士 - mfa.gov.cn",
+                "title": "2026年1月29日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-28",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YMk5pdHc5YmRPMlcyMXRGejVZbm1LNTBqX3RPREFWMExhQ2Q2cUVqWUNhX0hkSjJRYXRQSXA3NW1zX215SlprcmpBb2YyRXBzRHVfbkFQUGk5YzI4eDZhbVJoR3drUndhR2g0YVEyOVA?oc=5"
+                "date": "2026-01-29",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdUtuNFNYT3lfLTFRSDZuTHNGcHVqRnFrT3dJWjlncXg2VmswY1JpZWdjMXFyelNQd1Q3b19kb2RpSFd6NlVXTzRpX3JJaTZXXzlkelJqelhaS3d5dXpvY3pjT3FCX0FVeVM4VVA2ZHJUNnZqdmc?oc=5"
             },
             {
                 "title": "此行间·我们的中华体育健儿要奋斗 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "灵媒帕克预言 2026天灾人祸与“祈祷”(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-29",
-                "url": "https://www.secretchina.com/news/gb/2026/01/29/1094222.html"
-            },
-            {
-                "title": "8点1氪丨盒马回应将鲜百合误送成水仙球致用户中毒；水贝知名黄金平台“杰我睿”被曝经营异常；追觅CEO首次回应“断指计划”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-29",
-                "url": "https://36kr.com/p/3659745663067011"
-            },
-            {
-                "title": "科技昨夜今晨 0129：比亚迪天神之眼 5.0 辅助驾驶发布；苹果 iOS 26 系统普及率已近五成；折叠屏到了东北变“碎碎冰”...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-29",
-                "url": "https://www.ithome.com/0/917/363.htm"
-            },
-            {
-                "title": "从“颠覆性技术”到“供应链备胎”五年变迁：特斯拉 4680 电池悄悄回归 Model Y 汽车",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-28",
-                "url": "https://www.ithome.com/0/917/357.htm"
-            },
-            {
-                "title": "富达发行首枚稳定币FIDD 拥挤的数字美元赛道又添一员",
+                "title": "特朗普政府放松核安全监管 能源部悄然删改三分之一规则手册",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-01-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1547576.htm"
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547660.htm"
+            },
+            {
+                "title": "客机与直升机相撞致67人遇难 华盛顿撞机事故调查结论公布",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547650.htm"
+            },
+            {
+                "title": "4S店库存过高 价格倒挂严重 全国工商汽车经销商商会喊话奔驰回应",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547634.htm"
+            },
+            {
+                "title": "华东最大豪车经销商宝利德爆雷：总部被贴封条 且已人去楼空",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547630.htm"
+            },
+            {
+                "title": "两大客户砍单，歌尔股份开启滚动式裁员",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-01-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1547602.htm"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44Y2dpazVqdUw5dkQzdERJRm9jVjJLV09wLUMzLURCQjQ4dHB3TjhGbWhvQWp1TFlsckhTYkRYZm0zeE9KRk9lTF9sTXhEdHotVU9xRXFtNDF3c1NLd0JHNEl0ZmNRUnpBeDFZYl9tSHg?oc=5"
             },
             {
-                "title": "习近平复信津巴布韦老战士 - mfa.gov.cn",
+                "title": "2026年1月29日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-28",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YMk5pdHc5YmRPMlcyMXRGejVZbm1LNTBqX3RPREFWMExhQ2Q2cUVqWUNhX0hkSjJRYXRQSXA3NW1zX215SlprcmpBb2YyRXBzRHVfbkFQUGk5YzI4eDZhbVJoR3drUndhR2g0YVEyOVA?oc=5"
+                "date": "2026-01-29",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdUtuNFNYT3lfLTFRSDZuTHNGcHVqRnFrT3dJWjlncXg2VmswY1JpZWdjMXFyelNQd1Q3b19kb2RpSFd6NlVXTzRpX3JJaTZXXzlkelJqelhaS3d5dXpvY3pjT3FCX0FVeVM4VVA2ZHJUNnZqdmc?oc=5"
             },
             {
                 "title": "此行间·我们的中华体育健儿要奋斗 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-01-30T01:50:20.973286+00:00"
+    "last_updated": "2026-01-30T06:43:32.711147+00:00"
 }
