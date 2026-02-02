@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英伟达 CEO 黄仁勋否认对 OpenAI 不满，称非常喜欢与奥尔特曼共事",
+                "title": "消息称 SpaceX 拟与 xAI 合并，马斯克疑似证实相关报道",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-31",
-                "url": "https://www.ithome.com/0/918/173.htm"
+                "date": "2026-02-01",
+                "url": "https://www.ithome.com/0/918/203.htm"
             },
             {
-                "title": "华盛顿警惕盟友靠近北京 美国或采取反制措施(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-31",
-                "url": "https://www.secretchina.com/news/gb/2026/01/31/1094342.html"
+                "title": "后现代主义哲学｜牢a的厌女症与精神分裂——男留学生找外女扬我国威，女留学生找外男叛国淫乱",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-02-01",
+                "url": "https://chinadigitaltimes.net/chinese/724848.html"
             },
             {
-                "title": "中国人反了 公开冲塔骂习(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-01-31",
-                "url": "https://www.secretchina.com/news/gb/2026/01/31/1094341.html"
+                "title": "一家深低温技术公司完成近5亿元融资，已获得核聚变等领域客户数亿元订单｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-01",
+                "url": "https://36kr.com/p/3660098751538053"
             },
             {
-                "title": "eSIM 物联网技术专委会成立，三大运营商等 29 家单位共推产业规范化升级",
+                "title": "汇川技术董事长朱兴明3小时深度反省：我们这两年最大的问题，不是战略，而是“人”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-01",
+                "url": "https://36kr.com/p/3660481331241864"
+            },
+            {
+                "title": "科技昨夜今晨 0201：曝苹果 iPhone Air 2 手机年内不发布；8K 电视集体“退烧”；比亚迪海洋 8 系“双旗舰”实车曝光...",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-31",
-                "url": "https://www.ithome.com/0/918/151.htm"
-            },
-            {
-                "title": "叩响终章：《速度与激情 11》定档 2028 年 3 月 17 日北美上映",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-31",
-                "url": "https://www.ithome.com/0/918/113.htm"
+                "date": "2026-02-01",
+                "url": "https://www.ithome.com/0/918/188.htm"
             }
         ],
         "mil": [
+            {
+                "title": "汇川技术董事长朱兴明3小时深度反省：我们这两年最大的问题，不是战略，而是“人”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-01",
+                "url": "https://36kr.com/p/3660481331241864"
+            },
+            {
+                "title": "张又侠习近平攻台有分歧 台海战争仍存风险(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-01",
+                "url": "https://www.secretchina.com/news/gb/2026/02/01/1094319.html"
+            },
+            {
+                "title": "川普摊牌倒数 传美最快今攻伊朗 前官员曝“斩首”计划(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-01-31",
+                "url": "https://www.secretchina.com/news/gb/2026/02/01/1094353.html"
+            },
             {
                 "title": "NASA 新一代超级计算机“雅典娜”宣布投用，峰值性能超 20PFLOPS",
                 "source": "NewsAPI / Ithome.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/01/31/1094329.html"
             },
             {
-                "title": "9点1氪｜特朗普宣布下任美联储主席提名人选；广东连续8年成为第一生育大省；“黑白颠周媛”被立案调查",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-31",
-                "url": "https://36kr.com/p/3662644247323264"
-            },
-            {
-                "title": "首届电竞国家杯 11 月 2 日沙特举办：4500 万美元资金，含 DOTA2 等项目",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-30",
-                "url": "https://www.ithome.com/0/917/979.htm"
-            },
-            {
-                "title": "8点1氪丨国铁回应“抢票神器诱导加价”：12306是唯一官方售票渠道；iPhone 16成去年全球最畅销智能手机；UC浏览器开发商被罚没126万元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-30",
-                "url": "https://36kr.com/p/3661162161234566"
-            },
-            {
-                "title": "解放军报评论员：持续深化政治整训 纵深推进正风反腐 - 中华人民共和国国防部",
+                "title": "解放军报评论员：持续深化政治整训 纵深推进正风反腐 - 国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-31",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XODlhWEpUSkVoT0JfV0lZRlJTTlU4Q2VBeHRjRFBaNGxsTnM0N1FUeC1BRW1PcjVwOEU1SWpGamIzQ0h0RnpmTTVZSGdnZFhJN3lENHM3SHE?oc=5"
             },
             {
-                "title": "解放军报评论员：坚定反腐必胜、强军必成的信念信心 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-30",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RR0pxYTlxLS1uaGdERGhlcGlGQWhNcENkeUFmVUVPUXh4d1VjQVNwN0xwU1BDQU13R095ckdSZ012a1VwWFhld2JnUlZGeFNHTFBfMzkxR2o?oc=5"
-            },
-            {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "中华人民共和国国防部 - 国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-01",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjhBc1ZDWmh3eUF6SEFSRGc1WUlHUlJrZTNJMXU3YldkVWUwWk9nbGlNRXM3LWRJNS1ScW1LZ0picUxWbURYdmc4WXpsbThJd21mZXE4ckVDemR6M0JMQ09jQU5HV3NTVVRyMG12M2xLYVhtVUx6cHppNkoyYXBQQW5KbFg?oc=5"
             },
             {
                 "title": "动若风发铺坦途——新疆军区某部工程保障训练影像 - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
+                "title": "一家深低温技术公司完成近5亿元融资，已获得核聚变等领域客户数亿元订单｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-01",
+                "url": "https://36kr.com/p/3660098751538053"
+            },
+            {
+                "title": "汇川技术董事长朱兴明3小时深度反省：我们这两年最大的问题，不是战略，而是“人”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-01",
+                "url": "https://36kr.com/p/3660481331241864"
+            },
+            {
+                "title": "张又侠习近平攻台有分歧 台海战争仍存风险(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-01",
+                "url": "https://www.secretchina.com/news/gb/2026/02/01/1094319.html"
+            },
+            {
+                "title": "消息称 Waymo 拟融资约 160 亿美元，估值接近 1100 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-01-31",
+                "url": "https://www.ithome.com/0/918/180.htm"
+            },
+            {
                 "title": "英伟达 CEO 黄仁勋否认对 OpenAI 不满，称非常喜欢与奥尔特曼共事",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-01-31",
                 "url": "https://www.ithome.com/0/918/173.htm"
             },
             {
-                "title": "因老鼠咬断光纤线缆，英国一互联网提供商濒临破产",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-31",
-                "url": "https://www.ithome.com/0/918/171.htm"
-            },
-            {
-                "title": "14 万 OpenClaw 涌进社区：一夜成立数字宗教任命 43 位 AI 先知，人类已被踢出群聊",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-31",
-                "url": "https://www.ithome.com/0/918/083.htm"
-            },
-            {
-                "title": "《WWE 2K26》3 月发售：Steam 国区 298~760 元，阵容超 400 位摔角明星",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-01-31",
-                "url": "https://www.ithome.com/0/918/027.htm"
-            },
-            {
-                "title": "9点1氪｜特朗普宣布下任美联储主席提名人选；广东连续8年成为第一生育大省；“黑白颠周媛”被立案调查",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-01-31",
-                "url": "https://36kr.com/p/3662644247323264"
-            },
-            {
-                "title": "解放军报评论员：持续深化政治整训 纵深推进正风反腐 - 中华人民共和国国防部",
+                "title": "解放军报评论员：持续深化政治整训 纵深推进正风反腐 - 国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-01-31",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XODlhWEpUSkVoT0JfV0lZRlJTTlU4Q2VBeHRjRFBaNGxsTnM0N1FUeC1BRW1PcjVwOEU1SWpGamIzQ0h0RnpmTTVZSGdnZFhJN3lENHM3SHE?oc=5"
             },
             {
-                "title": "解放军报评论员：坚定反腐必胜、强军必成的信念信心 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-01-30",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RR0pxYTlxLS1uaGdERGhlcGlGQWhNcENkeUFmVUVPUXh4d1VjQVNwN0xwU1BDQU13R095ckdSZ012a1VwWFhld2JnUlZGeFNHTFBfMzkxR2o?oc=5"
-            },
-            {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "中华人民共和国国防部 - 国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-01",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjhBc1ZDWmh3eUF6SEFSRGc1WUlHUlJrZTNJMXU3YldkVWUwWk9nbGlNRXM3LWRJNS1ScW1LZ0picUxWbURYdmc4WXpsbThJd21mZXE4ckVDemR6M0JMQ09jQU5HV3NTVVRyMG12M2xLYVhtVUx6cHppNkoyYXBQQW5KbFg?oc=5"
             },
             {
                 "title": "动若风发铺坦途——新疆军区某部工程保障训练影像 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-01T18:31:01.044586+00:00"
+    "last_updated": "2026-02-02T01:57:31.480802+00:00"
 }
