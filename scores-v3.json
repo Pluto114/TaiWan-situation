@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "氪星晚报｜智元机器人将举办全球首个大型机器人晚会“机器人奇妙夜”；黄金一度暴跌1000美元，业内提示警惕抄底风险；中共中央、国务院：培育京津雄地区创新三角",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-02",
+                "url": "https://36kr.com/p/3665581867737728"
+            },
+            {
+                "title": "“无人机”成下一座护国神山 汉翔引领台湾厂抢攻“非红供应链”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-02",
+                "url": "https://www.secretchina.com/news/gb/2026/02/02/1094437.html"
+            },
+            {
+                "title": "23亿元天价官司，没有吓退车企自制电池包",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-02",
+                "url": "https://36kr.com/p/3665940852581250"
+            },
+            {
+                "title": "2026 年太阳能发电装机规模将首次超过煤电",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-02",
+                "url": "https://www.ithome.com/0/918/494.htm"
+            },
+            {
                 "title": "我国科研团队再破核心技术难题，二维半导体量产迎来关键进展",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-02",
                 "url": "https://www.ithome.com/0/918/433.htm"
-            },
-            {
-                "title": "曹操出行 Robotaxi 2.0 已搭载低轨卫星通信，将上线卫星 SOS 功能",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-02",
-                "url": "https://www.ithome.com/0/918/380.htm"
-            },
-            {
-                "title": "美加航空贸易争端升级 或成美墨加协议杠杆(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-02",
-                "url": "https://www.secretchina.com/news/gb/2026/02/02/1094421.html"
-            },
-            {
-                "title": "消息称 Kimi 海外收入已超国内，目标成为“Anthropic+Manus”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-02",
-                "url": "https://www.ithome.com/0/918/339.htm"
-            },
-            {
-                "title": "科技昨夜今晨 0202：我国所有乡镇及 95% 的行政村已通 5G；我国“黄皮”歼-20 战机试飞画面罕见公开；三大运营商调整电信服务增值税...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-02",
-                "url": "https://www.ithome.com/0/918/338.htm"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜智元机器人将举办全球首个大型机器人晚会“机器人奇妙夜”；黄金一度暴跌1000美元，业内提示警惕抄底风险；中共中央、国务院：培育京津雄地区创新三角",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-02",
+                "url": "https://36kr.com/p/3665581867737728"
+            },
+            {
+                "title": "23亿元天价官司，没有吓退车企自制电池包",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-02",
+                "url": "https://36kr.com/p/3665940852581250"
+            },
             {
                 "title": "伊朗扬言大规模战争 川普回应耐人寻味(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.ithome.com/0/918/335.htm"
             },
             {
-                "title": "8点1氪丨爱泼斯坦遗嘱把萝莉岛留给女友；白象在2026份桶面中投放1克金条，客服回应；李亚鹏6小时直播销售额达1.6亿",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-02",
-                "url": "https://36kr.com/p/3665405363839876"
-            },
-            {
-                "title": "《碧蓝幻想：Relink》游戏上市 2 周年，Steam 版价格永降 198 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-01",
-                "url": "https://www.ithome.com/0/918/281.htm"
+                "title": "习近平同乌拉圭总统奥尔西举行会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-03",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Gd2tncU9SZzZYSTM5YjRSMEE1X1hYYXYzcmJkTTJnS21ySUdnZWN1aGZpTnk1elhtbG15NXFRVFBocTJtbHBkLW9wUjE3VjcyanJ3aVJ0LUlfYVI0NWZQZ1JZdWxQaEtMbUhr?oc=5"
             },
             {
                 "title": "解放军报评论员：以强烈的使命担当攻坚奋进 - 国防部",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平同乌拉圭总统奥尔西共同出席合作文件签字仪式 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
+                "title": "氪星晚报｜智元机器人将举办全球首个大型机器人晚会“机器人奇妙夜”；黄金一度暴跌1000美元，业内提示警惕抄底风险；中共中央、国务院：培育京津雄地区创新三角",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-02",
+                "url": "https://36kr.com/p/3665581867737728"
+            },
+            {
+                "title": "瓦德富尔：美国仍是德国和欧洲最重要的伙伴",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-02",
+                "url": "https://www.dw.com/zh/%E7%93%A6%E5%BE%B7%E5%AF%8C%E5%B0%94%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%98%AF%E5%BE%B7%E5%9B%BD%E5%92%8C%E6%AC%A7%E6%B4%B2%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BC%99%E4%BC%B4/a-75768524"
+            },
+            {
+                "title": "23亿元天价官司，没有吓退车企自制电池包",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-02",
+                "url": "https://36kr.com/p/3665940852581250"
+            },
+            {
+                "title": "中共恶行 局势不稳时就在海外社群散播大量色情内容洗版(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-02",
+                "url": "https://www.secretchina.com/news/gb/2026/02/02/1094433.html"
+            },
+            {
                 "title": "【CDT关注】田间｜中国记者的现实风险：审查无所不在",
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-02-02",
                 "url": "https://chinadigitaltimes.net/chinese/724870.html"
             },
             {
-                "title": "我国科研团队再破核心技术难题，二维半导体量产迎来关键进展",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-02",
-                "url": "https://www.ithome.com/0/918/433.htm"
-            },
-            {
-                "title": "伊朗扬言大规模战争 川普回应耐人寻味(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-02",
-                "url": "https://www.secretchina.com/news/gb/2026/02/02/1094422.html"
-            },
-            {
-                "title": "美加航空贸易争端升级 或成美墨加协议杠杆(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-02",
-                "url": "https://www.secretchina.com/news/gb/2026/02/02/1094421.html"
-            },
-            {
-                "title": "历时 134 天，蔚来全新 ES8 汽车完成第 6 万台交付",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-02",
-                "url": "https://www.ithome.com/0/918/346.htm"
+                "title": "习近平同乌拉圭总统奥尔西举行会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-03",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Gd2tncU9SZzZYSTM5YjRSMEE1X1hYYXYzcmJkTTJnS21ySUdnZWN1aGZpTnk1elhtbG15NXFRVFBocTJtbHBkLW9wUjE3VjcyanJ3aVJ0LUlfYVI0NWZQZ1JZdWxQaEtMbUhr?oc=5"
             },
             {
                 "title": "解放军报评论员：以强烈的使命担当攻坚奋进 - 国防部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平同乌拉圭总统奥尔西共同出席合作文件签字仪式 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-03T06:46:52.971594+00:00"
+    "last_updated": "2026-02-03T12:54:20.806203+00:00"
 }
