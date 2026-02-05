@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "iQOO 15 Ultra 手机发布：骁龙 8 Elite Gen5、主动散热风扇 + 压感肩键，5499 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/919/259.htm"
+            },
+            {
+                "title": "丰田力挺混动汽车，瞄准 2028 年 670 万辆全球产量目标",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/919/225.htm"
+            },
+            {
+                "title": "“国共论坛”引发国安疑虑、破坏非红供应链 将台湾锁回中国(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-04",
+                "url": "https://www.secretchina.com/news/gb/2026/02/04/1094534.html"
+            },
+            {
                 "title": "铭凡原子侠 G7 Pro 迷你主机上市：酷睿 i9-14900HX + RTX 5070，到手价 8989 起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-04",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-04",
                 "url": "https://36kr.com/p/3668551333995401"
-            },
-            {
-                "title": "中国移动旗下基金、北京人工智能产投基金等入股因时机器人公司",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/newsflashes/3668373139268481"
-            },
-            {
-                "title": "自断主营业务、营收砍半，一家老牌OEM扫地机器人公司的转型豪赌｜Insight全球",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3668313691480966"
-            },
-            {
-                "title": "鸣鸣很忙超900亿IPO背后：在冬天捕到大鱼的人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3667709479822213"
             }
         ],
         "mil": [
@@ -74,10 +74,10 @@
                 "url": "https://36kr.com/p/3668241626784640"
             },
             {
-                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
                 "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
             },
             {
-                "title": "2026年2月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN1prRnhSc3pCWTc4Mml6TklZZGdfc3NETzF5QmxQS281c2NLWWppRW5kcWo3RU5lZ0lfMFh3N01pRVhFLUVwNGhJQ1RlWk5HZFltTGpkMWpuTGNoSzdzbUlwd3d4QnhTc09Fcm5JdUFVcnJmVGc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
             },
             {
                 "title": "玉渊潭丨莫愁千里路，自有到来风 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "北京指责欧盟大搞保护主义 损害欧盟形象",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-04",
+                "url": "https://www.dw.com/zh/%E5%8C%97%E4%BA%AC%E6%8C%87%E8%B4%A3%E6%AC%A7%E7%9B%9F%E5%A4%A7%E6%90%9E%E4%BF%9D%E6%8A%A4%E4%B8%BB%E4%B9%89-%E6%8D%9F%E5%AE%B3%E6%AC%A7%E7%9B%9F%E5%BD%A2%E8%B1%A1/a-75795376"
+            },
+            {
+                "title": "从口水骂战到对簿公堂：OpenAI 奥尔特曼称其已经等不及要让马斯克上法庭受审了",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/919/200.htm"
+            },
+            {
+                "title": "极氪 9X 累计交付破 3 万台，官方称取得 50 万级豪华 SUV“立春开门红”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/919/160.htm"
+            },
+            {
                 "title": "因误入钓鱼网站，韩国光州检察厅没收的“价值 400 亿韩元”比特币不翼而飞",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-04",
@@ -124,28 +142,10 @@
                 "url": "https://36kr.com/p/3668551333995401"
             },
             {
-                "title": "丰田大六座“电动汉兰达”内饰公布：超大中控屏 + 全景天幕",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/919/077.htm"
-            },
-            {
-                "title": "不惧产量下滑，奔驰依旧认为 S 级车型是行业标杆",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/918/982.htm"
-            },
-            {
-                "title": "自断主营业务、营收砍半，一家老牌OEM扫地机器人公司的转型豪赌｜Insight全球",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3668313691480966"
-            },
-            {
-                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
                 "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
             },
             {
-                "title": "2026年2月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN1prRnhSc3pCWTc4Mml6TklZZGdfc3NETzF5QmxQS281c2NLWWppRW5kcWo3RU5lZ0lfMFh3N01pRVhFLUVwNGhJQ1RlWk5HZFltTGpkMWpuTGNoSzdzbUlwd3d4QnhTc09Fcm5JdUFVcnJmVGc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
             },
             {
                 "title": "玉渊潭丨莫愁千里路，自有到来风 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-05T06:55:18.925412+00:00"
+    "last_updated": "2026-02-05T12:56:28.916549+00:00"
 }
