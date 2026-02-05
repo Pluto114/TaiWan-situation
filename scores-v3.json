@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "铭凡原子侠 G7 Pro 迷你主机上市：酷睿 i9-14900HX + RTX 5070，到手价 8989 起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/919/085.htm"
+            },
+            {
+                "title": "百亿美金蓝海，国产“动力+智控”如何切入价值高地？｜OpenTalk回顾",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-04",
+                "url": "https://36kr.com/p/3668551333995401"
+            },
+            {
+                "title": "中国移动旗下基金、北京人工智能产投基金等入股因时机器人公司",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-04",
+                "url": "https://36kr.com/newsflashes/3668373139268481"
+            },
+            {
                 "title": "自断主营业务、营收砍半，一家老牌OEM扫地机器人公司的转型豪赌｜Insight全球",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-04",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-04",
                 "url": "https://36kr.com/p/3667709479822213"
-            },
-            {
-                "title": "8点1氪丨周生生再发声明，回应足金挂坠检测出含铁银钯；大润发母公司辟谣CEO被警方带走；极氪8X信息遭提前泄露",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3668241626784640"
-            },
-            {
-                "title": "中信建投：全球商业航天进入以规模化部署与生态构建为核心的新阶段",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/newsflashes/3668226687411075"
-            },
-            {
-                "title": "科技昨夜今晨 0204：SpaceX 与 xAI 合并；2025 胡润中国品牌榜发布；19 家电动自行车企业杜绝为非法改装留“后门”；奇瑞 QQ 回归...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-03",
-                "url": "https://www.ithome.com/0/918/936.htm"
             }
         ],
         "mil": [
+            {
+                "title": "百亿美金蓝海，国产“动力+智控”如何切入价值高地？｜OpenTalk回顾",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-04",
+                "url": "https://36kr.com/p/3668551333995401"
+            },
+            {
+                "title": "专家驳斥欧盟：IRIS² 卫星系统未发一星，何谈“投入使用”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/918/980.htm"
+            },
             {
                 "title": "沉船未亡者刺美国总统(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,40 +74,22 @@
                 "url": "https://36kr.com/p/3668241626784640"
             },
             {
-                "title": "伊朗挑衅“林肯”号航母 美国F-35战机出动(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-03",
-                "url": "https://www.secretchina.com/news/gb/2026/02/04/1094513.html"
-            },
-            {
-                "title": "德语媒体：习近平的权力布局",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-03",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9D%83%E5%8A%9B%E5%B8%83%E5%B1%80/a-75787733"
-            },
-            {
-                "title": "中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2017-12-17",
-                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
-            },
-            {
-                "title": "2026年2月3日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-03",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52clVJUEEtdDMzUzgxbU9Mb1M0Y0Q2SWtGNFliWWFoYXplaEVjV2xiNXY5NEtqaEt2RGdNNFBqaHRuU1AwZ05aTFlhblRVSkdtNDhkWTRseGFORy00djZCeEQ5RmdITkpYdzd2U0txUVlHMEpPZ3c?oc=5"
-            },
-            {
                 "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
             },
             {
-                "title": "习近平同乌拉圭总统奥尔西共同出席合作文件签字仪式 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uYmZqQ2FrSHFkejlRNGVVZnAtcnppNVVQRHlzMjdHZHliRElaUlZqRlhwZmpVZG94clZwR2ViYlBIUHVZWnkzYnBOMFRBWmNIdkE?oc=5"
+                "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-04",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
+            },
+            {
+                "title": "2026年2月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN1prRnhSc3pCWTc4Mml6TklZZGdfc3NETzF5QmxQS281c2NLWWppRW5kcWo3RU5lZ0lfMFh3N01pRVhFLUVwNGhJQ1RlWk5HZFltTGpkMWpuTGNoSzdzbUlwd3d4QnhTc09Fcm5JdUFVcnJmVGc?oc=5"
             },
             {
                 "title": "玉渊潭丨莫愁千里路，自有到来风 - 中国军网",
@@ -108,9 +102,39 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tMjNJWWxHTWthSDVjS183QjNSZzdYUmtqLXNNbVFyWXBnM3FfV21ueTVJeFpKRm4ya29WMkNvNFRxMmVQaW5vLWlDeHdsY3ozWUE?oc=5"
+            },
+            {
+                "title": "军工世界丨韩国欲联合阿联酋研制升级版“猎鹰”战机 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4VHdqVTdlbkVDUUpLT2dHem40RmVDbFdKQkdUcVZxZXBPUVRaSnFlZ3F0d00wbndZbFB1SGRMVFlhbkp2ZVdYZjJVRzItNjY2MkE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "因误入钓鱼网站，韩国光州检察厅没收的“价值 400 亿韩元”比特币不翼而飞",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/919/124.htm"
+            },
+            {
+                "title": "百亿美金蓝海，国产“动力+智控”如何切入价值高地？｜OpenTalk回顾",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-04",
+                "url": "https://36kr.com/p/3668551333995401"
+            },
+            {
+                "title": "丰田大六座“电动汉兰达”内饰公布：超大中控屏 + 全景天幕",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/919/077.htm"
+            },
+            {
+                "title": "不惧产量下滑，奔驰依旧认为 S 级车型是行业标杆",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-04",
+                "url": "https://www.ithome.com/0/918/982.htm"
+            },
             {
                 "title": "自断主营业务、营收砍半，一家老牌OEM扫地机器人公司的转型豪赌｜Insight全球",
                 "source": "NewsAPI / 36kr.com",
@@ -118,52 +142,22 @@
                 "url": "https://36kr.com/p/3668313691480966"
             },
             {
-                "title": "昆仑万维发布“Skywork 桌面版”：AI 帮你在电脑上直接干活",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/918/962.htm"
-            },
-            {
-                "title": "鸣鸣很忙超900亿IPO背后：在冬天捕到大鱼的人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3667709479822213"
-            },
-            {
-                "title": "新 CEO 莱特斯刚上任就挥“砍刀”，消息称保时捷拟叫停纯电 718 项目",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/918/959.htm"
-            },
-            {
-                "title": "今日消费资讯：万宝龙成都太古里旗舰店“灵感漫旅”文化沙龙开启、Aesop 广州天汇广场店开业",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-02-04",
-                "url": "https://www.toodaylab.com/83906"
-            },
-            {
-                "title": "中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2017-12-17",
-                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
-            },
-            {
-                "title": "2026年2月3日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-03",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52clVJUEEtdDMzUzgxbU9Mb1M0Y0Q2SWtGNFliWWFoYXplaEVjV2xiNXY5NEtqaEt2RGdNNFBqaHRuU1AwZ05aTFlhblRVSkdtNDhkWTRseGFORy00djZCeEQ5RmdITkpYdzd2U0txUVlHMEpPZ3c?oc=5"
-            },
-            {
                 "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
             },
             {
-                "title": "习近平同乌拉圭总统奥尔西共同出席合作文件签字仪式 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uYmZqQ2FrSHFkejlRNGVVZnAtcnppNVVQRHlzMjdHZHliRElaUlZqRlhwZmpVZG94clZwR2ViYlBIUHVZWnkzYnBOMFRBWmNIdkE?oc=5"
+                "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-04",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
+            },
+            {
+                "title": "2026年2月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN1prRnhSc3pCWTc4Mml6TklZZGdfc3NETzF5QmxQS281c2NLWWppRW5kcWo3RU5lZ0lfMFh3N01pRVhFLUVwNGhJQ1RlWk5HZFltTGpkMWpuTGNoSzdzbUlwd3d4QnhTc09Fcm5JdUFVcnJmVGc?oc=5"
             },
             {
                 "title": "玉渊潭丨莫愁千里路，自有到来风 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tMjNJWWxHTWthSDVjS183QjNSZzdYUmtqLXNNbVFyWXBnM3FfV21ueTVJeFpKRm4ya29WMkNvNFRxMmVQaW5vLWlDeHdsY3ozWUE?oc=5"
+            },
+            {
+                "title": "军工世界丨韩国欲联合阿联酋研制升级版“猎鹰”战机 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4VHdqVTdlbkVDUUpLT2dHem40RmVDbFdKQkdUcVZxZXBPUVRaSnFlZ3F0d00wbndZbFB1SGRMVFlhbkp2ZVdYZjJVRzItNjY2MkE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-05T01:52:55.374976+00:00"
+    "last_updated": "2026-02-05T06:55:18.925412+00:00"
 }
