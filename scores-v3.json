@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "这 10 个春节特别系列凝结了对马年的美好祝愿，同时它们也足够的实用好用",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-02-04",
-                "url": "https://www.toodaylab.com/83907"
+                "title": "西门子收购 Canopus：引入“AI 显微镜”技术，让造芯更准、更快",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-05",
+                "url": "https://www.ithome.com/0/919/375.htm"
             },
             {
-                "title": "习近平先后与普京、特朗普通话",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-04",
-                "url": "https://www.dw.com/zh/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E5%90%8E%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D/a-75803152"
-            },
-            {
-                "title": "与习近平通话 普京赞中俄关系堪称典范",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-04",
-                "url": "https://www.dw.com/zh/%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%80%9A%E8%AF%9D-%E6%99%AE%E4%BA%AC%E8%B5%9E%E4%B8%AD%E4%BF%84%E5%85%B3%E7%B3%BB%E5%A0%AA%E7%A7%B0%E5%85%B8%E8%8C%83/a-75803152"
-            },
-            {
-                "title": "氪星晚报 ｜腾讯混元AI Infra核心技术开源；小米：辽宁营口SU7起火事故系车内遗留火源引燃周边可燃物所致",
+                "title": "私募：信心指数与仓位齐升",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3668990341915527"
+                "date": "2026-02-05",
+                "url": "https://36kr.com/newsflashes/3669684625531783"
             },
             {
-                "title": "iQOO 15 Ultra 手机发布：骁龙 8 Elite Gen5、主动散热风扇 + 压感肩键，5499 元起",
+                "title": "CNET 评测 35 款 2025 美国上市手机，苹果 iPhone 17 Pro Max 成续航之王",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-05",
+                "url": "https://www.ithome.com/0/919/343.htm"
+            },
+            {
+                "title": "8点1氪丨微信公关总监回应屏蔽元宝链接；vivo确认立项Vlog相机，对标大疆；贾国龙微博解禁，首发内容是速冻西兰花科普视频",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3669647311774594"
+            },
+            {
+                "title": "OpenAI 奥尔特曼批 Anthropic 超级碗广告“撒谎”，并揭其老底",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/919/259.htm"
+                "url": "https://www.ithome.com/0/919/336.htm"
             }
         ],
         "mil": [
+            {
+                "title": "欧洲多国频现“不明无人机”，警方披露实为比利时工程师自造三角翼飞机",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-05",
+                "url": "https://www.ithome.com/0/919/352.htm"
+            },
+            {
+                "title": "8点1氪丨微信公关总监回应屏蔽元宝链接；vivo确认立项Vlog相机，对标大疆；贾国龙微博解禁，首发内容是速冻西兰花科普视频",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3669647311774594"
+            },
             {
                 "title": "百亿美金蓝海，国产“动力+智控”如何切入价值高地？｜OpenTalk回顾",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/02/04/1093169.html"
             },
             {
-                "title": "鸣鸣很忙超900亿IPO背后：在冬天捕到大鱼的人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3667709479822213"
-            },
-            {
-                "title": "8点1氪丨周生生再发声明，回应足金挂坠检测出含铁银钯；大润发母公司辟谣CEO被警方带走；极氪8X信息遭提前泄露",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3668241626784640"
-            },
-            {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2017-12-17",
@@ -86,22 +86,22 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
             },
             {
-                "title": "2026年2月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN1prRnhSc3pCWTc4Mml6TklZZGdfc3NETzF5QmxQS281c2NLWWppRW5kcWo3RU5lZ0lfMFh3N01pRVhFLUVwNGhJQ1RlWk5HZFltTGpkMWpuTGNoSzdzbUlwd3d4QnhTc09Fcm5JdUFVcnJmVGc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
+            },
+            {
+                "title": "2026年地方两会热点话题观察：开局之年听“新”声 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVDZ1Sjd0aTB6UnhFSXIzOTJWRVlXbXZSTHFfWmlRR0JaWDhoVGxSdnpRYno2cWc3MlJOZHlVSXRZR2FKVEZzclhxNGZYd29JNHc?oc=5"
             },
             {
                 "title": "图片 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-05",
                 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3Y0dUFfYzVpOUZFUXJBaVBtLTNyQnMwcDZuYWl5NWRUeGRmSWp4Y0YtdzBrSzY1YUVQWXFBRUFaU3ZYWmtHMzE4dFVrOUh2dXVCSGNaUkt4OHFqSERGOUtJLWZtbkJHU2JmaG5JeWdMbDN1WC1LbWl5NlI3Vkk3MXlFaHZFOC1obWxBX2FnbW9SdTF3WUQ1MWZkSkJaLVJkVFQzSHo1anFOYUlSVWxWeGViZG1tcE0?oc=5"
-            },
-            {
-                "title": "玉渊潭丨莫愁千里路，自有到来风 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyNWtQcnN4bkttZU1DY0dzczJwRXJHVlZHNE9heXVaOW9xV3JYUGlrRWpoYU05cVNoRy1qekpEY000SGFJV0JjbFJGaS1UX0I4SEE?oc=5"
             },
             {
                 "title": "习近平会见越共中央总书记特使黎怀忠 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "反腐 是习近平欺骗中国人民的政治工具(图)",
+                "title": "比亚迪李慧预告全新腾势 Z9GT：全新“峡湾绿”外观色",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-05",
+                "url": "https://www.ithome.com/0/919/378.htm"
+            },
+            {
+                "title": "与圣祖康熙并肩而坐，文殊菩萨的智慧化身(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-04",
-                "url": "https://www.secretchina.com/news/gb/2026/02/05/1094556.html"
+                "date": "2026-02-05",
+                "url": "https://www.secretchina.com/news/gb/2026/02/05/1094553.html"
             },
             {
-                "title": "盖茨严词驳斥爱泼斯坦指控：所谓“性病”纯属诽谤，现在就是十分后悔认识他",
+                "title": "欧洲多国频现“不明无人机”，警方披露实为比利时工程师自造三角翼飞机",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-05",
+                "url": "https://www.ithome.com/0/919/352.htm"
+            },
+            {
+                "title": "8点1氪丨微信公关总监回应屏蔽元宝链接；vivo确认立项Vlog相机，对标大疆；贾国龙微博解禁，首发内容是速冻西兰花科普视频",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3669647311774594"
+            },
+            {
+                "title": "IT早报 0205：微信屏蔽元宝链接；马斯克成全球首位身家超 8000 亿美元者；小红书估值升至 500 亿美元；英特尔 CEO 称存储芯片短缺或持续至 2028 年...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/919/304.htm"
-            },
-            {
-                "title": "这 10 个春节特别系列凝结了对马年的美好祝愿，同时它们也足够的实用好用",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-02-04",
-                "url": "https://www.toodaylab.com/83907"
-            },
-            {
-                "title": "德州仪器宣布约 75 亿美元收购芯科科技，后者股价暴涨 50%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/919/295.htm"
-            },
-            {
-                "title": "习近平先后与普京、特朗普通话",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-04",
-                "url": "https://www.dw.com/zh/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E5%90%8E%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D/a-75803152"
+                "url": "https://www.ithome.com/0/919/324.htm"
             },
             {
                 "title": "中华人民共和国外交部 - mfa.gov.cn",
@@ -154,22 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
             },
             {
-                "title": "2026年2月4日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN1prRnhSc3pCWTc4Mml6TklZZGdfc3NETzF5QmxQS281c2NLWWppRW5kcWo3RU5lZ0lfMFh3N01pRVhFLUVwNGhJQ1RlWk5HZFltTGpkMWpuTGNoSzdzbUlwd3d4QnhTc09Fcm5JdUFVcnJmVGc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
+            },
+            {
+                "title": "2026年地方两会热点话题观察：开局之年听“新”声 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVDZ1Sjd0aTB6UnhFSXIzOTJWRVlXbXZSTHFfWmlRR0JaWDhoVGxSdnpRYno2cWc3MlJOZHlVSXRZR2FKVEZzclhxNGZYd29JNHc?oc=5"
             },
             {
                 "title": "图片 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-05",
                 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3Y0dUFfYzVpOUZFUXJBaVBtLTNyQnMwcDZuYWl5NWRUeGRmSWp4Y0YtdzBrSzY1YUVQWXFBRUFaU3ZYWmtHMzE4dFVrOUh2dXVCSGNaUkt4OHFqSERGOUtJLWZtbkJHU2JmaG5JeWdMbDN1WC1LbWl5NlI3Vkk3MXlFaHZFOC1obWxBX2FnbW9SdTF3WUQ1MWZkSkJaLVJkVFQzSHo1anFOYUlSVWxWeGViZG1tcE0?oc=5"
-            },
-            {
-                "title": "玉渊潭丨莫愁千里路，自有到来风 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyNWtQcnN4bkttZU1DY0dzczJwRXJHVlZHNE9heXVaOW9xV3JYUGlrRWpoYU05cVNoRy1qekpEY000SGFJV0JjbFJGaS1UX0I4SEE?oc=5"
             },
             {
                 "title": "习近平会见越共中央总书记特使黎怀忠 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-05T18:43:32.771478+00:00"
+    "last_updated": "2026-02-06T01:51:37.650298+00:00"
 }
