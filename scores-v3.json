@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "西门子收购 Canopus：引入“AI 显微镜”技术，让造芯更准、更快",
+                "title": "涉及脑机接口技术等，中国提出多项 APEC 合作项目",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/375.htm"
+                "url": "https://www.ithome.com/0/919/508.htm"
             },
             {
-                "title": "私募：信心指数与仓位齐升",
+                "title": "全球首款 2nm 芯片：三星 Exynos 2600 光追跑分曝光，比第五代骁龙 8 至尊版芯片高约 10~15%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-05",
+                "url": "https://www.ithome.com/0/919/451.htm"
+            },
+            {
+                "title": "财政部等三部门发布海南自由贸易港岛内居民消费的进境商品“零关税”政策",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-05",
-                "url": "https://36kr.com/newsflashes/3669684625531783"
+                "url": "https://36kr.com/newsflashes/3669860859077513"
             },
             {
-                "title": "CNET 评测 35 款 2025 美国上市手机，苹果 iPhone 17 Pro Max 成续航之王",
+                "title": "英飞凌前移 AI 领域业务投资，相关收入有望在 3 年内增长 10 倍",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/343.htm"
+                "url": "https://www.ithome.com/0/919/427.htm"
             },
             {
-                "title": "8点1氪丨微信公关总监回应屏蔽元宝链接；vivo确认立项Vlog相机，对标大疆；贾国龙微博解禁，首发内容是速冻西兰花科普视频",
+                "title": "玻璃基板“黑灯工厂”投产，实现从基板到封装全链布局，「巽霖科技」完成近亿元A轮融资 | 36氪首发",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-05",
-                "url": "https://36kr.com/p/3669647311774594"
-            },
-            {
-                "title": "OpenAI 奥尔特曼批 Anthropic 超级碗广告“撒谎”，并揭其老底",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/919/336.htm"
+                "url": "https://36kr.com/p/3669814793266049"
             }
         ],
         "mil": [
+            {
+                "title": "集福、停车、当导游……一副眼镜，正在打开AI的「生活副本」",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3668809452905092"
+            },
+            {
+                "title": "前华为、OPPO、腾讯的技术骨干，给外国孩子做了款会讲故事的AI“小房子”｜36氪专访",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3668851937960832"
+            },
             {
                 "title": "欧洲多国频现“不明无人机”，警方披露实为比利时工程师自造三角翼飞机",
                 "source": "NewsAPI / Ithome.com",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3668551333995401"
             },
             {
-                "title": "专家驳斥欧盟：IRIS² 卫星系统未发一星，何谈“投入使用”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/918/980.htm"
-            },
-            {
-                "title": "沉船未亡者刺美国总统(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-04",
-                "url": "https://www.secretchina.com/news/gb/2026/02/04/1093169.html"
-            },
-            {
-                "title": "中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2017-12-17",
-                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
-            },
-            {
                 "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
             },
             {
-                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
+                "title": "2026年2月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4QnUxcTROUzRtX1NwUFUyUVk0RjZCR3lEVDNGZmxfWHBNSmppcFljNkdEeWFUS2w2c3d3YTZsSVVXUmRhcnJMQ3BDQzZWRVJDYnBwbTl1Z2JNTHZfeUpsaXBVTzdLVkZrakhkenNFX255M1Q5Umc?oc=5"
+            },
+            {
+                "title": "​王毅同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ES3ljV2plVzRUc21GMWF4NzRqdkQwZ3R1NzdxX1dnUGU5SG9oZHZUdm5CSk1tWXQyV2swcmd3VUVIcU5kczB0N3pOcjlGT29Va2ZzZVA5QTVXVUtRZjNTNkpXODd4cEk2NzRJR01B?oc=5"
             },
             {
                 "title": "2026年地方两会热点话题观察：开局之年听“新”声 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "玻璃基板“黑灯工厂”投产，实现从基板到封装全链布局，「巽霖科技」完成近亿元A轮融资 | 36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3669814793266049"
+            },
+            {
+                "title": "集福、停车、当导游……一副眼镜，正在打开AI的「生活副本」",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3668809452905092"
+            },
+            {
+                "title": "前华为、OPPO、腾讯的技术骨干，给外国孩子做了款会讲故事的AI“小房子”｜36氪专访",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/p/3668851937960832"
+            },
+            {
                 "title": "比亚迪李慧预告全新腾势 Z9GT：全新“峡湾绿”外观色",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-05",
@@ -124,40 +142,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/02/05/1094553.html"
             },
             {
-                "title": "欧洲多国频现“不明无人机”，警方披露实为比利时工程师自造三角翼飞机",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/352.htm"
-            },
-            {
-                "title": "8点1氪丨微信公关总监回应屏蔽元宝链接；vivo确认立项Vlog相机，对标大疆；贾国龙微博解禁，首发内容是速冻西兰花科普视频",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-05",
-                "url": "https://36kr.com/p/3669647311774594"
-            },
-            {
-                "title": "IT早报 0205：微信屏蔽元宝链接；马斯克成全球首位身家超 8000 亿美元者；小红书估值升至 500 亿美元；英特尔 CEO 称存储芯片短缺或持续至 2028 年...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-04",
-                "url": "https://www.ithome.com/0/919/324.htm"
-            },
-            {
-                "title": "中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2017-12-17",
-                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
-            },
-            {
                 "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-04",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
             },
             {
-                "title": "习近平同俄罗斯总统普京举行视频会晤 - mfa.gov.cn",
+                "title": "2026年2月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xek5ISjJfUG5TRm5HOUpGUWc4WUNCTUpoMkgxTlZXWDNRT3VIRzVxdGZXYkdlMGJjSzhoQXltM1l0a0pzQTZmR2U1d1NXTzhMVnRnYlRzbkd3MjJQLVU2WEQwd3IxbS04Y0dJ?oc=5"
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4QnUxcTROUzRtX1NwUFUyUVk0RjZCR3lEVDNGZmxfWHBNSmppcFljNkdEeWFUS2w2c3d3YTZsSVVXUmRhcnJMQ3BDQzZWRVJDYnBwbTl1Z2JNTHZfeUpsaXBVTzdLVkZrakhkenNFX255M1Q5Umc?oc=5"
+            },
+            {
+                "title": "​王毅同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ES3ljV2plVzRUc21GMWF4NzRqdkQwZ3R1NzdxX1dnUGU5SG9oZHZUdm5CSk1tWXQyV2swcmd3VUVIcU5kczB0N3pOcjlGT29Va2ZzZVA5QTVXVUtRZjNTNkpXODd4cEk2NzRJR01B?oc=5"
             },
             {
                 "title": "2026年地方两会热点话题观察：开局之年听“新”声 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-06T01:51:37.650298+00:00"
+    "last_updated": "2026-02-06T06:51:13.847247+00:00"
 }
