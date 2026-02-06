@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "涉及脑机接口技术等，中国提出多项 APEC 合作项目",
+                "title": "2025 年汽车制造业引领我国机械工业经济，增速达 11.5%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/508.htm"
+                "url": "https://www.ithome.com/0/919/637.htm"
             },
             {
-                "title": "全球首款 2nm 芯片：三星 Exynos 2600 光追跑分曝光，比第五代骁龙 8 至尊版芯片高约 10~15%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/451.htm"
-            },
-            {
-                "title": "财政部等三部门发布海南自由贸易港岛内居民消费的进境商品“零关税”政策",
+                "title": "氪星晚报｜美团：拟7.17亿美元收购叮咚；米兰冬奥基于阿里千问打造官方大模型；小米汽车将辅助驾驶安全里程门槛降至300公里",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-05",
-                "url": "https://36kr.com/newsflashes/3669860859077513"
+                "url": "https://36kr.com/p/3670220575826824"
             },
             {
-                "title": "英飞凌前移 AI 领域业务投资，相关收入有望在 3 年内增长 10 倍",
+                "title": "中消协发布 2025 投诉热点：汽车 4S 店倒闭致承诺无法兑现、旅游出行平台退改难等在列",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/427.htm"
+                "url": "https://www.ithome.com/0/919/592.htm"
             },
             {
-                "title": "玻璃基板“黑灯工厂”投产，实现从基板到封装全链布局，「巽霖科技」完成近亿元A轮融资 | 36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "习近平先后与普京、特朗普通话 谈及台湾等多项议题",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-02-05",
-                "url": "https://36kr.com/p/3669814793266049"
+                "url": "https://www.dw.com/zh/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E5%90%8E%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D-%E8%B0%88%E5%8F%8A%E5%8F%B0%E6%B9%BE%E7%AD%89%E5%A4%9A%E9%A1%B9%E8%AE%AE%E9%A2%98/a-75803152"
+            },
+            {
+                "title": "iQOO 15 Ultra 发布了，iQOO 说它是“行业首款性能 Ultra”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-02-05",
+                "url": "https://www.toodaylab.com/83908"
             }
         ],
         "mil": [
+            {
+                "title": "涉嫌为中国从事间谍 四人在法国被捕",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-05",
+                "url": "https://www.dw.com/zh/%E6%B6%89%E5%AB%8C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E9%97%B4%E8%B0%8D-%E5%9B%9B%E4%BA%BA%E5%9C%A8%E6%B3%95%E5%9B%BD%E8%A2%AB%E6%8D%95/a-75815561"
+            },
+            {
+                "title": "倍轻松：实际控制人马学军因涉嫌操纵证券市场被中国证监会立案",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-05",
+                "url": "https://36kr.com/newsflashes/3670256571753347"
+            },
             {
                 "title": "集福、停车、当导游……一副眼镜，正在打开AI的「生活副本」",
                 "source": "NewsAPI / 36kr.com",
@@ -62,22 +74,10 @@
                 "url": "https://www.ithome.com/0/919/352.htm"
             },
             {
-                "title": "8点1氪丨微信公关总监回应屏蔽元宝链接；vivo确认立项Vlog相机，对标大疆；贾国龙微博解禁，首发内容是速冻西兰花科普视频",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-05",
-                "url": "https://36kr.com/p/3669647311774594"
-            },
-            {
-                "title": "百亿美金蓝海，国产“动力+智控”如何切入价值高地？｜OpenTalk回顾",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-04",
-                "url": "https://36kr.com/p/3668551333995401"
-            },
-            {
-                "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
                 "title": "2026年2月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -98,54 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVDZ1Sjd0aTB6UnhFSXIzOTJWRVlXbXZSTHFfWmlRR0JaWDhoVGxSdnpRYno2cWc3MlJOZHlVSXRZR2FKVEZzclhxNGZYd29JNHc?oc=5"
             },
             {
-                "title": "图片 - 中国军网",
+                "title": "【讲习所·中国与世界】习近平：让中乌友谊之树愈加枝繁叶茂 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3Y0dUFfYzVpOUZFUXJBaVBtLTNyQnMwcDZuYWl5NWRUeGRmSWp4Y0YtdzBrSzY1YUVQWXFBRUFaU3ZYWmtHMzE4dFVrOUh2dXVCSGNaUkt4OHFqSERGOUtJLWZtbkJHU2JmaG5JeWdMbDN1WC1LbWl5NlI3Vkk3MXlFaHZFOC1obWxBX2FnbW9SdTF3WUQ1MWZkSkJaLVJkVFQzSHo1anFOYUlSVWxWeGViZG1tcE0?oc=5"
+                "date": "2026-02-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55U1ZFQ0loU3AxaU1HTTd0blhvR0IwREhOd0gwcWM2TjRoaGduLWJuX0pGVk1jOGRVdDhtQ3hRRnBuQlpPSldiZmpoZVVqUWc4MEE?oc=5"
             },
             {
-                "title": "习近平会见越共中央总书记特使黎怀忠 - 中国军网",
+                "title": "经纬线·写进中央一号文件的“菜篮子”，如何守护热气腾腾的中国？ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tMjNJWWxHTWthSDVjS183QjNSZzdYUmtqLXNNbVFyWXBnM3FfV21ueTVJeFpKRm4ya29WMkNvNFRxMmVQaW5vLWlDeHdsY3ozWUE?oc=5"
+                "date": "2026-02-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UcmRtelFFc0NEY0c2bm5QanhQUkRUVFU3NXhMSm9PMExyX2VTS3VuQlNGQmtIZWFBX2dxcGxyT1dUQjJDbmdyX3l3Z1lqNnpNeUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "玻璃基板“黑灯工厂”投产，实现从基板到封装全链布局，「巽霖科技」完成近亿元A轮融资 | 36氪首发",
+                "title": "特朗普看大豆 习近平讲台湾",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-05",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8B%E5%A4%A7%E8%B1%86-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%B2%E5%8F%B0%E6%B9%BE/a-75817353"
+            },
+            {
+                "title": "年货主理人，涌入山姆「一键过年」",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-05",
-                "url": "https://36kr.com/p/3669814793266049"
+                "url": "https://36kr.com/p/3670334700839560"
             },
             {
-                "title": "集福、停车、当导游……一副眼镜，正在打开AI的「生活副本」",
+                "title": "氪星晚报｜美团：拟7.17亿美元收购叮咚；米兰冬奥基于阿里千问打造官方大模型；小米汽车将辅助驾驶安全里程门槛降至300公里",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-05",
-                "url": "https://36kr.com/p/3668809452905092"
+                "url": "https://36kr.com/p/3670220575826824"
             },
             {
-                "title": "前华为、OPPO、腾讯的技术骨干，给外国孩子做了款会讲故事的AI“小房子”｜36氪专访",
+                "title": "叮咚买菜被美团收购， 即时零售进入巨头争战期",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-05",
-                "url": "https://36kr.com/p/3668851937960832"
+                "url": "https://36kr.com/p/3670237954646914"
             },
             {
-                "title": "比亚迪李慧预告全新腾势 Z9GT：全新“峡湾绿”外观色",
-                "source": "NewsAPI / Ithome.com",
+                "title": "习近平先后与普京、特朗普通话 谈及台湾等多项议题",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/378.htm"
+                "url": "https://www.dw.com/zh/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%88%E5%90%8E%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D-%E8%B0%88%E5%8F%8A%E5%8F%B0%E6%B9%BE%E7%AD%89%E5%A4%9A%E9%A1%B9%E8%AE%AE%E9%A2%98/a-75803152"
             },
             {
-                "title": "与圣祖康熙并肩而坐，文殊菩萨的智慧化身(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-05",
-                "url": "https://www.secretchina.com/news/gb/2026/02/05/1094553.html"
-            },
-            {
-                "title": "习近平同美国总统特朗普通电话 - mfa.gov.cn",
+                "title": "中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JSm00RHhtZGF0dnZPSzA0bDJZWi1fV2lZZkctclNtS1JMc3M0dldVZ19lQnBhYlB6NzRZV3RsQU5XOS1HRkMtZWJUdXhNVEZSRTFYQl8yS2NJQkVpTHI5S3NHUG9UX1FKd2Fj?oc=5"
+                "date": "2017-12-17",
+                "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB4Smp4cFY1SmZjWkR0c3k4Q09mUjBCSWozWURzYUNJU0l4dVE5VVQ4Y0Z6N3ZwVDJsTjE0?oc=5"
             },
             {
                 "title": "2026年2月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVDZ1Sjd0aTB6UnhFSXIzOTJWRVlXbXZSTHFfWmlRR0JaWDhoVGxSdnpRYno2cWc3MlJOZHlVSXRZR2FKVEZzclhxNGZYd29JNHc?oc=5"
             },
             {
-                "title": "图片 - 中国军网",
+                "title": "【讲习所·中国与世界】习近平：让中乌友谊之树愈加枝繁叶茂 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3Y0dUFfYzVpOUZFUXJBaVBtLTNyQnMwcDZuYWl5NWRUeGRmSWp4Y0YtdzBrSzY1YUVQWXFBRUFaU3ZYWmtHMzE4dFVrOUh2dXVCSGNaUkt4OHFqSERGOUtJLWZtbkJHU2JmaG5JeWdMbDN1WC1LbWl5NlI3Vkk3MXlFaHZFOC1obWxBX2FnbW9SdTF3WUQ1MWZkSkJaLVJkVFQzSHo1anFOYUlSVWxWeGViZG1tcE0?oc=5"
+                "date": "2026-02-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55U1ZFQ0loU3AxaU1HTTd0blhvR0IwREhOd0gwcWM2TjRoaGduLWJuX0pGVk1jOGRVdDhtQ3hRRnBuQlpPSldiZmpoZVVqUWc4MEE?oc=5"
             },
             {
-                "title": "习近平会见越共中央总书记特使黎怀忠 - 中国军网",
+                "title": "经纬线·写进中央一号文件的“菜篮子”，如何守护热气腾腾的中国？ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tMjNJWWxHTWthSDVjS183QjNSZzdYUmtqLXNNbVFyWXBnM3FfV21ueTVJeFpKRm4ya29WMkNvNFRxMmVQaW5vLWlDeHdsY3ozWUE?oc=5"
+                "date": "2026-02-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UcmRtelFFc0NEY0c2bm5QanhQUkRUVFU3NXhMSm9PMExyX2VTS3VuQlNGQmtIZWFBX2dxcGxyT1dUQjJDbmdyX3l3Z1lqNnpNeUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-06T06:51:13.847247+00:00"
+    "last_updated": "2026-02-06T12:53:46.875487+00:00"
 }
