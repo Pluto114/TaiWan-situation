@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "媒体：欧盟加强管控第三国投资港口 意指中国",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-06",
+                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E6%AC%A7%E7%9B%9F%E5%8A%A0%E5%BC%BA%E7%AE%A1%E6%8E%A7%E7%AC%AC%E4%B8%89%E5%9B%BD%E6%8A%95%E8%B5%84%E6%B8%AF%E5%8F%A3-%E6%84%8F%E6%8C%87%E4%B8%AD%E5%9B%BD/a-75840964"
+            },
+            {
+                "title": "【CDT报告汇】人权观察2026报告：中国人权空间持续收紧，当局有计划地剥夺言论、结社、集会和宗教自由权（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-02-06",
+                "url": "https://chinadigitaltimes.net/chinese/725015.html"
+            },
+            {
                 "title": "AI洪流先漫过短剧，再浸入游戏｜2026前瞻",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-06",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-06",
                 "url": "https://www.ithome.com/0/919/801.htm"
-            },
-            {
-                "title": "BCN 综研：“中国系”厂商将掌握 6 成日本电视市场",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-06",
-                "url": "https://www.ithome.com/0/919/762.htm"
-            },
-            {
-                "title": "女鞋借设计走向国际，羽绒服用科技回应寒冬｜世研消费指数品牌榜Vol.120",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-06",
-                "url": "https://36kr.com/p/3671222267667079"
             }
         ],
         "mil": [
+            {
+                "title": "媒体：欧盟加强管控第三国投资港口 意指中国",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-06",
+                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E6%AC%A7%E7%9B%9F%E5%8A%A0%E5%BC%BA%E7%AE%A1%E6%8E%A7%E7%AC%AC%E4%B8%89%E5%9B%BD%E6%8A%95%E8%B5%84%E6%B8%AF%E5%8F%A3-%E6%84%8F%E6%8C%87%E4%B8%AD%E5%9B%BD/a-75840964"
+            },
             {
                 "title": "泰军导弹炸出“上海公安局” 诈骗犯知道中国人怕警察(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,34 +74,22 @@
                 "url": "https://www.ithome.com/0/919/683.htm"
             },
             {
-                "title": "IT早报 0206：胡润中国 500 强发布台积电、腾讯、字节前三；我国网民规模达 11.25 亿人；华为马年新春贺岁手机电影《木马》上映；小米辟谣 SU7 Ultra 专业团队解散...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/674.htm"
-            },
-            {
-                "title": "2026年2月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4QnUxcTROUzRtX1NwUFUyUVk0RjZCR3lEVDNGZmxfWHBNSmppcFljNkdEeWFUS2w2c3d3YTZsSVVXUmRhcnJMQ3BDQzZWRVJDYnBwbTl1Z2JNTHZfeUpsaXBVTzdLVkZrakhkenNFX255M1Q5Umc?oc=5"
-            },
-            {
-                "title": "​王毅同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯会谈 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ES3ljV2plVzRUc21GMWF4NzRqdkQwZ3R1NzdxX1dnUGU5SG9oZHZUdm5CSk1tWXQyV2swcmd3VUVIcU5kczB0N3pOcjlGT29Va2ZzZVA5QTVXVUtRZjNTNkpXODd4cEk2NzRJR01B?oc=5"
-            },
-            {
                 "title": "2026年2月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-06",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01QS1pN2dsQ0U4UlM0aURQUG0xNFdHRkx4dWVNdUVvWkYyNVdwUWpqSTd6OTE1Zm1uY0stM0NYay02SmdSRTB2MF9ZSDlTczVyT21vSW9IODJBWU9PUEt2OXFJczlMb096QzR1RVdNSGp3T0NnUkE?oc=5"
             },
             {
-                "title": "2026年2月6日解放军报第01版：要闻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+                "title": "外交部举行2026年新年招待会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSW9ROUdfeFF4blljaUkxdVYzQnROc3dRb3pMVjdOZzFkclEtY1VNc19yUG9NN25vNFZTQ3pTOG1IT3FTa2tZZVVyN1U3OUxZRnpkYnQzaUFzLXM4UjZzdGJTQXFMTWtxTTEyMER3?oc=5"
+            },
+            {
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "2026年地方两会热点话题观察：开局之年听“新”声 - 中国军网",
@@ -104,54 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVDZ1Sjd0aTB6UnhFSXIzOTJWRVlXbXZSTHFfWmlRR0JaWDhoVGxSdnpRYno2cWc3MlJOZHlVSXRZR2FKVEZzclhxNGZYd29JNHc?oc=5"
             },
             {
-                "title": "多国密集演练寒区作战 - 中国军网",
+                "title": "外交部回应网络热门话题“成为中国人” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-06",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkJCbTc2WWdnaTRoM1lNSVBxOEpTMWFoV09uQXJoY0tyX1BVVkdYQWw1Y2h3R2xFRHRxUEt4aFQ4MDBlRnhyazJGakdaeFVjaHVnc2k2Sm45QzlWbzZ4MWR4dUFmSFZfQzdnMUk0eEhSV0JNN1RiX2llVEZZY3Jad0VlZzgtUUNNLVItZTVBVXJRSnFSSDl6VkhPNzVVcklHWXhoNF9QZUd4bzZ1V0RFa0pTY1NpWHM?oc=5"
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTRkNGQzQ2lENlZ0NzJVZnAxWVdpUW1ZeldJRk5RY2xUSkJzMGxtRnRyRUROYW9ET1l1MVFBNTk2ZEhjMV9JbHNqbllQSlpxZGMyeTRCQnNHNXZPbHhudW5Pam1nczItUzVhVjhFQXNuQmh5d25hQmNzUm4xLWJQckU5LXJIY0xUWUF6THBwcTJiYkNMWmlpWm93UmFBdDkxRDl5VmZHS1VUVGthdmRFam9R?oc=5"
+            },
+            {
+                "title": "南部战区新闻发言人发表谈话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QWFliUjRnMGkxZ1gzVmc0MGhYVjNydVpBczcxVDBLZXFWQ252VEloYTdQS0h2ZEJEWU9aS21RNW1hV0RVU2hTTjFB?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "AI洪流先漫过短剧，再浸入游戏｜2026前瞻",
+                "title": "芯碁微装港股IPO获中国证监会备案",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-06",
-                "url": "https://36kr.com/p/3671432727044996"
+                "url": "https://36kr.com/newsflashes/3671800654930821"
             },
             {
-                "title": "市场监管总局公布 5 起 AI 领域不正当竞争典型案例：借 ChatGPT、DeepSeek 等“搭便车”",
+                "title": "因 Meta 长期拖延为未成年用户提供安全保护，美参议员集体质问扎克伯格",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-06",
-                "url": "https://www.ithome.com/0/919/812.htm"
+                "url": "https://www.ithome.com/0/919/931.htm"
             },
             {
-                "title": "Switch 2 也能玩实况足球：《eFootball》推出特供版“Kick-Off”，主打离线玩法",
-                "source": "NewsAPI / Ithome.com",
+                "title": "遇麻烦主动求和 习再提台湾川普“打哈哈”糊弄(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-06",
-                "url": "https://www.ithome.com/0/919/797.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/02/06/1094639.html"
             },
             {
-                "title": "​主火炬台、领奖台……即将开幕的 2026 年米兰科尔蒂纳冬奥会还有这些设计值得关注",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "山东德州惊现“少年起义” 戒网瘾学校被怒砸(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-06",
-                "url": "https://www.toodaylab.com/83910"
+                "url": "https://www.secretchina.com/news/gb/2026/02/06/1094636.html"
             },
             {
-                "title": "女鞋借设计走向国际，羽绒服用科技回应寒冬｜世研消费指数品牌榜Vol.120",
+                "title": "一家“上天下海”的科技公司，将机器人请上台办了个演唱会｜最前线",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-06",
-                "url": "https://36kr.com/p/3671222267667079"
-            },
-            {
-                "title": "2026年2月5日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4QnUxcTROUzRtX1NwUFUyUVk0RjZCR3lEVDNGZmxfWHBNSmppcFljNkdEeWFUS2w2c3d3YTZsSVVXUmRhcnJMQ3BDQzZWRVJDYnBwbTl1Z2JNTHZfeUpsaXBVTzdLVkZrakhkenNFX255M1Q5Umc?oc=5"
-            },
-            {
-                "title": "​王毅同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯会谈 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ES3ljV2plVzRUc21GMWF4NzRqdkQwZ3R1NzdxX1dnUGU5SG9oZHZUdm5CSk1tWXQyV2swcmd3VUVIcU5kczB0N3pOcjlGT29Va2ZzZVA5QTVXVUtRZjNTNkpXODd4cEk2NzRJR01B?oc=5"
+                "url": "https://36kr.com/p/3671453570163592"
             },
             {
                 "title": "2026年2月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01QS1pN2dsQ0U4UlM0aURQUG0xNFdHRkx4dWVNdUVvWkYyNVdwUWpqSTd6OTE1Zm1uY0stM0NYay02SmdSRTB2MF9ZSDlTczVyT21vSW9IODJBWU9PUEt2OXFJczlMb096QzR1RVdNSGp3T0NnUkE?oc=5"
             },
             {
-                "title": "2026年2月6日解放军报第01版：要闻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+                "title": "外交部举行2026年新年招待会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-05",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSW9ROUdfeFF4blljaUkxdVYzQnROc3dRb3pMVjdOZzFkclEtY1VNc19yUG9NN25vNFZTQ3pTOG1IT3FTa2tZZVVyN1U3OUxZRnpkYnQzaUFzLXM4UjZzdGJTQXFMTWtxTTEyMER3?oc=5"
+            },
+            {
+                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2005-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
                 "title": "2026年地方两会热点话题观察：开局之年听“新”声 - 中国军网",
@@ -172,13 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVDZ1Sjd0aTB6UnhFSXIzOTJWRVlXbXZSTHFfWmlRR0JaWDhoVGxSdnpRYno2cWc3MlJOZHlVSXRZR2FKVEZzclhxNGZYd29JNHc?oc=5"
             },
             {
-                "title": "多国密集演练寒区作战 - 中国军网",
+                "title": "外交部回应网络热门话题“成为中国人” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-06",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkJCbTc2WWdnaTRoM1lNSVBxOEpTMWFoV09uQXJoY0tyX1BVVkdYQWw1Y2h3R2xFRHRxUEt4aFQ4MDBlRnhyazJGakdaeFVjaHVnc2k2Sm45QzlWbzZ4MWR4dUFmSFZfQzdnMUk0eEhSV0JNN1RiX2llVEZZY3Jad0VlZzgtUUNNLVItZTVBVXJRSnFSSDl6VkhPNzVVcklHWXhoNF9QZUd4bzZ1V0RFa0pTY1NpWHM?oc=5"
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTRkNGQzQ2lENlZ0NzJVZnAxWVdpUW1ZeldJRk5RY2xUSkJzMGxtRnRyRUROYW9ET1l1MVFBNTk2ZEhjMV9JbHNqbllQSlpxZGMyeTRCQnNHNXZPbHhudW5Pam1nczItUzVhVjhFQXNuQmh5d25hQmNzUm4xLWJQckU5LXJIY0xUWUF6THBwcTJiYkNMWmlpWm93UmFBdDkxRDl5VmZHS1VUVGthdmRFam9R?oc=5"
+            },
+            {
+                "title": "南部战区新闻发言人发表谈话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QWFliUjRnMGkxZ1gzVmc0MGhYVjNydVpBczcxVDBLZXFWQ252VEloYTdQS0h2ZEJEWU9aS21RNW1hV0RVU2hTTjFB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-07T06:38:05.625058+00:00"
+    "last_updated": "2026-02-07T12:42:14.488207+00:00"
 }
