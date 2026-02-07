@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "中国与南非签协议 促南非产品免关税",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-06",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E4%B8%8E%E5%8D%97%E9%9D%9E%E7%AD%BE%E5%8D%8F%E8%AE%AE-%E4%BF%83%E5%8D%97%E9%9D%9E%E4%BA%A7%E5%93%81%E5%85%8D%E5%85%B3%E7%A8%8E/a-75847524"
+            },
+            {
+                "title": "德语媒体：“欧洲制造”还是“中国在欧洲制造”？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-06",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0/a-75846715"
+            },
+            {
+                "title": "氪星晚报｜华润三九：2025年净利润34.22亿元，同比增长1.60%；千问App免单上线9小时突破1000万订单",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-06",
+                "url": "https://36kr.com/p/3671836244190083"
+            },
+            {
                 "title": "媒体：欧盟加强管控第三国投资港口 意指中国",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-02-06",
@@ -22,27 +40,27 @@
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-02-06",
                 "url": "https://chinadigitaltimes.net/chinese/725015.html"
-            },
-            {
-                "title": "AI洪流先漫过短剧，再浸入游戏｜2026前瞻",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-06",
-                "url": "https://36kr.com/p/3671432727044996"
-            },
-            {
-                "title": "市场监管总局公布 5 起 AI 领域不正当竞争典型案例：借 ChatGPT、DeepSeek 等“搭便车”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-06",
-                "url": "https://www.ithome.com/0/919/812.htm"
-            },
-            {
-                "title": "美国法院裁定：下载 YouTube 视频制作评论类内容违法",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-06",
-                "url": "https://www.ithome.com/0/919/801.htm"
             }
         ],
         "mil": [
+            {
+                "title": "FBI调查疑似中共关联的地下生物实验室网络(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-06",
+                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094663.html"
+            },
+            {
+                "title": "核军控条约到期 美国推动中俄参与新谈判(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-06",
+                "url": "https://www.secretchina.com/news/gb/2026/02/06/1094656.html"
+            },
+            {
+                "title": "美国南方司令部：海军在东太平洋击毙两名武装毒贩(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-06",
+                "url": "https://www.secretchina.com/news/gb/2026/02/06/1094653.html"
+            },
             {
                 "title": "媒体：欧盟加强管控第三国投资港口 意指中国",
                 "source": "NewsAPI / DW (English)",
@@ -56,34 +74,16 @@
                 "url": "https://www.secretchina.com/news/gb/2026/02/06/1094635.html"
             },
             {
-                "title": "​主火炬台、领奖台……即将开幕的 2026 年米兰科尔蒂纳冬奥会还有这些设计值得关注",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-02-06",
-                "url": "https://www.toodaylab.com/83910"
-            },
-            {
-                "title": "8点1氪丨好想来涉事门店就“误把初中女孩当小偷扣留20分钟”一事致歉；美团拟7.17亿美元收购叮咚，创始人回应；贾跃亭发布人形机器人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-05",
-                "url": "https://36kr.com/p/3671061142037121"
-            },
-            {
-                "title": "史无前例：美国 Artemis II 任务宇航员获准携带 iPhone 等个人设备记录绕月之旅",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-05",
-                "url": "https://www.ithome.com/0/919/683.htm"
-            },
-            {
                 "title": "2026年2月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-06",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01QS1pN2dsQ0U4UlM0aURQUG0xNFdHRkx4dWVNdUVvWkYyNVdwUWpqSTd6OTE1Zm1uY0stM0NYay02SmdSRTB2MF9ZSDlTczVyT21vSW9IODJBWU9PUEt2OXFJczlMb096QzR1RVdNSGp3T0NnUkE?oc=5"
             },
             {
-                "title": "外交部举行2026年新年招待会 - mfa.gov.cn",
+                "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSW9ROUdfeFF4blljaUkxdVYzQnROc3dRb3pMVjdOZzFkclEtY1VNc19yUG9NN25vNFZTQ3pTOG1IT3FTa2tZZVVyN1U3OUxZRnpkYnQzaUFzLXM4UjZzdGJTQXFMTWtxTTEyMER3?oc=5"
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XaTk0aVJmX2l5alpIdGtadXREOTZlM0VtQjlqc3BiUU9xNFFpQXYwTVp3b1hjalRXY0U4SVo5eThjYUxDaVFtNGNGeWh1RmZDZmhyU2FsMkVYdw?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "芯碁微装港股IPO获中国证监会备案",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美空前退群 联合国财务近崩溃 盛雪：二战后国际秩序破产(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-06",
-                "url": "https://36kr.com/newsflashes/3671800654930821"
+                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094654.html"
             },
             {
-                "title": "因 Meta 长期拖延为未成年用户提供安全保护，美参议员集体质问扎克伯格",
+                "title": "中国与南非签协议 促南非产品免关税",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-06",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E4%B8%8E%E5%8D%97%E9%9D%9E%E7%AD%BE%E5%8D%8F%E8%AE%AE-%E4%BF%83%E5%8D%97%E9%9D%9E%E4%BA%A7%E5%93%81%E5%85%8D%E5%85%B3%E7%A8%8E/a-75847524"
+            },
+            {
+                "title": "德语媒体：“欧洲制造”还是“中国在欧洲制造”？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-06",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E8%BF%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0/a-75846715"
+            },
+            {
+                "title": "美空前退群 联合国财务近崩溃 盛雪：二战后国际秩序破产(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-06",
+                "url": "https://www.secretchina.com/news/gb/2026/02/06/1094654.html"
+            },
+            {
+                "title": "百万粉丝汽车博主发布小米 SU7 与极氪 007 碰撞测试视频被刑拘：案件今日开庭，当庭否认指控",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-06",
-                "url": "https://www.ithome.com/0/919/931.htm"
-            },
-            {
-                "title": "遇麻烦主动求和 习再提台湾川普“打哈哈”糊弄(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-06",
-                "url": "https://www.secretchina.com/news/gb/2026/02/06/1094639.html"
-            },
-            {
-                "title": "山东德州惊现“少年起义” 戒网瘾学校被怒砸(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-06",
-                "url": "https://www.secretchina.com/news/gb/2026/02/06/1094636.html"
-            },
-            {
-                "title": "一家“上天下海”的科技公司，将机器人请上台办了个演唱会｜最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-06",
-                "url": "https://36kr.com/p/3671453570163592"
+                "url": "https://www.ithome.com/0/919/988.htm"
             },
             {
                 "title": "2026年2月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,10 +148,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01QS1pN2dsQ0U4UlM0aURQUG0xNFdHRkx4dWVNdUVvWkYyNVdwUWpqSTd6OTE1Zm1uY0stM0NYay02SmdSRTB2MF9ZSDlTczVyT21vSW9IODJBWU9PUEt2OXFJczlMb096QzR1RVdNSGp3T0NnUkE?oc=5"
             },
             {
-                "title": "外交部举行2026年新年招待会 - mfa.gov.cn",
+                "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-05",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSW9ROUdfeFF4blljaUkxdVYzQnROc3dRb3pMVjdOZzFkclEtY1VNc19yUG9NN25vNFZTQ3pTOG1IT3FTa2tZZVVyN1U3OUxZRnpkYnQzaUFzLXM4UjZzdGJTQXFMTWtxTTEyMER3?oc=5"
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XaTk0aVJmX2l5alpIdGtadXREOTZlM0VtQjlqc3BiUU9xNFFpQXYwTVp3b1hjalRXY0U4SVo5eThjYUxDaVFtNGNGeWh1RmZDZmhyU2FsMkVYdw?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-07T12:42:14.488207+00:00"
+    "last_updated": "2026-02-07T18:31:29.111053+00:00"
 }
