@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "微醺的马斯克聊嗨了：盛赞中国、预言天上的 AI",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/138.htm"
+            },
+            {
+                "title": "越南制造为什么迅速崛起？东亚模式会缔造下一个经济奇迹吗？",
+                "source": "NewsAPI / Huxiu.com",
+                "date": "2026-02-07",
+                "url": "https://www.huxiu.com/article/4831102.html"
+            },
+            {
+                "title": "谢伦伯格案再次反转 中国最高法推翻死刑判决",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-07",
+                "url": "https://www.dw.com/zh/%E8%B0%A2%E4%BC%A6%E4%BC%AF%E6%A0%BC%E6%A1%88%E5%86%8D%E6%AC%A1%E5%8F%8D%E8%BD%AC-%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E6%8E%A8%E7%BF%BB%E6%AD%BB%E5%88%91%E5%88%A4%E5%86%B3/a-75853396"
+            },
+            {
+                "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-07",
+                "url": "https://36kr.com/newsflashes/3672947337110152"
+            },
+            {
                 "title": "SIA & WSTS：2025 年全球半导体销售额 7917 亿美元，同比增长 25.6%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-07",
                 "url": "https://www.ithome.com/0/920/062.htm"
-            },
-            {
-                "title": "三星、AT&T 推出儿童手机 amiGO Jr. Phone：210 美元，主打家长掌控",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/026.htm"
-            },
-            {
-                "title": "9点1氪丨千问回应“春节30亿免单”页面崩了；英伟达据悉今年或将不推出任何新游戏显卡；董事长被指疑为“骗保”精神病院实控人，爱尔眼科声明",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-07",
-                "url": "https://36kr.com/p/3672535692059273"
-            },
-            {
-                "title": "树莓派 4B 供应链引入中国厂商，8GB 版改为双内存芯片堆叠",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/018.htm"
-            },
-            {
-                "title": "自带对讲机功能的手机：Blackview Xplore 1 发布，天玑 7050 芯片",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/016.htm"
             }
         ],
         "mil": [
+            {
+                "title": "媒体：美国筹备更大规模对台军售 中国警告或致特朗普4月访华“脱轨”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-07",
+                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E7%BE%8E%E5%9B%BD%E7%AD%B9%E5%A4%87%E6%9B%B4%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E6%88%96%E8%87%B4%E7%89%B9%E6%9C%97%E6%99%AE4%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%84%B1%E8%BD%A8/a-75854036"
+            },
+            {
+                "title": "微醺的马斯克聊嗨了：盛赞中国、预言天上的 AI",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/138.htm"
+            },
             {
                 "title": "9点1氪丨千问回应“春节30亿免单”页面崩了；英伟达据悉今年或将不推出任何新游戏显卡；董事长被指疑为“骗保”精神病院实控人，爱尔眼科声明",
                 "source": "NewsAPI / 36kr.com",
@@ -62,24 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/02/07/1094653.html"
             },
             {
-                "title": "习近平有事 台湾反而没事(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-06",
-                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094666.html"
-            },
-            {
-                "title": "FBI调查疑似中共关联的地下生物实验室网络(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-06",
-                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094663.html"
-            },
-            {
-                "title": "2026年2月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-06",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01QS1pN2dsQ0U4UlM0aURQUG0xNFdHRkx4dWVNdUVvWkYyNVdwUWpqSTd6OTE1Zm1uY0stM0NYay02SmdSRTB2MF9ZSDlTczVyT21vSW9IODJBWU9PUEt2OXFJczlMb096QzR1RVdNSGp3T0NnUkE?oc=5"
-            },
-            {
                 "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-07",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+            },
+            {
+                "title": "外交部发言人就巴基斯坦首都伊斯兰堡发生严重爆炸事件答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-08",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmEtUm16TlZ4X1lDV3l4U2IwWW9pMGZfbjdNT004RDZZdGRNb1g2RVh4d3lEbm5LMUh3T2hoX3NHTWxaaFNmeWl1Q0doZnc0dVc4T3otZzhVMEdmR0dCbFFKZ0xIRUJZVkEyc0lCLWpSZkRIcWRnOEk1cmx0SDBBbA?oc=5"
             },
             {
                 "title": "外交部回应网络热门话题“成为中国人” - 中国军网",
@@ -104,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QWFliUjRnMGkxZ1gzVmc0MGhYVjNydVpBczcxVDBLZXFWQ252VEloYTdQS0h2ZEJEWU9aS21RNW1hV0RVU2hTTjFB?oc=5"
             },
             {
-                "title": "【讲习所·中国与世界】习近平：让中乌友谊之树愈加枝繁叶茂 - 中国军网",
+                "title": "新华全媒头条 | 与中国同行就是与机遇同行——新年外交热潮彰显东方大国魅力 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55U1ZFQ0loU3AxaU1HTTd0blhvR0IwREhOd0gwcWM2TjRoaGduLWJuX0pGVk1jOGRVdDhtQ3hRRnBuQlpPSldiZmpoZVVqUWc4MEE?oc=5"
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GX0oxNVhndlhvQXIwb3JMSmtNbDJwUlZJVFlDS0VXaGdFWUlSRVQxdkRqY1gtWGtDUWJncDZyUmNoOW8tMTdLd0hsSVhLZjBiYkE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "遇麻烦主动求和 习再提台湾川普“打哈哈”糊弄(图)",
+                "title": "媒体：美国筹备更大规模对台军售 中国警告或致特朗普4月访华“脱轨”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-07",
+                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E7%BE%8E%E5%9B%BD%E7%AD%B9%E5%A4%87%E6%9B%B4%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E6%88%96%E8%87%B4%E7%89%B9%E6%9C%97%E6%99%AE4%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%84%B1%E8%BD%A8/a-75854036"
+            },
+            {
+                "title": "陈光诚起诉王志安造谣诽谤 日本法院受理10日开庭(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-07",
-                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094639.html"
+                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094684.html"
             },
             {
-                "title": "比以往任何时候更接近量产？特斯拉为纯电跑车 Roadster 申请新商标",
+                "title": "微醺的马斯克聊嗨了：盛赞中国、预言天上的 AI",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/049.htm"
+                "url": "https://www.ithome.com/0/920/138.htm"
             },
             {
-                "title": "马斯克态度反转：SpaceX 推迟火星计划，2027 年进行“无人登月”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/021.htm"
-            },
-            {
-                "title": "9点1氪丨千问回应“春节30亿免单”页面崩了；英伟达据悉今年或将不推出任何新游戏显卡；董事长被指疑为“骗保”精神病院实控人，爱尔眼科声明",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-07",
-                "url": "https://36kr.com/p/3672535692059273"
-            },
-            {
-                "title": "美空前退群 联合国财务近崩溃 盛雪：二战后国际秩序破产(图)",
+                "title": "习近平被原中共官员实名举报：践踏中共党章国法 多次用人失误(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-06",
-                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094654.html"
+                "date": "2026-02-07",
+                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094682.html"
             },
             {
-                "title": "2026年2月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-06",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01QS1pN2dsQ0U4UlM0aURQUG0xNFdHRkx4dWVNdUVvWkYyNVdwUWpqSTd6OTE1Zm1uY0stM0NYay02SmdSRTB2MF9ZSDlTczVyT21vSW9IODJBWU9PUEt2OXFJczlMb096QzR1RVdNSGp3T0NnUkE?oc=5"
+                "title": "Bithumb“手滑”误发价值超 3000 亿元比特币：已追回 99.7%，一度引发抛售潮致价格下跌 17%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/107.htm"
             },
             {
                 "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
@@ -160,6 +154,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
             },
             {
+                "title": "外交部发言人就巴基斯坦首都伊斯兰堡发生严重爆炸事件答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-08",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmEtUm16TlZ4X1lDV3l4U2IwWW9pMGZfbjdNT004RDZZdGRNb1g2RVh4d3lEbm5LMUh3T2hoX3NHTWxaaFNmeWl1Q0doZnc0dVc4T3otZzhVMEdmR0dCbFFKZ0xIRUJZVkEyc0lCLWpSZkRIcWRnOEk1cmx0SDBBbA?oc=5"
+            },
+            {
                 "title": "外交部回应网络热门话题“成为中国人” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-07",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QWFliUjRnMGkxZ1gzVmc0MGhYVjNydVpBczcxVDBLZXFWQ252VEloYTdQS0h2ZEJEWU9aS21RNW1hV0RVU2hTTjFB?oc=5"
             },
             {
-                "title": "【讲习所·中国与世界】习近平：让中乌友谊之树愈加枝繁叶茂 - 中国军网",
+                "title": "新华全媒头条 | 与中国同行就是与机遇同行——新年外交热潮彰显东方大国魅力 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55U1ZFQ0loU3AxaU1HTTd0blhvR0IwREhOd0gwcWM2TjRoaGduLWJuX0pGVk1jOGRVdDhtQ3hRRnBuQlpPSldiZmpoZVVqUWc4MEE?oc=5"
+                "date": "2026-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GX0oxNVhndlhvQXIwb3JMSmtNbDJwUlZJVFlDS0VXaGdFWUlSRVQxdkRqY1gtWGtDUWJncDZyUmNoOW8tMTdLd0hsSVhLZjBiYkE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-08T06:44:55.137385+00:00"
+    "last_updated": "2026-02-08T12:43:02.666253+00:00"
 }
