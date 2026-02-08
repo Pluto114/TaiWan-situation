@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美印公布临时贸易框架 暗指应对中国非市场政策",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-07",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%8D%B0%E5%85%AC%E5%B8%83%E4%B8%B4%E6%97%B6%E8%B4%B8%E6%98%93%E6%A1%86%E6%9E%B6-%E6%9A%97%E6%8C%87%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E9%9D%9E%E5%B8%82%E5%9C%BA%E6%94%BF%E7%AD%96/a-75855183"
+            },
+            {
+                "title": "特斯拉陶琳：拒绝跟风产品“伪需求”，FSD 是纯视觉路线的胜利与中国市场的“最后一块拼图”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/156.htm"
+            },
+            {
+                "title": "货不对板？“特朗普手机”实机与渲染图不符：已抛弃“美国制造”标签且涨价，T1 仅在迈阿密进行“最终组装”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/153.htm"
+            },
+            {
                 "title": "微醺的马斯克聊嗨了：盛赞中国、预言天上的 AI",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-07",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Huxiu.com",
                 "date": "2026-02-07",
                 "url": "https://www.huxiu.com/article/4831102.html"
-            },
-            {
-                "title": "谢伦伯格案再次反转 中国最高法推翻死刑判决",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-07",
-                "url": "https://www.dw.com/zh/%E8%B0%A2%E4%BC%A6%E4%BC%AF%E6%A0%BC%E6%A1%88%E5%86%8D%E6%AC%A1%E5%8F%8D%E8%BD%AC-%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E6%8E%A8%E7%BF%BB%E6%AD%BB%E5%88%91%E5%88%A4%E5%86%B3/a-75853396"
-            },
-            {
-                "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-07",
-                "url": "https://36kr.com/newsflashes/3672947337110152"
-            },
-            {
-                "title": "SIA & WSTS：2025 年全球半导体销售额 7917 亿美元，同比增长 25.6%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/062.htm"
             }
         ],
         "mil": [
+            {
+                "title": "特斯拉陶琳：拒绝跟风产品“伪需求”，FSD 是纯视觉路线的胜利与中国市场的“最后一块拼图”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/156.htm"
+            },
+            {
+                "title": "货不对板？“特朗普手机”实机与渲染图不符：已抛弃“美国制造”标签且涨价，T1 仅在迈阿密进行“最终组装”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/153.htm"
+            },
             {
                 "title": "媒体：美国筹备更大规模对台军售 中国警告或致特朗普4月访华“脱轨”",
                 "source": "NewsAPI / DW (English)",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-07",
                 "url": "https://36kr.com/p/3672535692059273"
-            },
-            {
-                "title": "IT早报 0207：预制菜国标公开征求意见；苹果 50 周年庆典定档 4 月；腾讯回应微信屏蔽千问与元宝分享口令；福特 CEO 试驾小米 SU7 后爱不释手...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-06",
-                "url": "https://www.ithome.com/0/920/007.htm"
-            },
-            {
-                "title": "美国南方司令部：海军在东太平洋击毙两名武装毒贩(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-06",
-                "url": "https://www.secretchina.com/news/gb/2026/02/07/1094653.html"
             },
             {
                 "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "特斯拉陶琳：拒绝跟风产品“伪需求”，FSD 是纯视觉路线的胜利与中国市场的“最后一块拼图”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-07",
+                "url": "https://www.ithome.com/0/920/156.htm"
+            },
+            {
                 "title": "媒体：美国筹备更大规模对台军售 中国警告或致特朗普4月访华“脱轨”",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-02-07",
@@ -134,12 +140,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-07",
                 "url": "https://www.secretchina.com/news/gb/2026/02/07/1094682.html"
-            },
-            {
-                "title": "Bithumb“手滑”误发价值超 3000 亿元比特币：已追回 99.7%，一度引发抛售潮致价格下跌 17%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/107.htm"
             },
             {
                 "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-08T12:43:02.666253+00:00"
+    "last_updated": "2026-02-08T18:32:49.274820+00:00"
 }
