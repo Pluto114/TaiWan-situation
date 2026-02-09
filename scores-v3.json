@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Stellantis 电动化转型遇压力：股价暴跌 24%，还得再烧 260 亿美元",
+                "title": "达尔优推出 AE6 V2 无线鼠标：Nordic 54 系列旗舰主控 + 欧姆龙 1 亿次微动",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-08",
-                "url": "https://www.ithome.com/0/920/212.htm"
+                "url": "https://www.ithome.com/0/920/289.htm"
             },
             {
-                "title": "微软、谷歌砸重金请网红带货 AI，单条内容报价最高可达 10 万美元",
+                "title": "英特尔 CEO 陈立武：Intel 14A 制程计划 2028 年风险试产、2029 年量产，内存短缺 2028 年前不会缓解",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-08",
-                "url": "https://www.ithome.com/0/920/188.htm"
+                "url": "https://www.ithome.com/0/920/284.htm"
             },
             {
-                "title": "美国新车市场两极分化：年收入 10 万美元以下购车者占比降至 37%",
+                "title": "研究报告：中国去年经济增长三分之一来自清洁能源",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-08",
+                "url": "https://www.dw.com/zh/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%E4%B8%AD%E5%9B%BD%E5%8E%BB%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E6%9D%A5%E8%87%AA%E6%B8%85%E6%B4%81%E8%83%BD%E6%BA%90/a-75839783"
+            },
+            {
+                "title": "买 NAS 送终身免费权益：零刻官宣 ME mini / ME Pro 飞牛商业版迅雷权益升级",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/170.htm"
+                "date": "2026-02-08",
+                "url": "https://www.ithome.com/0/920/266.htm"
             },
             {
-                "title": "IT早报 0208：SpaceX 推迟火星计划；天涯社区重启在即；追觅 CEO 俞浩公开致谢小米与雷军；苹果日本直营店停售 iPhone 17 系列机型...",
+                "title": "华为智慧屏 MateTV 获鸿蒙 HarmonyOS 5.1.0.239 升级，应用实验室新增上百款尝鲜应用",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/166.htm"
-            },
-            {
-                "title": "美伊阿曼密谈8小时露曙光 川普警告无协议后果严重(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-07",
-                "url": "https://www.secretchina.com/news/gb/2026/02/08/1094703.html"
+                "date": "2026-02-08",
+                "url": "https://www.ithome.com/0/920/253.htm"
             }
         ],
         "mil": [
+            {
+                "title": "英特尔 CEO 陈立武：Intel 14A 制程计划 2028 年风险试产、2029 年量产，内存短缺 2028 年前不会缓解",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-08",
+                "url": "https://www.ithome.com/0/920/284.htm"
+            },
             {
                 "title": "第二艘国产大邮轮爱达 · 花城号建造工程总进度超 91%，计划年底交付",
                 "source": "NewsAPI / Ithome.com",
@@ -68,22 +74,16 @@
                 "url": "https://www.ithome.com/0/920/153.htm"
             },
             {
-                "title": "媒体：美国筹备更大规模对台军售 中国警告或致特朗普4月访华“脱轨”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-07",
-                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E7%BE%8E%E5%9B%BD%E7%AD%B9%E5%A4%87%E6%9B%B4%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E6%88%96%E8%87%B4%E7%89%B9%E6%9C%97%E6%99%AE4%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%84%B1%E8%BD%A8/a-75854036"
+                "title": "驻外报道 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
+                "title": "驻拉各斯总领事严宇清在总领馆庆祝2026年春节暨中尼建交55周年招待会上的致辞 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JdHQzTTk5SWd0NTBxZ1hwNFAxRGFCSG9UeC1VM3dhVUQxQjlrNTYzVDgtdkQ4ekN0VzNpX2FjYXVVbGRVOW4xUDd3NjBXaGNoUVk3Y3c5Vk8?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-02-09",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3eG9kWFJRMThrVDFVQUtLWUtfVS0xTHFYSWFhQkdmZGJmT3l5SFNhQWItaUxQbEt1cE80SzJUNHN5LXRKOTJkYkFvdW9SU1o4VUhjTUFvVTJ6bEI4dFdNeXRpdmFOLV9abDBHUndxdWY2QXJSbW1YWm1nRQ?oc=5"
             },
             {
                 "title": "外交部发言人就巴基斯坦首都伊斯兰堡发生严重爆炸事件答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -92,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmEtUm16TlZ4X1lDV3l4U2IwWW9pMGZfbjdNT004RDZZdGRNb1g2RVh4d3lEbm5LMUh3T2hoX3NHTWxaaFNmeWl1Q0doZnc0dVc4T3otZzhVMEdmR0dCbFFKZ0xIRUJZVkEyc0lCLWpSZkRIcWRnOEk1cmx0SDBBbA?oc=5"
             },
             {
-                "title": "南部战区新闻发言人发表谈话 - 中国军网",
+                "title": "春节聚餐别贪嘴，谨防神经血管“超负荷” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QWFliUjRnMGkxZ1gzVmc0MGhYVjNydVpBczcxVDBLZXFWQ252VEloYTdQS0h2ZEJEWU9aS21RNW1hV0RVU2hTTjFB?oc=5"
+                "date": "2026-02-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSWR4bzFUMUE4VTNXT3ZNNTA0OFFMWmxuNVhBRUhZZV9fTld2cVFzbld3ajJVODdZUzdTbE5hYnJiYlAzRFpmQUMwR1Y1Tmd0OEE?oc=5"
             },
             {
                 "title": "新华全媒头条 | 与中国同行就是与机遇同行——新年外交热潮彰显东方大国魅力 - 中国军网",
@@ -112,46 +112,46 @@
         ],
         "pol": [
             {
+                "title": "给张又侠算命 2026生死线 台湾最后安全了？(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-08",
+                "url": "https://www.secretchina.com/news/gb/2026/02/08/1094736.html"
+            },
+            {
+                "title": "英特尔 CEO 陈立武：Intel 14A 制程计划 2028 年风险试产、2029 年量产，内存短缺 2028 年前不会缓解",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-08",
+                "url": "https://www.ithome.com/0/920/284.htm"
+            },
+            {
+                "title": "日本周日举行国会选举 高市早苗领导的自民党有望大获全胜",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-08",
+                "url": "https://www.dw.com/zh/%E6%97%A5%E6%9C%AC%E5%91%A8%E6%97%A5%E4%B8%BE%E8%A1%8C%E5%9B%BD%E4%BC%9A%E9%80%89%E4%B8%BE-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%A2%86%E5%AF%BC%E7%9A%84%E8%87%AA%E6%B0%91%E5%85%9A%E6%9C%89%E6%9C%9B%E5%A4%A7%E8%8E%B7%E5%85%A8%E8%83%9C/a-75859970"
+            },
+            {
+                "title": "Circana 报告：三分之一美国消费者不需要设备端 AI 功能",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-08",
+                "url": "https://www.ithome.com/0/920/255.htm"
+            },
+            {
                 "title": "微软、谷歌砸重金请网红带货 AI，单条内容报价最高可达 10 万美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-08",
                 "url": "https://www.ithome.com/0/920/188.htm"
             },
             {
-                "title": "于无声处听惊雷：极权中国正在逼近不可逆的临界点(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-08",
-                "url": "https://www.secretchina.com/news/gb/2026/02/08/1094713.html"
-            },
-            {
-                "title": "王慧文“点将”Clawdbot，我们和一位「中国Clawdbot」创业者聊了聊",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-08",
-                "url": "https://36kr.com/p/3673532021105283"
-            },
-            {
-                "title": "美国新车市场两极分化：年收入 10 万美元以下购车者占比降至 37%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/170.htm"
-            },
-            {
-                "title": "IT早报 0208：SpaceX 推迟火星计划；天涯社区重启在即；追觅 CEO 俞浩公开致谢小米与雷军；苹果日本直营店停售 iPhone 17 系列机型...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-07",
-                "url": "https://www.ithome.com/0/920/166.htm"
-            },
-            {
-                "title": "中央军委举行慰问驻京部队老干部迎新春文艺演出 习近平向全军老同志祝贺新春 - 中华人民共和国国防部",
+                "title": "驻外报道 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JdHQzTTk5SWd0NTBxZ1hwNFAxRGFCSG9UeC1VM3dhVUQxQjlrNTYzVDgtdkQ4ekN0VzNpX2FjYXVVbGRVOW4xUDd3NjBXaGNoUVk3Y3c5Vk8?oc=5"
+                "date": "2021-12-03",
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzWmlLclhjbDZRRDBjYk1wc3c4bjYtWXg5NU9qazktNmFJUVBuZXF0ejhlaFlCMzJvd1dXWVRMTldHU3E3YjVBU1IyRzB4MGtXT3YzeUJGSHNiTU0?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "驻拉各斯总领事严宇清在总领馆庆祝2026年春节暨中尼建交55周年招待会上的致辞 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-02-09",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3eG9kWFJRMThrVDFVQUtLWUtfVS0xTHFYSWFhQkdmZGJmT3l5SFNhQWItaUxQbEt1cE80SzJUNHN5LXRKOTJkYkFvdW9SU1o4VUhjTUFvVTJ6bEI4dFdNeXRpdmFOLV9abDBHUndxdWY2QXJSbW1YWm1nRQ?oc=5"
             },
             {
                 "title": "外交部发言人就巴基斯坦首都伊斯兰堡发生严重爆炸事件答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmEtUm16TlZ4X1lDV3l4U2IwWW9pMGZfbjdNT004RDZZdGRNb1g2RVh4d3lEbm5LMUh3T2hoX3NHTWxaaFNmeWl1Q0doZnc0dVc4T3otZzhVMEdmR0dCbFFKZ0xIRUJZVkEyc0lCLWpSZkRIcWRnOEk1cmx0SDBBbA?oc=5"
             },
             {
-                "title": "南部战区新闻发言人发表谈话 - 中国军网",
+                "title": "春节聚餐别贪嘴，谨防神经血管“超负荷” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QWFliUjRnMGkxZ1gzVmc0MGhYVjNydVpBczcxVDBLZXFWQ252VEloYTdQS0h2ZEJEWU9aS21RNW1hV0RVU2hTTjFB?oc=5"
+                "date": "2026-02-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSWR4bzFUMUE4VTNXT3ZNNTA0OFFMWmxuNVhBRUhZZV9fTld2cVFzbld3ajJVODdZUzdTbE5hYnJiYlAzRFpmQUMwR1Y1Tmd0OEE?oc=5"
             },
             {
                 "title": "新华全媒头条 | 与中国同行就是与机遇同行——新年外交热潮彰显东方大国魅力 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-09T07:01:03.910436+00:00"
+    "last_updated": "2026-02-09T13:03:14.026928+00:00"
 }
