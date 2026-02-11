@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "众院中国特设委员会指比亚迪诉美国政府是企图削弱贸易执法",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-02-10",
+                "url": "https://www.voachinese.com/a/house-select-committee-accuses-byd-of-undermining-us-trade-enforcement-as-chinese-automaker-sues-us-government-over-trump-tariffs-20260210/8112651.html"
+            },
+            {
+                "title": "微软押注高温超导电缆 为AI时代重构数据中心与电网",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549386.htm"
+            },
+            {
+                "title": "EV 踩刹车储能猛加速：AI 数据中心需求激增倒逼北美电池工厂转型，但仍比不上中国进口产品",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-10",
+                "url": "https://www.ithome.com/0/920/937.htm"
+            },
+            {
+                "title": "余茂春评习近平最怕三件事 最多能撑几年？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-10",
+                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094810.html"
+            },
+            {
                 "title": "氪星晚报｜OpenAI将ChatGPT集成至美国防部生成式AI平台；智利国家铜业公司今年投资预算达39亿美元",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-10",
                 "url": "https://36kr.com/p/3677303932445575"
-            },
-            {
-                "title": "ChatGPT 4o大模型备受欢迎 OpenAI为何要淘汰它？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549350.htm"
-            },
-            {
-                "title": "特朗普威胁阻止美加新桥开通 要求加拿大“全额补偿”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549346.htm"
-            },
-            {
-                "title": "国家互联网应急中心预警：新型 RCtea 僵尸网络快速蔓延，我国近万台物联网设备已中招",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-10",
-                "url": "https://www.ithome.com/0/920/883.htm"
-            },
-            {
-                "title": "欧洲人工智能与防务科技创业公司吸引数十亿欧元投资 估值飙升",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549332.htm"
             }
         ],
         "mil": [
+            {
+                "title": "动荡世界中的战略支点：美日关系深化构筑对中共威慑(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-10",
+                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094828.html"
+            },
             {
                 "title": "被马斯克点赞，陈炜鹏希望做“可以玩的抖音”",
                 "source": "NewsAPI / 36kr.com",
@@ -68,16 +74,10 @@
                 "url": "https://www.ithome.com/0/920/800.htm"
             },
             {
-                "title": "文字渲染更专业，阿里千问推出新一代图像生成基础模型 Qwen-Image-2.0",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-10",
-                "url": "https://www.ithome.com/0/920/788.htm"
-            },
-            {
-                "title": "权威发布 - 中华人民共和国国防部",
+                "title": "习近平春节前夕慰问部队向全体人民解放军指战员武警部队官兵军队文职人员预备役人员和民兵致以新春祝福 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rS0FCUzNPbDNHdFVmdS1fbF9kSTdHZXpJVE5vR3E4Yk95dzRSTVZFWFlaUkFGVHptdXBGOWJMRWd5ZTZGbHdYY2d0WlhBN0E5cnB4ZA?oc=5"
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQkd4cEJmRjNZUkVZWnB0LWZHdUp0NEZlV2xzWExvaTNnc3ItR3BLaVN2M0VqT2Nmb19QVU80UktFc1N6TTlTUDN5UlVqeWRTeUtzRXE1bTBRSXU2eWRweUE5NA?oc=5"
             },
             {
                 "title": "树牢亚太共同体目标，开创区域合作新篇章 - mfa.gov.cn",
@@ -98,54 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbVZkaUJPcWpIZTh6bmR4ZXF3VGZXWTFpdm43TzFOYndYTHRlWERhLURQVkc2Rk1KN3h4RG1uSXJ1Q2dzRFVrMWhB?oc=5"
             },
             {
+                "title": "让群众切实感受到正风肃纪反腐就在身边——2025年群众身边不正之风和腐败问题集中整治成效综述 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CYi03NXh5dWR4dGtpNGQwY3FmMUpCeGlZMlNQNXZqUF9pdUY2ZkQzTENOTDB6SlFoNmdkWDY2d0dpa0dwUkxUUjhNREFzLWlDekE?oc=5"
+            },
+            {
                 "title": "“一国两制”下香港维护国家安全的实践白皮书|“一国两制”下香港维护国家安全的实践 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4NTlwbDNpaXVIbWFHSldoODMxeXNscU40M1RTZEp6d2JMemwwemdya3RxTDY1ZEl0ZWRnTFVydFk2MVBxLVFZWkRGZlBuejBudXc?oc=5"
-            },
-            {
-                "title": "长征十号低空演示验证与梦舟飞船最大动压逃逸飞行试验成功实施 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBZ1V0c2Y5MmxLNWg1dEFzVnQ5R0JyVnRkWGl4NkJQNUpvZWZuYUpscjVkcTlWeEc2Z0F6S1FmdU9SU3Z2bm53Xw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "被马斯克点赞，陈炜鹏希望做“可以玩的抖音”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-10",
-                "url": "https://36kr.com/p/3677481316409991"
-            },
-            {
-                "title": "有一个国家精神病院跟牛肉面馆一样多 (图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-10",
-                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094822.html"
-            },
-            {
-                "title": "以色列总理顾问直言 台湾才是真盟友(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-10",
-                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094788.html"
-            },
-            {
-                "title": "氪星晚报｜OpenAI将ChatGPT集成至美国防部生成式AI平台；智利国家铜业公司今年投资预算达39亿美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-10",
-                "url": "https://36kr.com/p/3677303932445575"
-            },
-            {
-                "title": "特朗普威胁阻止美加新桥开通 要求加拿大“全额补偿”",
+                "title": "Google扩展“关于你的结果”功能 允许更便捷地移除敏感个人数据",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549346.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549382.htm"
             },
             {
-                "title": "权威发布 - 中华人民共和国国防部",
+                "title": "从斯塔默的“权力过山车”看英美政治制度之别",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-10",
+                "url": "https://www.ftchinese.com/story/001108974"
+            },
+            {
+                "title": "卡普空《生化危机 5》重制版现身 ESRB 分级机构，有望近期亮相",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-10",
+                "url": "https://www.ithome.com/0/920/935.htm"
+            },
+            {
+                "title": "余茂春评习近平最怕三件事 最多能撑几年？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-10",
+                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094810.html"
+            },
+            {
+                "title": "豆包官宣总台春晚互动玩法，字节 AI 继续猛攻｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-10",
+                "url": "https://36kr.com/p/3677571989283719"
+            },
+            {
+                "title": "习近平春节前夕慰问部队向全体人民解放军指战员武警部队官兵军队文职人员预备役人员和民兵致以新春祝福 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rS0FCUzNPbDNHdFVmdS1fbF9kSTdHZXpJVE5vR3E4Yk95dzRSTVZFWFlaUkFGVHptdXBGOWJMRWd5ZTZGbHdYY2d0WlhBN0E5cnB4ZA?oc=5"
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQkd4cEJmRjNZUkVZWnB0LWZHdUp0NEZlV2xzWExvaTNnc3ItR3BLaVN2M0VqT2Nmb19QVU80UktFc1N6TTlTUDN5UlVqeWRTeUtzRXE1bTBRSXU2eWRweUE5NA?oc=5"
             },
             {
                 "title": "树牢亚太共同体目标，开创区域合作新篇章 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbVZkaUJPcWpIZTh6bmR4ZXF3VGZXWTFpdm43TzFOYndYTHRlWERhLURQVkc2Rk1KN3h4RG1uSXJ1Q2dzRFVrMWhB?oc=5"
             },
             {
+                "title": "让群众切实感受到正风肃纪反腐就在身边——2025年群众身边不正之风和腐败问题集中整治成效综述 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CYi03NXh5dWR4dGtpNGQwY3FmMUpCeGlZMlNQNXZqUF9pdUY2ZkQzTENOTDB6SlFoNmdkWDY2d0dpa0dwUkxUUjhNREFzLWlDekE?oc=5"
+            },
+            {
                 "title": "“一国两制”下香港维护国家安全的实践白皮书|“一国两制”下香港维护国家安全的实践 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4NTlwbDNpaXVIbWFHSldoODMxeXNscU40M1RTZEp6d2JMemwwemdya3RxTDY1ZEl0ZWRnTFVydFk2MVBxLVFZWkRGZlBuejBudXc?oc=5"
-            },
-            {
-                "title": "长征十号低空演示验证与梦舟飞船最大动压逃逸飞行试验成功实施 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBZ1V0c2Y5MmxLNWg1dEFzVnQ5R0JyVnRkWGl4NkJQNUpvZWZuYUpscjVkcTlWeEc2Z0F6S1FmdU9SU3Z2bm53Xw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-11T13:03:43.931684+00:00"
+    "last_updated": "2026-02-11T18:59:11.654877+00:00"
 }
