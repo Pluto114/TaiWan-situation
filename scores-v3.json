@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "文字渲染更专业，阿里千问推出新一代图像生成基础模型 Qwen-Image-2.0",
+                "title": "氪星晚报｜OpenAI将ChatGPT集成至美国防部生成式AI平台；智利国家铜业公司今年投资预算达39亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-10",
+                "url": "https://36kr.com/p/3677303932445575"
+            },
+            {
+                "title": "ChatGPT 4o大模型备受欢迎 OpenAI为何要淘汰它？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549350.htm"
+            },
+            {
+                "title": "特朗普威胁阻止美加新桥开通 要求加拿大“全额补偿”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549346.htm"
+            },
+            {
+                "title": "国家互联网应急中心预警：新型 RCtea 僵尸网络快速蔓延，我国近万台物联网设备已中招",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-10",
-                "url": "https://www.ithome.com/0/920/788.htm"
+                "url": "https://www.ithome.com/0/920/883.htm"
             },
             {
-                "title": "中信信托、工银投资等出资10亿元在杭州成立股权投资合伙企业",
-                "source": "NewsAPI / 36kr.com",
+                "title": "欧洲人工智能与防务科技创业公司吸引数十亿欧元投资 估值飙升",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-10",
-                "url": "https://36kr.com/newsflashes/3676983816807298"
-            },
-            {
-                "title": "印度造芯提速：4 座工厂目标年内投运，剑指 75% 自给率",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-10",
-                "url": "https://www.ithome.com/0/920/667.htm"
-            },
-            {
-                "title": "中科院系创业项目成立半年融资数千万，做CPO、OIO光引擎｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-10",
-                "url": "https://36kr.com/p/3676823728022409"
-            },
-            {
-                "title": "头部具身大脑公司获数亿元融资，多家海外基金加注、曾获阿里投资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-10",
-                "url": "https://36kr.com/p/3675766564987780"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549332.htm"
             }
         ],
         "mil": [
             {
+                "title": "被马斯克点赞，陈炜鹏希望做“可以玩的抖音”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-10",
+                "url": "https://36kr.com/p/3677481316409991"
+            },
+            {
+                "title": "氪星晚报｜OpenAI将ChatGPT集成至美国防部生成式AI平台；智利国家铜业公司今年投资预算达39亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-10",
+                "url": "https://36kr.com/p/3677303932445575"
+            },
+            {
+                "title": "欧洲人工智能与防务科技创业公司吸引数十亿欧元投资 估值飙升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549332.htm"
+            },
+            {
+                "title": "800 元解锁无人机“无上限”飞行？一非法破解团伙获刑",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-10",
+                "url": "https://www.ithome.com/0/920/800.htm"
+            },
+            {
                 "title": "文字渲染更专业，阿里千问推出新一代图像生成基础模型 Qwen-Image-2.0",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-10",
                 "url": "https://www.ithome.com/0/920/788.htm"
-            },
-            {
-                "title": "让中共军队有来无回 台海“无人地狱”很快成真(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-10",
-                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094777.html"
-            },
-            {
-                "title": "头部具身大脑公司获数亿元融资，多家海外基金加注、曾获阿里投资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-10",
-                "url": "https://36kr.com/p/3675766564987780"
-            },
-            {
-                "title": "8点1氪丨南京博物院发布致歉信；自嗨锅关联公司濒临破产；特斯拉售后建议“剩100公里去充电”；小红书正研发视频剪辑类AI产品OpenStoryline",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-10",
-                "url": "https://36kr.com/p/3676732280251264"
-            },
-            {
-                "title": "继美国后，英国情报部门也警告各大学担心来自中国等“敌对国家”的干预",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-02-09",
-                "url": "https://www.voachinese.com/a/uk-joins-u-s-in-warning-universities-of-foreign-interference-citing-china-20260209/8112335.html"
-            },
-            {
-                "title": "2026年2月9日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-09",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqUy12M1VCN193UGFOUjVMdW50UERuOXlYQ0g3NlVseDd4YXhreFgxZGVFTk0zWl96R1NVV0xVcGhhejREcGRhc09KVW1yMlllWW9ZbEZjRnl2dlR5TTRTb1hPOG5iNHV2UWVEM0lmMTJSX1VJM3c?oc=5"
             },
             {
                 "title": "权威发布 - 中华人民共和国国防部",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xd08yaXdsaTY5b2RKMEVUMEtyNWxDczRWQ3VCR2lYRDBBbkFpU1lERmtvU0VaYmV2XzhsZURjU3QtMGJOY19FaU80QWV6Q2tQdk45Yi1RSXFaNkxhaHhVbF9IVzlwV0RNNjZ3S19B?oc=5"
             },
             {
-                "title": "春节聚餐别贪嘴，谨防神经血管“超负荷” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSWR4bzFUMUE4VTNXT3ZNNTA0OFFMWmxuNVhBRUhZZV9fTld2cVFzbld3ajJVODdZUzdTbE5hYnJiYlAzRFpmQUMwR1Y1Tmd0OEE?oc=5"
+                "title": "外交部发言人回应个别国家和机构借黎智英案恶意抹黑香港、干涉中国内政 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWRyTEZGSVhuNUpFYW9Vdkdsa0owMjVLYkJJOVFaSzNraTk3a2tPMndLZEp4QWtMTDhCczQzSDB1WDhNekNRZkNkRHM2WG40ZEtEQmRqTzRYcW1zbzlDLUNJZkdYTm1aTDUtVGpIWmZtbllyQTlYeUppbjZiWXEzVkgtYmFzdl9IZWttTjBRV2Y?oc=5"
             },
             {
                 "title": "八一飞行表演队跨越山海架起友谊桥梁 - 中国军网",
@@ -108,44 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4NTlwbDNpaXVIbWFHSldoODMxeXNscU40M1RTZEp6d2JMemwwemdya3RxTDY1ZEl0ZWRnTFVydFk2MVBxLVFZWkRGZlBuejBudXc?oc=5"
+            },
+            {
+                "title": "长征十号低空演示验证与梦舟飞船最大动压逃逸飞行试验成功实施 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBZ1V0c2Y5MmxLNWg1dEFzVnQ5R0JyVnRkWGl4NkJQNUpvZWZuYUpscjVkcTlWeEc2Z0F6S1FmdU9SU3Z2bm53Xw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "频道社交平台 Discord 宣布将所有账户默认设置为未成年人模式",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-10",
-                "url": "https://www.ithome.com/0/920/798.htm"
-            },
-            {
-                "title": "文字渲染更专业，阿里千问推出新一代图像生成基础模型 Qwen-Image-2.0",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-10",
-                "url": "https://www.ithome.com/0/920/788.htm"
-            },
-            {
-                "title": "字节图像生成模型 Seedream 5.0 上线，对标 Nano Banana Pro",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-10",
-                "url": "https://www.ithome.com/0/920/755.htm"
-            },
-            {
-                "title": "日本政局历史性转折 稳住美日台协作基石(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-10",
-                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094796.html"
-            },
-            {
-                "title": "中科院系创业项目成立半年融资数千万，做CPO、OIO光引擎｜36氪首发",
+                "title": "被马斯克点赞，陈炜鹏希望做“可以玩的抖音”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-10",
-                "url": "https://36kr.com/p/3676823728022409"
+                "url": "https://36kr.com/p/3677481316409991"
             },
             {
-                "title": "2026年2月9日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-09",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqUy12M1VCN193UGFOUjVMdW50UERuOXlYQ0g3NlVseDd4YXhreFgxZGVFTk0zWl96R1NVV0xVcGhhejREcGRhc09KVW1yMlllWW9ZbEZjRnl2dlR5TTRTb1hPOG5iNHV2UWVEM0lmMTJSX1VJM3c?oc=5"
+                "title": "有一个国家精神病院跟牛肉面馆一样多 (图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-10",
+                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094822.html"
+            },
+            {
+                "title": "以色列总理顾问直言 台湾才是真盟友(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-10",
+                "url": "https://www.secretchina.com/news/gb/2026/02/10/1094788.html"
+            },
+            {
+                "title": "氪星晚报｜OpenAI将ChatGPT集成至美国防部生成式AI平台；智利国家铜业公司今年投资预算达39亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-10",
+                "url": "https://36kr.com/p/3677303932445575"
+            },
+            {
+                "title": "特朗普威胁阻止美加新桥开通 要求加拿大“全额补偿”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549346.htm"
             },
             {
                 "title": "权威发布 - 中华人民共和国国防部",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xd08yaXdsaTY5b2RKMEVUMEtyNWxDczRWQ3VCR2lYRDBBbkFpU1lERmtvU0VaYmV2XzhsZURjU3QtMGJOY19FaU80QWV6Q2tQdk45Yi1RSXFaNkxhaHhVbF9IVzlwV0RNNjZ3S19B?oc=5"
             },
             {
-                "title": "春节聚餐别贪嘴，谨防神经血管“超负荷” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSWR4bzFUMUE4VTNXT3ZNNTA0OFFMWmxuNVhBRUhZZV9fTld2cVFzbld3ajJVODdZUzdTbE5hYnJiYlAzRFpmQUMwR1Y1Tmd0OEE?oc=5"
+                "title": "外交部发言人回应个别国家和机构借黎智英案恶意抹黑香港、干涉中国内政 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWRyTEZGSVhuNUpFYW9Vdkdsa0owMjVLYkJJOVFaSzNraTk3a2tPMndLZEp4QWtMTDhCczQzSDB1WDhNekNRZkNkRHM2WG40ZEtEQmRqTzRYcW1zbzlDLUNJZkdYTm1aTDUtVGpIWmZtbllyQTlYeUppbjZiWXEzVkgtYmFzdl9IZWttTjBRV2Y?oc=5"
             },
             {
                 "title": "八一飞行表演队跨越山海架起友谊桥梁 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4NTlwbDNpaXVIbWFHSldoODMxeXNscU40M1RTZEp6d2JMemwwemdya3RxTDY1ZEl0ZWRnTFVydFk2MVBxLVFZWkRGZlBuejBudXc?oc=5"
+            },
+            {
+                "title": "长征十号低空演示验证与梦舟飞船最大动压逃逸飞行试验成功实施 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBZ1V0c2Y5MmxLNWg1dEFzVnQ5R0JyVnRkWGl4NkJQNUpvZWZuYUpscjVkcTlWeEc2Z0F6S1FmdU9SU3Z2bm53Xw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-11T06:57:33.450917+00:00"
+    "last_updated": "2026-02-11T13:03:43.931684+00:00"
 }
