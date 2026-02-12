@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "国际镓价两年翻三倍 美国政府三管齐下开启“掘镓”模式",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549464.htm"
-            },
-            {
-                "title": "通用汽车：在中国供应链的本土化率已超95%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549448.htm"
-            },
-            {
-                "title": "科大讯飞发布星火 X2 大模型：基于全国产算力训练，对标国际顶尖模型",
+                "title": "云端看 2026 年春晚：东航宣布为除夕夜所有入境宽体机航班旅客赠送高速 Wi-Fi 服务",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-11",
-                "url": "https://www.ithome.com/0/921/060.htm"
+                "url": "https://www.ithome.com/0/921/191.htm"
             },
             {
-                "title": "离家50米远洗车是走着去还是开车去？简单问题难倒一众AI",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "耐克要在中国市场发力了",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549420.htm"
+                "url": "https://36kr.com/p/3678730750108295"
             },
             {
-                "title": "中芯国际：存储芯片的需求可能被夸大了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜千问DAU达到7352万；胖东来创始人于东来宣布年后退休；马斯克酝酿在月球造AI卫星工厂",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549418.htm"
+                "url": "https://36kr.com/p/3678716706825096"
+            },
+            {
+                "title": "美众院通过《台湾保护法案》分析：中共难以承受金融制裁(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-11",
+                "url": "https://www.secretchina.com/news/gb/2026/02/11/1094846.html"
+            },
+            {
+                "title": "韩国政府有意建设 40nm 工艺 12 英寸晶圆厂，支持本国 Fabless 企业发展",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-11",
+                "url": "https://www.ithome.com/0/921/150.htm"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜千问DAU达到7352万；胖东来创始人于东来宣布年后退休；马斯克酝酿在月球造AI卫星工厂",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-11",
+                "url": "https://36kr.com/p/3678716706825096"
+            },
             {
                 "title": "长城魏建军：中国汽车和欧美日韩优秀车企差距还非常大",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1549418.htm"
             },
             {
-                "title": "马斯克员工大会释放多个信息：建月球AI卫星工厂、X日活要超10亿",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549412.htm"
-            },
-            {
-                "title": "2026年2月10日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-10",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrXzRSaWxYaE1ZNzYtd21LUlFsQmg0OXBpMEhKYjNMZGxKcjJ4SV9FVVVxOU1oT2ZNTHJ6RVQ3bWZvMEVYc3RtVTJ3clh3Y3pqWWdFZ1E5SGZxUEhpQzNWTjBBaHIyYU8wTi1GOFlKSlFaY3Frbnc?oc=5"
+                "date": "2026-02-12",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
             },
             {
                 "title": "习近平春节前夕慰问部队向全体人民解放军指战员武警部队官兵军队文职人员预备役人员和民兵致以新春祝福 - 中华人民共和国国防部",
@@ -98,54 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmhpWDl2eEJnd3VWVjRDaXBrVjdCeVpQVDZmajAtTzJfSDVPSnc4SXRHa0FLamZQYUUwVGRJT2pBSk1UazJiTnNmU05EN0NjWncwbzVwcU9NVnBZVW9jZVgySTlnTGEyNzFpYmNpOUU2ZVNfd0UwMU1uLU1CQ3RVYVBqV2JEUHU0eEhhX0NiWmZiUG8wa05rWmNWTU5kRUJN?oc=5"
             },
             {
-                "title": "八一飞行表演队跨越山海架起友谊桥梁 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbVZkaUJPcWpIZTh6bmR4ZXF3VGZXWTFpdm43TzFOYndYTHRlWERhLURQVkc2Rk1KN3h4RG1uSXJ1Q2dzRFVrMWhB?oc=5"
-            },
-            {
                 "title": "让群众切实感受到正风肃纪反腐就在身边——2025年群众身边不正之风和腐败问题集中整治成效综述 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CYi03NXh5dWR4dGtpNGQwY3FmMUpCeGlZMlNQNXZqUF9pdUY2ZkQzTENOTDB6SlFoNmdkWDY2d0dpa0dwUkxUUjhNREFzLWlDekE?oc=5"
+            },
+            {
+                "title": "长征十号低空演示验证与梦舟飞船最大动压逃逸飞行试验侧记 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpS0NYSV91VXRXSWExTTBpNDltWGpyZG8xTkwtdmE3aXZfS0taSnpqVm9hdE9SZW9XRXBmb3ZEQWthU0RWYVRJQXV1dzZlTjJnUFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "国际镓价两年翻三倍 美国政府三管齐下开启“掘镓”模式",
+                "title": "华裔研究生研发出AI相亲软件 让斯坦福超5000名学生沉迷",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549464.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549518.htm"
             },
             {
-                "title": "一到冬天北方人囤几百斤白菜 真能吃完吗?",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549456.htm"
-            },
-            {
-                "title": "科大讯飞发布星火 X2 大模型：基于全国产算力训练，对标国际顶尖模型",
+                "title": "福特 CEO 法利再谈中国汽车：当今所有全球车企都必须应对",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-11",
-                "url": "https://www.ithome.com/0/921/060.htm"
+                "url": "https://www.ithome.com/0/921/195.htm"
             },
             {
-                "title": "贾跃亭车企与河北公司签署一揽子协议 FX Super One冲刺量产交付",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "华府智库：北京施压彻底失败！高市大胜奠定“美日联手挺台”新局(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549416.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/02/11/1094849.html"
             },
             {
-                "title": "马斯克员工大会释放多个信息：建月球AI卫星工厂、X日活要超10亿",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国司法风向标案件：Meta 与 YouTube 被诉“故意让未成年人沉迷上瘾”",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549412.htm"
+                "url": "https://www.ithome.com/0/921/183.htm"
             },
             {
-                "title": "2026年2月10日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "耐克要在中国市场发力了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-11",
+                "url": "https://36kr.com/p/3678730750108295"
+            },
+            {
+                "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-10",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrXzRSaWxYaE1ZNzYtd21LUlFsQmg0OXBpMEhKYjNMZGxKcjJ4SV9FVVVxOU1oT2ZNTHJ6RVQ3bWZvMEVYc3RtVTJ3clh3Y3pqWWdFZ1E5SGZxUEhpQzNWTjBBaHIyYU8wTi1GOFlKSlFaY3Frbnc?oc=5"
+                "date": "2026-02-12",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
             },
             {
                 "title": "习近平春节前夕慰问部队向全体人民解放军指战员武警部队官兵军队文职人员预备役人员和民兵致以新春祝福 - 中华人民共和国国防部",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmhpWDl2eEJnd3VWVjRDaXBrVjdCeVpQVDZmajAtTzJfSDVPSnc4SXRHa0FLamZQYUUwVGRJT2pBSk1UazJiTnNmU05EN0NjWncwbzVwcU9NVnBZVW9jZVgySTlnTGEyNzFpYmNpOUU2ZVNfd0UwMU1uLU1CQ3RVYVBqV2JEUHU0eEhhX0NiWmZiUG8wa05rWmNWTU5kRUJN?oc=5"
             },
             {
-                "title": "八一飞行表演队跨越山海架起友谊桥梁 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jbVZkaUJPcWpIZTh6bmR4ZXF3VGZXWTFpdm43TzFOYndYTHRlWERhLURQVkc2Rk1KN3h4RG1uSXJ1Q2dzRFVrMWhB?oc=5"
-            },
-            {
                 "title": "让群众切实感受到正风肃纪反腐就在身边——2025年群众身边不正之风和腐败问题集中整治成效综述 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CYi03NXh5dWR4dGtpNGQwY3FmMUpCeGlZMlNQNXZqUF9pdUY2ZkQzTENOTDB6SlFoNmdkWDY2d0dpa0dwUkxUUjhNREFzLWlDekE?oc=5"
+            },
+            {
+                "title": "长征十号低空演示验证与梦舟飞船最大动压逃逸飞行试验侧记 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpS0NYSV91VXRXSWExTTBpNDltWGpyZG8xTkwtdmE3aXZfS0taSnpqVm9hdE9SZW9XRXBmb3ZEQWthU0RWYVRJQXV1dzZlTjJnUFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-12T06:58:40.842553+00:00"
+    "last_updated": "2026-02-12T13:01:43.444547+00:00"
 }
