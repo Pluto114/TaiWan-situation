@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "京东航空A330开启国际首航 运力大升级",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "众议院通过《保障美国关键矿产供应法案》",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549686.htm"
+                "url": "https://www.voachinese.com/a/house-passed-securing-america-s-critical-minerals-supply-act-20260212/8113363.html"
             },
             {
-                "title": "日产-奔驰墨西哥工厂获多家中国车企青睐，消息称比亚迪、吉利等有意竞标",
+                "title": "不要让英国国内政治的“魔咒”再次左右中英关系",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-12",
+                "url": "https://www.ftchinese.com/story/001109003"
+            },
+            {
+                "title": "曝三星 Galaxy S26+ 手机全球版搭载 Exynos 2600 芯片，美版 / 国行预计为第五代骁龙 8 至尊版",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/496.htm"
+                "url": "https://www.ithome.com/0/921/523.htm"
             },
             {
-                "title": "美众院通过《台湾保护法案》中共能否承受金融制裁？(图)",
+                "title": "中欧关税博弈余波：北京宣布对欧盟乳制品加征五年关税",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-12",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%AC%A7%E5%85%B3%E7%A8%8E%E5%8D%9A%E5%BC%88%E4%BD%99%E6%B3%A2%E5%8C%97%E4%BA%AC%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%AC%A7%E7%9B%9F%E4%B9%B3%E5%88%B6%E5%93%81%E5%8A%A0%E5%BE%81%E4%BA%94%E5%B9%B4%E5%85%B3%E7%A8%8E/a-75932936"
+            },
+            {
+                "title": "九成国人月入不足五千 动荡风险加剧如何自保？(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-12",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094846.html"
-            },
-            {
-                "title": "华虹半导体 2025 年第 4 季度销售收入 6.6 亿美元，同比增长 22.4%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/482.htm"
-            },
-            {
-                "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-12",
-                "url": "https://36kr.com/p/3680069763313539"
+                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094891.html"
             }
         ],
         "mil": [
             {
+                "title": "日本会再次转向军国主义吗？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-12",
+                "url": "https://www.secretchina.com/news/gb/2026/02/13/1094926.html"
+            },
+            {
+                "title": "不要让英国国内政治的“魔咒”再次左右中英关系",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-12",
+                "url": "https://www.ftchinese.com/story/001109003"
+            },
+            {
+                "title": "美战争部下令第二航母打击群备战中东 施压伊朗核谈判(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-12",
+                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094920.html"
+            },
+            {
+                "title": "俄军士兵抨击当局对Telegram服务降速 莫斯科同时全面封禁WhatsApp",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549702.htm"
+            },
+            {
                 "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-12",
                 "url": "https://36kr.com/p/3680069763313539"
             },
             {
-                "title": "五角大楼敦促美国AI公司将工具部署到机密网络并放宽使用限制",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549638.htm"
-            },
-            {
-                "title": "因涉违规向中国出口芯片设备 美商务部宣布对应用材料罚款2.52亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549636.htm"
-            },
-            {
-                "title": "12家第三方火车票销售平台被约谈 禁止明示或暗示可付费优先购票",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549620.htm"
-            },
-            {
-                "title": "荷兰法庭下令调查安世半导体 闻泰科技：极为失望与强烈不满",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549578.htm"
+                "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-13",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOaDJvSlJzczdudFhVOVpfamtKNm45bWxDOWhoOVFWYS1Na3g2Tnd4VTZEREw3TlFTaGR6c1hRaUFiN0ZwZHVqUXBINFY3UFdXLWxkdjUtd3puOFU5cGJ3eWZZb0ZBM2xuakxIYTNSbHdsWVIxMFE?oc=5"
             },
             {
                 "title": "2026年2月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-12",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "好人好报！浙FFJ3808理想车主获“三年内免费换车”特权",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "韩情报机构称金正恩之女或为潜在继承人",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549692.htm"
+                "url": "https://www.dw.com/zh/%E9%9F%A9%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E7%A7%B0%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%8B%E5%A5%B3%E6%88%96%E4%B8%BA%E6%BD%9C%E5%9C%A8%E7%BB%A7%E6%89%BF%E4%BA%BA/a-75939231"
             },
             {
-                "title": "县道、乡道、村道的编号规则是什么？",
-                "source": "NewsAPI / Openstreetmap.org",
+                "title": "不要让英国国内政治的“魔咒”再次左右中英关系",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-12",
-                "url": "https://www.openstreetmap.org/user/BG4WDV/diary/408237"
+                "url": "https://www.ftchinese.com/story/001109003"
             },
             {
-                "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
-                "source": "NewsAPI / 36kr.com",
+                "title": "加码对华策反战：中情局发布视频中共军队内部裂痕(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-12",
-                "url": "https://36kr.com/p/3680069763313539"
+                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094923.html"
             },
             {
-                "title": "小米 AI 眼镜：小爱同学的最佳容器",
-                "source": "NewsAPI / Dgtle.com",
+                "title": "美战争部下令第二航母打击群备战中东 施压伊朗核谈判(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-12",
-                "url": "https://www.dgtle.com/article-1725762-1.html"
+                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094920.html"
             },
             {
-                "title": "零创游戏回应《哀鸿：城破十日记》预售争议：在探索实体版游戏道路，将确保玩家没有货不对板风险",
-                "source": "NewsAPI / Ithome.com",
+                "title": "赖清德接受法新社专访 警告中国威胁",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/472.htm"
+                "url": "https://www.dw.com/zh/%E8%B5%96%E6%B8%85%E5%BE%B7%E6%8E%A5%E5%8F%97%E6%B3%95%E6%96%B0%E7%A4%BE%E4%B8%93%E8%AE%BF-%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81/a-75932873"
+            },
+            {
+                "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-13",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOaDJvSlJzczdudFhVOVpfamtKNm45bWxDOWhoOVFWYS1Na3g2Tnd4VTZEREw3TlFTaGR6c1hRaUFiN0ZwZHVqUXBINFY3UFdXLWxkdjUtd3puOFU5cGJ3eWZZb0ZBM2xuakxIYTNSbHdsWVIxMFE?oc=5"
             },
             {
                 "title": "2026年2月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-12",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-13T12:53:49.534212+00:00"
+    "last_updated": "2026-02-13T18:43:26.009406+00:00"
 }
