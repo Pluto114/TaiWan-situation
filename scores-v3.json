@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "雷神“郊狼”Block 3无人机成功实现用电磁武器击落无人机群",
+                "title": "京东航空A330开启国际首航 运力大升级",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549642.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549686.htm"
             },
             {
-                "title": "因涉违规向中国出口芯片设备 美商务部宣布对应用材料罚款2.52亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "日产-奔驰墨西哥工厂获多家中国车企青睐，消息称比亚迪、吉利等有意竞标",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549636.htm"
+                "url": "https://www.ithome.com/0/921/496.htm"
             },
             {
-                "title": "危险新型间谍软件ZeroDayRAT现身 可完全接管智能手机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美众院通过《台湾保护法案》中共能否承受金融制裁？(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549634.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094846.html"
             },
             {
-                "title": "中芯国际：修建数据中心已成AI时代最大的泡沫",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "华虹半导体 2025 年第 4 季度销售收入 6.6 亿美元，同比增长 22.4%",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549612.htm"
+                "url": "https://www.ithome.com/0/921/482.htm"
             },
             {
-                "title": "苹果与特朗普政府关系再次紧张 美FTC发出警告",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549586.htm"
+                "url": "https://36kr.com/p/3680069763313539"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-12",
+                "url": "https://36kr.com/p/3680069763313539"
+            },
             {
                 "title": "五角大楼敦促美国AI公司将工具部署到机密网络并放宽使用限制",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,22 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1549578.htm"
             },
             {
-                "title": "最贵特斯拉终于量产 一辆卖200万",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "2026年2月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549568.htm"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSHd5MS1RYzRSbW85WUFmWEJqLXNUbF9uVkpJbnZUbHhrMVlfMlJ3aFlxaHlIY3RtLVBHSVlUelNNRU1lREc2R2NaMXRDdnNFRUhHN1E4MDcySmxaa1Bhay16bVFTY2FOVHNtUUpoT1hJLUk0ZUE?oc=5"
             },
             {
                 "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-12",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
-            },
-            {
-                "title": "习近平春节前夕慰问部队向全体人民解放军指战员武警部队官兵军队文职人员预备役人员和民兵致以新春祝福 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQkd4cEJmRjNZUkVZWnB0LWZHdUp0NEZlV2xzWExvaTNnc3ItR3BLaVN2M0VqT2Nmb19QVU80UktFc1N6TTlTUDN5UlVqeWRTeUtzRXE1bTBRSXU2eWRweUE5NA?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,46 +112,46 @@
         ],
         "pol": [
             {
-                "title": "五角大楼敦促美国AI公司将工具部署到机密网络并放宽使用限制",
+                "title": "好人好报！浙FFJ3808理想车主获“三年内免费换车”特权",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549638.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549692.htm"
             },
             {
-                "title": "因涉违规向中国出口芯片设备 美商务部宣布对应用材料罚款2.52亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "县道、乡道、村道的编号规则是什么？",
+                "source": "NewsAPI / Openstreetmap.org",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549636.htm"
+                "url": "https://www.openstreetmap.org/user/BG4WDV/diary/408237"
             },
             {
-                "title": "危险新型间谍软件ZeroDayRAT现身 可完全接管智能手机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549634.htm"
+                "url": "https://36kr.com/p/3680069763313539"
             },
             {
-                "title": "一道“50 米洗车题”让全网 AI 翻车！DeepSeek、ChatGPT、豆包集体懵逼",
+                "title": "小米 AI 眼镜：小爱同学的最佳容器",
+                "source": "NewsAPI / Dgtle.com",
+                "date": "2026-02-12",
+                "url": "https://www.dgtle.com/article-1725762-1.html"
+            },
+            {
+                "title": "零创游戏回应《哀鸿：城破十日记》预售争议：在探索实体版游戏道路，将确保玩家没有货不对板风险",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/395.htm"
+                "url": "https://www.ithome.com/0/921/472.htm"
             },
             {
-                "title": "亿咖通科技完成 1 亿美元可转换债券发行，CEO 沈子瑜致谢",
-                "source": "NewsAPI / Ithome.com",
+                "title": "2026年2月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/390.htm"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSHd5MS1RYzRSbW85WUFmWEJqLXNUbF9uVkpJbnZUbHhrMVlfMlJ3aFlxaHlIY3RtLVBHSVlUelNNRU1lREc2R2NaMXRDdnNFRUhHN1E4MDcySmxaa1Bhay16bVFTY2FOVHNtUUpoT1hJLUk0ZUE?oc=5"
             },
             {
                 "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-12",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
-            },
-            {
-                "title": "习近平春节前夕慰问部队向全体人民解放军指战员武警部队官兵军队文职人员预备役人员和民兵致以新春祝福 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQkd4cEJmRjNZUkVZWnB0LWZHdUp0NEZlV2xzWExvaTNnc3ItR3BLaVN2M0VqT2Nmb19QVU80UktFc1N6TTlTUDN5UlVqeWRTeUtzRXE1bTBRSXU2eWRweUE5NA?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-13T06:56:20.250854+00:00"
+    "last_updated": "2026-02-13T12:53:49.534212+00:00"
 }
