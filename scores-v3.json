@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
+                "title": "巨兽出山，围堵大疆",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-12",
+                "url": "https://36kr.com/p/3679665748225672"
+            },
+            {
+                "title": "8点1氪丨胖东来创始人于东来宣布年后退休，账号改名“傻坏蛋”；华住会被消协约谈；缅甸出现新诈骗园区，距KK园区五公里",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-12",
+                "url": "https://36kr.com/p/3679560358915719"
+            },
+            {
+                "title": "安踏收购彪马：中企出海最稳妥的模式",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-11",
+                "url": "https://www.ftchinese.com/story/001108978"
+            },
+            {
+                "title": "IT早报 0212：长征十号与梦舟试验成功；苹果 iOS 26.3 更新汇总；小米一代 SU7 交付超 38.1 万辆；全国多地陆续发放新春消费券...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-11",
+                "url": "https://www.ithome.com/0/921/242.htm"
+            },
+            {
                 "title": "苹果发布iOS 26.3和iPadOS 26.3 新增跨平台迁移工具与运营商定位限制功能 ​",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-11",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1549560.htm"
-            },
-            {
-                "title": "高市早苗的胜利凸显中国经济胁迫的局限性(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-11",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094872.html"
-            },
-            {
-                "title": "卢特尼克：英伟达“必须接受”向中国出售H200芯片的许可条款",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-02-11",
-                "url": "https://www.voachinese.com/a/lutnick-nvidia-must-live-with-the-licensing-terms-on-h200-sales-to-china-20260211/8113018.html"
-            },
-            {
-                "title": "贝森特：美中关系“稳定”，但仍有许多工作要做",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-02-11",
-                "url": "https://www.voachinese.com/a/ahead-of-high-level-us-china-trade-talks-treasury-secretary-calls-us-china-relationship-stable-notes-work-remains-20260211/8112985.html"
-            },
-            {
-                "title": "阿斯利康前中国区负责人面临正式指控",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-11",
-                "url": "https://www.ftchinese.com/story/001108984"
             }
         ],
         "mil": [
             {
+                "title": "巨兽出山，围堵大疆",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-12",
+                "url": "https://36kr.com/p/3679665748225672"
+            },
+            {
+                "title": "8点1氪丨胖东来创始人于东来宣布年后退休，账号改名“傻坏蛋”；华住会被消协约谈；缅甸出现新诈骗园区，距KK园区五公里",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-12",
+                "url": "https://36kr.com/p/3679560358915719"
+            },
+            {
+                "title": "IT早报 0212：长征十号与梦舟试验成功；苹果 iOS 26.3 更新汇总；小米一代 SU7 交付超 38.1 万辆；全国多地陆续发放新春消费券...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-11",
+                "url": "https://www.ithome.com/0/921/242.htm"
+            },
+            {
                 "title": "日本强国政策将全面开展(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-11",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-11",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1549544.htm"
-            },
-            {
-                "title": "字节要复现又一个DeepSeek时刻了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549542.htm"
-            },
-            {
-                "title": "小野寺 修：建设和安定的日中关系的关键是对话",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-11",
-                "url": "https://www.ftchinese.com/story/001108990"
-            },
-            {
-                "title": "核试阴云再起：美指控中国秘密试爆 军控秩序拉响警报(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-11",
-                "url": "https://www.secretchina.com/news/gb/2026/02/11/1094864.html"
             },
             {
                 "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQkd4cEJmRjNZUkVZWnB0LWZHdUp0NEZlV2xzWExvaTNnc3ItR3BLaVN2M0VqT2Nmb19QVU80UktFc1N6TTlTUDN5UlVqeWRTeUtzRXE1bTBRSXU2eWRweUE5NA?oc=5"
             },
             {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-12",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUdGY2Z1o0NXZDYlJsRmlWdkNDLTV5cElHUnBqTkd2d09PMkVwNEtSeVlWSlhySFQ5eEtSUWg1VEZUM2lQVDBQVm10MldVbWV3aDg2a3ZYZFJHZ1c1RThGWg?oc=5"
             },
             {
                 "title": "海军春节前视频慰问一线任务部队官兵 - 中国军网",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-11",
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmhpWDl2eEJnd3VWVjRDaXBrVjdCeVpQVDZmajAtTzJfSDVPSnc4SXRHa0FLamZQYUUwVGRJT2pBSk1UazJiTnNmU05EN0NjWncwbzVwcU9NVnBZVW9jZVgySTlnTGEyNzFpYmNpOUU2ZVNfd0UwMU1uLU1CQ3RVYVBqV2JEUHU0eEhhX0NiWmZiUG8wa05rWmNWTU5kRUJN?oc=5"
-            },
-            {
-                "title": "让群众切实感受到正风肃纪反腐就在身边——2025年群众身边不正之风和腐败问题集中整治成效综述 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CYi03NXh5dWR4dGtpNGQwY3FmMUpCeGlZMlNQNXZqUF9pdUY2ZkQzTENOTDB6SlFoNmdkWDY2d0dpa0dwUkxUUjhNREFzLWlDekE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "日本强国政策将全面开展(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-11",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094874.html"
+                "title": "巨兽出山，围堵大疆",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-12",
+                "url": "https://36kr.com/p/3679665748225672"
             },
             {
-                "title": "苹果发布iOS 26.3和iPadOS 26.3 新增跨平台迁移工具与运营商定位限制功能 ​",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549560.htm"
+                "title": "网易有道推出全场景个人助理 Agent LobsterAI，能远程指挥电脑干活",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-12",
+                "url": "https://www.ithome.com/0/921/281.htm"
             },
             {
-                "title": "华府智库：北京施压彻底失败！高市大胜奠定“美日联手挺台”新局(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-11",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094849.html"
+                "title": "8点1氪丨胖东来创始人于东来宣布年后退休，账号改名“傻坏蛋”；华住会被消协约谈；缅甸出现新诈骗园区，距KK园区五公里",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-12",
+                "url": "https://36kr.com/p/3679560358915719"
             },
             {
-                "title": "月薪2000的环卫工，困在“电子镣铐”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "安踏收购彪马：中企出海最稳妥的模式",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549544.htm"
+                "url": "https://www.ftchinese.com/story/001108978"
             },
             {
-                "title": "字节要复现又一个DeepSeek时刻了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 0212：长征十号与梦舟试验成功；苹果 iOS 26.3 更新汇总；小米一代 SU7 交付超 38.1 万辆；全国多地陆续发放新春消费券...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549542.htm"
+                "url": "https://www.ithome.com/0/921/242.htm"
             },
             {
                 "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQkd4cEJmRjNZUkVZWnB0LWZHdUp0NEZlV2xzWExvaTNnc3ItR3BLaVN2M0VqT2Nmb19QVU80UktFc1N6TTlTUDN5UlVqeWRTeUtzRXE1bTBRSXU2eWRweUE5NA?oc=5"
             },
             {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-12",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUdGY2Z1o0NXZDYlJsRmlWdkNDLTV5cElHUnBqTkd2d09PMkVwNEtSeVlWSlhySFQ5eEtSUWg1VEZUM2lQVDBQVm10MldVbWV3aDg2a3ZYZFJHZ1c1RThGWg?oc=5"
             },
             {
                 "title": "海军春节前视频慰问一线任务部队官兵 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-11",
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmhpWDl2eEJnd3VWVjRDaXBrVjdCeVpQVDZmajAtTzJfSDVPSnc4SXRHa0FLamZQYUUwVGRJT2pBSk1UazJiTnNmU05EN0NjWncwbzVwcU9NVnBZVW9jZVgySTlnTGEyNzFpYmNpOUU2ZVNfd0UwMU1uLU1CQ3RVYVBqV2JEUHU0eEhhX0NiWmZiUG8wa05rWmNWTU5kRUJN?oc=5"
-            },
-            {
-                "title": "让群众切实感受到正风肃纪反腐就在身边——2025年群众身边不正之风和腐败问题集中整治成效综述 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CYi03NXh5dWR4dGtpNGQwY3FmMUpCeGlZMlNQNXZqUF9pdUY2ZkQzTENOTDB6SlFoNmdkWDY2d0dpa0dwUkxUUjhNREFzLWlDekE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-12T18:59:20.953547+00:00"
+    "last_updated": "2026-02-13T02:01:32.947102+00:00"
 }
