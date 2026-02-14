@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "具身智能如何抵达 “ChatGPT时刻”？智源院长、清华教授和3位创始人聊了聊",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国与台湾签署对等贸易协议",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-02-13",
-                "url": "https://36kr.com/p/3681608747609988"
+                "url": "https://www.voachinese.com/a/us-taiwan-signed-agreement-on-reciprocal-trade-20260213/8113732.html"
             },
             {
-                "title": "索尼 WF-1000XM6 旗舰降噪耳机国行上架：3 月 4 日发售，2399 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特斯拉上海招人测FSD 会开赛车加分",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/738.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549874.htm"
             },
             {
-                "title": "大涨 320% 后，消息称“全球大模型第一股”智谱计划赴沪二次上市",
-                "source": "NewsAPI / Ithome.com",
+                "title": "阿里巴巴或被列入五角大楼“黑名单”",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/727.htm"
+                "url": "https://www.dw.com/zh/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%88%96%E8%A2%AB%E5%88%97%E5%85%A5%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%BB%91%E5%90%8D%E5%8D%95/a-75957889"
             },
             {
-                "title": "加拿大汽车零部件制造商协会推出两款大胆纯电新车，力图证明该国具备完整产业链",
-                "source": "NewsAPI / Ithome.com",
+                "title": "三星96GB LPCAMM2内存模组曝光 速度达9600MT/s",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/722.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549862.htm"
             },
             {
-                "title": "1200 名育碧员工发起罢工，抗议大规模裁员及“成本控制”措施",
-                "source": "NewsAPI / Ithome.com",
+                "title": "官方定论：为特朗普关税买单的是美国人而非外国人",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/715.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549848.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美伊局势升级：美军派遣最大航母驶向中东",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-13",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E7%BE%8E%E5%86%9B%E6%B4%BE%E9%81%A3%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C/a-75957671"
+            },
+            {
+                "title": "美伊局势升级：美军派遣最大航母驶向中东",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-13",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E7%BE%8E%E5%86%9B%E6%B4%BE%E9%81%A3%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C/a-75957671"
+            },
             {
                 "title": "双航母集结波斯湾 川普对伊朗发军事警告(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,16 +74,10 @@
                 "url": "https://36kr.com/p/3678646020940422"
             },
             {
-                "title": "全新Gemini一夜血洗编程 全球仅7人能赢它",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549752.htm"
-            },
-            {
-                "title": "四年三款爆品，LiberLive U1发布、C系列累计出货超50万台｜最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-13",
-                "url": "https://36kr.com/p/3681146132836226"
+                "title": "王毅会见美国国务卿鲁比奥 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-14",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90cTNsdmR6MjVDUUxUU1RCNkszZlhVcWtEUm9UVXB4aWpUQ2liaEw1RDQtODUxa0hXVnlLOGhiQ3NSYW1uTEhvamt1YldsTTV2cXV2OHBrOFNiTHNoYjBLeDNjXzRPN1lMZnlHWXJ3?oc=5"
             },
             {
                 "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOaDJvSlJzczdudFhVOVpfamtKNm45bWxDOWhoOVFWYS1Na3g2Tnd4VTZEREw3TlFTaGR6c1hRaUFiN0ZwZHVqUXBINFY3UFdXLWxkdjUtd3puOFU5cGJ3eWZZb0ZBM2xuakxIYTNSbHdsWVIxMFE?oc=5"
             },
             {
-                "title": "驻摩尔多瓦大使董志华在摩2026年“欢乐春节”演出上的讲话 - mfa.gov.cn",
+                "title": "王毅会见阿根廷外长基尔诺 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-13",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2MXJXTjYwT3M3eWgwZURfcXBFeGtMRkdQcHpTaEdWdmNLWUZ2OGtGUzJFREVIdkFhT19NUlNGQnFyLVJfS3FwMi01TTZMYzdoeUhsZkR4QUVHbjBuX2VRdEZKazN2LWFwTXNwSUUwNkVleFhxMTI0N0s3Yw?oc=5"
-            },
-            {
-                "title": "驻古巴大使华昕出席旅英侨胞向古巴中小学捐赠物资仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-13",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHNZQUJEYzg4QXlKUy1xMFlEYUFneVFwRzhUUjdBd2FOaEVFd2VRbmt4eVdHRjdHZk1QVGJ2Y3hYOHN6M0VSWDhWZ0RENFVna0l2d1lXMUFPclN1aUlVaUNGN1NFNmlzendQaEh6OUVmVTVQUm1QQmpjcHRHUm5DbzEzUEQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFeDJndG54SDA1WXJzRDVoQUlxcE5Cb2RGYlBsQ1FpSGZnS1ZKLWQ0NEJ4aUZYdVNESXNwLWJHWVpUcHI0em9Qc0RNTkZhT1BDcUxpam5Bd2JOa2xBclRHcXZoVEh1MFZnMEt1Y2JR?oc=5"
             },
             {
                 "title": "雪山守望，视野超越方寸荧屏 - 中国军网",
@@ -98,48 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzFvWHAtbTYwN3V6NVQ0dmNmXzhhSEtZOHRCY09qc3RoOGd3UHlncm9YX3JuS1pQRFRKcGJ4a3dVQXZpS1NyTEZSeU1kUEN0S1RrSjhFdHhtSGEzd3l5Q0pUaUZYOEl6LWtoVzVLU0VxaXVJY0lIWUp1Y1ZSRXItYXVhcERYUXNVYkFrM1VzWEJMMlo0TnN3aDVoRzlETnhGNXNiUDhnM1JoRGFLTHpadTZn?oc=5"
             },
             {
-                "title": "海军春节前视频慰问一线任务部队官兵 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56V1RXbmw4cDE5THZUM2NXS1dXS0lzNEplcWc5SldTcmJDTjVwRE01VnFzdU54ZnRHRHVtZlVwbW54ZUY4cU5reU4td0N1TkFVclE?oc=5"
-            },
-            {
                 "title": "中国第6批赴阿卜耶伊维和直升机分队开展应急防卫演练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBadW5Od1dwUGNFZzdMaE5VbEtEcXkyYk51bm01d2Q5STlvclgyUXdSZHhwUmV5TkJBVEVKYzJhNnZKRGhXR2Q3LU1wVVBnVkhCNnc?oc=5"
+            },
+            {
+                "title": "城市使命，令新型城镇化深刻融入国家需要与时代内涵 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTeTVIdktkbU0xUVlfemVuUEMwVGFpQlN5Q3JKVVNKR2tMRTgxTVZDWEtvU2ZjQ2JIbllKdFZBaUg0ZkU4MlhucU1iSmFRS3hucmc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "具身智能如何抵达 “ChatGPT时刻”？智源院长、清华教授和3位创始人聊了聊",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-13",
-                "url": "https://36kr.com/p/3681608747609988"
-            },
-            {
-                "title": "PU Prime 获得阿联酋 CMA 牌照，进一步拓展全球监管布局",
-                "source": "NewsAPI / GlobeNewswire",
-                "date": "2026-02-13",
-                "url": "https://www.globenewswire.com/news-release/2026/02/13/3237906/0/zh-hans/PU-Prime-%E8%8E%B7%E5%BE%97%E9%98%BF%E8%81%94%E9%85%8B-CMA-%E7%89%8C%E7%85%A7-%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8B%93%E5%B1%95%E5%85%A8%E7%90%83%E7%9B%91%E7%AE%A1%E5%B8%83%E5%B1%80.html"
-            },
-            {
-                "title": "曝特斯拉 Model Y 成 2025 年欧洲最畅销纯电车型，但品牌总销量被大众反超",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/719.htm"
-            },
-            {
-                "title": "氪星晚报｜MOVA TPEAK宣布签订亿元订单；韩国SK集团董事长密集会晤硅谷巨头，布局AI半导体生态；小米汽车累计交付量已超60万台",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-13",
-                "url": "https://36kr.com/p/3681523965996928"
-            },
-            {
-                "title": "内存封装厂集体涨价：涨幅达30% 下游厂商遭连环暴击",
+                "title": "购置税优惠退坡首月 几家车企不太好过",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549826.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549882.htm"
+            },
+            {
+                "title": "苹果正在测试翻盖式折叠iPhone 但尚未最终决定是否量产",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549880.htm"
+            },
+            {
+                "title": "中国「高市さん、逮捕した船長をどうか丁寧に…」と批判を完全封印、最強政権を前に戦狼外交がお願いモードへ激変する敗北の様式美",
+                "source": "NewsAPI / Blog.jp",
+                "date": "2026-02-13",
+                "url": "https://asianoneta.blog.jp/63007216"
+            },
+            {
+                "title": "美伊局势升级：美军派遣最大航母驶向中东",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-13",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E7%BE%8E%E5%86%9B%E6%B4%BE%E9%81%A3%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C/a-75957671"
+            },
+            {
+                "title": "美伊局势升级：美军派遣最大航母驶向中东",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-13",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E7%BE%8E%E5%86%9B%E6%B4%BE%E9%81%A3%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C/a-75957671"
+            },
+            {
+                "title": "王毅会见美国国务卿鲁比奥 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-14",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90cTNsdmR6MjVDUUxUU1RCNkszZlhVcWtEUm9UVXB4aWpUQ2liaEw1RDQtODUxa0hXVnlLOGhiQ3NSYW1uTEhvamt1YldsTTV2cXV2OHBrOFNiTHNoYjBLeDNjXzRPN1lMZnlHWXJ3?oc=5"
             },
             {
                 "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOaDJvSlJzczdudFhVOVpfamtKNm45bWxDOWhoOVFWYS1Na3g2Tnd4VTZEREw3TlFTaGR6c1hRaUFiN0ZwZHVqUXBINFY3UFdXLWxkdjUtd3puOFU5cGJ3eWZZb0ZBM2xuakxIYTNSbHdsWVIxMFE?oc=5"
             },
             {
-                "title": "驻摩尔多瓦大使董志华在摩2026年“欢乐春节”演出上的讲话 - mfa.gov.cn",
+                "title": "王毅会见阿根廷外长基尔诺 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-13",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2MXJXTjYwT3M3eWgwZURfcXBFeGtMRkdQcHpTaEdWdmNLWUZ2OGtGUzJFREVIdkFhT19NUlNGQnFyLVJfS3FwMi01TTZMYzdoeUhsZkR4QUVHbjBuX2VRdEZKazN2LWFwTXNwSUUwNkVleFhxMTI0N0s3Yw?oc=5"
-            },
-            {
-                "title": "驻古巴大使华昕出席旅英侨胞向古巴中小学捐赠物资仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-13",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHNZQUJEYzg4QXlKUy1xMFlEYUFneVFwRzhUUjdBd2FOaEVFd2VRbmt4eVdHRjdHZk1QVGJ2Y3hYOHN6M0VSWDhWZ0RENFVna0l2d1lXMUFPclN1aUlVaUNGN1NFNmlzendQaEh6OUVmVTVQUm1QQmpjcHRHUm5DbzEzUEQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFeDJndG54SDA1WXJzRDVoQUlxcE5Cb2RGYlBsQ1FpSGZnS1ZKLWQ0NEJ4aUZYdVNESXNwLWJHWVpUcHI0em9Qc0RNTkZhT1BDcUxpam5Bd2JOa2xBclRHcXZoVEh1MFZnMEt1Y2JR?oc=5"
             },
             {
                 "title": "雪山守望，视野超越方寸荧屏 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzFvWHAtbTYwN3V6NVQ0dmNmXzhhSEtZOHRCY09qc3RoOGd3UHlncm9YX3JuS1pQRFRKcGJ4a3dVQXZpS1NyTEZSeU1kUEN0S1RrSjhFdHhtSGEzd3l5Q0pUaUZYOEl6LWtoVzVLU0VxaXVJY0lIWUp1Y1ZSRXItYXVhcERYUXNVYkFrM1VzWEJMMlo0TnN3aDVoRzlETnhGNXNiUDhnM1JoRGFLTHpadTZn?oc=5"
             },
             {
-                "title": "海军春节前视频慰问一线任务部队官兵 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56V1RXbmw4cDE5THZUM2NXS1dXS0lzNEplcWc5SldTcmJDTjVwRE01VnFzdU54ZnRHRHVtZlVwbW54ZUY4cU5reU4td0N1TkFVclE?oc=5"
-            },
-            {
                 "title": "中国第6批赴阿卜耶伊维和直升机分队开展应急防卫演练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBadW5Od1dwUGNFZzdMaE5VbEtEcXkyYk51bm01d2Q5STlvclgyUXdSZHhwUmV5TkJBVEVKYzJhNnZKRGhXR2Q3LU1wVVBnVkhCNnc?oc=5"
+            },
+            {
+                "title": "城市使命，令新型城镇化深刻融入国家需要与时代内涵 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTeTVIdktkbU0xUVlfemVuUEMwVGFpQlN5Q3JKVVNKR2tMRTgxTVZDWEtvU2ZjQ2JIbllKdFZBaUg0ZkU4MlhucU1iSmFRS3hucmc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-14T12:41:26.664667+00:00"
+    "last_updated": "2026-02-14T18:30:38.012467+00:00"
 }
