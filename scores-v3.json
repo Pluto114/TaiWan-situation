@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "消息称字节跳动自研芯片团队已超千人，目前已形成四大产品线",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美台签署贸易协议 关税降至15% 台湾承诺大幅增购美国商品",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/556.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549792.htm"
             },
             {
-                "title": "索尼 WF-1000XM6 旗舰降噪耳机正式发布：降噪效果提升 25%，国行版本 3 月开售",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特朗普在与习近平4月会晤前暂停对华技术禁令",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/551.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549788.htm"
             },
             {
-                "title": "今日消费资讯：田柾国出任宇舶表全球品牌大使、Aesop 推出艾莉奥斯身体洁肤乳",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "李厚辰｜驳《2026年，我眼中的中国经济》，只是愿望，远非现实",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-02-13",
-                "url": "https://www.toodaylab.com/83916"
+                "url": "https://chinadigitaltimes.net/chinese/?p=725208"
             },
             {
-                "title": "8点1氪丨美司法部长拒向爱泼斯坦案幸存者道歉；影石CEO回应年会送房；12306新增“低人一等座”提醒",
-                "source": "NewsAPI / 36kr.com",
+                "title": "苹果表示Siri和Apple Intelligence升级仍计划在2026年推出",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://36kr.com/p/3680980301885317"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549780.htm"
             },
             {
-                "title": "IT早报 0213：字节跳动 Seedance 2.0 发布；12 家第三方火车票网络销售平台被约谈；《汽车行业价格行为合规指南》发布；绝大多数重点车企已把账期压缩至 60 天内...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/532.htm"
+                "title": "苹果遭遇“黑色星期四” 回应Siri更新跳票：仍计划在2026年推出",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549744.htm"
             }
         ],
         "mil": [
             {
+                "title": "全新Gemini一夜血洗编程 全球仅7人能赢它",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549752.htm"
+            },
+            {
+                "title": "四年三款爆品，LiberLive U1发布、C系列累计出货超50万台｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-13",
+                "url": "https://36kr.com/p/3681146132836226"
+            },
+            {
+                "title": "苦等 18 年：《合金装备 4》游戏告别 PS3 独占，8 月 27 日全平台解禁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-13",
+                "url": "https://www.ithome.com/0/921/603.htm"
+            },
+            {
                 "title": "索尼 WF-1000XM6 旗舰降噪耳机正式发布：降噪效果提升 25%，国行版本 3 月开售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-13",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-13",
                 "url": "https://36kr.com/p/3680980301885317"
-            },
-            {
-                "title": "IT早报 0213：字节跳动 Seedance 2.0 发布；12 家第三方火车票网络销售平台被约谈；《汽车行业价格行为合规指南》发布；绝大多数重点车企已把账期压缩至 60 天内...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/532.htm"
-            },
-            {
-                "title": "日本会再次转向军国主义吗？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-12",
-                "url": "https://www.secretchina.com/news/gb/2026/02/13/1094926.html"
-            },
-            {
-                "title": "不要让英国国内政治的“魔咒”再次左右中英关系",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-12",
-                "url": "https://www.ftchinese.com/story/001109003"
             },
             {
                 "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSHd5MS1RYzRSbW85WUFmWEJqLXNUbF9uVkpJbnZUbHhrMVlfMlJ3aFlxaHlIY3RtLVBHSVlUelNNRU1lREc2R2NaMXRDdnNFRUhHN1E4MDcySmxaa1Bhay16bVFTY2FOVHNtUUpoT1hJLUk0ZUE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "驻登巴萨总领事张志昇会见印尼东努省古邦市市长黄国吉 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-02-12",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWF2OGVKZEx0dGJEa1QwTmdSMURhLW5qS0FqYnJ0MV91Q1Jra3hISlhFaDJzTGhsOEItMlZQdS1BUHU2RkdJV2xVWVJ5dkFReG8yTXd5WXhiRmNpQXBjOGJTc1F4Szl4Vmc2NVZZcFZyMHN5anJfc0pBa2o2QmczN0luRUo?oc=5"
             },
             {
                 "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "索尼 WF-1000XM6 旗舰降噪耳机正式发布：降噪效果提升 25%，国行版本 3 月开售",
+                "title": "美台签署贸易协议 关税降至15% 台湾承诺大幅增购美国商品",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549792.htm"
+            },
+            {
+                "title": "特朗普在与习近平4月会晤前暂停对华技术禁令",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549788.htm"
+            },
+            {
+                "title": "蚂蚁集团开源 Ring-2.5-1T：首个混合线性架构万亿参数思考模型",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-13",
-                "url": "https://www.ithome.com/0/921/551.htm"
+                "url": "https://www.ithome.com/0/921/629.htm"
             },
             {
-                "title": "8点1氪丨美司法部长拒向爱泼斯坦案幸存者道歉；影石CEO回应年会送房；12306新增“低人一等座”提醒",
-                "source": "NewsAPI / 36kr.com",
+                "title": "苹果遭遇“黑色星期四” 回应Siri更新跳票：仍计划在2026年推出",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
-                "url": "https://36kr.com/p/3680980301885317"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549744.htm"
             },
             {
-                "title": "OpenAI控DeepSeek“蒸馏”美AI模型 警示商业与国安隐患(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-12",
-                "url": "https://www.secretchina.com/news/gb/2026/02/13/1094931.html"
-            },
-            {
-                "title": "IT早报 0213：字节跳动 Seedance 2.0 发布；12 家第三方火车票网络销售平台被约谈；《汽车行业价格行为合规指南》发布；绝大多数重点车企已把账期压缩至 60 天内...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/532.htm"
-            },
-            {
-                "title": "韩情报机构称金正恩之女或为潜在继承人",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-12",
-                "url": "https://www.dw.com/zh/%E9%9F%A9%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E7%A7%B0%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%8B%E5%A5%B3%E6%88%96%E4%B8%BA%E6%BD%9C%E5%9C%A8%E7%BB%A7%E6%89%BF%E4%BA%BA/a-75939231"
+                "title": "前明星研究员警告：ChatGPT投放广告恐让OpenAI重蹈Facebook覆辙",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1549740.htm"
             },
             {
                 "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSHd5MS1RYzRSbW85WUFmWEJqLXNUbF9uVkpJbnZUbHhrMVlfMlJ3aFlxaHlIY3RtLVBHSVlUelNNRU1lREc2R2NaMXRDdnNFRUhHN1E4MDcySmxaa1Bhay16bVFTY2FOVHNtUUpoT1hJLUk0ZUE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "驻登巴萨总领事张志昇会见印尼东努省古邦市市长黄国吉 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-02-12",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWF2OGVKZEx0dGJEa1QwTmdSMURhLW5qS0FqYnJ0MV91Q1Jra3hISlhFaDJzTGhsOEItMlZQdS1BUHU2RkdJV2xVWVJ5dkFReG8yTXd5WXhiRmNpQXBjOGJTc1F4Szl4Vmc2NVZZcFZyMHN5anJfc0pBa2o2QmczN0luRUo?oc=5"
             },
             {
                 "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-14T01:50:49.788160+00:00"
+    "last_updated": "2026-02-14T06:40:42.981045+00:00"
 }
