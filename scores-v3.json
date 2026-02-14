@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "众议院通过《保障美国关键矿产供应法案》",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-02-12",
-                "url": "https://www.voachinese.com/a/house-passed-securing-america-s-critical-minerals-supply-act-20260212/8113363.html"
+                "title": "消息称字节跳动自研芯片团队已超千人，目前已形成四大产品线",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-13",
+                "url": "https://www.ithome.com/0/921/556.htm"
             },
             {
-                "title": "不要让英国国内政治的“魔咒”再次左右中英关系",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-12",
-                "url": "https://www.ftchinese.com/story/001109003"
+                "title": "索尼 WF-1000XM6 旗舰降噪耳机正式发布：降噪效果提升 25%，国行版本 3 月开售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-13",
+                "url": "https://www.ithome.com/0/921/551.htm"
             },
             {
-                "title": "曝三星 Galaxy S26+ 手机全球版搭载 Exynos 2600 芯片，美版 / 国行预计为第五代骁龙 8 至尊版",
+                "title": "今日消费资讯：田柾国出任宇舶表全球品牌大使、Aesop 推出艾莉奥斯身体洁肤乳",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-02-13",
+                "url": "https://www.toodaylab.com/83916"
+            },
+            {
+                "title": "8点1氪丨美司法部长拒向爱泼斯坦案幸存者道歉；影石CEO回应年会送房；12306新增“低人一等座”提醒",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-13",
+                "url": "https://36kr.com/p/3680980301885317"
+            },
+            {
+                "title": "IT早报 0213：字节跳动 Seedance 2.0 发布；12 家第三方火车票网络销售平台被约谈；《汽车行业价格行为合规指南》发布；绝大多数重点车企已把账期压缩至 60 天内...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-12",
-                "url": "https://www.ithome.com/0/921/523.htm"
-            },
-            {
-                "title": "中欧关税博弈余波：北京宣布对欧盟乳制品加征五年关税",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-12",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%AC%A7%E5%85%B3%E7%A8%8E%E5%8D%9A%E5%BC%88%E4%BD%99%E6%B3%A2%E5%8C%97%E4%BA%AC%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%AC%A7%E7%9B%9F%E4%B9%B3%E5%88%B6%E5%93%81%E5%8A%A0%E5%BE%81%E4%BA%94%E5%B9%B4%E5%85%B3%E7%A8%8E/a-75932936"
-            },
-            {
-                "title": "九成国人月入不足五千 动荡风险加剧如何自保？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-12",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094891.html"
+                "url": "https://www.ithome.com/0/921/532.htm"
             }
         ],
         "mil": [
+            {
+                "title": "索尼 WF-1000XM6 旗舰降噪耳机正式发布：降噪效果提升 25%，国行版本 3 月开售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-13",
+                "url": "https://www.ithome.com/0/921/551.htm"
+            },
+            {
+                "title": "8点1氪丨美司法部长拒向爱泼斯坦案幸存者道歉；影石CEO回应年会送房；12306新增“低人一等座”提醒",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-13",
+                "url": "https://36kr.com/p/3680980301885317"
+            },
+            {
+                "title": "IT早报 0213：字节跳动 Seedance 2.0 发布；12 家第三方火车票网络销售平台被约谈；《汽车行业价格行为合规指南》发布；绝大多数重点车企已把账期压缩至 60 天内...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-12",
+                "url": "https://www.ithome.com/0/921/532.htm"
+            },
             {
                 "title": "日本会再次转向军国主义吗？(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.ftchinese.com/story/001109003"
             },
             {
-                "title": "美战争部下令第二航母打击群备战中东 施压伊朗核谈判(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-12",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094920.html"
-            },
-            {
-                "title": "俄军士兵抨击当局对Telegram服务降速 莫斯科同时全面封禁WhatsApp",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549702.htm"
-            },
-            {
-                "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-12",
-                "url": "https://36kr.com/p/3680069763313539"
-            },
-            {
                 "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-13",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSHd5MS1RYzRSbW85WUFmWEJqLXNUbF9uVkpJbnZUbHhrMVlfMlJ3aFlxaHlIY3RtLVBHSVlUelNNRU1lREc2R2NaMXRDdnNFRUhHN1E4MDcySmxaa1Bhay16bVFTY2FOVHNtUUpoT1hJLUk0ZUE?oc=5"
             },
             {
-                "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
@@ -104,13 +104,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56V1RXbmw4cDE5THZUM2NXS1dXS0lzNEplcWc5SldTcmJDTjVwRE01VnFzdU54ZnRHRHVtZlVwbW54ZUY4cU5reU4td0N1TkFVclE?oc=5"
             },
             {
-                "title": "2026年2月12日中国国防报第03版：动员 - 中国军网",
+                "title": "中国第6批赴阿卜耶伊维和直升机分队开展应急防卫演练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmhpWDl2eEJnd3VWVjRDaXBrVjdCeVpQVDZmajAtTzJfSDVPSnc4SXRHa0FLamZQYUUwVGRJT2pBSk1UazJiTnNmU05EN0NjWncwbzVwcU9NVnBZVW9jZVgySTlnTGEyNzFpYmNpOUU2ZVNfd0UwMU1uLU1CQ3RVYVBqV2JEUHU0eEhhX0NiWmZiUG8wa05rWmNWTU5kRUJN?oc=5"
+                "date": "2026-02-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBadW5Od1dwUGNFZzdMaE5VbEtEcXkyYk51bm01d2Q5STlvclgyUXdSZHhwUmV5TkJBVEVKYzJhNnZKRGhXR2Q3LU1wVVBnVkhCNnc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "索尼 WF-1000XM6 旗舰降噪耳机正式发布：降噪效果提升 25%，国行版本 3 月开售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-13",
+                "url": "https://www.ithome.com/0/921/551.htm"
+            },
+            {
+                "title": "8点1氪丨美司法部长拒向爱泼斯坦案幸存者道歉；影石CEO回应年会送房；12306新增“低人一等座”提醒",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-13",
+                "url": "https://36kr.com/p/3680980301885317"
+            },
+            {
+                "title": "OpenAI控DeepSeek“蒸馏”美AI模型 警示商业与国安隐患(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-12",
+                "url": "https://www.secretchina.com/news/gb/2026/02/13/1094931.html"
+            },
+            {
+                "title": "IT早报 0213：字节跳动 Seedance 2.0 发布；12 家第三方火车票网络销售平台被约谈；《汽车行业价格行为合规指南》发布；绝大多数重点车企已把账期压缩至 60 天内...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-12",
+                "url": "https://www.ithome.com/0/921/532.htm"
+            },
             {
                 "title": "韩情报机构称金正恩之女或为潜在继承人",
                 "source": "NewsAPI / DW (English)",
@@ -118,30 +142,6 @@
                 "url": "https://www.dw.com/zh/%E9%9F%A9%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E7%A7%B0%E9%87%91%E6%AD%A3%E6%81%A9%E4%B9%8B%E5%A5%B3%E6%88%96%E4%B8%BA%E6%BD%9C%E5%9C%A8%E7%BB%A7%E6%89%BF%E4%BA%BA/a-75939231"
             },
             {
-                "title": "不要让英国国内政治的“魔咒”再次左右中英关系",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-12",
-                "url": "https://www.ftchinese.com/story/001109003"
-            },
-            {
-                "title": "加码对华策反战：中情局发布视频中共军队内部裂痕(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-12",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094923.html"
-            },
-            {
-                "title": "美战争部下令第二航母打击群备战中东 施压伊朗核谈判(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-12",
-                "url": "https://www.secretchina.com/news/gb/2026/02/12/1094920.html"
-            },
-            {
-                "title": "赖清德接受法新社专访 警告中国威胁",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-12",
-                "url": "https://www.dw.com/zh/%E8%B5%96%E6%B8%85%E5%BE%B7%E6%8E%A5%E5%8F%97%E6%B3%95%E6%96%B0%E7%A4%BE%E4%B8%93%E8%AE%BF-%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81/a-75932873"
-            },
-            {
                 "title": "2026年2月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-13",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSHd5MS1RYzRSbW85WUFmWEJqLXNUbF9uVkpJbnZUbHhrMVlfMlJ3aFlxaHlIY3RtLVBHSVlUelNNRU1lREc2R2NaMXRDdnNFRUhHN1E4MDcySmxaa1Bhay16bVFTY2FOVHNtUUpoT1hJLUk0ZUE?oc=5"
             },
             {
-                "title": "匈牙利总理欧尔班会见王毅 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93SnNfVk82WGJCeE00T0Z5WkU5VHczRld6VHhidVliWV9IS3hyZkcwZEJBMEsxdGU4T3RkRWtMN1VRMW51cHAtd0tCTGRnMXVZdWo2WEt6REVmeS15NGtrODBEQ1FTNHdCa2c2bER3?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "中国第二批赴阿卜耶伊维和快反分队开展文化交流活动，邀请维和友军一同书写春联 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56V1RXbmw4cDE5THZUM2NXS1dXS0lzNEplcWc5SldTcmJDTjVwRE01VnFzdU54ZnRHRHVtZlVwbW54ZUY4cU5reU4td0N1TkFVclE?oc=5"
             },
             {
-                "title": "2026年2月12日中国国防报第03版：动员 - 中国军网",
+                "title": "中国第6批赴阿卜耶伊维和直升机分队开展应急防卫演练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-11",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmhpWDl2eEJnd3VWVjRDaXBrVjdCeVpQVDZmajAtTzJfSDVPSnc4SXRHa0FLamZQYUUwVGRJT2pBSk1UazJiTnNmU05EN0NjWncwbzVwcU9NVnBZVW9jZVgySTlnTGEyNzFpYmNpOUU2ZVNfd0UwMU1uLU1CQ3RVYVBqV2JEUHU0eEhhX0NiWmZiUG8wa05rWmNWTU5kRUJN?oc=5"
+                "date": "2026-02-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBadW5Od1dwUGNFZzdMaE5VbEtEcXkyYk51bm01d2Q5STlvclgyUXdSZHhwUmV5TkJBVEVKYzJhNnZKRGhXR2Q3LU1wVVBnVkhCNnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-13T18:43:26.009406+00:00"
+    "last_updated": "2026-02-14T01:50:49.788160+00:00"
 }
