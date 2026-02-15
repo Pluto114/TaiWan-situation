@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "IT早报 0214：苹果 iPhone 17e 渲染图曝光；《互联网平台反垄断合规指引》出台；工信部整治汽车半幅方向盘；最高法明确辅助驾驶情形下刑事责任认定...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-13",
+                "url": "https://www.ithome.com/0/921/792.htm"
+            },
+            {
+                "title": "自由是文化兴旺的沃土(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-13",
+                "url": "https://www.secretchina.com/news/gb/2026/02/14/1094990.html"
+            },
+            {
                 "title": "美国与台湾签署对等贸易协议",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-02-13",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-02-13",
                 "url": "https://www.dw.com/zh/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%88%96%E8%A2%AB%E5%88%97%E5%85%A5%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%BB%91%E5%90%8D%E5%8D%95/a-75957889"
-            },
-            {
-                "title": "三星96GB LPCAMM2内存模组曝光 速度达9600MT/s",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549862.htm"
-            },
-            {
-                "title": "官方定论：为特朗普关税买单的是美国人而非外国人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549848.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美伊谈判僵持 川普：必要时让对方“感到恐惧”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-14",
+                "url": "https://www.secretchina.com/news/gb/2026/02/14/1094999.html"
+            },
             {
                 "title": "美伊局势升级：美军派遣最大航母驶向中东",
                 "source": "NewsAPI / DW (English)",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1549798.htm"
-            },
-            {
-                "title": "Teamily AI 推出”北美元宝派”加强版，支持多人与多个AI Agents实时社交丨涌现新项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-13",
-                "url": "https://36kr.com/p/3678646020940422"
             },
             {
                 "title": "王毅会见美国国务卿鲁比奥 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "迪士尼法务部出手，称字节跳动 Seedance 2.0 盗用漫威与星战角色训练 AI 模型",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-14",
+                "url": "https://www.ithome.com/0/921/803.htm"
+            },
+            {
+                "title": "美伊谈判僵持 川普：必要时让对方“感到恐惧”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-14",
+                "url": "https://www.secretchina.com/news/gb/2026/02/14/1094999.html"
+            },
+            {
+                "title": "IT早报 0214：苹果 iPhone 17e 渲染图曝光；《互联网平台反垄断合规指引》出台；工信部整治汽车半幅方向盘；最高法明确辅助驾驶情形下刑事责任认定...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-13",
+                "url": "https://www.ithome.com/0/921/792.htm"
+            },
+            {
+                "title": "自由是文化兴旺的沃土(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-13",
+                "url": "https://www.secretchina.com/news/gb/2026/02/14/1094990.html"
+            },
+            {
                 "title": "购置税优惠退坡首月 几家车企不太好过",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-13",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1549882.htm"
-            },
-            {
-                "title": "苹果正在测试翻盖式折叠iPhone 但尚未最终决定是否量产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549880.htm"
-            },
-            {
-                "title": "中国「高市さん、逮捕した船長をどうか丁寧に…」と批判を完全封印、最強政権を前に戦狼外交がお願いモードへ激変する敗北の様式美",
-                "source": "NewsAPI / Blog.jp",
-                "date": "2026-02-13",
-                "url": "https://asianoneta.blog.jp/63007216"
-            },
-            {
-                "title": "美伊局势升级：美军派遣最大航母驶向中东",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-13",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E7%BE%8E%E5%86%9B%E6%B4%BE%E9%81%A3%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C/a-75957671"
-            },
-            {
-                "title": "美伊局势升级：美军派遣最大航母驶向中东",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-13",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E7%BE%8E%E5%86%9B%E6%B4%BE%E9%81%A3%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C/a-75957671"
             },
             {
                 "title": "王毅会见美国国务卿鲁比奥 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-14T18:30:38.012467+00:00"
+    "last_updated": "2026-02-15T02:00:46.811125+00:00"
 }
