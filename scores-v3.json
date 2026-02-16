@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "龙芯3B6000M跑通OpenClaw",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550064.htm"
+            },
+            {
                 "title": "摆脱海外依赖，纯国产芯片龙芯 3B6000M 率先跑通 OpenClaw",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-15",
@@ -34,12 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-15",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550028.htm"
-            },
-            {
-                "title": "字节跳动被曝自研芯片成功 已进入量产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550024.htm"
             }
         ],
         "mil": [
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "空客已斩获超1500架A350系列宽体客机订单",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550060.htm"
+            },
+            {
                 "title": "朋友圈打开率下滑？网友：厌倦观摩“精装生活”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-15",
@@ -134,12 +140,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-15",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550044.htm"
-            },
-            {
-                "title": "可口可乐10年来首次销量“零增长” 涨价变味后突然卖不动了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550042.htm"
             },
             {
                 "title": "对加拿大、英国实施免签政策的通知 - 中国领事服务网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-16T12:57:24.590027+00:00"
+    "last_updated": "2026-02-16T18:39:09.208803+00:00"
 }
