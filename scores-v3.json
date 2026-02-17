@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "龙芯3B6000M跑通OpenClaw",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550064.htm"
-            },
-            {
-                "title": "摆脱海外依赖，纯国产芯片龙芯 3B6000M 率先跑通 OpenClaw",
+                "title": "北大团队成功研制“纳米栅超低功耗铁电晶体管”，已形成完全自主知识产权结构和工艺技术体系",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-15",
-                "url": "https://www.ithome.com/0/922/019.htm"
+                "url": "https://www.ithome.com/0/922/046.htm"
             },
             {
-                "title": "美国防部更新“黑名单”：长存、长鑫刚被移出又遭撤回",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 0216：国铁辟谣春运绿皮车严重超员；曝苹果已接受铠侠闪存涨价 100%；马斯克回应 SpaceX 将重心转移至月球；特斯拉美国 FSD 全面转向订阅制...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550054.htm"
+                "url": "https://www.ithome.com/0/922/045.htm"
             },
             {
-                "title": "可口可乐10年来首次销量“零增长” 涨价变味后突然卖不动了？",
+                "title": "DARPA携手雷神研发“拖曳卫士”系统 为商船构筑反无人机防线",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550042.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550074.htm"
             },
             {
-                "title": "清仓的宜家，被中产抢成了\"春运现场\"？",
+                "title": "印度ChatGPT周活跃用户达1亿 成为OpenAI全球第二大市场",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550028.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550070.htm"
+            },
+            {
+                "title": "【CDT报告汇】清廉指数：中国排名第76位，位居牙买加之后（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-02-15",
+                "url": "https://chinadigitaltimes.net/chinese/725264.html"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 0216：国铁辟谣春运绿皮车严重超员；曝苹果已接受铠侠闪存涨价 100%；马斯克回应 SpaceX 将重心转移至月球；特斯拉美国 FSD 全面转向订阅制...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-15",
+                "url": "https://www.ithome.com/0/922/045.htm"
+            },
+            {
+                "title": "习保不住了？西部战区司令、政委缺席迎春座谈会(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-15",
+                "url": "https://www.secretchina.com/news/gb/2026/02/16/1095097.html"
+            },
+            {
+                "title": "印度ChatGPT周活跃用户达1亿 成为OpenAI全球第二大市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550070.htm"
+            },
             {
                 "title": "张又侠出事前 习早已磨好刀？多省级军区主官被换(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550056.htm"
             },
             {
-                "title": "美国防部更新“黑名单”：长存、长鑫刚被移出又遭撤回",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550054.htm"
-            },
-            {
-                "title": "全球第一台计算机ENIAC 80岁了 30吨150千瓦 性能不及电动牙刷",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550022.htm"
-            },
-            {
-                "title": "一台聋哑人用的电话 怎么变成了全球上网的起点？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1549996.htm"
-            },
-            {
                 "title": "对加拿大、英国实施免签政策的通知 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-15",
@@ -92,25 +92,43 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "情暖春运路 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RVUV4NENoZXdrY0NUTy00LVltN3BESjQwT1pKUEZVb1FPUHFwVUZzR2thUTVIRmZHemdRbWtBXzBndm5mTUQ4aGN2eVRWQWN6b1E?oc=5"
-            },
-            {
-                "title": "勇于“为难自己”，以精雕细琢、精益求精的态度干好各项工作 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WMTJzQVFHREJBYXZMM0FCMF9kNTBYdWpSdlhPdTFaRnNLZHQzMDQ5T1dxN2JFUmpJVVNxV1RxNzZUa05VekMxbjh3c3REMnZFR3c?oc=5"
-            },
-            {
                 "title": "【新春走军营·战位上的新春】重托化作凌云志 “战神”奋飞向百年 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-15",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MektBam1NZDk1RWloOUhJQ1ZzcWtWZzA2UGFWS3p0QmNSV04wVHNXNmYweHF1cjNsOHpGSnJteFZCd3p1dzdaM3NHcGo0MXdrVTQyblhfR2xjWTZKcVZCWi1JWmIwdw?oc=5"
+            },
+            {
+                "title": "新春走军营丨“模范火箭炮兵连”的“年味” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-16",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVk1MRG13T0h1ZzMwOEdWczlKUjZXaHZxTTY2OWJHdGdOVFpYS3NNaGYyRmJlaFcyNkItcFN2cm1UdmhHcUw1REJuY1c?oc=5"
+            },
+            {
+                "title": "新春走军营丨春日暖意涌边关，在祖国西陲感受哨所变迁 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBELTc3TDkyMTdHQlF6MnFwbGx1MkJDLWRIRFFQeG5PZ2dUeUxaYUMzd2E2WFRBNl9PYU15d0hhSndxLVktb0lYNDBRdHZDV0RjZ2c?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "IT早报 0216：国铁辟谣春运绿皮车严重超员；曝苹果已接受铠侠闪存涨价 100%；马斯克回应 SpaceX 将重心转移至月球；特斯拉美国 FSD 全面转向订阅制...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-15",
+                "url": "https://www.ithome.com/0/922/045.htm"
+            },
+            {
+                "title": "DARPA携手雷神研发“拖曳卫士”系统 为商船构筑反无人机防线",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550074.htm"
+            },
+            {
+                "title": "印度ChatGPT周活跃用户达1亿 成为OpenAI全球第二大市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550070.htm"
+            },
             {
                 "title": "空客已斩获超1500架A350系列宽体客机订单",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -124,24 +142,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550056.htm"
             },
             {
-                "title": "美国防部更新“黑名单”：长存、长鑫刚被移出又遭撤回",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550054.htm"
-            },
-            {
-                "title": "外交部：中方决定自2026年2月17日起，对加拿大、英国持普通护照人员实施免签政策",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-15",
-                "url": "https://36kr.com/newsflashes/3684410794782339"
-            },
-            {
-                "title": "新国标拟增加汽车实体操纵件相关要求",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550044.htm"
-            },
-            {
                 "title": "对加拿大、英国实施免签政策的通知 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-15",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "情暖春运路 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RVUV4NENoZXdrY0NUTy00LVltN3BESjQwT1pKUEZVb1FPUHFwVUZzR2thUTVIRmZHemdRbWtBXzBndm5mTUQ4aGN2eVRWQWN6b1E?oc=5"
-            },
-            {
-                "title": "勇于“为难自己”，以精雕细琢、精益求精的态度干好各项工作 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WMTJzQVFHREJBYXZMM0FCMF9kNTBYdWpSdlhPdTFaRnNLZHQzMDQ5T1dxN2JFUmpJVVNxV1RxNzZUa05VekMxbjh3c3REMnZFR3c?oc=5"
-            },
-            {
                 "title": "【新春走军营·战位上的新春】重托化作凌云志 “战神”奋飞向百年 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-15",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MektBam1NZDk1RWloOUhJQ1ZzcWtWZzA2UGFWS3p0QmNSV04wVHNXNmYweHF1cjNsOHpGSnJteFZCd3p1dzdaM3NHcGo0MXdrVTQyblhfR2xjWTZKcVZCWi1JWmIwdw?oc=5"
+            },
+            {
+                "title": "新春走军营丨“模范火箭炮兵连”的“年味” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-16",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVk1MRG13T0h1ZzMwOEdWczlKUjZXaHZxTTY2OWJHdGdOVFpYS3NNaGYyRmJlaFcyNkItcFN2cm1UdmhHcUw1REJuY1c?oc=5"
+            },
+            {
+                "title": "新春走军营丨春日暖意涌边关，在祖国西陲感受哨所变迁 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBELTc3TDkyMTdHQlF6MnFwbGx1MkJDLWRIRFFQeG5PZ2dUeUxaYUMzd2E2WFRBNl9PYU15d0hhSndxLVktb0lYNDBRdHZDV0RjZ2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-16T18:39:09.208803+00:00"
+    "last_updated": "2026-02-17T01:54:27.093332+00:00"
 }
