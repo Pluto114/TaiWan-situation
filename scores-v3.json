@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "春晚“路演”大获成功 机器人距离上市更近了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550190.htm"
+            },
+            {
+                "title": "美光科技斥资2000亿美元建厂以突破AI内存瓶颈",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550180.htm"
+            },
+            {
+                "title": "春晚的两个版本 灰烬与多少宇宙的段落(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-17",
+                "url": "https://www.secretchina.com/news/gb/2026/02/17/1095138.html"
+            },
+            {
+                "title": "揭秘春晚“两个蔡明”背后，这家机器人公司的百日奋战",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-17",
+                "url": "https://36kr.com/p/3686768807243401"
+            },
+            {
                 "title": "超 2 万架无人机编队表演刷新纪录，亿航智能飞行器亮相 2026 总台春晚",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-17",
                 "url": "https://www.ithome.com/0/922/166.htm"
-            },
-            {
-                "title": "台积电筹备千亿美元投资计划 将在亚利桑那州新建四座晶圆厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550158.htm"
-            },
-            {
-                "title": "德语媒体：欧美之间的裂痕让北京看到了机会",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-16",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%AC%A7%E7%BE%8E%E4%B9%8B%E9%97%B4%E7%9A%84%E8%A3%82%E7%97%95%E8%AE%A9%E5%8C%97%E4%BA%AC%E7%9C%8B%E5%88%B0%E4%BA%86%E6%9C%BA%E4%BC%9A/a-75993299"
-            },
-            {
-                "title": "美国防长接近切断五角大楼与Anthropic的商业联系",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550142.htm"
-            },
-            {
-                "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550140.htm"
             }
         ],
         "mil": [
+            {
+                "title": "春晚“路演”大获成功 机器人距离上市更近了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550190.htm"
+            },
+            {
+                "title": "宇树机器人春晚视频在海外掀起讨论热潮",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550178.htm"
+            },
+            {
+                "title": "揭秘春晚“两个蔡明”背后，这家机器人公司的百日奋战",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-17",
+                "url": "https://36kr.com/p/3686768807243401"
+            },
             {
                 "title": "消息称马斯克旗下 SpaceX 与 xAI 参与美国国防部竞赛，研发语音指挥杀人无人机",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-16",
                 "url": "https://www.ithome.com/0/922/160.htm"
-            },
-            {
-                "title": "美国防长接近切断五角大楼与Anthropic的商业联系",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550142.htm"
-            },
-            {
-                "title": "青年与警官共同目击 深夜中的巨大UFO(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-16",
-                "url": "https://www.secretchina.com/news/gb/2026/02/16/1095117.html"
-            },
-            {
-                "title": "从白酒到人工智能 春晚营销背后的产业变迁史",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550132.htm"
             },
             {
                 "title": "中国地图 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "消息称马斯克旗下 SpaceX 与 xAI 参与美国国防部竞赛，研发语音指挥杀人无人机",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-16",
-                "url": "https://www.ithome.com/0/922/162.htm"
-            },
-            {
-                "title": "NBC主播母亲绑架案：赎金信现线索 川普警告判死刑(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-16",
-                "url": "https://www.secretchina.com/news/gb/2026/02/17/1095132.html"
-            },
-            {
-                "title": "IBM宣布将初级岗位招聘规模扩大两倍",
+                "title": "春晚“路演”大获成功 机器人距离上市更近了",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550160.htm"
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550190.htm"
             },
             {
-                "title": "台积电筹备千亿美元投资计划 将在亚利桑那州新建四座晶圆厂",
+                "title": "SpaceX将参与五角大楼自主无人机技术竞赛",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550158.htm"
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550182.htm"
             },
             {
-                "title": "美国防长接近切断五角大楼与Anthropic的商业联系",
+                "title": "宇树机器人春晚视频在海外掀起讨论热潮",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550142.htm"
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550178.htm"
+            },
+            {
+                "title": "中国银行在多地落实设备更新贴息政策",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-17",
+                "url": "https://36kr.com/newsflashes/3686807340691081"
+            },
+            {
+                "title": "揭秘春晚“两个蔡明”背后，这家机器人公司的百日奋战",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-17",
+                "url": "https://36kr.com/p/3686768807243401"
             },
             {
                 "title": "中国地图 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-18T01:58:18.632742+00:00"
+    "last_updated": "2026-02-18T06:58:15.656016+00:00"
 }
