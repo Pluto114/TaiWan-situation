@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "英国消费者团体Which?撤销针对高通的专利费诉讼 双方达成和解",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550224.htm"
+            },
+            {
+                "title": "德语媒体：展现未来的春晚",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-17",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%B1%95%E7%8E%B0%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A/a-76009033"
+            },
+            {
                 "title": "春晚第一席，为什么给了追觅扫地机？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-17",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-17",
                 "url": "https://www.secretchina.com/news/gb/2026/02/17/1095150.html"
-            },
-            {
-                "title": "日本2026众议院选举后的经济安全新格局(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-17",
-                "url": "https://www.secretchina.com/news/gb/2026/02/17/1095149.html"
-            },
-            {
-                "title": "春晚“路演”大获成功 机器人距离上市更近了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550190.htm"
             }
         ],
         "mil": [
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "2026年台海风云 升级风险与武统代价的双重考量(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-17",
+                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095160.html"
+            },
+            {
                 "title": "欧盟就儿童外观的性玩偶等疑似非法商品对SHEIN启动《数字服务法》正式调查",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-17",
@@ -134,12 +140,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-17",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550202.htm"
-            },
-            {
-                "title": "春晚“路演”大获成功 机器人距离上市更近了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550190.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-18T12:58:27.577371+00:00"
+    "last_updated": "2026-02-18T18:51:02.546705+00:00"
 }
