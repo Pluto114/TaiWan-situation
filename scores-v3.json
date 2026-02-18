@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "超 2 万架无人机编队表演刷新纪录，亿航智能飞行器亮相 2026 总台春晚",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-17",
+                "url": "https://www.ithome.com/0/922/166.htm"
+            },
+            {
                 "title": "台积电筹备千亿美元投资计划 将在亚利桑那州新建四座晶圆厂",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-16",
@@ -34,15 +40,21 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-16",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550140.htm"
-            },
-            {
-                "title": "内存端压力：消息称索尼考虑推迟下代 PS 游戏机至 2028~2029 年",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-16",
-                "url": "https://www.ithome.com/0/922/140.htm"
             }
         ],
         "mil": [
+            {
+                "title": "消息称马斯克旗下 SpaceX 与 xAI 参与美国国防部竞赛，研发语音指挥杀人无人机",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-16",
+                "url": "https://www.ithome.com/0/922/162.htm"
+            },
+            {
+                "title": "IT早报 0217：阿里除夕开源千问 3.5；微信“金色朋友圈”上线；比亚迪海外销量首次突破 100 万辆；宇树王兴兴揭秘《武 BOT》机器人“练功秘籍”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-16",
+                "url": "https://www.ithome.com/0/922/160.htm"
+            },
             {
                 "title": "美国防长接近切断五角大楼与Anthropic的商业联系",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,34 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550132.htm"
             },
             {
-                "title": "派拉蒙天舞致函字节跳动 抨击Seedance影片生成平台侵权",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550098.htm"
-            },
-            {
-                "title": "万斯卢比奥打组合拳 两年对欧心理战奏效(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-16",
-                "url": "https://www.secretchina.com/news/gb/2026/02/16/1095105.html"
-            },
-            {
-                "title": "安全提醒 通知公告 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2022-02-12",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iMkV1US1UcFVFbmRUdkt3SExNcG1XSjFDRjNsUVQzeU83eTFXZDhGeTRzR0IzUFNNNy1CZy1tY01jNmFDWWoxZ3ZPbE9ab214bngtMQ?oc=5"
-            },
-            {
                 "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-03",
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
-                "title": "南部战区新闻发言人发表谈话 - 中华人民共和国国防部",
+                "title": "重要历史文件 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-17",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85V1RHUUtQUW1EYXdyWEN4eGhBaFVYZFMzYU1YTG1Uc0FJQXZZdU01YzhJTER3bW9hRUhQb1lIeW5pSjRPRlpyUDl6dHVyRXNQazltWDdYNVg?oc=5"
+                "date": "2022-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlibGxfVU05cngtdVZ0VVJBSVZWTm1janMtbW1zTEUzN09PYXdNUzdlcFlibnh5dTczenlWLVZsclkyM1ZBQnF4ekplWW1DQWczNmJVQVJfYXFpeFgwWWN4bHNjMFJsT0tqbldYSy13MlFxSG1mSWJLNzFQTDNnR2RB?oc=5"
+            },
+            {
+                "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-09-02",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLVhVNUF5NXFPNVhvZl92ZG90VU8zbXkwdGZtVUxtdllIMU1Nc0xrOHZIYWIyTlRzX1k4LWU0UFN0LVF4NmRaaGVoYTdPMklPRVVVX01vTEVpYUxONTNWSXVLNFdrTFB3QlkwX3hSZEJVYWgtSHJtaUY4MmRPbEwwVDdhVkVQckRKV3c?oc=5"
             },
             {
                 "title": "此礼，敬家国！ - 中国军网",
@@ -104,13 +104,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnSHZKN3ZXZEczQUFiUGU0ekpKemhuX1I5Z2lzUUtDYUM1MVhrM25KSlhsTGZudGdIWkZ3TDdtRzVsaHdhUzB3bVREWXU?oc=5"
             },
             {
-                "title": "新春走军营丨“模范火箭炮兵连”的“年味” - 中国军网",
+                "title": "火箭军某旅推行高级军士流动帮带机制 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-16",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVk1MRG13T0h1ZzMwOEdWczlKUjZXaHZxTTY2OWJHdGdOVFpYS3NNaGYyRmJlaFcyNkItcFN2cm1UdmhHcUw1REJuY1c?oc=5"
+                "date": "2026-02-17",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CX01SeU1GaXRTUXgyUkJMX01sbDhSVHFOMUNFNmo5ckxCbEo5bzJqZm44YjdmYW5pRS04dTMxamZJVjFqS1hWR1lyQTRvdndWZDgw?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "消息称马斯克旗下 SpaceX 与 xAI 参与美国国防部竞赛，研发语音指挥杀人无人机",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-16",
+                "url": "https://www.ithome.com/0/922/162.htm"
+            },
+            {
+                "title": "NBC主播母亲绑架案：赎金信现线索 川普警告判死刑(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-16",
+                "url": "https://www.secretchina.com/news/gb/2026/02/17/1095132.html"
+            },
             {
                 "title": "IBM宣布将初级岗位招聘规模扩大两倍",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -130,34 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550142.htm"
             },
             {
-                "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550140.htm"
-            },
-            {
-                "title": "Apple Creator Studio 搭建了一套属于创作者的生产工具，你会为它买单吗？",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-02-16",
-                "url": "https://www.toodaylab.com/83921"
-            },
-            {
-                "title": "安全提醒 通知公告 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2022-02-12",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iMkV1US1UcFVFbmRUdkt3SExNcG1XSjFDRjNsUVQzeU83eTFXZDhGeTRzR0IzUFNNNy1CZy1tY01jNmFDWWoxZ3ZPbE9ab214bngtMQ?oc=5"
-            },
-            {
                 "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-03",
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
-                "title": "南部战区新闻发言人发表谈话 - 中华人民共和国国防部",
+                "title": "重要历史文件 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-17",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85V1RHUUtQUW1EYXdyWEN4eGhBaFVYZFMzYU1YTG1Uc0FJQXZZdU01YzhJTER3bW9hRUhQb1lIeW5pSjRPRlpyUDl6dHVyRXNQazltWDdYNVg?oc=5"
+                "date": "2022-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlibGxfVU05cngtdVZ0VVJBSVZWTm1janMtbW1zTEUzN09PYXdNUzdlcFlibnh5dTczenlWLVZsclkyM1ZBQnF4ekplWW1DQWczNmJVQVJfYXFpeFgwWWN4bHNjMFJsT0tqbldYSy13MlFxSG1mSWJLNzFQTDNnR2RB?oc=5"
+            },
+            {
+                "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-09-02",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLVhVNUF5NXFPNVhvZl92ZG90VU8zbXkwdGZtVUxtdllIMU1Nc0xrOHZIYWIyTlRzX1k4LWU0UFN0LVF4NmRaaGVoYTdPMklPRVVVX01vTEVpYUxONTNWSXVLNFdrTFB3QlkwX3hSZEJVYWgtSHJtaUY4MmRPbEwwVDdhVkVQckRKV3c?oc=5"
             },
             {
                 "title": "此礼，敬家国！ - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnSHZKN3ZXZEczQUFiUGU0ekpKemhuX1I5Z2lzUUtDYUM1MVhrM25KSlhsTGZudGdIWkZ3TDdtRzVsaHdhUzB3bVREWXU?oc=5"
             },
             {
-                "title": "新春走军营丨“模范火箭炮兵连”的“年味” - 中国军网",
+                "title": "火箭军某旅推行高级军士流动帮带机制 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-16",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVk1MRG13T0h1ZzMwOEdWczlKUjZXaHZxTTY2OWJHdGdOVFpYS3NNaGYyRmJlaFcyNkItcFN2cm1UdmhHcUw1REJuY1c?oc=5"
+                "date": "2026-02-17",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CX01SeU1GaXRTUXgyUkJMX01sbDhSVHFOMUNFNmo5ckxCbEo5bzJqZm44YjdmYW5pRS04dTMxamZJVjFqS1hWR1lyQTRvdndWZDgw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-17T18:54:22.765577+00:00"
+    "last_updated": "2026-02-18T01:58:18.632742+00:00"
 }
