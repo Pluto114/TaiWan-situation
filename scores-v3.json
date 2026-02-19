@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "安哥拉知名记者的iPhone遭Intellexa“掠食者”间谍软件入侵",
+                "title": "美国法院裁定禁止 OpenAI 使用“Cameo”名称",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550308.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550358.htm"
             },
             {
-                "title": "特斯拉弃用“Autopilot”营销术语 成功规避加州30天执照停牌处罚",
+                "title": "欧盟拟规定电动汽车需含70%本土部件才能获补贴",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550306.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550328.htm"
             },
             {
-                "title": "Jony Ive 领衔设计的 Luce 内饰与交互的确很美，同时法拉利的业绩也很好看",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-02-18",
-                "url": "https://www.toodaylab.com/83922"
-            },
-            {
-                "title": "狂砍5000亿元预算 大众极限瘦身",
+                "title": "AI芯片竞争加剧 马斯克在韩国招募半导体人才",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550276.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550326.htm"
             },
             {
-                "title": "西部数据将通过出售闪迪股份筹集30.9亿美元资金",
+                "title": "抖音副总裁否认字节是恒科指数最大空头",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550266.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550320.htm"
+            },
+            {
+                "title": "消息称未来数年苹果 iPad Pro 将进入“挤牙膏”时代：无重大设计更新、仅例行小迭代",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-18",
+                "url": "https://www.ithome.com/0/922/340.htm"
             }
         ],
         "mil": [
+            {
+                "title": "波兰禁止中国制造汽车进入军事基地",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-18",
+                "url": "https://www.dw.com/zh/%E6%B3%A2%E5%85%B0%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%85%A5%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0/a-76018742"
+            },
             {
                 "title": "2 亿美元合作告急：消息称 Anthropic 与美国军方 AI 使用分歧激化",
                 "source": "NewsAPI / Ithome.com",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-17",
                 "url": "https://www.secretchina.com/news/gb/2026/02/17/1095145.html"
-            },
-            {
-                "title": "春晚“路演”大获成功 机器人距离上市更近了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550190.htm"
             },
             {
                 "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "安哥拉知名记者的iPhone遭Intellexa“掠食者”间谍软件入侵",
+                "title": "美国法院裁定禁止 OpenAI 使用“Cameo”名称",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550308.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550358.htm"
             },
             {
-                "title": "特斯拉弃用“Autopilot”营销术语 成功规避加州30天执照停牌处罚",
+                "title": "AI芯片竞争加剧 马斯克在韩国招募半导体人才",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550306.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550326.htm"
             },
             {
-                "title": "福特借鉴F1赛车理念打造3万美元级电动皮卡",
+                "title": "拜耳公司提出72.5亿美元的计划以解决Roundup致癌案件",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550304.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550324.htm"
             },
             {
-                "title": "Jony Ive 领衔设计的 Luce 内饰与交互的确很美，同时法拉利的业绩也很好看",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "为造出 3 万美元电动皮卡，福特押注 F1 思维和内部悬赏机制",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-18",
-                "url": "https://www.toodaylab.com/83922"
+                "url": "https://www.ithome.com/0/922/342.htm"
             },
             {
-                "title": "狂砍5000亿元预算 大众极限瘦身",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "保时捷纯电 718 前途未卜，奥迪 CEO 高德诺重申“下一代 TT”仍在开发",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550276.htm"
+                "url": "https://www.ithome.com/0/922/334.htm"
             },
             {
                 "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-19T06:56:52.281049+00:00"
+    "last_updated": "2026-02-19T12:59:33.446115+00:00"
 }
