@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英国消费者团体Which?撤销针对高通的专利费诉讼 双方达成和解",
+                "title": "硅谷两大巨头深化合作：Meta 将采用英伟达数百万颗芯片",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-18",
+                "url": "https://www.ithome.com/0/922/298.htm"
+            },
+            {
+                "title": "2026年台海危机的三个新因素(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-18",
+                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095166.html"
+            },
+            {
+                "title": "Meta扩大与英伟达的合作 将在数据中心建设中采用数百万颗AI芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550224.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550254.htm"
             },
             {
-                "title": "德语媒体：展现未来的春晚",
-                "source": "NewsAPI / DW (English)",
+                "title": "多款Android平板被曝存在固件级后门“Keenadu” 疑似供应链环节遭入侵 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-17",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%B1%95%E7%8E%B0%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A/a-76009033"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550252.htm"
             },
             {
-                "title": "春晚第一席，为什么给了追觅扫地机？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-17",
-                "url": "https://36kr.com/p/3687358225739396"
-            },
-            {
-                "title": "抖音集团李亮：大量营销号有组织地炒作“字节是恒科的最大空头”，很荒唐也很恶意！",
+                "title": "IT早报 0218：2026 年总台春晚总收视份额创 13 年来新高；大年初一场次刷新国内影史纪录；抖音集团李亮驳斥“字节是恒科最大空头”论；华为手环 11 系列外观曝光...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-17",
-                "url": "https://www.ithome.com/0/922/242.htm"
-            },
-            {
-                "title": "台湾已可视为和美国签订准自由贸易协议(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-17",
-                "url": "https://www.secretchina.com/news/gb/2026/02/17/1095150.html"
+                "url": "https://www.ithome.com/0/922/278.htm"
             }
         ],
         "mil": [
+            {
+                "title": "2026年台海危机的三个新因素(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-18",
+                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095166.html"
+            },
             {
                 "title": "春晚第一席，为什么给了追觅扫地机？",
                 "source": "NewsAPI / 36kr.com",
@@ -68,13 +74,7 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550178.htm"
             },
             {
-                "title": "揭秘春晚“两个蔡明”背后，这家机器人公司的百日奋战",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-17",
-                "url": "https://36kr.com/p/3686768807243401"
-            },
-            {
-                "title": "- mfa.gov.cn",
+                "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-18",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdW5iYzNsTWYtWG43ZTdKVTQ3QllLNmE2elJfcXp1bWpSOHdQemgzSGxrVXRsb0duVGdSNUdWanhyRXBWU2xrT2EzenRyY2F3bjlQcHktUVBrWGoxcGVwRVpLUTRSQzYtaGZOcmFQR2xuX2hrWnh6RzJIS1FDd1NURndKRWNGSVlBTS04Ymdn?oc=5"
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00d1hUTVhuNTg5NV9KT2JoSGZYRlJPdFJlZnVHT0huZi1EZm53SFFqbjJOLVVWaVBVaTlxajc3S1BsWWZ2V3ZGQVB1TmsweTgwY0RpSDFXN09hMzFRZEdjZUtDaS1XZVgyMlhjNUN2MXRPaEJQZk1yY0J3?oc=5"
             },
             {
-                "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
+                "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83SFJNU25LWTFWajRRWnVaZmw5U0tDWENmTEMwZEFieFMzWkFVaGRiUHhteTRRZjJva1N5dzV2V0RZTk82a0sycjc0cWJyNXlQV19YNWNmcDNnVHJkVmNnbVRNV0lDbUFUb21z?oc=5"
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
                 "title": "此礼，敬家国！ - 中国军网",
@@ -112,37 +112,37 @@
         ],
         "pol": [
             {
-                "title": "2026年台海风云 升级风险与武统代价的双重考量(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-17",
-                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095160.html"
+                "title": "硅谷两大巨头深化合作：Meta 将采用英伟达数百万颗芯片",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-18",
+                "url": "https://www.ithome.com/0/922/298.htm"
             },
             {
-                "title": "欧盟就儿童外观的性玩偶等疑似非法商品对SHEIN启动《数字服务法》正式调查",
+                "title": "2026年台海危机的三个新因素(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-18",
+                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095166.html"
+            },
+            {
+                "title": "Meta扩大与英伟达的合作 将在数据中心建设中采用数百万颗AI芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550220.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550254.htm"
             },
             {
-                "title": "春晚第一席，为什么给了追觅扫地机？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-17",
-                "url": "https://36kr.com/p/3687358225739396"
-            },
-            {
-                "title": "日本2026众议院选举后的经济安全新格局(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-17",
-                "url": "https://www.secretchina.com/news/gb/2026/02/17/1095149.html"
-            },
-            {
-                "title": "欧洲议会以数据隐私为由禁止在公务设备上使用AI功能",
+                "title": "多款Android平板被曝存在固件级后门“Keenadu” 疑似供应链环节遭入侵 ​",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550202.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550252.htm"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "欧洲强硬对抗科技巨头 或触怒美国",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550240.htm"
+            },
+            {
+                "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-18",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdW5iYzNsTWYtWG43ZTdKVTQ3QllLNmE2elJfcXp1bWpSOHdQemgzSGxrVXRsb0duVGdSNUdWanhyRXBWU2xrT2EzenRyY2F3bjlQcHktUVBrWGoxcGVwRVpLUTRSQzYtaGZOcmFQR2xuX2hrWnh6RzJIS1FDd1NURndKRWNGSVlBTS04Ymdn?oc=5"
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00d1hUTVhuNTg5NV9KT2JoSGZYRlJPdFJlZnVHT0huZi1EZm53SFFqbjJOLVVWaVBVaTlxajc3S1BsWWZ2V3ZGQVB1TmsweTgwY0RpSDFXN09hMzFRZEdjZUtDaS1XZVgyMlhjNUN2MXRPaEJQZk1yY0J3?oc=5"
             },
             {
-                "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
+                "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83SFJNU25LWTFWajRRWnVaZmw5U0tDWENmTEMwZEFieFMzWkFVaGRiUHhteTRRZjJva1N5dzV2V0RZTk82a0sycjc0cWJyNXlQV19YNWNmcDNnVHJkVmNnbVRNV0lDbUFUb21z?oc=5"
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
                 "title": "此礼，敬家国！ - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-18T18:51:02.546705+00:00"
+    "last_updated": "2026-02-19T01:57:10.796570+00:00"
 }
