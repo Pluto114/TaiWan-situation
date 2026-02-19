@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "硅谷两大巨头深化合作：Meta 将采用英伟达数百万颗芯片",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-18",
-                "url": "https://www.ithome.com/0/922/298.htm"
-            },
-            {
-                "title": "2026年台海危机的三个新因素(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-18",
-                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095166.html"
-            },
-            {
-                "title": "Meta扩大与英伟达的合作 将在数据中心建设中采用数百万颗AI芯片",
+                "title": "安哥拉知名记者的iPhone遭Intellexa“掠食者”间谍软件入侵",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550254.htm"
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550308.htm"
             },
             {
-                "title": "多款Android平板被曝存在固件级后门“Keenadu” 疑似供应链环节遭入侵 ​",
+                "title": "特斯拉弃用“Autopilot”营销术语 成功规避加州30天执照停牌处罚",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550252.htm"
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550306.htm"
             },
             {
-                "title": "IT早报 0218：2026 年总台春晚总收视份额创 13 年来新高；大年初一场次刷新国内影史纪录；抖音集团李亮驳斥“字节是恒科最大空头”论；华为手环 11 系列外观曝光...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-17",
-                "url": "https://www.ithome.com/0/922/278.htm"
+                "title": "Jony Ive 领衔设计的 Luce 内饰与交互的确很美，同时法拉利的业绩也很好看",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-02-18",
+                "url": "https://www.toodaylab.com/83922"
+            },
+            {
+                "title": "狂砍5000亿元预算 大众极限瘦身",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550276.htm"
+            },
+            {
+                "title": "西部数据将通过出售闪迪股份筹集30.9亿美元资金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550266.htm"
             }
         ],
         "mil": [
+            {
+                "title": "2 亿美元合作告急：消息称 Anthropic 与美国军方 AI 使用分歧激化",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-18",
+                "url": "https://www.ithome.com/0/922/306.htm"
+            },
             {
                 "title": "2026年台海危机的三个新因素(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550190.htm"
             },
             {
-                "title": "宇树机器人春晚视频在海外掀起讨论热潮",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550178.htm"
-            },
-            {
                 "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-18",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
-                "title": "此礼，敬家国！ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5Q0JIQjd4cTZDOFE1NnlSUm9HaC1CY3pfclBGOWdjNHRKdDRrQ3NNUVZldUhGdDVxNV9PeTJlOHdGVEdJZWRHNWcxdjV2d1BVbUE?oc=5"
-            },
-            {
                 "title": "韩国统一部：向朝鲜放飞无人机“极其危险” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-18",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-17",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnSHZKN3ZXZEczQUFiUGU0ekpKemhuX1I5Z2lzUUtDYUM1MVhrM25KSlhsTGZudGdIWkZ3TDdtRzVsaHdhUzB3bVREWXU?oc=5"
+            },
+            {
+                "title": "火箭军某旅推行高级军士流动帮带机制 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-17",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CX01SeU1GaXRTUXgyUkJMX01sbDhSVHFOMUNFNmo5ckxCbEo5bzJqZm44YjdmYW5pRS04dTMxamZJVjFqS1hWR1lyQTRvdndWZDgw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "硅谷两大巨头深化合作：Meta 将采用英伟达数百万颗芯片",
-                "source": "NewsAPI / Ithome.com",
+                "title": "安哥拉知名记者的iPhone遭Intellexa“掠食者”间谍软件入侵",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.ithome.com/0/922/298.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550308.htm"
             },
             {
-                "title": "2026年台海危机的三个新因素(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "特斯拉弃用“Autopilot”营销术语 成功规避加州30天执照停牌处罚",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-18",
-                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095166.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550306.htm"
             },
             {
-                "title": "Meta扩大与英伟达的合作 将在数据中心建设中采用数百万颗AI芯片",
+                "title": "福特借鉴F1赛车理念打造3万美元级电动皮卡",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550254.htm"
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550304.htm"
             },
             {
-                "title": "多款Android平板被曝存在固件级后门“Keenadu” 疑似供应链环节遭入侵 ​",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550252.htm"
+                "title": "Jony Ive 领衔设计的 Luce 内饰与交互的确很美，同时法拉利的业绩也很好看",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-02-18",
+                "url": "https://www.toodaylab.com/83922"
             },
             {
-                "title": "欧洲强硬对抗科技巨头 或触怒美国",
+                "title": "狂砍5000亿元预算 大众极限瘦身",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550240.htm"
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550276.htm"
             },
             {
                 "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
-                "title": "此礼，敬家国！ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5Q0JIQjd4cTZDOFE1NnlSUm9HaC1CY3pfclBGOWdjNHRKdDRrQ3NNUVZldUhGdDVxNV9PeTJlOHdGVEdJZWRHNWcxdjV2d1BVbUE?oc=5"
-            },
-            {
                 "title": "韩国统一部：向朝鲜放飞无人机“极其危险” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-18",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-17",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnSHZKN3ZXZEczQUFiUGU0ekpKemhuX1I5Z2lzUUtDYUM1MVhrM25KSlhsTGZudGdIWkZ3TDdtRzVsaHdhUzB3bVREWXU?oc=5"
+            },
+            {
+                "title": "火箭军某旅推行高级军士流动帮带机制 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-17",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CX01SeU1GaXRTUXgyUkJMX01sbDhSVHFOMUNFNmo5ckxCbEo5bzJqZm44YjdmYW5pRS04dTMxamZJVjFqS1hWR1lyQTRvdndWZDgw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-19T01:57:10.796570+00:00"
+    "last_updated": "2026-02-19T06:56:52.281049+00:00"
 }
