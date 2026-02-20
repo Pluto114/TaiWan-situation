@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美失业救济申请降幅超预期 劳动市场稳定(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-19",
+                "url": "https://www.secretchina.com/news/gb/2026/02/20/1095257.html"
+            },
+            {
+                "title": "德语媒体：棘手的梅尔茨北京之行",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-19",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%A3%98%E6%89%8B%E7%9A%84%E6%A2%85%E5%B0%94%E8%8C%A8%E5%8C%97%E4%BA%AC%E4%B9%8B%E8%A1%8C/a-76044412"
+            },
+            {
+                "title": "德语媒体：棘手的梅尔茨北京之行",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-19",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%A3%98%E6%89%8B%E7%9A%84%E6%A2%85%E5%B0%94%E8%8C%A8%E5%8C%97%E4%BA%AC%E4%B9%8B%E8%A1%8C/a-76044412"
+            },
+            {
+                "title": "美国对互联网自由的全球性资助遭腰斩 专案指其已名存实亡",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550488.htm"
+            },
+            {
                 "title": "比尔·盖茨因爱泼斯坦档案风波退出印度人工智能峰会主旨演讲",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-19",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550480.htm"
-            },
-            {
-                "title": "Mistral CEO警告：超过50%的企业软件可能会被AI取代",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550460.htm"
-            },
-            {
-                "title": "X被指算法系统性偏向保守派内容 新研究称会长期塑造用户政治立场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550450.htm"
-            },
-            {
-                "title": "三星拟大幅抬高新一代HBM4记忆体价格 股价创下历史新高",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550446.htm"
-            },
-            {
-                "title": "英军提前五年列装新型声学炮兵探测系统SONUS",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550442.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国对互联网自由的全球性资助遭腰斩 专案指其已名存实亡",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550488.htm"
+            },
             {
                 "title": "Starlink与Telegram双重受挫 俄罗斯在乌克兰的前线部队正遭遇严重通信难题",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,28 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550408.htm"
             },
             {
-                "title": "春晚给机器人带来了什么？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550404.htm"
-            },
-            {
                 "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-03",
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
+                "title": "重要历史文件 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlibGxfVU05cngtdVZ0VVJBSVZWTm1janMtbW1zTEUzN09PYXdNUzdlcFlibnh5dTczenlWLVZsclkyM1ZBQnF4ekplWW1DQWczNmJVQVJfYXFpeFgwWWN4bHNjMFJsT0tqbldYSy13MlFxSG1mSWJLNzFQTDNnR2RB?oc=5"
+            },
+            {
                 "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2022-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLVhVNUF5NXFPNVhvZl92ZG90VU8zbXkwdGZtVUxtdllIMU1Nc0xrOHZIYWIyTlRzX1k4LWU0UFN0LVF4NmRaaGVoYTdPMklPRVVVX01vTEVpYUxONTNWSXVLNFdrTFB3QlkwX3hSZEJVYWgtSHJtaUY4MmRPbEwwVDdhVkVQckRKV3c?oc=5"
-            },
-            {
-                "title": "记者走访座座军营，感悟一幕幕团圆故事背后的真情关爱 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-19",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrNWJqazQyak1PVGpIb3JoelpTU2VOVU4zQ1g2YTRMUjliRUhEN0FGZ1Z4RWJFWlQxYUo1dEV2QUtwRWJCNEpmYzNjNXBBWlFYNWJXakRzcUhIXzFx?oc=5"
             },
             {
                 "title": "长城论坛丨廉风胜似东风暖 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "比尔·盖茨因爱泼斯坦档案风波退出印度人工智能峰会主旨演讲",
+                "title": "Meta CEO扎克伯格在社交媒体成瘾案庭审中出庭作证",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550480.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550496.htm"
             },
             {
-                "title": "嘆民進黨修理陸配「做給中國看」 史雪燕怨淪犧牲品：若不合法，為何當時不解職？",
-                "source": "NewsAPI / Yahoo Entertainment",
-                "date": "2026-02-19",
-                "url": "https://tw.news.yahoo.com/%E5%98%86%E6%B0%91%E9%80%B2%E9%BB%A8%E4%BF%AE%E7%90%86%E9%99%B8%E9%85%8D-%E5%81%9A%E7%B5%A6%E4%B8%AD%E5%9C%8B%E7%9C%8B-%E5%8F%B2%E9%9B%AA%E7%87%95%E6%80%A8%E6%B7%AA%E7%8A%A7%E7%89%B2%E5%93%81-%E8%8B%A5%E4%B8%8D%E5%90%88%E6%B3%95-%E7%82%BA%E4%BD%95%E7%95%B6%E6%99%82%E4%B8%8D%E8%A7%A3%E8%81%B7-105629787.html"
-            },
-            {
-                "title": "Starlink与Telegram双重受挫 俄罗斯在乌克兰的前线部队正遭遇严重通信难题",
+                "title": "扎克伯格出庭作证期间法官警告智能眼镜旁听者：录影或被控藐视法庭",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550478.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550492.htm"
             },
             {
-                "title": "Mistral CEO警告：超过50%的企业软件可能会被AI取代",
+                "title": "美国对互联网自由的全球性资助遭腰斩 专案指其已名存实亡",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550460.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550488.htm"
             },
             {
-                "title": "扎克伯格：Meta 的目标是让 Instagram 更具“实用价值”，而非用户黏性",
+                "title": "亚马逊超越沃尔玛 成为全球营收规模最大的公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550486.htm"
+            },
+            {
+                "title": "2026 款奥迪 RS5 发布，630 马力双涡轮 V6 插混系统加持，10.62 万欧元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-19",
-                "url": "https://www.ithome.com/0/922/476.htm"
+                "url": "https://www.ithome.com/0/922/499.htm"
             },
             {
                 "title": "中国地图 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
+                "title": "重要历史文件 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlibGxfVU05cngtdVZ0VVJBSVZWTm1janMtbW1zTEUzN09PYXdNUzdlcFlibnh5dTczenlWLVZsclkyM1ZBQnF4ekplWW1DQWczNmJVQVJfYXFpeFgwWWN4bHNjMFJsT0tqbldYSy13MlFxSG1mSWJLNzFQTDNnR2RB?oc=5"
+            },
+            {
                 "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2022-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLVhVNUF5NXFPNVhvZl92ZG90VU8zbXkwdGZtVUxtdllIMU1Nc0xrOHZIYWIyTlRzX1k4LWU0UFN0LVF4NmRaaGVoYTdPMklPRVVVX01vTEVpYUxONTNWSXVLNFdrTFB3QlkwX3hSZEJVYWgtSHJtaUY4MmRPbEwwVDdhVkVQckRKV3c?oc=5"
-            },
-            {
-                "title": "记者走访座座军营，感悟一幕幕团圆故事背后的真情关爱 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-19",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrNWJqazQyak1PVGpIb3JoelpTU2VOVU4zQ1g2YTRMUjliRUhEN0FGZ1Z4RWJFWlQxYUo1dEV2QUtwRWJCNEpmYzNjNXBBWlFYNWJXakRzcUhIXzFx?oc=5"
             },
             {
                 "title": "长城论坛丨廉风胜似东风暖 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-20T12:53:18.607342+00:00"
+    "last_updated": "2026-02-20T18:42:07.027517+00:00"
 }
