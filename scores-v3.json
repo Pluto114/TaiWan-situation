@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "扎克伯格出庭，身边人戴 Meta 智能眼镜被法官警告",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-19",
+                "url": "https://www.ithome.com/0/922/410.htm"
+            },
+            {
+                "title": "IT早报 0219：谷歌安卓 17 将提升手机流畅度；苹果 3 月 4 日发布会或推平价版 MacBook；英伟达已出售所持全部 Arm 股份；谷歌 Pixel 10a 手机发布...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-18",
+                "url": "https://www.ithome.com/0/922/402.htm"
+            },
+            {
+                "title": "美国计划建立绕过欧洲和其他地区内容禁令的在线门户网站",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550384.htm"
+            },
+            {
+                "title": "西部数据斥资约7380万美元在泰国建设HAMR硬盘研发项目",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550378.htm"
+            },
+            {
                 "title": "涉数百亿失业金欺诈 联邦调查组进驻加州(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-18",
                 "url": "https://www.secretchina.com/news/gb/2026/02/18/1095211.html"
-            },
-            {
-                "title": "马斯克Grok 4.20突袭上线 4个AI开会互怼 47%实盘暴击GPT-5",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550368.htm"
-            },
-            {
-                "title": "美国法院裁定禁止 OpenAI 使用“Cameo”名称",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550358.htm"
-            },
-            {
-                "title": "欧盟拟规定电动汽车需含70%本土部件才能获补贴",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550328.htm"
-            },
-            {
-                "title": "AI芯片竞争加剧 马斯克在韩国招募半导体人才",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550326.htm"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 0219：谷歌安卓 17 将提升手机流畅度；苹果 3 月 4 日发布会或推平价版 MacBook；英伟达已出售所持全部 Arm 股份；谷歌 Pixel 10a 手机发布...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-18",
+                "url": "https://www.ithome.com/0/922/402.htm"
+            },
+            {
+                "title": "消息：川普或几日内对伊朗发动轰炸 恐持续数周(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-18",
+                "url": "https://www.secretchina.com/news/gb/2026/02/19/1095225.html"
+            },
             {
                 "title": "卢比奥劝说欧洲共同对抗中共国(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/02/18/1095196.html"
             },
             {
-                "title": "波兰禁止中国制造汽车进入军事基地",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-18",
-                "url": "https://www.dw.com/zh/%E6%B3%A2%E5%85%B0%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%85%A5%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0/a-76018742"
-            },
-            {
-                "title": "2 亿美元合作告急：消息称 Anthropic 与美国军方 AI 使用分歧激化",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-18",
-                "url": "https://www.ithome.com/0/922/306.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
@@ -86,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00d1hUTVhuNTg5NV9KT2JoSGZYRlJPdFJlZnVHT0huZi1EZm53SFFqbjJOLVVWaVBVaTlxajc3S1BsWWZ2V3ZGQVB1TmsweTgwY0RpSDFXN09hMzFRZEdjZUtDaS1XZVgyMlhjNUN2MXRPaEJQZk1yY0J3?oc=5"
             },
             {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
+                "title": "长城论坛丨廉风胜似东风暖 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qci12TnBCSEdoU3ptQ2VDSUhEODFnUk82MlNPdGZMdHBXbGhNWHRGNnFKem9UaFNTS2pPdy1qYV9CSlEtSjlCblVEVXV2OTFaR2c?oc=5"
             },
             {
                 "title": "韩国统一部：向朝鲜放飞无人机“极其危险” - 中国军网",
@@ -98,19 +104,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05bGJXSURBMmVaSUNEbDNLb3p6Ujdpcnh0ZWYwaUFNZDE0M3RjeDBLT1A1T3pJTUJVT2xlMG5rN2hfZnJWUVVMeUwzSUJzX25xUkE?oc=5"
             },
             {
-                "title": "火箭军某旅推行高级军士流动帮带机制 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-17",
-                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CX01SeU1GaXRTUXgyUkJMX01sbDhSVHFOMUNFNmo5ckxCbEo5bzJqZm44YjdmYW5pRS04dTMxamZJVjFqS1hWR1lyQTRvdndWZDgw?oc=5"
-            },
-            {
-                "title": "Respect Moment | The Guardians of Peace - China Military",
+                "title": "文化中国 文艺表达 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-19",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82LVlDRjVuVE9aWUJ3SlhDQUxrSXpCRGxWdVlyVE5SR0ZDWUxrNUY5dnk0T0oxdFNLcFRoc1YwczdaNng0aVhEeWJIc1dLVHYtZ0ZKY2lhTlNLdWRzOWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rV3pDcjNYRTdBV3VZTzVjVHBpNHZLT08yRmFKNml0ZHAycGs5TmQ5TXRPdS1GdzZCNnpwTG1FUzBSZVNYRUdVdllZNjJhSTdnNHc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "扎克伯格出庭，身边人戴 Meta 智能眼镜被法官警告",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-19",
+                "url": "https://www.ithome.com/0/922/410.htm"
+            },
+            {
+                "title": "美国计划建立绕过欧洲和其他地区内容禁令的在线门户网站",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550384.htm"
+            },
+            {
+                "title": "香港泰拳王爆料火灾义工被逼录假口供(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-18",
+                "url": "https://www.secretchina.com/news/gb/2026/02/19/1095219.html"
+            },
             {
                 "title": "卢比奥劝说欧洲共同对抗中共国(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -124,22 +142,10 @@
                 "url": "https://www.voachinese.com/a/us-reveals-new-details-of-alleged-chinese-nuclear-test-20260218/8115171.html"
             },
             {
-                "title": "马斯克Grok 4.20突袭上线 4个AI开会互怼 47%实盘暴击GPT-5",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550368.htm"
-            },
-            {
-                "title": "德语媒体：自由香港的终结",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-18",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E8%87%AA%E7%94%B1%E9%A6%99%E6%B8%AF%E7%9A%84%E7%BB%88%E7%BB%93/a-76024118"
-            },
-            {
-                "title": "谷爱凌代表中国参赛引争议 万斯：应代表成长国家出战(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-18",
-                "url": "https://www.secretchina.com/news/gb/2026/02/18/1095208.html"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平复信美国艾奥瓦州友人 - mfa.gov.cn",
@@ -154,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00d1hUTVhuNTg5NV9KT2JoSGZYRlJPdFJlZnVHT0huZi1EZm53SFFqbjJOLVVWaVBVaTlxajc3S1BsWWZ2V3ZGQVB1TmsweTgwY0RpSDFXN09hMzFRZEdjZUtDaS1XZVgyMlhjNUN2MXRPaEJQZk1yY0J3?oc=5"
             },
             {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
+                "title": "长城论坛丨廉风胜似东风暖 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qci12TnBCSEdoU3ptQ2VDSUhEODFnUk82MlNPdGZMdHBXbGhNWHRGNnFKem9UaFNTS2pPdy1qYV9CSlEtSjlCblVEVXV2OTFaR2c?oc=5"
             },
             {
                 "title": "韩国统一部：向朝鲜放飞无人机“极其危险” - 中国军网",
@@ -166,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05bGJXSURBMmVaSUNEbDNLb3p6Ujdpcnh0ZWYwaUFNZDE0M3RjeDBLT1A1T3pJTUJVT2xlMG5rN2hfZnJWUVVMeUwzSUJzX25xUkE?oc=5"
             },
             {
-                "title": "火箭军某旅推行高级军士流动帮带机制 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-17",
-                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CX01SeU1GaXRTUXgyUkJMX01sbDhSVHFOMUNFNmo5ckxCbEo5bzJqZm44YjdmYW5pRS04dTMxamZJVjFqS1hWR1lyQTRvdndWZDgw?oc=5"
-            },
-            {
-                "title": "Respect Moment | The Guardians of Peace - China Military",
+                "title": "文化中国 文艺表达 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-19",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82LVlDRjVuVE9aWUJ3SlhDQUxrSXpCRGxWdVlyVE5SR0ZDWUxrNUY5dnk0T0oxdFNLcFRoc1YwczdaNng0aVhEeWJIc1dLVHYtZ0ZKY2lhTlNLdWRzOWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rV3pDcjNYRTdBV3VZTzVjVHBpNHZLT08yRmFKNml0ZHAycGs5TmQ5TXRPdS1GdzZCNnpwTG1FUzBSZVNYRUdVdllZNjJhSTdnNHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-19T18:46:56.529207+00:00"
+    "last_updated": "2026-02-20T01:52:51.118904+00:00"
 }
