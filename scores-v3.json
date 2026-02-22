@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "变味的“旅游” 一场伪装成度假的绝地大逃亡(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-21",
+                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095336.html"
+            },
+            {
+                "title": "高市早苗“密令”曝光 台海若战 自卫队必出兵(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-21",
+                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095321.html"
+            },
+            {
+                "title": "直接说需求：三星 One UI 8.5 让 Bixby AI 听懂“人话”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-21",
+                "url": "https://www.ithome.com/0/922/678.htm"
+            },
+            {
                 "title": "IT早报 0221：Win11 记事本将支持插入图片；苹果要求爆料人 Prosser 宣誓作证；特斯拉推入门级 Cybertruck 车型；OpenAI 创始人惊叹中国全栈技术发展...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-20",
@@ -22,28 +40,22 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-20",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550602.htm"
-            },
-            {
-                "title": "特朗普关税折戟美国最高法院 他手中还有这些牌可打",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550600.htm"
-            },
-            {
-                "title": "美国最高法院驳回特朗普全球关税政策",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550596.htm"
-            },
-            {
-                "title": "特朗普回击最高法院判决 将对全球征10%关税并发起更多贸易调查",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550594.htm"
             }
         ],
         "mil": [
             {
+                "title": "Claude 出手一夜变天：网络安全股集体「血洗」，全球蒸发百亿市值",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-21",
+                "url": "https://www.ithome.com/0/922/704.htm"
+            },
+            {
+                "title": "从春晚舞台到全球赛场：中国人形机器人，到底走到了哪一步？ - TTGF",
+                "source": "NewsAPI / Cnblogs.com",
+                "date": "2026-02-21",
+                "url": "https://www.cnblogs.com/ChenAI-TGF/p/19627638"
+            },
+            {
                 "title": "IT早报 0221：Win11 记事本将支持插入图片；苹果要求爆料人 Prosser 宣誓作证；特斯拉推入门级 Cybertruck 车型；OpenAI 创始人惊叹中国全栈技术发展...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-20",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-20",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550596.htm"
-            },
-            {
-                "title": "中国会发生军事政变吗？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-20",
-                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095326.html"
-            },
-            {
-                "title": "特朗普考虑对伊朗实施初步有限打击 迫使其签署核协议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550590.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -92,7 +92,7 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzAxNzJVcVhZUlJhSF9McTc4NEpzVzVkUGhXZmdjb3JkYU9xdHFaUGF1STJpQ2ttU291UUx5MkRqMVBRR3NRNGNwQzctZloxaWtMdm8wM3BVQkp3bjdPczlzalRmckNVOVZ4aGg1dXFJeXBmY3BuNWhnWWlKWTBxWG9CdUNDbUZqM0E?oc=5"
             },
             {
-                "title": "新春走军营丨来自军营的拜年，请查收！ - 八一视频",
+                "title": "新春走军营丨来自军营的拜年，请查收！ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-20",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zZ0sxY0xkSEdVZTUtQ25BbHAta0FVV3JDZDMtRFNPX2E0Tl9HU2RFUEJxOTJ4d1RXTkRzUUVmb3FpRTAwN0NRd0hn?oc=5"
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "从春晚舞台到全球赛场：中国人形机器人，到底走到了哪一步？ - TTGF",
+                "source": "NewsAPI / Cnblogs.com",
+                "date": "2026-02-21",
+                "url": "https://www.cnblogs.com/ChenAI-TGF/p/19627638"
+            },
+            {
+                "title": "德总理访华前瞻：寻求战略伙伴关系中的挑战(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-21",
+                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095337.html"
+            },
+            {
+                "title": "变味的“旅游” 一场伪装成度假的绝地大逃亡(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-21",
+                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095336.html"
+            },
+            {
                 "title": "IT早报 0221：Win11 记事本将支持插入图片；苹果要求爆料人 Prosser 宣誓作证；特斯拉推入门级 Cybertruck 车型；OpenAI 创始人惊叹中国全栈技术发展...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-20",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-20",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550604.htm"
-            },
-            {
-                "title": "分析：美国最高法院驳回特朗普全球关税后，是否会退款？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550602.htm"
-            },
-            {
-                "title": "特朗普关税折戟美国最高法院 他手中还有这些牌可打",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550600.htm"
-            },
-            {
-                "title": "美国最高法院驳回特朗普全球关税政策",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550596.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -160,7 +160,7 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzAxNzJVcVhZUlJhSF9McTc4NEpzVzVkUGhXZmdjb3JkYU9xdHFaUGF1STJpQ2ttU291UUx5MkRqMVBRR3NRNGNwQzctZloxaWtMdm8wM3BVQkp3bjdPczlzalRmckNVOVZ4aGg1dXFJeXBmY3BuNWhnWWlKWTBxWG9CdUNDbUZqM0E?oc=5"
             },
             {
-                "title": "新春走军营丨来自军营的拜年，请查收！ - 八一视频",
+                "title": "新春走军营丨来自军营的拜年，请查收！ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-20",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zZ0sxY0xkSEdVZTUtQ25BbHAta0FVV3JDZDMtRFNPX2E0Tl9HU2RFUEJxOTJ4d1RXTkRzUUVmb3FpRTAwN0NRd0hn?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-22T01:56:17.858627+00:00"
+    "last_updated": "2026-02-22T06:43:04.942506+00:00"
 }
