@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
+                "title": "科技巨头购地扩建 AI 数据中心遭农民拒绝：3300 万美元买不走土地与传承",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-21",
+                "url": "https://www.ithome.com/0/922/757.htm"
+            },
+            {
+                "title": "特斯拉须为辅助驾驶致死天价赔偿案支付16.8亿元赔偿金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550690.htm"
+            },
+            {
+                "title": "台积电再次输血美国半导体 追加1000亿投资建4座芯片厂",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550686.htm"
+            },
+            {
+                "title": "业界最快：imec 发布 7-bit 175GS/s ADC 芯片，满足 AI 数据中心高速互联需求",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-21",
+                "url": "https://www.ithome.com/0/922/753.htm"
+            },
+            {
                 "title": "英特尔 18A 制程实测：M0 间距 36nm、GAA 间距 76nm，Power Via 仅用于逻辑芯片",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-21",
                 "url": "https://www.ithome.com/0/922/738.htm"
-            },
-            {
-                "title": "印度加入美国主导的“硅盟 Pax Silica”框架 强化技术供应链合作",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550666.htm"
-            },
-            {
-                "title": "美国拟推“科技志愿队”出海推广本土 AI",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550664.htm"
-            },
-            {
-                "title": "中国汽车海外产销体系崛起：2025年海外销量破900万台",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550650.htm"
-            },
-            {
-                "title": "丰田、铃木等日企正采用中国制造芯片 品质可靠不输欧美",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550646.htm"
             }
         ],
         "mil": [
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzAxNzJVcVhZUlJhSF9McTc4NEpzVzVkUGhXZmdjb3JkYU9xdHFaUGF1STJpQ2ttU291UUx5MkRqMVBRR3NRNGNwQzctZloxaWtMdm8wM3BVQkp3bjdPczlzalRmckNVOVZ4aGg1dXFJeXBmY3BuNWhnWWlKWTBxWG9CdUNDbUZqM0E?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "驻外报道_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-21",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE1KdmpYbVB2NkNnWkYyRVl4bkdSUFFNNzRSVE5veUtab3l6THQ1dTBFRG1ZYjR6eDhSd2tvTTBLNG1vZ2J5dHdMeUJTbVIwSm16U3FjQnFmcmF1Z2ZSRTF2VURobmQyRzJacWdaZzZqMVg3OVNrTF9Ud2hzcW1yemtGbEY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEVGTVJFaEtzcjd0VVVVaHRTVmdyZnVvOERETVhQbmYweE9HNl9YZF83WmpjOHp5bFJITUN5UlMyeE93bzBPN3VtWHdFZ3B3Si1TcGEwdVNEUHdFZVdXbUhGYmNhZXFEZ0M5RWI2dGJxZW9TaVIzUDRoYXN5VlQzZHIwb1RoSHVYdkg2Mk0zMERLd0pSelNVMVJXclM0YnkwOWc?oc=5"
             },
             {
                 "title": "口令使用要正规 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "特朗普：伊朗须在“10至15天”内达成协议",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-21",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%8A%E6%9C%97%E9%A1%BB%E5%9C%A810%E8%87%B315%E5%A4%A9%E5%86%85%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE/a-76072967"
+            },
+            {
+                "title": "科技巨头购地扩建 AI 数据中心遭农民拒绝：3300 万美元买不走土地与传承",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-21",
+                "url": "https://www.ithome.com/0/922/757.htm"
+            },
+            {
+                "title": "特斯拉须为辅助驾驶致死天价赔偿案支付16.8亿元赔偿金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550690.htm"
+            },
+            {
                 "title": "马斯克“放卫星”：星舰每年将发射超过10000颗卫星",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-21",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-21",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550666.htm"
-            },
-            {
-                "title": "美国拟推“科技志愿队”出海推广本土 AI",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550664.htm"
-            },
-            {
-                "title": "Google Gemini最“小”的一次迭代姚顺宇为何高呼“不可阻挡”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550630.htm"
-            },
-            {
-                "title": "美国电影协会再次敦促字节跳动遏制Seedance 2.0侵权行为",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550626.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzAxNzJVcVhZUlJhSF9McTc4NEpzVzVkUGhXZmdjb3JkYU9xdHFaUGF1STJpQ2ttU291UUx5MkRqMVBRR3NRNGNwQzctZloxaWtMdm8wM3BVQkp3bjdPczlzalRmckNVOVZ4aGg1dXFJeXBmY3BuNWhnWWlKWTBxWG9CdUNDbUZqM0E?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "驻外报道_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-21",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE1KdmpYbVB2NkNnWkYyRVl4bkdSUFFNNzRSVE5veUtab3l6THQ1dTBFRG1ZYjR6eDhSd2tvTTBLNG1vZ2J5dHdMeUJTbVIwSm16U3FjQnFmcmF1Z2ZSRTF2VURobmQyRzJacWdaZzZqMVg3OVNrTF9Ud2hzcW1yemtGbEY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEVGTVJFaEtzcjd0VVVVaHRTVmdyZnVvOERETVhQbmYweE9HNl9YZF83WmpjOHp5bFJITUN5UlMyeE93bzBPN3VtWHdFZ3B3Si1TcGEwdVNEUHdFZVdXbUhGYmNhZXFEZ0M5RWI2dGJxZW9TaVIzUDRoYXN5VlQzZHIwb1RoSHVYdkg2Mk0zMERLd0pSelNVMVJXclM0YnkwOWc?oc=5"
             },
             {
                 "title": "口令使用要正规 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-22T12:43:04.535380+00:00"
+    "last_updated": "2026-02-22T18:31:19.171770+00:00"
 }
