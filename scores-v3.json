@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "变味的“旅游” 一场伪装成度假的绝地大逃亡(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-21",
-                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095336.html"
-            },
-            {
-                "title": "高市早苗“密令”曝光 台海若战 自卫队必出兵(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-21",
-                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095321.html"
-            },
-            {
-                "title": "直接说需求：三星 One UI 8.5 让 Bixby AI 听懂“人话”",
+                "title": "英特尔 18A 制程实测：M0 间距 36nm、GAA 间距 76nm，Power Via 仅用于逻辑芯片",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-21",
-                "url": "https://www.ithome.com/0/922/678.htm"
+                "url": "https://www.ithome.com/0/922/738.htm"
             },
             {
-                "title": "IT早报 0221：Win11 记事本将支持插入图片；苹果要求爆料人 Prosser 宣誓作证；特斯拉推入门级 Cybertruck 车型；OpenAI 创始人惊叹中国全栈技术发展...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-20",
-                "url": "https://www.ithome.com/0/922/654.htm"
-            },
-            {
-                "title": "分析：美国最高法院驳回特朗普全球关税后，是否会退款？",
+                "title": "印度加入美国主导的“硅盟 Pax Silica”框架 强化技术供应链合作",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550602.htm"
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550666.htm"
+            },
+            {
+                "title": "美国拟推“科技志愿队”出海推广本土 AI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550664.htm"
+            },
+            {
+                "title": "中国汽车海外产销体系崛起：2025年海外销量破900万台",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550650.htm"
+            },
+            {
+                "title": "丰田、铃木等日企正采用中国制造芯片 品质可靠不输欧美",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550646.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Anthropic发布代码安全工具Claude Code Security 安全股一夜蒸发百亿市值",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550618.htm"
+            },
             {
                 "title": "Claude 出手一夜变天：网络安全股集体「血洗」，全球蒸发百亿市值",
                 "source": "NewsAPI / Ithome.com",
@@ -68,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550602.htm"
             },
             {
-                "title": "美国最高法院驳回特朗普全球关税政策",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550596.htm"
-            },
-            {
-                "title": "- mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-21",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGRUVTdkZkpLSlk5ODBYblFLLXZYb2FxVFRWMnNKV2l0c2xOd19LMTlWR3hseVhJS3FvcXZvQzE1R252RWxCTFdTSVIycjZBenpWZ1RzVndJV1ZHUXFRaURNX3IxZWk0NWoxcW54aXl5dUdSSjdMRGRLU3JqMmQ3T0V0WTZ5NmtNU3c?oc=5"
-            },
-            {
                 "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-21",
@@ -92,16 +86,22 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzAxNzJVcVhZUlJhSF9McTc4NEpzVzVkUGhXZmdjb3JkYU9xdHFaUGF1STJpQ2ttU291UUx5MkRqMVBRR3NRNGNwQzctZloxaWtMdm8wM3BVQkp3bjdPczlzalRmckNVOVZ4aGg1dXFJeXBmY3BuNWhnWWlKWTBxWG9CdUNDbUZqM0E?oc=5"
             },
             {
-                "title": "新春走军营丨来自军营的拜年，请查收！ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-20",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zZ0sxY0xkSEdVZTUtQ25BbHAta0FVV3JDZDMtRFNPX2E0Tl9HU2RFUEJxOTJ4d1RXTkRzUUVmb3FpRTAwN0NRd0hn?oc=5"
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-21",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE1KdmpYbVB2NkNnWkYyRVl4bkdSUFFNNzRSVE5veUtab3l6THQ1dTBFRG1ZYjR6eDhSd2tvTTBLNG1vZ2J5dHdMeUJTbVIwSm16U3FjQnFmcmF1Z2ZSRTF2VURobmQyRzJacWdaZzZqMVg3OVNrTF9Ud2hzcW1yemtGbEY?oc=5"
             },
             {
                 "title": "口令使用要正规 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-20",
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8ycHZra2c3V2E5WkpDRXhpLVFoeXd0VFk5enhlb2hDa1N2SUJubG1HYlZZQzJSemxLSGQ1YzVNRmdwNUJ3NkFJSGRIOWFqTzB3WUNiemhqdDRIRzczV19yZ25GSl8zZ2tvMFFtLTNFTG03QkdoSGM4?oc=5"
+            },
+            {
+                "title": "团结就是力量，奋斗开创未来——深入学习习近平总书记关于奋斗精神的重要论述系列述评 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-22",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fX0QwVkNIdXJybTk4QURwalp1R29IMHBSaXN2bkhhSEtqWVNBMjVtbW9la3hJTXR5dFhXVnJrdGZURkhyRE5lLURwUQ?oc=5"
             },
             {
                 "title": "沙场练兵气如虹 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "从春晚舞台到全球赛场：中国人形机器人，到底走到了哪一步？ - TTGF",
-                "source": "NewsAPI / Cnblogs.com",
-                "date": "2026-02-21",
-                "url": "https://www.cnblogs.com/ChenAI-TGF/p/19627638"
-            },
-            {
-                "title": "德总理访华前瞻：寻求战略伙伴关系中的挑战(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-21",
-                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095337.html"
-            },
-            {
-                "title": "变味的“旅游” 一场伪装成度假的绝地大逃亡(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-21",
-                "url": "https://www.secretchina.com/news/gb/2026/02/21/1095336.html"
-            },
-            {
-                "title": "IT早报 0221：Win11 记事本将支持插入图片；苹果要求爆料人 Prosser 宣誓作证；特斯拉推入门级 Cybertruck 车型；OpenAI 创始人惊叹中国全栈技术发展...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-20",
-                "url": "https://www.ithome.com/0/922/654.htm"
-            },
-            {
-                "title": "真实行驶数据揭示插电式混动车油耗远高于官方宣称",
+                "title": "马斯克“放卫星”：星舰每年将发射超过10000颗卫星",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550604.htm"
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550674.htm"
             },
             {
-                "title": "- mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "印度加入美国主导的“硅盟 Pax Silica”框架 强化技术供应链合作",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-21",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGRUVTdkZkpLSlk5ODBYblFLLXZYb2FxVFRWMnNKV2l0c2xOd19LMTlWR3hseVhJS3FvcXZvQzE1R252RWxCTFdTSVIycjZBenpWZ1RzVndJV1ZHUXFRaURNX3IxZWk0NWoxcW54aXl5dUdSSjdMRGRLU3JqMmQ3T0V0WTZ5NmtNU3c?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550666.htm"
+            },
+            {
+                "title": "美国拟推“科技志愿队”出海推广本土 AI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550664.htm"
+            },
+            {
+                "title": "Google Gemini最“小”的一次迭代姚顺宇为何高呼“不可阻挡”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550630.htm"
+            },
+            {
+                "title": "美国电影协会再次敦促字节跳动遏制Seedance 2.0侵权行为",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550626.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -160,16 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzAxNzJVcVhZUlJhSF9McTc4NEpzVzVkUGhXZmdjb3JkYU9xdHFaUGF1STJpQ2ttU291UUx5MkRqMVBRR3NRNGNwQzctZloxaWtMdm8wM3BVQkp3bjdPczlzalRmckNVOVZ4aGg1dXFJeXBmY3BuNWhnWWlKWTBxWG9CdUNDbUZqM0E?oc=5"
             },
             {
-                "title": "新春走军营丨来自军营的拜年，请查收！ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-20",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zZ0sxY0xkSEdVZTUtQ25BbHAta0FVV3JDZDMtRFNPX2E0Tl9HU2RFUEJxOTJ4d1RXTkRzUUVmb3FpRTAwN0NRd0hn?oc=5"
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-21",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE1KdmpYbVB2NkNnWkYyRVl4bkdSUFFNNzRSVE5veUtab3l6THQ1dTBFRG1ZYjR6eDhSd2tvTTBLNG1vZ2J5dHdMeUJTbVIwSm16U3FjQnFmcmF1Z2ZSRTF2VURobmQyRzJacWdaZzZqMVg3OVNrTF9Ud2hzcW1yemtGbEY?oc=5"
             },
             {
                 "title": "口令使用要正规 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-20",
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8ycHZra2c3V2E5WkpDRXhpLVFoeXd0VFk5enhlb2hDa1N2SUJubG1HYlZZQzJSemxLSGQ1YzVNRmdwNUJ3NkFJSGRIOWFqTzB3WUNiemhqdDRIRzczV19yZ25GSl8zZ2tvMFFtLTNFTG03QkdoSGM4?oc=5"
+            },
+            {
+                "title": "团结就是力量，奋斗开创未来——深入学习习近平总书记关于奋斗精神的重要论述系列述评 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-22",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fX0QwVkNIdXJybTk4QURwalp1R29IMHBSaXN2bkhhSEtqWVNBMjVtbW9la3hJTXR5dFhXVnJrdGZURkhyRE5lLURwUQ?oc=5"
             },
             {
                 "title": "沙场练兵气如虹 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-22T06:43:04.942506+00:00"
+    "last_updated": "2026-02-22T12:43:04.535380+00:00"
 }
