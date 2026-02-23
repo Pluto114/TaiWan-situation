@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "为什么酒店床上总放四个枕头?",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-22",
-                "url": "https://36kr.com/p/3694076101980039"
-            },
-            {
-                "title": "瑞萨深化与格罗方德半导体制造合作，双方达成价值数十亿美元的新协议",
+                "title": "智谱公开最新一代大模型 GLM-5 技术细节，性能显著提升",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-22",
-                "url": "https://www.ithome.com/0/922/811.htm"
+                "url": "https://www.ithome.com/0/922/853.htm"
             },
             {
-                "title": "详读 2 万 3 千字的新「AI 宪法」之后，我理解了 Anthropic 的痛苦",
+                "title": "00 后华裔天才造 AI 月老：斯坦福 5000 名学霸脱单上瘾，全美十大名校疯抢",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-22",
-                "url": "https://www.ithome.com/0/922/806.htm"
+                "url": "https://www.ithome.com/0/922/837.htm"
             },
             {
-                "title": "奥特曼嘲讽马斯克“太空数据中心”构想：在当下“荒谬” 本十年也难成气候",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "韩国关键技术被中国反超：唯一优势的电池领域已失守，技术差距扩大至 0.7 年",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550756.htm"
+                "url": "https://www.ithome.com/0/922/830.htm"
             },
             {
-                "title": "山姆·奥特曼质疑企业借人工智能当替罪羊",
+                "title": "黑客借助生成式AI五周攻陷全球600台Fortinet防火墙",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550752.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550774.htm"
+            },
+            {
+                "title": "详读2万3千字的新“AI 宪法”之后 我理解了Anthropic的痛苦",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550758.htm"
             }
         ],
         "mil": [
             {
+                "title": "事实核查：中国的机器人士兵只是AI生成？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-02-22",
+                "url": "https://www.dw.com/zh/%E4%BA%8B%E5%AE%9E%E6%A0%B8%E6%9F%A5%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A3%AB%E5%85%B5%E5%8F%AA%E6%98%AFai%E7%94%9F%E6%88%90/a-76074758"
+            },
+            {
+                "title": "中国遗传病基因诊断领域奠基人吴冠芸逝世，享年 101 岁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-22",
+                "url": "https://www.ithome.com/0/922/833.htm"
+            },
+            {
+                "title": "详读2万3千字的新“AI 宪法”之后 我理解了Anthropic的痛苦",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550758.htm"
+            },
+            {
                 "title": "详读 2 万 3 千字的新「AI 宪法」之后，我理解了 Anthropic 的痛苦",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-22",
@@ -56,22 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1550756.htm"
             },
             {
-                "title": "狂掷80亿 , 节AI大战谁赢了？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-22",
-                "url": "https://36kr.com/p/3693887791459976"
-            },
-            {
-                "title": "春晚机器人卖爆了，我们离“人手一台”还有多远？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550718.htm"
-            },
-            {
-                "title": "马年第一涨，AI股杀疯了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-22",
-                "url": "https://36kr.com/p/3693876116844424"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平致电祝贺金正恩被推举为朝鲜劳动党总书记 - mfa.gov.cn",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUb3hxbUpIdllsQ01YdEd1UFI0MHFxVmMzTFNRTXdJdW9IWERrRTFyRjd0TEgxN2Z6R1lWWTRQaXl4b0FnMWdZaTZ0Q1hkZUE0WjNobW9WeFlzb05ncUlERzZfWDZzZDZEbDJn?oc=5"
             },
             {
-                "title": "驻外报道_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "推动落实全球治理倡议 改革完善全球人权治理 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-21",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEVGTVJFaEtzcjd0VVVVaHRTVmdyZnVvOERETVhQbmYweE9HNl9YZF83WmpjOHp5bFJITUN5UlMyeE93bzBPN3VtWHdFZ3B3Si1TcGEwdVNEUHdFZVdXbUhGYmNhZXFEZ0M5RWI2dGJxZW9TaVIzUDRoYXN5VlQzZHIwb1RoSHVYdkg2Mk0zMERLd0pSelNVMVJXclM0YnkwOWc?oc=5"
-            },
-            {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
+                "date": "2026-02-23",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rbVRLUEF6YmJYbFo1U3pqVUFkdE90VlRpTEI2OWRrVnhncVZFeXhRQUYyR2w0aXRXLTZ4Y0NJZjZERHh6Si1uZ3c4OUU2c04xYVJlNXBieDF2NkN3XzAzMFJrNHlmQ1NVSEdqZzJn?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -98,19 +98,43 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
+                "title": "中共中央 国务院致第25届冬奥会中国体育代表团的贺电 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBic2pkdVVOdFRkNUl4YjdYT1o5M05jbUI3TnJSQjZXY2I2MUFJaTJhTng5WFZUUlVaTTBSVUI3enF2ZGI1WVVZUzdESmJ2eV9NYXc?oc=5"
+            },
+            {
                 "title": "团结就是力量，奋斗开创未来——深入学习习近平总书记关于奋斗精神的重要论述系列述评 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-22",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fX0QwVkNIdXJybTk4QURwalp1R29IMHBSaXN2bkhhSEtqWVNBMjVtbW9la3hJTXR5dFhXVnJrdGZURkhyRE5lLURwUQ?oc=5"
-            },
-            {
-                "title": "学习规划建议每日问答|如何理解持之以恒推进全面从严治党 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDM1pNOUotNVVaMkxFRmxhUGZYVmdIYllfSTFUNGlMVWw0S1FpWHhWMTFaNDd6T3pIVmdtRTBxcUtGQ3NYTDdCaGhIS1pRdkhuMXc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "00 后华裔天才造 AI 月老：斯坦福 5000 名学霸脱单上瘾，全美十大名校疯抢",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-22",
+                "url": "https://www.ithome.com/0/922/837.htm"
+            },
+            {
+                "title": "黑客借助生成式AI五周攻陷全球600台Fortinet防火墙",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550774.htm"
+            },
+            {
+                "title": "详读2万3千字的新“AI 宪法”之后 我理解了Anthropic的痛苦",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550758.htm"
+            },
+            {
+                "title": "双重人工监管：特斯拉承认其 Robotaxi 仍需车内司机与远程操作员",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-22",
+                "url": "https://www.ithome.com/0/922/812.htm"
+            },
             {
                 "title": "为什么酒店床上总放四个枕头?",
                 "source": "NewsAPI / 36kr.com",
@@ -118,28 +142,10 @@
                 "url": "https://36kr.com/p/3694076101980039"
             },
             {
-                "title": "详读 2 万 3 千字的新「AI 宪法」之后，我理解了 Anthropic 的痛苦",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-22",
-                "url": "https://www.ithome.com/0/922/806.htm"
-            },
-            {
-                "title": "狂掷80亿 , 节AI大战谁赢了？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-22",
-                "url": "https://36kr.com/p/3693887791459976"
-            },
-            {
-                "title": "“假蔡明”被送给了真蔡明 “春晚版熊猫”拍出近6万元高价",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550724.htm"
-            },
-            {
-                "title": "马斯克：特斯拉自动驾驶已能识别手势信号",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550716.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平致电祝贺金正恩被推举为朝鲜劳动党总书记 - mfa.gov.cn",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUb3hxbUpIdllsQ01YdEd1UFI0MHFxVmMzTFNRTXdJdW9IWERrRTFyRjd0TEgxN2Z6R1lWWTRQaXl4b0FnMWdZaTZ0Q1hkZUE0WjNobW9WeFlzb05ncUlERzZfWDZzZDZEbDJn?oc=5"
             },
             {
-                "title": "驻外报道_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "推动落实全球治理倡议 改革完善全球人权治理 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-21",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEVGTVJFaEtzcjd0VVVVaHRTVmdyZnVvOERETVhQbmYweE9HNl9YZF83WmpjOHp5bFJITUN5UlMyeE93bzBPN3VtWHdFZ3B3Si1TcGEwdVNEUHdFZVdXbUhGYmNhZXFEZ0M5RWI2dGJxZW9TaVIzUDRoYXN5VlQzZHIwb1RoSHVYdkg2Mk0zMERLd0pSelNVMVJXclM0YnkwOWc?oc=5"
-            },
-            {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
+                "date": "2026-02-23",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rbVRLUEF6YmJYbFo1U3pqVUFkdE90VlRpTEI2OWRrVnhncVZFeXhRQUYyR2w0aXRXLTZ4Y0NJZjZERHh6Si1uZ3c4OUU2c04xYVJlNXBieDF2NkN3XzAzMFJrNHlmQ1NVSEdqZzJn?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
+                "title": "中共中央 国务院致第25届冬奥会中国体育代表团的贺电 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBic2pkdVVOdFRkNUl4YjdYT1o5M05jbUI3TnJSQjZXY2I2MUFJaTJhTng5WFZUUlVaTTBSVUI3enF2ZGI1WVVZUzdESmJ2eV9NYXc?oc=5"
+            },
+            {
                 "title": "团结就是力量，奋斗开创未来——深入学习习近平总书记关于奋斗精神的重要论述系列述评 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-22",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fX0QwVkNIdXJybTk4QURwalp1R29IMHBSaXN2bkhhSEtqWVNBMjVtbW9la3hJTXR5dFhXVnJrdGZURkhyRE5lLURwUQ?oc=5"
-            },
-            {
-                "title": "学习规划建议每日问答|如何理解持之以恒推进全面从严治党 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDM1pNOUotNVVaMkxFRmxhUGZYVmdIYllfSTFUNGlMVWw0S1FpWHhWMTFaNDd6T3pIVmdtRTBxcUtGQ3NYTDdCaGhIS1pRdkhuMXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-23T07:00:51.747742+00:00"
+    "last_updated": "2026-02-23T12:58:06.131379+00:00"
 }
