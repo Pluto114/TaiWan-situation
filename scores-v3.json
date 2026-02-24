@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "北大团队首次提出集成“光纤-无线融合通信”概念，实现跨网络无缝融合",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/922/984.htm"
-            },
-            {
-                "title": "尽管增速放缓，德国仍是全球第三大经济体",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-23",
-                "url": "https://www.dw.com/zh/%E5%B0%BD%E7%AE%A1%E5%A2%9E%E9%80%9F%E6%94%BE%E7%BC%93%E5%BE%B7%E5%9B%BD%E4%BB%8D%E6%98%AF%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93/a-76089355"
-            },
-            {
-                "title": "星门项目停滞 OpenAI 紧急争抢算力：内部困境全曝光",
+                "title": "特朗普声称对在贸易协议中“耍花样”的国家加征更高关税",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550892.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550912.htm"
             },
             {
-                "title": "“没有一万块，我从三亚回不来”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "从默茨的慕安会开幕辞看动荡的欧美关系",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550880.htm"
+                "url": "https://www.ftchinese.com/story/001109024"
             },
             {
-                "title": "谷歌发布 AI 药物设计引擎 IsoDDE：被赞为“AlphaFold 4”，性能碾压上一代，但不再开源",
-                "source": "NewsAPI / Ithome.com",
+                "title": "安德鲁丑闻，会是压垮英国王室的最后一根稻草吗？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/922/939.htm"
+                "url": "https://www.ftchinese.com/story/001109020"
+            },
+            {
+                "title": "中国如何推动亚洲农业绿色转型？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-23",
+                "url": "https://www.ftchinese.com/story/001109013"
+            },
+            {
+                "title": "CFIUS可能要扩大对中企直接投资的安全审查",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-23",
+                "url": "https://www.ftchinese.com/story/001109022"
             }
         ],
         "mil": [
+            {
+                "title": "安德鲁丑闻，会是压垮英国王室的最后一根稻草吗？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-23",
+                "url": "https://www.ftchinese.com/story/001109020"
+            },
+            {
+                "title": "从默茨的慕安会开幕辞看动荡的欧美关系",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-23",
+                "url": "https://www.ftchinese.com/story/001109024"
+            },
+            {
+                "title": "CFIUS可能要扩大对中企直接投资的安全审查",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-23",
+                "url": "https://www.ftchinese.com/story/001109022"
+            },
             {
                 "title": "天使、航母与蜥蜴人？布兰登2026异象预言(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-23",
                 "url": "https://www.secretchina.com/news/gb/2026/02/23/1095426.html"
-            },
-            {
-                "title": "印度“光辉”战机第三次发生坠毁事故",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550878.htm"
-            },
-            {
-                "title": "美伊对峙全面升级 德黑兰校园再爆示威 川普下最后军事通牒(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-23",
-                "url": "https://www.secretchina.com/news/gb/2026/02/23/1095430.html"
-            },
-            {
-                "title": "中共军队大学前女子喊话：教员贪腐 婚内出轨致其流产(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-23",
-                "url": "https://www.secretchina.com/news/gb/2026/02/23/1095424.html"
             },
             {
                 "title": "德国总理默茨将访华 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "奥特曼为AI资源消耗辩护：用水担忧是假的 人类也会消耗能源",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "从默茨的慕安会开幕辞看动荡的欧美关系",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550894.htm"
+                "url": "https://www.ftchinese.com/story/001109024"
             },
             {
-                "title": "星门项目停滞 OpenAI 紧急争抢算力：内部困境全曝光",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "安德鲁丑闻，会是压垮英国王室的最后一根稻草吗？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550892.htm"
+                "url": "https://www.ftchinese.com/story/001109020"
             },
             {
-                "title": "荣耀 MWC 2026 全球发布会定档 3 月 1 日：Magic V6 折叠屏手机首发，ROBOT PHONE 前瞻亮相",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国如何推动亚洲农业绿色转型？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/922/966.htm"
+                "url": "https://www.ftchinese.com/story/001109013"
             },
             {
-                "title": "“没有一万块，我从三亚回不来”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "CFIUS可能要扩大对中企直接投资的安全审查",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550880.htm"
+                "url": "https://www.ftchinese.com/story/001109022"
             },
             {
-                "title": "月之暗面 Kimi 近 20 天收入超去年全年，成国内最快晋级十角兽公司",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德语媒体：红地毯背后的冷峻现实",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/922/957.htm"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%BA%A2%E5%9C%B0%E6%AF%AF%E8%83%8C%E5%90%8E%E7%9A%84%E5%86%B7%E5%B3%BB%E7%8E%B0%E5%AE%9E/a-76094569"
             },
             {
                 "title": "德国总理默茨将访华 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-24T12:59:36.445585+00:00"
+    "last_updated": "2026-02-24T18:58:19.351225+00:00"
 }
