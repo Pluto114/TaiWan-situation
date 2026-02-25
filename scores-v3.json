@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "荣耀 Magic V6 折叠屏手机全新「赤兔红」配色亮相，3 月 1 日 MWC 2026 全球首发",
+                "title": "7168 块英伟达 GPU 火力全开，美国实验室创纪录模拟量子微芯片",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/033.htm"
+                "url": "https://www.ithome.com/0/923/150.htm"
             },
             {
-                "title": "还好意思说别人蒸馏？马斯克抨击 Anthropic 大规模盗用训练数据",
-                "source": "NewsAPI / Ithome.com",
+                "title": "【緊急】中国、日本企業を制裁　三菱重工など20社輸出禁止で株価大荒れ",
+                "source": "NewsAPI / Nwknews.jp",
                 "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/031.htm"
+                "url": "https://nwknews.jp/archives/6232954.html"
             },
             {
-                "title": "8点1氪丨三亚飞北上广深机票逼近万元；史上最贵iPhone要来了，苹果首发折叠屏定价或冲2万；2026中国电影票房暂列全球第一",
-                "source": "NewsAPI / 36kr.com",
+                "title": "xAI与五角大楼达成协议 Grok将进入美军机密系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-24",
-                "url": "https://36kr.com/p/3696545311403904"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551004.htm"
             },
             {
-                "title": "消息称马斯克的 xAI 与美国防部签约：Grok 大模型获准用于军方涉密系统",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/923/025.htm"
+                "title": "苹果开始在美国组装 Mac mini 同时推动本土芯片制造进展",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550994.htm"
             },
             {
-                "title": "前花旗高管警告：未来几十年人工智能机器人数量将超劳动人口",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/923/023.htm"
+                "title": "美媒实地探访沙漠工厂：苹果如何让芯片供应链重返美国？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550938.htm"
             }
         ],
         "mil": [
+            {
+                "title": "xAI与五角大楼达成协议 Grok将进入美军机密系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551004.htm"
+            },
+            {
+                "title": "商务部将20家日本实体列入出口管制管控名单",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550982.htm"
+            },
+            {
+                "title": "毒枭被毙引发墨暴力冲突 美墨跨境物流全线受阻",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550934.htm"
+            },
+            {
+                "title": "斯巴鲁等 20 家日本实体被我国商务部列入关注名单",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-24",
+                "url": "https://www.ithome.com/0/923/110.htm"
+            },
             {
                 "title": "习军中亲信韩卫国被降级处理 与多名出事上将有交集(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -50,52 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/02/24/1095458.html"
             },
             {
-                "title": "8点1氪丨三亚飞北上广深机票逼近万元；史上最贵iPhone要来了，苹果首发折叠屏定价或冲2万；2026中国电影票房暂列全球第一",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-24",
-                "url": "https://36kr.com/p/3696545311403904"
-            },
-            {
-                "title": "消息称马斯克的 xAI 与美国防部签约：Grok 大模型获准用于军方涉密系统",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/923/025.htm"
-            },
-            {
-                "title": "IT早报 0224：广东登顶全国“最爱发红包”省份；鸿蒙智行尊界 SUV 伪装车曝光；月之暗面成国内最快晋级十角兽公司；曝腾讯关闭天美蒙特利尔工作室...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/923/019.htm"
-            },
-            {
-                "title": "Anthropic指控多家中国公司滥用Claude训练AI模型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1550920.htm"
-            },
-            {
                 "title": "德国总理默茨将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-23",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV19tX3Y0LUVWXzlwaEJKQnhLSnpPRkRjd19yLWlXaHNMWjNxWXVWRUZWbU9vNGxjS1RVY0YtUzVneXI1WDhlc1VnTmR3VjhDUmVhQ0NOYnB1YWs1U1QyUXpkd3ZKdEUzUVNUUkxNc0dJZlB6VEZzd1FoalFZLUdYLU5zcnE0U1lHU1E?oc=5"
             },
             {
-                "title": "驻黑山大使陈绪峰出席“欢乐春节”活动 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-23",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NUG9UMUF1TFhIYXlfRDJzVWhiY1RycjdnZjZRVENITjgyc1NtYTZHNnRQcGp5RGQ2MGF3UWVjNURlcDc3TWFBSHdlNkM5Z0JseUstSlFrMnFINXllMHZjLUc3TVJSVklFVXI1aHBaYmlNQ0ljRV9CTlRlOA?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "王毅出席联合国人权理事会第61届会议高级别会议 - mfa.gov.cn",
+                "title": "驻葡萄牙大使杨义瑞拜会葡司法部长茹迪塞 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-23",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFZNV0UxY1ltUklIeEl4NkJLeUhPY3U4ZVhHdFZkZXZtaW5TMTA4bUZEOXlSUVZ3cGt6dHBldjRPdFFPajNZZVNuWVBlbGhGU2ZoczlCUTZmd2tGSmV4VG0xZzFjRDlvX0o2NE8wbWN0Mk5sUG8tUkJ1LXBKa2tQSWYzSFE?oc=5"
-            },
-            {
-                "title": "2026年2月25日中国国防报第03版：视点 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-24",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW9MYTlMYm4ySHdPOHZTLWhFWXUzY2trWXN4RXNubkJsMTdvWGdFLTBKSms1b1VBOVBFYjBXUXVKN2kxLXp4ZzdxTktwTlZaOXVPeDdEQ0E4VG40QS1YcnhKQjNkRXRzenZiTmI2aVdZczFpR2RKVHdBNkV2dHcwdjRtVkxlbW9jcjVuNm5RSHh6d0ZlVjl0LVNLdVNOLTA3?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWhDb3U1TngxOVhqdTVJcjI1am5LanZ5ZG9EbnRYYUdWNEpBZnk1SkpKUnZtN3N5QmIwOVUwVzhXMUR4VkdpeklaQTdSNEdFMWFLUC1pUlIyWW1PNnJPaThJUGdULVo4d1ItY2MzUlN1WHlIZlZWcmplVlN4OWNBejJ2d0U?oc=5"
             },
             {
                 "title": "空军西安飞行学院某部组织飞行训练 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGd3c5eG9weUhpUDl6Y3l3dFh5UUI4VWItU3R0UFlSbjJweDlsSmloSl9CdDYyM0NGODhvaEJQaUJobkdfcEpYWlpLUFpLLXUtVUE?oc=5"
+            },
+            {
+                "title": "我赴海外维和部队官兵在任务区欢度新春 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-23",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MUVZtdXFDU1NrWVAzZThlWm9Uamc4OWxSRkhGYVJOejRHZ3R0bWJ2SEVnOUNOaHNqNWpoZWhsQWpzS0lMT1FkZUVlLWM?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "还好意思说别人蒸馏？马斯克抨击 Anthropic 大规模盗用训练数据",
-                "source": "NewsAPI / Ithome.com",
+                "title": "数字化课堂30年耗费300亿美元之后 学生成绩不进反退",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/031.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551002.htm"
             },
             {
-                "title": "8点1氪丨三亚飞北上广深机票逼近万元；史上最贵iPhone要来了，苹果首发折叠屏定价或冲2万；2026中国电影票房暂列全球第一",
-                "source": "NewsAPI / 36kr.com",
+                "title": "魅族手机业务停摆 或成绝唱 客服：未接到相关通知",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-24",
-                "url": "https://36kr.com/p/3696545311403904"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550986.htm"
             },
             {
-                "title": "前花旗高管警告：未来几十年人工智能机器人数量将超劳动人口",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/923/023.htm"
+                "title": "毒枭被毙引发墨暴力冲突 美墨跨境物流全线受阻",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550934.htm"
             },
             {
-                "title": "IT早报 0224：广东登顶全国“最爱发红包”省份；鸿蒙智行尊界 SUV 伪装车曝光；月之暗面成国内最快晋级十角兽公司；曝腾讯关闭天美蒙特利尔工作室...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/923/019.htm"
+                "title": "Uber收购停车应用SpotHero 业务版图突破网约车与外卖配送",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550932.htm"
             },
             {
-                "title": "不止打车、送外卖，Uber 收购停车应用 SpotHero 以拓宽业务",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-23",
-                "url": "https://www.ithome.com/0/923/014.htm"
+                "title": "扎克伯格被迫出庭自辩，成瘾算法被指毒害青少年",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1550924.htm"
             },
             {
                 "title": "德国总理默茨将访华 - mfa.gov.cn",
@@ -148,22 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV19tX3Y0LUVWXzlwaEJKQnhLSnpPRkRjd19yLWlXaHNMWjNxWXVWRUZWbU9vNGxjS1RVY0YtUzVneXI1WDhlc1VnTmR3VjhDUmVhQ0NOYnB1YWs1U1QyUXpkd3ZKdEUzUVNUUkxNc0dJZlB6VEZzd1FoalFZLUdYLU5zcnE0U1lHU1E?oc=5"
             },
             {
-                "title": "驻黑山大使陈绪峰出席“欢乐春节”活动 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-23",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NUG9UMUF1TFhIYXlfRDJzVWhiY1RycjdnZjZRVENITjgyc1NtYTZHNnRQcGp5RGQ2MGF3UWVjNURlcDc3TWFBSHdlNkM5Z0JseUstSlFrMnFINXllMHZjLUc3TVJSVklFVXI1aHBaYmlNQ0ljRV9CTlRlOA?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "王毅出席联合国人权理事会第61届会议高级别会议 - mfa.gov.cn",
+                "title": "驻葡萄牙大使杨义瑞拜会葡司法部长茹迪塞 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-23",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFZNV0UxY1ltUklIeEl4NkJLeUhPY3U4ZVhHdFZkZXZtaW5TMTA4bUZEOXlSUVZ3cGt6dHBldjRPdFFPajNZZVNuWVBlbGhGU2ZoczlCUTZmd2tGSmV4VG0xZzFjRDlvX0o2NE8wbWN0Mk5sUG8tUkJ1LXBKa2tQSWYzSFE?oc=5"
-            },
-            {
-                "title": "2026年2月25日中国国防报第03版：视点 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-24",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW9MYTlMYm4ySHdPOHZTLWhFWXUzY2trWXN4RXNubkJsMTdvWGdFLTBKSms1b1VBOVBFYjBXUXVKN2kxLXp4ZzdxTktwTlZaOXVPeDdEQ0E4VG40QS1YcnhKQjNkRXRzenZiTmI2aVdZczFpR2RKVHdBNkV2dHcwdjRtVkxlbW9jcjVuNm5RSHh6d0ZlVjl0LVNLdVNOLTA3?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWhDb3U1TngxOVhqdTVJcjI1am5LanZ5ZG9EbnRYYUdWNEpBZnk1SkpKUnZtN3N5QmIwOVUwVzhXMUR4VkdpeklaQTdSNEdFMWFLUC1pUlIyWW1PNnJPaThJUGdULVo4d1ItY2MzUlN1WHlIZlZWcmplVlN4OWNBejJ2d0U?oc=5"
             },
             {
                 "title": "空军西安飞行学院某部组织飞行训练 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGd3c5eG9weUhpUDl6Y3l3dFh5UUI4VWItU3R0UFlSbjJweDlsSmloSl9CdDYyM0NGODhvaEJQaUJobkdfcEpYWlpLUFpLLXUtVUE?oc=5"
+            },
+            {
+                "title": "我赴海外维和部队官兵在任务区欢度新春 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-02-23",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MUVZtdXFDU1NrWVAzZThlWm9Uamc4OWxSRkhGYVJOejRHZ3R0bWJ2SEVnOUNOaHNqNWpoZWhsQWpzS0lMT1FkZUVlLWM?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-25T01:56:41.051114+00:00"
+    "last_updated": "2026-02-25T06:58:51.870747+00:00"
 }
