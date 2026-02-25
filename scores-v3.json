@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "九识智能再获3亿美元融资，估值超百亿｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-24",
-                "url": "https://36kr.com/p/3697210914549632"
-            },
-            {
-                "title": "台经长：整体比去年好 美关税变局仅影响工具机、机械业(图)",
+                "title": "川习会有变数？专家析高院判决如何影响美对华强硬筹码(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-24",
-                "url": "https://www.secretchina.com/news/gb/2026/02/24/1095476.html"
+                "url": "https://www.secretchina.com/news/gb/2026/02/25/1095500.html"
             },
             {
-                "title": "消息称苹果 iPhone 17 Pro Max 手机国内激活销量突破 1000 万台，用时 150 天",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/303.htm"
-            },
-            {
-                "title": "特斯拉Robotaxi马斯克定价20万 比Model 3还便宜",
+                "title": "LG密歇根工厂将生产ESS用方形电池 独家供应特斯拉",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551006.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551062.htm"
             },
             {
-                "title": "7168 块英伟达 GPU 火力全开，美国实验室创纪录模拟量子微芯片",
-                "source": "NewsAPI / Ithome.com",
+                "title": "最高法院判决与特朗普关税战的“新常态”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/150.htm"
+                "url": "https://www.ftchinese.com/story/001109026"
+            },
+            {
+                "title": "从亏损到赚钱 速腾聚创靠机器人翻身",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-24",
+                "url": "https://www.ftchinese.com/story/001109042"
+            },
+            {
+                "title": "舞者与工作者：中国人形机器人的“死亡谷”困境",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-24",
+                "url": "https://www.ftchinese.com/story/001109037"
             }
         ],
         "mil": [
+            {
+                "title": "舞者与工作者：中国人形机器人的“死亡谷”困境",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-24",
+                "url": "https://www.ftchinese.com/story/001109037"
+            },
+            {
+                "title": "CIA曾警示Tim Cook评估中国在2027年前对台动武的风险",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551040.htm"
+            },
+            {
+                "title": "刘强东宣布投资50亿进入游艇行业 造10万元级别好游艇",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551036.htm"
+            },
             {
                 "title": "Wargaming 开启 Steam 发行商特卖，《战舰世界》《坦克世界》等 4 款游戏可限时“喜加一”礼包 / DLC",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-02-24",
                 "url": "https://www.dw.com/zh/%E6%8B%85%E5%BF%A7%E5%86%8D%E5%86%9B%E4%BA%8B%E5%8C%96-%E4%B8%AD%E5%9B%BD%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%90%8D%E5%8D%95/a-76103558"
-            },
-            {
-                "title": "大疆正式起诉美国联邦通信委员会 称受管制清单缺乏实质证据",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551032.htm"
-            },
-            {
-                "title": "美国海军最贵航母厕所污水倒灌 4600名水手每天排队45分钟上厕所",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551026.htm"
-            },
-            {
-                "title": "从钢铁侠到毁灭博士：漫威功臣小罗伯特 · 唐尼出任迪士尼最大邮轮“冒险号”教父，3 月 10 日首航",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/282.htm"
             },
             {
                 "title": "2026年2月24日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,9 +86,9 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻佛罗伦萨总领事尹琦出席普拉托侨界迎新春庆祝活动 - mfa.gov.cn",
+                "title": "驻佛罗伦萨总领事尹琦出席普拉托侨界迎新春庆祝活动（2026-02-24） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-24",
+                "date": "2026-02-25",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0lnVkVOdHFPZU9qZGpnWndxUmRKeWVqX09VUmZyc2NiMGpIQi1iRFAzZC1UVHNqcm1HcnJsZC10VmI0WTVxb0NXWHJFT25semNSQ21VSVJ2dFhiVjFjaUJkQndGYzBpTHVxUjJzY0hWdWp1Ql9wa2x1ZHY1U18zWHctSUg?oc=5"
             },
             {
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "央行：银联、网联春节假期共处理交易 393.02 亿笔，金额 13.12 万亿元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "最高法院判决与特朗普关税战的“新常态”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/325.htm"
+                "url": "https://www.ftchinese.com/story/001109026"
             },
             {
-                "title": "大疆正式起诉美国联邦通信委员会 称受管制清单缺乏实质证据",
+                "title": "舞者与工作者：中国人形机器人的“死亡谷”困境",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-02-24",
+                "url": "https://www.ftchinese.com/story/001109037"
+            },
+            {
+                "title": "研究揭示插电混动车充电率严重不足 不到三分之一的德国车主会“偶尔”插电",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551032.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551058.htm"
             },
             {
-                "title": "特朗普要求科技行业高管承诺承担数据中心相关成本",
+                "title": "Waymo机器人出租车营运范围扩张至美国10座城市",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551008.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551056.htm"
             },
             {
-                "title": "特斯拉Robotaxi马斯克定价20万 比Model 3还便宜",
+                "title": "CIA曾警示Tim Cook评估中国在2027年前对台动武的风险",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551006.htm"
-            },
-            {
-                "title": "2025 诺奖得主首发空气取水神器：无需电力，沙漠中每天可产水 1000 升",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/169.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551040.htm"
             },
             {
                 "title": "2026年2月24日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,9 +154,9 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻佛罗伦萨总领事尹琦出席普拉托侨界迎新春庆祝活动 - mfa.gov.cn",
+                "title": "驻佛罗伦萨总领事尹琦出席普拉托侨界迎新春庆祝活动（2026-02-24） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-24",
+                "date": "2026-02-25",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0lnVkVOdHFPZU9qZGpnWndxUmRKeWVqX09VUmZyc2NiMGpIQi1iRFAzZC1UVHNqcm1HcnJsZC10VmI0WTVxb0NXWHJFT25semNSQ21VSVJ2dFhiVjFjaUJkQndGYzBpTHVxUjJzY0hWdWp1Ql9wa2x1ZHY1U18zWHctSUg?oc=5"
             },
             {
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-25T12:58:56.217566+00:00"
+    "last_updated": "2026-02-25T19:02:32.874535+00:00"
 }
