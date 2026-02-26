@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "华为哈勃与中发展投了家热控材料公司，创始人曾造出国内首块金属基复合材料｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "库克5.1亿年薪获批 苹果两超龄董事罕见留任",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-25",
-                "url": "https://36kr.com/p/3697538397744775"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551140.htm"
             },
             {
-                "title": "中信建投：国内外大模型密集迭代，继续看好AI产业链",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国官员证实H200解禁两个月对华出口仍为0",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-25",
-                "url": "https://36kr.com/newsflashes/3697973071703680"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551132.htm"
             },
             {
-                "title": "惠普发布盈利预警：存储芯片成本飙升与关税压力下，全年业绩将处于指引区间下限",
-                "source": "NewsAPI / Ithome.com",
+                "title": "失血30亿，53岁宁波老板想再赢一次",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-25",
-                "url": "https://www.ithome.com/0/923/382.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551110.htm"
             },
             {
-                "title": "8点1氪丨凌晨3点候补成功致千元车票作废，12306回应；油价迎来年内第三次上涨；大疆起诉美国联邦通信委员会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Anthropic指控中国大模型“使诈” 马斯克凶猛炮轰 海外网友贴脸开骂",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-25",
-                "url": "https://36kr.com/p/3697959369273217"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551104.htm"
             },
             {
-                "title": "2026医疗展望：百家公司港股排队，医疗板块能否再创「神话」",
-                "source": "NewsAPI / 36kr.com",
+                "title": "马斯克再甩“王炸”：SpaceX真能重塑“太空经济学”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-25",
-                "url": "https://36kr.com/p/3679778295197314"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551100.htm"
             }
         ],
         "mil": [
             {
+                "title": "库克5.1亿年薪获批 苹果两超龄董事罕见留任",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551140.htm"
+            },
+            {
+                "title": "失血30亿，53岁宁波老板想再赢一次",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551110.htm"
+            },
+            {
+                "title": "马斯克再甩“王炸”：SpaceX真能重塑“太空经济学”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551100.htm"
+            },
+            {
                 "title": "华为哈勃与中发展投了家热控材料公司，创始人曾造出国内首块金属基复合材料｜36氪首发",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-25",
@@ -56,25 +74,7 @@
                 "url": "https://36kr.com/p/3697959369273217"
             },
             {
-                "title": "2026医疗展望：百家公司港股排队，医疗板块能否再创「神话」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-25",
-                "url": "https://36kr.com/p/3679778295197314"
-            },
-            {
-                "title": "IT早报 0225：华为 2025 年销售收入超 8800 亿元；小米计划未来五年重点攻坚芯片；大疆起诉美国联邦通信委员会 FCC；微信员工详解“面对面收照片和文件”功能...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/372.htm"
-            },
-            {
-                "title": "AI条款之争升温 美国国防部威胁终止Anthropic军方合同",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551070.htm"
-            },
-            {
-                "title": "习近平会见德国总理默茨 - mfa.gov.cn",
+                "title": "习近平会见德国总理默茨（2026-02-25） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-25",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBY2VfWEJwOHRsOE9IaU1DdHVyckwtWk45TkJLV0VCSUZ5SG5xYTNHQXNzbkR0MWgxempSdzA3a2RwQ3BzUk1iSmkzRExBREhHaG8zZDdtZENNUWxONFZKb0pDcGxIQ2VialNR?oc=5"
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "2026年2月25日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+            },
+            {
                 "title": "“破茧”是成才必经之苦 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-25",
@@ -102,47 +108,41 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-24",
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW9MYTlMYm4ySHdPOHZTLWhFWXUzY2trWXN4RXNubkJsMTdvWGdFLTBKSms1b1VBOVBFYjBXUXVKN2kxLXp4ZzdxTktwTlZaOXVPeDdEQ0E4VG40QS1YcnhKQjNkRXRzenZiTmI2aVdZczFpR2RKVHdBNkV2dHcwdjRtVkxlbW9jcjVuNm5RSHh6d0ZlVjl0LVNLdVNOLTA3?oc=5"
-            },
-            {
-                "title": "空军西安飞行学院某部组织飞行训练 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-24",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92MWp2Z1U0SEtXRUdtQ1hrOVZ3YXV2X3ljYmVvWUNCcDVJdG9LQTRQQ1FXM1g1aXpIV2Q2a25EWmhKVzZJRUFIbw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "惠普发布盈利预警：存储芯片成本飙升与关税压力下，全年业绩将处于指引区间下限",
+                "title": "库克5.1亿年薪获批 苹果两超龄董事罕见留任",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551140.htm"
+            },
+            {
+                "title": "美国官员证实H200解禁两个月对华出口仍为0",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551132.htm"
+            },
+            {
+                "title": "报告：超六成美国青少年使用过 AI 聊天机器人，54% 用于完成课业",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-25",
-                "url": "https://www.ithome.com/0/923/382.htm"
+                "url": "https://www.ithome.com/0/923/500.htm"
             },
             {
-                "title": "8点1氪丨凌晨3点候补成功致千元车票作废，12306回应；油价迎来年内第三次上涨；大疆起诉美国联邦通信委员会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "失血30亿，53岁宁波老板想再赢一次",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-25",
-                "url": "https://36kr.com/p/3697959369273217"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551110.htm"
             },
             {
-                "title": "2026医疗展望：百家公司港股排队，医疗板块能否再创「神话」",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美法官驳回xAI指控OpenAI窃取商业机密诉讼",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-25",
-                "url": "https://36kr.com/p/3679778295197314"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551106.htm"
             },
             {
-                "title": "特斯拉被指控招聘时歧视美国公民，美法官裁定诉讼继续推进",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/381.htm"
-            },
-            {
-                "title": "IT早报 0225：华为 2025 年销售收入超 8800 亿元；小米计划未来五年重点攻坚芯片；大疆起诉美国联邦通信委员会 FCC；微信员工详解“面对面收照片和文件”功能...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-24",
-                "url": "https://www.ithome.com/0/923/372.htm"
-            },
-            {
-                "title": "习近平会见德国总理默茨 - mfa.gov.cn",
+                "title": "习近平会见德国总理默茨（2026-02-25） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-25",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBY2VfWEJwOHRsOE9IaU1DdHVyckwtWk45TkJLV0VCSUZ5SG5xYTNHQXNzbkR0MWgxempSdzA3a2RwQ3BzUk1iSmkzRExBREhHaG8zZDdtZENNUWxONFZKb0pDcGxIQ2VialNR?oc=5"
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "2026年2月25日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-10",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+            },
+            {
                 "title": "“破茧”是成才必经之苦 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-25",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-02-24",
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW9MYTlMYm4ySHdPOHZTLWhFWXUzY2trWXN4RXNubkJsMTdvWGdFLTBKSms1b1VBOVBFYjBXUXVKN2kxLXp4ZzdxTktwTlZaOXVPeDdEQ0E4VG40QS1YcnhKQjNkRXRzenZiTmI2aVdZczFpR2RKVHdBNkV2dHcwdjRtVkxlbW9jcjVuNm5RSHh6d0ZlVjl0LVNLdVNOLTA3?oc=5"
-            },
-            {
-                "title": "空军西安飞行学院某部组织飞行训练 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-24",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92MWp2Z1U0SEtXRUdtQ1hrOVZ3YXV2X3ljYmVvWUNCcDVJdG9LQTRQQ1FXM1g1aXpIV2Q2a25EWmhKVzZJRUFIbw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-02-26T01:52:33.368740+00:00"
+    "last_updated": "2026-02-26T06:57:07.806996+00:00"
 }
