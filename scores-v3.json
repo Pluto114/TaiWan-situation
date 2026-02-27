@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星发布 Galaxy S26 与 S26+：小改硬件 大推 AI 体验",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551238.htm"
+                "title": "史上首次：2026 年中国手机市场迎全面普涨，消息称 3 月后新品涨幅最低超千元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-26",
+                "url": "https://www.ithome.com/0/923/730.htm"
             },
             {
-                "title": "三星停产2D NAND闪存 将旧产线改造为HBM4现代工厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551232.htm"
+                "title": "中国科学院软件研究所成为开源鸿蒙唯一特殊捐赠人：系统开发元老，与华为共同搭建底座",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-26",
+                "url": "https://www.ithome.com/0/923/725.htm"
             },
             {
-                "title": "川普提出新退休计划 目标覆盖未受益工人(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-25",
-                "url": "https://www.secretchina.com/news/gb/2026/02/26/1095545.html"
+                "title": "硬氪独家｜前商汤工业机器人团队创业融资数千万，自研一体化控制轮式工业机器人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-26",
+                "url": "https://36kr.com/p/3699447737118342"
             },
             {
-                "title": "以色列外交部副总司长埃兹拉：以色列在多个领域进一步加强与中国的合作",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-25",
-                "url": "https://www.ftchinese.com/story/001109052"
+                "title": "准确率刷新世界纪录，我国推出全球首个可溯源智能体式罕见病诊断系统 DeepRare",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-26",
+                "url": "https://www.ithome.com/0/923/718.htm"
             },
             {
-                "title": "韩台朝野恶斗比较",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-25",
-                "url": "https://www.ftchinese.com/story/001109053"
+                "title": "每瓦性能提高 10 倍，英伟达大秀下一代 AI 系统 Vera Rubin",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-26",
+                "url": "https://www.ithome.com/0/923/706.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美前F-35战斗机教官涉为中共培训飞行员被捕(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-26",
+                "url": "https://www.secretchina.com/news/gb/2026/02/26/1095563.html"
+            },
+            {
+                "title": "8点1氪丨比尔·盖茨就其与爱泼斯坦关系道歉；魅族手机或于3月正式退市；腾讯元宝回应生成拜年海报中出现骂人脏话",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-25",
+                "url": "https://36kr.com/p/3699365546667912"
+            },
+            {
+                "title": "Google为躲避欧盟巨额罚款 拟在欧洲测试搜索结果新规则",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551248.htm"
+            },
+            {
+                "title": "美智库报告：习近平对军队的清洗引发对其战争准备能力的质疑",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-02-25",
+                "url": "https://www.voachinese.com/a/assessing-xi-unprecedented-purges-of-china-s-military-20260225/8117528.html"
+            },
             {
                 "title": "美国约一成青少年把聊天机器人当“树洞” 心理专家对此深感担忧",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,31 +74,7 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1551228.htm"
             },
             {
-                "title": "以色列外交部副总司长埃兹拉：以色列在多个领域进一步加强与中国的合作",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-25",
-                "url": "https://www.ftchinese.com/story/001109052"
-            },
-            {
-                "title": "韩台朝野恶斗比较",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-02-25",
-                "url": "https://www.ftchinese.com/story/001109053"
-            },
-            {
-                "title": "AI在战争推演中频频“动用”核武器 根本停不下来",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551202.htm"
-            },
-            {
-                "title": "CIA再出招：波斯语招募伊朗线人",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-25",
-                "url": "https://www.dw.com/zh/cia%E5%86%8D%E5%87%BA%E6%8B%9B%E6%B3%A2%E6%96%AF%E8%AF%AD%E6%8B%9B%E5%8B%9F%E4%BC%8A%E6%9C%97%E7%BA%BF%E4%BA%BA/a-76117758"
-            },
-            {
-                "title": "习近平会见德国总理默茨（2026-02-25） - 外交部 - mfa.gov.cn",
+                "title": "习近平会见德国总理默茨 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-25",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBY2VfWEJwOHRsOE9IaU1DdHVyckwtWk45TkJLV0VCSUZ5SG5xYTNHQXNzbkR0MWgxempSdzA3a2RwQ3BzUk1iSmkzRExBREhHaG8zZDdtZENNUWxONFZKb0pDcGxIQ2VialNR?oc=5"
@@ -112,37 +112,37 @@
         ],
         "pol": [
             {
-                "title": "德总理抵京首日签5协议 德媒吁勿叩头(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-25",
-                "url": "https://www.secretchina.com/news/gb/2026/02/26/1095552.html"
+                "title": "中国科学院软件研究所成为开源鸿蒙唯一特殊捐赠人：系统开发元老，与华为共同搭建底座",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-26",
+                "url": "https://www.ithome.com/0/923/725.htm"
             },
             {
-                "title": "三星发布 Galaxy S26 与 S26+：小改硬件 大推 AI 体验",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551238.htm"
+                "title": "硬氪独家｜前商汤工业机器人团队创业融资数千万，自研一体化控制轮式工业机器人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-26",
+                "url": "https://36kr.com/p/3699447737118342"
             },
             {
-                "title": "美国约一成青少年把聊天机器人当“树洞” 心理专家对此深感担忧",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551228.htm"
+                "title": "特斯拉中国促销：提供 7 年超低息方案，还可选 5 年 0 息",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-26",
+                "url": "https://www.ithome.com/0/923/716.htm"
             },
             {
-                "title": "以色列外交部副总司长埃兹拉：以色列在多个领域进一步加强与中国的合作",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "8点1氪丨比尔·盖茨就其与爱泼斯坦关系道歉；魅族手机或于3月正式退市；腾讯元宝回应生成拜年海报中出现骂人脏话",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-25",
-                "url": "https://www.ftchinese.com/story/001109052"
+                "url": "https://36kr.com/p/3699365546667912"
             },
             {
-                "title": "韩台朝野恶斗比较",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "蓝箭航天：计划于今年第二季度再次开展火箭回收试验",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-25",
-                "url": "https://www.ftchinese.com/story/001109053"
+                "url": "https://www.ithome.com/0/923/695.htm"
             },
             {
-                "title": "习近平会见德国总理默茨（2026-02-25） - 外交部 - mfa.gov.cn",
+                "title": "习近平会见德国总理默茨 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-25",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBY2VfWEJwOHRsOE9IaU1DdHVyckwtWk45TkJLV0VCSUZ5SG5xYTNHQXNzbkR0MWgxempSdzA3a2RwQ3BzUk1iSmkzRExBREhHaG8zZDdtZENNUWxONFZKb0pDcGxIQ2VialNR?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-26T18:50:32.883238+00:00"
+    "last_updated": "2026-02-27T01:50:56.148579+00:00"
 }
