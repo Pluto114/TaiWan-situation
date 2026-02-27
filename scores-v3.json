@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "史上首次：2026 年中国手机市场迎全面普涨，消息称 3 月后新品涨幅最低超千元",
+                "title": "【IT之家图赏】三星 Galaxy S26 系列全系实拍：Galaxy S26 Ultra 首发原生硬件防窥屏幕",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-26",
-                "url": "https://www.ithome.com/0/923/730.htm"
+                "url": "https://www.ithome.com/0/923/871.htm"
             },
             {
-                "title": "中国科学院软件研究所成为开源鸿蒙唯一特殊捐赠人：系统开发元老，与华为共同搭建底座",
-                "source": "NewsAPI / Ithome.com",
+                "title": "NVIDIA获美国许可向中国少量出口H200芯片 迈出重返该市场的试探性一步",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-26",
-                "url": "https://www.ithome.com/0/923/725.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551324.htm"
             },
             {
-                "title": "硬氪独家｜前商汤工业机器人团队创业融资数千万，自研一体化控制轮式工业机器人",
+                "title": "美国电网电池储能设施规模创纪录增长",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551322.htm"
+            },
+            {
+                "title": "以优质供给激发家电焕新需求 AWE2026将开展多场促消费活动",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-26",
-                "url": "https://36kr.com/p/3699447737118342"
+                "url": "https://36kr.com/p/3699754370854786"
             },
             {
-                "title": "准确率刷新世界纪录，我国推出全球首个可溯源智能体式罕见病诊断系统 DeepRare",
-                "source": "NewsAPI / Ithome.com",
+                "title": "2026年中国手机市场迎全面普涨：3月后新机至少涨千元 老款也提价",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-26",
-                "url": "https://www.ithome.com/0/923/718.htm"
-            },
-            {
-                "title": "每瓦性能提高 10 倍，英伟达大秀下一代 AI 系统 Vera Rubin",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-26",
-                "url": "https://www.ithome.com/0/923/706.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551314.htm"
             }
         ],
         "mil": [
+            {
+                "title": "花4万买“他会回头”结果人财两空 赛博算命收割了多少脆弱的心?",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551308.htm"
+            },
+            {
+                "title": "存储涨价，要了传音的命了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551270.htm"
+            },
             {
                 "title": "美前F-35战斗机教官涉为中共培训飞行员被捕(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1551248.htm"
             },
             {
-                "title": "美智库报告：习近平对军队的清洗引发对其战争准备能力的质疑",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-02-25",
-                "url": "https://www.voachinese.com/a/assessing-xi-unprecedented-purges-of-china-s-military-20260225/8117528.html"
-            },
-            {
-                "title": "美国约一成青少年把聊天机器人当“树洞” 心理专家对此深感担忧",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551228.htm"
-            },
-            {
                 "title": "习近平会见德国总理默茨 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-25",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mTnlwNVpQeUJDYkZTeC1mOUNsQU9DMEdXQVZKUVRLN19WdUFqUm1PRmE4d3lkOWtTaTNEZW5OZkl0djNqOVl4MERIY25sd0VfQzR1aUg2U0RZdEF2VWtGaUc0cGRoOFdmRlc4?oc=5"
             },
             {
-                "title": "驻斐济使馆临时代办汪元出席“温暖迎春·共庆中国年”2026斐济庙会活动 - mfa.gov.cn",
+                "title": "李强同德国总理默茨会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSS1yTGFqWERzenBkbWlPXzlSTDl1UzNxdXRUMGlldnJhbVZlMHF3NUE5SWRzZlFDU21iSGR5S190YnhUaXRBb2FQTGVoZm5JajFab29MNmNSWkZGYTJlcXUtTmx3Z1h1bFlPZG8yRVZQLXptdXExU3pMVzVWRWxTNDNxVkU?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40VjVScFU3STZtWEVVY3hZWnI4VTEtN1VEZUwybnhoaHNKUGIwdzB3WTR3eHFDWjA4MjlNUHU4UHVOZ0dYTjhnMmdQY0M0NHYxNzhSeVdNUXhKNXMxYVRJd3hkS0FrUUhRSWdv?oc=5"
             },
             {
                 "title": "2026年2月25日解放军报第01版：要闻 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "中国科学院软件研究所成为开源鸿蒙唯一特殊捐赠人：系统开发元老，与华为共同搭建底座",
-                "source": "NewsAPI / Ithome.com",
+                "title": "NVIDIA获美国许可向中国少量出口H200芯片 迈出重返该市场的试探性一步",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-26",
-                "url": "https://www.ithome.com/0/923/725.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551324.htm"
             },
             {
-                "title": "硬氪独家｜前商汤工业机器人团队创业融资数千万，自研一体化控制轮式工业机器人",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国电网电池储能设施规模创纪录增长",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-26",
-                "url": "https://36kr.com/p/3699447737118342"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551322.htm"
             },
             {
-                "title": "特斯拉中国促销：提供 7 年超低息方案，还可选 5 年 0 息",
-                "source": "NewsAPI / Ithome.com",
+                "title": "韩国女子用ChatGPT策划诱杀 被捕后靠清纯颜值粉丝暴涨50倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-26",
-                "url": "https://www.ithome.com/0/923/716.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551316.htm"
             },
             {
-                "title": "8点1氪丨比尔·盖茨就其与爱泼斯坦关系道歉；魅族手机或于3月正式退市；腾讯元宝回应生成拜年海报中出现骂人脏话",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-25",
-                "url": "https://36kr.com/p/3699365546667912"
+                "title": "花4万买“他会回头”结果人财两空 赛博算命收割了多少脆弱的心?",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551308.htm"
             },
             {
-                "title": "蓝箭航天：计划于今年第二季度再次开展火箭回收试验",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-25",
-                "url": "https://www.ithome.com/0/923/695.htm"
+                "title": "纽约时报：爱泼斯坦“打入”微软高层 获知机密、为公司寻找新CEO",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551272.htm"
             },
             {
                 "title": "习近平会见德国总理默茨 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mTnlwNVpQeUJDYkZTeC1mOUNsQU9DMEdXQVZKUVRLN19WdUFqUm1PRmE4d3lkOWtTaTNEZW5OZkl0djNqOVl4MERIY25sd0VfQzR1aUg2U0RZdEF2VWtGaUc0cGRoOFdmRlc4?oc=5"
             },
             {
-                "title": "驻斐济使馆临时代办汪元出席“温暖迎春·共庆中国年”2026斐济庙会活动 - mfa.gov.cn",
+                "title": "李强同德国总理默茨会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSS1yTGFqWERzenBkbWlPXzlSTDl1UzNxdXRUMGlldnJhbVZlMHF3NUE5SWRzZlFDU21iSGR5S190YnhUaXRBb2FQTGVoZm5JajFab29MNmNSWkZGYTJlcXUtTmx3Z1h1bFlPZG8yRVZQLXptdXExU3pMVzVWRWxTNDNxVkU?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40VjVScFU3STZtWEVVY3hZWnI4VTEtN1VEZUwybnhoaHNKUGIwdzB3WTR3eHFDWjA4MjlNUHU4UHVOZ0dYTjhnMmdQY0M0NHYxNzhSeVdNUXhKNXMxYVRJd3hkS0FrUUhRSWdv?oc=5"
             },
             {
                 "title": "2026年2月25日解放军报第01版：要闻 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-27T01:50:56.148579+00:00"
+    "last_updated": "2026-02-27T06:50:27.885678+00:00"
 }
