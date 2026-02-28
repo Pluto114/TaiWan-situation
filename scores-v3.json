@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Google与三星共同展示Gemini智能体的能力",
+                "title": "布达佩斯 - 贝尔格莱德铁路匈牙利段启动常规货运测试运营",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551440.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551548.htm"
             },
             {
-                "title": "三星移动COO：不一定再发布新款超薄手机或三折叠",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551438.htm"
-            },
-            {
-                "title": "AI争执升级 Anthropic CEO回应美国防部通牒：威胁不会改变公司立场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551436.htm"
-            },
-            {
-                "title": "《大空头》原型警告：英伟达处于与互联网泡沫时期思科同样的“危险境地”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551432.htm"
-            },
-            {
-                "title": "《生化危机：安魂曲》游戏首批 CPU 性能测试结果曝光",
+                "title": "Counterpoint：2025 年下半年全球智能眼镜出货同比剧增 139%，Meta 独占 82% 份额",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-27",
-                "url": "https://www.ithome.com/0/924/125.htm"
+                "url": "https://www.ithome.com/0/924/344.htm"
+            },
+            {
+                "title": "氪星晚报｜蜜雪冰城要在河南老家建“雪王乐园”；DHL集团与京东签署谅解备忘录；日本芯片公司Rapidus获佳能、软银、索尼等公司投资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-27",
+                "url": "https://36kr.com/p/3701306699017862"
+            },
+            {
+                "title": "蔚来“分芯”：李斌暂缓一下焦虑",
+                "source": "NewsAPI / Huxiu.com",
+                "date": "2026-02-27",
+                "url": "https://www.huxiu.com/article/4837479.html"
+            },
+            {
+                "title": "国务院关税税则委员会关于调整对原产于加拿大的部分进口商品加征关税措施的公告",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-27",
+                "url": "https://36kr.com/newsflashes/3701311157497985"
             }
         ],
         "mil": [
+            {
+                "title": "超200名谷歌与OpenAI员工签署公开信 拒绝向五角大楼提供军事AI技术",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551544.htm"
+            },
+            {
+                "title": "氪星晚报｜蜜雪冰城要在河南老家建“雪王乐园”；DHL集团与京东签署谅解备忘录；日本芯片公司Rapidus获佳能、软银、索尼等公司投资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-27",
+                "url": "https://36kr.com/p/3701306699017862"
+            },
+            {
+                "title": "蔚来“分芯”：李斌暂缓一下焦虑",
+                "source": "NewsAPI / Huxiu.com",
+                "date": "2026-02-27",
+                "url": "https://www.huxiu.com/article/4837479.html"
+            },
+            {
+                "title": "五角大楼酝酿打造针对中国的AI网络作战工具",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551508.htm"
+            },
             {
                 "title": "美国首支自杀式无人机部队准备就绪 可参与对伊朗发动打击",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,46 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1551428.htm"
             },
             {
-                "title": "五角大楼激光器据称在美墨边境误击海关部门巡逻队无人机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551424.htm"
-            },
-            {
-                "title": "创新“新特区”，AWE2026上海新国际博览中心W3馆创新科技展区正式亮相",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-27",
-                "url": "https://36kr.com/p/3700996120915848"
-            },
-            {
-                "title": "美伊开战一触即发？川普国情咨文划伊朗核红线(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-27",
-                "url": "https://www.secretchina.com/news/gb/2026/02/27/1095596.html"
-            },
-            {
-                "title": "IT早报 0227：中国 AI 调用量首超美国；2026 年中国手机市场迎全面普涨；外卖商家须增设显著“无堂食”专项标识；曝鸿蒙智行五界定位会越发清晰...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-26",
-                "url": "https://www.ithome.com/0/924/044.htm"
-            },
-            {
-                "title": "2026年2月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "国防部：绝不让任何祸乱南海图谋得逞 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZNlRUY3VtYV83bzFhTk9fYlk5bDFhcVFJcDEzdm1pV2hTSjdFV3ptOW1BV3lxZ2tWQ3JubXRxc3NzcHgzOGctRkRNLXQtdEFTT3pidUZ4eVQ2eWttSWMtQXdGRVJGdWF6eXF5WlYyZTZhQ3gzOFE?oc=5"
-            },
-            {
-                "title": "毛宁：开启中德关系新篇章 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-26",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFRKVmI5dk85RGdneVprb0RJYzZ0S0lobUJNSWJlUVh2SDVfZm04QS1reEdWQWZ2ZGVhN1phMTR6VTFkbGtobTJ0OGw2Rk5YYzNCNzc0aTFNZ2NHbG50NmNxbjBXYTNELWFTOXBwakZQSlJhanZKSnVpMkxCQzM0elNONG5rMS15eDJN?oc=5"
+                "date": "2026-02-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5haGlhWlhmYlJfSU80a2JHYWNDWms2N1lYU2t0VkNmWnA4Vnk5RzkyS0NQZTRINkpmNEhtNndBT3ppNWhPYXoyWmlWYVpvTGpCUVdycUZhQ28?oc=5"
             },
             {
                 "title": "驻也门使馆临时代办邵峥会见联合国驻也门协调员哈尔内斯 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-26",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGxfNmoySTBjand0VjMwNGh1Tnp4NzFwZy1YSHMtYUhlWnFPRC11WmJQMHpZZzRHVVhiWll4eEVqQ2U5UFA1VE9oYzJ0MzVmczhkVmRLWHNtb2dpQjJWZmk2ZGhUY2ZManpiRHB4WkF5QWVqdUd0dG5rT2VieUdSQnhHWW4?oc=5"
+            },
+            {
+                "title": "驻清迈总领事陈海平在泰媒发表署名文章《同饮一江水，共谱繁荣篇：澜湄水资源合作成果喜人、未来可期》 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-27",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRVnh3Yk5WZ0VzYkp3UmtnUEZwb1dWUGY2bW9ib2FXSnhadjY1ekk0Y1llRTlPZV9IYkRtYnpmVUhLSWhNU0gyd3ZyaGZnMm1vOTlkNkdMY2JRMkhpRFU0Y2NFcUg3bFBPQzBtOUJtalZMOGpYQjBfYXpHQQ?oc=5"
             },
             {
                 "title": "班长闹了个小“乌龙” - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "Google与三星共同展示Gemini智能体的能力",
+                "title": "布达佩斯 - 贝尔格莱德铁路匈牙利段启动常规货运测试运营",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551440.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551548.htm"
             },
             {
-                "title": "《大空头》原型警告：英伟达处于与互联网泡沫时期思科同样的“危险境地”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551432.htm"
-            },
-            {
-                "title": "五角大楼激光器据称在美墨边境误击海关部门巡逻队无人机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551424.htm"
-            },
-            {
-                "title": "创新“新特区”，AWE2026上海新国际博览中心W3馆创新科技展区正式亮相",
+                "title": "氪星晚报｜蜜雪冰城要在河南老家建“雪王乐园”；DHL集团与京东签署谅解备忘录；日本芯片公司Rapidus获佳能、软银、索尼等公司投资",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-02-27",
-                "url": "https://36kr.com/p/3700996120915848"
+                "url": "https://36kr.com/p/3701306699017862"
             },
             {
-                "title": "苹果强硬回击股东集体诉讼：否认 Siri AI 难产和 30% 佣金引发的数千亿美元欺诈指控",
-                "source": "NewsAPI / Ithome.com",
+                "title": "蔚来“分芯”：李斌暂缓一下焦虑",
+                "source": "NewsAPI / Huxiu.com",
                 "date": "2026-02-27",
-                "url": "https://www.ithome.com/0/924/062.htm"
+                "url": "https://www.huxiu.com/article/4837479.html"
             },
             {
-                "title": "2026年2月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZNlRUY3VtYV83bzFhTk9fYlk5bDFhcVFJcDEzdm1pV2hTSjdFV3ptOW1BV3lxZ2tWQ3JubXRxc3NzcHgzOGctRkRNLXQtdEFTT3pidUZ4eVQ2eWttSWMtQXdGRVJGdWF6eXF5WlYyZTZhQ3gzOFE?oc=5"
+                "title": "业绩快报 | 爱奇艺2025全年营收272.9亿元，海外会员收入同比激增超30%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-02-27",
+                "url": "https://36kr.com/p/3701287910895495"
             },
             {
-                "title": "毛宁：开启中德关系新篇章 - mfa.gov.cn",
+                "title": "乐施会报告批评马斯克和特斯拉加剧美国财富不平等",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551514.htm"
+            },
+            {
+                "title": "国防部：绝不让任何祸乱南海图谋得逞 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-26",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFRKVmI5dk85RGdneVprb0RJYzZ0S0lobUJNSWJlUVh2SDVfZm04QS1reEdWQWZ2ZGVhN1phMTR6VTFkbGtobTJ0OGw2Rk5YYzNCNzc0aTFNZ2NHbG50NmNxbjBXYTNELWFTOXBwakZQSlJhanZKSnVpMkxCQzM0elNONG5rMS15eDJN?oc=5"
+                "date": "2026-02-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5haGlhWlhmYlJfSU80a2JHYWNDWms2N1lYU2t0VkNmWnA4Vnk5RzkyS0NQZTRINkpmNEhtNndBT3ppNWhPYXoyWmlWYVpvTGpCUVdycUZhQ28?oc=5"
             },
             {
                 "title": "驻也门使馆临时代办邵峥会见联合国驻也门协调员哈尔内斯 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-26",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGxfNmoySTBjand0VjMwNGh1Tnp4NzFwZy1YSHMtYUhlWnFPRC11WmJQMHpZZzRHVVhiWll4eEVqQ2U5UFA1VE9oYzJ0MzVmczhkVmRLWHNtb2dpQjJWZmk2ZGhUY2ZManpiRHB4WkF5QWVqdUd0dG5rT2VieUdSQnhHWW4?oc=5"
+            },
+            {
+                "title": "驻清迈总领事陈海平在泰媒发表署名文章《同饮一江水，共谱繁荣篇：澜湄水资源合作成果喜人、未来可期》 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-02-27",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRVnh3Yk5WZ0VzYkp3UmtnUEZwb1dWUGY2bW9ib2FXSnhadjY1ekk0Y1llRTlPZV9IYkRtYnpmVUhLSWhNU0gyd3ZyaGZnMm1vOTlkNkdMY2JRMkhpRFU0Y2NFcUg3bFBPQzBtOUJtalZMOGpYQjBfYXpHQQ?oc=5"
             },
             {
                 "title": "班长闹了个小“乌龙” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-02-28T06:34:25.993398+00:00"
+    "last_updated": "2026-02-28T12:39:37.079799+00:00"
 }
