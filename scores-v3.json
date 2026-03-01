@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "关税退款恐陷拉锯战 特朗普政府寻求推迟法院审理程序",
+                "title": "【CDT报告汇】OpenAI报告：中共官员策划“网络特战”，抹黑高市早苗，攻击海外异议人士（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-02-28",
+                "url": "https://chinadigitaltimes.net/chinese/725499.html"
+            },
+            {
+                "title": "国家发改委价格监测中心：存储芯片价格持续上涨并向下游传导",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/637.htm"
+            },
+            {
+                "title": "沃尔玛首席人力官莫里斯：美国劳动力需学习中国，那里 5 岁孩子都在学 DeepSeek",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/630.htm"
+            },
+            {
+                "title": "英国汽车充电基础设施重要进展：公共充电桩数量已达加油泵近两倍",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/617.htm"
+            },
+            {
+                "title": "特朗普刚封杀Claude 转头就合作OpenAI？上亿政治献金被扒出",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-02-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551596.htm"
-            },
-            {
-                "title": "门店员工刻意剪碎王一博头像并拍摄传播 库迪咖啡发文致歉",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551584.htm"
-            },
-            {
-                "title": "国家统计局：2025 年末全国私人汽车保有量 3.23 亿辆，增加 1348 万辆",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/531.htm"
-            },
-            {
-                "title": "太空数据中心，如何散热？",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/479.htm"
-            },
-            {
-                "title": "2025 年我国研究与试验发展（R&D）经费支出逼近 4 万亿元，同比增长 8.1%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/469.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551648.htm"
             }
         ],
         "mil": [
+            {
+                "title": "特朗普刚封杀Claude 转头就合作OpenAI？上亿政治献金被扒出",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551648.htm"
+            },
+            {
+                "title": "美光纽约百亿美元芯片工厂建设计划遭遇当地环保与行政程序质疑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551642.htm"
+            },
+            {
+                "title": "玻利维亚一飞机坠毁 装有大量钞票 散落后遭疯抢",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551628.htm"
+            },
+            {
+                "title": "美政府爆发AI分歧：多机构质疑马斯克Grok安全性 国防部执意部署",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551608.htm"
+            },
             {
                 "title": "Google与OpenAI员工发表公开信 支持Anthropic在五角大楼事件中的立场",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,28 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1551588.htm"
             },
             {
-                "title": "打造“现代化大监狱” 习近平对军队恐惧至极(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/02/28/1095668.html"
-            },
-            {
-                "title": "血月升起与航母压境 战争预兆已显现？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/02/28/1095665.html"
-            },
-            {
-                "title": "9点1氪丨语音误关大灯致车祸，领克道歉；OpenAI获1100亿美元融资；米哈游内部通报员工意外离世",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-28",
-                "url": "https://36kr.com/p/3702272216543360"
-            },
-            {
-                "title": "今日消费资讯：Balenciaga 发布“心与身体”广告大片、艾玛·拉杜卡努出任优衣库全球品牌大使",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-02-28",
-                "url": "https://www.toodaylab.com/83932"
+                "title": "外交部发言人就伊朗最高领袖哈梅内伊遇害答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRkRXX0laNUxVY3d2S0Q5ZTFIazdQakR2Sm0yYmxBLWltcVNYQnp1YXRXX2ZFczR0NkZIeTBhMllYQkxfMkR1eGZoMWVWTExTSTA2ckwwSkxNNEhkYXBUUGV0aU83VmZiY2h3RTRqTWtzTnh0MUE?oc=5"
             },
             {
                 "title": "外交部发言人就美国和以色列军事打击伊朗答记者问 - mfa.gov.cn",
@@ -80,22 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SzlJbVVtX3RucDJLaWZBLVVneklCWE44MklFSFhNRl9sZl9mZ1kyYlRCanZ0Q2RqVXhuZ0UyR2lscDc5QUk3dUFPWkU1WEFMS2xBR05HbFVNVnJjb2lNaHd0Wl93NGFZdzd2ZDJidTB2ZmpvR2c?oc=5"
             },
             {
-                "title": "国防部：绝不让任何祸乱南海图谋得逞 - 国防部",
+                "title": "国防部：绝不让任何祸乱南海图谋得逞 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-28",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5haGlhWlhmYlJfSU80a2JHYWNDWms2N1lYU2t0VkNmWnA4Vnk5RzkyS0NQZTRINkpmNEhtNndBT3ppNWhPYXoyWmlWYVpvTGpCUVdycUZhQ28?oc=5"
-            },
-            {
-                "title": "驻清迈总领事陈海平在泰媒发表署名文章《同饮一江水，共谱繁荣篇：澜湄水资源合作成果喜人、未来可期》 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-27",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRVnh3Yk5WZ0VzYkp3UmtnUEZwb1dWUGY2bW9ib2FXSnhadjY1ekk0Y1llRTlPZV9IYkRtYnpmVUhLSWhNU0gyd3ZyaGZnMm1vOTlkNkdMY2JRMkhpRFU0Y2NFcUg3bFBPQzBtOUJtalZMOGpYQjBfYXpHQQ?oc=5"
-            },
-            {
-                "title": "隔屏感受十足后坐力- 八一视频 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-27",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Td3pWd3VpQlVvdVBoUEk4MTZ3VEo2WVp5UzU5anl0NFFBczNxdnhaYnpTbFpJZjdUWVVEczg1YTViSm9sWXpqWGhB?oc=5"
             },
             {
                 "title": "两会经纬线·一幅画里的两条路 - 中国军网",
@@ -104,42 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tX2NUVWFOQV9HUHpIMURONVJsZllRbnpOX1BVa3habWMwLVBUVnNPTDRIeXBRUmpySy0yNHJTUWF4ajJiWk5IcGNaOE14eUI4WUE?oc=5"
             },
             {
-                "title": "一九三六年陕北的春节 - 中国军网",
+                "title": "朝鲜说美以对伊朗军事行动不可容忍 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-27",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVlKSEVmV0JWTkhSakdwZWR6OGU5T0xRbDM4RE5xVjNaSW5Lb18yMjFxRnhiUHlnZEN4NXFqZ01kSDZQRnUydXIzMWlveVljYmtDTW83Sjc1dVNna2tZYnhLV0o1T1VRUDU1ZVdlcktUS2xhUjJVN0g1Z2h2SUFtbF9oQ0swLWZvREtFb0JHZVRsX0g1ZGlzSW1hTzBpR1M3WGw3N0RNbTNHWWhReXd1eXN3?oc=5"
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KOXdvMldnX1g2ZXc5N1RNR1VoOWRQQjB1NjBaclJJLV9vRFFrZlNnOGRCdWZqYXVTemMzSXVVNVAxVUVnaGZYaElaZldDbUo5ZXc?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "关税退款恐陷拉锯战 特朗普政府寻求推迟法院审理程序",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551596.htm"
-            },
-            {
-                "title": "血月升起与航母压境 战争预兆已显现？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/02/28/1095665.html"
-            },
-            {
-                "title": "9点1氪丨语音误关大灯致车祸，领克道歉；OpenAI获1100亿美元融资；米哈游内部通报员工意外离世",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-02-28",
-                "url": "https://36kr.com/p/3702272216543360"
-            },
-            {
-                "title": "铁路部门继续实行预售期外学生预约购票常态化服务",
+                "title": "极石汽车率先晒 2026 年 2 月战报：交付 1298 辆涨至去年同期 200%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/409.htm"
+                "url": "https://www.ithome.com/0/924/639.htm"
             },
             {
-                "title": "五角大楼拟将Anthropic公司列为供应链风险企业",
+                "title": "英国汽车充电基础设施重要进展：公共充电桩数量已达加油泵近两倍",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/617.htm"
+            },
+            {
+                "title": "特朗普刚封杀Claude 转头就合作OpenAI？上亿政治献金被扒出",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551578.htm"
+                "date": "2026-02-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551648.htm"
+            },
+            {
+                "title": "DeepSeek将与华为寒武纪合作发布V4多模态大模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551644.htm"
+            },
+            {
+                "title": "美光纽约百亿美元芯片工厂建设计划遭遇当地环保与行政程序质疑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-02-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1551642.htm"
+            },
+            {
+                "title": "外交部发言人就伊朗最高领袖哈梅内伊遇害答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRkRXX0laNUxVY3d2S0Q5ZTFIazdQakR2Sm0yYmxBLWltcVNYQnp1YXRXX2ZFczR0NkZIeTBhMllYQkxfMkR1eGZoMWVWTExTSTA2ckwwSkxNNEhkYXBUUGV0aU83VmZiY2h3RTRqTWtzTnh0MUE?oc=5"
             },
             {
                 "title": "外交部发言人就美国和以色列军事打击伊朗答记者问 - mfa.gov.cn",
@@ -148,22 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SzlJbVVtX3RucDJLaWZBLVVneklCWE44MklFSFhNRl9sZl9mZ1kyYlRCanZ0Q2RqVXhuZ0UyR2lscDc5QUk3dUFPWkU1WEFMS2xBR05HbFVNVnJjb2lNaHd0Wl93NGFZdzd2ZDJidTB2ZmpvR2c?oc=5"
             },
             {
-                "title": "国防部：绝不让任何祸乱南海图谋得逞 - 国防部",
+                "title": "国防部：绝不让任何祸乱南海图谋得逞 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-02-28",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5haGlhWlhmYlJfSU80a2JHYWNDWms2N1lYU2t0VkNmWnA4Vnk5RzkyS0NQZTRINkpmNEhtNndBT3ppNWhPYXoyWmlWYVpvTGpCUVdycUZhQ28?oc=5"
-            },
-            {
-                "title": "驻清迈总领事陈海平在泰媒发表署名文章《同饮一江水，共谱繁荣篇：澜湄水资源合作成果喜人、未来可期》 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-27",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRVnh3Yk5WZ0VzYkp3UmtnUEZwb1dWUGY2bW9ib2FXSnhadjY1ekk0Y1llRTlPZV9IYkRtYnpmVUhLSWhNU0gyd3ZyaGZnMm1vOTlkNkdMY2JRMkhpRFU0Y2NFcUg3bFBPQzBtOUJtalZMOGpYQjBfYXpHQQ?oc=5"
-            },
-            {
-                "title": "隔屏感受十足后坐力- 八一视频 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-27",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Td3pWd3VpQlVvdVBoUEk4MTZ3VEo2WVp5UzU5anl0NFFBczNxdnhaYnpTbFpJZjdUWVVEczg1YTViSm9sWXpqWGhB?oc=5"
             },
             {
                 "title": "两会经纬线·一幅画里的两条路 - 中国军网",
@@ -172,13 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tX2NUVWFOQV9HUHpIMURONVJsZllRbnpOX1BVa3habWMwLVBUVnNPTDRIeXBRUmpySy0yNHJTUWF4ajJiWk5IcGNaOE14eUI4WUE?oc=5"
             },
             {
-                "title": "一九三六年陕北的春节 - 中国军网",
+                "title": "朝鲜说美以对伊朗军事行动不可容忍 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-27",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVlKSEVmV0JWTkhSakdwZWR6OGU5T0xRbDM4RE5xVjNaSW5Lb18yMjFxRnhiUHlnZEN4NXFqZ01kSDZQRnUydXIzMWlveVljYmtDTW83Sjc1dVNna2tZYnhLV0o1T1VRUDU1ZVdlcktUS2xhUjJVN0g1Z2h2SUFtbF9oQ0swLWZvREtFb0JHZVRsX0g1ZGlzSW1hTzBpR1M3WGw3N0RNbTNHWWhReXd1eXN3?oc=5"
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KOXdvMldnX1g2ZXc5N1RNR1VoOWRQQjB1NjBaclJJLV9vRFFrZlNnOGRCdWZqYXVTemMzSXVVNVAxVUVnaGZYaElaZldDbUo5ZXc?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-01T06:41:49.717151+00:00"
+    "last_updated": "2026-03-01T12:41:49.108583+00:00"
 }
