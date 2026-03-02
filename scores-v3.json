@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "“暴力、战争和制裁只会带来创伤”——一名伊朗裔女性和平倡议者看伊朗变局",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-01",
+                "url": "https://www.ftchinese.com/story/001109082"
+            },
+            {
+                "title": "当英国媒体问“为什么要培养中国科学家”时，它真正忽略了什么？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-01",
+                "url": "https://www.ftchinese.com/story/001109086"
+            },
+            {
                 "title": "特朗普封杀Anthropic OpenAI先声援后“背刺” 这中间究竟发生了什么？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-01",
@@ -28,50 +40,38 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-01",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1551684.htm"
-            },
-            {
-                "title": "特朗普刚下令禁用Anthropic 美军数小时后就在中东打击行动中使用该公司AI工具",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551682.htm"
-            },
-            {
-                "title": "OpenAI详细披露其与美国国防部协议中的多层级保护措施。",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551676.htm"
             }
         ],
         "mil": [
+            {
+                "title": "央视公布哈梅内伊死讯 网友沸腾 中共海军临阵逃军演(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-01",
+                "url": "https://www.secretchina.com/news/gb/2026/03/02/1095750.html"
+            },
+            {
+                "title": "“暴力、战争和制裁只会带来创伤”——一名伊朗裔女性和平倡议者看伊朗变局",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-01",
+                "url": "https://www.ftchinese.com/story/001109082"
+            },
+            {
+                "title": "当英国媒体问“为什么要培养中国科学家”时，它真正忽略了什么？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-01",
+                "url": "https://www.ftchinese.com/story/001109086"
+            },
+            {
+                "title": "北京强烈谴责： “鼓动政权更迭不可接受”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-01",
+                "url": "https://www.dw.com/zh/%E5%8C%97%E4%BA%AC%E8%B0%B4%E8%B4%A3%E7%BE%8E%E4%BB%A5%E9%BC%93%E5%8A%A8%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97/a-76175609"
+            },
             {
                 "title": "特朗普封杀Anthropic OpenAI先声援后“背刺” 这中间究竟发生了什么？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-01",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1551690.htm"
-            },
-            {
-                "title": "Claude被特朗普封杀24小时登顶App Store CEO含泪首发声",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551684.htm"
-            },
-            {
-                "title": "特朗普刚下令禁用Anthropic 美军数小时后就在中东打击行动中使用该公司AI工具",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551682.htm"
-            },
-            {
-                "title": "雷军放出小米 Vision Gran Turismo 双门超跑官图，实车明日亮相 MWC 2026",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-01",
-                "url": "https://www.ithome.com/0/924/750.htm"
-            },
-            {
-                "title": "哈梅内伊遭斩首 古老的波斯预言正在应验？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-01",
-                "url": "https://www.secretchina.com/news/gb/2026/03/01/1095716.html"
             },
             {
                 "title": "王毅同俄罗斯外长拉夫罗夫通电话 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRkRXX0laNUxVY3d2S0Q5ZTFIazdQakR2Sm0yYmxBLWltcVNYQnp1YXRXX2ZFczR0NkZIeTBhMllYQkxfMkR1eGZoMWVWTExTSTA2ckwwSkxNNEhkYXBUUGV0aU83VmZiY2h3RTRqTWtzTnh0MUE?oc=5"
             },
             {
-                "title": "外交部发言人就美国和以色列军事打击伊朗答记者问 - mfa.gov.cn",
+                "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-28",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SzlJbVVtX3RucDJLaWZBLVVneklCWE44MklFSFhNRl9sZl9mZ1kyYlRCanZ0Q2RqVXhuZ0UyR2lscDc5QUk3dUFPWkU1WEFMS2xBR05HbFVNVnJjb2lNaHd0Wl93NGFZdzd2ZDJidTB2ZmpvR2c?oc=5"
+                "date": "2026-03-02",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10bFo2VmlVQkZZNVRNX2dFNnM5eTgxc1VuYS1uMVprRVpIcS0tU1BjUFc3dVBsbW1tdzROdDBRZEdJWEFsRUs1SlZCaU03NlhRREstSmh0YmlkZHBOb0dseFNwV0JwWm9JUjZlaGJR?oc=5"
             },
             {
                 "title": "中国空间站动态丨“太空家园”年味浓 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "“暴力、战争和制裁只会带来创伤”——一名伊朗裔女性和平倡议者看伊朗变局",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-01",
+                "url": "https://www.ftchinese.com/story/001109082"
+            },
+            {
+                "title": "创维求突破,接盘松下海外销售业务",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-01",
+                "url": "https://www.ftchinese.com/story/001109089"
+            },
+            {
+                "title": "当英国媒体问“为什么要培养中国科学家”时，它真正忽略了什么？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-01",
+                "url": "https://www.ftchinese.com/story/001109086"
+            },
+            {
+                "title": "北京强烈谴责： “鼓动政权更迭不可接受”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-01",
+                "url": "https://www.dw.com/zh/%E5%8C%97%E4%BA%AC%E8%B0%B4%E8%B4%A3%E7%BE%8E%E4%BB%A5%E9%BC%93%E5%8A%A8%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97/a-76175609"
+            },
+            {
                 "title": "哈梅内伊死后 伊朗展开报复 特朗普称击毙48名伊高层人物",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-03-01",
                 "url": "https://www.dw.com/zh/%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E6%AD%BB%E5%90%8E-%E4%BC%8A%E6%9C%97%E5%B1%95%E5%BC%80%E6%8A%A5%E5%A4%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%BB%E6%AF%9948%E5%90%8D%E4%BC%8A%E9%AB%98%E5%B1%82%E4%BA%BA%E7%89%A9/a-76173691"
-            },
-            {
-                "title": "哈梅内伊死后 伊朗展开报复 特朗普称击毙48名伊高层人物",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-03-01",
-                "url": "https://www.dw.com/zh/%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E6%AD%BB%E5%90%8E-%E4%BC%8A%E6%9C%97%E5%B1%95%E5%BC%80%E6%8A%A5%E5%A4%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%BB%E6%AF%9948%E5%90%8D%E4%BC%8A%E9%AB%98%E5%B1%82%E4%BA%BA%E7%89%A9/a-76173691"
-            },
-            {
-                "title": "特朗普封杀Anthropic OpenAI先声援后“背刺” 这中间究竟发生了什么？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551690.htm"
-            },
-            {
-                "title": "Claude被特朗普封杀24小时登顶App Store CEO含泪首发声",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551684.htm"
-            },
-            {
-                "title": "OpenAI详细披露其与美国国防部协议中的多层级保护措施。",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551676.htm"
             },
             {
                 "title": "王毅同俄罗斯外长拉夫罗夫通电话 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRkRXX0laNUxVY3d2S0Q5ZTFIazdQakR2Sm0yYmxBLWltcVNYQnp1YXRXX2ZFczR0NkZIeTBhMllYQkxfMkR1eGZoMWVWTExTSTA2ckwwSkxNNEhkYXBUUGV0aU83VmZiY2h3RTRqTWtzTnh0MUE?oc=5"
             },
             {
-                "title": "外交部发言人就美国和以色列军事打击伊朗答记者问 - mfa.gov.cn",
+                "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-02-28",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SzlJbVVtX3RucDJLaWZBLVVneklCWE44MklFSFhNRl9sZl9mZ1kyYlRCanZ0Q2RqVXhuZ0UyR2lscDc5QUk3dUFPWkU1WEFMS2xBR05HbFVNVnJjb2lNaHd0Wl93NGFZdzd2ZDJidTB2ZmpvR2c?oc=5"
+                "date": "2026-03-02",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10bFo2VmlVQkZZNVRNX2dFNnM5eTgxc1VuYS1uMVprRVpIcS0tU1BjUFc3dVBsbW1tdzROdDBRZEdJWEFsRUs1SlZCaU03NlhRREstSmh0YmlkZHBOb0dseFNwV0JwWm9JUjZlaGJR?oc=5"
             },
             {
                 "title": "中国空间站动态丨“太空家园”年味浓 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-02T12:52:56.483453+00:00"
+    "last_updated": "2026-03-02T18:41:51.117201+00:00"
 }
