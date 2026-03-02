@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "影石袁跃谈 337 调查终裁完胜：花超 1000 万美金打赢了这场充满恶意的官司",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/773.htm"
+            },
+            {
+                "title": "开启 6G 序章：华为发布 U6GHz 系列产品提升 5G-A 能力，覆盖宏站、小站及微波等完整矩阵",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/771.htm"
+            },
+            {
+                "title": "奇瑞全新 QQ3 车型 3 月 10 日开启预售，搭载猎鹰 500 辅助驾驶",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/746.htm"
+            },
+            {
                 "title": "早报｜小米Vision GT概念超跑亮相/曝新款Apple Watch支持指纹识别/手机之后，汽车也要迎来涨价了",
                 "source": "NewsAPI / Ifanr.com",
                 "date": "2026-03-01",
@@ -22,27 +40,15 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-28",
                 "url": "https://www.ithome.com/0/924/710.htm"
-            },
-            {
-                "title": "Anthropic 遭“封杀”后，OpenAI 与美国国防部达成协议",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/704.htm"
-            },
-            {
-                "title": "印度 IT 行业年收入首超 3000 亿美元但正被 AI“抢饭碗”：头部企业裁员、毕业生就业率严重下滑",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/701.htm"
-            },
-            {
-                "title": "【CDT报告汇】OpenAI报告：中共官员策划“网络特战”，抹黑高市早苗，攻击海外异议人士（外二篇）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-02-28",
-                "url": "https://chinadigitaltimes.net/chinese/725499.html"
             }
         ],
         "mil": [
+            {
+                "title": "雷军放出小米 Vision Gran Turismo 双门超跑官图，实车明日亮相 MWC 2026",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/750.htm"
+            },
             {
                 "title": "哈梅内伊遭斩首 古老的波斯预言正在应验？(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,22 +74,16 @@
                 "url": "https://www.ithome.com/0/924/704.htm"
             },
             {
-                "title": "美以分阶段升级对伊行动 数月布局白天奇袭(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/03/01/1095706.html"
+                "title": "王毅同俄罗斯外长拉夫罗夫通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VODlIOFhRUDR4Y19ZeTZ1YUd4dVlYakRBVGV2LTZ4ZDVMaEt3RGhhMDhKaFljTUdnRHl2WW9RV1VEVkJUOW5YcGp5WWdxX2UwUmlmNFJEeGRwWV9BQzlzWkQ1bDdXTDJoR2RoTHRR?oc=5"
             },
             {
                 "title": "外交部发言人就伊朗最高领袖哈梅内伊遇害答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-01",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRkRXX0laNUxVY3d2S0Q5ZTFIazdQakR2Sm0yYmxBLWltcVNYQnp1YXRXX2ZFczR0NkZIeTBhMllYQkxfMkR1eGZoMWVWTExTSTA2ckwwSkxNNEhkYXBUUGV0aU83VmZiY2h3RTRqTWtzTnh0MUE?oc=5"
-            },
-            {
-                "title": "王毅同俄罗斯外长拉夫罗夫通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-01",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VODlIOFhRUDR4Y19ZeTZ1YUd4dVlYakRBVGV2LTZ4ZDVMaEt3RGhhMDhKaFljTUdnRHl2WW9RV1VEVkJUOW5YcGp5WWdxX2UwUmlmNFJEeGRwWV9BQzlzWkQ1bDdXTDJoR2RoTHRR?oc=5"
             },
             {
                 "title": "外交部发言人就美国和以色列军事打击伊朗答记者问 - mfa.gov.cn",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "开启 6G 序章：华为发布 U6GHz 系列产品提升 5G-A 能力，覆盖宏站、小站及微波等完整矩阵",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/771.htm"
+            },
+            {
+                "title": "同程旅行针对中东地区局势启动应急保障机制，酒店订单可申请免费取消",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/751.htm"
+            },
+            {
+                "title": "奇瑞全新 QQ3 车型 3 月 10 日开启预售，搭载猎鹰 500 辅助驾驶",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/746.htm"
+            },
+            {
                 "title": "废品商贩捡到世嘉开发机遭警方突袭，企业邮件揭露真相",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-01",
@@ -124,34 +142,16 @@
                 "url": "https://www.ithome.com/0/924/710.htm"
             },
             {
-                "title": "美以雷霆攻击拟推翻伊朗政权 专家析地缘政治影响(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/03/01/1095700.html"
-            },
-            {
-                "title": "印度 IT 行业年收入首超 3000 亿美元但正被 AI“抢饭碗”：头部企业裁员、毕业生就业率严重下滑",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/701.htm"
-            },
-            {
-                "title": "极石汽车率先晒 2026 年 2 月战报：交付 1298 辆涨至去年同期 200%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/639.htm"
+                "title": "王毅同俄罗斯外长拉夫罗夫通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VODlIOFhRUDR4Y19ZeTZ1YUd4dVlYakRBVGV2LTZ4ZDVMaEt3RGhhMDhKaFljTUdnRHl2WW9RV1VEVkJUOW5YcGp5WWdxX2UwUmlmNFJEeGRwWV9BQzlzWkQ1bDdXTDJoR2RoTHRR?oc=5"
             },
             {
                 "title": "外交部发言人就伊朗最高领袖哈梅内伊遇害答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-01",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRkRXX0laNUxVY3d2S0Q5ZTFIazdQakR2Sm0yYmxBLWltcVNYQnp1YXRXX2ZFczR0NkZIeTBhMllYQkxfMkR1eGZoMWVWTExTSTA2ckwwSkxNNEhkYXBUUGV0aU83VmZiY2h3RTRqTWtzTnh0MUE?oc=5"
-            },
-            {
-                "title": "王毅同俄罗斯外长拉夫罗夫通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-01",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VODlIOFhRUDR4Y19ZeTZ1YUd4dVlYakRBVGV2LTZ4ZDVMaEt3RGhhMDhKaFljTUdnRHl2WW9RV1VEVkJUOW5YcGp5WWdxX2UwUmlmNFJEeGRwWV9BQzlzWkQ1bDdXTDJoR2RoTHRR?oc=5"
             },
             {
                 "title": "外交部发言人就美国和以色列军事打击伊朗答记者问 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-02T01:54:21.292640+00:00"
+    "last_updated": "2026-03-02T06:54:16.039071+00:00"
 }
