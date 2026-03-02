@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "早报｜小米Vision GT概念超跑亮相/曝新款Apple Watch支持指纹识别/手机之后，汽车也要迎来涨价了",
+                "source": "NewsAPI / Ifanr.com",
+                "date": "2026-03-01",
+                "url": "https://www.ifanr.com/1656274"
+            },
+            {
+                "title": "IT早报 0301：小米 Vision GT 双门超跑亮相；曝 DeepSeek V4 模型下周发布；三星电子成韩国首家万亿美元市值公司；鸿蒙智行尚界 Z7 无伪装视频发布...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/710.htm"
+            },
+            {
+                "title": "Anthropic 遭“封杀”后，OpenAI 与美国国防部达成协议",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/704.htm"
+            },
+            {
                 "title": "印度 IT 行业年收入首超 3000 亿美元但正被 AI“抢饭碗”：头部企业裁员、毕业生就业率严重下滑",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-02-28",
@@ -22,56 +40,38 @@
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-02-28",
                 "url": "https://chinadigitaltimes.net/chinese/725499.html"
-            },
-            {
-                "title": "国家发改委价格监测中心：存储芯片价格持续上涨并向下游传导",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/637.htm"
-            },
-            {
-                "title": "沃尔玛首席人力官莫里斯：美国劳动力需学习中国，那里 5 岁孩子都在学 DeepSeek",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/630.htm"
-            },
-            {
-                "title": "英国汽车充电基础设施重要进展：公共充电桩数量已达加油泵近两倍",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/617.htm"
             }
         ],
         "mil": [
+            {
+                "title": "哈梅内伊遭斩首 古老的波斯预言正在应验？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-01",
+                "url": "https://www.secretchina.com/news/gb/2026/03/01/1095716.html"
+            },
+            {
+                "title": "雷军：小米 Vision GT 实车明日亮相 MWC 2026",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/729.htm"
+            },
+            {
+                "title": "美伊空袭伊朗 北京“川习会”交易算盘落空(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-02-28",
+                "url": "https://www.secretchina.com/news/gb/2026/03/01/1095713.html"
+            },
+            {
+                "title": "Anthropic 遭“封杀”后，OpenAI 与美国国防部达成协议",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/704.htm"
+            },
             {
                 "title": "美以分阶段升级对伊行动 数月布局白天奇袭(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-02-28",
                 "url": "https://www.secretchina.com/news/gb/2026/03/01/1095706.html"
-            },
-            {
-                "title": "美以联合对伊朗军事打击 陆民：伊朗人民快幸福了(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/03/01/1095702.html"
-            },
-            {
-                "title": "美以雷霆攻击拟推翻伊朗政权 专家析地缘政治影响(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/03/01/1095700.html"
-            },
-            {
-                "title": "美以联合袭击伊朗后，各国有何反应？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-02-28",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BB%A5%E8%81%94%E5%90%88%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%90%8E%E5%90%84%E5%9B%BD%E6%9C%89%E4%BD%95%E5%8F%8D%E5%BA%94/a-76166996"
-            },
-            {
-                "title": "美以联手空袭伊朗　哈梅内伊官邸被炸(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-02-28",
-                "url": "https://www.secretchina.com/news/gb/2026/02/28/1095693.html"
             },
             {
                 "title": "外交部发言人就伊朗最高领袖哈梅内伊遇害答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -92,25 +92,37 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SzlJbVVtX3RucDJLaWZBLVVneklCWE44MklFSFhNRl9sZl9mZ1kyYlRCanZ0Q2RqVXhuZ0UyR2lscDc5QUk3dUFPWkU1WEFMS2xBR05HbFVNVnJjb2lNaHd0Wl93NGFZdzd2ZDJidTB2ZmpvR2c?oc=5"
             },
             {
-                "title": "两会经纬线·一幅画里的两条路 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tX2NUVWFOQV9HUHpIMURONVJsZllRbnpOX1BVa3habWMwLVBUVnNPTDRIeXBRUmpySy0yNHJTUWF4ajJiWk5IcGNaOE14eUI4WUE?oc=5"
-            },
-            {
-                "title": "朝鲜说美以对伊朗军事行动不可容忍 - 中国军网",
+                "title": "中国空间站动态丨“太空家园”年味浓 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KOXdvMldnX1g2ZXc5N1RNR1VoOWRQQjB1NjBaclJJLV9vRFFrZlNnOGRCdWZqYXVTemMzSXVVNVAxVUVnaGZYaElaZldDbUo5ZXc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JeGh3RVZ5Qk5PWEFUMXQ0R25GTDQzRHJ1SXFHX0VHc1NocE52d3FBSlpldDkzcHpGZklpekI1cS1PcVVKXzIwRTRxM0xGTlVtR1diX1BXQQ?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "特朗普称打死伊朗领导层48人 以总理称进一步升级行动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xTWd2WEt4QWZ2N3MzcDVlSko5aDFqN3JwOTVOTlA1Mjl3dWRqR09qZ0FfZXpYWGZLS3p1ZUdmZ3lQLUhrQm9jbHZrUElHYS1pWnc?oc=5"
+            },
+            {
+                "title": "最后一块牛皮 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15aDZDWU1fMEo1ZGtUUmJVc2pWLWloblJoVklpU0tjNHRKMmxDb0xRcXdBRFhEclJLN2QycVpkZXlGcXlLMS1ZRFVzTnNSeFN5anc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "废品商贩捡到世嘉开发机遭警方突袭，企业邮件揭露真相",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-01",
+                "url": "https://www.ithome.com/0/924/724.htm"
+            },
+            {
+                "title": "IT早报 0301：小米 Vision GT 双门超跑亮相；曝 DeepSeek V4 模型下周发布；三星电子成韩国首家万亿美元市值公司；鸿蒙智行尚界 Z7 无伪装视频发布...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-02-28",
+                "url": "https://www.ithome.com/0/924/710.htm"
+            },
             {
                 "title": "美以雷霆攻击拟推翻伊朗政权 专家析地缘政治影响(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -130,18 +142,6 @@
                 "url": "https://www.ithome.com/0/924/639.htm"
             },
             {
-                "title": "英国汽车充电基础设施重要进展：公共充电桩数量已达加油泵近两倍",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-02-28",
-                "url": "https://www.ithome.com/0/924/617.htm"
-            },
-            {
-                "title": "特朗普刚封杀Claude 转头就合作OpenAI？上亿政治献金被扒出",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-02-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551648.htm"
-            },
-            {
                 "title": "外交部发言人就伊朗最高领袖哈梅内伊遇害答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-01",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SzlJbVVtX3RucDJLaWZBLVVneklCWE44MklFSFhNRl9sZl9mZ1kyYlRCanZ0Q2RqVXhuZ0UyR2lscDc5QUk3dUFPWkU1WEFMS2xBR05HbFVNVnJjb2lNaHd0Wl93NGFZdzd2ZDJidTB2ZmpvR2c?oc=5"
             },
             {
-                "title": "两会经纬线·一幅画里的两条路 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-02-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tX2NUVWFOQV9HUHpIMURONVJsZllRbnpOX1BVa3habWMwLVBUVnNPTDRIeXBRUmpySy0yNHJTUWF4ajJiWk5IcGNaOE14eUI4WUE?oc=5"
-            },
-            {
-                "title": "朝鲜说美以对伊朗军事行动不可容忍 - 中国军网",
+                "title": "中国空间站动态丨“太空家园”年味浓 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KOXdvMldnX1g2ZXc5N1RNR1VoOWRQQjB1NjBaclJJLV9vRFFrZlNnOGRCdWZqYXVTemMzSXVVNVAxVUVnaGZYaElaZldDbUo5ZXc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JeGh3RVZ5Qk5PWEFUMXQ0R25GTDQzRHJ1SXFHX0VHc1NocE52d3FBSlpldDkzcHpGZklpekI1cS1PcVVKXzIwRTRxM0xGTlVtR1diX1BXQQ?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "特朗普称打死伊朗领导层48人 以总理称进一步升级行动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-03-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xTWd2WEt4QWZ2N3MzcDVlSko5aDFqN3JwOTVOTlA1Mjl3dWRqR09qZ0FfZXpYWGZLS3p1ZUdmZ3lQLUhrQm9jbHZrUElHYS1pWnc?oc=5"
+            },
+            {
+                "title": "最后一块牛皮 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15aDZDWU1fMEo1ZGtUUmJVc2pWLWloblJoVklpU0tjNHRKMmxDb0xRcXdBRFhEclJLN2QycVpkZXlGcXlLMS1ZRFVzTnNSeFN5anc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-01T18:29:42.613757+00:00"
+    "last_updated": "2026-03-02T01:54:21.292640+00:00"
 }
