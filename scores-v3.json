@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国电信总经理刘桂清：与中国联通已共享 5G 基站超 154 万",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-03",
-                "url": "https://www.ithome.com/0/925/540.htm"
-            },
-            {
-                "title": "比亚迪海外逆袭，在全球 22 个国家和地区销量超越特斯拉",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-03",
-                "url": "https://www.ithome.com/0/925/528.htm"
-            },
-            {
-                "title": "马斯克谈中国芯片产业：3-5年内没有突破会感到惊讶",
+                "title": "苹果官网监管文件疑现“MacBook Neo”名称 或为全新低价笔记本",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552038.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552068.htm"
             },
             {
-                "title": "OnePlus PLZ110 新机现身安兔兔：第五代骁龙 8 至尊版、跑分超 445 万，预计为一加 15T",
-                "source": "NewsAPI / Ithome.com",
+                "title": "伊朗战争如何影响欧洲和中国",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-03",
-                "url": "https://www.ithome.com/0/925/523.htm"
+                "url": "https://www.ftchinese.com/story/001109099"
             },
             {
-                "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
-                "source": "NewsAPI / 36kr.com",
+                "title": "德语媒体：对伊朗，北京为何见死不救？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-03-03",
-                "url": "https://36kr.com/p/3707029227499651"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8C%97%E4%BA%AC%E4%B8%BA%E4%BD%95%E8%A7%81%E6%AD%BB%E4%B8%8D%E6%95%91/a-76201808"
+            },
+            {
+                "title": "苹果升级显示器家族 Studio Display与Studio Display XDR登场 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552062.htm"
+            },
+            {
+                "title": "苹果发布配备M5 Pro与M5 Max的MacBook Pro 本地AI能力再升级 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552060.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中共大外宣军事专家“说谁赢谁必输” 为何屡屡“丢人现眼”？(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-03",
+                "url": "https://www.secretchina.com/news/gb/2026/03/03/1095845.html"
+            },
+            {
+                "title": "中东开打 中国受益？美军调防引发盟友忧虑“战略真空”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-03",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E4%B8%9C%E5%BC%80%E6%89%93-%E4%B8%AD%E5%9B%BD%E5%8F%97%E7%9B%8A%E7%BE%8E%E5%86%9B%E8%B0%83%E9%98%B2%E5%BC%95%E5%8F%91%E7%9B%9F%E5%8F%8B%E5%BF%A7%E8%99%91%E6%88%98%E7%95%A5%E7%9C%9F%E7%A9%BA/a-76201530"
+            },
+            {
+                "title": "川普称美军弹药库存“几乎无限” 史诗怒火行动升级(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-03",
+                "url": "https://www.secretchina.com/news/gb/2026/03/03/1095839.html"
+            },
             {
                 "title": "研究：在 95% 的模拟核危机场景中，AI 模型会选择部署核武器",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-03",
                 "url": "https://www.ithome.com/0/925/528.htm"
-            },
-            {
-                "title": "OpenAI回应监视担忧 将修改与五角大楼合同",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552000.htm"
-            },
-            {
-                "title": "ChatGPT与美国“战争部”签约后卸载量单日激增近三倍 Claude下载量飙升",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551996.htm"
-            },
-            {
-                "title": "元宵节竟是古代“情人节” 古人浪漫起来比你想的更会玩",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551984.htm"
             },
             {
                 "title": "王毅同以色列外长萨尔通电话 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVkxsY1ZzUHY3WFZYTVhpOFZEa3NLa3ZXUEgtcldQbVE0R0F5TE9vTnBoMFZuWF9xZUFhWWk5Nl9XTHV3M1RUUXBXWEt0bC1rX296VkphV2pzMms0c2VTZUtRc0dsc0FnMm1Lb0dsM0ZzNVF5VFE?oc=5"
             },
             {
-                "title": "王毅同法国外长巴罗通电话 - mfa.gov.cn",
+                "title": "毛宁：全球治理倡议契合世界所需、顺应人心所向（2026年3月4日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-02",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95YURzelNuY0VEeDlmRGgtMWQySWNXTlFsdUFveVlhNFphVF9YYV83cWZsWlZjWjFpQ19aS3drOTJnOElNS1hILTVXYmQ1bUxwLU5lVUtvNDY2Mkk4UGl4VW13OVlWd1ZHUDhUd3N3?oc=5"
+                "date": "2026-03-04",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVFrMlkxVkJOVndRTWc0RkpYNF9qSUhWSU9nZGpMWG1HNldfYmdqa1RvZTc3c09CVTZsREIxRUVwb0RhYlhUUFJzZkpoazZWanQwMTRPSGNHMkt4djRVUUk4eHlIM3F6ZW1NRjFmX20yaEJKc0NDNWh3d2ZCaGlkcXhZWkRfdHJqaThjQ2pKbVg?oc=5"
             },
             {
                 "title": "每日聚焦 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "伊朗战争如何影响欧洲和中国",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-03",
+                "url": "https://www.ftchinese.com/story/001109099"
+            },
+            {
+                "title": "德语媒体：对伊朗，北京为何见死不救？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-03",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8C%97%E4%BA%AC%E4%B8%BA%E4%BD%95%E8%A7%81%E6%AD%BB%E4%B8%8D%E6%95%91/a-76201808"
+            },
+            {
+                "title": "AI主导的战争时代来临：对伊朗空袭显示出技术演进之快",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552056.htm"
+            },
+            {
+                "title": "贾跃亭成功做出机器人 法拉第未来已向美国高端酒店交付产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552046.htm"
+            },
+            {
                 "title": "公司巨亏 263 亿美元，Stellantis 新任 CEO 菲洛萨去年薪酬仍高达 540 万欧元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-03",
                 "url": "https://www.ithome.com/0/925/551.htm"
-            },
-            {
-                "title": "比亚迪海外逆袭，在全球 22 个国家和地区销量超越特斯拉",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-03",
-                "url": "https://www.ithome.com/0/925/528.htm"
-            },
-            {
-                "title": "更名后的美国演员奖首次颁奖，《罪人》开始后来居上，欧文·库珀也还在拿奖",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-03-03",
-                "url": "https://www.toodaylab.com/83939"
-            },
-            {
-                "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-03",
-                "url": "https://36kr.com/p/3707029227499651"
-            },
-            {
-                "title": "美团光年之外AI浏览器团队致歉 当事人确认问题并非出于主观恶意",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552034.htm"
             },
             {
                 "title": "王毅同以色列外长萨尔通电话 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVkxsY1ZzUHY3WFZYTVhpOFZEa3NLa3ZXUEgtcldQbVE0R0F5TE9vTnBoMFZuWF9xZUFhWWk5Nl9XTHV3M1RUUXBXWEt0bC1rX296VkphV2pzMms0c2VTZUtRc0dsc0FnMm1Lb0dsM0ZzNVF5VFE?oc=5"
             },
             {
-                "title": "王毅同法国外长巴罗通电话 - mfa.gov.cn",
+                "title": "毛宁：全球治理倡议契合世界所需、顺应人心所向（2026年3月4日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-02",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95YURzelNuY0VEeDlmRGgtMWQySWNXTlFsdUFveVlhNFphVF9YYV83cWZsWlZjWjFpQ19aS3drOTJnOElNS1hILTVXYmQ1bUxwLU5lVUtvNDY2Mkk4UGl4VW13OVlWd1ZHUDhUd3N3?oc=5"
+                "date": "2026-03-04",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVFrMlkxVkJOVndRTWc0RkpYNF9qSUhWSU9nZGpMWG1HNldfYmdqa1RvZTc3c09CVTZsREIxRUVwb0RhYlhUUFJzZkpoazZWanQwMTRPSGNHMkt4djRVUUk4eHlIM3F6ZW1NRjFmX20yaEJKc0NDNWh3d2ZCaGlkcXhZWkRfdHJqaThjQ2pKbVg?oc=5"
             },
             {
                 "title": "每日聚焦 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-04T12:51:30.026214+00:00"
+    "last_updated": "2026-03-04T18:43:57.848191+00:00"
 }
