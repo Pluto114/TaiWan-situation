@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI与五角大楼加强AI合同监控保护条款",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中国电信总经理刘桂清：与中国联通已共享 5G 基站超 154 万",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552002.htm"
+                "url": "https://www.ithome.com/0/925/540.htm"
             },
             {
-                "title": "Anthropic推免费记忆与导入工具 主动挖角ChatGPT用户",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "比亚迪海外逆袭，在全球 22 个国家和地区销量超越特斯拉",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551990.htm"
+                "url": "https://www.ithome.com/0/925/528.htm"
             },
             {
-                "title": "NVIDIA、AMD对中国芯片出口恐再收紧",
+                "title": "马斯克谈中国芯片产业：3-5年内没有突破会感到惊讶",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551962.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552038.htm"
             },
             {
-                "title": "电工成AI时代最抢手蓝领工作 年薪最高超过82万元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "OnePlus PLZ110 新机现身安兔兔：第五代骁龙 8 至尊版、跑分超 445 万，预计为一加 15T",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551956.htm"
+                "url": "https://www.ithome.com/0/925/523.htm"
             },
             {
-                "title": "19岁天才愤然离开OpenAI：揭国防合同血泪内幕 AI竟成为战争噩梦",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551944.htm"
+                "url": "https://36kr.com/p/3707029227499651"
             }
         ],
         "mil": [
+            {
+                "title": "研究：在 95% 的模拟核危机场景中，AI 模型会选择部署核武器",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-03",
+                "url": "https://www.ithome.com/0/925/563.htm"
+            },
+            {
+                "title": "比亚迪海外逆袭，在全球 22 个国家和地区销量超越特斯拉",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-03",
+                "url": "https://www.ithome.com/0/925/528.htm"
+            },
             {
                 "title": "OpenAI回应监视担忧 将修改与五角大楼合同",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1551984.htm"
             },
             {
-                "title": "19岁天才愤然离开OpenAI：揭国防合同血泪内幕 AI竟成为战争噩梦",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551944.htm"
-            },
-            {
-                "title": "“川习会”前夕先来个下马威 美国打伊朗给中共3重击(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-03",
-                "url": "https://www.secretchina.com/news/gb/2026/03/03/1095821.html"
-            },
-            {
                 "title": "王毅同以色列外长萨尔通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-03",
@@ -86,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVkxsY1ZzUHY3WFZYTVhpOFZEa3NLa3ZXUEgtcldQbVE0R0F5TE9vTnBoMFZuWF9xZUFhWWk5Nl9XTHV3M1RUUXBXWEt0bC1rX296VkphV2pzMms0c2VTZUtRc0dsc0FnMm1Lb0dsM0ZzNVF5VFE?oc=5"
             },
             {
-                "title": "2026年3月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅同法国外长巴罗通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-02",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5keWFOdXBTZXllTmJVd1ZCWHhwOHN5Wld0VkpzZWJ4UzYyTnQyM1JOcnJmUnoyRDhrcFhiUHd0ZVUtaUUyWUV3bzI2cnFvSllNWHB3R1VHbTY0azBpTXpzbDBBbDNtMkFTaXVoMUxwcW1veU1vNmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95YURzelNuY0VEeDlmRGgtMWQySWNXTlFsdUFveVlhNFphVF9YYV83cWZsWlZjWjFpQ19aS3drOTJnOElNS1hILTVXYmQ1bUxwLU5lVUtvNDY2Mkk4UGl4VW13OVlWd1ZHUDhUd3N3?oc=5"
             },
             {
-                "title": "“月食闹元宵”，如何观测和拍摄这轮“红月亮”？ - 中国军网",
+                "title": "每日聚焦 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-04",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Jdm9JZTdvRHMtbHBub255ZW91S1cwcDBqTWhWaVhsMGlTN3ktdTB0WmlfcGJTMzV4RXVYejNjaklPSkQ0OHA5b3pTbW4talFPU2VwNVVDeTg1bmJEc3dtdWlKRFlSNU5HNUt3TEpNTQ?oc=5"
+            },
+            {
+                "title": "十四届全国人大四次会议举行新闻发布会 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-04",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jUFB1WFVLOVU4eVNOQ2V1eUJfOUZ3NEdhdHE0dWY2MVMwcWJyWEg4QWh4bDlxMEt3eURjOWsxYWNqU0xVb2RCWDhoY0h4M25sZ0U0cEl3TnpFS0N5MEFadHNwVnNmb25YSWZTWjlyYUdQR2M?oc=5"
+            },
+            {
+                "title": "人民日报社论：锚定奋斗目标 汇聚智慧力量——热烈祝贺全国政协十四届四次会议开幕 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bllEazkyNll1VGgwbmVaallJb3BzcnhUa1BCdmxuZWlZQW5UWFNpbXl5RmptZE1VeVd1U084elJJSjVUS2YyWmJQYVpTRndscDEwcmVZN1ZINzBtZE00dFJaT1F2NjR3?oc=5"
-            },
-            {
-                "title": "军衔“跳级” 能力跃升- 解放军报 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-02",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3k0MFJWWk1rTklpZzlSMnpnN0ZXRjltdVRrQVdta2VGektsN1dsNGZoN2RhVGROSGpGZUdNOFgzLXczVE5scnFvUXdvRUwyZ0ZyVHF3ckpLcElrNllNMnRQNTN4dmppQ0UwNndfbzZPV1J5Q1ctZjk0SUZsSFBIdEZJVTMzc0lTZzZ6bnBablljZWpTa0x4N0YteXp2SkxmTXh5MGRrSVhOUnpYdHF4WVBR?oc=5"
-            },
-            {
-                "title": "团结奋斗谋发展 实干笃行向未来 ——二〇二五年军队政协委员履职尽责情况综述 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xd1RYbDJKOENrVVRYZDFoRGRMVXo1R3R5SWF5SmFuQmotNElUanh3YnZMRzNYZHdlUnJONTNZWnFHMXZmOGFXMDVNeDBpVEdrR2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xS2laX2JOajFHQkxWRGNPREZYeXNMQ01JZTJKRS1oUTJVUU0wZU1ldl9kMWdKMWdkeDM5RXJvU1loTXBQLWZjU1FFYWR1ZThmaHlRYW1zdXlXSTRrN3Q0eGdVdGVwbWluaVh3ZGJtblE5T0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "ChatGPT与美国“战争部”签约后卸载量单日激增近三倍 Claude下载量飙升",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "公司巨亏 263 亿美元，Stellantis 新任 CEO 菲洛萨去年薪酬仍高达 540 万欧元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551996.htm"
+                "url": "https://www.ithome.com/0/925/551.htm"
             },
             {
-                "title": "NVIDIA、AMD对中国芯片出口恐再收紧",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "比亚迪海外逆袭，在全球 22 个国家和地区销量超越特斯拉",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551962.htm"
+                "url": "https://www.ithome.com/0/925/528.htm"
             },
             {
-                "title": "19岁天才愤然离开OpenAI：揭国防合同血泪内幕 AI竟成为战争噩梦",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "更名后的美国演员奖首次颁奖，《罪人》开始后来居上，欧文·库珀也还在拿奖",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-03-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1551944.htm"
+                "url": "https://www.toodaylab.com/83939"
             },
             {
-                "title": "黄金频段争夺战打响，华为发布U6GHz完整产品矩阵丨MWC 2026",
+                "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-03",
-                "url": "https://36kr.com/p/3705512345170309"
+                "url": "https://36kr.com/p/3707029227499651"
             },
             {
-                "title": "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美团光年之外AI浏览器团队致歉 当事人确认问题并非出于主观恶意",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-03",
-                "url": "https://36kr.com/p/3705522207289479"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552034.htm"
             },
             {
                 "title": "王毅同以色列外长萨尔通电话 - mfa.gov.cn",
@@ -154,31 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVkxsY1ZzUHY3WFZYTVhpOFZEa3NLa3ZXUEgtcldQbVE0R0F5TE9vTnBoMFZuWF9xZUFhWWk5Nl9XTHV3M1RUUXBXWEt0bC1rX296VkphV2pzMms0c2VTZUtRc0dsc0FnMm1Lb0dsM0ZzNVF5VFE?oc=5"
             },
             {
-                "title": "2026年3月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅同法国外长巴罗通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-02",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5keWFOdXBTZXllTmJVd1ZCWHhwOHN5Wld0VkpzZWJ4UzYyTnQyM1JOcnJmUnoyRDhrcFhiUHd0ZVUtaUUyWUV3bzI2cnFvSllNWHB3R1VHbTY0azBpTXpzbDBBbDNtMkFTaXVoMUxwcW1veU1vNmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95YURzelNuY0VEeDlmRGgtMWQySWNXTlFsdUFveVlhNFphVF9YYV83cWZsWlZjWjFpQ19aS3drOTJnOElNS1hILTVXYmQ1bUxwLU5lVUtvNDY2Mkk4UGl4VW13OVlWd1ZHUDhUd3N3?oc=5"
             },
             {
-                "title": "“月食闹元宵”，如何观测和拍摄这轮“红月亮”？ - 中国军网",
+                "title": "每日聚焦 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-04",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Jdm9JZTdvRHMtbHBub255ZW91S1cwcDBqTWhWaVhsMGlTN3ktdTB0WmlfcGJTMzV4RXVYejNjaklPSkQ0OHA5b3pTbW4talFPU2VwNVVDeTg1bmJEc3dtdWlKRFlSNU5HNUt3TEpNTQ?oc=5"
+            },
+            {
+                "title": "十四届全国人大四次会议举行新闻发布会 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-04",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jUFB1WFVLOVU4eVNOQ2V1eUJfOUZ3NEdhdHE0dWY2MVMwcWJyWEg4QWh4bDlxMEt3eURjOWsxYWNqU0xVb2RCWDhoY0h4M25sZ0U0cEl3TnpFS0N5MEFadHNwVnNmb25YSWZTWjlyYUdQR2M?oc=5"
+            },
+            {
+                "title": "人民日报社论：锚定奋斗目标 汇聚智慧力量——热烈祝贺全国政协十四届四次会议开幕 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bllEazkyNll1VGgwbmVaallJb3BzcnhUa1BCdmxuZWlZQW5UWFNpbXl5RmptZE1VeVd1U084elJJSjVUS2YyWmJQYVpTRndscDEwcmVZN1ZINzBtZE00dFJaT1F2NjR3?oc=5"
-            },
-            {
-                "title": "军衔“跳级” 能力跃升- 解放军报 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-02",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3k0MFJWWk1rTklpZzlSMnpnN0ZXRjltdVRrQVdta2VGektsN1dsNGZoN2RhVGROSGpGZUdNOFgzLXczVE5scnFvUXdvRUwyZ0ZyVHF3ckpLcElrNllNMnRQNTN4dmppQ0UwNndfbzZPV1J5Q1ctZjk0SUZsSFBIdEZJVTMzc0lTZzZ6bnBablljZWpTa0x4N0YteXp2SkxmTXh5MGRrSVhOUnpYdHF4WVBR?oc=5"
-            },
-            {
-                "title": "团结奋斗谋发展 实干笃行向未来 ——二〇二五年军队政协委员履职尽责情况综述 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xd1RYbDJKOENrVVRYZDFoRGRMVXo1R3R5SWF5SmFuQmotNElUanh3YnZMRzNYZHdlUnJONTNZWnFHMXZmOGFXMDVNeDBpVEdrR2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xS2laX2JOajFHQkxWRGNPREZYeXNMQ01JZTJKRS1oUTJVUU0wZU1ldl9kMWdKMWdkeDM5RXJvU1loTXBQLWZjU1FFYWR1ZThmaHlRYW1zdXlXSTRrN3Q0eGdVdGVwbWluaVh3ZGJtblE5T0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-04T06:42:21.214577+00:00"
+    "last_updated": "2026-03-04T12:51:30.026214+00:00"
 }
