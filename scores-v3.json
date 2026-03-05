@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "TrendForce：亚洲半导体巨头今年瞄准 1360 亿美元投资规模，同比增长 25%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-04",
-                "url": "https://www.ithome.com/0/925/957.htm"
-            },
-            {
-                "title": "伊朗战争引发新兴市场暴跌 投资吸引力锐减",
+                "title": "在五角大楼将Anthropic列入黑名单后 国防科技公司纷纷弃用Claude",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552200.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552226.htm"
             },
             {
-                "title": "越骂越火？山姆一冰块卖37.9元，多门店已售罄 网友分两派吵翻天",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "一罐安眠药背后：你培养 “狗” 还是 “狼”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552198.htm"
+                "url": "https://www.ftchinese.com/story/001108932"
             },
             {
-                "title": "R8 停产两年后，高德诺称奥迪燃油超跑“未来某天”或会重返舞台",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国最高法院裁决IEEPA关税非法：关税战态势未变，中美脱钩趋势持续",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://www.ithome.com/0/925/946.htm"
+                "url": "https://www.ftchinese.com/story/001109098"
             },
             {
-                "title": "20000mAh 电池、内置点火器，Oukitel WP63 手机亮相 MWC 2026",
-                "source": "NewsAPI / Ithome.com",
+                "title": "制度逆境下的经济韧性",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://www.ithome.com/0/925/944.htm"
+                "url": "https://www.ftchinese.com/story/001109118"
+            },
+            {
+                "title": "在伊朗局势的这件事上，特朗普撒谎了",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-04",
+                "url": "https://www.ftchinese.com/story/001109111"
             }
         ],
         "mil": [
             {
-                "title": "Polymarket因舆论风波下架“核爆”博彩合约",
+                "title": "“史诗”行动以来白宫首发声：伊朗核阴影已永远消失(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-04",
+                "url": "https://www.secretchina.com/news/gb/2026/03/05/1095898.html"
+            },
+            {
+                "title": "在五角大楼将Anthropic列入黑名单后 国防科技公司纷纷弃用Claude",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552188.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552226.htm"
             },
             {
-                "title": "瑜说还休｜“中式赢学”？专家又发清奇之论：美国热衷斩首战术，彰显军事实力衰退",
-                "source": "NewsAPI / Chinadigitaltimes.net",
+                "title": "一罐安眠药背后：你培养 “狗” 还是 “狼”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://chinadigitaltimes.net/chinese/725629.html"
+                "url": "https://www.ftchinese.com/story/001108932"
             },
             {
-                "title": "五角大楼决策后 Anthropic与Palantir合作陷入危机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "制度逆境下的经济韧性",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552176.htm"
+                "url": "https://www.ftchinese.com/story/001109118"
             },
             {
-                "title": "千问模型负责人林俊旸提出离职，阿里高管紧急答疑 | 智能涌现独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "在伊朗局势的这件事上，特朗普撒谎了",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://36kr.com/p/3708425301749891"
-            },
-            {
-                "title": "中国如何面对伊朗突变？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-03-04",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%98/a-76201989"
-            },
-            {
-                "title": "王毅同以色列外长萨尔通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsNzB5YWdqWjBLNlNYZUFlM3VWdE5nYU9fVXFfUUk3c3cwc2Q0cThYeXZQdGpFQjVzQTdBMDEtcFZJeER3QjVvMHhaRmRqZkNFbXc5eGtlUXBMa2hXQ2JkX3BNWUJZdHh5c3VCdlNB?oc=5"
+                "url": "https://www.ftchinese.com/story/001109111"
             },
             {
                 "title": "王毅同沙特外交大臣费萨尔通电话 - mfa.gov.cn",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WNUlzeENNazhoMDBOSzQzSVYzYjBod056Y290SzgxNEVZcEJlOTBzYTlYd1JReWxJTGF1dGM5Zl93ZC1FUXgtSnlYTVdQcmhSX1NFc1k3R2M3WlhiYVd4M091RmJ0QnVqeVZJaTh3?oc=5"
             },
             {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
                 "title": "每日聚焦 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-04",
                 "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Jdm9JZTdvRHMtbHBub255ZW91S1cwcDBqTWhWaVhsMGlTN3ktdTB0WmlfcGJTMzV4RXVYejNjaklPSkQ0OHA5b3pTbW4talFPU2VwNVVDeTg1bmJEc3dtdWlKRFlSNU5HNUt3TEpNTQ?oc=5"
             },
             {
+                "title": "常怀履霜之戒 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-05",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHlEbFBVZXgwZnBPOEtGM3JWOFppQ1RlQlBBMUtQNDVwc1k2LWI5cXlDX18yN2JnNC1vb05Gd0xKWFduSEtUZnVmSVBiSmZPR1lIU0Rxd2hWUXY3WHVUU3U4QldKcjFNcDlfSlhoR2J3TzNEY0g4MHVIZkVGLXBBTkZPNXVqLUhnbVhBVVRTaHZHTDl5cHhnMVNFR0YxSGxFX0hrV25JbnpLc2M3NFZKU0Zn?oc=5"
+            },
+            {
                 "title": "十四届全国人大四次会议举行新闻发布会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-04",
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jUFB1WFVLOVU4eVNOQ2V1eUJfOUZ3NEdhdHE0dWY2MVMwcWJyWEg4QWh4bDlxMEt3eURjOWsxYWNqU0xVb2RCWDhoY0h4M25sZ0U0cEl3TnpFS0N5MEFadHNwVnNmb25YSWZTWjlyYUdQR2M?oc=5"
-            },
-            {
-                "title": "人民日报社论：锚定奋斗目标 汇聚智慧力量——热烈祝贺全国政协十四届四次会议开幕 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xS2laX2JOajFHQkxWRGNPREZYeXNMQ01JZTJKRS1oUTJVUU0wZU1ldl9kMWdKMWdkeDM5RXJvU1loTXBQLWZjU1FFYWR1ZThmaHlRYW1zdXlXSTRrN3Q0eGdVdGVwbWluaVh3ZGJtblE5T0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "Polymarket因舆论风波下架“核爆”博彩合约",
+                "title": "在五角大楼将Anthropic列入黑名单后 国防科技公司纷纷弃用Claude",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552188.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552226.htm"
             },
             {
-                "title": "韩国电子入境卡仍标“中国台湾”台外交部反制(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "一罐安眠药背后：你培养 “狗” 还是 “狼”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://www.secretchina.com/news/gb/2026/03/04/1095874.html"
+                "url": "https://www.ftchinese.com/story/001108932"
             },
             {
-                "title": "人大召开前 中国经济发出喜忧参半的信号",
-                "source": "NewsAPI / DW (English)",
+                "title": "美国最高法院裁决IEEPA关税非法：关税战态势未变，中美脱钩趋势持续",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://www.dw.com/zh/%E4%BA%BA%E5%A4%A7%E5%8F%AC%E5%BC%80%E5%89%8D-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%87%BA%E5%96%9C%E5%BF%A7%E5%8F%82%E5%8D%8A%E7%9A%84%E4%BF%A1%E5%8F%B7/a-76211834"
+                "url": "https://www.ftchinese.com/story/001109098"
             },
             {
-                "title": "同样配备华为全新一代 896 线四激光雷达，岚图预热“FUV”新车 FE",
-                "source": "NewsAPI / Ithome.com",
+                "title": "在伊朗局势的这件事上，特朗普撒谎了",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-04",
-                "url": "https://www.ithome.com/0/925/935.htm"
+                "url": "https://www.ftchinese.com/story/001109111"
             },
             {
-                "title": "五角大楼决策后 Anthropic与Palantir合作陷入危机",
+                "title": "OpenAI员工对公司与五角大楼达成合作协议怒火中烧",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552176.htm"
-            },
-            {
-                "title": "王毅同以色列外长萨尔通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsNzB5YWdqWjBLNlNYZUFlM3VWdE5nYU9fVXFfUUk3c3cwc2Q0cThYeXZQdGpFQjVzQTdBMDEtcFZJeER3QjVvMHhaRmRqZkNFbXc5eGtlUXBMa2hXQ2JkX3BNWUJZdHh5c3VCdlNB?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552216.htm"
             },
             {
                 "title": "王毅同沙特外交大臣费萨尔通电话 - mfa.gov.cn",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WNUlzeENNazhoMDBOSzQzSVYzYjBod056Y290SzgxNEVZcEJlOTBzYTlYd1JReWxJTGF1dGM5Zl93ZC1FUXgtSnlYTVdQcmhSX1NFc1k3R2M3WlhiYVd4M091RmJ0QnVqeVZJaTh3?oc=5"
             },
             {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
                 "title": "每日聚焦 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-04",
                 "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Jdm9JZTdvRHMtbHBub255ZW91S1cwcDBqTWhWaVhsMGlTN3ktdTB0WmlfcGJTMzV4RXVYejNjaklPSkQ0OHA5b3pTbW4talFPU2VwNVVDeTg1bmJEc3dtdWlKRFlSNU5HNUt3TEpNTQ?oc=5"
             },
             {
+                "title": "常怀履霜之戒 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-05",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHlEbFBVZXgwZnBPOEtGM3JWOFppQ1RlQlBBMUtQNDVwc1k2LWI5cXlDX18yN2JnNC1vb05Gd0xKWFduSEtUZnVmSVBiSmZPR1lIU0Rxd2hWUXY3WHVUU3U4QldKcjFNcDlfSlhoR2J3TzNEY0g4MHVIZkVGLXBBTkZPNXVqLUhnbVhBVVRTaHZHTDl5cHhnMVNFR0YxSGxFX0hrV25JbnpLc2M3NFZKU0Zn?oc=5"
+            },
+            {
                 "title": "十四届全国人大四次会议举行新闻发布会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-04",
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jUFB1WFVLOVU4eVNOQ2V1eUJfOUZ3NEdhdHE0dWY2MVMwcWJyWEg4QWh4bDlxMEt3eURjOWsxYWNqU0xVb2RCWDhoY0h4M25sZ0U0cEl3TnpFS0N5MEFadHNwVnNmb25YSWZTWjlyYUdQR2M?oc=5"
-            },
-            {
-                "title": "人民日报社论：锚定奋斗目标 汇聚智慧力量——热烈祝贺全国政协十四届四次会议开幕 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-03",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xS2laX2JOajFHQkxWRGNPREZYeXNMQ01JZTJKRS1oUTJVUU0wZU1ldl9kMWdKMWdkeDM5RXJvU1loTXBQLWZjU1FFYWR1ZThmaHlRYW1zdXlXSTRrN3Q0eGdVdGVwbWluaVh3ZGJtblE5T0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-05T12:54:40.832553+00:00"
+    "last_updated": "2026-03-05T19:14:18.329435+00:00"
 }
