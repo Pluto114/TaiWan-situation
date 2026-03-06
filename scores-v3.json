@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "在五角大楼将Anthropic列入黑名单后 国防科技公司纷纷弃用Claude",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552226.htm"
+                "title": "头部制氢材料公司获蔚来资本领投A轮融资，中科大团队创立，预计订单额再翻倍｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/p/3698479751769989"
             },
             {
-                "title": "一罐安眠药背后：你培养 “狗” 还是 “狼”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001108932"
+                "title": "李强在政府工作报告中指出，我国经济长期向好的支撑条件和基本趋势没有改变，制度优势和大国优势不断彰显",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/newsflashes/3709374609502598"
             },
             {
-                "title": "美国最高法院裁决IEEPA关税非法：关税战态势未变，中美脱钩趋势持续",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001109098"
+                "title": "李强在政府工作报告中介绍，一年来坚持创新驱动发展，建设现代化产业体系",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/newsflashes/3709361174999428"
             },
             {
-                "title": "制度逆境下的经济韧性",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001109118"
+                "title": "中国芯片让区块链性能提升50倍",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/newsflashes/3709307405922688"
             },
             {
-                "title": "在伊朗局势的这件事上，特朗普撒谎了",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001109111"
+                "title": "8点1氪丨阿里高管紧急开会答疑，回应千问模型负责人林俊旸卸任；大钲资本收购蓝瓶咖啡；马云和阿里蚂蚁核心管理层在云谷学校交流AI",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/p/3709304754614662"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨阿里高管紧急开会答疑，回应千问模型负责人林俊旸卸任；大钲资本收购蓝瓶咖啡；马云和阿里蚂蚁核心管理层在云谷学校交流AI",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/p/3709304754614662"
+            },
+            {
+                "title": "IT早报 0305：4599 元起苹果最便宜笔记本 MacBook Neo 发布；1 元 1 秒字节 Seedance2.0 定价公布；华为乾崑全球首发 896 线激光雷达...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-04",
+                "url": "https://www.ithome.com/0/926/005.htm"
+            },
+            {
+                "title": "黄仁勋称对OpenAI的300亿美元投资“可能是最后一次”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552240.htm"
+            },
             {
                 "title": "“史诗”行动以来白宫首发声：伊朗核阴影已永远消失(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-04",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1552226.htm"
-            },
-            {
-                "title": "一罐安眠药背后：你培养 “狗” 还是 “狼”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001108932"
-            },
-            {
-                "title": "制度逆境下的经济韧性",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001109118"
-            },
-            {
-                "title": "在伊朗局势的这件事上，特朗普撒谎了",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001109111"
             },
             {
                 "title": "王毅同沙特外交大臣费萨尔通电话 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WNUlzeENNazhoMDBOSzQzSVYzYjBod056Y290SzgxNEVZcEJlOTBzYTlYd1JReWxJTGF1dGM5Zl93ZC1FUXgtSnlYTVdQcmhSX1NFc1k3R2M3WlhiYVd4M091RmJ0QnVqeVZJaTh3?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年3月5日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-05",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSjFoTExXLWZnQ21NMi1uaGtfcnliN0RzeGMzV0VmVTJhc2EyUTVIMV9qQnltVGgwSVl6R1NUUGpMbmNrZ2lGWW5CeDNtOGQ5aXZKTXQ4U0VGcEJObEJxWk5oSF9IaXpCOWZQVGwyY0xxbUNXSEE?oc=5"
             },
             {
                 "title": "每日聚焦 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "在五角大楼将Anthropic列入黑名单后 国防科技公司纷纷弃用Claude",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552226.htm"
+                "title": "头部制氢材料公司获蔚来资本领投A轮融资，中科大团队创立，预计订单额再翻倍｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/p/3698479751769989"
             },
             {
-                "title": "一罐安眠药背后：你培养 “狗” 还是 “狼”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001108932"
+                "title": "李强在政府工作报告中指出，我国经济长期向好的支撑条件和基本趋势没有改变，制度优势和大国优势不断彰显",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/newsflashes/3709374609502598"
             },
             {
-                "title": "美国最高法院裁决IEEPA关税非法：关税战态势未变，中美脱钩趋势持续",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001109098"
+                "title": "今日消费资讯：大钲资本或将收购蓝瓶咖啡、​玛莎拉蒂整合亚太地区业务",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-03-05",
+                "url": "https://www.toodaylab.com/83941"
             },
             {
-                "title": "在伊朗局势的这件事上，特朗普撒谎了",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-04",
-                "url": "https://www.ftchinese.com/story/001109111"
+                "title": "8点1氪丨阿里高管紧急开会答疑，回应千问模型负责人林俊旸卸任；大钲资本收购蓝瓶咖啡；马云和阿里蚂蚁核心管理层在云谷学校交流AI",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-05",
+                "url": "https://36kr.com/p/3709304754614662"
             },
             {
-                "title": "OpenAI员工对公司与五角大楼达成合作协议怒火中烧",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "华为和中国移动完成全球首个规模部署无线网络智能体，40 万 5G 站点升级",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552216.htm"
+                "url": "https://www.ithome.com/0/926/013.htm"
             },
             {
                 "title": "王毅同沙特外交大臣费萨尔通电话 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WNUlzeENNazhoMDBOSzQzSVYzYjBod056Y290SzgxNEVZcEJlOTBzYTlYd1JReWxJTGF1dGM5Zl93ZC1FUXgtSnlYTVdQcmhSX1NFc1k3R2M3WlhiYVd4M091RmJ0QnVqeVZJaTh3?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年3月5日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-05",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSjFoTExXLWZnQ21NMi1uaGtfcnliN0RzeGMzV0VmVTJhc2EyUTVIMV9qQnltVGgwSVl6R1NUUGpMbmNrZ2lGWW5CeDNtOGQ5aXZKTXQ4U0VGcEJObEJxWk5oSF9IaXpCOWZQVGwyY0xxbUNXSEE?oc=5"
             },
             {
                 "title": "每日聚焦 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-05T19:14:18.329435+00:00"
+    "last_updated": "2026-03-06T01:54:24.404758+00:00"
 }
