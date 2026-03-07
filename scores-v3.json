@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Anthropic 回应被美国列为国家安全风险实体：将以象征性成本向政府提供 AI 模型及工程师支持",
-                "source": "NewsAPI / Ithome.com",
+                "title": "全球首款混合动力无人机动力系统揭秘 中国航天联合赛力斯开发",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-06",
-                "url": "https://www.ithome.com/0/926/369.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552468.htm"
             },
             {
-                "title": "南亚科技启动定制化 AI 内存研发，有望今年下半年公布进展",
-                "source": "NewsAPI / Ithome.com",
+                "title": "NAND单月跳涨25% 机构称可能导致行业周期崩溃",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-06",
-                "url": "https://www.ithome.com/0/926/366.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552458.htm"
             },
             {
-                "title": "中信证券：建议关注NVIDIA产业链核心企业、通过投资战略布局LPU的企业",
-                "source": "NewsAPI / 36kr.com",
+                "title": "拿老U充当新U 驰为笔记本CPU欺诈被揭穿 官方回应含糊其辞",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-06",
-                "url": "https://36kr.com/newsflashes/3710719522877826"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552456.htm"
             },
             {
-                "title": "国内首款滑盖空调：海信空调智慧风 E5 系列正式发布，支持海思联合开发星闪人感 2.0",
-                "source": "NewsAPI / Ithome.com",
+                "title": "长江存储发布首款PCIe 5.0商用SSD PC550",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-06",
-                "url": "https://www.ithome.com/0/926/361.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552454.htm"
             },
             {
-                "title": "华西证券：未来关税不确定或带来新一轮抢出口",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI扩张拖累现金流 据称甲骨文拟裁员数千人缓解资金压力",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-06",
-                "url": "https://36kr.com/newsflashes/3710711341150340"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552436.htm"
             }
         ],
         "mil": [
+            {
+                "title": "奥特曼暗讽Anthropic：政府权力本应比私营公司大",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552430.htm"
+            },
+            {
+                "title": "质疑五角大楼的“供应链风险”结论 Anthropic称其别无选择只能对薄公堂",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552414.htm"
+            },
+            {
+                "title": "北大清华、长江存储等 9 方学者联合发文：要创立中国的 ASML，“十五五”目标初步完成全国产化的 7nm 生产线建设及试运行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-06",
+                "url": "https://www.ithome.com/0/926/455.htm"
+            },
             {
                 "title": "Anthropic 回应被美国列为国家安全风险实体：将以象征性成本向政府提供 AI 模型及工程师支持",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-05",
                 "url": "https://36kr.com/p/3710693707166083"
-            },
-            {
-                "title": "IT早报 0306：2026 胡润全球富豪榜出炉；比亚迪第二代刀片电池发布；店员称 vivo 手机将涨价 10%-15%；人大代表建议短视频平台夜间强制未成年人下线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-05",
-                "url": "https://www.ithome.com/0/926/351.htm"
-            },
-            {
-                "title": "美联航更新运输条款：不戴耳机外放音频或可被永久拒载",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552404.htm"
-            },
-            {
-                "title": "美国据悉拟将AI芯片出口管制扩展至全球 英伟达和AMD势受冲击",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552390.htm"
             },
             {
                 "title": "外交部副部长苗得雨赴伊朗驻华使馆吊唁伊朗最高领袖哈梅内伊遇难 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSjFoTExXLWZnQ21NMi1uaGtfcnliN0RzeGMzV0VmVTJhc2EyUTVIMV9qQnltVGgwSVl6R1NUUGpMbmNrZ2lGWW5CeDNtOGQ5aXZKTXQ4U0VGcEJObEJxWk5oSF9IaXpCOWZQVGwyY0xxbUNXSEE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-05",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNclZPOUo4ZjhUSTRRZkdMLU1ndnlwaldpWmt4M0xkalpobExXS3ZtY2FkNHJrUEwzQmpSVWdfNnlUamFFaTJEUFZ3enpmT0NyVmoxMWo2Tk5UY2kwNHFuSXlaaVNUV1VrZnU3UUtINFJuU3VMUmRLbDVkaUhEckRMQkZMSGYtT01LSlE?oc=5"
             },
             {
                 "title": "常怀履霜之戒 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "国内首款滑盖空调：海信空调智慧风 E5 系列正式发布，支持海思联合开发星闪人感 2.0",
+                "title": "苹果携手悉尼歌剧院启动年度创意合作计划",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552474.htm"
+            },
+            {
+                "title": "NAND单月跳涨25% 机构称可能导致行业周期崩溃",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552458.htm"
+            },
+            {
+                "title": "长江存储发布首款PCIe 5.0商用SSD PC550",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552454.htm"
+            },
+            {
+                "title": "陈天桥九年来首度受访：历史或以“ChatGPT前后”划分 中美应在同一球队",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552428.htm"
+            },
+            {
+                "title": "盛大创始人陈天桥九年来首度受访：致力于打造“比人类更聪明”的 AI，历史或以“ChatGPT 前后”划分",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-06",
-                "url": "https://www.ithome.com/0/926/361.htm"
-            },
-            {
-                "title": "8点1氪丨寿司郎被曝吃出寄生虫卵，当地市监局通报；全国人大代表建议尽量不要调休；谷歌DeepMind高管公开邀请千问团队入职",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-05",
-                "url": "https://36kr.com/p/3710693707166083"
-            },
-            {
-                "title": "IT早报 0306：2026 胡润全球富豪榜出炉；比亚迪第二代刀片电池发布；店员称 vivo 手机将涨价 10%-15%；人大代表建议短视频平台夜间强制未成年人下线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-05",
-                "url": "https://www.ithome.com/0/926/351.htm"
-            },
-            {
-                "title": "美联航更新运输条款：不戴耳机外放音频或可被永久拒载",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552404.htm"
-            },
-            {
-                "title": "Anthropic CEO再曝与五角大楼重启谈判 寻求挽回军方合约",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552388.htm"
+                "url": "https://www.ithome.com/0/926/491.htm"
             },
             {
                 "title": "外交部副部长苗得雨赴伊朗驻华使馆吊唁伊朗最高领袖哈梅内伊遇难 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSjFoTExXLWZnQ21NMi1uaGtfcnliN0RzeGMzV0VmVTJhc2EyUTVIMV9qQnltVGgwSVl6R1NUUGpMbmNrZ2lGWW5CeDNtOGQ5aXZKTXQ4U0VGcEJObEJxWk5oSF9IaXpCOWZQVGwyY0xxbUNXSEE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-05",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNclZPOUo4ZjhUSTRRZkdMLU1ndnlwaldpWmt4M0xkalpobExXS3ZtY2FkNHJrUEwzQmpSVWdfNnlUamFFaTJEUFZ3enpmT0NyVmoxMWo2Tk5UY2kwNHFuSXlaaVNUV1VrZnU3UUtINFJuU3VMUmRLbDVkaUhEckRMQkZMSGYtT01LSlE?oc=5"
             },
             {
                 "title": "常怀履霜之戒 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-07T01:46:39.030597+00:00"
+    "last_updated": "2026-03-07T06:36:17.076825+00:00"
 }
