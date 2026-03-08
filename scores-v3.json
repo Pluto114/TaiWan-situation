@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "中国警告：若安世半导体纠纷再升级 全球芯片供应或再度陷入危机 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552646.htm"
+            },
+            {
                 "title": "谈崩了：OpenAI、甲骨文放弃得州“星际之门”数据中心兴建计划",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-07",
@@ -34,12 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-07",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1552604.htm"
-            },
-            {
-                "title": "中国社会抗争暴增5成 福建千人围堵市政府",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-07",
-                "url": "https://www.secretchina.com/news/gb/2026/03/07/1096013.html"
             }
         ],
         "mil": [
@@ -74,6 +74,12 @@
                 "url": "https://www.ithome.com/0/926/780.htm"
             },
             {
+                "title": "中共中央政治局委员、外交部长王毅就中国外交政策和对外关系回答中外记者提问 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-08",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3hoaXRUZWdyenBURjJfYVFBeEFIQ0U1U1EzUWN6UUVKWXJNSGQzOGNvemtLa2FjeVFuTHJZZU9CNU03V3NTSXNDbENVMWw0Y29HZ29XUnVEUWVIb2tMRzlkZXNrODExM1VleXhLQ0pPQUdJUGt3c2J6YzZUVG1XU08yOVF1ejlk?oc=5"
+            },
+            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-08",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYllfRGdRclBxek5XbnotUVFWV2NyNXhscl9uNDkxbXNFc2IxOVM4YVdOaks0T1BIY1JjVHFaT29RZ0xvTFY3V1hjTDRXbHlTVGZra0ItU0RZMVViRkhOb2l3b280c2JyMy1ldG9RZy1iU0l5Y2hSQXBoVHdXT3dkS002bTVremc4ekFQeU13?oc=5"
-            },
-            {
-                "title": "王毅：中国是周边和平稳定的关键因素 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUVvSy05d0UzcVlpd0M2MXo3elFiZGkwVkl6ck9MOEl5a2JsTGhlazVOaXBOTW9NRE5KYWVRTE50aTFBLU9memdjYmdIdjBna1NDS1hwRUpjbmc3VnJjdnktSFpBb3YwSjNUN3dCMWc4T0ZiV0lpVVZzZi1OOW5fdlZvenlaZG5PLVdYR1Nn?oc=5"
             },
             {
                 "title": "拓宽战斗精神培育渠道 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
+                "title": "中国警告：若安世半导体纠纷再升级 全球芯片供应或再度陷入危机 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552646.htm"
+            },
+            {
+                "title": "如果只能买一本和字体有关的书，那么你应该选这一本 #每周一书",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-03-07",
+                "url": "https://www.toodaylab.com/83927"
+            },
+            {
+                "title": "向邻国道歉 伊朗总统称“绝不投降”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-07",
+                "url": "https://www.dw.com/zh/%E5%90%91%E9%82%BB%E5%9B%BD%E9%81%93%E6%AD%89-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%BB%9D%E4%B8%8D%E6%8A%95%E9%99%8D/a-76260499"
+            },
+            {
+                "title": "时代杂志：美伊战挫中共锐气 台湾受巩固(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-07",
+                "url": "https://www.secretchina.com/news/gb/2026/03/07/1096011.html"
+            },
+            {
                 "title": "Google：主流间谍软件厂商与疑似中国黑客主导去年零日漏洞攻击",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-07",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1552626.htm"
             },
             {
-                "title": "OpenClaw引爆纽约集会 \"虾教\"日烧10亿tokens",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552598.htm"
-            },
-            {
-                "title": "你打你的仗，我赚我的钱……中国商人在中东，淘金永不眠",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552596.htm"
-            },
-            {
-                "title": "从9岁到70岁都在“养龙虾” OpenClaw究竟有何魔力？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552578.htm"
-            },
-            {
-                "title": "阿里最年轻 P10 林俊旸离职尘埃落定：为千问，我只能做这么多了",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-07",
-                "url": "https://www.ithome.com/0/926/794.htm"
+                "title": "中共中央政治局委员、外交部长王毅就中国外交政策和对外关系回答中外记者提问 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-08",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3hoaXRUZWdyenBURjJfYVFBeEFIQ0U1U1EzUWN6UUVKWXJNSGQzOGNvemtLa2FjeVFuTHJZZU9CNU03V3NTSXNDbENVMWw0Y29HZ29XUnVEUWVIb2tMRzlkZXNrODExM1VleXhLQ0pPQUdJUGt3c2J6YzZUVG1XU08yOVF1ejlk?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-08",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYllfRGdRclBxek5XbnotUVFWV2NyNXhscl9uNDkxbXNFc2IxOVM4YVdOaks0T1BIY1JjVHFaT29RZ0xvTFY3V1hjTDRXbHlTVGZra0ItU0RZMVViRkhOb2l3b280c2JyMy1ldG9RZy1iU0l5Y2hSQXBoVHdXT3dkS002bTVremc4ekFQeU13?oc=5"
-            },
-            {
-                "title": "王毅：中国是周边和平稳定的关键因素 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUVvSy05d0UzcVlpd0M2MXo3elFiZGkwVkl6ck9MOEl5a2JsTGhlazVOaXBOTW9NRE5KYWVRTE50aTFBLU9memdjYmdIdjBna1NDS1hwRUpjbmc3VnJjdnktSFpBb3YwSjNUN3dCMWc4T0ZiV0lpVVZzZi1OOW5fdlZvenlaZG5PLVdYR1Nn?oc=5"
             },
             {
                 "title": "拓宽战斗精神培育渠道 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-08T12:42:05.178903+00:00"
+    "last_updated": "2026-03-08T18:30:23.955188+00:00"
 }
