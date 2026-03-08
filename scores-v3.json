@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "冯 · 诺依曼的传奇人生",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-07",
+                "url": "https://www.ithome.com/0/926/780.htm"
+            },
+            {
                 "title": "Anthropic 失业报告炸场：22-25 岁年轻人被斩杀，先拥抱 AI 的行业先被 AI 吃掉",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-07",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-06",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1552560.htm"
-            },
-            {
-                "title": "美国将为中东油轮提供保险",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552558.htm"
             }
         ],
         "mil": [
+            {
+                "title": "冯 · 诺依曼的传奇人生",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-07",
+                "url": "https://www.ithome.com/0/926/780.htm"
+            },
             {
                 "title": "IT早报 0307：小米官方手机“龙虾”智能体封测；OPPO 回应 realme 暂停新机研发；长江存储首款 PCIe 5.0 商用消费级 SSD 发布；“双一流”本科有望扩招 10 万人以上...",
                 "source": "NewsAPI / Ithome.com",
@@ -68,28 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/03/07/1095990.html"
             },
             {
-                "title": "导弹无人机叠加电子干扰 霍尔木兹海峡谍影重重",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552540.htm"
-            },
-            {
-                "title": "驻吉尔吉斯斯坦大使刘江平出席2026世界牡丹大会吉尔吉斯斯坦分会场活动 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-06",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFdzdm5reTRfWE9UdHg2b29FOHRLNTl2cUhPVGp6bTVnZ1lWSko3MWR5SHAzTTE0TWs2azhlTFdXd09NNm1oZGZ1c1IweXJoZUFhZ1Mya3JTU0R3NHRiLTZ1MjJ6dlNYZ21JbFRrQXMzZmdvTV8wTlhmc2RTd2U5ekdobkM?oc=5"
-            },
-            {
-                "title": "驻清迈总领事陈海平出席2026年“七彩云南·欢聚泰北”新春慰侨演出 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-06",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORm1nWllqdmFRUU1TTVpTWVNhZG1CTUkwRzhZUFl1VV94UUVLQjY4b05mMXpVNWlwWE5PZGRKWmNWckxXSDlIWUVDenRNWjB2TE1JVm1BOVB6dE12TVhmc1l6a2hlY1BUUWl1NEsxYjNOdmQwcnlkdWY5YlkxclVFNjhyTGo?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-06",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlNaRE4yb0g2Q0g5NXRwX1g3dkc4WVhwQU92Q002NUcycjNXU2tkeUFaUFlkY045SjBlcW9Pa0lQa3FEWE1HY3JpRFRZTnBaakk1ZG9panUwME5KOWdYaU1pVHFyRXE5X0J4NmJtQmY0V0NZb3lwX3oySUxNZWNrTjA2TWJ5VWhUalE?oc=5"
+            },
+            {
+                "title": "王毅：外交战线将继续当好高水平开放的推进器 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-08",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYllfRGdRclBxek5XbnotUVFWV2NyNXhscl9uNDkxbXNFc2IxOVM4YVdOaks0T1BIY1JjVHFaT29RZ0xvTFY3V1hjTDRXbHlTVGZra0ItU0RZMVViRkhOb2l3b280c2JyMy1ldG9RZy1iU0l5Y2hSQXBoVHdXT3dkS002bTVremc4ekFQeU13?oc=5"
             },
             {
                 "title": "拓宽战斗精神培育渠道 - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "Anthropic 失业报告炸场：22-25 岁年轻人被斩杀，先拥抱 AI 的行业先被 AI 吃掉",
+                "title": "阿里最年轻 P10 林俊旸离职尘埃落定：为千问，我只能做这么多了",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-07",
-                "url": "https://www.ithome.com/0/926/753.htm"
+                "url": "https://www.ithome.com/0/926/794.htm"
             },
             {
-                "title": "9点1氪丨贾国龙卸任西贝CEO；字节跳动启动最大规模转正实习生招聘；OpenClaw爆火，程序员上门安装收费500元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "谷歌 CEO 孙达尔 · 皮柴获 6.92 亿美元薪酬包，绩效首次与 Waymo 业绩挂钩",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-07",
-                "url": "https://36kr.com/p/3712170172264838"
+                "url": "https://www.ithome.com/0/926/789.htm"
             },
             {
-                "title": "LibreOffice公开抨击欧盟委员会在征求CRA反馈时无视ODF强推Excel格式",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552568.htm"
+                "title": "冯 · 诺依曼的传奇人生",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-07",
+                "url": "https://www.ithome.com/0/926/780.htm"
             },
             {
-                "title": "美国将为中东油轮提供保险",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552558.htm"
+                "title": "预算超 35 亿美元：美国“探索上面级”火箭第二级项目沦为十年烂尾工程",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-07",
+                "url": "https://www.ithome.com/0/926/773.htm"
             },
             {
-                "title": "川普透露下一个目标 警告：他们很快垮台(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-06",
-                "url": "https://www.secretchina.com/news/gb/2026/03/07/1095990.html"
+                "title": "安卓版三星浏览器更名 Browser，同步引入 Ask AI 功能",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-07",
+                "url": "https://www.ithome.com/0/926/767.htm"
             },
             {
-                "title": "驻吉尔吉斯斯坦大使刘江平出席2026世界牡丹大会吉尔吉斯斯坦分会场活动 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-06",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFdzdm5reTRfWE9UdHg2b29FOHRLNTl2cUhPVGp6bTVnZ1lWSko3MWR5SHAzTTE0TWs2azhlTFdXd09NNm1oZGZ1c1IweXJoZUFhZ1Mya3JTU0R3NHRiLTZ1MjJ6dlNYZ21JbFRrQXMzZmdvTV8wTlhmc2RTd2U5ekdobkM?oc=5"
-            },
-            {
-                "title": "驻清迈总领事陈海平出席2026年“七彩云南·欢聚泰北”新春慰侨演出 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-06",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORm1nWllqdmFRUU1TTVpTWVNhZG1CTUkwRzhZUFl1VV94UUVLQjY4b05mMXpVNWlwWE5PZGRKWmNWckxXSDlIWUVDenRNWjB2TE1JVm1BOVB6dE12TVhmc1l6a2hlY1BUUWl1NEsxYjNOdmQwcnlkdWY5YlkxclVFNjhyTGo?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-06",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlNaRE4yb0g2Q0g5NXRwX1g3dkc4WVhwQU92Q002NUcycjNXU2tkeUFaUFlkY045SjBlcW9Pa0lQa3FEWE1HY3JpRFRZTnBaakk1ZG9panUwME5KOWdYaU1pVHFyRXE5X0J4NmJtQmY0V0NZb3lwX3oySUxNZWNrTjA2TWJ5VWhUalE?oc=5"
+            },
+            {
+                "title": "王毅：外交战线将继续当好高水平开放的推进器 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-08",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYllfRGdRclBxek5XbnotUVFWV2NyNXhscl9uNDkxbXNFc2IxOVM4YVdOaks0T1BIY1JjVHFaT29RZ0xvTFY3V1hjTDRXbHlTVGZra0ItU0RZMVViRkhOb2l3b280c2JyMy1ldG9RZy1iU0l5Y2hSQXBoVHdXT3dkS002bTVremc4ekFQeU13?oc=5"
             },
             {
                 "title": "拓宽战斗精神培育渠道 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-08T01:54:31.386540+00:00"
+    "last_updated": "2026-03-08T06:38:55.973399+00:00"
 }
