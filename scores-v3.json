@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国外长敦促美国管控贸易分歧 称中美关系迎“关键一年”",
+                "title": "欧盟的“购买欧洲货”法案跟中国有什么关系？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-08",
+                "url": "https://www.ftchinese.com/story/001109133"
+            },
+            {
+                "title": "从德国被拒到英国试水：中国海上风电摸索欧洲市场",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-08",
+                "url": "https://www.ftchinese.com/story/001109129"
+            },
+            {
+                "title": "弥合女性健康差距刻不容缓",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-08",
+                "url": "https://www.ftchinese.com/story/001109134"
+            },
+            {
+                "title": "两会：新旧之间的中国经济",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-08",
+                "url": "https://www.ftchinese.com/story/001109132"
+            },
+            {
+                "title": "伊朗冲突下的中俄博弈：各取所需，作壁上观",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-03-08",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E7%AE%A1%E6%8E%A7%E8%B4%B8%E6%98%93%E5%88%86%E6%AD%A7-%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%BF%8E%E5%85%B3%E9%94%AE%E4%B8%80%E5%B9%B4/a-76267997"
-            },
-            {
-                "title": "我国科研团队成功合成毫米级纯相六方金刚石，硬度超越传统金刚石",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-08",
-                "url": "https://www.ithome.com/0/927/003.htm"
-            },
-            {
-                "title": "AI时代 , 长视频平台在存亡边缘苦苦挣扎",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-08",
-                "url": "https://36kr.com/p/3714020694061185"
-            },
-            {
-                "title": "RTX推混合动力系统 可为支线涡桨客机提供电动化改装",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552710.htm"
-            },
-            {
-                "title": "伊朗客户失联了 价值6000万的500台中国车被困在海上",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552698.htm"
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E5%86%B2%E7%AA%81%E4%B8%8B%E7%9A%84%E4%B8%AD%E4%BF%84%E5%8D%9A%E5%BC%88%E5%90%84%E5%8F%96%E6%89%80%E9%9C%80%E4%BD%9C%E5%A3%81%E4%B8%8A%E8%A7%82/a-76226745"
             }
         ],
         "mil": [
+            {
+                "title": "两会：新旧之间的中国经济",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-08",
+                "url": "https://www.ftchinese.com/story/001109132"
+            },
+            {
+                "title": "伊朗冲突下的中俄博弈：各取所需，作壁上观",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-08",
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E5%86%B2%E7%AA%81%E4%B8%8B%E7%9A%84%E4%B8%AD%E4%BF%84%E5%8D%9A%E5%BC%88%E5%90%84%E5%8F%96%E6%89%80%E9%9C%80%E4%BD%9C%E5%A3%81%E4%B8%8A%E8%A7%82/a-76226745"
+            },
             {
                 "title": "天文摄影师拍摄到 5000 光年外 IC 443 星云：形似水母亦如人脑",
                 "source": "NewsAPI / Ithome.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-08",
                 "url": "https://36kr.com/p/3713983582662788"
-            },
-            {
-                "title": "硅谷最危险战争：Anthropic死扛封杀 营收狂飙190亿",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552670.htm"
-            },
-            {
-                "title": "清华公布毕业生去向：出国比例仅8.5% 华为字节是最大赢家",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552666.htm"
             },
             {
                 "title": "中国政府中东问题特使翟隽会见沙特外交大臣费萨尔 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "卡塔尔航空恢复有限航班运营 中东航空业仍混乱",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "川普：伊朗新领袖人选若未获认可会撑不久(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552720.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/09/1096079.html"
             },
             {
-                "title": "中国外长敦促美国管控贸易分歧 称中美关系迎“关键一年”",
-                "source": "NewsAPI / DW (English)",
+                "title": "伊朗袭击波湾国家 沙特警告反击(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-08",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E7%AE%A1%E6%8E%A7%E8%B4%B8%E6%98%93%E5%88%86%E6%AD%A7-%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%BF%8E%E5%85%B3%E9%94%AE%E4%B8%80%E5%B9%B4/a-76267997"
+                "url": "https://www.secretchina.com/news/gb/2026/03/09/1096077.html"
             },
             {
-                "title": "卫报调查：主流 AI 聊天机器人竟给非法赌场当“导购”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "最毒的那个兽一直还在噬血 中国人的焦虑方向有误(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-08",
-                "url": "https://www.ithome.com/0/927/013.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/09/1096075.html"
             },
             {
-                "title": "深圳龙岗拟出台措施，支持 OpenClaw 发展",
-                "source": "NewsAPI / Ithome.com",
+                "title": "从德国被拒到英国试水：中国海上风电摸索欧洲市场",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-08",
-                "url": "https://www.ithome.com/0/926/999.htm"
+                "url": "https://www.ftchinese.com/story/001109129"
             },
             {
-                "title": "00后小孩哥10天AI编程，陈天桥24小时砸3000万！靠大四作业当上CEO",
-                "source": "NewsAPI / 36kr.com",
+                "title": "弥合女性健康差距刻不容缓",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-08",
-                "url": "https://36kr.com/p/3713983582662788"
+                "url": "https://www.ftchinese.com/story/001109134"
             },
             {
                 "title": "中国政府中东问题特使翟隽会见沙特外交大臣费萨尔 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-09T12:56:55.122682+00:00"
+    "last_updated": "2026-03-09T18:49:33.786037+00:00"
 }
