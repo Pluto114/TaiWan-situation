@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国工程院院士王坚：中国人不需要为电焦虑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552800.htm"
-            },
-            {
-                "title": "彭博深度解析：为什么AI越火，手机电脑越贵？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552764.htm"
-            },
-            {
-                "title": "雷军谈中国汽车：智能化突飞猛进 但机械素质还得向德国企业学习",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552762.htm"
-            },
-            {
-                "title": "龙虾最佳适配模型，OpenClaw 之父给出了推荐",
+                "title": "消息称一加明日宣布涨价，多品牌手机 3 月拟启动调价",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-09",
-                "url": "https://www.ithome.com/0/927/185.htm"
+                "url": "https://www.ithome.com/0/927/365.htm"
             },
             {
-                "title": "美商务部长卢特尼克与英特尔CEO因公司向美国政府出售10%股权而遭起诉",
+                "title": "氪星晚报｜国家超算互联网OpenClaw服务接入飞书、企业微信；WPS发布iPadOS首款原生桌面级Office；“红房子・启元”AI妇产科垂直大模型发布",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-09",
+                "url": "https://36kr.com/p/3715472798527617"
+            },
+            {
+                "title": "AI时代谁更吃香 周鸿祎：理科生已被取代 文科生有优势",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552756.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552842.htm"
+            },
+            {
+                "title": "Meta：通过 BitTorrent 上传盗版书籍属于合理使用",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-09",
+                "url": "https://www.ithome.com/0/927/349.htm"
+            },
+            {
+                "title": "南方科技大学团队研发出“半人马机器人”，与人连接组成“负重搭子”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-09",
+                "url": "https://www.ithome.com/0/927/341.htm"
             }
         ],
         "mil": [
+            {
+                "title": "习近平吓坏不敢攻台湾？伊朗战争突出中共隐忧(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-09",
+                "url": "https://www.secretchina.com/news/gb/2026/03/09/1096095.html"
+            },
+            {
+                "title": "南方科技大学团队研发出“半人马机器人”，与人连接组成“负重搭子”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-09",
+                "url": "https://www.ithome.com/0/927/341.htm"
+            },
             {
                 "title": "雷军谈中国汽车：智能化突飞猛进 但机械素质还得向德国企业学习",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1552754.htm"
             },
             {
-                "title": "【IT之家评测室】华硕无畏Pro16 2026 酷睿版体验评测：85W 极致性能释放，轻薄本也能玩 3A",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-09",
-                "url": "https://www.ithome.com/0/927/138.htm"
-            },
-            {
-                "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-09",
-                "url": "https://36kr.com/p/3714634245009800"
-            },
-            {
                 "title": "中国政府中东问题特使翟隽会见沙特外交大臣费萨尔 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-09",
@@ -86,22 +86,22 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDl6VU5KeFA5SWo4S3pMNWprYnNsSUl0a3ZtdGJfUURCcWg4b1A4T2pvS2xJUVVlNTZkc3VSVEltM2RKamFUcldLWlZuRjVXbGYta09XYkxQZmw2c1NUdnNXTzZ2dUo2YTVJQ3NQNjZ1NXc5TS1fbHNwa1M0ckVLcGJTSU4?oc=5"
             },
             {
-                "title": "中共中央政治局委员、外交部长王毅就中国外交政策和对外关系回答中外记者提问 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PVlBOZmFjVUllRGhNVzVaUXE4akMwY3NsUi12UWI5dENoenRLdUltRm1ibjZsbFI2aEd2TERrLVh2OVRJdTJtNFR0cGFIazZyWUlfbEtFaDdaMUZvRHpQLTFhZHpHVDZEalB5VVd3?oc=5"
-            },
-            {
-                "title": "第05版：两会特刊 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTBiWnhkcDctWlU4NDR2N0VsREtjdWZmSDN6UHd6Y29LLTBGeFNoZDhIOF93YTNMU01OM1lwZUVYWmkzV1dSMVRNTTJpM3VXei05RGtJNy1yWFpjcUtpaUxvaE9EN2pZMHB1TjJLelNVcjRpTHVScTdReDYzZVFLRC1jR1VSeEVSaGIyZmlOaTZMdUV0VTFPWjFGSQ?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "转型重塑，磨砺胜战之刃——军队代表委员谈推进军队组织形态现代化 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-08",
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92ZkwwdzFnaWpIZEtSVURBQUlFcHprODkxTDNWV0FORmstZGI2c3VxSHZmcENrR0E5MnNuRUZkYmdFd3F5cmdlU0pFZE1MQnNkbmNkU3B6dFo5Q28zYnVlRVNaQ3dCZTBRZjVoNFlPWmhuNU0?oc=5"
+            },
+            {
+                "title": "共绘乡村振兴和美画卷 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGo5Y09nZ3ljOWlkUFFFcTJYUXhJdTVGcXVYN2s5OWdHUzdTS19PeXFhTngyaWV2TURCaVNNUVlpdzJ6VV9JNmhLTGlGZ2wza1FSSDdoNkZkQ00teDFNcnhxZXNKTFZwdzdadGxodUFON1ZaanpJLVd0QnA0QWg4TjJaY0EwU0lwQ0UtejdTYVZTNTZwazBwTGJCUWZZOFYwazlDZXZkMnJEemZ5N0FHcEJLUGp3NUU?oc=5"
             },
             {
                 "title": "开学第一课：以朝气赋青春 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "德国暴力熊CEO自曝向中国商家采购铜铝材料被骗超4万欧元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "习近平吓坏不敢攻台湾？伊朗战争突出中共隐忧(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552794.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/09/1096095.html"
             },
             {
-                "title": "国产大飞机C919安全载客突破400万人次",
+                "title": "中东战事推动油价飙升至每桶119美元以上 创2022年以来新高",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552792.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552846.htm"
             },
             {
-                "title": "彭博深度解析：为什么AI越火，手机电脑越贵？",
+                "title": "中国「台湾首相訪日！日本は必ず代償を支払う！」日本「政治無関係、プライベートなWBC観戦です」",
+                "source": "NewsAPI / Livedoor.biz",
+                "date": "2026-03-09",
+                "url": "https://kuromacyo.livedoor.biz/archives/2046381.html"
+            },
+            {
+                "title": "AI时代谁更吃香 周鸿祎：理科生已被取代 文科生有优势",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552764.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552842.htm"
             },
             {
-                "title": "阿里达摩院发布脂肪肝筛查 AI 模型 MAOSS，高风险人群检出率提升 2 倍",
+                "title": "Meta：通过 BitTorrent 上传盗版书籍属于合理使用",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-09",
-                "url": "https://www.ithome.com/0/927/187.htm"
-            },
-            {
-                "title": "孙正义砸锅卖铁借400亿美元投资OpenAI 笑到最后还是哭着回家？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552754.htm"
+                "url": "https://www.ithome.com/0/927/349.htm"
             },
             {
                 "title": "中国政府中东问题特使翟隽会见沙特外交大臣费萨尔 - mfa.gov.cn",
@@ -154,22 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDl6VU5KeFA5SWo4S3pMNWprYnNsSUl0a3ZtdGJfUURCcWg4b1A4T2pvS2xJUVVlNTZkc3VSVEltM2RKamFUcldLWlZuRjVXbGYta09XYkxQZmw2c1NUdnNXTzZ2dUo2YTVJQ3NQNjZ1NXc5TS1fbHNwa1M0ckVLcGJTSU4?oc=5"
             },
             {
-                "title": "中共中央政治局委员、外交部长王毅就中国外交政策和对外关系回答中外记者提问 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PVlBOZmFjVUllRGhNVzVaUXE4akMwY3NsUi12UWI5dENoenRLdUltRm1ibjZsbFI2aEd2TERrLVh2OVRJdTJtNFR0cGFIazZyWUlfbEtFaDdaMUZvRHpQLTFhZHpHVDZEalB5VVd3?oc=5"
-            },
-            {
-                "title": "第05版：两会特刊 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTBiWnhkcDctWlU4NDR2N0VsREtjdWZmSDN6UHd6Y29LLTBGeFNoZDhIOF93YTNMU01OM1lwZUVYWmkzV1dSMVRNTTJpM3VXei05RGtJNy1yWFpjcUtpaUxvaE9EN2pZMHB1TjJLelNVcjRpTHVScTdReDYzZVFLRC1jR1VSeEVSaGIyZmlOaTZMdUV0VTFPWjFGSQ?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "转型重塑，磨砺胜战之刃——军队代表委员谈推进军队组织形态现代化 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-08",
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92ZkwwdzFnaWpIZEtSVURBQUlFcHprODkxTDNWV0FORmstZGI2c3VxSHZmcENrR0E5MnNuRUZkYmdFd3F5cmdlU0pFZE1MQnNkbmNkU3B6dFo5Q28zYnVlRVNaQ3dCZTBRZjVoNFlPWmhuNU0?oc=5"
+            },
+            {
+                "title": "共绘乡村振兴和美画卷 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGo5Y09nZ3ljOWlkUFFFcTJYUXhJdTVGcXVYN2s5OWdHUzdTS19PeXFhTngyaWV2TURCaVNNUVlpdzJ6VV9JNmhLTGlGZ2wza1FSSDdoNkZkQ00teDFNcnhxZXNKTFZwdzdadGxodUFON1ZaanpJLVd0QnA0QWg4TjJaY0EwU0lwQ0UtejdTYVZTNTZwazBwTGJCUWZZOFYwazlDZXZkMnJEemZ5N0FHcEJLUGp3NUU?oc=5"
             },
             {
                 "title": "开学第一课：以朝气赋青春 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-10T06:43:53.063647+00:00"
+    "last_updated": "2026-03-10T12:54:52.991103+00:00"
 }
