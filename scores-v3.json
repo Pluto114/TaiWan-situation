@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "大众汽车 2025 财年销售收入 3219 亿欧元略有下滑，营业利润骤降 53%",
+                "title": "约一万名作家联名出版“空白”书籍 抗议AI擅用作品牟利",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553000.htm"
+            },
+            {
+                "title": "曝融资遇阻，故障频发 OpenAI“星际之门”扩建告吹？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552996.htm"
+            },
+            {
+                "title": "2 年碎屏险 +3 年质保：荣耀 500 Pro 手机 2696 元直降，配 8000mAh 大电池",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-10",
-                "url": "https://www.ithome.com/0/927/590.htm"
+                "url": "https://www.ithome.com/0/927/734.htm"
             },
             {
-                "title": "美“空中出租车”竞赛再起波澜 Archer反诉Joby隐瞒与中国的关联",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜腾讯：目前已初步形成覆盖个人、开发者及企业级部署的智能体“养虾”矩阵；芒果TV AIGC创新内容中心正式成立；52条中日航线2月取消全部航班",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552962.htm"
+                "url": "https://36kr.com/p/3715473740018049"
             },
             {
-                "title": "美军承包商疑为俄国大规模iPhone攻击行动的工具源头",
+                "title": "伊朗战事担忧缓解 比特币跳涨至71000美元上方",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552960.htm"
-            },
-            {
-                "title": "iPhone 17e明天首销：4499元起 第三方平台已提前破发",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552946.htm"
-            },
-            {
-                "title": "智谱推出澳龙AutoClaw：国内首个一键安装本地版小龙虾",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552940.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552990.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美截获神秘加密信号 伊朗或激活海外“潜伏特工”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-10",
+                "url": "https://www.secretchina.com/news/gb/2026/03/10/1096147.html"
+            },
+            {
+                "title": "氪星晚报｜腾讯：目前已初步形成覆盖个人、开发者及企业级部署的智能体“养虾”矩阵；芒果TV AIGC创新内容中心正式成立；52条中日航线2月取消全部航班",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-10",
+                "url": "https://36kr.com/p/3715473740018049"
+            },
+            {
+                "title": "伊朗战事担忧缓解 比特币跳涨至71000美元上方",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552990.htm"
+            },
             {
                 "title": "美军承包商疑为俄国大规模iPhone攻击行动的工具源头",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1552954.htm"
             },
             {
-                "title": "美军方回应Anthropic诉讼：打官司不会改变国防部决定",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552910.htm"
-            },
-            {
-                "title": "习近平吓坏不敢攻台湾？伊朗战争突出中共隐忧(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-10",
-                "url": "https://www.secretchina.com/news/gb/2026/03/10/1096095.html"
-            },
-            {
-                "title": "Valve 因《CS2》《Dota 2》开箱机制再次面临集体诉讼，被指控为“非法赌博”、诱导儿童消费",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-10",
-                "url": "https://www.ithome.com/0/927/450.htm"
-            },
-            {
                 "title": "2026年3月10日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-10",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyV1RXeTNmVVNIbjd2NWdDYWQ5QXpIXzVwekpQZ2xMNHRjQ0Z2RjY0TmVHYS0zNW15SzRwN2xmQzdOeXkxTUpLakR4Zi1vcVRQRG9Vd0ZNTUJyVUtWSGdZcGxCV2p2bUdxamgxTGpmcElKUjI2Mnc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xR2g5U2ljSXNWSXg0RHp0RklNNU1PTVdTMUpXVWlpTUdIS3BVbGFIMzM3aDd1SkJ2UmtZRXNxUUoxcnpyLVZJUDltY2JtZVRYTjk4ZUJmTGxDUQ?oc=5"
             },
             {
-                "title": "郭嘉昆：已有一万余名滞留中东地区的中国旅客安全有序返回 - mfa.gov.cn",
+                "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-10",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFFULW5TSlhEWjd5WWcyVUM1a0g2TDlxMmFDS0hUWVJrVTVJWjRDTzd0cmhNd29DdjYzak5sazF2YTB1VFZfT0MyTWNFd1hpVFFYV2UxbGlGV01ZX0M1NzZzSU1KckpSeHcyem5IaHNGZVBYYVNScWh0NjVHZkVwNTVXVjZESnBYbUVBc056U3E?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
             },
             {
                 "title": "军队代表委员风采录丨李媛媛：最满意的课，永远是下一堂 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "大众汽车 2025 财年销售收入 3219 亿欧元略有下滑，营业利润骤降 53%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-10",
-                "url": "https://www.ithome.com/0/927/590.htm"
-            },
-            {
-                "title": "美“空中出租车”竞赛再起波澜 Archer反诉Joby隐瞒与中国的关联",
+                "title": "约一万名作家联名出版“空白”书籍 抗议AI擅用作品牟利",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552962.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553000.htm"
             },
             {
-                "title": "美军承包商疑为俄国大规模iPhone攻击行动的工具源头",
+                "title": "曝融资遇阻，故障频发 OpenAI“星际之门”扩建告吹？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552960.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552996.htm"
             },
             {
-                "title": "全国最小火车站：候车厅没有家里大 出站口没有家门大",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552928.htm"
-            },
-            {
-                "title": "光帆科技董红光：把AI耳机做成“第二台主机”，很难，却正确",
+                "title": "江顺科技：公司无国内外数据中心液冷板产品销售，公司也未接触任何海外客户",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-10",
-                "url": "https://36kr.com/p/3716670530106761"
+                "url": "https://36kr.com/newsflashes/3717085078992265"
+            },
+            {
+                "title": "芯原股份：筹划发行H股股票并在香港联合交易所有限公司上市",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-10",
+                "url": "https://36kr.com/newsflashes/3717067949127046"
+            },
+            {
+                "title": "氪星晚报｜腾讯：目前已初步形成覆盖个人、开发者及企业级部署的智能体“养虾”矩阵；芒果TV AIGC创新内容中心正式成立；52条中日航线2月取消全部航班",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-10",
+                "url": "https://36kr.com/p/3715473740018049"
             },
             {
                 "title": "2026年3月10日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyV1RXeTNmVVNIbjd2NWdDYWQ5QXpIXzVwekpQZ2xMNHRjQ0Z2RjY0TmVHYS0zNW15SzRwN2xmQzdOeXkxTUpLakR4Zi1vcVRQRG9Vd0ZNTUJyVUtWSGdZcGxCV2p2bUdxamgxTGpmcElKUjI2Mnc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xR2g5U2ljSXNWSXg0RHp0RklNNU1PTVdTMUpXVWlpTUdIS3BVbGFIMzM3aDd1SkJ2UmtZRXNxUUoxcnpyLVZJUDltY2JtZVRYTjk4ZUJmTGxDUQ?oc=5"
             },
             {
-                "title": "郭嘉昆：已有一万余名滞留中东地区的中国旅客安全有序返回 - mfa.gov.cn",
+                "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-10",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFFULW5TSlhEWjd5WWcyVUM1a0g2TDlxMmFDS0hUWVJrVTVJWjRDTzd0cmhNd29DdjYzak5sazF2YTB1VFZfT0MyTWNFd1hpVFFYV2UxbGlGV01ZX0M1NzZzSU1KckpSeHcyem5IaHNGZVBYYVNScWh0NjVHZkVwNTVXVjZESnBYbUVBc056U3E?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
             },
             {
                 "title": "军队代表委员风采录丨李媛媛：最满意的课，永远是下一堂 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-11T06:49:55.220939+00:00"
+    "last_updated": "2026-03-11T12:54:30.614658+00:00"
 }
