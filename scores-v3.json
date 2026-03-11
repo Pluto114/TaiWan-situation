@@ -12,78 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "上海交大教授创业，用AI研发新材料，交大系基金投资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-10",
-                "url": "https://36kr.com/p/3716450088793732"
-            },
-            {
-                "title": "国际妇女节有感(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-10",
-                "url": "https://www.secretchina.com/news/gb/2026/03/10/1096119.html"
-            },
-            {
-                "title": "8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-10",
-                "url": "https://36kr.com/p/3716375591794051"
-            },
-            {
-                "title": "大家来帮忙：30 多名 OpenAI、谷歌员工力挺 Anthropic 起诉美政府",
+                "title": "大众汽车 2025 财年销售收入 3219 亿欧元略有下滑，营业利润骤降 53%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-10",
-                "url": "https://www.ithome.com/0/927/408.htm"
+                "url": "https://www.ithome.com/0/927/590.htm"
             },
             {
-                "title": "OpenAI、Google员工联名声援Anthropic起诉美国国防部",
+                "title": "美“空中出租车”竞赛再起波澜 Archer反诉Joby隐瞒与中国的关联",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552892.htm"
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552962.htm"
+            },
+            {
+                "title": "美军承包商疑为俄国大规模iPhone攻击行动的工具源头",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552960.htm"
+            },
+            {
+                "title": "iPhone 17e明天首销：4499元起 第三方平台已提前破发",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552946.htm"
+            },
+            {
+                "title": "智谱推出澳龙AutoClaw：国内首个一键安装本地版小龙虾",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552940.htm"
             }
         ],
         "mil": [
             {
-                "title": "中东剧变直击中共七寸 吴绍平：川普访华提着“人头”威慑(图)",
+                "title": "美军承包商疑为俄国大规模iPhone攻击行动的工具源头",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552960.htm"
+            },
+            {
+                "title": "DARPA披露新一代X机型：X-76旋翼/喷气一体高速验证机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552954.htm"
+            },
+            {
+                "title": "美军方回应Anthropic诉讼：打官司不会改变国防部决定",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552910.htm"
+            },
+            {
+                "title": "习近平吓坏不敢攻台湾？伊朗战争突出中共隐忧(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-10",
-                "url": "https://www.secretchina.com/news/gb/2026/03/10/1095985.html"
+                "url": "https://www.secretchina.com/news/gb/2026/03/10/1096095.html"
             },
             {
-                "title": "上海交大教授创业，用AI研发新材料，交大系基金投资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-10",
-                "url": "https://36kr.com/p/3716450088793732"
-            },
-            {
-                "title": "8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-10",
-                "url": "https://36kr.com/p/3716375591794051"
-            },
-            {
-                "title": "大家来帮忙：30 多名 OpenAI、谷歌员工力挺 Anthropic 起诉美政府",
+                "title": "Valve 因《CS2》《Dota 2》开箱机制再次面临集体诉讼，被指控为“非法赌博”、诱导儿童消费",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-10",
-                "url": "https://www.ithome.com/0/927/408.htm"
+                "url": "https://www.ithome.com/0/927/450.htm"
             },
             {
-                "title": "OpenAI、Google员工联名声援Anthropic起诉美国国防部",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552892.htm"
-            },
-            {
-                "title": "中国政府中东问题特使翟隽会见沙特外交大臣费萨尔 - mfa.gov.cn",
+                "title": "2026年3月10日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEVGX0pkT01DTXk0TV9CbGZBeUNXSHBqVDgxemNMRDRVTjRDZWhWR2lmLXdvR1FwbHlFQXowdWRvVk9LTWNQTkpKenMxdllCWDlkM0xCanNZTlBKLWJacnRIdlpYSmVvNENfRFJTMVVGcy1oOUZNN3FDRHpuT2pFalFEeWQ?oc=5"
-            },
-            {
-                "title": "中国政府中东问题特使翟隽会见海合会秘书长布达维 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDl6VU5KeFA5SWo4S3pMNWprYnNsSUl0a3ZtdGJfUURCcWg4b1A4T2pvS2xJUVVlNTZkc3VSVEltM2RKamFUcldLWlZuRjVXbGYta09XYkxQZmw2c1NUdnNXTzZ2dUo2YTVJQ3NQNjZ1NXc5TS1fbHNwa1M0ckVLcGJTSU4?oc=5"
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyV1RXeTNmVVNIbjd2NWdDYWQ5QXpIXzVwekpQZ2xMNHRjQ0Z2RjY0TmVHYS0zNW15SzRwN2xmQzdOeXkxTUpLakR4Zi1vcVRQRG9Vd0ZNTUJyVUtWSGdZcGxCV2p2bUdxamgxTGpmcElKUjI2Mnc?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -92,66 +86,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "郭嘉昆：已有一万余名滞留中东地区的中国旅客安全有序返回 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFFULW5TSlhEWjd5WWcyVUM1a0g2TDlxMmFDS0hUWVJrVTVJWjRDTzd0cmhNd29DdjYzak5sazF2YTB1VFZfT0MyTWNFd1hpVFFYV2UxbGlGV01ZX0M1NzZzSU1KckpSeHcyem5IaHNGZVBYYVNScWh0NjVHZkVwNTVXVjZESnBYbUVBc056U3E?oc=5"
+            },
+            {
                 "title": "军队代表委员风采录丨李媛媛：最满意的课，永远是下一堂 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-09",
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOHl2dnJqNV9mZ2FsbTFrX3M4cVBSekFXSHhnWlNDWHdYRFNUNG0tME0wMHJYdW5ET0tUU2x5VlBYX2h5NUxWbVlZSmVsZFlJRjVPUmh0d09XTjNIUk1WRm8wR18wdDNxVXBJcENkTTgtb0k?oc=5"
             },
             {
-                "title": "追赶时间，为中国的世界美术史研究填补了关键空白 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CanUwNFkyc2NocVR2Y244andaLV9xUExSWTBWTW5ISlJNUF8weWpjU1RiRC1VRUFVVFlDU3pid29Memd0bGpWdG51TGIyNERjNmc?oc=5"
-            },
-            {
                 "title": "筑民主法治之基 显“中国之治”优势——从全国人大常委会工作报告看人大工作新实践新作为 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-09",
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFFweF83UGFPVVlRTXRXS3RTNDNkTWJEaGk0YlVOSWRxSzhHRnlnekxGMnlRcFpfM283blFFQlBzNUpmZ3QwVk90eXR3TE1pckFHWWd1TVJEYnJmbHhFbFhGVTRmM21NQWpkWGg4b3Q0U25RZ3EzQWF5ZDFnVjNKdw?oc=5"
+            },
+            {
+                "title": "共绘乡村振兴和美画卷 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGo5Y09nZ3ljOWlkUFFFcTJYUXhJdTVGcXVYN2s5OWdHUzdTS19PeXFhTngyaWV2TURCaVNNUVlpdzJ6VV9JNmhLTGlGZ2wza1FSSDdoNkZkQ00teDFNcnhxZXNKTFZwdzdadGxodUFON1ZaanpJLVd0QnA0QWg4TjJaY0EwU0lwQ0UtejdTYVZTNTZwazBwTGJCUWZZOFYwazlDZXZkMnJEemZ5N0FHcEJLUGp3NUU?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "上海交大教授创业，用AI研发新材料，交大系基金投资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "大众汽车 2025 财年销售收入 3219 亿欧元略有下滑，营业利润骤降 53%",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-10",
-                "url": "https://36kr.com/p/3716450088793732"
+                "url": "https://www.ithome.com/0/927/590.htm"
             },
             {
-                "title": "国际妇女节有感(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-10",
-                "url": "https://www.secretchina.com/news/gb/2026/03/10/1096119.html"
-            },
-            {
-                "title": "8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-10",
-                "url": "https://36kr.com/p/3716375591794051"
-            },
-            {
-                "title": "当精英开始失去未来：中国变局的真正起点(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-09",
-                "url": "https://www.secretchina.com/news/gb/2026/03/10/1096129.html"
-            },
-            {
-                "title": "OpenAI、Google员工联名声援Anthropic起诉美国国防部",
+                "title": "美“空中出租车”竞赛再起波澜 Archer反诉Joby隐瞒与中国的关联",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552892.htm"
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552962.htm"
             },
             {
-                "title": "中国政府中东问题特使翟隽会见沙特外交大臣费萨尔 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEVGX0pkT01DTXk0TV9CbGZBeUNXSHBqVDgxemNMRDRVTjRDZWhWR2lmLXdvR1FwbHlFQXowdWRvVk9LTWNQTkpKenMxdllCWDlkM0xCanNZTlBKLWJacnRIdlpYSmVvNENfRFJTMVVGcy1oOUZNN3FDRHpuT2pFalFEeWQ?oc=5"
+                "title": "美军承包商疑为俄国大规模iPhone攻击行动的工具源头",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552960.htm"
             },
             {
-                "title": "中国政府中东问题特使翟隽会见海合会秘书长布达维 - mfa.gov.cn",
+                "title": "全国最小火车站：候车厅没有家里大 出站口没有家门大",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1552928.htm"
+            },
+            {
+                "title": "光帆科技董红光：把AI耳机做成“第二台主机”，很难，却正确",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-10",
+                "url": "https://36kr.com/p/3716670530106761"
+            },
+            {
+                "title": "2026年3月10日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDl6VU5KeFA5SWo4S3pMNWprYnNsSUl0a3ZtdGJfUURCcWg4b1A4T2pvS2xJUVVlNTZkc3VSVEltM2RKamFUcldLWlZuRjVXbGYta09XYkxQZmw2c1NUdnNXTzZ2dUo2YTVJQ3NQNjZ1NXc5TS1fbHNwa1M0ckVLcGJTSU4?oc=5"
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyV1RXeTNmVVNIbjd2NWdDYWQ5QXpIXzVwekpQZ2xMNHRjQ0Z2RjY0TmVHYS0zNW15SzRwN2xmQzdOeXkxTUpLakR4Zi1vcVRQRG9Vd0ZNTUJyVUtWSGdZcGxCV2p2bUdxamgxTGpmcElKUjI2Mnc?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "郭嘉昆：已有一万余名滞留中东地区的中国旅客安全有序返回 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFFULW5TSlhEWjd5WWcyVUM1a0g2TDlxMmFDS0hUWVJrVTVJWjRDTzd0cmhNd29DdjYzak5sazF2YTB1VFZfT0MyTWNFd1hpVFFYV2UxbGlGV01ZX0M1NzZzSU1KckpSeHcyem5IaHNGZVBYYVNScWh0NjVHZkVwNTVXVjZESnBYbUVBc056U3E?oc=5"
+            },
+            {
                 "title": "军队代表委员风采录丨李媛媛：最满意的课，永远是下一堂 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-09",
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOHl2dnJqNV9mZ2FsbTFrX3M4cVBSekFXSHhnWlNDWHdYRFNUNG0tME0wMHJYdW5ET0tUU2x5VlBYX2h5NUxWbVlZSmVsZFlJRjVPUmh0d09XTjNIUk1WRm8wR18wdDNxVXBJcENkTTgtb0k?oc=5"
             },
             {
-                "title": "追赶时间，为中国的世界美术史研究填补了关键空白 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CanUwNFkyc2NocVR2Y244andaLV9xUExSWTBWTW5ISlJNUF8weWpjU1RiRC1VRUFVVFlDU3pid29Memd0bGpWdG51TGIyNERjNmc?oc=5"
-            },
-            {
                 "title": "筑民主法治之基 显“中国之治”优势——从全国人大常委会工作报告看人大工作新实践新作为 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-09",
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFFweF83UGFPVVlRTXRXS3RTNDNkTWJEaGk0YlVOSWRxSzhHRnlnekxGMnlRcFpfM283blFFQlBzNUpmZ3QwVk90eXR3TE1pckFHWWd1TVJEYnJmbHhFbFhGVTRmM21NQWpkWGg4b3Q0U25RZ3EzQWF5ZDFnVjNKdw?oc=5"
+            },
+            {
+                "title": "共绘乡村振兴和美画卷 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGo5Y09nZ3ljOWlkUFFFcTJYUXhJdTVGcXVYN2s5OWdHUzdTS19PeXFhTngyaWV2TURCaVNNUVlpdzJ6VV9JNmhLTGlGZ2wza1FSSDdoNkZkQ00teDFNcnhxZXNKTFZwdzdadGxodUFON1ZaanpJLVd0QnA0QWg4TjJaY0EwU0lwQ0UtejdTYVZTNTZwazBwTGJCUWZZOFYwazlDZXZkMnJEemZ5N0FHcEJLUGp3NUU?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-11T01:48:39.081217+00:00"
+    "last_updated": "2026-03-11T06:49:55.220939+00:00"
 }
