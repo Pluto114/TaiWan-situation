@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "约一万名作家联名出版“空白”书籍 抗议AI擅用作品牟利",
+                "title": "你买的全新iPhone 屏幕可能早被人偷偷换走了",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553000.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553014.htm"
             },
             {
-                "title": "曝融资遇阻，故障频发 OpenAI“星际之门”扩建告吹？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美以对伊朗的战争是西亚地区一个具有决定性意义的转折点",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552996.htm"
+                "url": "https://www.ftchinese.com/story/001109165"
             },
             {
-                "title": "2 年碎屏险 +3 年质保：荣耀 500 Pro 手机 2696 元直降，配 8000mAh 大电池",
+                "title": "以色列驻华大使贝以理：以色列能够承受长期对抗的代价",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-10",
+                "url": "https://www.ftchinese.com/story/001109163"
+            },
+            {
+                "title": "中国海关总署：尽管对美出口下降，前两月贸易仍强劲增长",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-10",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%B0%BD%E7%AE%A1%E5%AF%B9%E7%BE%8E%E5%87%BA%E5%8F%A3%E4%B8%8B%E9%99%8D%E5%89%8D%E4%B8%A4%E6%9C%88%E8%B4%B8%E6%98%93%E4%BB%8D%E5%BC%BA%E5%8A%B2%E5%A2%9E%E9%95%BF/a-76293735"
+            },
+            {
+                "title": "工业富联 2025 年营收 9028.87 亿元同比增长 48.22%，拟分红派现 194 亿元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-10",
-                "url": "https://www.ithome.com/0/927/734.htm"
-            },
-            {
-                "title": "氪星晚报｜腾讯：目前已初步形成覆盖个人、开发者及企业级部署的智能体“养虾”矩阵；芒果TV AIGC创新内容中心正式成立；52条中日航线2月取消全部航班",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-10",
-                "url": "https://36kr.com/p/3715473740018049"
-            },
-            {
-                "title": "伊朗战事担忧缓解 比特币跳涨至71000美元上方",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552990.htm"
+                "url": "https://www.ithome.com/0/927/757.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美以对伊朗的战争是西亚地区一个具有决定性意义的转折点",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-10",
+                "url": "https://www.ftchinese.com/story/001109165"
+            },
+            {
+                "title": "以色列驻华大使贝以理：以色列能够承受长期对抗的代价",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-10",
+                "url": "https://www.ftchinese.com/story/001109163"
+            },
             {
                 "title": "美截获神秘加密信号 伊朗或激活海外“潜伏特工”(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1552990.htm"
             },
             {
-                "title": "美军承包商疑为俄国大规模iPhone攻击行动的工具源头",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552960.htm"
-            },
-            {
-                "title": "DARPA披露新一代X机型：X-76旋翼/喷气一体高速验证机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552954.htm"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wcXRYblEzSGY1TTY5SEp4QVI3b19wZVFwOWQ3dTNrREVxVFpQSUx4OW5ncUJwT0ZZT2hUYnpoSUZOVnk4WDhIcFp6bGNHWlZCc1A2NkY3cXI1ZGR1Sm1OendSSUpfd3k1YVpLak9n?oc=5"
             },
             {
                 "title": "2026年3月10日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -83,13 +89,7 @@
                 "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xR2g5U2ljSXNWSXg0RHp0RklNNU1PTVdTMUpXVWlpTUdIS3BVbGFIMzM3aDd1SkJ2UmtZRXNxUUoxcnpyLVZJUDltY2JtZVRYTjk4ZUJmTGxDUQ?oc=5"
-            },
-            {
-                "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkalFSV256aGFnUlZham1ENFFXbFZwSkYyRVZxb21NNm5fU2kxd0xiYzRqMTd4WHhzQ0NpMXhILXRwLUlMOGdUOWJSRHQ2Y3dKaUNUcFBGZVg?oc=5"
             },
             {
                 "title": "军队代表委员风采录丨李媛媛：最满意的课，永远是下一堂 - 中国军网",
@@ -98,48 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOHl2dnJqNV9mZ2FsbTFrX3M4cVBSekFXSHhnWlNDWHdYRFNUNG0tME0wMHJYdW5ET0tUU2x5VlBYX2h5NUxWbVlZSmVsZFlJRjVPUmh0d09XTjNIUk1WRm8wR18wdDNxVXBJcENkTTgtb0k?oc=5"
             },
             {
-                "title": "筑民主法治之基 显“中国之治”优势——从全国人大常委会工作报告看人大工作新实践新作为 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFFweF83UGFPVVlRTXRXS3RTNDNkTWJEaGk0YlVOSWRxSzhHRnlnekxGMnlRcFpfM283blFFQlBzNUpmZ3QwVk90eXR3TE1pckFHWWd1TVJEYnJmbHhFbFhGVTRmM21NQWpkWGg4b3Q0U25RZ3EzQWF5ZDFnVjNKdw?oc=5"
-            },
-            {
                 "title": "共绘乡村振兴和美画卷 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-10",
                 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGo5Y09nZ3ljOWlkUFFFcTJYUXhJdTVGcXVYN2s5OWdHUzdTS19PeXFhTngyaWV2TURCaVNNUVlpdzJ6VV9JNmhLTGlGZ2wza1FSSDdoNkZkQ00teDFNcnhxZXNKTFZwdzdadGxodUFON1ZaanpJLVd0QnA0QWg4TjJaY0EwU0lwQ0UtejdTYVZTNTZwazBwTGJCUWZZOFYwazlDZXZkMnJEemZ5N0FHcEJLUGp3NUU?oc=5"
+            },
+            {
+                "title": "开学第一课：以朝气赋青春 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWjQyWEc4NkJaall5UUpGZmhuVkxrSE43d3g3emRJd1oyYUpYSk40dGxROUFNelZDdlJoWGljNDhqOUZZdnpUXzRyZmgtNmZUclE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "约一万名作家联名出版“空白”书籍 抗议AI擅用作品牟利",
+                "title": "美特使：伊朗无意谈判 俄否认助伊朗打击美军(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-10",
+                "url": "https://www.secretchina.com/news/gb/2026/03/11/1096161.html"
+            },
+            {
+                "title": "苹果新款 MacBook 悄然更改键盘键帽标注方式",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553000.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553024.htm"
             },
             {
-                "title": "曝融资遇阻，故障频发 OpenAI“星际之门”扩建告吹？",
+                "title": "美驻加领馆遭枪击 美以外交机构加强安保(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-10",
+                "url": "https://www.secretchina.com/news/gb/2026/03/11/1096160.html"
+            },
+            {
+                "title": "你买的全新iPhone 屏幕可能早被人偷偷换走了",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1552996.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553014.htm"
             },
             {
-                "title": "江顺科技：公司无国内外数据中心液冷板产品销售，公司也未接触任何海外客户",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美以对伊朗的战争是西亚地区一个具有决定性意义的转折点",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-10",
-                "url": "https://36kr.com/newsflashes/3717085078992265"
+                "url": "https://www.ftchinese.com/story/001109165"
             },
             {
-                "title": "芯原股份：筹划发行H股股票并在香港联合交易所有限公司上市",
-                "source": "NewsAPI / 36kr.com",
+                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-10",
-                "url": "https://36kr.com/newsflashes/3717067949127046"
-            },
-            {
-                "title": "氪星晚报｜腾讯：目前已初步形成覆盖个人、开发者及企业级部署的智能体“养虾”矩阵；芒果TV AIGC创新内容中心正式成立；52条中日航线2月取消全部航班",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-10",
-                "url": "https://36kr.com/p/3715473740018049"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wcXRYblEzSGY1TTY5SEp4QVI3b19wZVFwOWQ3dTNrREVxVFpQSUx4OW5ncUJwT0ZZT2hUYnpoSUZOVnk4WDhIcFp6bGNHWlZCc1A2NkY3cXI1ZGR1Sm1OendSSUpfd3k1YVpLak9n?oc=5"
             },
             {
                 "title": "2026年3月10日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -151,13 +157,7 @@
                 "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xR2g5U2ljSXNWSXg0RHp0RklNNU1PTVdTMUpXVWlpTUdIS3BVbGFIMzM3aDd1SkJ2UmtZRXNxUUoxcnpyLVZJUDltY2JtZVRYTjk4ZUJmTGxDUQ?oc=5"
-            },
-            {
-                "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkalFSV256aGFnUlZham1ENFFXbFZwSkYyRVZxb21NNm5fU2kxd0xiYzRqMTd4WHhzQ0NpMXhILXRwLUlMOGdUOWJSRHQ2Y3dKaUNUcFBGZVg?oc=5"
             },
             {
                 "title": "军队代表委员风采录丨李媛媛：最满意的课，永远是下一堂 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtOHl2dnJqNV9mZ2FsbTFrX3M4cVBSekFXSHhnWlNDWHdYRFNUNG0tME0wMHJYdW5ET0tUU2x5VlBYX2h5NUxWbVlZSmVsZFlJRjVPUmh0d09XTjNIUk1WRm8wR18wdDNxVXBJcENkTTgtb0k?oc=5"
             },
             {
-                "title": "筑民主法治之基 显“中国之治”优势——从全国人大常委会工作报告看人大工作新实践新作为 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-09",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFFweF83UGFPVVlRTXRXS3RTNDNkTWJEaGk0YlVOSWRxSzhHRnlnekxGMnlRcFpfM283blFFQlBzNUpmZ3QwVk90eXR3TE1pckFHWWd1TVJEYnJmbHhFbFhGVTRmM21NQWpkWGg4b3Q0U25RZ3EzQWF5ZDFnVjNKdw?oc=5"
-            },
-            {
                 "title": "共绘乡村振兴和美画卷 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-10",
                 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGo5Y09nZ3ljOWlkUFFFcTJYUXhJdTVGcXVYN2s5OWdHUzdTS19PeXFhTngyaWV2TURCaVNNUVlpdzJ6VV9JNmhLTGlGZ2wza1FSSDdoNkZkQ00teDFNcnhxZXNKTFZwdzdadGxodUFON1ZaanpJLVd0QnA0QWg4TjJaY0EwU0lwQ0UtejdTYVZTNTZwazBwTGJCUWZZOFYwazlDZXZkMnJEemZ5N0FHcEJLUGp3NUU?oc=5"
+            },
+            {
+                "title": "开学第一课：以朝气赋青春 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWjQyWEc4NkJaall5UUpGZmhuVkxrSE43d3g3emRJd1oyYUpYSk40dGxROUFNelZDdlJoWGljNDhqOUZZdnpUXzRyZmgtNmZUclE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-11T12:54:30.614658+00:00"
+    "last_updated": "2026-03-11T18:50:38.116378+00:00"
 }
