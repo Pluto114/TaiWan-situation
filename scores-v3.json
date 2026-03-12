@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英伟达宣布 20 亿美元战略投资 Nebius，共建下一代 AI 超大规模云平台",
-                "source": "NewsAPI / Ithome.com",
+                "title": "伊朗威胁油价破200美元 美誓保全球能源命脉(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/143.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096209.html"
             },
             {
-                "title": "中通快递旗下佛山吉网物流公司增资至8亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "加总理展开印太外交布局 学者警示对华经贸风险(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-11",
-                "url": "https://36kr.com/newsflashes/3718368890418817"
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096207.html"
             },
             {
-                "title": "谷歌安卓主管：Android 17 将迈向智能系统，侧载功能不会取消",
-                "source": "NewsAPI / Ithome.com",
+                "title": "AI智能体跨平台访问的法律红线：从Perplexity案看“双重授权”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/105.htm"
+                "url": "https://www.ftchinese.com/story/001109168"
             },
             {
-                "title": "创维壁纸电视 A10H 系列发布：极窄四等边设计、变色龙 AI 画质芯片 S8，首发 12499 元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德语媒体：对华依赖 – 欧洲并非想象的那样孱弱",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/103.htm"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96-%E6%AC%A7%E6%B4%B2%E5%B9%B6%E9%9D%9E%E6%83%B3%E8%B1%A1%E7%9A%84%E9%82%A3%E6%A0%B7%E5%AD%B1%E5%BC%B1/a-76308923"
             },
             {
-                "title": "当地民众强烈反对被无视，马斯克的 xAI 获批运行 41 台燃气轮机",
+                "title": "Meta 计划 2027 年底前部署四代自研 AI 芯片，应对算力需求并降低外部依赖",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/095.htm"
+                "url": "https://www.ithome.com/0/928/173.htm"
             }
         ],
         "mil": [
+            {
+                "title": "FBI警告：伊朗或图谋以无人机袭击加州(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-11",
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096213.html"
+            },
+            {
+                "title": "伊朗威胁油价破200美元 美誓保全球能源命脉(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-11",
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096209.html"
+            },
+            {
+                "title": "伊朗石油命脉小岛哈尔克：美以为何至今按兵不动(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-11",
+                "url": "https://www.secretchina.com/news/gb/2026/03/11/1096199.html"
+            },
             {
                 "title": "打破 70 年历史空白，比亚迪计划进军 F1 赛事",
                 "source": "NewsAPI / Ifanr.com",
@@ -56,28 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/03/11/1096182.html"
             },
             {
-                "title": "SpaceX 老兵创业，欲打造可返回地球的可重复使用卫星",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/020.htm"
-            },
-            {
-                "title": "全国多地宣布下场“养龙虾”，苏州发布倡议“理性养虾”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/009.htm"
-            },
-            {
-                "title": "雷军：小米 YU7 汽车 2 月份销量位列全国乘用车销量前三，不论能源形式，不论车型",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/927/931.htm"
-            },
-            {
-                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
+                "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wcXRYblEzSGY1TTY5SEp4QVI3b19wZVFwOWQ3dTNrREVxVFpQSUx4OW5ncUJwT0ZZT2hUYnpoSUZOVnk4WDhIcFp6bGNHWlZCc1A2NkY3cXI1ZGR1Sm1OendSSUpfd3k1YVpLak9n?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkalFSV256aGFnUlZham1ENFFXbFZwSkYyRVZxb21NNm5fU2kxd0xiYzRqMTd4WHhzQ0NpMXhILXRwLUlMOGdUOWJSRHQ2Y3dKaUNUcFBGZVg?oc=5"
             },
             {
                 "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
             },
             {
-                "title": "​王毅同卡塔尔首相兼外交大臣穆罕默德通电话 - mfa.gov.cn",
+                "title": "驻叶卡捷琳堡总领事罗世雄在俄媒体发表署名文章《坚决反对“台独”分裂行径 两岸统一大势不可阻挡》 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcVd1YlVPZS1mTjFuaGhyUGZTcFozVVZ5dVU4S3lqVnZGQWlvRnZrX2ZMeVNjTFBCUWlvenI3WWNGa0NWNjdyZUNkcHdaZUFnNXFzNzA2azZsaXVjcHhGbmRJY2VpaEZnZ1VHWmZB?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3ZPZThFOVhMclI5b3JFWjVzU3RueUEyYmRWM2d1R0NuWUIwNVp6TEluaXFTejZWSVlUN2pNOE1zS29kaEpYbDgxNmZOM3hqUmd2aVI3aHpkcjFod0xkUFNOUGV5YTBoVG44UU8zQjdyZE1zSFJsUHF4QU1MQUxEMF9GcDA?oc=5"
+            },
+            {
+                "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENGdOXzU3YzlhZkpVdlh1aEJxbGlSOVhpd1NTeWVxWkVmM0tsNFBLZlM1d2Z5U1l0a0xVUnJKTGpqcll0Z0JSUXdHVG9hcFpwWHc?oc=5"
             },
             {
                 "title": "天天学习｜代表交换的信封里 藏着中国“最大民生” - 中国军网",
@@ -102,50 +108,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhZE83Q3lyNWtzNmtVXzFpdjMtR2tjYVFqMHdiNXNpd3RReS1mWTViZkEtQUpBY1c3aW9sdklEUkxmc1FKMzh0V04zd0lLSHZHSGc?oc=5"
-            },
-            {
-                "title": "综述｜供应风险高企 多国考虑动用石油储备 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WDdJZjY3SXpiYUlQQlNMSVNyeE5naWIyTk1QLVNjZ2wxSl9falRTQ2g4cXRUeFJlYUdJZHJfQ1dXNVgxOFlUZWJKTmRsUXNQenc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "氪星晚报 ｜新乳业：筹划发行H股股票并上市；钉钉建议企业不装龙虾；小熊电器：2025年营收52.35亿元，同比增长10.02%",
-                "source": "NewsAPI / 36kr.com",
+                "title": "FBI警告：伊朗或图谋以无人机袭击加州(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-11",
-                "url": "https://36kr.com/p/3718474228462985"
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096213.html"
             },
             {
-                "title": "跑鞋之后，昂跑想做更大的生意",
-                "source": "NewsAPI / 36kr.com",
+                "title": "伊朗威胁油价破200美元 美誓保全球能源命脉(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-11",
-                "url": "https://36kr.com/p/3712829165842566"
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096209.html"
             },
             {
-                "title": "谷歌安卓主管：Android 17 将迈向智能系统，侧载功能不会取消",
-                "source": "NewsAPI / Ithome.com",
+                "title": "加总理展开印太外交布局 学者警示对华经贸风险(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/105.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096207.html"
             },
             {
-                "title": "冰岛外长称：冰岛可能成为欧盟下一个成员国",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "加智库警告中共影响力扩张 北极安全面临“战略漏洞”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553090.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096204.html"
             },
             {
-                "title": "36氪研究院 | 2025-2026年中国企业出海研究报告",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI智能体跨平台访问的法律红线：从Perplexity案看“双重授权”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-11",
-                "url": "https://36kr.com/p/3718211112809858"
+                "url": "https://www.ftchinese.com/story/001109168"
             },
             {
-                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
+                "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wcXRYblEzSGY1TTY5SEp4QVI3b19wZVFwOWQ3dTNrREVxVFpQSUx4OW5ncUJwT0ZZT2hUYnpoSUZOVnk4WDhIcFp6bGNHWlZCc1A2NkY3cXI1ZGR1Sm1OendSSUpfd3k1YVpLak9n?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkalFSV256aGFnUlZham1ENFFXbFZwSkYyRVZxb21NNm5fU2kxd0xiYzRqMTd4WHhzQ0NpMXhILXRwLUlMOGdUOWJSRHQ2Y3dKaUNUcFBGZVg?oc=5"
             },
             {
                 "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
             },
             {
-                "title": "​王毅同卡塔尔首相兼外交大臣穆罕默德通电话 - mfa.gov.cn",
+                "title": "驻叶卡捷琳堡总领事罗世雄在俄媒体发表署名文章《坚决反对“台独”分裂行径 两岸统一大势不可阻挡》 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcVd1YlVPZS1mTjFuaGhyUGZTcFozVVZ5dVU4S3lqVnZGQWlvRnZrX2ZMeVNjTFBCUWlvenI3WWNGa0NWNjdyZUNkcHdaZUFnNXFzNzA2azZsaXVjcHhGbmRJY2VpaEZnZ1VHWmZB?oc=5"
+                "date": "2026-03-11",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3ZPZThFOVhMclI5b3JFWjVzU3RueUEyYmRWM2d1R0NuWUIwNVp6TEluaXFTejZWSVlUN2pNOE1zS29kaEpYbDgxNmZOM3hqUmd2aVI3aHpkcjFod0xkUFNOUGV5YTBoVG44UU8zQjdyZE1zSFJsUHF4QU1MQUxEMF9GcDA?oc=5"
+            },
+            {
+                "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENGdOXzU3YzlhZkpVdlh1aEJxbGlSOVhpd1NTeWVxWkVmM0tsNFBLZlM1d2Z5U1l0a0xVUnJKTGpqcll0Z0JSUXdHVG9hcFpwWHc?oc=5"
             },
             {
                 "title": "天天学习｜代表交换的信封里 藏着中国“最大民生” - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhZE83Q3lyNWtzNmtVXzFpdjMtR2tjYVFqMHdiNXNpd3RReS1mWTViZkEtQUpBY1c3aW9sdklEUkxmc1FKMzh0V04zd0lLSHZHSGc?oc=5"
-            },
-            {
-                "title": "综述｜供应风险高企 多国考虑动用石油储备 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WDdJZjY3SXpiYUlQQlNMSVNyeE5naWIyTk1QLVNjZ2wxSl9falRTQ2g4cXRUeFJlYUdJZHJfQ1dXNVgxOFlUZWJKTmRsUXNQenc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-12T12:54:16.973617+00:00"
+    "last_updated": "2026-03-12T18:50:50.023820+00:00"
 }
