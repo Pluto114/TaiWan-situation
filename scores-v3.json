@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "创维发布第十代壁纸电视A10H，主打超薄机身与画质再升级| 最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719277905884800"
-            },
-            {
-                "title": "【IT之家开箱】一加 15T 治愈白巧配色图赏：纯粹的白，温柔的沙",
+                "title": "全球首批“人脑细胞”数据中心官宣落地墨尔本与新加坡",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-12",
-                "url": "https://www.ithome.com/0/928/205.htm"
+                "url": "https://www.ithome.com/0/928/289.htm"
             },
             {
-                "title": "8点1氪丨华莱士正式宣布退市；马斯克成为有史以来最富有的人；汾酒回应多名硕士拟录为酿酒工成装工",
+                "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
+                "source": "NewsAPI / Huxiu.com",
+                "date": "2026-03-12",
+                "url": "https://www.huxiu.com/article/4841321.html"
+            },
+            {
+                "title": "英特尔展示 Heracles 芯片，让数据无需解密即可计算",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-12",
+                "url": "https://www.ithome.com/0/928/281.htm"
+            },
+            {
+                "title": "今年前两月广州港外贸吞吐量超3000万吨，增长显著",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719194989278595"
+                "url": "https://36kr.com/newsflashes/3719384491554176"
             },
             {
-                "title": "「格式塔科技」获1.5亿元天使轮融资，加速超声波脑机接口临床开发 | 36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-11",
-                "url": "https://36kr.com/p/3718214514128514"
-            },
-            {
-                "title": "苹果美国发布 iPhone 17e、MacBook Neo 等维修手册",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/188.htm"
+                "title": "Nuro启动东京公开道路自动驾驶测试 系其首次走出美国",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553190.htm"
             }
         ],
         "mil": [
             {
-                "title": "8点1氪丨华莱士正式宣布退市；马斯克成为有史以来最富有的人；汾酒回应多名硕士拟录为酿酒工成装工",
+                "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
+                "source": "NewsAPI / Huxiu.com",
+                "date": "2026-03-12",
+                "url": "https://www.huxiu.com/article/4841321.html"
+            },
+            {
+                "title": "谷歌、微软等公司中东设施成伊朗潜在打击目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553162.htm"
+            },
+            {
+                "title": "美国国防部据悉允许在关乎国家安全的行动中继续使用Anthropic产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553154.htm"
+            },
+            {
+                "title": "清华学霸团队打造“AI工程师”，帮2000万工程师打造AI助手｜水下项目",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719194989278595"
+                "url": "https://36kr.com/p/3719341175649922"
             },
             {
-                "title": "IT早报 0312：2026 年福布斯全球亿万富豪榜发布；工信部就龙虾提出“六要六不要”建议；比亚迪加入国际汽车工作组；小米汽车“官方车险”法巴天星保险上线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/187.htm"
+                "title": "自研全球最小行星滚柱丝杠，量产价格降至百元级，「诺仕机器人」完成超亿元A轮融资｜水下项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-12",
+                "url": "https://36kr.com/p/3719335512585609"
             },
             {
-                "title": "英伟达未来 5 年将豪掷 260 亿美元，目标打造全球最顶尖开源 AI 大模型",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/182.htm"
-            },
-            {
-                "title": "FBI警告：伊朗或图谋以无人机袭击加州(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-11",
-                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096213.html"
-            },
-            {
-                "title": "伊朗威胁油价破200美元 美誓保全球能源命脉(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-11",
-                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096209.html"
+                "title": "2026年3月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-12",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR2k5enE3V2xZdXg2Wmp2ZXZ6QldCU2FjZlJpZFlEcjl2SnhveHZsMFY2NzludGpmdnV4T3NOMG9wa1FZczdPTk0yWGhidnBjNGJGc01CeE1IVlA4Q0c2cWMxTzNGSkc0cF85NG1aYUw0TEE3bFE?oc=5"
             },
             {
                 "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
             },
             {
                 "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "国内首个：网易有道龙虾 100% 开源，支持 GitHub 全量 skills 安装及实时更新",
-                "source": "NewsAPI / Ithome.com",
+                "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
+                "source": "NewsAPI / Huxiu.com",
                 "date": "2026-03-12",
-                "url": "https://www.ithome.com/0/928/214.htm"
+                "url": "https://www.huxiu.com/article/4841321.html"
             },
             {
-                "title": "今年以来多家非银支付机构调整高管层",
+                "title": "Nuro启动东京公开道路自动驾驶测试 系其首次走出美国",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553190.htm"
+            },
+            {
+                "title": "谷歌、微软等公司中东设施成伊朗潜在打击目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553162.htm"
+            },
+            {
+                "title": "美国国防部据悉允许在关乎国家安全的行动中继续使用Anthropic产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553154.htm"
+            },
+            {
+                "title": "清华学霸团队打造“AI工程师”，帮2000万工程师打造AI助手｜水下项目",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/newsflashes/3719203275699844"
+                "url": "https://36kr.com/p/3719341175649922"
             },
             {
-                "title": "8点1氪丨华莱士正式宣布退市；马斯克成为有史以来最富有的人；汾酒回应多名硕士拟录为酿酒工成装工",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2026年3月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719194989278595"
-            },
-            {
-                "title": "「格式塔科技」获1.5亿元天使轮融资，加速超声波脑机接口临床开发 | 36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-11",
-                "url": "https://36kr.com/p/3718214514128514"
-            },
-            {
-                "title": "IT早报 0312：2026 年福布斯全球亿万富豪榜发布；工信部就龙虾提出“六要六不要”建议；比亚迪加入国际汽车工作组；小米汽车“官方车险”法巴天星保险上线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-11",
-                "url": "https://www.ithome.com/0/928/187.htm"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR2k5enE3V2xZdXg2Wmp2ZXZ6QldCU2FjZlJpZFlEcjl2SnhveHZsMFY2NzludGpmdnV4T3NOMG9wa1FZczdPTk0yWGhidnBjNGJGc01CeE1IVlA4Q0c2cWMxTzNGSkc0cF85NG1aYUw0TEE3bFE?oc=5"
             },
             {
                 "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
-            },
-            {
-                "title": "2026年3月上旬国防部例行新闻发布 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRWJpbmF4TTBxN0V6dHhSMHI4MHhRd2R2YWJrZEE3OE05UW1Bc0lXd1ppUzVpTTZEMVY2Qko4LU9tMHZ0LTZmRVBmY0xuUm9zcWsxUlBMLS0?oc=5"
             },
             {
                 "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-13T01:52:20.317885+00:00"
+    "last_updated": "2026-03-13T06:49:41.184511+00:00"
 }
