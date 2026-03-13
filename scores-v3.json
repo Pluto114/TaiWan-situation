@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "氪星晚报 ｜腾讯版小龙虾WorkBuddy发布全新版本欧睿国际：追觅扫地机全球高端销量第一；宝马集团2025年净利润同比下降3%",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国对16国启动301调查(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719908204246665"
+                "url": "https://www.secretchina.com/news/gb/2026/03/13/1096242.html"
             },
             {
-                "title": "国家工业信息安全发展研究中心发布工业领域 OpenClaw 应用的风险预警通报",
-                "source": "NewsAPI / Ithome.com",
+                "title": "《至尊马蒂》指南：萨弗迪电影里的“精神高烧”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-12",
-                "url": "https://www.ithome.com/0/928/473.htm"
+                "url": "https://www.ftchinese.com/story/001109176"
             },
             {
-                "title": "「中科天算」完成亿元天使+轮融资，万卡级太空超算中心计划于2030年建成｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "伊朗加大袭击力度之际，美国将从战略石油储备中释放近2亿桶石油",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719746809492865"
+                "url": "https://www.voachinese.com/a/us-to-release-172-million-barrels-of-oil-from-strategic-petroleum-reserve-20260312/8124113.html"
             },
             {
-                "title": "追觅一口气要造五颗芯片，直接对标高通、星链、英伟达",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719316885304961"
-            },
-            {
-                "title": "大学课堂的“新猫鼠游戏”：学生用AI写作业 老师头疼死了",
+                "title": "美国防部首席技术官：Anthropic的Claude会“污染”国防供应链",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553234.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553272.htm"
+            },
+            {
+                "title": "黑石CEO：油价战火冲击不了美国经济基本盘(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-12",
+                "url": "https://www.secretchina.com/news/gb/2026/03/12/1096236.html"
             }
         ],
         "mil": [
+            {
+                "title": "“每到一处新地方，我都会重新理解如何做好一个面包”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-12",
+                "url": "https://www.ftchinese.com/story/001109175"
+            },
+            {
+                "title": "《至尊马蒂》指南：萨弗迪电影里的“精神高烧”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-12",
+                "url": "https://www.ftchinese.com/story/001109176"
+            },
             {
                 "title": "大学课堂的“新猫鼠游戏”：学生用AI写作业 老师头疼死了",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,34 +74,22 @@
                 "url": "https://www.ithome.com/0/928/350.htm"
             },
             {
-                "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2026-03-12",
-                "url": "https://www.huxiu.com/article/4841321.html"
-            },
-            {
-                "title": "谷歌、微软等公司中东设施成伊朗潜在打击目标",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553162.htm"
-            },
-            {
                 "title": "2026年3月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-12",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR2k5enE3V2xZdXg2Wmp2ZXZ6QldCU2FjZlJpZFlEcjl2SnhveHZsMFY2NzludGpmdnV4T3NOMG9wa1FZczdPTk0yWGhidnBjNGJGc01CeE1IVlA4Q0c2cWMxTzNGSkc0cF85NG1aYUw0TEE3bFE?oc=5"
             },
             {
-                "title": "王毅同埃及外长阿卜杜勒阿提通电话 - mfa.gov.cn",
+                "title": "王毅同古共中央政治局委员 - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaWdqNFB5NTU1QWNtMWxCMUUyTE1tVlJ1dnZ2amJGUXpqSWR1bHVkZ1JmZENwbUx2NW9xUm83MndVUk10N1U3bks3LWVDSklnZUx6bGt2bEtSRFU1TFVRWEY0SFotZklEazVNWTJR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xR3ZBU2VINkRhMEd5YlVsMXVjdVl0ZWZKSXZnV1JpWFYwbVp1UnZESFV5RTRpQXNxbU9NNEpTMGNFT09xMGZ6Q1hTaDRxWFFYWm9Na2xmSEJYTzByMm1ZNFpRT2dIM0ZHZFUxclBR?oc=5"
             },
             {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "中国政府中东问题特使翟隽会见巴林外交大臣扎耶尼（2026-03-13） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGNqSF9XTWZXQUFxNUk5Zm9FODkwY2ZRYzFndE5TUEllQVhZRWxUS1lRcHZZTGo2aDM0NVdMWXl5STVUc3hHUzNSaW56YXJpTkdIZHJlRnpfX2ZuakpFRk1WRFdkamxSOFRYUjU3TmlaWGxVMTJPZ0dHWlZSZGthcGFORzQ?oc=5"
             },
             {
                 "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "超越梵高的色彩：关于黄色及其跨越时代的演变",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-12",
+                "url": "https://www.ftchinese.com/story/001109174"
+            },
+            {
+                "title": "《至尊马蒂》指南：萨弗迪电影里的“精神高烧”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-12",
+                "url": "https://www.ftchinese.com/story/001109176"
+            },
+            {
+                "title": "美国防部首席技术官：Anthropic的Claude会“污染”国防供应链",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553272.htm"
+            },
+            {
                 "title": "氪星晚报 ｜腾讯版小龙虾WorkBuddy发布全新版本欧睿国际：追觅扫地机全球高端销量第一；宝马集团2025年净利润同比下降3%",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-12",
@@ -124,40 +142,22 @@
                 "url": "https://www.ithome.com/0/928/473.htm"
             },
             {
-                "title": "腾讯回应OpenClaw之父指责其“抄袭”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553248.htm"
-            },
-            {
-                "title": "谷歌剥离光纤业务GFiber 仍将持有少数股权",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553236.htm"
-            },
-            {
-                "title": "大学课堂的“新猫鼠游戏”：学生用AI写作业 老师头疼死了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553234.htm"
-            },
-            {
                 "title": "2026年3月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-12",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR2k5enE3V2xZdXg2Wmp2ZXZ6QldCU2FjZlJpZFlEcjl2SnhveHZsMFY2NzludGpmdnV4T3NOMG9wa1FZczdPTk0yWGhidnBjNGJGc01CeE1IVlA4Q0c2cWMxTzNGSkc0cF85NG1aYUw0TEE3bFE?oc=5"
             },
             {
-                "title": "王毅同埃及外长阿卜杜勒阿提通电话 - mfa.gov.cn",
+                "title": "王毅同古共中央政治局委员 - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaWdqNFB5NTU1QWNtMWxCMUUyTE1tVlJ1dnZ2amJGUXpqSWR1bHVkZ1JmZENwbUx2NW9xUm83MndVUk10N1U3bks3LWVDSklnZUx6bGt2bEtSRFU1TFVRWEY0SFotZklEazVNWTJR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xR3ZBU2VINkRhMEd5YlVsMXVjdVl0ZWZKSXZnV1JpWFYwbVp1UnZESFV5RTRpQXNxbU9NNEpTMGNFT09xMGZ6Q1hTaDRxWFFYWm9Na2xmSEJYTzByMm1ZNFpRT2dIM0ZHZFUxclBR?oc=5"
             },
             {
-                "title": "中华人民共和国国防部 - 中华人民共和国国防部",
+                "title": "中国政府中东问题特使翟隽会见巴林外交大臣扎耶尼（2026-03-13） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2005-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WODZPRmptVzZyejlOLUtTWkhoeUdBaXhHN2RyUzkzbWVrNVdpUVpyVm9VMU42TDZiOVE?oc=5"
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGNqSF9XTWZXQUFxNUk5Zm9FODkwY2ZRYzFndE5TUEllQVhZRWxUS1lRcHZZTGo2aDM0NVdMWXl5STVUc3hHUzNSaW56YXJpTkdIZHJlRnpfX2ZuakpFRk1WRFdkamxSOFRYUjU3TmlaWGxVMTJPZ0dHWlZSZGthcGFORzQ?oc=5"
             },
             {
                 "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-13T12:53:04.662840+00:00"
+    "last_updated": "2026-03-13T18:37:34.569655+00:00"
 }
