@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "全球首批“人脑细胞”数据中心官宣落地墨尔本与新加坡",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-12",
-                "url": "https://www.ithome.com/0/928/289.htm"
-            },
-            {
-                "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2026-03-12",
-                "url": "https://www.huxiu.com/article/4841321.html"
-            },
-            {
-                "title": "英特尔展示 Heracles 芯片，让数据无需解密即可计算",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-12",
-                "url": "https://www.ithome.com/0/928/281.htm"
-            },
-            {
-                "title": "今年前两月广州港外贸吞吐量超3000万吨，增长显著",
+                "title": "氪星晚报 ｜腾讯版小龙虾WorkBuddy发布全新版本欧睿国际：追觅扫地机全球高端销量第一；宝马集团2025年净利润同比下降3%",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/newsflashes/3719384491554176"
+                "url": "https://36kr.com/p/3719908204246665"
             },
             {
-                "title": "Nuro启动东京公开道路自动驾驶测试 系其首次走出美国",
+                "title": "国家工业信息安全发展研究中心发布工业领域 OpenClaw 应用的风险预警通报",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-12",
+                "url": "https://www.ithome.com/0/928/473.htm"
+            },
+            {
+                "title": "「中科天算」完成亿元天使+轮融资，万卡级太空超算中心计划于2030年建成｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-12",
+                "url": "https://36kr.com/p/3719746809492865"
+            },
+            {
+                "title": "追觅一口气要造五颗芯片，直接对标高通、星链、英伟达",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-12",
+                "url": "https://36kr.com/p/3719316885304961"
+            },
+            {
+                "title": "大学课堂的“新猫鼠游戏”：学生用AI写作业 老师头疼死了",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553190.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553234.htm"
             }
         ],
         "mil": [
             {
+                "title": "大学课堂的“新猫鼠游戏”：学生用AI写作业 老师头疼死了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553234.htm"
+            },
+            {
+                "title": "科氪｜全系旗舰亮相AWE2026，石头科技展示从技术到市场的系统性实力",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-12",
+                "url": "https://36kr.com/p/3719613233640839"
+            },
+            {
+                "title": "2024 年福特 BlueCruise 自动驾驶致死事故调查：碰撞前驾驶员均分心",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-12",
+                "url": "https://www.ithome.com/0/928/350.htm"
+            },
+            {
                 "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
                 "source": "NewsAPI / Huxiu.com",
                 "date": "2026-03-12",
@@ -56,34 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1553162.htm"
             },
             {
-                "title": "美国国防部据悉允许在关乎国家安全的行动中继续使用Anthropic产品",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553154.htm"
-            },
-            {
-                "title": "清华学霸团队打造“AI工程师”，帮2000万工程师打造AI助手｜水下项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719341175649922"
-            },
-            {
-                "title": "自研全球最小行星滚柱丝杠，量产价格降至百元级，「诺仕机器人」完成超亿元A轮融资｜水下项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719335512585609"
-            },
-            {
                 "title": "2026年3月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-12",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR2k5enE3V2xZdXg2Wmp2ZXZ6QldCU2FjZlJpZFlEcjl2SnhveHZsMFY2NzludGpmdnV4T3NOMG9wa1FZczdPTk0yWGhidnBjNGJGc01CeE1IVlA4Q0c2cWMxTzNGSkc0cF85NG1aYUw0TEE3bFE?oc=5"
             },
             {
-                "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
+                "title": "王毅同埃及外长阿卜杜勒阿提通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkalFSV256aGFnUlZham1ENFFXbFZwSkYyRVZxb21NNm5fU2kxd0xiYzRqMTd4WHhzQ0NpMXhILXRwLUlMOGdUOWJSRHQ2Y3dKaUNUcFBGZVg?oc=5"
+                "date": "2026-03-12",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaWdqNFB5NTU1QWNtMWxCMUUyTE1tVlJ1dnZ2amJGUXpqSWR1bHVkZ1JmZENwbUx2NW9xUm83MndVUk10N1U3bks3LWVDSklnZUx6bGt2bEtSRFU1TFVRWEY0SFotZklEazVNWTJR?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENGdOXzU3YzlhZkpVdlh1aEJxbGlSOVhpd1NTeWVxWkVmM0tsNFBLZlM1d2Z5U1l0a0xVUnJKTGpqcll0Z0JSUXdHVG9hcFpwWHc?oc=5"
             },
             {
+                "title": "伟大长征精神从未远去，它藏在这永远滚烫的风里 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PNGphTHdIZGtrWjVBOXF6czN4LXBYa19ZSG1qMnBrT0xVRDJka00xSmhnM094bDFxaWVzY2tQdDNUOVZnclJ4SHBPTjBwVlBXdHc?oc=5"
+            },
+            {
                 "title": "第10版：中国边关 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-11",
                 "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObTlwdlpYUGlUQ0taTE5feFFvSkxUUFJJWHlPZm1aSE43TGJSdmlEb1NJVGQ5R1B4aGpSWE5Ob2t1aVB4LV9Ocm9ZWWtoRll2RUpXbHZYcWx1SWQybTlvMEx4Y1lnVjg4UEh1bHJIR2xnT0NfQ0diSVhGR3p5cERtSTByQ01xSF95d3dNRmNpd3ozOGd0Z2cxeUlZYw?oc=5"
-            },
-            {
-                "title": "两会新华社快讯：习近平等党和国家领导人出席十四届全国人大四次会议闭幕会 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhZE83Q3lyNWtzNmtVXzFpdjMtR2tjYVFqMHdiNXNpd3RReS1mWTViZkEtQUpBY1c3aW9sdklEUkxmc1FKMzh0V04zd0lLSHZHSGc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
-                "source": "NewsAPI / Huxiu.com",
-                "date": "2026-03-12",
-                "url": "https://www.huxiu.com/article/4841321.html"
-            },
-            {
-                "title": "Nuro启动东京公开道路自动驾驶测试 系其首次走出美国",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553190.htm"
-            },
-            {
-                "title": "谷歌、微软等公司中东设施成伊朗潜在打击目标",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553162.htm"
-            },
-            {
-                "title": "美国国防部据悉允许在关乎国家安全的行动中继续使用Anthropic产品",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553154.htm"
-            },
-            {
-                "title": "清华学霸团队打造“AI工程师”，帮2000万工程师打造AI助手｜水下项目",
+                "title": "氪星晚报 ｜腾讯版小龙虾WorkBuddy发布全新版本欧睿国际：追觅扫地机全球高端销量第一；宝马集团2025年净利润同比下降3%",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-12",
-                "url": "https://36kr.com/p/3719341175649922"
+                "url": "https://36kr.com/p/3719908204246665"
+            },
+            {
+                "title": "国家工业信息安全发展研究中心发布工业领域 OpenClaw 应用的风险预警通报",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-12",
+                "url": "https://www.ithome.com/0/928/473.htm"
+            },
+            {
+                "title": "腾讯回应OpenClaw之父指责其“抄袭”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553248.htm"
+            },
+            {
+                "title": "谷歌剥离光纤业务GFiber 仍将持有少数股权",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553236.htm"
+            },
+            {
+                "title": "大学课堂的“新猫鼠游戏”：学生用AI写作业 老师头疼死了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553234.htm"
             },
             {
                 "title": "2026年3月12日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,10 +148,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR2k5enE3V2xZdXg2Wmp2ZXZ6QldCU2FjZlJpZFlEcjl2SnhveHZsMFY2NzludGpmdnV4T3NOMG9wa1FZczdPTk0yWGhidnBjNGJGc01CeE1IVlA4Q0c2cWMxTzNGSkc0cF85NG1aYUw0TEE3bFE?oc=5"
             },
             {
-                "title": "【双语】正告日方：穷兵黩武老路是自取灭亡不归路 - 中华人民共和国国防部",
+                "title": "王毅同埃及外长阿卜杜勒阿提通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkalFSV256aGFnUlZham1ENFFXbFZwSkYyRVZxb21NNm5fU2kxd0xiYzRqMTd4WHhzQ0NpMXhILXRwLUlMOGdUOWJSRHQ2Y3dKaUNUcFBGZVg?oc=5"
+                "date": "2026-03-12",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaWdqNFB5NTU1QWNtMWxCMUUyTE1tVlJ1dnZ2amJGUXpqSWR1bHVkZ1JmZENwbUx2NW9xUm83MndVUk10N1U3bks3LWVDSklnZUx6bGt2bEtSRFU1TFVRWEY0SFotZklEazVNWTJR?oc=5"
             },
             {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENGdOXzU3YzlhZkpVdlh1aEJxbGlSOVhpd1NTeWVxWkVmM0tsNFBLZlM1d2Z5U1l0a0xVUnJKTGpqcll0Z0JSUXdHVG9hcFpwWHc?oc=5"
             },
             {
+                "title": "伟大长征精神从未远去，它藏在这永远滚烫的风里 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PNGphTHdIZGtrWjVBOXF6czN4LXBYa19ZSG1qMnBrT0xVRDJka00xSmhnM094bDFxaWVzY2tQdDNUOVZnclJ4SHBPTjBwVlBXdHc?oc=5"
+            },
+            {
                 "title": "第10版：中国边关 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-11",
                 "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObTlwdlpYUGlUQ0taTE5feFFvSkxUUFJJWHlPZm1aSE43TGJSdmlEb1NJVGQ5R1B4aGpSWE5Ob2t1aVB4LV9Ocm9ZWWtoRll2RUpXbHZYcWx1SWQybTlvMEx4Y1lnVjg4UEh1bHJIR2xnT0NfQ0diSVhGR3p5cERtSTByQ01xSF95d3dNRmNpd3ozOGd0Z2cxeUlZYw?oc=5"
-            },
-            {
-                "title": "两会新华社快讯：习近平等党和国家领导人出席十四届全国人大四次会议闭幕会 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhZE83Q3lyNWtzNmtVXzFpdjMtR2tjYVFqMHdiNXNpd3RReS1mWTViZkEtQUpBY1c3aW9sdklEUkxmc1FKMzh0V04zd0lLSHZHSGc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-13T06:49:41.184511+00:00"
+    "last_updated": "2026-03-13T12:53:04.662840+00:00"
 }
