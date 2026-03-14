@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "大摩预测2030年中国AI GPU自给率将达76%",
+                "title": "字节跳动被指借道马来西亚“曲线”获取英伟达Blackwell芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553386.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553406.htm"
             },
             {
-                "title": "官方通报养龙虾安全风险预警：提出5条风险防范建议",
+                "title": "惠普被指利用固件封锁翻新墨盒 违反最新全球可持续标准 ​",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553378.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553404.htm"
             },
             {
-                "title": "比特币升破7.2万美元 提振加密货币相关股票",
+                "title": "韩国一年前空难现场又发现33块遗骨 总统下令彻查",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553370.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553398.htm"
             },
             {
-                "title": "定位科技豪华旗舰，零跑首款 MPV 车型 D99 工信部“证件照”亮相",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美贸易代表格里尔: 我们与中国的贸易关系更加平衡了",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-03-13",
-                "url": "https://www.ithome.com/0/928/942.htm"
+                "url": "https://www.voachinese.com/a/greer-our-trade-relationship-with-china-is-much-more-balanced-20260313/8125027.html"
             },
             {
-                "title": "国泰航空2025年净利润达108亿港元，载客量增长近三成｜最前线",
-                "source": "NewsAPI / 36kr.com",
+                "title": "德语媒体：中国经济的两极分化",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-03-13",
-                "url": "https://36kr.com/p/3721135270247043"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96/a-76351266"
             }
         ],
         "mil": [
+            {
+                "title": "伊朗持续发动地区袭击，一名法国军人及两名外籍劳工在伊拉克和阿曼的无人机袭击中身亡",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-03-13",
+                "url": "https://www.voachinese.com/a/french-soldier-2-foreign-workers-killed-in-drone-attacks-in-iraq-oman-as-iran-continues-regional-attacks-20260313/8125731.html"
+            },
+            {
+                "title": "纽约上东区地铁站发生恶性推人案：两名乘客坠轨，34岁嫌疑人面临谋杀未遂指控(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-13",
+                "url": "https://www.secretchina.com/news/gb/2026/03/14/1096288.html"
+            },
+            {
+                "title": "古巴总统首度证实与美国谈判以“解决分歧“",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-13",
+                "url": "https://www.dw.com/zh/%E5%8F%A4%E5%B7%B4%E6%80%BB%E7%BB%9F%E9%A6%96%E5%BA%A6%E8%AF%81%E5%AE%9E%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4%E4%BB%A5%E8%A7%A3%E5%86%B3%E5%88%86%E6%AD%A7/a-76353551"
+            },
+            {
+                "title": "五角大楼：伊朗军工遭毁灭打击 新领袖或毁容(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-13",
+                "url": "https://www.secretchina.com/news/gb/2026/03/13/1096282.html"
+            },
             {
                 "title": "理想的坏时刻远未结束",
                 "source": "NewsAPI / Huxiu.com",
@@ -50,40 +74,10 @@
                 "url": "https://www.huxiu.com/article/4841825.html"
             },
             {
-                "title": "美国祖母被AI“认错人”关押近半年 从未去过北达科他州却卷入银行诈骗案",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553368.htm"
-            },
-            {
-                "title": "WPS for Pad 登陆苹果 App Store，iPad 办公进入桌面时代",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-13",
-                "url": "https://www.ithome.com/0/928/856.htm"
-            },
-            {
-                "title": "阿迪达斯在上海做了一场“速度实验”，把跑步、F1和音乐放进同一场景｜最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-13",
-                "url": "https://36kr.com/p/3720907606555269"
-            },
-            {
-                "title": "比亚迪副总裁李柯：考虑在加拿大建厂 对收购老牌车企持开放态度",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553318.htm"
-            },
-            {
                 "title": "2026年3月13日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-13",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Hd3JiUU02Tm5Ga0x6S1NZa3Rxa3NuYmozYzJBQm0yTkw3Tk5mM01HWFdkbk9zc0NXXzAyV05SQ0dNaWEtUDA2b2FkZHBQOG9xX255M25lM0k0cTNZSy1hMTh0OFh5ZHNFVTVCV1FwWGRiTm1jeGc?oc=5"
-            },
-            {
-                "title": "王毅同古共中央政治局委员 - 外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xR3ZBU2VINkRhMEd5YlVsMXVjdVl0ZWZKSXZnV1JpWFYwbVp1UnZESFV5RTRpQXNxbU9NNEpTMGNFT09xMGZ6Q1hTaDRxWFFYWm9Na2xmSEJYTzByMm1ZNFpRT2dIM0ZHZFUxclBR?oc=5"
             },
             {
                 "title": "中国政府中东问题特使翟隽会见巴林外交大臣扎耶尼（2026-03-13） - mfa.gov.cn",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGNqSF9XTWZXQUFxNUk5Zm9FODkwY2ZRYzFndE5TUEllQVhZRWxUS1lRcHZZTGo2aDM0NVdMWXl5STVUc3hHUzNSaW56YXJpTkdIZHJlRnpfX2ZuakpFRk1WRFdkamxSOFRYUjU3TmlaWGxVMTJPZ0dHWlZSZGthcGFORzQ?oc=5"
             },
             {
-                "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENGdOXzU3YzlhZkpVdlh1aEJxbGlSOVhpd1NTeWVxWkVmM0tsNFBLZlM1d2Z5U1l0a0xVUnJKTGpqcll0Z0JSUXdHVG9hcFpwWHc?oc=5"
+                "title": "郭嘉昆：一个发展快、前行稳、方向准的中国是世界机遇（2026年3月13日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXRDQ2o3ZnhXMHk0Zy04Mm4yaWRQMUZWTEpPWEpyODloVXlBSHA0TFNVSzhpakpMNHJ4Y193UFBjenA0Y1J2aUtVWl9tWUlxVHdSTkprYkItVzlNY3ZUWGYzdVFMdHdGMTI3TkdpZm1QdEhRWWd5ek1MOWE3a0ZrOVJZdnFfZkptMHVDVlQ1ZDA?oc=5"
             },
             {
                 "title": "2026年3月14日解放军报第11版：要闻 - 中国军网",
@@ -108,9 +102,39 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PNGphTHdIZGtrWjVBOXF6czN4LXBYa19ZSG1qMnBrT0xVRDJka00xSmhnM094bDFxaWVzY2tQdDNUOVZnclJ4SHBPTjBwVlBXdHc?oc=5"
+            },
+            {
+                "title": "喜欢战友们叫我 “雪山牦牛” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBscEx0bktkMFNoT2VuaEhySWpQYTVLdkptYkU1Y2ItcUVxelY4OWxRcDdMbmNIM2hhYml6ZVExTXB3VjEtdU1ZN0VB?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "惠普被指利用固件封锁翻新墨盒 违反最新全球可持续标准 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553404.htm"
+            },
+            {
+                "title": "全新一代宝马X5将今夏首发 首配5种动力",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553400.htm"
+            },
+            {
+                "title": "2026年央视3·15晚会主题官宣 将关注食品安全、广告市场等领域",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553394.htm"
+            },
+            {
+                "title": "中国艺术家拍到新疆“再教育营” 新疆人普遍恐惧器官活摘(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-13",
+                "url": "https://www.secretchina.com/news/gb/2026/03/13/1096274.html"
+            },
             {
                 "title": "28人驾18辆越野车非法闯入罗布泊 民警4小时成功截停",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -118,40 +142,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1553380.htm"
             },
             {
-                "title": "官方通报养龙虾安全风险预警：提出5条风险防范建议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553378.htm"
-            },
-            {
-                "title": "魅族手机“解体”：做车机，做AI，或者离开",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553372.htm"
-            },
-            {
-                "title": "比特币升破7.2万美元 提振加密货币相关股票",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553370.htm"
-            },
-            {
-                "title": "定位科技豪华旗舰，零跑首款 MPV 车型 D99 工信部“证件照”亮相",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-13",
-                "url": "https://www.ithome.com/0/928/942.htm"
-            },
-            {
                 "title": "2026年3月13日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-13",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Hd3JiUU02Tm5Ga0x6S1NZa3Rxa3NuYmozYzJBQm0yTkw3Tk5mM01HWFdkbk9zc0NXXzAyV05SQ0dNaWEtUDA2b2FkZHBQOG9xX255M25lM0k0cTNZSy1hMTh0OFh5ZHNFVTVCV1FwWGRiTm1jeGc?oc=5"
-            },
-            {
-                "title": "王毅同古共中央政治局委员 - 外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xR3ZBU2VINkRhMEd5YlVsMXVjdVl0ZWZKSXZnV1JpWFYwbVp1UnZESFV5RTRpQXNxbU9NNEpTMGNFT09xMGZ6Q1hTaDRxWFFYWm9Na2xmSEJYTzByMm1ZNFpRT2dIM0ZHZFUxclBR?oc=5"
             },
             {
                 "title": "中国政府中东问题特使翟隽会见巴林外交大臣扎耶尼（2026-03-13） - mfa.gov.cn",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGNqSF9XTWZXQUFxNUk5Zm9FODkwY2ZRYzFndE5TUEllQVhZRWxUS1lRcHZZTGo2aDM0NVdMWXl5STVUc3hHUzNSaW56YXJpTkdIZHJlRnpfX2ZuakpFRk1WRFdkamxSOFRYUjU3TmlaWGxVMTJPZ0dHWlZSZGthcGFORzQ?oc=5"
             },
             {
-                "title": "学习卡丨让绿色发展成为高质量发展的底色 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENGdOXzU3YzlhZkpVdlh1aEJxbGlSOVhpd1NTeWVxWkVmM0tsNFBLZlM1d2Z5U1l0a0xVUnJKTGpqcll0Z0JSUXdHVG9hcFpwWHc?oc=5"
+                "title": "郭嘉昆：一个发展快、前行稳、方向准的中国是世界机遇（2026年3月13日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXRDQ2o3ZnhXMHk0Zy04Mm4yaWRQMUZWTEpPWEpyODloVXlBSHA0TFNVSzhpakpMNHJ4Y193UFBjenA0Y1J2aUtVWl9tWUlxVHdSTkprYkItVzlNY3ZUWGYzdVFMdHdGMTI3TkdpZm1QdEhRWWd5ek1MOWE3a0ZrOVJZdnFfZkptMHVDVlQ1ZDA?oc=5"
             },
             {
                 "title": "2026年3月14日解放军报第11版：要闻 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PNGphTHdIZGtrWjVBOXF6czN4LXBYa19ZSG1qMnBrT0xVRDJka00xSmhnM094bDFxaWVzY2tQdDNUOVZnclJ4SHBPTjBwVlBXdHc?oc=5"
+            },
+            {
+                "title": "喜欢战友们叫我 “雪山牦牛” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-13",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBscEx0bktkMFNoT2VuaEhySWpQYTVLdkptYkU1Y2ItcUVxelY4OWxRcDdMbmNIM2hhYml6ZVExTXB3VjEtdU1ZN0VB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-14T12:43:55.579863+00:00"
+    "last_updated": "2026-03-14T18:34:21.094042+00:00"
 }
