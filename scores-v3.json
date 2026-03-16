@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "东风奕派新车三连发：007 闪现版 3 月 28 日上市，008 极光红配色、纳米 01 Cross 首秀",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-14",
-                "url": "https://www.ithome.com/0/929/143.htm"
-            },
-            {
-                "title": "优必选拟将全球品牌总部落沪，打造商用人形机器人智能制造基地",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-14",
-                "url": "https://www.ithome.com/0/929/135.htm"
-            },
-            {
-                "title": "腾讯龙虾团队答疑：龙虾的热度确实高过能力，但它是普通人拥抱 AI 浪潮的第一步",
+                "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-14",
-                "url": "https://36kr.com/p/3721355722684804"
+                "date": "2026-03-15",
+                "url": "https://36kr.com/p/3722669939931524"
             },
             {
-                "title": "你买的15元“3C认证”充电宝 可能是穿了件假外衣",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553482.htm"
-            },
-            {
-                "title": "“机器运行一夜我呼救一夜”武汉男被遗忘在核磁共振机器上(图)",
+                "title": "古巴承认与美对话 汪浩：中共反美阵营大崩解(图)",
                 "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-15",
+                "url": "https://www.secretchina.com/news/gb/2026/03/15/1096347.html"
+            },
+            {
+                "title": "英伟达 GPU 缺货：微星电竞产品线拟涨价 15~30%，“今年是成立以来最严峻的一年”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-15",
+                "url": "https://www.ithome.com/0/929/174.htm"
+            },
+            {
+                "title": "IT早报 0315：央视曝光报废车黑色产业链；腾讯“龙虾”开启全国巡装；英特尔 13/14 代酷睿 CPU 全球库存告急；字节辟谣“武汉研发中心全部被裁”...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-14",
-                "url": "https://www.secretchina.com/news/gb/2026/03/14/1096326.html"
+                "url": "https://www.ithome.com/0/929/166.htm"
+            },
+            {
+                "title": "中国铁路 12306：2026 年春运期间累计发送旅客 5.38 亿人次，同比增长 4.8%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-14",
+                "url": "https://www.ithome.com/0/929/163.htm"
             }
         ],
         "mil": [
+            {
+                "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-15",
+                "url": "https://36kr.com/p/3722669939931524"
+            },
+            {
+                "title": "IT早报 0315：央视曝光报废车黑色产业链；腾讯“龙虾”开启全国巡装；英特尔 13/14 代酷睿 CPU 全球库存告急；字节辟谣“武汉研发中心全部被裁”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-14",
+                "url": "https://www.ithome.com/0/929/166.htm"
+            },
+            {
+                "title": "伊朗威胁封霍尔木兹海峡 川普喊话多国派军舰护航(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-14",
+                "url": "https://www.secretchina.com/news/gb/2026/03/15/1096345.html"
+            },
             {
                 "title": "中国最大家电展上，一批想帮你做家务的机器人来了！",
                 "source": "NewsAPI / 36kr.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1553482.htm"
             },
             {
-                "title": "英伟达GTC大会迎来AI芯片转向 CPU将重回舞台中央?",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553428.htm"
-            },
-            {
-                "title": "美轰炸伊朗哈格岛 川普警告不排除打击石油设施(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-14",
-                "url": "https://www.secretchina.com/news/gb/2026/03/14/1096299.html"
-            },
-            {
-                "title": "IT早报 0314：苹果下调中国 App Store 佣金率；2026 央视 315 晚会主题官宣；雷军称新一代 SU7 将涨价；市监总局加大对“大字吸睛、小字免责”广告整治力度...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-13",
-                "url": "https://www.ithome.com/0/928/985.htm"
-            },
-            {
-                "title": "外交部副部长孙卫东会见马来西亚驻华大使诺曼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-14",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYLTRsQlhSQml3RHlTXzl4aWo0WWNSZU81ZzdWX3dxWEtiUkdNMjd2U2tKeEJoT0FoejhyNkVVNHk3bVZfYmVFblRkOU5wRzdXTTQ0UHZaRzFONUwyVHlDMTZUeUpZdUxJMHY1UDZ6eXY3QQ?oc=5"
-            },
-            {
-                "title": "驻外报道 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-14",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUdCSXdQV2hObFVaeG5ud2o5bnczLWZwczZ6Z256TVNXM2pHaDRvYW85ZG41eHgwcWJ0TG1KS2txLU42WWx0Vzd3alR4VXMwTU1DNzlIejhSUXJoN3ZQSDVhSEtCeDhtZHhuTWdvb1hiUXJfZmQ2dXJ6VlBLaWhWUTJ5WW1UR1cwR1Atd2E4MWM5LUU3TVZaaFFSNTI?oc=5"
-            },
-            {
-                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅会见越南外长黎怀忠 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-15",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yejhYSVhTZS14RWZ4R20wYnZRamVaTlZIX29vbUtJbTcxTlN0UWRfZGVQTy1TZEkwVnRJTUJuM0ZJVWl1UmJvRVV2bmdzZTVLR05WaXZpYUtFMWRQRDM1U3hjZlk2NEhEZWlzclR3?oc=5"
+            },
+            {
+                "title": "外交部副部长苗得雨集体会见海合会国家驻华使节_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-14",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeE1sRkpKTncxQnlaVXNyNlZTaXFBYTZET1hyZW95X2xpM1RUVmdvY1czd3JTM1BqbWMyUnVWY1NuOXFoWmhsYVZFSEZPMnJWUlJmbF9Pc09venV1dUI2QWJubHFPN0lmallRb29RNGRUUVpsaTJFWXhmS2h0aU9NRDlQOTZONXhjbGh3MmE5eGwzcWNrb1Z6MlRHbXFYSzFJSFk0UA?oc=5"
+            },
+            {
+                "title": "驻外报道_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-15",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSW00WVJ3ZDFOODNiRWN6R29xUDhyTDFzOUFaMEFYZnozVm5nZm9adVdLbG9BbWtvVEk1cVdDUXlsRzBQNEtTYkIxdm8zOG9CLWVGYzVRMGktN1hTYzZMZ0FXZHdDTi1Ua0RSVHFKeVpxNDhwdGFqQm9QV216RW9ieTRXempuclFqS29TV3c5MXpGQ2k1SnNOLWlMelZXa1o3OEE?oc=5"
             },
             {
                 "title": "2026年3月14日解放军报第11版：要闻 - 中国军网",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-15",
+                "url": "https://36kr.com/p/3722669939931524"
+            },
+            {
+                "title": "IT早报 0315：央视曝光报废车黑色产业链；腾讯“龙虾”开启全国巡装；英特尔 13/14 代酷睿 CPU 全球库存告急；字节辟谣“武汉研发中心全部被裁”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-14",
+                "url": "https://www.ithome.com/0/929/166.htm"
+            },
+            {
                 "title": "中国最大家电展上，一批想帮你做家务的机器人来了！",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-14",
@@ -130,34 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1553488.htm"
             },
             {
-                "title": "保单数据在黑市低至0.2元一条 “只要买车，信息基本是透明的”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553484.htm"
-            },
-            {
-                "title": "东风奕派新车三连发：007 闪现版 3 月 28 日上市，008 极光红配色、纳米 01 Cross 首秀",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-14",
-                "url": "https://www.ithome.com/0/929/143.htm"
-            },
-            {
-                "title": "外交部副部长孙卫东会见马来西亚驻华大使诺曼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-14",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYLTRsQlhSQml3RHlTXzl4aWo0WWNSZU81ZzdWX3dxWEtiUkdNMjd2U2tKeEJoT0FoejhyNkVVNHk3bVZfYmVFblRkOU5wRzdXTTQ0UHZaRzFONUwyVHlDMTZUeUpZdUxJMHY1UDZ6eXY3QQ?oc=5"
-            },
-            {
-                "title": "驻外报道 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-14",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUdCSXdQV2hObFVaeG5ud2o5bnczLWZwczZ6Z256TVNXM2pHaDRvYW85ZG41eHgwcWJ0TG1KS2txLU42WWx0Vzd3alR4VXMwTU1DNzlIejhSUXJoN3ZQSDVhSEtCeDhtZHhuTWdvb1hiUXJfZmQ2dXJ6VlBLaWhWUTJ5WW1UR1cwR1Atd2E4MWM5LUU3TVZaaFFSNTI?oc=5"
-            },
-            {
-                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅会见越南外长黎怀忠 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-15",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yejhYSVhTZS14RWZ4R20wYnZRamVaTlZIX29vbUtJbTcxTlN0UWRfZGVQTy1TZEkwVnRJTUJuM0ZJVWl1UmJvRVV2bmdzZTVLR05WaXZpYUtFMWRQRDM1U3hjZlk2NEhEZWlzclR3?oc=5"
+            },
+            {
+                "title": "外交部副部长苗得雨集体会见海合会国家驻华使节_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-14",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeE1sRkpKTncxQnlaVXNyNlZTaXFBYTZET1hyZW95X2xpM1RUVmdvY1czd3JTM1BqbWMyUnVWY1NuOXFoWmhsYVZFSEZPMnJWUlJmbF9Pc09venV1dUI2QWJubHFPN0lmallRb29RNGRUUVpsaTJFWXhmS2h0aU9NRDlQOTZONXhjbGh3MmE5eGwzcWNrb1Z6MlRHbXFYSzFJSFk0UA?oc=5"
+            },
+            {
+                "title": "驻外报道_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-15",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSW00WVJ3ZDFOODNiRWN6R29xUDhyTDFzOUFaMEFYZnozVm5nZm9adVdLbG9BbWtvVEk1cVdDUXlsRzBQNEtTYkIxdm8zOG9CLWVGYzVRMGktN1hTYzZMZ0FXZHdDTi1Ua0RSVHFKeVpxNDhwdGFqQm9QV216RW9ieTRXempuclFqS29TV3c5MXpGQ2k1SnNOLWlMelZXa1o3OEE?oc=5"
             },
             {
                 "title": "2026年3月14日解放军报第11版：要闻 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-15T18:34:41.658794+00:00"
+    "last_updated": "2026-03-16T02:07:55.300907+00:00"
 }
