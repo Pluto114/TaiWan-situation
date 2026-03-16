@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "AI 崛起与内存短缺双重夹击，全球游戏行业陷入发展困境",
+                "title": "全球首台：维修达人成功将苹果 MacBook Neo 扩容至 1TB 存储",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/255.htm"
+                "url": "https://www.ithome.com/0/929/311.htm"
             },
             {
-                "title": "比亚迪一周新建 358 座闪充站，累计建成 4597 座覆盖全国 279 城",
-                "source": "NewsAPI / Ithome.com",
+                "title": "俄罗斯16核/32核CPU规格公布 中国龙芯授权",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/238.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553526.htm"
             },
             {
-                "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
-                "source": "NewsAPI / 36kr.com",
+                "title": "国产笔记本CPU造假 多款机型用老U冒充新U 连BIOS都改了骗消费者",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-15",
-                "url": "https://36kr.com/p/3722669939931524"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553506.htm"
             },
             {
-                "title": "古巴承认与美对话 汪浩：中共反美阵营大崩解(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "营收破千亿，净利却缩水85% 理想汽车进入“最危险的一年”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-15",
-                "url": "https://www.secretchina.com/news/gb/2026/03/15/1096347.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553504.htm"
             },
             {
-                "title": "英伟达 GPU 缺货：微星电竞产品线拟涨价 15~30%，“今年是成立以来最严峻的一年”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "马斯克宣布建造世界最大晶圆工厂 7天后启动 颠覆芯片制造",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/174.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553502.htm"
             }
         ],
         "mil": [
+            {
+                "title": "多替拉韦钠片获批上市 国产抗艾滋病再添一线核心药物",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553554.htm"
+            },
+            {
+                "title": "伊朗公布近30个打击目标 微软亚马逊IBM等多家美国科技巨头在列",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553540.htm"
+            },
             {
                 "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
                 "source": "NewsAPI / 36kr.com",
@@ -62,16 +74,16 @@
                 "url": "https://www.secretchina.com/news/gb/2026/03/15/1096345.html"
             },
             {
-                "title": "中国最大家电展上，一批想帮你做家务的机器人来了！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-14",
-                "url": "https://36kr.com/p/3722882943334789"
+                "title": "驻牙买加大使王锦峰出席中国援牙第三批紧急人道主义救灾物资交接仪式 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEd0N2hJUm9raGpMalY5UERmWGtrTEYzNlduMzFUTnN1WXRZeVZNaloybXdpaTkya2t2YWdpNnM3N0lQZng5UmU2MVdwaTZxakk0N0UzQUpLSFFjV0NheUE4Smk1TXhScG5ndk5YcFVUWmVjS3kwaS1vaFNXMWxpMmVpNFA?oc=5"
             },
             {
-                "title": "你买的15元“3C认证”充电宝 可能是穿了件假外衣",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553482.htm"
+                "title": "中国政府中东问题特使翟隽同卡塔尔外交部国务大臣胡莱菲通电话_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVTOHFyOXBSZDNCSFJaSl9zelJkcDFMUTZRYVJqV1BmRkN1WmZoYm90dDE0MnVybmxIYjZ4aFlDYlliRE92Wk14NWFzdjM5MlA3VDYyS3dESzRKQUlmMk9UODhBOUVjVkw4R3RnaWdIVXdEWkZSUzd2bzRvZ2c2S0o2MXg?oc=5"
             },
             {
                 "title": "驻克罗地亚大使齐前进会见克经济商会副主席 - mfa.gov.cn",
@@ -80,66 +92,66 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXlLSVpNZzUxQTcyTWk4TmYxWkNXTHpPeWt0aHZ2TDJvMDlNb01QLUg0T0Rvc0ZISVRaQl8td2tIY0tocExMNnZyQ0JjZHJfcm9pLXFYRjY0Ykp3bm5HZ2NvYnJQcmE2UHp4eHZhOC1qRlVrc29MejZBY0JfX2hGS04wSFY?oc=5"
             },
             {
-                "title": "驻约旦大使郭伟接受约媒体专访宣介全国两会精神 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-15",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0dPR2l4Rng4RVdSR0Y5REVpUTZwWHJtano5SC1sVS1XNERSbWFMOExZNEowaENhSW5kUllKLVJCcGZLY3A3bWJRMEJRXy1NSjZYX0V4RHllcVQ2RmJhdFZhTjgxdFNiNW1RVGVnbXU3WHpIcjVELUhFQ0VTNWo0X1VjTTQ?oc=5"
-            },
-            {
-                "title": "王毅会见越南外长黎怀忠 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yejhYSVhTZS14RWZ4R20wYnZRamVaTlZIX29vbUtJbTcxTlN0UWRfZGVQTy1TZEkwVnRJTUJuM0ZJVWl1UmJvRVV2bmdzZTVLR05WaXZpYUtFMWRQRDM1U3hjZlk2NEhEZWlzclR3?oc=5"
-            },
-            {
                 "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTDhCanhtc1lmc3RTLUxiV2FCbFRBTFk3Z1pvWVRkT2dwUXRXREdfOUVmMkQ5aWlEN3JSek5Wam8zQWhfaHNZN1RuSzVNS3gxcHc?oc=5"
             },
             {
+                "title": "浪花里的年味 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0hNVzdYdUtPMU16Y0RXRExFalNuMGFBZVk1MzMyaExmbHFOaGVxdkk2SDlZRlphd3JhbnE2aDA4UmJsRFhUVnJXc29tWVFOTGhlS3l1cWdYaUtOTkdMRG95VHlLV2NLeEFEQU1xWmdvQjVQM0ptOHNMaVdvNFJOY25ocjc3cFk?oc=5"
+            },
+            {
                 "title": "强军论坛丨打好安全防范主动仗 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSWFJdXNtZGFBRmo5bDVRenJhQ3pRRWszMkR3YUY1NVcwNU91M0NDdnpkdG9kam80aWxuMmI4Nk1UVTFHOHQ1RWZ3RlBaSG1hWXc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "内测招募：努比亚 Z80 Ultra 成为全球首款原生集成 OpenClaw 的 AI 手机",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/230.htm"
-            },
-            {
-                "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-15",
-                "url": "https://36kr.com/p/3722669939931524"
-            },
-            {
-                "title": "IT早报 0315：央视曝光报废车黑色产业链；腾讯“龙虾”开启全国巡装；英特尔 13/14 代酷睿 CPU 全球库存告急；字节辟谣“武汉研发中心全部被裁”...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-14",
-                "url": "https://www.ithome.com/0/929/166.htm"
-            },
-            {
-                "title": "中国最大家电展上，一批想帮你做家务的机器人来了！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-14",
-                "url": "https://36kr.com/p/3722882943334789"
-            },
-            {
-                "title": "EyeDAR路侧雷达为自动驾驶补上“第三只眼”",
+                "title": "“全球购”直播间卖假大牌 涉案金额2800万",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553492.htm"
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553548.htm"
+            },
+            {
+                "title": "全球首台：维修达人成功将苹果 MacBook Neo 扩容至 1TB 存储",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-15",
+                "url": "https://www.ithome.com/0/929/311.htm"
+            },
+            {
+                "title": "与佳能开发人员的深度交流（便携相机篇）",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-15",
+                "url": "https://www.ithome.com/0/929/297.htm"
+            },
+            {
+                "title": "新能源绿牌下的燃油“暗门”：起底纯电车违规加装增程器",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553516.htm"
+            },
+            {
+                "title": "arXiv将脱离康奈尔大学独立并招聘CEO",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553510.htm"
+            },
+            {
+                "title": "驻牙买加大使王锦峰出席中国援牙第三批紧急人道主义救灾物资交接仪式 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEd0N2hJUm9raGpMalY5UERmWGtrTEYzNlduMzFUTnN1WXRZeVZNaloybXdpaTkya2t2YWdpNnM3N0lQZng5UmU2MVdwaTZxakk0N0UzQUpLSFFjV0NheUE4Smk1TXhScG5ndk5YcFVUWmVjS3kwaS1vaFNXMWxpMmVpNFA?oc=5"
+            },
+            {
+                "title": "中国政府中东问题特使翟隽同卡塔尔外交部国务大臣胡莱菲通电话_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVTOHFyOXBSZDNCSFJaSl9zelJkcDFMUTZRYVJqV1BmRkN1WmZoYm90dDE0MnVybmxIYjZ4aFlDYlliRE92Wk14NWFzdjM5MlA3VDYyS3dESzRKQUlmMk9UODhBOUVjVkw4R3RnaWdIVXdEWkZSUzd2bzRvZ2c2S0o2MXg?oc=5"
             },
             {
                 "title": "驻克罗地亚大使齐前进会见克经济商会副主席 - mfa.gov.cn",
@@ -148,37 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXlLSVpNZzUxQTcyTWk4TmYxWkNXTHpPeWt0aHZ2TDJvMDlNb01QLUg0T0Rvc0ZISVRaQl8td2tIY0tocExMNnZyQ0JjZHJfcm9pLXFYRjY0Ykp3bm5HZ2NvYnJQcmE2UHp4eHZhOC1qRlVrc29MejZBY0JfX2hGS04wSFY?oc=5"
             },
             {
-                "title": "驻约旦大使郭伟接受约媒体专访宣介全国两会精神 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-15",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0dPR2l4Rng4RVdSR0Y5REVpUTZwWHJtano5SC1sVS1XNERSbWFMOExZNEowaENhSW5kUllKLVJCcGZLY3A3bWJRMEJRXy1NSjZYX0V4RHllcVQ2RmJhdFZhTjgxdFNiNW1RVGVnbXU3WHpIcjVELUhFQ0VTNWo0X1VjTTQ?oc=5"
-            },
-            {
-                "title": "王毅会见越南外长黎怀忠 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yejhYSVhTZS14RWZ4R20wYnZRamVaTlZIX29vbUtJbTcxTlN0UWRfZGVQTy1TZEkwVnRJTUJuM0ZJVWl1UmJvRVV2bmdzZTVLR05WaXZpYUtFMWRQRDM1U3hjZlk2NEhEZWlzclR3?oc=5"
-            },
-            {
                 "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTDhCanhtc1lmc3RTLUxiV2FCbFRBTFk3Z1pvWVRkT2dwUXRXREdfOUVmMkQ5aWlEN3JSek5Wam8zQWhfaHNZN1RuSzVNS3gxcHc?oc=5"
             },
             {
+                "title": "浪花里的年味 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0hNVzdYdUtPMU16Y0RXRExFalNuMGFBZVk1MzMyaExmbHFOaGVxdkk2SDlZRlphd3JhbnE2aDA4UmJsRFhUVnJXc29tWVFOTGhlS3l1cWdYaUtOTkdMRG95VHlLV2NLeEFEQU1xWmdvQjVQM0ptOHNMaVdvNFJOY25ocjc3cFk?oc=5"
+            },
+            {
                 "title": "强军论坛丨打好安全防范主动仗 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSWFJdXNtZGFBRmo5bDVRenJhQ3pRRWszMkR3YUY1NVcwNU91M0NDdnpkdG9kam80aWxuMmI4Nk1UVTFHOHQ1RWZ3RlBaSG1hWXc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-16T07:12:39.123842+00:00"
+    "last_updated": "2026-03-16T13:05:25.758507+00:00"
 }
