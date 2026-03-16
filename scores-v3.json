@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "全球首台：维修达人成功将苹果 MacBook Neo 扩容至 1TB 存储",
+                "title": "霍尔木兹海峡，谁的阿喀琉斯之踵？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-15",
+                "url": "https://www.ftchinese.com/story/001109197"
+            },
+            {
+                "title": "5公斤大米变15克小包裹 电商平台“欺诈发货”频发",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553564.htm"
+            },
+            {
+                "title": "ASML 营收创纪录仍计划裁员 1700 人，员工苦等七周不知去留",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/311.htm"
+                "url": "https://www.ithome.com/0/929/336.htm"
             },
             {
-                "title": "俄罗斯16核/32核CPU规格公布 中国龙芯授权",
+                "title": "被315点名的万亿隐秘生意：“污染”DeepSeek",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553526.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553562.htm"
             },
             {
-                "title": "国产笔记本CPU造假 多款机型用老U冒充新U 连BIOS都改了骗消费者",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "【CDT报告汇】中国AI模型国际扩张之际，三份研究显示中国AI嵌入审查机制与官方叙事（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553506.htm"
-            },
-            {
-                "title": "营收破千亿，净利却缩水85% 理想汽车进入“最危险的一年”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553504.htm"
-            },
-            {
-                "title": "马斯克宣布建造世界最大晶圆工厂 7天后启动 颠覆芯片制造",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553502.htm"
+                "url": "https://chinadigitaltimes.net/chinese/725873.html"
             }
         ],
         "mil": [
+            {
+                "title": "霍尔木兹海峡，谁的阿喀琉斯之踵？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-15",
+                "url": "https://www.ftchinese.com/story/001109197"
+            },
             {
                 "title": "多替拉韦钠片获批上市 国产抗艾滋病再添一线核心药物",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,28 +74,22 @@
                 "url": "https://www.ithome.com/0/929/166.htm"
             },
             {
-                "title": "伊朗威胁封霍尔木兹海峡 川普喊话多国派军舰护航(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-14",
-                "url": "https://www.secretchina.com/news/gb/2026/03/15/1096345.html"
-            },
-            {
                 "title": "驻牙买加大使王锦峰出席中国援牙第三批紧急人道主义救灾物资交接仪式 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-16",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEd0N2hJUm9raGpMalY5UERmWGtrTEYzNlduMzFUTnN1WXRZeVZNaloybXdpaTkya2t2YWdpNnM3N0lQZng5UmU2MVdwaTZxakk0N0UzQUpLSFFjV0NheUE4Smk1TXhScG5ndk5YcFVUWmVjS3kwaS1vaFNXMWxpMmVpNFA?oc=5"
             },
             {
-                "title": "中国政府中东问题特使翟隽同卡塔尔外交部国务大臣胡莱菲通电话_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVTOHFyOXBSZDNCSFJaSl9zelJkcDFMUTZRYVJqV1BmRkN1WmZoYm90dDE0MnVybmxIYjZ4aFlDYlliRE92Wk14NWFzdjM5MlA3VDYyS3dESzRKQUlmMk9UODhBOUVjVkw4R3RnaWdIVXdEWkZSUzd2bzRvZ2c2S0o2MXg?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampicGJIeTBoX0FjeWZFcEg3Mkp5TWxhdlNfclBmSFc0Z1NOZU5Rc3gzYUIxaFdyLWxaRTdpWEpJaXNZbFNUb29EUHVFQVQ1ZUhVaFR1NW54TXRNVlZrUkFadjBOUE9kSzZQcGx1SlIyWWpwZlU0Wjg2SjFzSjFIbE5pNTU?oc=5"
             },
             {
-                "title": "驻克罗地亚大使齐前进会见克经济商会副主席 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-15",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXlLSVpNZzUxQTcyTWk4TmYxWkNXTHpPeWt0aHZ2TDJvMDlNb01QLUg0T0Rvc0ZISVRaQl8td2tIY0tocExMNnZyQ0JjZHJfcm9pLXFYRjY0Ykp3bm5HZ2NvYnJQcmE2UHp4eHZhOC1qRlVrc29MejZBY0JfX2hGS04wSFY?oc=5"
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3AwbDNhX2l6RkFlbVRhYldoVnNFRUhMckxJVjBGTmZ2bzF6c2tQY1R0aUtNZmZHNVhuYmxOS2hKaFZHVUtOdF9NMHVNZmc2cWRTTndSUXlDY29MUjhVa3pSQm5FU2ZZQUVWZGZNRl8tSE0yb0Y2TDZYT29ZVXhweDRteEU?oc=5"
             },
             {
                 "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "霍尔木兹海峡，谁的阿喀琉斯之踵？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-15",
+                "url": "https://www.ftchinese.com/story/001109197"
+            },
+            {
+                "title": "5公斤大米变15克小包裹 电商平台“欺诈发货”频发",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553564.htm"
+            },
+            {
+                "title": "被315点名的万亿隐秘生意：“污染”DeepSeek",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553562.htm"
+            },
+            {
                 "title": "“全球购”直播间卖假大牌 涉案金额2800万",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-15",
@@ -124,40 +142,22 @@
                 "url": "https://www.ithome.com/0/929/311.htm"
             },
             {
-                "title": "与佳能开发人员的深度交流（便携相机篇）",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/297.htm"
-            },
-            {
-                "title": "新能源绿牌下的燃油“暗门”：起底纯电车违规加装增程器",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553516.htm"
-            },
-            {
-                "title": "arXiv将脱离康奈尔大学独立并招聘CEO",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553510.htm"
-            },
-            {
                 "title": "驻牙买加大使王锦峰出席中国援牙第三批紧急人道主义救灾物资交接仪式 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-16",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEd0N2hJUm9raGpMalY5UERmWGtrTEYzNlduMzFUTnN1WXRZeVZNaloybXdpaTkya2t2YWdpNnM3N0lQZng5UmU2MVdwaTZxakk0N0UzQUpLSFFjV0NheUE4Smk1TXhScG5ndk5YcFVUWmVjS3kwaS1vaFNXMWxpMmVpNFA?oc=5"
             },
             {
-                "title": "中国政府中东问题特使翟隽同卡塔尔外交部国务大臣胡莱菲通电话_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVTOHFyOXBSZDNCSFJaSl9zelJkcDFMUTZRYVJqV1BmRkN1WmZoYm90dDE0MnVybmxIYjZ4aFlDYlliRE92Wk14NWFzdjM5MlA3VDYyS3dESzRKQUlmMk9UODhBOUVjVkw4R3RnaWdIVXdEWkZSUzd2bzRvZ2c2S0o2MXg?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampicGJIeTBoX0FjeWZFcEg3Mkp5TWxhdlNfclBmSFc0Z1NOZU5Rc3gzYUIxaFdyLWxaRTdpWEpJaXNZbFNUb29EUHVFQVQ1ZUhVaFR1NW54TXRNVlZrUkFadjBOUE9kSzZQcGx1SlIyWWpwZlU0Wjg2SjFzSjFIbE5pNTU?oc=5"
             },
             {
-                "title": "驻克罗地亚大使齐前进会见克经济商会副主席 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-15",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXlLSVpNZzUxQTcyTWk4TmYxWkNXTHpPeWt0aHZ2TDJvMDlNb01QLUg0T0Rvc0ZISVRaQl8td2tIY0tocExMNnZyQ0JjZHJfcm9pLXFYRjY0Ykp3bm5HZ2NvYnJQcmE2UHp4eHZhOC1qRlVrc29MejZBY0JfX2hGS04wSFY?oc=5"
+                "date": "2026-03-16",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3AwbDNhX2l6RkFlbVRhYldoVnNFRUhMckxJVjBGTmZ2bzF6c2tQY1R0aUtNZmZHNVhuYmxOS2hKaFZHVUtOdF9NMHVNZmc2cWRTTndSUXlDY29MUjhVa3pSQm5FU2ZZQUVWZGZNRl8tSE0yb0Y2TDZYT29ZVXhweDRteEU?oc=5"
             },
             {
                 "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-16T13:05:25.758507+00:00"
+    "last_updated": "2026-03-16T18:57:46.165793+00:00"
 }
