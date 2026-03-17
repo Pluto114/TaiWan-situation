@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "德语媒体：面对中国竞争 德国做好“吃苦”准备了吗？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-16",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89-%E5%BE%B7%E5%9B%BD%E5%81%9A%E5%A5%BD%E5%90%83%E8%8B%A6%E5%87%86%E5%A4%87%E4%BA%86%E5%90%97/a-76383229"
+            },
+            {
+                "title": "苹果发布第二代头戴式耳机AirPods Max 2 搭载H2芯片 支持实时翻译",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553680.htm"
+            },
+            {
+                "title": "美光计划在台湾建设第二座芯片工厂",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553676.htm"
+            },
+            {
                 "title": "Meta 豪掷 270 亿美元购买 Nebius AI 算力，与 OpenAI、谷歌展开军备竞赛",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-16",
@@ -22,27 +40,15 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-16",
                 "url": "https://36kr.com/p/3725426197150345"
-            },
-            {
-                "title": "特朗普政府将因促成TikTok交易获得100亿美元中介费",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553672.htm"
-            },
-            {
-                "title": "谷歌、亚马逊和OpenAI等科技巨头签署新承诺书 打击全球诈骗",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553670.htm"
-            },
-            {
-                "title": "京东发布欧洲线上零售品牌Joybuy：上午下单、下午收货",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553666.htm"
             }
         ],
         "mil": [
+            {
+                "title": "以色列称已摧毁伊朗太空与卫星中心",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553684.htm"
+            },
             {
                 "title": "《英雄联盟》2026 全球先锋赛今晚 21:00 开幕，BLG 首战 BFX",
                 "source": "NewsAPI / Ithome.com",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/3725424173857155"
             },
             {
-                "title": "路透社：川普拟访中后批准140亿美元对台军售(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-16",
-                "url": "https://www.secretchina.com/news/gb/2026/03/16/1096388.html"
-            },
-            {
                 "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-16",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wWVNYMXp2M3RuR2NXeUNqMUpabWRvTW5DRDdDUE9nMnVZQXZKLXpBX2RxOVJzNy05MlMzZGxPU3FFNnV0MGVQRXYwM1VEampxZzJTWnptSjdDNkUzYVJLQm1mRldNSVlNdVFNU2lR?oc=5"
             },
             {
-                "title": "驻马耳他大使张佐会见马旅游局主席曼吉翁 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXg2cXdZcFd2X0Fuby1vVGFrOHdIcklCTEFmbWZHRVo3TXR6eGVudjRSTjE3V3I2M0s3STRVZ3FiZ3MwNnZEcnNhLS1SNkRsd0tOY0ZKczFFR1FTLXBSOWl5NUVXZ3F6UEtVOVlweUlDV19xcGNJYkpNNzR0N0dycjF2NUU?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "加总理和北欧五国领导人拟打造“中等强国”联盟(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-16",
+                "url": "https://www.secretchina.com/news/gb/2026/03/17/1096417.html"
+            },
+            {
+                "title": "[Security Blog] OpenClaw 快速普及 高權限 AI 代理平台同時暴露 skills 供應鏈與假冒安裝風險",
+                "source": "NewsAPI / Hkcert.org",
+                "date": "2026-03-16",
+                "url": "https://www.hkcert.org/tc/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform"
+            },
+            {
+                "title": "赖清德批国民党治理不如日本殖民 国民党反批",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-16",
+                "url": "https://www.dw.com/zh/%E8%B5%96%E6%B8%85%E5%BE%B7%E6%89%B9%E5%9B%BD%E6%B0%91%E5%85%9A%E6%B2%BB%E7%90%86%E4%B8%8D%E5%A6%82%E6%97%A5%E6%9C%AC%E6%AE%96%E6%B0%91-%E5%9B%BD%E6%B0%91%E5%85%9A%E5%8F%8D%E6%89%B9/a-76381831"
+            },
+            {
                 "title": "腾讯 QQ 机器人接入 OpenClaw，官方“养虾”指南发布",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-16",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-16",
                 "url": "https://www.ithome.com/0/929/639.htm"
-            },
-            {
-                "title": "中国信通院：联合高校发现 OpenClaw 高危漏洞并协助快速修复",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-16",
-                "url": "https://www.ithome.com/0/929/636.htm"
-            },
-            {
-                "title": "Meta 豪掷 270 亿美元购买 Nebius AI 算力，与 OpenAI、谷歌展开军备竞赛",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-16",
-                "url": "https://www.ithome.com/0/929/635.htm"
-            },
-            {
-                "title": "特朗普政府将因促成TikTok交易获得100亿美元中介费",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553672.htm"
             },
             {
                 "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wWVNYMXp2M3RuR2NXeUNqMUpabWRvTW5DRDdDUE9nMnVZQXZKLXpBX2RxOVJzNy05MlMzZGxPU3FFNnV0MGVQRXYwM1VEampxZzJTWnptSjdDNkUzYVJLQm1mRldNSVlNdVFNU2lR?oc=5"
             },
             {
-                "title": "驻马耳他大使张佐会见马旅游局主席曼吉翁 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXg2cXdZcFd2X0Fuby1vVGFrOHdIcklCTEFmbWZHRVo3TXR6eGVudjRSTjE3V3I2M0s3STRVZ3FiZ3MwNnZEcnNhLS1SNkRsd0tOY0ZKczFFR1FTLXBSOWl5NUVXZ3F6UEtVOVlweUlDV19xcGNJYkpNNzR0N0dycjF2NUU?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-17T13:05:47.988575+00:00"
+    "last_updated": "2026-03-17T18:58:47.745001+00:00"
 }
