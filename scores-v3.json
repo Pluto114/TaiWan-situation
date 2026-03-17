@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "两位清华校友创业：获谷歌、英伟达系投资人押注，要把机器人数据采集成本降50倍丨36氪首发",
+                "title": "南航 C919 今日首飞广州往返温州航线，已通航 21 座城市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-16",
+                "url": "https://www.ithome.com/0/929/520.htm"
+            },
+            {
+                "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-16",
-                "url": "https://36kr.com/p/3724929366571399"
+                "url": "https://36kr.com/p/3725233182062982"
             },
             {
-                "title": "亚马逊 AWS 将部署 Cerebras 晶圆级 AI 芯片 CS-3，与自家 Trainium 配套使用",
-                "source": "NewsAPI / Ithome.com",
+                "title": "男子用SIM卡炼出190多克黄金 废旧SIM卡里真能提炼黄金吗",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-16",
-                "url": "https://www.ithome.com/0/929/362.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553624.htm"
             },
             {
-                "title": "8点1氪丨知名连锁店被曝大规模销售假烟，已查获非法卷烟139.99万支；“3·15晚会”曝光完整名单公布；Kimi估值涨至180亿美元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "卡塔尔液化天然气停产引发连锁反应：全球氦气价格飙升",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-16",
-                "url": "https://36kr.com/p/3724860285319556"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553620.htm"
             },
             {
-                "title": "古尔曼：预计苹果只会率先为 M6 Pro / Max 款 MacBook Pro 换用触控屏，Neo / Air 未来三年内不会获得升级",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/346.htm"
-            },
-            {
-                "title": "IT早报 0316：央视 3・15 晚会曝光汇总；曝字节暂停 Seedance 2.0 全球发布；央视揭秘“网络开盒”黑产链；努比亚 Z80 Ultra 成首款原生集成 OpenClaw 手机...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/345.htm"
+                "title": "谁最容易被AI抢饭碗？OpenAI联创：赚得越多的精英，风险越大",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553606.htm"
             }
         ],
         "mil": [
             {
+                "title": "特朗普指责伊朗AI散布“虚假战果”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553646.htm"
+            },
+            {
+                "title": "iFood指控美团滴滴巴西搞商业间谍和窃取数据 警方介入调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553600.htm"
+            },
+            {
+                "title": "美国能源部长：伊朗战争可能在数周内结束",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553590.htm"
+            },
+            {
+                "title": "又一国企宣布“清仓”房地产业务，发公告后股价涨停",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-16",
+                "url": "https://36kr.com/p/3725013049719168"
+            },
+            {
                 "title": "IT早报 0316：央视 3・15 晚会曝光汇总；曝字节暂停 Seedance 2.0 全球发布；央视揭秘“网络开盒”黑产链；努比亚 Z80 Ultra 成首款原生集成 OpenClaw 手机...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-15",
                 "url": "https://www.ithome.com/0/929/345.htm"
-            },
-            {
-                "title": "共军卫星高频掠过日本 日方警惕台海突发状况(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-15",
-                "url": "https://www.secretchina.com/news/gb/2026/03/16/1096370.html"
-            },
-            {
-                "title": "霍尔木兹海峡，谁的阿喀琉斯之踵？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-15",
-                "url": "https://www.ftchinese.com/story/001109197"
-            },
-            {
-                "title": "多替拉韦钠片获批上市 国产抗艾滋病再添一线核心药物",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553554.htm"
-            },
-            {
-                "title": "伊朗公布近30个打击目标 微软亚马逊IBM等多家美国科技巨头在列",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553540.htm"
             },
             {
                 "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTDhCanhtc1lmc3RTLUxiV2FCbFRBTFk3Z1pvWVRkT2dwUXRXREdfOUVmMkQ5aWlEN3JSek5Wam8zQWhfaHNZN1RuSzVNS3gxcHc?oc=5"
             },
             {
+                "title": "3000余件藏品诉说雷锋精神 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-17",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmNYMHM2VmlzbUJDaVJ5QldsenhLaTRzeGozUm1yQ2dsMmk1eTBJLTEtUTNHSDRlbk4xaEZzdzdSVWIyWUJORGljYzdwNDBuREhpUWRmeVI0NTJlVHRubDk1RnFOZVFSTlhGNHlYSXhQVV9DRWYtOUh0QnlVdmE5S2s1dXh6SXRSLTV6TW9hcVlETFdTVXg5RnhZMWxyaVQ2ZnVlUVdBLWlOQWtHNmg4Qm93ZWFBTTQ?oc=5"
+            },
+            {
                 "title": "第七十三集团军某旅党委严抓党员队伍教育管理的见闻与思考 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZV3cyOVFTQ2xNY2R3OU51M2JlS0FQbXFRSXN4VmxJbHB4TldCdndhT2dxVFhGaHJxak43MFFucEFZOUE1N1NYTFYzOHB6b2QwYkE?oc=5"
-            },
-            {
-                "title": "浪花里的年味 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0hNVzdYdUtPMU16Y0RXRExFalNuMGFBZVk1MzMyaExmbHFOaGVxdkk2SDlZRlphd3JhbnE2aDA4UmJsRFhUVnJXc29tWVFOTGhlS3l1cWdYaUtOTkdMRG95VHlLV2NLeEFEQU1xWmdvQjVQM0ptOHNMaVdvNFJOY25ocjc3cFk?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "两位清华校友创业：获谷歌、英伟达系投资人押注，要把机器人数据采集成本降50倍丨36氪首发",
+                "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-16",
-                "url": "https://36kr.com/p/3724929366571399"
+                "url": "https://36kr.com/p/3725233182062982"
             },
             {
-                "title": "8点1氪丨知名连锁店被曝大规模销售假烟，已查获非法卷烟139.99万支；“3·15晚会”曝光完整名单公布；Kimi估值涨至180亿美元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特朗普指责伊朗AI散布“虚假战果”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-16",
-                "url": "https://36kr.com/p/3724860285319556"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553646.htm"
             },
             {
-                "title": "IT早报 0316：央视 3・15 晚会曝光汇总；曝字节暂停 Seedance 2.0 全球发布；央视揭秘“网络开盒”黑产链；努比亚 Z80 Ultra 成首款原生集成 OpenClaw 手机...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-15",
-                "url": "https://www.ithome.com/0/929/345.htm"
+                "title": "被丑闻影响的普利兹克奖终于揭晓，而关于它的质疑也开始被更多讨论",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-03-16",
+                "url": "https://www.toodaylab.com/83954"
             },
             {
-                "title": "张志新的一双儿女 如今在哪里？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-15",
-                "url": "https://www.secretchina.com/news/gb/2026/03/16/1095936.html"
+                "title": "男子用SIM卡炼出190多克黄金 废旧SIM卡里真能提炼黄金吗",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553624.htm"
             },
             {
-                "title": "霍尔木兹海峡，谁的阿喀琉斯之踵？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-15",
-                "url": "https://www.ftchinese.com/story/001109197"
+                "title": "卡塔尔液化天然气停产引发连锁反应：全球氦气价格飙升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553620.htm"
             },
             {
                 "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTDhCanhtc1lmc3RTLUxiV2FCbFRBTFk3Z1pvWVRkT2dwUXRXREdfOUVmMkQ5aWlEN3JSek5Wam8zQWhfaHNZN1RuSzVNS3gxcHc?oc=5"
             },
             {
+                "title": "3000余件藏品诉说雷锋精神 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-17",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmNYMHM2VmlzbUJDaVJ5QldsenhLaTRzeGozUm1yQ2dsMmk1eTBJLTEtUTNHSDRlbk4xaEZzdzdSVWIyWUJORGljYzdwNDBuREhpUWRmeVI0NTJlVHRubDk1RnFOZVFSTlhGNHlYSXhQVV9DRWYtOUh0QnlVdmE5S2s1dXh6SXRSLTV6TW9hcVlETFdTVXg5RnhZMWxyaVQ2ZnVlUVdBLWlOQWtHNmg4Qm93ZWFBTTQ?oc=5"
+            },
+            {
                 "title": "第七十三集团军某旅党委严抓党员队伍教育管理的见闻与思考 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZV3cyOVFTQ2xNY2R3OU51M2JlS0FQbXFRSXN4VmxJbHB4TldCdndhT2dxVFhGaHJxak43MFFucEFZOUE1N1NYTFYzOHB6b2QwYkE?oc=5"
-            },
-            {
-                "title": "浪花里的年味 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0hNVzdYdUtPMU16Y0RXRExFalNuMGFBZVk1MzMyaExmbHFOaGVxdkk2SDlZRlphd3JhbnE2aDA4UmJsRFhUVnJXc29tWVFOTGhlS3l1cWdYaUtOTkdMRG95VHlLV2NLeEFEQU1xWmdvQjVQM0ptOHNMaVdvNFJOY25ocjc3cFk?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-17T01:55:13.316783+00:00"
+    "last_updated": "2026-03-17T07:00:34.916782+00:00"
 }
