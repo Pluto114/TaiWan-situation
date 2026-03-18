@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "8点1氪丨西贝获95亿元身家富豪入股；机票买贵可免费退，三大航司发布公告；“刘文祥”麻辣烫发文致歉",
-                "source": "NewsAPI / 36kr.com",
+                "title": "德国首台 AI 工厂超级计算机 HammerHAI 合同签署，年内投运",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://36kr.com/p/3726276875680388"
+                "url": "https://www.ithome.com/0/929/849.htm"
             },
             {
-                "title": "“黑色黄金”焕新，新兴赛道打开碳纤维成长空间",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-16",
-                "url": "https://36kr.com/newsflashes/3726267525167490"
-            },
-            {
-                "title": "IT早报 0317：OPPO、vivo 官宣涨价；3999 元苹果发布 AirPods Max 2 耳机；零跑汽车首度实现全年度盈利；英伟达 GTC 2026 大会汇总...",
+                "title": "晚 8 点开抢：苹果 Mac mini M4 京东 3805 元预约开启",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-16",
-                "url": "https://www.ithome.com/0/929/699.htm"
+                "date": "2026-03-17",
+                "url": "https://www.ithome.com/0/929/833.htm"
             },
             {
-                "title": "英伟达牵手比亚迪和吉利 加速全球自动驾驶出租车布局",
+                "title": "马斯克点赞Kimi新架构 Kimi幽默回应：你的火箭也不错",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553704.htm"
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553768.htm"
             },
             {
-                "title": "加速 L4 级自动驾驶落地：英伟达携手比亚迪、吉利等车企，提升汽车“智商”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-16",
-                "url": "https://www.ithome.com/0/929/689.htm"
+                "title": "欧盟祭出第2026/589号实施条例 制裁2名中国个人及2家中国企业",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553764.htm"
+            },
+            {
+                "title": "战火下的创业国度 以色列遭遇科技人才“大出走”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553740.htm"
             }
         ],
         "mil": [
+            {
+                "title": "纽约时报：英伟达开创了AI时代，现在要“守江山”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553732.htm"
+            },
+            {
+                "title": "马斯克用AI卖货，这家中国公司用AI管理18万个货架：无人零售进入“智能体时代”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-17",
+                "url": "https://36kr.com/p/3725309124786819"
+            },
+            {
+                "title": "OpenAI拟削减副业项目专注核心业务 以应对Anthropic竞争",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553722.htm"
+            },
             {
                 "title": "经纬、峰瑞投了一家智能乐器公司，瞄准大众音乐市场、年营收数亿 | 硬氪首发",
                 "source": "NewsAPI / 36kr.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-17",
                 "url": "https://36kr.com/p/3726276875680388"
-            },
-            {
-                "title": "IT早报 0317：OPPO、vivo 官宣涨价；3999 元苹果发布 AirPods Max 2 耳机；零跑汽车首度实现全年度盈利；英伟达 GTC 2026 大会汇总...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-16",
-                "url": "https://www.ithome.com/0/929/699.htm"
-            },
-            {
-                "title": "川习峰会或生变？美财长曝原因(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-16",
-                "url": "https://www.secretchina.com/news/gb/2026/03/17/1096424.html"
-            },
-            {
-                "title": "美国中央司令部司令介绍美军“史诗狂怒行动”最新战果",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-03-16",
-                "url": "https://www.voachinese.com/a/us-navy-adm-brad-cooper-commander-of-centcom-provides-an-update-on-operation-epic-fury-20260316/8126700.html"
             },
             {
                 "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -92,16 +92,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTDhCanhtc1lmc3RTLUxiV2FCbFRBTFk3Z1pvWVRkT2dwUXRXREdfOUVmMkQ5aWlEN3JSek5Wam8zQWhfaHNZN1RuSzVNS3gxcHc?oc=5"
-            },
-            {
                 "title": "3000余件藏品诉说雷锋精神 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-17",
                 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmNYMHM2VmlzbUJDaVJ5QldsenhLaTRzeGozUm1yQ2dsMmk1eTBJLTEtUTNHSDRlbk4xaEZzdzdSVWIyWUJORGljYzdwNDBuREhpUWRmeVI0NTJlVHRubDk1RnFOZVFSTlhGNHlYSXhQVV9DRWYtOUh0QnlVdmE5S2s1dXh6SXRSLTV6TW9hcVlETFdTVXg5RnhZMWxyaVQ2ZnVlUVdBLWlOQWtHNmg4Qm93ZWFBTTQ?oc=5"
+            },
+            {
+                "title": "网友点赞的军人为啥“帅” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXRROGRabnRwZUxwbjc4aE9UOUdja2NvY1pFZ25SQWVEU0phQjNCX3hrbHV0dkRXWXFOSFdTU3lfNUFZV29wVzJKVHVkUnI1MXI4ZE50ZlZ3a1NNMV9iTGJpRUhJMUZGb25mMnI0cWpoZERldWFxVXVFZWtsbWxFOVhseTFjTFY4WlUwLTVGNU95bWZKOHhUV2U2R3NnY0hCWVlGdU1fR1ZHTjEwYm43eTVR?oc=5"
             },
             {
                 "title": "第七十三集团军某旅党委严抓党员队伍教育管理的见闻与思考 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "经纬、峰瑞投了一家智能乐器公司，瞄准大众音乐市场、年营收数亿 | 硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3718250298029443"
-            },
-            {
-                "title": "36氪首发｜「Chowbus」获8100万美元融资，借力AI做北美餐饮品牌的SaaS首选",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3719657153459589"
-            },
-            {
-                "title": "8点1氪丨西贝获95亿元身家富豪入股；机票买贵可免费退，三大航司发布公告；“刘文祥”麻辣烫发文致歉",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3726276875680388"
-            },
-            {
-                "title": "IT早报 0317：OPPO、vivo 官宣涨价；3999 元苹果发布 AirPods Max 2 耳机；零跑汽车首度实现全年度盈利；英伟达 GTC 2026 大会汇总...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-16",
-                "url": "https://www.ithome.com/0/929/699.htm"
-            },
-            {
-                "title": "英伟达牵手比亚迪和吉利 加速全球自动驾驶出租车布局",
+                "title": "何小鹏称中国道路复杂程度十倍于美国 无惧特斯拉FSD",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553704.htm"
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553752.htm"
+            },
+            {
+                "title": "韩国女网红发言引热议：用三星让人厌恶 拍出的照片与iPhone有明显差异",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553746.htm"
+            },
+            {
+                "title": "战火下的创业国度 以色列遭遇科技人才“大出走”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553740.htm"
+            },
+            {
+                "title": "马斯克用AI卖货，这家中国公司用AI管理18万个货架：无人零售进入“智能体时代”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-17",
+                "url": "https://36kr.com/p/3725309124786819"
+            },
+            {
+                "title": "美国未成年少女起诉xAI制作并传播儿童色情内容",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553726.htm"
             },
             {
                 "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,16 +160,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "2026年上半年新兵运输工作全面启动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTDhCanhtc1lmc3RTLUxiV2FCbFRBTFk3Z1pvWVRkT2dwUXRXREdfOUVmMkQ5aWlEN3JSek5Wam8zQWhfaHNZN1RuSzVNS3gxcHc?oc=5"
-            },
-            {
                 "title": "3000余件藏品诉说雷锋精神 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-17",
                 "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmNYMHM2VmlzbUJDaVJ5QldsenhLaTRzeGozUm1yQ2dsMmk1eTBJLTEtUTNHSDRlbk4xaEZzdzdSVWIyWUJORGljYzdwNDBuREhpUWRmeVI0NTJlVHRubDk1RnFOZVFSTlhGNHlYSXhQVV9DRWYtOUh0QnlVdmE5S2s1dXh6SXRSLTV6TW9hcVlETFdTVXg5RnhZMWxyaVQ2ZnVlUVdBLWlOQWtHNmg4Qm93ZWFBTTQ?oc=5"
+            },
+            {
+                "title": "网友点赞的军人为啥“帅” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXRROGRabnRwZUxwbjc4aE9UOUdja2NvY1pFZ25SQWVEU0phQjNCX3hrbHV0dkRXWXFOSFdTU3lfNUFZV29wVzJKVHVkUnI1MXI4ZE50ZlZ3a1NNMV9iTGJpRUhJMUZGb25mMnI0cWpoZERldWFxVXVFZWtsbWxFOVhseTFjTFY4WlUwLTVGNU95bWZKOHhUV2U2R3NnY0hCWVlGdU1fR1ZHTjEwYm43eTVR?oc=5"
             },
             {
                 "title": "第七十三集团军某旅党委严抓党员队伍教育管理的见闻与思考 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-18T01:59:05.983009+00:00"
+    "last_updated": "2026-03-18T06:58:58.141334+00:00"
 }
