@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "德国首台 AI 工厂超级计算机 HammerHAI 合同签署，年内投运",
+                "title": "全球首款 AI 智能两轮电动车车机系统“小牛灵犀 AIOS”发布：支持手机无缝互联等功能",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/929/849.htm"
+                "url": "https://www.ithome.com/0/930/013.htm"
             },
             {
-                "title": "晚 8 点开抢：苹果 Mac mini M4 京东 3805 元预约开启",
+                "title": "华为乾崑启境 GT7 智能猎装车全球首秀，同步开启盲订",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/929/833.htm"
+                "url": "https://www.ithome.com/0/930/010.htm"
             },
             {
-                "title": "马斯克点赞Kimi新架构 Kimi幽默回应：你的火箭也不错",
+                "title": "全球首发无感折痕屏 OPPO Find N6发布：9999元起",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553768.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553830.htm"
             },
             {
-                "title": "欧盟祭出第2026/589号实施条例 制裁2名中国个人及2家中国企业",
+                "title": "特斯拉将向韩LG能源采购电池 大力打造北美电池供应链",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553764.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553828.htm"
             },
             {
-                "title": "战火下的创业国度 以色列遭遇科技人才“大出走”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "“全球最平整折叠屏手机”OPPO Find N6 发布：骁龙 8 Elite Gen5、丹霞色彩 + 哈苏影像，9999 元起",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553740.htm"
+                "url": "https://www.ithome.com/0/930/002.htm"
             }
         ],
         "mil": [
+            {
+                "title": "GDC上，中国游戏大厂秀了秀「AI肌肉」",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-17",
+                "url": "https://36kr.com/p/3726825272687241"
+            },
+            {
+                "title": "“空军一号”秘闻(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-17",
+                "url": "https://www.secretchina.com/news/gb/2026/03/17/1095374.html"
+            },
+            {
+                "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1553804.htm"
+            },
             {
                 "title": "纽约时报：英伟达开创了AI时代，现在要“守江山”",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,22 @@
                 "url": "https://36kr.com/p/3725309124786819"
             },
             {
-                "title": "OpenAI拟削减副业项目专注核心业务 以应对Anthropic竞争",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553722.htm"
-            },
-            {
-                "title": "经纬、峰瑞投了一家智能乐器公司，瞄准大众音乐市场、年营收数亿 | 硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3718250298029443"
-            },
-            {
-                "title": "8点1氪丨西贝获95亿元身家富豪入股；机票买贵可免费退，三大航司发布公告；“刘文祥”麻辣烫发文致歉",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3726276875680388"
-            },
-            {
-                "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vYzdwNEFUamphS05lZ3d0QnV4VVAza25Qay1SSjZKTFptWDZzelNjb200M2RpWGVjYmlJdVAxVFZrTDg5b2ZnSnpmbTJpSmxsT3BpZG5hQWtsV3poWDdHU1Y3bkkwcnlobDBTZWoxcjVLSHBmMlE?oc=5"
-            },
-            {
                 "title": "越共中央总书记苏林会见王毅一行 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-16",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wWVNYMXp2M3RuR2NXeUNqMUpabWRvTW5DRDdDUE9nMnVZQXZKLXpBX2RxOVJzNy05MlMzZGxPU3FFNnV0MGVQRXYwM1VEampxZzJTWnptSjdDNkUzYVJLQm1mRldNSVlNdVFNU2lR?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "国家主席习近平任免驻外大使 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-17",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53SUdHUkx1RjJmMkhISG9ZS3BJdlRhd3VRU3FBQ0kyTkVpUkp3TTJmaGYzTmFfdnN5dkxpdjdGb0ZHLXNDUXlqQml4V2psNlJibUVFeXdrUGRnOTdBeXVnOWZlWWR6QUM0Y0Npa3pnQ1o?oc=5"
+            },
+            {
+                "title": "林剑：中方决定向伊朗等四国提供紧急人道主义援助 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-17",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0pTSjltMmNPazdaMmtXNDg3YS1ZRnN0VGRSNl9Pa0tidnN1T1VxVGswbGcwZHFrWnczUWY2eVFWa09XMUM2MG9WdXdDTUlKd25kaVBTc1p1Tkd6OGExM2xYNHlJTFluTi0tMWo3WUIzUzc3Q01zV2pDZzhTZWd4N1dPSTU0bzQ4MmFoYmVjVmI?oc=5"
             },
             {
                 "title": "3000余件藏品诉说雷锋精神 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "何小鹏称中国道路复杂程度十倍于美国 无惧特斯拉FSD",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "全球首款 AI 智能两轮电动车车机系统“小牛灵犀 AIOS”发布：支持手机无缝互联等功能",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553752.htm"
+                "url": "https://www.ithome.com/0/930/013.htm"
             },
             {
-                "title": "韩国女网红发言引热议：用三星让人厌恶 拍出的照片与iPhone有明显差异",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "华为乾崑启境 GT7 智能猎装车全球首秀，同步开启盲订",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553746.htm"
+                "url": "https://www.ithome.com/0/930/010.htm"
             },
             {
-                "title": "战火下的创业国度 以色列遭遇科技人才“大出走”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553740.htm"
-            },
-            {
-                "title": "马斯克用AI卖货，这家中国公司用AI管理18万个货架：无人零售进入“智能体时代”",
+                "title": "透视滴滴2025年报：国际业务超预期，持续加码拉美市场",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-17",
-                "url": "https://36kr.com/p/3725309124786819"
+                "url": "https://36kr.com/p/3726781163682439"
             },
             {
-                "title": "美国未成年少女起诉xAI制作并传播儿童色情内容",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "GDC上，中国游戏大厂秀了秀「AI肌肉」",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553726.htm"
+                "url": "https://36kr.com/p/3726825272687241"
             },
             {
-                "title": "2026年3月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vYzdwNEFUamphS05lZ3d0QnV4VVAza25Qay1SSjZKTFptWDZzelNjb200M2RpWGVjYmlJdVAxVFZrTDg5b2ZnSnpmbTJpSmxsT3BpZG5hQWtsV3poWDdHU1Y3bkkwcnlobDBTZWoxcjVLSHBmMlE?oc=5"
+                "title": "累计票房 42.50 亿：韩寒赛车电影《飞驰人生 3》超《复仇者联盟 4》，进入中国影史票房榜 TOP10",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-17",
+                "url": "https://www.ithome.com/0/929/945.htm"
             },
             {
                 "title": "越共中央总书记苏林会见王毅一行 - mfa.gov.cn",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wWVNYMXp2M3RuR2NXeUNqMUpabWRvTW5DRDdDUE9nMnVZQXZKLXpBX2RxOVJzNy05MlMzZGxPU3FFNnV0MGVQRXYwM1VEampxZzJTWnptSjdDNkUzYVJLQm1mRldNSVlNdVFNU2lR?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "国家主席习近平任免驻外大使 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-03-17",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53SUdHUkx1RjJmMkhISG9ZS3BJdlRhd3VRU3FBQ0kyTkVpUkp3TTJmaGYzTmFfdnN5dkxpdjdGb0ZHLXNDUXlqQml4V2psNlJibUVFeXdrUGRnOTdBeXVnOWZlWWR6QUM0Y0Npa3pnQ1o?oc=5"
+            },
+            {
+                "title": "林剑：中方决定向伊朗等四国提供紧急人道主义援助 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-17",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0pTSjltMmNPazdaMmtXNDg3YS1ZRnN0VGRSNl9Pa0tidnN1T1VxVGswbGcwZHFrWnczUWY2eVFWa09XMUM2MG9WdXdDTUlKd25kaVBTc1p1Tkd6OGExM2xYNHlJTFluTi0tMWo3WUIzUzc3Q01zV2pDZzhTZWd4N1dPSTU0bzQ4MmFoYmVjVmI?oc=5"
             },
             {
                 "title": "3000余件藏品诉说雷锋精神 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-18T06:58:58.141334+00:00"
+    "last_updated": "2026-03-18T13:05:29.786149+00:00"
 }
