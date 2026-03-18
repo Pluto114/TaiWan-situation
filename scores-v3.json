@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "全球首款 AI 智能两轮电动车车机系统“小牛灵犀 AIOS”发布：支持手机无缝互联等功能",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中东战事如何重估全球LNG市场",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/930/013.htm"
+                "url": "https://www.ftchinese.com/story/001109213"
             },
             {
-                "title": "华为乾崑启境 GT7 智能猎装车全球首秀，同步开启盲订",
-                "source": "NewsAPI / Ithome.com",
+                "title": "伊朗扼住了世界的咽喉",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/930/010.htm"
+                "url": "https://www.ftchinese.com/story/001109215"
             },
             {
-                "title": "全球首发无感折痕屏 OPPO Find N6发布：9999元起",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国还是自由民主国家吗？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553830.htm"
+                "url": "https://www.ftchinese.com/story/001109220"
             },
             {
-                "title": "特斯拉将向韩LG能源采购电池 大力打造北美电池供应链",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "伊朗战事紧张 中国是否受益？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553828.htm"
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E7%B4%A7%E5%BC%A0-%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%90%A6%E5%8F%97%E7%9B%8A/a-76398852"
             },
             {
-                "title": "“全球最平整折叠屏手机”OPPO Find N6 发布：骁龙 8 Elite Gen5、丹霞色彩 + 哈苏影像，9999 元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "科氪｜不止平整，更懂高效！全球最平整折叠手机 OPPO Find N6 全球发布",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/930/002.htm"
+                "url": "https://36kr.com/p/3727140263410825"
             }
         ],
         "mil": [
+            {
+                "title": "美国还是自由民主国家吗？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-17",
+                "url": "https://www.ftchinese.com/story/001109220"
+            },
+            {
+                "title": "【IT之家评测室】无感折痕 + AI“外挂”，OPPO Find N6 体验评测",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-17",
+                "url": "https://www.ithome.com/0/930/025.htm"
+            },
             {
                 "title": "GDC上，中国游戏大厂秀了秀「AI肌肉」",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1553804.htm"
             },
             {
-                "title": "纽约时报：英伟达开创了AI时代，现在要“守江山”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1553732.htm"
-            },
-            {
-                "title": "马斯克用AI卖货，这家中国公司用AI管理18万个货架：无人零售进入“智能体时代”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3725309124786819"
-            },
-            {
-                "title": "越共中央总书记苏林会见王毅一行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wWVNYMXp2M3RuR2NXeUNqMUpabWRvTW5DRDdDUE9nMnVZQXZKLXpBX2RxOVJzNy05MlMzZGxPU3FFNnV0MGVQRXYwM1VEampxZzJTWnptSjdDNkUzYVJLQm1mRldNSVlNdVFNU2lR?oc=5"
-            },
-            {
                 "title": "国家主席习近平任免驻外大使 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-17",
                 "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53SUdHUkx1RjJmMkhISG9ZS3BJdlRhd3VRU3FBQ0kyTkVpUkp3TTJmaGYzTmFfdnN5dkxpdjdGb0ZHLXNDUXlqQml4V2psNlJibUVFeXdrUGRnOTdBeXVnOWZlWWR6QUM0Y0Npa3pnQ1o?oc=5"
             },
             {
-                "title": "林剑：中方决定向伊朗等四国提供紧急人道主义援助 - mfa.gov.cn",
+                "title": "林剑：不允许任何人为殖民张目，为侵略翻案 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-17",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0pTSjltMmNPazdaMmtXNDg3YS1ZRnN0VGRSNl9Pa0tidnN1T1VxVGswbGcwZHFrWnczUWY2eVFWa09XMUM2MG9WdXdDTUlKd25kaVBTc1p1Tkd6OGExM2xYNHlJTFluTi0tMWo3WUIzUzc3Q01zV2pDZzhTZWd4N1dPSTU0bzQ4MmFoYmVjVmI?oc=5"
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGhJOEgwS2hSVjlwYlZFeUdfdjBHR0tzTmxtUGJtQmJhRnAyMzJveG1yUHFPRnVVQUxkR2RvYTkxT3hxWExrT2NKSXVNdVBUYVFjLTVPUVMwVjNDOGNVRzBFV0hkMHBUZ2RuNnFqVlNzeUFqVXZoc1FWX3psRUlRbzA1SExQX3Q2OTZLWk9MaHA?oc=5"
+            },
+            {
+                "title": "习近平会见土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tX0lMekFIRUZ3cEp0NFRYM295clVmQ1laMkM5cjlYdFR2NGNOWG03RzByaGIyUGhKSFNFcm9JRXRjcmtVZGZXdUpsQ1RMc1hOajUwQlRhTm1LeS1JbS0wM1g2VWZrallIR0pB?oc=5"
             },
             {
                 "title": "3000余件藏品诉说雷锋精神 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "全球首款 AI 智能两轮电动车车机系统“小牛灵犀 AIOS”发布：支持手机无缝互联等功能",
+                "title": "中东战事如何重估全球LNG市场",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-17",
+                "url": "https://www.ftchinese.com/story/001109213"
+            },
+            {
+                "title": "美国还是自由民主国家吗？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-17",
+                "url": "https://www.ftchinese.com/story/001109220"
+            },
+            {
+                "title": "第 98 届奥斯卡金像奖迎来新晋“影帝”，还有女摄影师创造了新的历史",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-03-17",
+                "url": "https://www.toodaylab.com/83956"
+            },
+            {
+                "title": "日产加入丰田、本田的行列，将美国制造的汽车反向进口至日本",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/930/013.htm"
+                "url": "https://www.ithome.com/0/930/027.htm"
             },
             {
-                "title": "华为乾崑启境 GT7 智能猎装车全球首秀，同步开启盲订",
+                "title": "【IT之家评测室】无感折痕 + AI“外挂”，OPPO Find N6 体验评测",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/930/010.htm"
-            },
-            {
-                "title": "透视滴滴2025年报：国际业务超预期，持续加码拉美市场",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3726781163682439"
-            },
-            {
-                "title": "GDC上，中国游戏大厂秀了秀「AI肌肉」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-17",
-                "url": "https://36kr.com/p/3726825272687241"
-            },
-            {
-                "title": "累计票房 42.50 亿：韩寒赛车电影《飞驰人生 3》超《复仇者联盟 4》，进入中国影史票房榜 TOP10",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-17",
-                "url": "https://www.ithome.com/0/929/945.htm"
-            },
-            {
-                "title": "越共中央总书记苏林会见王毅一行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wWVNYMXp2M3RuR2NXeUNqMUpabWRvTW5DRDdDUE9nMnVZQXZKLXpBX2RxOVJzNy05MlMzZGxPU3FFNnV0MGVQRXYwM1VEampxZzJTWnptSjdDNkUzYVJLQm1mRldNSVlNdVFNU2lR?oc=5"
+                "url": "https://www.ithome.com/0/930/025.htm"
             },
             {
                 "title": "国家主席习近平任免驻外大使 - mfa.gov.cn",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53SUdHUkx1RjJmMkhISG9ZS3BJdlRhd3VRU3FBQ0kyTkVpUkp3TTJmaGYzTmFfdnN5dkxpdjdGb0ZHLXNDUXlqQml4V2psNlJibUVFeXdrUGRnOTdBeXVnOWZlWWR6QUM0Y0Npa3pnQ1o?oc=5"
             },
             {
-                "title": "林剑：中方决定向伊朗等四国提供紧急人道主义援助 - mfa.gov.cn",
+                "title": "林剑：不允许任何人为殖民张目，为侵略翻案 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-17",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0pTSjltMmNPazdaMmtXNDg3YS1ZRnN0VGRSNl9Pa0tidnN1T1VxVGswbGcwZHFrWnczUWY2eVFWa09XMUM2MG9WdXdDTUlKd25kaVBTc1p1Tkd6OGExM2xYNHlJTFluTi0tMWo3WUIzUzc3Q01zV2pDZzhTZWd4N1dPSTU0bzQ4MmFoYmVjVmI?oc=5"
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGhJOEgwS2hSVjlwYlZFeUdfdjBHR0tzTmxtUGJtQmJhRnAyMzJveG1yUHFPRnVVQUxkR2RvYTkxT3hxWExrT2NKSXVNdVBUYVFjLTVPUVMwVjNDOGNVRzBFV0hkMHBUZ2RuNnFqVlNzeUFqVXZoc1FWX3psRUlRbzA1SExQX3Q2OTZLWk9MaHA?oc=5"
+            },
+            {
+                "title": "习近平会见土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tX0lMekFIRUZ3cEp0NFRYM295clVmQ1laMkM5cjlYdFR2NGNOWG03RzByaGIyUGhKSFNFcm9JRXRjcmtVZGZXdUpsQ1RMc1hOajUwQlRhTm1LeS1JbS0wM1g2VWZrallIR0pB?oc=5"
             },
             {
                 "title": "3000余件藏品诉说雷锋精神 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-18T13:05:29.786149+00:00"
+    "last_updated": "2026-03-18T18:55:26.320110+00:00"
 }
