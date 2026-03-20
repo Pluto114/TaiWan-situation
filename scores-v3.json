@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "腾讯不愿在微信里躺平",
+                "title": "消息称三星将向 OpenAI 供应 HBM4 芯片，用于后者首款自研 AI 处理器",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-19",
+                "url": "https://www.ithome.com/0/930/771.htm"
+            },
+            {
+                "title": "《2026年世界幸福报告》指出算法主导的社交媒体损害青少年心理健康",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554102.htm"
+            },
+            {
+                "title": "黄仁勋亲口证实多家中国客户采购H200 已重启生产",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554100.htm"
+            },
+            {
+                "title": "电动汽车市场遇冷 电池厂商转向电网与数据中心储能业务",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554098.htm"
+            },
+            {
+                "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-19",
-                "url": "https://36kr.com/p/3729475100917126"
-            },
-            {
-                "title": "揭秘蔚来芯片分拆始末，正积极接触多头部车企 | 36氪独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-19",
-                "url": "https://36kr.com/p/3729446000967304"
-            },
-            {
-                "title": "贾国龙隐身两月携新品牌归来：希望能承接部分西贝门店和员工",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554030.htm"
-            },
-            {
-                "title": "苹果AI收入将超10亿美元 ChatGPT是大金主 技术落后并不耽误赚钱",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554012.htm"
-            },
-            {
-                "title": "与特朗普关系被批评 苹果CEO库克回应：我不搞政治",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554006.htm"
+                "url": "https://36kr.com/p/3729727275220613"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-19",
+                "url": "https://36kr.com/p/3729727275220613"
+            },
+            {
+                "title": "委内瑞拉首夺WBC冠军 川普发文引热议(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-19",
+                "url": "https://www.secretchina.com/news/gb/2026/03/19/1096521.html"
+            },
+            {
+                "title": "超级创业者时代：如何让个人拥有组织级能力",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-19",
+                "url": "https://36kr.com/p/3729545296559749"
+            },
             {
                 "title": "战争很可能发生 卢秀燕强调美国是维护台海和平重要战略伙伴(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,34 +74,10 @@
                 "url": "https://36kr.com/p/3729475100917126"
             },
             {
-                "title": "揭秘蔚来芯片分拆始末，正积极接触多头部车企 | 36氪独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-19",
-                "url": "https://36kr.com/p/3729446000967304"
-            },
-            {
-                "title": "Altman发帖“感谢程序员”引发群嘲：“因为你要失业去挖煤了”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554018.htm"
-            },
-            {
-                "title": "xTool老对手回看来时路：当一个先行者站在十字路口 | 36氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-19",
-                "url": "https://36kr.com/p/3728694314090117"
-            },
-            {
-                "title": "习近平会见土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tX0lMekFIRUZ3cEp0NFRYM295clVmQ1laMkM5cjlYdFR2NGNOWG03RzByaGIyUGhKSFNFcm9JRXRjcmtVZGZXdUpsQ1RMc1hOajUwQlRhTm1LeS1JbS0wM1g2VWZrallIR0pB?oc=5"
-            },
-            {
-                "title": "林剑：中方欢迎巴基斯坦、阿富汗临时停火（2026年3月19日） - mfa.gov.cn",
+                "title": "林剑：中方对阿努廷先生连任泰国总理表示祝贺（2026年3月19日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-19",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWZUOFVVcHJpNmZOb2hwcEpBTklDdGlXSlJMdlRGNXR4c2RqVVVTSXNmTUd5S2FZRVlqeExBS3I0dlEzYkdrZ3dvYWl2VlRVQ2RKd1VNZGxZQ2UtZEl5OEVncGdPRGk0NF9rRTZxSjB2bnpxNTZlRlVZZ0NBZHktOXJ6cFV3TmVwVWFDMEd1ZDI?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVy1IQzNNQjdxbFF5Mm9uWVhJMEdCTDN6U1ZtNzhSb3RBV3M1bl9zNTdMYml6Tjd1X0cxR0E0Z3VxbVM4WGNGbDFnWVIwV2J2VjQwMEhlcEpycDF3MDJReXdoY3VmRnMzNHNhWjlUYmQ3dHRYTUlsVE1tamJLZ0owcndZeXBiNTdYYWNRN3VsN2o?oc=5"
             },
             {
                 "title": "共聆国乐雅韵 齐绽时代芳华 ——驻法国使馆“三八”国际妇女节招待会侧记 - mfa.gov.cn",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREp5ekdyeHc4SkFQQVlWS084R09PTmdjYW55cC1GSHBWa0lydHpRSy11RzFSUTZFVHpkTk84a295Wk9MYVpqemxOeXFUSzVhQ2s2RVhFbW1qcmJkZ05ab19qZ3lhX3BUcXl3UUc4UjVKakFYMV9TSWRRLUJvWWN3dUttc2g?oc=5"
             },
             {
-                "title": "今年全军将组织2100余场次军营开放活动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "驻马耳他大使张佐会见马罕见病联盟主席 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IZC1CQk5ObnJkbGRwVF9zYzExMkVBMDJXRHN3cWZwZkFKXzdKb1dwa1U0TmlMUW9jcWNoWlgxTEtRSmRlZjh2MTRyemVtbUdPTnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamJTU29FUGl2clktcWJmd1l3NndqMVp6TG9mNmFtczMxUGNUdldPNDFWVDdRVHdvTm1tMDRXWW5rd0lwZDZ4UTMzTUxkUVdLU3B4cU0zdW9tUUxIV25Eam9EWDczX09pU3FDTlZ1dWd3YVhyQUlzOUM1dDkycV8xWmdVa2Q?oc=5"
             },
             {
                 "title": "精准捕捉官兵异常状态，“智能健康哨兵”走进演训场 - 中国军网",
@@ -108,50 +102,50 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-18",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WeHlMSFZSVTRmanhQN3A4V0M4R2JjSVdwUzBpWG9hUEN2eUFTbEd1d2xCRmNJTTg1WllIWlRybWJoTVVoWDdIUno1NjUxZnJMQ2c?oc=5"
+            },
+            {
+                "title": "打牢思想根基，始终对党忠贞不渝 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WnZUVENEOXFTMWNQa0JCWW82dFg5SExjLVA4R1BGNzZvZzk3ajFmaXZFTjc5S1VRQ0xrbXpsc0M2LWI3dlZTRWRsb0lneVJLZ0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "同一问题问10次会让ChatGPT怀疑人生 多次自相矛盾",
+                "title": "电动汽车市场遇冷 电池厂商转向电网与数据中心储能业务",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554066.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554098.htm"
             },
             {
-                "title": "腾讯不愿在微信里躺平",
+                "title": "耿爽任新职后首露面 习转变战狼外交 罢免四驻外大使(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-19",
+                "url": "https://www.secretchina.com/news/gb/2026/03/19/1096565.html"
+            },
+            {
+                "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-19",
-                "url": "https://36kr.com/p/3729475100917126"
+                "url": "https://36kr.com/p/3729727275220613"
             },
             {
-                "title": "奥迪A5L全域智混版Quattro上市：入手价32.48万元 PPC平台首款力作",
+                "title": "日本百年光学巨头面临巨额亏损 光刻机业务彻底溃败",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554036.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554090.htm"
             },
             {
-                "title": "揭秘蔚来芯片分拆始末，正积极接触多头部车企 | 36氪独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "韩国矮化称“中国台湾”台湾这招反制全网赞爆(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-19",
-                "url": "https://36kr.com/p/3729446000967304"
+                "url": "https://www.secretchina.com/news/gb/2026/03/19/1096554.html"
             },
             {
-                "title": "寿司郎爆火 前方等位3200桌 黄牛号120元一个",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554034.htm"
-            },
-            {
-                "title": "习近平会见土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tX0lMekFIRUZ3cEp0NFRYM295clVmQ1laMkM5cjlYdFR2NGNOWG03RzByaGIyUGhKSFNFcm9JRXRjcmtVZGZXdUpsQ1RMc1hOajUwQlRhTm1LeS1JbS0wM1g2VWZrallIR0pB?oc=5"
-            },
-            {
-                "title": "林剑：中方欢迎巴基斯坦、阿富汗临时停火（2026年3月19日） - mfa.gov.cn",
+                "title": "林剑：中方对阿努廷先生连任泰国总理表示祝贺（2026年3月19日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-19",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWZUOFVVcHJpNmZOb2hwcEpBTklDdGlXSlJMdlRGNXR4c2RqVVVTSXNmTUd5S2FZRVlqeExBS3I0dlEzYkdrZ3dvYWl2VlRVQ2RKd1VNZGxZQ2UtZEl5OEVncGdPRGk0NF9rRTZxSjB2bnpxNTZlRlVZZ0NBZHktOXJ6cFV3TmVwVWFDMEd1ZDI?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVy1IQzNNQjdxbFF5Mm9uWVhJMEdCTDN6U1ZtNzhSb3RBV3M1bl9zNTdMYml6Tjd1X0cxR0E0Z3VxbVM4WGNGbDFnWVIwV2J2VjQwMEhlcEpycDF3MDJReXdoY3VmRnMzNHNhWjlUYmQ3dHRYTUlsVE1tamJLZ0owcndZeXBiNTdYYWNRN3VsN2o?oc=5"
             },
             {
                 "title": "共聆国乐雅韵 齐绽时代芳华 ——驻法国使馆“三八”国际妇女节招待会侧记 - mfa.gov.cn",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREp5ekdyeHc4SkFQQVlWS084R09PTmdjYW55cC1GSHBWa0lydHpRSy11RzFSUTZFVHpkTk84a295Wk9MYVpqemxOeXFUSzVhQ2s2RVhFbW1qcmJkZ05ab19qZ3lhX3BUcXl3UUc4UjVKakFYMV9TSWRRLUJvWWN3dUttc2g?oc=5"
             },
             {
-                "title": "今年全军将组织2100余场次军营开放活动 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "驻马耳他大使张佐会见马罕见病联盟主席 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IZC1CQk5ObnJkbGRwVF9zYzExMkVBMDJXRHN3cWZwZkFKXzdKb1dwa1U0TmlMUW9jcWNoWlgxTEtRSmRlZjh2MTRyemVtbUdPTnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamJTU29FUGl2clktcWJmd1l3NndqMVp6TG9mNmFtczMxUGNUdldPNDFWVDdRVHdvTm1tMDRXWW5rd0lwZDZ4UTMzTUxkUVdLU3B4cU0zdW9tUUxIV25Eam9EWDczX09pU3FDTlZ1dWd3YVhyQUlzOUM1dDkycV8xWmdVa2Q?oc=5"
             },
             {
                 "title": "精准捕捉官兵异常状态，“智能健康哨兵”走进演训场 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-18",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WeHlMSFZSVTRmanhQN3A4V0M4R2JjSVdwUzBpWG9hUEN2eUFTbEd1d2xCRmNJTTg1WllIWlRybWJoTVVoWDdIUno1NjUxZnJMQ2c?oc=5"
+            },
+            {
+                "title": "打牢思想根基，始终对党忠贞不渝 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WnZUVENEOXFTMWNQa0JCWW82dFg5SExjLVA4R1BGNzZvZzk3ajFmaXZFTjc5S1VRQ0xrbXpsc0M2LWI3dlZTRWRsb0lneVJLZ0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-20T06:51:47.154973+00:00"
+    "last_updated": "2026-03-20T12:54:15.574864+00:00"
 }
