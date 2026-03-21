@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国检方起诉超微电脑员工涉嫌非法向中国走私英伟达芯片服务器",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554212.htm"
-            },
-            {
-                "title": "川普會晤高市早苗稱：將在習近平面前為日本美言",
+                "title": "伊朗战争影响： 中国从通缩到“不良通胀”？",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-03-20",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E5%B0%86%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%A2%E5%89%8D%E4%B8%BA%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A8%80/a-76443357"
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%BD%B1%E5%93%8D-%E4%B8%AD%E5%9B%BD%E4%BB%8E%E9%80%9A%E7%BC%A9%E5%88%B0%E4%B8%8D%E8%89%AF%E9%80%9A%E8%83%80/a-76449096"
             },
             {
-                "title": "黄仁勋回应Anthropic与美军方争执：科技领袖不要制造AI恐慌",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554170.htm"
+                "url": "https://36kr.com/p/3731169592918273"
             },
             {
-                "title": "Google已告知员工会争取更多国家安全合同",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554162.htm"
-            },
-            {
-                "title": "QuickLogic 宣布获得客户 Intel 18A 制程工艺芯片嵌入式 FPGA IP 合同",
+                "title": "比亚迪公布闪充站进展：3 月 13 日-19 日新建 288 座，全国 291 城累计建成 4885 座",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-20",
-                "url": "https://www.ithome.com/0/930/950.htm"
+                "url": "https://www.ithome.com/0/931/131.htm"
+            },
+            {
+                "title": "美国在建数据中心价值达451亿美元 首次超越传统办公楼项目",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554254.htm"
+            },
+            {
+                "title": "阿迪达斯，不看好2026的自己",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-20",
+                "url": "https://36kr.com/p/3731096049795078"
             }
         ],
         "mil": [
             {
-                "title": "黄仁勋回应Anthropic与美军方争执：科技领袖不要制造AI恐慌",
+                "title": "阿迪达斯，不看好2026的自己",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-20",
+                "url": "https://36kr.com/p/3731096049795078"
+            },
+            {
+                "title": "研究揭露扎心真相：用户平均醒来47秒就解锁手机",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554170.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554246.htm"
             },
             {
-                "title": "Google已告知员工会争取更多国家安全合同",
+                "title": "法国海军军官在航母甲板跑步并分享记录 精确泄露航母位置",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554162.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554242.htm"
             },
             {
-                "title": "华为成立传媒军团：公司副总裁岳坤为 CEO，杜仲夏出任总裁",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-20",
-                "url": "https://www.ithome.com/0/930/941.htm"
-            },
-            {
-                "title": "美媒：TP-Link CEO赵建军申请“特朗普金卡”签证 欲移民美国",
+                "title": "乌克兰无人机公司登陆美股 两天狂涨1100%成妖股",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554160.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554236.htm"
             },
             {
-                "title": "越南总理敦促加快向电动汽车转型 以减少对进口石油产品的依赖",
+                "title": "20天狂发90帖 特朗普在Truth Social大谈伊朗战争",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554148.htm"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554222.htm"
             },
             {
                 "title": "王毅同英国外交大臣库珀通电话 - mfa.gov.cn",
@@ -86,66 +80,66 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhZngzSlRDOVNpYnEzMkRUU2JxVERCUkpGQmJsU19sSFlFZUlZRTZGakpIc1B0LUk3SU5lUEZUQVQ5UFlKQTcxOEh1ZERhSVRDOEowVWdCQkNDYzd1ZlAzQWgtZElYbFhoSlZSR0lB?oc=5"
             },
             {
-                "title": "林剑：中方祝贺尼泊尔完成联邦议会众议院选举（2026年3月20日） - mfa.gov.cn",
+                "title": "林剑：在科技赢得未来的路上，中国愿同世界携手同行（2026年3月20日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-20",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVdkcUQ5QTV1a1h6Zk1nR290TUJjYTRENnY3dDBEa0pQTmdmZzY0UjlGaU1DRFQ3Z1ptb1I4Wk83ekd1MTRVMzJ5UUVkX1Q3QzFRcHZ3R3FLblZMaF9FeEdMWndwQUJ2Y1NVVzl6eWNublRqcmhMX0hlRG1IR2JnTlo3bm9RSXlQazdrY2FwR2s?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFFralJqUkJHT1dNdnhVZjl6SlJYXzlhbzV0cDlsQ3JEejRsal9rbW41ZU5ndlpqcW9nV1daQTZKNGptR0g1S2t5R1RQY01BRFZYeldBank4SEU4VnZLTF8tYVhKZGI0OFliSWd2dmtJWWlvVWY3Y0hJT3pxWjBUMTJzZDEzc2hieG1rTlhWUFk?oc=5"
             },
             {
-                "title": "山水相连 命运与共 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-19",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUFOLTlSbzBsWS1PbTBPaXRzVHIyTUk5c0E0akVSZEhiQ19GaW1MVktKVXVHaElhT1YtS0loZWRpWVQyeHlKSkZnNGppa3pLZWszNHVRYndHa0xBbm9FQ1JiTm5VX0Nub29TNXRuT183WGFsQkgxVE80bmJYakVGZ3N6QUttODZ4QzM2ZW9EdWtac1ZVZHNMVGc5UGx4dkpmbUpBTlRUZWhfWkRza3k0WG13?oc=5"
-            },
-            {
-                "title": "让新风气远离“人情的负担” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-19",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUm9Mc25fLXJnS3hxMmcxbWMtTU8zVzg0SUtNYVpfRWh3c2dJSnUybVo0dEgyRU1xVWk5WTJ1UEc0MFdTUVVuM1YxOC1kSnZodDhUZzJYWkp3dzhWYmVpV1h1MllTTUk3R1JjUFZ5cVVqY1VtR2NBWUMzSGlZS1g1UzlxUGl1d2d0eGxiZmVWYzRvcVl2VGNTSDBvb1JfczZLV0p3cFRxcnNhLVRGZE8yYTln?oc=5"
+                "title": "中非合作论坛事务大使刘豫锡出席毛里求斯独立日招待会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-20",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXl0VGVINFNHTWlCOHhLcC1NNHctZWI4VVZZcC0zYllXUi1NVUhhd3RhQWRBWGp2ajF4b0trNkdjUFhkX2JQTVVaeEFiQ0xZUUZwd24tU2ZVSVlFMDV1cDZfbVZFalZjNkJVeUFlLTVXeVBfN0xQSHFTcXFraXBTVVpTNnBZckoxWGc?oc=5"
             },
             {
                 "title": "中越举行外交、国防、公安“3+3”战略对话机制首次部长级会议——携手构建命运共同体强化安全合作新高度 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUVlCNVZlVmZuTUJXV3BrM05yWENHbHFfVFV1cjFfSXBqTWczTU9MQlFYT1RGQ2s4cUZpc2plaXYxeFltNUhtejVXM2JGeDhiYkE?oc=5"
+            },
+            {
+                "title": "学习手记·树立和践行正确政绩观 | 既要做显功，也要做潜功 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TWI2Ni0ybndScFgxd05lSnVfSmJnZUY1UlB3OWVoOUd6Mk1CWU5OaGpURkxUV3JqUjVzVFh1akdhd2hVUUc5NlhDTDR0elRUbVE?oc=5"
+            },
+            {
+                "title": "老兵天地丨崇高敬意献给天山筑路人 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRGRleXZuTGxyLV9QZ1Nqd3BicTVPZ1p5YmZnaHVMTWlSNHUtemFhbDlXd0dsY3RvTUFMWjhhTmY5NEN5MDhKUUVpVWFVZlFmY1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美国检方起诉超微电脑员工涉嫌非法向中国走私英伟达芯片服务器",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "伊朗战争影响： 中国从通缩到“不良通胀”？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554212.htm"
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%BD%B1%E5%93%8D-%E4%B8%AD%E5%9B%BD%E4%BB%8E%E9%80%9A%E7%BC%A9%E5%88%B0%E4%B8%8D%E8%89%AF%E9%80%9A%E8%83%80/a-76449096"
             },
             {
-                "title": "亚马逊收购初创公司 Rivr 测试用于“上门配送”的机器人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554150.htm"
-            },
-            {
-                "title": "越南总理敦促加快向电动汽车转型 以减少对进口石油产品的依赖",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554148.htm"
-            },
-            {
-                "title": "傅盛深夜微信群怒斥周鸿祎欠债数亿不还 还爆粗口",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554146.htm"
-            },
-            {
-                "title": "机构：泰国近期旅游业势头或将减弱",
+                "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-20",
-                "url": "https://36kr.com/newsflashes/3730765402259464"
+                "url": "https://36kr.com/p/3731169592918273"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "title": "毛宁在X平台炫耀中国学校“午睡神器” 遭群讽(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-20",
+                "url": "https://www.secretchina.com/news/gb/2026/03/20/1096607.html"
+            },
+            {
+                "title": "“高危职位”：重庆市长胡衡华落马",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-20",
+                "url": "https://www.dw.com/zh/%E9%AB%98%E5%8D%B1%E8%81%8C%E4%BD%8D%E9%87%8D%E5%BA%86%E5%B8%82%E9%95%BF%E8%83%A1%E8%A1%A1%E5%8D%8E%E8%90%BD%E9%A9%AC/a-76448237"
+            },
+            {
+                "title": "阿迪达斯，不看好2026的自己",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-20",
+                "url": "https://36kr.com/p/3731096049795078"
             },
             {
                 "title": "王毅同英国外交大臣库珀通电话 - mfa.gov.cn",
@@ -154,31 +148,37 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhZngzSlRDOVNpYnEzMkRUU2JxVERCUkpGQmJsU19sSFlFZUlZRTZGakpIc1B0LUk3SU5lUEZUQVQ5UFlKQTcxOEh1ZERhSVRDOEowVWdCQkNDYzd1ZlAzQWgtZElYbFhoSlZSR0lB?oc=5"
             },
             {
-                "title": "林剑：中方祝贺尼泊尔完成联邦议会众议院选举（2026年3月20日） - mfa.gov.cn",
+                "title": "林剑：在科技赢得未来的路上，中国愿同世界携手同行（2026年3月20日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-20",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVdkcUQ5QTV1a1h6Zk1nR290TUJjYTRENnY3dDBEa0pQTmdmZzY0UjlGaU1DRFQ3Z1ptb1I4Wk83ekd1MTRVMzJ5UUVkX1Q3QzFRcHZ3R3FLblZMaF9FeEdMWndwQUJ2Y1NVVzl6eWNublRqcmhMX0hlRG1IR2JnTlo3bm9RSXlQazdrY2FwR2s?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFFralJqUkJHT1dNdnhVZjl6SlJYXzlhbzV0cDlsQ3JEejRsal9rbW41ZU5ndlpqcW9nV1daQTZKNGptR0g1S2t5R1RQY01BRFZYeldBank4SEU4VnZLTF8tYVhKZGI0OFliSWd2dmtJWWlvVWY3Y0hJT3pxWjBUMTJzZDEzc2hieG1rTlhWUFk?oc=5"
             },
             {
-                "title": "山水相连 命运与共 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-19",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUFOLTlSbzBsWS1PbTBPaXRzVHIyTUk5c0E0akVSZEhiQ19GaW1MVktKVXVHaElhT1YtS0loZWRpWVQyeHlKSkZnNGppa3pLZWszNHVRYndHa0xBbm9FQ1JiTm5VX0Nub29TNXRuT183WGFsQkgxVE80bmJYakVGZ3N6QUttODZ4QzM2ZW9EdWtac1ZVZHNMVGc5UGx4dkpmbUpBTlRUZWhfWkRza3k0WG13?oc=5"
-            },
-            {
-                "title": "让新风气远离“人情的负担” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-19",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUm9Mc25fLXJnS3hxMmcxbWMtTU8zVzg0SUtNYVpfRWh3c2dJSnUybVo0dEgyRU1xVWk5WTJ1UEc0MFdTUVVuM1YxOC1kSnZodDhUZzJYWkp3dzhWYmVpV1h1MllTTUk3R1JjUFZ5cVVqY1VtR2NBWUMzSGlZS1g1UzlxUGl1d2d0eGxiZmVWYzRvcVl2VGNTSDBvb1JfczZLV0p3cFRxcnNhLVRGZE8yYTln?oc=5"
+                "title": "中非合作论坛事务大使刘豫锡出席毛里求斯独立日招待会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-20",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXl0VGVINFNHTWlCOHhLcC1NNHctZWI4VVZZcC0zYllXUi1NVUhhd3RhQWRBWGp2ajF4b0trNkdjUFhkX2JQTVVaeEFiQ0xZUUZwd24tU2ZVSVlFMDV1cDZfbVZFalZjNkJVeUFlLTVXeVBfN0xQSHFTcXFraXBTVVpTNnBZckoxWGc?oc=5"
             },
             {
                 "title": "中越举行外交、国防、公安“3+3”战略对话机制首次部长级会议——携手构建命运共同体强化安全合作新高度 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUVlCNVZlVmZuTUJXV3BrM05yWENHbHFfVFV1cjFfSXBqTWczTU9MQlFYT1RGQ2s4cUZpc2plaXYxeFltNUhtejVXM2JGeDhiYkE?oc=5"
+            },
+            {
+                "title": "学习手记·树立和践行正确政绩观 | 既要做显功，也要做潜功 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TWI2Ni0ybndScFgxd05lSnVfSmJnZUY1UlB3OWVoOUd6Mk1CWU5OaGpURkxUV3JqUjVzVFh1akdhd2hVUUc5NlhDTDR0elRUbVE?oc=5"
+            },
+            {
+                "title": "老兵天地丨崇高敬意献给天山筑路人 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRGRleXZuTGxyLV9QZ1Nqd3BicTVPZ1p5YmZnaHVMTWlSNHUtemFhbDlXd0dsY3RvTUFMWjhhTmY5NEN5MDhKUUVpVWFVZlFmY1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-21T06:38:37.574011+00:00"
+    "last_updated": "2026-03-21T12:41:54.836953+00:00"
 }
