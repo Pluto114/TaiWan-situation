@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "马斯克官宣 TERAFAB 自建晶圆厂明日正式揭晓：SpaceX 与特斯拉联合打造太瓦级算力产能，太空应用占八成",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/373.htm"
+            },
+            {
+                "title": "IT早报 0322：中国车企全球销量 20 多年来首次超日本；小米 SU7、YU7 测试车现身欧洲；库克回应 OpenClaw 带动 Mac mini 大卖；微软公布 Win11 性能提速计划...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-21",
+                "url": "https://www.ithome.com/0/931/367.htm"
+            },
+            {
+                "title": "华为发布新一代算力加速卡昇腾950PR 性能近3倍于H20、支持FP4",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554374.htm"
+            },
+            {
                 "title": "时隔近六年，Epic《堡垒之夜》回归谷歌 Play 应用商店",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-21",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-21",
                 "url": "https://www.ithome.com/0/931/355.htm"
-            },
-            {
-                "title": "比亚迪新款元 PLUS“ATTO 3 Evo”英国上市：3.9 万英镑起售，还有 443 马力双电机版",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-21",
-                "url": "https://www.ithome.com/0/931/350.htm"
-            },
-            {
-                "title": "伊朗石油解禁：特朗普自己“打脸”，中国小炼油厂“躺枪”？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-03-21",
-                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E8%A7%A3%E7%A6%81%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E5%B7%B1%E6%89%93%E8%84%B8%E4%B8%AD%E5%9B%BD%E5%B0%8F%E7%82%BC%E6%B2%B9%E5%8E%82%E8%BA%BA%E6%9E%AA/a-76465944"
-            },
-            {
-                "title": "Anthropic提交最新法庭文件 揭露五角大楼切断合作背后的谈判内幕",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554360.htm"
             }
         ],
         "mil": [
+            {
+                "title": "胡衡华难逃山城魔咒？出事前反常 袁家军瑟瑟发抖？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-22",
+                "url": "https://www.secretchina.com/news/gb/2026/03/22/1096667.html"
+            },
+            {
+                "title": "IT早报 0322：中国车企全球销量 20 多年来首次超日本；小米 SU7、YU7 测试车现身欧洲；库克回应 OpenClaw 带动 Mac mini 大卖；微软公布 Win11 性能提速计划...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-21",
+                "url": "https://www.ithome.com/0/931/367.htm"
+            },
             {
                 "title": "地面战阴影浮现：对伊冲突逼近关键抉择时刻(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/03/21/1096646.html"
             },
             {
-                "title": "全球龙虾批量黑化 Meta安全事故击穿硅谷心脏",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554318.htm"
-            },
-            {
-                "title": "消息人士：特朗普正制定方案夺取伊朗核材料储备",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554302.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平向拉美和加勒比国家共同体第十届峰会致贺电 - mfa.gov.cn",
@@ -80,16 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NZ1NvYmxBN041dTlzWi1WWnpidWtGQXcwUkFVSEQ2MnhkSnl5M1hoSS1SWVB6TF92SmZ1NGhDQUNvMUpjQnB3a2RXUkM4VFhfRWxDOXB3S2JFTFJkM05OTHdlUUZXdExaZlo4?oc=5"
             },
             {
-                "title": "发言人有关谈话 - mfa.gov.cn",
+                "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-21",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMmtQOXUxLWxqWTJPTFo1UGRld2V4RU5CZWxWS21UckVvbUp1aTBITWNYMEMzS0FtTHJpQkFGUDZGNWpyd0RoUEJ3c1RGSVdLYUhlZkpabUM4Y0kybXVwMkZYckdtc3JmLXk1RDEwemFqblRrM2NMM1dGajVLVGlxZVpPMDZUWVNzcVpNVVZOb1YxUTBDZXhqYkZBOA?oc=5"
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczRXVWNZUHVtaVBTVFFqSUxWaGJhOThZREdSbjRvN3gwbHZGU3ZtTm9aVktmTGQzYU03Z0ptSk1VUTRJVW1SQWNFRHVjcXdLLWU0Um10YklBNHRjMDhNYVhoMTRJVk5RRlBZSUliWWlIZlduN21HQWh1Qm5Mb0RLSVZGT0drOGNi?oc=5"
             },
             {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
+                "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaXNqVGFRanRNR0E2OWtQcnJua0pIeDFzamM4TDRzQ01yZVBrM2VyTTc3cHpudVk4VlFTbDRIclY1OV9xR2pkUElQREkwUjBlY2c?oc=5"
             },
             {
                 "title": "第76集团军某旅组织预选军士入队选拔考核 - 中国军网",
@@ -102,15 +108,21 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3ZFVNRXRWQXdsYzFLSWFLd28ydlU2MHZNV1hmbWpjVmRsamNOR1pDTUwwQjVHTjMtRjE4RE9MblNrLTR5LVk5NHZBTk9nM3pETHc?oc=5"
-            },
-            {
-                "title": "老兵天地丨崇高敬意献给天山筑路人 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRGRleXZuTGxyLV9QZ1Nqd3BicTVPZ1p5YmZnaHVMTWlSNHUtemFhbDlXd0dsY3RvTUFMWjhhTmY5NEN5MDhKUUVpVWFVZlFmY1E?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "IT早报 0322：中国车企全球销量 20 多年来首次超日本；小米 SU7、YU7 测试车现身欧洲；库克回应 OpenClaw 带动 Mac mini 大卖；微软公布 Win11 性能提速计划...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-21",
+                "url": "https://www.ithome.com/0/931/367.htm"
+            },
+            {
+                "title": "价格暴涨十倍 博通收紧VMware授权引爆欧盟反垄断投诉",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554394.htm"
+            },
             {
                 "title": "专访胡鑫宇案律师：高飞倡议书敲响器官黑幕警钟(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -130,16 +142,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1554360.htm"
             },
             {
-                "title": "美FBI与CISA联合警示：俄情报机构大规模钓鱼攻击即时通讯应用用户 ​",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554350.htm"
-            },
-            {
-                "title": "超微因走私丑闻股价暴跌 逾60亿美元市值蒸发",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554348.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "习近平向拉美和加勒比国家共同体第十届峰会致贺电 - mfa.gov.cn",
@@ -148,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NZ1NvYmxBN041dTlzWi1WWnpidWtGQXcwUkFVSEQ2MnhkSnl5M1hoSS1SWVB6TF92SmZ1NGhDQUNvMUpjQnB3a2RXUkM4VFhfRWxDOXB3S2JFTFJkM05OTHdlUUZXdExaZlo4?oc=5"
             },
             {
-                "title": "发言人有关谈话 - mfa.gov.cn",
+                "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-21",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMmtQOXUxLWxqWTJPTFo1UGRld2V4RU5CZWxWS21UckVvbUp1aTBITWNYMEMzS0FtTHJpQkFGUDZGNWpyd0RoUEJ3c1RGSVdLYUhlZkpabUM4Y0kybXVwMkZYckdtc3JmLXk1RDEwemFqblRrM2NMM1dGajVLVGlxZVpPMDZUWVNzcVpNVVZOb1YxUTBDZXhqYkZBOA?oc=5"
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczRXVWNZUHVtaVBTVFFqSUxWaGJhOThZREdSbjRvN3gwbHZGU3ZtTm9aVktmTGQzYU03Z0ptSk1VUTRJVW1SQWNFRHVjcXdLLWU0Um10YklBNHRjMDhNYVhoMTRJVk5RRlBZSUliWWlIZlduN21HQWh1Qm5Mb0RLSVZGT0drOGNi?oc=5"
             },
             {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
+                "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaXNqVGFRanRNR0E2OWtQcnJua0pIeDFzamM4TDRzQ01yZVBrM2VyTTc3cHpudVk4VlFTbDRIclY1OV9xR2pkUElQREkwUjBlY2c?oc=5"
             },
             {
                 "title": "第76集团军某旅组织预选军士入队选拔考核 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3ZFVNRXRWQXdsYzFLSWFLd28ydlU2MHZNV1hmbWpjVmRsamNOR1pDTUwwQjVHTjMtRjE4RE9MblNrLTR5LVk5NHZBTk9nM3pETHc?oc=5"
-            },
-            {
-                "title": "老兵天地丨崇高敬意献给天山筑路人 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRGRleXZuTGxyLV9QZ1Nqd3BicTVPZ1p5YmZnaHVMTWlSNHUtemFhbDlXd0dsY3RvTUFMWjhhTmY5NEN5MDhKUUVpVWFVZlFmY1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-22T18:33:10.110927+00:00"
+    "last_updated": "2026-03-23T02:01:01.433638+00:00"
 }
