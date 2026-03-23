@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "匈牙利塞格德比亚迪工地被指存在用工问题 七天工作制与“空白合同”引发关注",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554456.htm"
+            },
+            {
+                "title": "苹果最便宜笔记本MacBook Neo测试 《赛博朋克2077》可跑30帧",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554454.htm"
+            },
+            {
+                "title": "小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/553.htm"
+            },
+            {
                 "title": "速看！国家互联网应急中心等发布 OpenClaw 安全使用实践指南",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-22",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-03-22",
                 "url": "https://www.dw.com/zh/%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6ceo%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%9C%89%E7%BB%8F%E6%B5%8E%E6%A8%A1%E5%BC%8F%E5%AF%B9%E5%BE%B7%E5%9B%BD%E6%9D%A5%E8%AF%B4%E6%98%AF%E4%B8%80%E4%B8%AA%E5%80%BC%E5%BE%97%E5%80%9F%E9%89%B4%E7%9A%84%E6%A6%9C%E6%A0%B7/a-76474292"
-            },
-            {
-                "title": "OPPO Find N6 全球同步发售，泰国首销日销量达上代 2.45 倍",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/518.htm"
-            },
-            {
-                "title": "小米春季新品发布会带来了新一代 SU7，雷军还分享了在 AI 方面的进展",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-03-22",
-                "url": "https://www.toodaylab.com/83962"
-            },
-            {
-                "title": "火箭实验室签下公司史上最大发射合同，四年内为美军进行 20 次高超音速测试飞行",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/480.htm"
             }
         ],
         "mil": [
+            {
+                "title": "终结 LPL 三年无冠，BLG 战队 3:1 G2 斩获《英雄联盟》2026 全球先锋赛冠军",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/556.htm"
+            },
+            {
+                "title": "墙外文摘：打不打台湾，多少中国人说“不”？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-22",
+                "url": "https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E6%89%93%E4%B8%8D%E6%89%93%E5%8F%B0%E6%B9%BE%E5%A4%9A%E5%B0%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AF%B4%E4%B8%8D/a-76476294"
+            },
             {
                 "title": "小米春季新品发布会带来了新一代 SU7，雷军还分享了在 AI 方面的进展",
                 "source": "NewsAPI / Toodaylab.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1554412.htm"
             },
             {
-                "title": "Cursor套壳、黄仁勋坐上宾 DeepSeek的光环现在都是Kimi的了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554404.htm"
-            },
-            {
-                "title": "苹果CEO库克：“独木不成林，单音不成曲” 让我们一起奏响交响乐",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554398.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "林剑：武力只会导致恶性循环（2026年3月23日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGRGU1daRlNwazZHT25ZNWtiREk4S2daQ1dVcVpHdjdqeTVkSHpzbmlLWE1qaFg1V0R5LU5ZaWh0V1hNVXN4dHhfSFdmaDMtYlF0MllCSkRUMUNYQkRiLU9KSHczb0pRMmdnZEdjaVAtUkNhQTBpOXV1cTVCUWQ1Wlc2ZlVmem1ndlBuTW1YUzA?oc=5"
+            },
+            {
                 "title": "习近平致电祝贺通伦当选连任老挝国家主席 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-23",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2lVem1ES0RvQ3BWandxRWo3WW4wZGtCUF9TSi02bWJwRFhUVV9IbWFoVTBkeEdYc2Z3VFdRemNwTi1ZdTVDb2pSOWNMcjJkQUdxUHBzbmlhdnotaWxxVTUtZGJ2MUxUOWFTVk9aNzByTjk3Z0kwR1Z4cldJZnQxX1pLRkltbDh0UEs5TDR3?oc=5"
-            },
-            {
-                "title": "驻阿克托别总领事郭宇出席总领馆举办的领区疆籍华侨华人座谈会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXAyYWZodS1yazBNNEdHWlBNWVd0YnhETHAtR2ZpQy1XcW52NXlsUktlQmFpemVnd0dVYXluWUtfeTNYdVNZaFRBZGFDRDV4a09FbHBpLUp0dk9mTmtid0xFM2RGMTdJQ0JWOU9yelF4NTNVeGVYZl9NRkRWX1pjelVGSno2UEtyVGc?oc=5"
             },
             {
                 "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "从 3 亿美元降至 1.875 亿美元，Anthropic 版权案律师费用大幅下调",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/554.htm"
+            },
+            {
+                "title": "小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/553.htm"
+            },
+            {
                 "title": "用AI让游戏更好玩，只是腾讯关心的第二个问题",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-22",
@@ -130,34 +142,22 @@
                 "url": "https://www.ithome.com/0/931/527.htm"
             },
             {
-                "title": "OPPO Find N6 全球同步发售，泰国首销日销量达上代 2.45 倍",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/518.htm"
-            },
-            {
-                "title": "小米春季新品发布会带来了新一代 SU7，雷军还分享了在 AI 方面的进展",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-03-22",
-                "url": "https://www.toodaylab.com/83962"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
+                "title": "林剑：武力只会导致恶性循环（2026年3月23日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGRGU1daRlNwazZHT25ZNWtiREk4S2daQ1dVcVpHdjdqeTVkSHpzbmlLWE1qaFg1V0R5LU5ZaWh0V1hNVXN4dHhfSFdmaDMtYlF0MllCSkRUMUNYQkRiLU9KSHczb0pRMmdnZEdjaVAtUkNhQTBpOXV1cTVCUWQ1Wlc2ZlVmem1ndlBuTW1YUzA?oc=5"
+            },
+            {
                 "title": "习近平致电祝贺通伦当选连任老挝国家主席 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-23",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2lVem1ES0RvQ3BWandxRWo3WW4wZGtCUF9TSi02bWJwRFhUVV9IbWFoVTBkeEdYc2Z3VFdRemNwTi1ZdTVDb2pSOWNMcjJkQUdxUHBzbmlhdnotaWxxVTUtZGJ2MUxUOWFTVk9aNzByTjk3Z0kwR1Z4cldJZnQxX1pLRkltbDh0UEs5TDR3?oc=5"
-            },
-            {
-                "title": "驻阿克托别总领事郭宇出席总领馆举办的领区疆籍华侨华人座谈会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXAyYWZodS1yazBNNEdHWlBNWVd0YnhETHAtR2ZpQy1XcW52NXlsUktlQmFpemVnd0dVYXluWUtfeTNYdVNZaFRBZGFDRDV4a09FbHBpLUp0dk9mTmtid0xFM2RGMTdJQ0JWOU9yelF4NTNVeGVYZl9NRkRWX1pjelVGSno2UEtyVGc?oc=5"
             },
             {
                 "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-23T13:01:22.808876+00:00"
+    "last_updated": "2026-03-23T18:51:20.741372+00:00"
 }
