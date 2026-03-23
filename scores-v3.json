@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "Claude抢走70%新单 OpenAI急招3500人反击",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554450.htm"
+            },
+            {
+                "title": "苹果CEO库克：“独木不成林，单音不成曲” 让我们一起奏响交响乐",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554398.htm"
+            },
+            {
+                "title": "Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-22",
+                "url": "https://36kr.com/p/3733553048256518"
+            },
+            {
+                "title": "小米汽车：新一代 SU7 限时改配今晚 24 点截止",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/394.htm"
+            },
+            {
                 "title": "马斯克官宣 TERAFAB 自建晶圆厂明日正式揭晓：SpaceX 与特斯拉联合打造太瓦级算力产能，太空应用占八成",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-22",
                 "url": "https://www.ithome.com/0/931/373.htm"
-            },
-            {
-                "title": "IT早报 0322：中国车企全球销量 20 多年来首次超日本；小米 SU7、YU7 测试车现身欧洲；库克回应 OpenClaw 带动 Mac mini 大卖；微软公布 Win11 性能提速计划...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-21",
-                "url": "https://www.ithome.com/0/931/367.htm"
-            },
-            {
-                "title": "华为发布新一代算力加速卡昇腾950PR 性能近3倍于H20、支持FP4",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554374.htm"
-            },
-            {
-                "title": "时隔近六年，Epic《堡垒之夜》回归谷歌 Play 应用商店",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-21",
-                "url": "https://www.ithome.com/0/931/363.htm"
-            },
-            {
-                "title": "华为 Atlas 350 加速卡上市，搭载全新昇腾 950PR 处理器",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-21",
-                "url": "https://www.ithome.com/0/931/355.htm"
             }
         ],
         "mil": [
+            {
+                "title": "ChatGPT首个“广告金主”：过程“很不AI” 数据都不给",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554412.htm"
+            },
+            {
+                "title": "Cursor套壳、黄仁勋坐上宾 DeepSeek的光环现在都是Kimi的了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554404.htm"
+            },
+            {
+                "title": "苹果CEO库克：“独木不成林，单音不成曲” 让我们一起奏响交响乐",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554398.htm"
+            },
             {
                 "title": "胡衡华难逃山城魔咒？出事前反常 袁家军瑟瑟发抖？(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.ithome.com/0/931/367.htm"
             },
             {
-                "title": "地面战阴影浮现：对伊冲突逼近关键抉择时刻(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-21",
-                "url": "https://www.secretchina.com/news/gb/2026/03/21/1096654.html"
-            },
-            {
-                "title": "Anthropic提交最新法庭文件 揭露五角大楼切断合作背后的谈判内幕",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554360.htm"
-            },
-            {
-                "title": "国安人士：川习会前备谈判筹码 中国操作军事减压假象(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-21",
-                "url": "https://www.secretchina.com/news/gb/2026/03/21/1096646.html"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczRXVWNZUHVtaVBTVFFqSUxWaGJhOThZREdSbjRvN3gwbHZGU3ZtTm9aVktmTGQzYU03Z0ptSk1VUTRJVW1SQWNFRHVjcXdLLWU0Um10YklBNHRjMDhNYVhoMTRJVk5RRlBZSUliWWlIZlduN21HQWh1Qm5Mb0RLSVZGT0drOGNi?oc=5"
             },
             {
+                "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hMUQxeloyZ1pidVBSMGpzcXlyZzU4R2dqbWI1UHdzV0s4NDB0bXhYLTNkWGM5VXBJcnpwVjBnNFl1OE55M0kxUGE0X1FCZ3lLTUE?oc=5"
+            },
+            {
                 "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-22",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzel9qSi0xRHhacTAwQ1NKb0Jtamg1M2loOEs1R3k5SHdfb3BZc3RuRmQwUjBSVERDTjBqVW5SMS12YzB6UXJaRDdTU2ZNYk1iX1E?oc=5"
-            },
-            {
-                "title": "军人家庭丨相册里的思念 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3ZFVNRXRWQXdsYzFLSWFLd28ydlU2MHZNV1hmbWpjVmRsamNOR1pDTUwwQjVHTjMtRjE4RE9MblNrLTR5LVk5NHZBTk9nM3pETHc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "IT早报 0322：中国车企全球销量 20 多年来首次超日本；小米 SU7、YU7 测试车现身欧洲；库克回应 OpenClaw 带动 Mac mini 大卖；微软公布 Win11 性能提速计划...",
+                "title": "Claude抢走70%新单 OpenAI急招3500人反击",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554450.htm"
+            },
+            {
+                "title": "ChatGPT首个“广告金主”：过程“很不AI” 数据都不给",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554412.htm"
+            },
+            {
+                "title": "Cursor套壳、黄仁勋坐上宾 DeepSeek的光环现在都是Kimi的了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554404.htm"
+            },
+            {
+                "title": "苹果CEO库克：“独木不成林，单音不成曲” 让我们一起奏响交响乐",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554398.htm"
+            },
+            {
+                "title": "小米汽车：新一代 SU7 限时改配今晚 24 点截止",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-21",
-                "url": "https://www.ithome.com/0/931/367.htm"
-            },
-            {
-                "title": "价格暴涨十倍 博通收紧VMware授权引爆欧盟反垄断投诉",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554394.htm"
-            },
-            {
-                "title": "专访胡鑫宇案律师：高飞倡议书敲响器官黑幕警钟(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-21",
-                "url": "https://www.secretchina.com/news/gb/2026/03/22/1096663.html"
-            },
-            {
-                "title": "霍尔木兹博弈与中国可能的“油管外交”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-21",
-                "url": "https://www.ftchinese.com/story/001109241"
-            },
-            {
-                "title": "Anthropic提交最新法庭文件 揭露五角大楼切断合作背后的谈判内幕",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554360.htm"
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/394.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczRXVWNZUHVtaVBTVFFqSUxWaGJhOThZREdSbjRvN3gwbHZGU3ZtTm9aVktmTGQzYU03Z0ptSk1VUTRJVW1SQWNFRHVjcXdLLWU0Um10YklBNHRjMDhNYVhoMTRJVk5RRlBZSUliWWlIZlduN21HQWh1Qm5Mb0RLSVZGT0drOGNi?oc=5"
             },
             {
+                "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hMUQxeloyZ1pidVBSMGpzcXlyZzU4R2dqbWI1UHdzV0s4NDB0bXhYLTNkWGM5VXBJcnpwVjBnNFl1OE55M0kxUGE0X1FCZ3lLTUE?oc=5"
+            },
+            {
                 "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-22",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzel9qSi0xRHhacTAwQ1NKb0Jtamg1M2loOEs1R3k5SHdfb3BZc3RuRmQwUjBSVERDTjBqVW5SMS12YzB6UXJaRDdTU2ZNYk1iX1E?oc=5"
-            },
-            {
-                "title": "军人家庭丨相册里的思念 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3ZFVNRXRWQXdsYzFLSWFLd28ydlU2MHZNV1hmbWpjVmRsamNOR1pDTUwwQjVHTjMtRjE4RE9MblNrLTR5LVk5NHZBTk9nM3pETHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-23T02:01:01.433638+00:00"
+    "last_updated": "2026-03-23T07:05:52.619700+00:00"
 }
