@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "匈牙利塞格德比亚迪工地被指存在用工问题 七天工作制与“空白合同”引发关注",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554456.htm"
+                "title": "美光 CEO 梅赫罗特拉：L4 级自动驾驶普及后，一辆车所需的内存将超 300GB",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-23",
+                "url": "https://www.ithome.com/0/931/575.htm"
             },
             {
-                "title": "苹果最便宜笔记本MacBook Neo测试 《赛博朋克2077》可跑30帧",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554454.htm"
+                "title": "马斯克Terafab芯片工厂落地奥斯汀 投资200亿(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-23",
+                "url": "https://www.secretchina.com/news/gb/2026/03/23/1096700.html"
             },
             {
-                "title": "小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”",
+                "title": "基金经理看好仓储机器人赛道，变现能力被看好",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-22",
+                "url": "https://36kr.com/newsflashes/3734750217666562"
+            },
+            {
+                "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-22",
+                "url": "https://36kr.com/p/3734758253887744"
+            },
+            {
+                "title": "IT早报 0323：微信发布官方“龙虾”插件；国家互联网应急中心等发布 OpenClaw 安全使用实践指南；中国变压器海外订单暴增；中国 AI 大模型调用量连续两周超越美国...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/553.htm"
-            },
-            {
-                "title": "速看！国家互联网应急中心等发布 OpenClaw 安全使用实践指南",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/532.htm"
-            },
-            {
-                "title": "大众汽车CEO：中国国有经济模式对德国来说是一个值得借鉴的榜样",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-03-22",
-                "url": "https://www.dw.com/zh/%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6ceo%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%9C%89%E7%BB%8F%E6%B5%8E%E6%A8%A1%E5%BC%8F%E5%AF%B9%E5%BE%B7%E5%9B%BD%E6%9D%A5%E8%AF%B4%E6%98%AF%E4%B8%80%E4%B8%AA%E5%80%BC%E5%BE%97%E5%80%9F%E9%89%B4%E7%9A%84%E6%A6%9C%E6%A0%B7/a-76474292"
+                "url": "https://www.ithome.com/0/931/564.htm"
             }
         ],
         "mil": [
+            {
+                "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-23",
+                "url": "https://36kr.com/p/3734094940504073"
+            },
+            {
+                "title": "《英雄联盟》2026 季中冠军赛和全球总决赛官宣，分别落地韩国和北美",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-23",
+                "url": "https://www.ithome.com/0/931/580.htm"
+            },
+            {
+                "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-22",
+                "url": "https://36kr.com/p/3734758253887744"
+            },
+            {
+                "title": "中国巨型汽车渡轮用于军事运输与两栖投送能力(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-22",
+                "url": "https://www.secretchina.com/news/gb/2026/03/23/1096703.html"
+            },
             {
                 "title": "终结 LPL 三年无冠，BLG 战队 3:1 G2 斩获《英雄联盟》2026 全球先锋赛冠军",
                 "source": "NewsAPI / Ithome.com",
@@ -50,30 +74,6 @@
                 "url": "https://www.ithome.com/0/931/556.htm"
             },
             {
-                "title": "墙外文摘：打不打台湾，多少中国人说“不”？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-03-22",
-                "url": "https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E6%89%93%E4%B8%8D%E6%89%93%E5%8F%B0%E6%B9%BE%E5%A4%9A%E5%B0%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AF%B4%E4%B8%8D/a-76476294"
-            },
-            {
-                "title": "小米春季新品发布会带来了新一代 SU7，雷军还分享了在 AI 方面的进展",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-03-22",
-                "url": "https://www.toodaylab.com/83962"
-            },
-            {
-                "title": "火箭实验室签下公司史上最大发射合同，四年内为美军进行 20 次高超音速测试飞行",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/480.htm"
-            },
-            {
-                "title": "ChatGPT首个“广告金主”：过程“很不AI” 数据都不给",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554412.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hMUQxeloyZ1pidVBSMGpzcXlyZzU4R2dqbWI1UHdzV0s4NDB0bXhYLTNkWGM5VXBJcnpwVjBnNFl1OE55M0kxUGE0X1FCZ3lLTUE?oc=5"
             },
             {
+                "title": "一线传真丨“这堂课，刻进了我们的心里” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wY29sazdUcFVUNy1INlZ4UXBNbWhWbFYxdExUdUJMd21pdXBwM0FHUEVBR1Jaa2M1enNIYTROTnpBT1lQTnJjTERtQ3Fzcl8yRkE?oc=5"
+            },
+            {
                 "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaXNqVGFRanRNR0E2OWtQcnJua0pIeDFzamM4TDRzQ01yZVBrM2VyTTc3cHpudVk4VlFTbDRIclY1OV9xR2pkUElQREkwUjBlY2c?oc=5"
-            },
-            {
-                "title": "Chinese peacekeeping helicopter contingent to Abyei completes withdrawal transport mission - China Military",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lR01fWXFqSF9URExsQTZoNjJoLTFBXzh3TnZaR1BOX2k5eEtzNFJmWVFnNWVMZmVsMkszOVhmSGNuWlJKSWNjWGVHWFhyN1I3YkFENUNhRlkwc2VHdUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "从 3 亿美元降至 1.875 亿美元，Anthropic 版权案律师费用大幅下调",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/554.htm"
+                "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-23",
+                "url": "https://36kr.com/p/3734094940504073"
             },
             {
-                "title": "小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/553.htm"
-            },
-            {
-                "title": "用AI让游戏更好玩，只是腾讯关心的第二个问题",
+                "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-22",
-                "url": "https://36kr.com/p/3734107862073606"
+                "url": "https://36kr.com/p/3734758253887744"
             },
             {
-                "title": "速看！国家互联网应急中心等发布 OpenClaw 安全使用实践指南",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国巨型汽车渡轮用于军事运输与两栖投送能力(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/532.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/23/1096703.html"
             },
             {
-                "title": "SpaceX 等公司计划发射百万颗卫星，天文学家警告或将彻底摧毁夜空",
+                "title": "IT早报 0323：微信发布官方“龙虾”插件；国家互联网应急中心等发布 OpenClaw 安全使用实践指南；中国变压器海外订单暴增；中国 AI 大模型调用量连续两周超越美国...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/527.htm"
+                "url": "https://www.ithome.com/0/931/564.htm"
+            },
+            {
+                "title": "此前已持续近 4 年，美国 SEC 终止对法拉第未来的调查",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-22",
+                "url": "https://www.ithome.com/0/931/563.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hMUQxeloyZ1pidVBSMGpzcXlyZzU4R2dqbWI1UHdzV0s4NDB0bXhYLTNkWGM5VXBJcnpwVjBnNFl1OE55M0kxUGE0X1FCZ3lLTUE?oc=5"
             },
             {
+                "title": "一线传真丨“这堂课，刻进了我们的心里” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wY29sazdUcFVUNy1INlZ4UXBNbWhWbFYxdExUdUJMd21pdXBwM0FHUEVBR1Jaa2M1enNIYTROTnpBT1lQTnJjTERtQ3Fzcl8yRkE?oc=5"
+            },
+            {
                 "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaXNqVGFRanRNR0E2OWtQcnJua0pIeDFzamM4TDRzQ01yZVBrM2VyTTc3cHpudVk4VlFTbDRIclY1OV9xR2pkUElQREkwUjBlY2c?oc=5"
-            },
-            {
-                "title": "Chinese peacekeeping helicopter contingent to Abyei completes withdrawal transport mission - China Military",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lR01fWXFqSF9URExsQTZoNjJoLTFBXzh3TnZaR1BOX2k5eEtzNFJmWVFnNWVMZmVsMkszOVhmSGNuWlJKSWNjWGVHWFhyN1I3YkFENUNhRlkwc2VHdUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-23T18:51:20.741372+00:00"
+    "last_updated": "2026-03-24T01:52:48.962792+00:00"
 }
