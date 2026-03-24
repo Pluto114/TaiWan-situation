@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美光 CEO 梅赫罗特拉：L4 级自动驾驶普及后，一辆车所需的内存将超 300GB",
-                "source": "NewsAPI / Ithome.com",
+                "title": "库克确认苹果有80家供应商在中国",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-23",
-                "url": "https://www.ithome.com/0/931/575.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554524.htm"
             },
             {
-                "title": "马斯克Terafab芯片工厂落地奥斯汀 投资200亿(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "内存危机拉高装机门槛 导致亚马逊CPU销量暴跌47%",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-23",
-                "url": "https://www.secretchina.com/news/gb/2026/03/23/1096700.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554498.htm"
             },
             {
-                "title": "基金经理看好仓储机器人赛道，变现能力被看好",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-22",
-                "url": "https://36kr.com/newsflashes/3734750217666562"
+                "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554486.htm"
             },
             {
-                "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-22",
-                "url": "https://36kr.com/p/3734758253887744"
+                "title": "为什么字节难以招架版权纠纷 而OpenAI和Anthropic却能赢？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554482.htm"
             },
             {
-                "title": "IT早报 0323：微信发布官方“龙虾”插件；国家互联网应急中心等发布 OpenClaw 安全使用实践指南；中国变压器海外订单暴增；中国 AI 大模型调用量连续两周超越美国...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/564.htm"
+                "title": "三星代工接连拿下NVIDIA、Tesla、AMD大单 Q4有望扭亏",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554480.htm"
             }
         ],
         "mil": [
             {
+                "title": "AI“美军女神”骗穿美国 4个月吸粉100万 Meta连夜封杀",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554484.htm"
+            },
+            {
+                "title": "为什么字节难以招架版权纠纷 而OpenAI和Anthropic却能赢？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554482.htm"
+            },
+            {
+                "title": "AI机器人为西湖半程马拉松赛事护航 和真人指挥动作无异",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554478.htm"
+            },
+            {
+                "title": "2026 人形机器人半程马拉松官宣 4 月开跑，新增机器人“巴图鲁”挑战赛",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-23",
+                "url": "https://www.ithome.com/0/931/626.htm"
+            },
+            {
                 "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-23",
                 "url": "https://36kr.com/p/3734094940504073"
             },
             {
-                "title": "《英雄联盟》2026 季中冠军赛和全球总决赛官宣，分别落地韩国和北美",
-                "source": "NewsAPI / Ithome.com",
+                "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-23",
-                "url": "https://www.ithome.com/0/931/580.htm"
-            },
-            {
-                "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-22",
-                "url": "https://36kr.com/p/3734758253887744"
-            },
-            {
-                "title": "中国巨型汽车渡轮用于军事运输与两栖投送能力(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-22",
-                "url": "https://www.secretchina.com/news/gb/2026/03/23/1096703.html"
-            },
-            {
-                "title": "终结 LPL 三年无冠，BLG 战队 3:1 G2 斩获《英雄联盟》2026 全球先锋赛冠军",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/556.htm"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ROVEyM3pJZHhpcUdmYkVITFZWV3J0SGhBUUhmSUI5eWx5NTFmSkk5LXUyMjJTdWc3TVBhZWh2TzcxNlBaRkJqUTdRRHJrTk5JaUo5YTI5ZlVIZ2tTN1ZyR2NRbkZ4aU5haGtkaTdaTFI3WHNUd2c?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -86,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGRGU1daRlNwazZHT25ZNWtiREk4S2daQ1dVcVpHdjdqeTVkSHpzbmlLWE1qaFg1V0R5LU5ZaWh0V1hNVXN4dHhfSFdmaDMtYlF0MllCSkRUMUNYQkRiLU9KSHczb0pRMmdnZEdjaVAtUkNhQTBpOXV1cTVCUWQ1Wlc2ZlVmem1ndlBuTW1YUzA?oc=5"
             },
             {
-                "title": "习近平致电祝贺通伦当选连任老挝国家主席 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2lVem1ES0RvQ3BWandxRWo3WW4wZGtCUF9TSi02bWJwRFhUVV9IbWFoVTBkeEdYc2Z3VFdRemNwTi1ZdTVDb2pSOWNMcjJkQUdxUHBzbmlhdnotaWxxVTUtZGJ2MUxUOWFTVk9aNzByTjk3Z0kwR1Z4cldJZnQxX1pLRkltbDh0UEs5TDR3?oc=5"
-            },
-            {
                 "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-23",
@@ -104,42 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wY29sazdUcFVUNy1INlZ4UXBNbWhWbFYxdExUdUJMd21pdXBwM0FHUEVBR1Jaa2M1enNIYTROTnpBT1lQTnJjTERtQ3Fzcl8yRkE?oc=5"
             },
             {
-                "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
+                "title": "博鳌亚洲论坛2026年年会准备就绪 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaXNqVGFRanRNR0E2OWtQcnJua0pIeDFzamM4TDRzQ01yZVBrM2VyTTc3cHpudVk4VlFTbDRIclY1OV9xR2pkUElQREkwUjBlY2c?oc=5"
+                "date": "2026-03-24",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZmF6LXpJeEVUNmdIS3Bla2lwaHFtcWZxdWREU2trOHV5MGRvRUNqNnIxeDNhYmtDRFZwbXBlb1dON3IwTFJOU3ZyQ0xweXphMnU2MFVGYURZVFlXMGlIVmlaVHN6Q2RBRy03Xw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI“美军女神”骗穿美国 4个月吸粉100万 Meta连夜封杀",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-23",
-                "url": "https://36kr.com/p/3734094940504073"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554484.htm"
             },
             {
-                "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-22",
-                "url": "https://36kr.com/p/3734758253887744"
+                "title": "为什么字节难以招架版权纠纷 而OpenAI和Anthropic却能赢？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554482.htm"
             },
             {
-                "title": "中国巨型汽车渡轮用于军事运输与两栖投送能力(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-22",
-                "url": "https://www.secretchina.com/news/gb/2026/03/23/1096703.html"
+                "title": "AI机器人为西湖半程马拉松赛事护航 和真人指挥动作无异",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554478.htm"
             },
             {
-                "title": "IT早报 0323：微信发布官方“龙虾”插件；国家互联网应急中心等发布 OpenClaw 安全使用实践指南；中国变压器海外订单暴增；中国 AI 大模型调用量连续两周超越美国...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/564.htm"
+                "title": "美国SEC结束对FF超1600天审查 贾跃亭等高管免于问责",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554472.htm"
             },
             {
-                "title": "此前已持续近 4 年，美国 SEC 终止对法拉第未来的调查",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-22",
-                "url": "https://www.ithome.com/0/931/563.htm"
+                "title": "沙特酝酿45年的备用方案派上用场 以东西向管道为石油另寻出路",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554470.htm"
+            },
+            {
+                "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ROVEyM3pJZHhpcUdmYkVITFZWV3J0SGhBUUhmSUI5eWx5NTFmSkk5LXUyMjJTdWc3TVBhZWh2TzcxNlBaRkJqUTdRRHJrTk5JaUo5YTI5ZlVIZ2tTN1ZyR2NRbkZ4aU5haGtkaTdaTFI3WHNUd2c?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGRGU1daRlNwazZHT25ZNWtiREk4S2daQ1dVcVpHdjdqeTVkSHpzbmlLWE1qaFg1V0R5LU5ZaWh0V1hNVXN4dHhfSFdmaDMtYlF0MllCSkRUMUNYQkRiLU9KSHczb0pRMmdnZEdjaVAtUkNhQTBpOXV1cTVCUWQ1Wlc2ZlVmem1ndlBuTW1YUzA?oc=5"
             },
             {
-                "title": "习近平致电祝贺通伦当选连任老挝国家主席 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2lVem1ES0RvQ3BWandxRWo3WW4wZGtCUF9TSi02bWJwRFhUVV9IbWFoVTBkeEdYc2Z3VFdRemNwTi1ZdTVDb2pSOWNMcjJkQUdxUHBzbmlhdnotaWxxVTUtZGJ2MUxUOWFTVk9aNzByTjk3Z0kwR1Z4cldJZnQxX1pLRkltbDh0UEs5TDR3?oc=5"
-            },
-            {
                 "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-23",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wY29sazdUcFVUNy1INlZ4UXBNbWhWbFYxdExUdUJMd21pdXBwM0FHUEVBR1Jaa2M1enNIYTROTnpBT1lQTnJjTERtQ3Fzcl8yRkE?oc=5"
             },
             {
-                "title": "八一锐评丨瞄准作战需求创业绩 - 中国军网",
+                "title": "博鳌亚洲论坛2026年年会准备就绪 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaXNqVGFRanRNR0E2OWtQcnJua0pIeDFzamM4TDRzQ01yZVBrM2VyTTc3cHpudVk4VlFTbDRIclY1OV9xR2pkUElQREkwUjBlY2c?oc=5"
+                "date": "2026-03-24",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZmF6LXpJeEVUNmdIS3Bla2lwaHFtcWZxdWREU2trOHV5MGRvRUNqNnIxeDNhYmtDRFZwbXBlb1dON3IwTFJOU3ZyQ0xweXphMnU2MFVGYURZVFlXMGlIVmlaVHN6Q2RBRy03Xw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-24T01:52:48.962792+00:00"
+    "last_updated": "2026-03-24T07:00:31.421301+00:00"
 }
