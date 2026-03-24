@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "库克确认苹果有80家供应商在中国",
+                "title": "黄仁勋谈显卡被禁售：中国会支持自己技术 华为创下最佳业绩",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554524.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554596.htm"
             },
             {
-                "title": "内存危机拉高装机门槛 导致亚马逊CPU销量暴跌47%",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "OpenAI 向英国监管机构施压：要求谷歌将 ChatGPT 列为安卓与 Chrome 默认搜索引擎选项",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554498.htm"
+                "url": "https://www.ithome.com/0/931/895.htm"
             },
             {
-                "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554486.htm"
+                "url": "https://36kr.com/p/3735459789242375"
             },
             {
-                "title": "为什么字节难以招架版权纠纷 而OpenAI和Anthropic却能赢？",
+                "title": "中国石化称油库储备充足 已备好应对预案",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554482.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554588.htm"
             },
             {
-                "title": "三星代工接连拿下NVIDIA、Tesla、AMD大单 Q4有望扭亏",
+                "title": "五大汽车组织联名施压特朗普 坚决封堵中国汽车入美",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554480.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554582.htm"
             }
         ],
         "mil": [
             {
-                "title": "AI“美军女神”骗穿美国 4个月吸粉100万 Meta连夜封杀",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554484.htm"
-            },
-            {
-                "title": "为什么字节难以招架版权纠纷 而OpenAI和Anthropic却能赢？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554482.htm"
-            },
-            {
-                "title": "AI机器人为西湖半程马拉松赛事护航 和真人指挥动作无异",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554478.htm"
-            },
-            {
-                "title": "2026 人形机器人半程马拉松官宣 4 月开跑，新增机器人“巴图鲁”挑战赛",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-23",
-                "url": "https://www.ithome.com/0/931/626.htm"
-            },
-            {
-                "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
+                "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-23",
-                "url": "https://36kr.com/p/3734094940504073"
+                "url": "https://36kr.com/p/3735459789242375"
+            },
+            {
+                "title": "帮助美国打伊朗？伊质疑德国美军基地参战",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-23",
+                "url": "https://www.dw.com/zh/%E5%B8%AE%E5%8A%A9%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E4%BC%8A%E8%B4%A8%E7%96%91%E5%BE%B7%E5%9B%BD%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8F%82%E6%88%98/a-76484041"
+            },
+            {
+                "title": "外卖英雄拟将台湾地区业务出售给Grab",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554576.htm"
+            },
+            {
+                "title": "创想三维IPO：造物平权下的版权困境",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-23",
+                "url": "https://36kr.com/p/3735364151836680"
+            },
+            {
+                "title": "宇树毛利率60%的秘密",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-23",
+                "url": "https://36kr.com/p/3735272591212546"
             },
             {
                 "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "AI“美军女神”骗穿美国 4个月吸粉100万 Meta连夜封杀",
+                "title": "索尼接近与TCL达成协议 10亿美元出售家庭娱乐业务多数股权",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554484.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554594.htm"
             },
             {
-                "title": "为什么字节难以招架版权纠纷 而OpenAI和Anthropic却能赢？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "OpenAI 向英国监管机构施压：要求谷歌将 ChatGPT 列为安卓与 Chrome 默认搜索引擎选项",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554482.htm"
+                "url": "https://www.ithome.com/0/931/895.htm"
             },
             {
-                "title": "AI机器人为西湖半程马拉松赛事护航 和真人指挥动作无异",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554478.htm"
+                "url": "https://36kr.com/p/3735459789242375"
             },
             {
-                "title": "美国SEC结束对FF超1600天审查 贾跃亭等高管免于问责",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "购买苹果 MacBook Neo 被收 2 欧元版权费，葡萄牙数字设备“预犯罪”税费遭诟病",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554472.htm"
+                "url": "https://www.ithome.com/0/931/885.htm"
             },
             {
-                "title": "沙特酝酿45年的备用方案派上用场 以东西向管道为石油另寻出路",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "全球自由度 香港41分列“部分自由”、台湾93分排亚洲第二(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554470.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/03/23/1096726.html"
             },
             {
                 "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-24T07:00:31.421301+00:00"
+    "last_updated": "2026-03-24T13:05:55.558181+00:00"
 }
