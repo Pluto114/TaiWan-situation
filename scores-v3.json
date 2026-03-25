@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "宝马在中国召回近 18 万辆汽车：空调线束排线不当，极端情况下可能存在起火风险",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-24",
-                "url": "https://www.ithome.com/0/931/970.htm"
-            },
-            {
-                "title": "双良节能蹭热点自曝“与 SpaceX 有合作关系”被罚 1300 万元，股价涨停又跌停",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-24",
-                "url": "https://www.ithome.com/0/931/955.htm"
-            },
-            {
-                "title": "36氪首发 | 斯坦福博士做分子检测平台，产品已进入北大、清华",
+                "title": "黑石加仓，热钱蓄势：2026 年中国商办投资迎来布局窗口期？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-24",
-                "url": "https://36kr.com/p/3735674146865160"
+                "url": "https://36kr.com/p/3736572995813636"
             },
             {
-                "title": "36氪首发 | 红杉、明势给远距影像硬件公司投资千万美金，创始人为前海康萤石产品负责人",
-                "source": "NewsAPI / 36kr.com",
+                "title": "9车齐发，余承东缺席，鸿蒙还缺五个“汪峰”",
+                "source": "NewsAPI / Huxiu.com",
                 "date": "2026-03-24",
-                "url": "https://36kr.com/p/3735669905670408"
+                "url": "https://www.huxiu.com/article/4844808.html"
             },
             {
-                "title": "荣耀 600/Pro 手机渲染图曝光：2 亿主摄、9000mAh 电池",
+                "title": "马斯克称中东地缘政治风险将加速全球电动化转型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554696.htm"
+            },
+            {
+                "title": "平均油价创 3 年来新高，美国电动汽车相关搜索量暴增 20%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-24",
-                "url": "https://www.ithome.com/0/931/948.htm"
+                "url": "https://www.ithome.com/0/932/121.htm"
+            },
+            {
+                "title": "8GB 内存极限测试：苹果 MacBook Neo 同时打开 60 个应用仍能流畅播放视频",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-24",
+                "url": "https://www.ithome.com/0/932/045.htm"
             }
         ],
         "mil": [
             {
+                "title": "9车齐发，余承东缺席，鸿蒙还缺五个“汪峰”",
+                "source": "NewsAPI / Huxiu.com",
+                "date": "2026-03-24",
+                "url": "https://www.huxiu.com/article/4844808.html"
+            },
+            {
+                "title": "前Ai2首席执行官及核心研究团队加入微软“超级智能”部门 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554710.htm"
+            },
+            {
+                "title": "美国国务院新设“新兴威胁局”应对伊朗等国网络攻击与AI风险 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554708.htm"
+            },
+            {
+                "title": "平均油价创 3 年来新高，美国电动汽车相关搜索量暴增 20%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-24",
+                "url": "https://www.ithome.com/0/932/121.htm"
+            },
+            {
                 "title": "36氪首发 | 斯坦福博士做分子检测平台，产品已进入北大、清华",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-24",
                 "url": "https://36kr.com/p/3735674146865160"
-            },
-            {
-                "title": "8点1氪丨13年来首次，国家对油价临时调控；影石回应被大疆起诉；雷军称小米新一代SU7锁单超过3万台",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-24",
-                "url": "https://36kr.com/p/3736178996658435"
-            },
-            {
-                "title": "IT早报 0324：华为春季全场景新品发布会汇总；苹果 WWDC26 定档 6 月 9 日；北京三部门约谈 12 家平台企业；影石回应大疆专利诉讼...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-23",
-                "url": "https://www.ithome.com/0/931/931.htm"
-            },
-            {
-                "title": "加油站排队100多米 再打钱包就撑不住了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554620.htm"
-            },
-            {
-                "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-23",
-                "url": "https://36kr.com/p/3735459789242375"
-            },
-            {
-                "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ROVEyM3pJZHhpcUdmYkVITFZWV3J0SGhBUUhmSUI5eWx5NTFmSkk5LXUyMjJTdWc3TVBhZWh2TzcxNlBaRkJqUTdRRHJrTk5JaUo5YTI5ZlVIZ2tTN1ZyR2NRbkZ4aU5haGtkaTdaTFI3WHNUd2c?oc=5"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
@@ -86,22 +80,28 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RdVNlOEM4Y3FXWGJhM2pjRmZzU29IODNZS0o4QzlQVksyMTUxa1hIX2tiUEVFYWZzQ2RqZnZuSEJUWFVHU2dfek4wendaRnp5NEdYQ21jdEIyVFJJbDBpamlvVDBYamJUOEVVbFJn?oc=5"
             },
             {
+                "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ROVEyM3pJZHhpcUdmYkVITFZWV3J0SGhBUUhmSUI5eWx5NTFmSkk5LXUyMjJTdWc3TVBhZWh2TzcxNlBaRkJqUTdRRHJrTk5JaUo5YTI5ZlVIZ2tTN1ZyR2NRbkZ4aU5haGtkaTdaTFI3WHNUd2c?oc=5"
+            },
+            {
                 "title": "林剑：希望欧方抓住“十五五”新蓝图提供的新机遇 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-24",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDkyVTYzazBMLUVwRlZ0ZGtpX2hqNEYxX2lHdS1VUi1waVNpSVNDTC0ydTgzTFNsR0I5MzJMZkhzbm1FUC1IRXFHUkdtRzlfZWZfRXE3azJMMXUyczNsQ0gtLVpTd25xS1RIRTk2VDhFUEJHalYyMW5TUV9SQ3B6alBQc3MwMTc4Mi1QSlR2LUM?oc=5"
             },
             {
-                "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hMUQxeloyZ1pidVBSMGpzcXlyZzU4R2dqbWI1UHdzV0s4NDB0bXhYLTNkWGM5VXBJcnpwVjBnNFl1OE55M0kxUGE0X1FCZ3lLTUE?oc=5"
-            },
-            {
                 "title": "一线传真丨“这堂课，刻进了我们的心里” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wY29sazdUcFVUNy1INlZ4UXBNbWhWbFYxdExUdUJMd21pdXBwM0FHUEVBR1Jaa2M1enNIYTROTnpBT1lQTnJjTERtQ3Fzcl8yRkE?oc=5"
+            },
+            {
+                "title": "清风正气歌丨两本书蕴含的民心向背- 八一视频 - 八一视频",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-25",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9abGFkVVhrVnZVVFRoNmtDWURZNUswazZjQ2ZiSUcxWWRwUHl0UE5pczE4R2tEd3VlaWUtRy12WUxfd2NxWVhXdExR?oc=5"
             },
             {
                 "title": "博鳌亚洲论坛2026年年会准备就绪 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "双良节能蹭热点自曝“与 SpaceX 有合作关系”被罚 1300 万元，股价涨停又跌停",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-24",
-                "url": "https://www.ithome.com/0/931/955.htm"
-            },
-            {
-                "title": "今日消费资讯：《蜘蛛侠：崭新之日》首条预告发布、YEARLY PLAN 成都 HOUSE 开幕",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-03-24",
-                "url": "https://www.toodaylab.com/83959"
-            },
-            {
-                "title": "小米新SU7上市72小时：客流被稀释，要拼产品硬功夫",
+                "title": "黑石加仓，热钱蓄势：2026 年中国商办投资迎来布局窗口期？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-24",
-                "url": "https://36kr.com/p/3730744534253570"
+                "url": "https://36kr.com/p/3736572995813636"
             },
             {
-                "title": "8点1氪丨13年来首次，国家对油价临时调控；影石回应被大疆起诉；雷军称小米新一代SU7锁单超过3万台",
-                "source": "NewsAPI / 36kr.com",
+                "title": "9车齐发，余承东缺席，鸿蒙还缺五个“汪峰”",
+                "source": "NewsAPI / Huxiu.com",
                 "date": "2026-03-24",
-                "url": "https://36kr.com/p/3736178996658435"
+                "url": "https://www.huxiu.com/article/4844808.html"
             },
             {
-                "title": "IT早报 0324：华为春季全场景新品发布会汇总；苹果 WWDC26 定档 6 月 9 日；北京三部门约谈 12 家平台企业；影石回应大疆专利诉讼...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-23",
-                "url": "https://www.ithome.com/0/931/931.htm"
+                "title": "Anthropic宣布其用户现在可以让Claude控制自己的电脑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554712.htm"
             },
             {
-                "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ROVEyM3pJZHhpcUdmYkVITFZWV3J0SGhBUUhmSUI5eWx5NTFmSkk5LXUyMjJTdWc3TVBhZWh2TzcxNlBaRkJqUTdRRHJrTk5JaUo5YTI5ZlVIZ2tTN1ZyR2NRbkZ4aU5haGtkaTdaTFI3WHNUd2c?oc=5"
+                "title": "美国国务院新设“新兴威胁局”应对伊朗等国网络攻击与AI风险 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554708.htm"
+            },
+            {
+                "title": "iOS漏洞攻击工具DarkSword泄露至GitHub 未更新设备面临高风险 ​",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1554704.htm"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
@@ -154,22 +148,28 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RdVNlOEM4Y3FXWGJhM2pjRmZzU29IODNZS0o4QzlQVksyMTUxa1hIX2tiUEVFYWZzQ2RqZnZuSEJUWFVHU2dfek4wendaRnp5NEdYQ21jdEIyVFJJbDBpamlvVDBYamJUOEVVbFJn?oc=5"
             },
             {
+                "title": "2026年3月23日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-23",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ROVEyM3pJZHhpcUdmYkVITFZWV3J0SGhBUUhmSUI5eWx5NTFmSkk5LXUyMjJTdWc3TVBhZWh2TzcxNlBaRkJqUTdRRHJrTk5JaUo5YTI5ZlVIZ2tTN1ZyR2NRbkZ4aU5haGtkaTdaTFI3WHNUd2c?oc=5"
+            },
+            {
                 "title": "林剑：希望欧方抓住“十五五”新蓝图提供的新机遇 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-24",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDkyVTYzazBMLUVwRlZ0ZGtpX2hqNEYxX2lHdS1VUi1waVNpSVNDTC0ydTgzTFNsR0I5MzJMZkhzbm1FUC1IRXFHUkdtRzlfZWZfRXE3azJMMXUyczNsQ0gtLVpTd25xS1RIRTk2VDhFUEJHalYyMW5TUV9SQ3B6alBQc3MwMTc4Mi1QSlR2LUM?oc=5"
             },
             {
-                "title": "“全国爱国拥军模范”曾恨：她用一生为英魂“安家” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hMUQxeloyZ1pidVBSMGpzcXlyZzU4R2dqbWI1UHdzV0s4NDB0bXhYLTNkWGM5VXBJcnpwVjBnNFl1OE55M0kxUGE0X1FCZ3lLTUE?oc=5"
-            },
-            {
                 "title": "一线传真丨“这堂课，刻进了我们的心里” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wY29sazdUcFVUNy1INlZ4UXBNbWhWbFYxdExUdUJMd21pdXBwM0FHUEVBR1Jaa2M1enNIYTROTnpBT1lQTnJjTERtQ3Fzcl8yRkE?oc=5"
+            },
+            {
+                "title": "清风正气歌丨两本书蕴含的民心向背- 八一视频 - 八一视频",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-25",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9abGFkVVhrVnZVVFRoNmtDWURZNUswazZjQ2ZiSUcxWWRwUHl0UE5pczE4R2tEd3VlaWUtRy12WUxfd2NxWVhXdExR?oc=5"
             },
             {
                 "title": "博鳌亚洲论坛2026年年会准备就绪 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-25T01:58:21.320173+00:00"
+    "last_updated": "2026-03-25T06:58:57.294562+00:00"
 }
