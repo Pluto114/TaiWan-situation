@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪独家｜红杉中国、Monolith领投AI健康硬件公司「Odyss」，金额近2亿元",
+                "title": "涉嫌利用超微服务器走私NVIDIA高端GPU至中国 美司法部起诉三人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555082.htm"
+            },
+            {
+                "title": "集装箱里的“灰熊”发射架 洛克希德·马丁用伪装玩法对抗无人机威胁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555076.htm"
+            },
+            {
+                "title": "社保第六险：长护险正在谋划 不设起付线 不直接向失能人员发放现金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555048.htm"
+            },
+            {
+                "title": "能源危机第24天，亚洲人民进入“省油模式”",
+                "source": "NewsAPI / Bohaishibei.com",
+                "date": "2026-03-26",
+                "url": "https://www.bohaishibei.com/post/108082/"
+            },
+            {
+                "title": "业绩快报丨古茗2025年售出饮品19亿杯，“下沉之王”质效双增",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-26",
-                "url": "https://36kr.com/p/3738226479874304"
-            },
-            {
-                "title": "36氪首发 | 前九号产品副总裁创业全地形车，获高瓴、云时、云沐千万美元融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-26",
-                "url": "https://36kr.com/p/3738426692567046"
-            },
-            {
-                "title": "中信证券：新能源行业有望迎来戴维斯双击",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-26",
-                "url": "https://36kr.com/newsflashes/3739029922054400"
-            },
-            {
-                "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-25",
-                "url": "https://36kr.com/p/3739006287216903"
-            },
-            {
-                "title": "IT早报 0326：小米汽车回应动力差异新车前 300km 为新手保护期；中消协曝光手机租赁消费陷阱；OpenAI 宣布将停止视频生成服务 Sora；旧手机回收价迎来暴涨...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-25",
-                "url": "https://www.ithome.com/0/932/728.htm"
+                "url": "https://36kr.com/p/3739345671962626"
             }
         ],
         "mil": [
+            {
+                "title": "王腾警告：不许网友拿雷军开玩笑 调侃雷军一律拉黑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555014.htm"
+            },
             {
                 "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
                 "source": "NewsAPI / 36kr.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.dw.com/zh/%E7%BD%91%E7%BA%A2%E5%90%8D%E5%B8%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%8C%9D%E9%80%9D-%E6%9B%BE%E5%96%8A%E8%A7%A3%E6%94%BE%E5%86%9B%E6%94%BB%E5%8F%B0%E8%A6%81%E6%8D%90%E4%B8%80%E4%BA%BF/a-76518008"
             },
             {
-                "title": "抽屉里的碎屏安卓机身价立涨10倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1554914.htm"
-            },
-            {
                 "title": "王毅会见印度离任驻华大使罗国栋 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-26",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qN3ZmdHZ4eFh1Tmptb1ZLNVRBbUczSkxTSktnQ2ZIbFBURTZFRG5vOGZ4UlJtRExnZGhvQVFHSnhyNnR0VVBQUlU2MF9xT3E1S0E?oc=5"
             },
             {
+                "title": "古特雷斯呼吁美以结束对伊朗的战争 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MC1mdEh2RF9lb25jVHIwM1ZhVXlUTTltZ0tCbkhRWXpkX3NSV2RfeGNWLWFrcnF5RmV1LTZYRkhlM2VJSTd5Vzg0TC1JU2FfVWc?oc=5"
+            },
+            {
                 "title": "踏访新时代边关·新兵初上哨丨听！雪山上的石头会“唱歌” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFa1p0MUF6RHNaLWw4WUlwallwUmJBWnJMZF8wbEVwbGxsWVR0NVJCVkcwTWh5LVZNRXhZX1kwTm92VzU0WnFuZ1ZHSTdWcXhfY2c?oc=5"
-            },
-            {
-                "title": "清风正气歌丨两本书蕴含的民心向背- 八一视频 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-25",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9abGFkVVhrVnZVVFRoNmtDWURZNUswazZjQ2ZiSUcxWWRwUHl0UE5pczE4R2tEd3VlaWUtRy12WUxfd2NxWVhXdExR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪独家｜红杉中国、Monolith领投AI健康硬件公司「Odyss」，金额近2亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "涉嫌利用超微服务器走私NVIDIA高端GPU至中国 美司法部起诉三人",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-26",
-                "url": "https://36kr.com/p/3738226479874304"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555082.htm"
             },
             {
-                "title": "36氪首发 | 前九号产品副总裁创业全地形车，获高瓴、云时、云沐千万美元融资",
-                "source": "NewsAPI / 36kr.com",
+                "title": "东航拟向空客购买101架飞机 谈判获较优惠折扣",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-26",
-                "url": "https://36kr.com/p/3738426692567046"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555072.htm"
             },
             {
-                "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-25",
-                "url": "https://36kr.com/p/3739006287216903"
+                "title": "传斯柯达年内退出中国 年销仅1.5万辆",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555050.htm"
             },
             {
-                "title": "IT早报 0326：小米汽车回应动力差异新车前 300km 为新手保护期；中消协曝光手机租赁消费陷阱；OpenAI 宣布将停止视频生成服务 Sora；旧手机回收价迎来暴涨...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-25",
-                "url": "https://www.ithome.com/0/932/728.htm"
+                "title": "刘强东第三次进军欧洲 再造一个京东",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555024.htm"
             },
             {
-                "title": "美陪审团裁定 Meta 与谷歌在社交媒体成瘾案中负有责任，判令赔偿 300 万美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-25",
-                "url": "https://www.ithome.com/0/932/724.htm"
+                "title": "王腾警告：不许网友拿雷军开玩笑 调侃雷军一律拉黑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555014.htm"
             },
             {
                 "title": "王毅会见印度离任驻华大使罗国栋 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qN3ZmdHZ4eFh1Tmptb1ZLNVRBbUczSkxTSktnQ2ZIbFBURTZFRG5vOGZ4UlJtRExnZGhvQVFHSnhyNnR0VVBQUlU2MF9xT3E1S0E?oc=5"
             },
             {
+                "title": "古特雷斯呼吁美以结束对伊朗的战争 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MC1mdEh2RF9lb25jVHIwM1ZhVXlUTTltZ0tCbkhRWXpkX3NSV2RfeGNWLWFrcnF5RmV1LTZYRkhlM2VJSTd5Vzg0TC1JU2FfVWc?oc=5"
+            },
+            {
                 "title": "踏访新时代边关·新兵初上哨丨听！雪山上的石头会“唱歌” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFa1p0MUF6RHNaLWw4WUlwallwUmJBWnJMZF8wbEVwbGxsWVR0NVJCVkcwTWh5LVZNRXhZX1kwTm92VzU0WnFuZ1ZHSTdWcXhfY2c?oc=5"
-            },
-            {
-                "title": "清风正气歌丨两本书蕴含的民心向背- 八一视频 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-25",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9abGFkVVhrVnZVVFRoNmtDWURZNUswazZjQ2ZiSUcxWWRwUHl0UE5pczE4R2tEd3VlaWUtRy12WUxfd2NxWVhXdExR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-27T02:05:52.637459+00:00"
+    "last_updated": "2026-03-27T07:03:28.096530+00:00"
 }
