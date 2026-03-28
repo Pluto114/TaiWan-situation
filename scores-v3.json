@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "新款 Meta 雷朋联名智能眼镜现身美国 FCC 认证文件，提供双版本可选",
-                "source": "NewsAPI / Ithome.com",
+                "title": "日均调用量已经超过了140万亿背后 全世界都在用中国Token",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/154.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555246.htm"
             },
             {
-                "title": "云鲸联创吴一昊Hower即将离职创业 | 硬氪独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "戴尔：现在买PC就是今年最低价",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://36kr.com/p/3736574177345799"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555238.htm"
             },
             {
-                "title": "8499 元起华为 Mate80 Pro Max 风驰版今日开售，业界首创隐藏式无感出风设计",
+                "title": "三哩岛核电站重启并网遇阻，恐影响微软数据中心建设",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/140.htm"
+                "url": "https://www.ithome.com/0/933/251.htm"
             },
             {
-                "title": "存储巨头 2025 在华投资暴涨：三星西安厂同比增资 67%，SK 海力士无锡厂增 102%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "比亚迪为何应该进军F1？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/136.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555216.htm"
             },
             {
-                "title": "与 OpenAI 赛跑，Anthropic 被曝最快 10 月 IPO 上市",
-                "source": "NewsAPI / Ithome.com",
+                "title": "OpenClaw之父：在美国用了被开除 在中国不用反而被开除",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/135.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555214.htm"
             }
         ],
         "mil": [
+            {
+                "title": "OpenClaw之父：在美国用了被开除 在中国不用反而被开除",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555214.htm"
+            },
+            {
+                "title": "马斯克粉碎华尔街规矩？SpaceX据称拟将至多30%新股留给散户",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555204.htm"
+            },
+            {
+                "title": "Anthropic 起诉白宫获阶段性胜利：美国政府涉嫌违宪，Claude 禁令被叫停",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-27",
+                "url": "https://www.ithome.com/0/933/160.htm"
+            },
             {
                 "title": "打破常规：马斯克拟将 SpaceX 三成新股分配给散户，借粉丝力量稳定 IPO 后股价",
                 "source": "NewsAPI / Ithome.com",
@@ -56,30 +74,6 @@
                 "url": "https://36kr.com/p/3740427947426049"
             },
             {
-                "title": "IT早报 0327：小米 MIUI 正式停更；微信回应“为什么没有已读”；PC 硬件涨价潮从内存蔓延至 CPU；美团 2025 年收入 3649 亿元业绩由盈转亏...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-26",
-                "url": "https://www.ithome.com/0/933/118.htm"
-            },
-            {
-                "title": "欲战欲和历史在观望 方死方生伊朗绝地求存(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-26",
-                "url": "https://www.secretchina.com/news/gb/2026/03/27/1096894.html"
-            },
-            {
-                "title": "陆海复合型强国应选择什么样的崛起路径？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-03-26",
-                "url": "https://www.ftchinese.com/story/001109298"
-            },
-            {
-                "title": "王毅会见印度离任驻华大使罗国栋 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-26",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11TkZfdVdDQ0RVYS1qYWZBZnhvVTU0bHBZd2s3QjJjalBoMHNoREtqelgzTk1BSHFfYzA4WGtpeUM5T05OZWhfcUw0ejg5SVZVYWt1MjJsYkhrcTlNdENmYlBkbHYzSmdYTkc5eDhR?oc=5"
-            },
-            {
                 "title": "王毅同加拿大外长阿南德通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-26",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-27",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBbWUyMWg3bEFkdlY3dENkWm5vNjRqeS1VUGpvNVNzYmZNa2sycTZwSTBtQmcxQWF6ODI1LW02cWhvSXJmaTh4LVB2LUNDRVluNUlwM19tV3gyS0pBUzltWlVXVldNVFZjVEJnV0REclYyazRzY0E?oc=5"
+            },
+            {
+                "title": "赖清德媚日恋殖丑态令人不齿 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-26",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UFAyYnVoaUU4NmEzaVVPSmRrWjZBMFlESWtkN25YQXgtN0Y5ZUgzTk5fdlNrQ09HUmtEOHJPQnNzTlBCaDZ1TFNGSnlJN2cxV3ozY2J6UTA?oc=5"
             },
             {
                 "title": "兵眼观潮丨从“农闲田”到“致富田” - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "云鲸联创吴一昊Hower即将离职创业 | 硬氪独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "骂消费者像狗广告语引众怒 起底罗技中国涉事代运营",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://36kr.com/p/3736574177345799"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555268.htm"
             },
             {
-                "title": "特斯拉称尚无计划将 Model 3 标准版引入中国市场，也未在上海建设相关生产线",
-                "source": "NewsAPI / Ithome.com",
+                "title": "国外小哥花9美元买筷子后遇奇事：包裹源源不断、已收到7000多双",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/148.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555266.htm"
             },
             {
-                "title": "植入 Neuralink 脑机接口 100 天：瘫痪老兵用意念畅玩《魔兽世界》游戏",
-                "source": "NewsAPI / Ithome.com",
+                "title": "戴尔：现在买PC就是今年最低价",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/145.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555238.htm"
             },
             {
-                "title": "打破常规：马斯克拟将 SpaceX 三成新股分配给散户，借粉丝力量稳定 IPO 后股价",
-                "source": "NewsAPI / Ithome.com",
+                "title": "OpenClaw之父：在美国用了被开除 在中国不用反而被开除",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/133.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555214.htm"
             },
             {
-                "title": "为 SpaceX 千亿美元 IPO 铺路：马斯克旗下 X 再度裁员超 20 人，首席营销官离职",
-                "source": "NewsAPI / Ithome.com",
+                "title": "马斯克粉碎华尔街规矩？SpaceX据称拟将至多30%新股留给散户",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/131.htm"
-            },
-            {
-                "title": "王毅会见印度离任驻华大使罗国栋 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-26",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11TkZfdVdDQ0RVYS1qYWZBZnhvVTU0bHBZd2s3QjJjalBoMHNoREtqelgzTk1BSHFfYzA4WGtpeUM5T05OZWhfcUw0ejg5SVZVYWt1MjJsYkhrcTlNdENmYlBkbHYzSmdYTkc5eDhR?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555204.htm"
             },
             {
                 "title": "王毅同加拿大外长阿南德通电话 - mfa.gov.cn",
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-27",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBbWUyMWg3bEFkdlY3dENkWm5vNjRqeS1VUGpvNVNzYmZNa2sycTZwSTBtQmcxQWF6ODI1LW02cWhvSXJmaTh4LVB2LUNDRVluNUlwM19tV3gyS0pBUzltWlVXVldNVFZjVEJnV0REclYyazRzY0E?oc=5"
+            },
+            {
+                "title": "赖清德媚日恋殖丑态令人不齿 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-26",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UFAyYnVoaUU4NmEzaVVPSmRrWjZBMFlESWtkN25YQXgtN0Y5ZUgzTk5fdlNrQ09HUmtEOHJPQnNzTlBCaDZ1TFNGSnlJN2cxV3ozY2J6UTA?oc=5"
             },
             {
                 "title": "兵眼观潮丨从“农闲田”到“致富田” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-28T01:57:07.453648+00:00"
+    "last_updated": "2026-03-28T06:55:42.900265+00:00"
 }
