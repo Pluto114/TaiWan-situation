@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "盛雪：中共对伊朗暴政的全面武装（六）(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-28",
+                "url": "https://www.secretchina.com/news/gb/2026/03/28/1096971.html"
+            },
+            {
+                "title": "输了官司不爽？马斯克嘲讽 84 岁法官：他穿成这样我怎能获得公正审判",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-28",
+                "url": "https://www.ithome.com/0/933/561.htm"
+            },
+            {
                 "title": "索尼游戏主机PS5官宣涨价",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-28",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-28",
                 "url": "https://36kr.com/p/3741924007461128"
-            },
-            {
-                "title": "曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-28",
-                "url": "https://36kr.com/p/3741142695117059"
-            },
-            {
-                "title": "业绩快报 | 茶百道2025年业绩报：新品业绩贡献超30%，部分门店咖啡日售超百杯",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-28",
-                "url": "https://36kr.com/p/3741100948029448"
             }
         ],
         "mil": [
+            {
+                "title": "盛雪：中共对伊朗暴政的全面武装（六）(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-28",
+                "url": "https://www.secretchina.com/news/gb/2026/03/28/1096971.html"
+            },
             {
                 "title": "IT早报 0328：特斯拉否认将推 Model 3 标准版入华；OpenClaw 之父谈中美 AI 温差；曝 iOS 27 所有 App 强推液态玻璃；林俊旸从阿里离职后首发长文...",
                 "source": "NewsAPI / Ithome.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/03/28/1096955.html"
             },
             {
-                "title": "被美列入黑名单的中国高校被曝采购含受限英伟达A100芯片的超微服务器",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555374.htm"
-            },
-            {
                 "title": "2026年3月27日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-27",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "韩正与南非副总统马沙蒂莱共同主持召开中南国家双边委员会第九次全体会议 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemtuRDB0Z1hCbmNaRmhkOE8wZHdRamVMdS1ycDFncVg4S010UkJxX1JvWXl1bWp1OG9ZVlFJYTNwZDJpbGhBMGx2TWViSGJQNDhOdUZjejdNZjdQd1J4cFZKY1ZBYXQ2bFpFRE9uWjZUYnE2aW5YalpEMFRMR2lod3AxeVJad2ptX2t5bk1R?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHN1N3gyVllfV3I5eUZKc1h5VXdwNVFmVkdTblVlSnNtMUdLeFVfSGFHU1hYUGV5bkhhQTVCTFl1ekNhYzZqN0oxOVNma3V2SUppMzhTb3M0bHpyMDZKejlPUUtPM0g0SlFocmhLY055SVZkWEx2VDZ2dm0yTkJnS0ZvRVdVMmd5aEE?oc=5"
+            },
+            {
+                "title": "军人家庭丨母亲的热望 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WWEE1R29zTG5KNGpqQWdzOXREX3c4ejBPNE5NeEZkMDRsUW50N0h6VFFHSFQwdHkzQXppOEZGTHhFbS1FNnlOQkFNTE4wYWswcHc?oc=5"
             },
             {
                 "title": "倾听高原“春天的故事”——西藏各地群众纪念百万农奴解放67周年见闻 - 中国军网",
@@ -102,15 +108,21 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUW13WktseDRYY1c5MGdNV1JIcmotaFhxVkY0OHlQTkdRYmVFaEoyODNxRlMzMGxWNmx1TEF5R2pLaURBR3plODhMWl83QzFxaUE?oc=5"
-            },
-            {
-                "title": "双拥·短镜头丨“我们又来了” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5US0k4MDluUkdpZVdXQ0loSktRdzE2eEZteDc5SlZSMTFKMHBrUjY5aGExNURfVXNCNXdNcjNzWUU3WV9qV3JxSk5YQ1h6aXgtQ1E?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "中国内地首家旗舰店开幕，Ralph Lauren 如何在成都构建生活方式全景叙事？",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-03-28",
+                "url": "https://www.toodaylab.com/83969"
+            },
+            {
+                "title": "苹果 50 周年全球庆典活动在华盛顿、上海、东京等地继续举行，VTuber“森美声”也来了",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-28",
+                "url": "https://www.ithome.com/0/933/576.htm"
+            },
             {
                 "title": "9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号",
                 "source": "NewsAPI / 36kr.com",
@@ -130,18 +142,6 @@
                 "url": "https://36kr.com/p/3741142695117059"
             },
             {
-                "title": "马兴瑞案件同伙郭永航常用新词、辣词、流行词  (组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-28",
-                "url": "https://www.secretchina.com/news/gb/2026/03/28/1096965.html"
-            },
-            {
-                "title": "IT早报 0328：特斯拉否认将推 Model 3 标准版入华；OpenClaw 之父谈中美 AI 温差；曝 iOS 27 所有 App 强推液态玻璃；林俊旸从阿里离职后首发长文...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-27",
-                "url": "https://www.ithome.com/0/933/526.htm"
-            },
-            {
                 "title": "2026年3月27日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-27",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "韩正与南非副总统马沙蒂莱共同主持召开中南国家双边委员会第九次全体会议 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemtuRDB0Z1hCbmNaRmhkOE8wZHdRamVMdS1ycDFncVg4S010UkJxX1JvWXl1bWp1OG9ZVlFJYTNwZDJpbGhBMGx2TWViSGJQNDhOdUZjejdNZjdQd1J4cFZKY1ZBYXQ2bFpFRE9uWjZUYnE2aW5YalpEMFRMR2lod3AxeVJad2ptX2t5bk1R?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHN1N3gyVllfV3I5eUZKc1h5VXdwNVFmVkdTblVlSnNtMUdLeFVfSGFHU1hYUGV5bkhhQTVCTFl1ekNhYzZqN0oxOVNma3V2SUppMzhTb3M0bHpyMDZKejlPUUtPM0g0SlFocmhLY055SVZkWEx2VDZ2dm0yTkJnS0ZvRVdVMmd5aEE?oc=5"
+            },
+            {
+                "title": "军人家庭丨母亲的热望 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WWEE1R29zTG5KNGpqQWdzOXREX3c4ejBPNE5NeEZkMDRsUW50N0h6VFFHSFQwdHkzQXppOEZGTHhFbS1FNnlOQkFNTE4wYWswcHc?oc=5"
             },
             {
                 "title": "倾听高原“春天的故事”——西藏各地群众纪念百万农奴解放67周年见闻 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aUW13WktseDRYY1c5MGdNV1JIcmotaFhxVkY0OHlQTkdRYmVFaEoyODNxRlMzMGxWNmx1TEF5R2pLaURBR3plODhMWl83QzFxaUE?oc=5"
-            },
-            {
-                "title": "双拥·短镜头丨“我们又来了” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5US0k4MDluUkdpZVdXQ0loSktRdzE2eEZteDc5SlZSMTFKMHBrUjY5aGExNURfVXNCNXdNcjNzWUU3WV9qV3JxSk5YQ1h6aXgtQ1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-29T02:08:18.492402+00:00"
+    "last_updated": "2026-03-29T06:59:39.225695+00:00"
 }
