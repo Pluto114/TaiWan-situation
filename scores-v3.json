@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-29",
+                "url": "https://36kr.com/p/3743360666566919"
+            },
+            {
+                "title": "IT早报 0329：微软组建新团队开发 Win11 原生应用；华为盘古大模型负责人王云鹤离职；苹果 iOS 27 版 Siri 前瞻；曝台积电 3nm 工艺产能几乎到达极限...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-28",
+                "url": "https://www.ithome.com/0/933/688.htm"
+            },
+            {
+                "title": "欧盟大刀改革海关法规 廉价跨境小包时代宣告终结",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555512.htm"
+            },
+            {
                 "title": "这场仗非打不可 却远比想像更难(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-03-28",
@@ -22,27 +40,33 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-28",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1555506.htm"
-            },
-            {
-                "title": "杜比因与AV1和HEVC相关的视频编解码器专利起诉Snap",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555502.htm"
-            },
-            {
-                "title": "航空燃油价格短短一个月翻倍 一场全球“飞行危机”正在显现",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555492.htm"
-            },
-            {
-                "title": "苹果或重启与长江存储合作 国行机型拟采用国产NAND",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555488.htm"
             }
         ],
         "mil": [
+            {
+                "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-29",
+                "url": "https://36kr.com/p/3743360666566919"
+            },
+            {
+                "title": "IT早报 0329：微软组建新团队开发 Win11 原生应用；华为盘古大模型负责人王云鹤离职；苹果 iOS 27 版 Siri 前瞻；曝台积电 3nm 工艺产能几乎到达极限...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-28",
+                "url": "https://www.ithome.com/0/933/688.htm"
+            },
+            {
+                "title": "付费用户激增 Anthropic Claude 在消费者市场表现强劲",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555510.htm"
+            },
+            {
+                "title": "美国首批海军陆战队远征军抵达中东(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-28",
+                "url": "https://www.secretchina.com/news/gb/2026/03/29/1097003.html"
+            },
             {
                 "title": "俄罗斯宣布4月1日起禁止汽油出口",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,40 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1555484.htm"
             },
             {
-                "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-28",
-                "url": "https://36kr.com/p/3738258350817540"
-            },
-            {
-                "title": "出大事？传中共军事演习误射烟雾弹击中观察员人群(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-28",
-                "url": "https://www.secretchina.com/news/gb/2026/03/28/1096981.html"
-            },
-            {
-                "title": "国际民航组织新规：乘客最多带2个充电宝 不得在飞行途中为充电宝充电",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555452.htm"
-            },
-            {
-                "title": "擅删邮件、网暴用户等：过去 6 个月违规案例激增 5 倍，AI 正走向“野蛮失控”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-28",
-                "url": "https://www.ithome.com/0/933/616.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "中国政府太平洋岛国事务特使钱波会见萨摩亚总理拉乌利 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHN1N3gyVllfV3I5eUZKc1h5VXdwNVFmVkdTblVlSnNtMUdLeFVfSGFHU1hYUGV5bkhhQTVCTFl1ekNhYzZqN0oxOVNma3V2SUppMzhTb3M0bHpyMDZKejlPUUtPM0g0SlFocmhLY055SVZkWEx2VDZ2dm0yTkJnS0ZvRVdVMmd5aEE?oc=5"
+                "date": "2026-03-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmFSaExBTFVoQ3lTaDZTdnlHY095VGR3anBGdjJObk5CN1lHYjBHNUoxUURLZklFcC16Tzc5dHNKdTdlUEtUSE04OWZRR21TLXZXOFZieklFa3lVTEQyZkdVNXlxeVliWGtEN242ZWFaSzN0UExwZU1SME9ncUJCall0blE?oc=5"
             },
             {
                 "title": "中菲举行新一轮外交磋商 - mfa.gov.cn",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wYlB5S0VwUWd6aGgwdll1TFUtMjBkUzIxb1M2TTVTYVdaNWRCcHotcjMtUlFYZm90QlJJNVNTWjdGSmd5VjdHSHpMSkpOMi1EM0E?oc=5"
             },
             {
-                "title": "双拥·短镜头丨“我们又来了” - 中国军网",
+                "title": "军营观察丨聆听潜艇“心跳”的日日夜夜 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5US0k4MDluUkdpZVdXQ0loSktRdzE2eEZteDc5SlZSMTFKMHBrUjY5aGExNURfVXNCNXdNcjNzWUU3WV9qV3JxSk5YQ1h6aXgtQ1E?oc=5"
+                "date": "2026-03-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SHhnUHQ2b1JGMlJtUThheHU0UXh3eGFtX2lkLUx3NVMwbVg0YVBBM211MzBIUWpOaVZhNXEzeXhFQzNJYU5Xb1RCaHhNU3RJZ2c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "杜比因与AV1和HEVC相关的视频编解码器专利起诉Snap",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555502.htm"
+                "title": "谷歌将“量子末日”防御期限提前至 2029 年，届时现有加密算法面临被破解风险",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-29",
+                "url": "https://www.ithome.com/0/933/703.htm"
             },
             {
-                "title": "美国科技巨头遭遇近一年最严重抛售",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555496.htm"
+                "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-29",
+                "url": "https://36kr.com/p/3743360666566919"
             },
             {
-                "title": "罗技鼠标广告引众怒 店铺收到多条差评",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555494.htm"
+                "title": "华盛顿特区樱花即将绽放　日本高市早苗捐赠250棵樱花树(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-29",
+                "url": "https://www.secretchina.com/news/gb/2026/03/29/1097010.html"
             },
             {
-                "title": "航空燃油价格短短一个月翻倍 一场全球“飞行危机”正在显现",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 0329：微软组建新团队开发 Win11 原生应用；华为盘古大模型负责人王云鹤离职；苹果 iOS 27 版 Siri 前瞻；曝台积电 3nm 工艺产能几乎到达极限...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555492.htm"
+                "url": "https://www.ithome.com/0/933/688.htm"
             },
             {
-                "title": "苹果或重启与长江存储合作 国行机型拟采用国产NAND",
+                "title": "欧盟大刀改革海关法规 廉价跨境小包时代宣告终结",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555488.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555512.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -148,10 +148,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "中国政府太平洋岛国事务特使钱波会见萨摩亚总理拉乌利 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHN1N3gyVllfV3I5eUZKc1h5VXdwNVFmVkdTblVlSnNtMUdLeFVfSGFHU1hYUGV5bkhhQTVCTFl1ekNhYzZqN0oxOVNma3V2SUppMzhTb3M0bHpyMDZKejlPUUtPM0g0SlFocmhLY055SVZkWEx2VDZ2dm0yTkJnS0ZvRVdVMmd5aEE?oc=5"
+                "date": "2026-03-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmFSaExBTFVoQ3lTaDZTdnlHY095VGR3anBGdjJObk5CN1lHYjBHNUoxUURLZklFcC16Tzc5dHNKdTdlUEtUSE04OWZRR21TLXZXOFZieklFa3lVTEQyZkdVNXlxeVliWGtEN242ZWFaSzN0UExwZU1SME9ncUJCall0blE?oc=5"
             },
             {
                 "title": "中菲举行新一轮外交磋商 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wYlB5S0VwUWd6aGgwdll1TFUtMjBkUzIxb1M2TTVTYVdaNWRCcHotcjMtUlFYZm90QlJJNVNTWjdGSmd5VjdHSHpMSkpOMi1EM0E?oc=5"
             },
             {
-                "title": "双拥·短镜头丨“我们又来了” - 中国军网",
+                "title": "军营观察丨聆听潜艇“心跳”的日日夜夜 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5US0k4MDluUkdpZVdXQ0loSktRdzE2eEZteDc5SlZSMTFKMHBrUjY5aGExNURfVXNCNXdNcjNzWUU3WV9qV3JxSk5YQ1h6aXgtQ1E?oc=5"
+                "date": "2026-03-29",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SHhnUHQ2b1JGMlJtUThheHU0UXh3eGFtX2lkLUx3NVMwbVg0YVBBM211MzBIUWpOaVZhNXEzeXhFQzNJYU5Xb1RCaHhNU3RJZ2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-29T18:38:31.227469+00:00"
+    "last_updated": "2026-03-30T02:10:35.209936+00:00"
 }
