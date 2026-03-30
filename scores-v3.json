@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Bigme 大我 HiBreak Plus 彩墨屏手写手机预售：MTK6765 芯片、安卓 14 系统，1699 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-29",
-                "url": "https://www.ithome.com/0/933/867.htm"
-            },
-            {
-                "title": "中国石油：2025 年营收 2.86 万亿同比下降 2.5%，净利润 1573.18 亿同比下降 4.5%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-29",
-                "url": "https://www.ithome.com/0/933/856.htm"
-            },
-            {
-                "title": "氦气价格暴涨50% 三星、SK海力士正不计成本抢夺库存",
+                "title": "DDR5大降价 市场“逆转”还是“假摔”？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555570.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555600.htm"
             },
             {
-                "title": "佛州男子为探望姐姐 驾车冲进机场劫机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "不只在键盘上愤怒，中国反制需要长牙齿",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555558.htm"
+                "url": "https://www.ftchinese.com/story/001109315"
             },
             {
-                "title": "借7000元买手机，背上1.6万债：谁在拿iPhone做局？",
+                "title": "一周世界舆论聚焦：美以伊战争中的货币战及韩国社会的分裂",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-29",
+                "url": "https://www.ftchinese.com/story/001109316"
+            },
+            {
+                "title": "京东的“当日达”在欧洲将面临怎样的竞争？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-29",
+                "url": "https://www.ftchinese.com/story/001109305"
+            },
+            {
+                "title": "苹果被曝正筹备史上“最重磅”iPhone大改款 首款折叠机型或今秋亮相",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555538.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555594.htm"
             }
         ],
         "mil": [
+            {
+                "title": "BAE为洛克希德U-2侦察机升级电子战防护系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555598.htm"
+            },
+            {
+                "title": "美以联合空袭伊朗导弹与核设施 重创其短期军事能力(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-29",
+                "url": "https://www.secretchina.com/news/gb/2026/03/30/1097035.html"
+            },
+            {
+                "title": "一周世界舆论聚焦：美以伊战争中的货币战及韩国社会的分裂",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-29",
+                "url": "https://www.ftchinese.com/story/001109316"
+            },
+            {
+                "title": "美军酝酿对伊朗地面行动：有限突袭与全面升级之间的关键抉择(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-03-29",
+                "url": "https://www.secretchina.com/news/gb/2026/03/29/1097027.html"
+            },
             {
                 "title": "昔日光刻霸主尼康正陷入空前生存危机",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,30 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1555530.htm"
             },
             {
-                "title": "一人成组：AI 短剧迎来爆发式增长，80% 从业者来自非影视领域",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-29",
-                "url": "https://www.ithome.com/0/933/794.htm"
-            },
-            {
-                "title": "OpenClaw创始人：美国应该向中国学习如何使用人工智能",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555520.htm"
-            },
-            {
-                "title": "美军据悉正为伊朗开展数周地面作战做准备 讨论或涉及占领哈尔克岛",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555514.htm"
-            },
-            {
-                "title": "务工家庭走出 00 后天才！退学造 110 亿独角兽，终身教授辞职追随",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-29",
-                "url": "https://www.ithome.com/0/933/788.htm"
-            },
-            {
                 "title": "关于对日本国会众议员古屋圭司采取反制措施的决定 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-30",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WWEE1R29zTG5KNGpqQWdzOXREX3c4ejBPNE5NeEZkMDRsUW50N0h6VFFHSFQwdHkzQXppOEZGTHhFbS1FNnlOQkFNTE4wYWswcHc?oc=5"
             },
             {
-                "title": "倾听高原“春天的故事”——西藏各地群众纪念百万农奴解放67周年见闻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wYlB5S0VwUWd6aGgwdll1TFUtMjBkUzIxb1M2TTVTYVdaNWRCcHotcjMtUlFYZm90QlJJNVNTWjdGSmd5VjdHSHpMSkpOMi1EM0E?oc=5"
-            },
-            {
                 "title": "军营观察丨聆听潜艇“心跳”的日日夜夜 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SHhnUHQ2b1JGMlJtUThheHU0UXh3eGFtX2lkLUx3NVMwbVg0YVBBM211MzBIUWpOaVZhNXEzeXhFQzNJYU5Xb1RCaHhNU3RJZ2c?oc=5"
+            },
+            {
+                "title": "双拥·短镜头丨“我们又来了” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5US0k4MDluUkdpZVdXQ0loSktRdzE2eEZteDc5SlZSMTFKMHBrUjY5aGExNURfVXNCNXdNcjNzWUU3WV9qV3JxSk5YQ1h6aXgtQ1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-29",
-                "url": "https://36kr.com/p/3743855989587971"
-            },
-            {
-                "title": "中信证券：配置上建议继续坚守中国优势制造业，静待4月决断",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-29",
-                "url": "https://36kr.com/newsflashes/3743825887248645"
-            },
-            {
-                "title": "广汽丰田铂智 7 轿车上市：鸿蒙座舱 + Momenta 智驾 + 小米车载生态，限时补贴权益价 14.78 万元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-29",
-                "url": "https://www.ithome.com/0/933/816.htm"
-            },
-            {
-                "title": "欧洲甜蜜大劫案 雀巢12吨巧克力连车带货被盗",
+                "title": "BAE为洛克希德U-2侦察机升级电子战防护系统",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555546.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555598.htm"
             },
             {
-                "title": "借7000元买手机，背上1.6万债：谁在拿iPhone做局？",
+                "title": "不只在键盘上愤怒，中国反制需要长牙齿",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-29",
+                "url": "https://www.ftchinese.com/story/001109315"
+            },
+            {
+                "title": "一周世界舆论聚焦：美以伊战争中的货币战及韩国社会的分裂",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-29",
+                "url": "https://www.ftchinese.com/story/001109316"
+            },
+            {
+                "title": "京东的“当日达”在欧洲将面临怎样的竞争？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-29",
+                "url": "https://www.ftchinese.com/story/001109305"
+            },
+            {
+                "title": "礼来斥资27.5亿美元与英矽智能达成合作 推广AI新药研发",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555538.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555590.htm"
             },
             {
                 "title": "关于对日本国会众议员古屋圭司采取反制措施的决定 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WWEE1R29zTG5KNGpqQWdzOXREX3c4ejBPNE5NeEZkMDRsUW50N0h6VFFHSFQwdHkzQXppOEZGTHhFbS1FNnlOQkFNTE4wYWswcHc?oc=5"
             },
             {
-                "title": "倾听高原“春天的故事”——西藏各地群众纪念百万农奴解放67周年见闻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wYlB5S0VwUWd6aGgwdll1TFUtMjBkUzIxb1M2TTVTYVdaNWRCcHotcjMtUlFYZm90QlJJNVNTWjdGSmd5VjdHSHpMSkpOMi1EM0E?oc=5"
-            },
-            {
                 "title": "军营观察丨聆听潜艇“心跳”的日日夜夜 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SHhnUHQ2b1JGMlJtUThheHU0UXh3eGFtX2lkLUx3NVMwbVg0YVBBM211MzBIUWpOaVZhNXEzeXhFQzNJYU5Xb1RCaHhNU3RJZ2c?oc=5"
+            },
+            {
+                "title": "双拥·短镜头丨“我们又来了” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5US0k4MDluUkdpZVdXQ0loSktRdzE2eEZteDc5SlZSMTFKMHBrUjY5aGExNURfVXNCNXdNcjNzWUU3WV9qV3JxSk5YQ1h6aXgtQ1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-03-30T13:13:26.307930+00:00"
+    "last_updated": "2026-03-30T18:56:01.769196+00:00"
 }
