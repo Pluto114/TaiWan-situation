@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "“20个名额1万人抢” 参观完直接下单一辆车 这届游客迷上逛工厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "首销优惠价 4299 元起：vivo Pad 6 Pro 平板发布，13.2 英寸 4K 144Hz 原彩屏 + 第五代骁龙 8 至尊版芯片",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555708.htm"
+                "url": "https://www.ithome.com/0/934/233.htm"
             },
             {
-                "title": "特斯拉：TERAFAB项目正式发布 预计将实现每年超1太瓦算力产出",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "Mistral筹集8.3亿美元在欧洲建设英伟达芯片驱动的AI中心",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555682.htm"
+                "url": "https://36kr.com/newsflashes/3745372464497158"
             },
             {
-                "title": "DDR5内存价一天暴跌上百元 专家：内存将持续降价 长期不可能短缺",
+                "title": "存储疯涨致笔记本电脑涨价 预计2026年全球出货量大降近15%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555654.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555746.htm"
             },
             {
-                "title": "AMD Zen 6架构EPYC Venice工程样品曝光 三款测试平台齐亮相",
+                "title": "低价竞争拖累汽车用钢质量 车身开裂生锈成通病",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555648.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555744.htm"
             },
             {
-                "title": "三星最新推出的BM9K1固态硬盘采用RISC-V开源架构研发的控制器",
+                "title": "三星西安厂236层堆叠3D NAND量产 最新286层年内落地",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555642.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555740.htm"
             }
         ],
         "mil": [
+            {
+                "title": "碾压杜卡迪雅马哈川崎 WSBK夺冠的张雪机车是何来头",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555734.htm"
+            },
+            {
+                "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-03-30",
+                "url": "https://36kr.com/p/3745267391103239"
+            },
+            {
+                "title": "美参议员访台 敦促通过国防特别预算",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-03-30",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%8F%82%E8%AE%AE%E5%91%98%E8%AE%BF%E5%8F%B0-%E6%95%A6%E4%BF%83%E9%80%9A%E8%BF%87%E5%9B%BD%E9%98%B2%E7%89%B9%E5%88%AB%E9%A2%84%E7%AE%97/a-76590261"
+            },
+            {
+                "title": "王兴兴：下个月机器人半马要跑进1小时内 速度碾压人类",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555722.htm"
+            },
             {
                 "title": "美博物馆推出苹果创新 50 年特展，将展出超 2000 件藏品",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-30",
                 "url": "https://www.ithome.com/0/933/998.htm"
-            },
-            {
-                "title": "8点1氪丨全国猪价跌破5元创历史新低；雀巢12吨巧克力被盗；起诉小米汽车的“老头乐”企业致歉",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-29",
-                "url": "https://36kr.com/p/3744669439508484"
-            },
-            {
-                "title": "IT早报 0330：苹果 iOS 27 将允许 Siri 接入第三方 AI；新一代小米 SU7 首周交付四五千辆；宇树王兴兴称下月比赛机器人将跑得比人快；央视揭秘手机回收价暴涨五六倍...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-29",
-                "url": "https://www.ithome.com/0/933/915.htm"
-            },
-            {
-                "title": "BAE为洛克希德U-2侦察机升级电子战防护系统",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555598.htm"
-            },
-            {
-                "title": "美以联合空袭伊朗导弹与核设施 重创其短期军事能力(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-03-29",
-                "url": "https://www.secretchina.com/news/gb/2026/03/30/1097035.html"
             },
             {
                 "title": "关于对日本国会众议员古屋圭司采取反制措施的决定 - mfa.gov.cn",
@@ -80,16 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJQkxlQUthNTBWa3ZVTHRFU29lcFZVenl3OG5ucDY3MVV5TzNTVzhBd1kydEMtSENYWC1HeGFBRUJwY2x4TFF3T2RCLXQzelliLWw4TGRiLWhnNjZ6aGNFZDRlekpVU0Z6eEV0V1NGUDNFUQ?oc=5"
             },
             {
+                "title": "巴基斯坦副总理兼外长达尔来华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-31",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdVdUYzZGt0NkxDVFROc0dyWnV4emtfc0ItVVFGdVV4T2R5bWIwYjVFdFNmUVhUc0RDZWp0OUxCT2JvcFh2QlBWbm52R2VWZFE1RFk4eVZNQWtUOUhNRFRlTWZwTnBzR1BKd2R2Q3U1MTg5enY0WGVMN0lvSnNSWWw2Umk?oc=5"
+            },
+            {
                 "title": "2026年3月30日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-30",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZnA5YUsxaWdVMTlIWE9RMVIyOThXbXJZWElyOGlrUXBYbDNPTVJ3LWdhdkN5cGlmTGlVaXJ1NmNjT0RtYTNkZ1I2M0RVSTMtdGFvR1FsbUpEN0UzWHZ2cU5YRWFEdVhwOEpMd1ZOaEg4dWJRY1E?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "北部战区2026年面向社会公开招考专业技能类文职人员公告——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "“20个名额1万人抢” 参观完直接下单一辆车 这届游客迷上逛工厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "微信公布 2026 年 3 月朋友圈热度谣言，含“OpenClaw 登录微信被刷走 600 块”等",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555708.htm"
+                "url": "https://www.ithome.com/0/934/222.htm"
             },
             {
-                "title": "AI行业游说组织拟砸1亿美元投入中期选举 助推特朗普放松监管议程",
+                "title": "首批营运电车电池迎来退役潮 换电池5万卖车只值3万",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555690.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555738.htm"
             },
             {
-                "title": "开发者警告：AI“氛围编程”涌现或拖慢苹果 App Store 审核进度",
+                "title": "中国电信孝感分公司因阻碍用户携号转网被罚款20万元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555688.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555736.htm"
             },
             {
-                "title": "卡塔尔公主到访京东美术馆 章泽天与京东CEO许冉陪同",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "2499 → 1488 元：小米智能门锁 4 Pro 天猫直降，隔空刷掌秒开锁",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555668.htm"
+                "url": "https://www.ithome.com/0/934/211.htm"
             },
             {
-                "title": "史上最狠iPhone，敢买秒亏1万",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555624.htm"
+                "url": "https://36kr.com/p/3745267391103239"
             },
             {
                 "title": "关于对日本国会众议员古屋圭司采取反制措施的决定 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJQkxlQUthNTBWa3ZVTHRFU29lcFZVenl3OG5ucDY3MVV5TzNTVzhBd1kydEMtSENYWC1HeGFBRUJwY2x4TFF3T2RCLXQzelliLWw4TGRiLWhnNjZ6aGNFZDRlekpVU0Z6eEV0V1NGUDNFUQ?oc=5"
             },
             {
+                "title": "巴基斯坦副总理兼外长达尔来华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-03-31",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdVdUYzZGt0NkxDVFROc0dyWnV4emtfc0ItVVFGdVV4T2R5bWIwYjVFdFNmUVhUc0RDZWp0OUxCT2JvcFh2QlBWbm52R2VWZFE1RFk4eVZNQWtUOUhNRFRlTWZwTnBzR1BKd2R2Q3U1MTg5enY0WGVMN0lvSnNSWWw2Umk?oc=5"
+            },
+            {
                 "title": "2026年3月30日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-30",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZnA5YUsxaWdVMTlIWE9RMVIyOThXbXJZWElyOGlrUXBYbDNPTVJ3LWdhdkN5cGlmTGlVaXJ1NmNjT0RtYTNkZ1I2M0RVSTMtdGFvR1FsbUpEN0UzWHZ2cU5YRWFEdVhwOEpMd1ZOaEg4dWJRY1E?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "北部战区2026年面向社会公开招考专业技能类文职人员公告——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-03-31T07:10:01.446561+00:00"
+    "last_updated": "2026-03-31T13:12:26.134122+00:00"
 }
