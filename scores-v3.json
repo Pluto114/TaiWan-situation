@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "纽约、日内瓦之后：香港的全球治理时刻到了吗？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-31",
+                "url": "https://www.ftchinese.com/story/001109338"
+            },
+            {
+                "title": "瞄准数十亿视力矫正人群：Meta 推出两款雷朋智能眼镜新品，499 美元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-31",
+                "url": "https://www.ithome.com/0/934/690.htm"
+            },
+            {
+                "title": "飞利浦“32M2N8900X“31.5 英寸显示器开售：4K 240Hz QD-OLED、AR 3.0 镜面屏 + 双扬，6999 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-31",
+                "url": "https://www.ithome.com/0/934/689.htm"
+            },
+            {
+                "title": "台积电日本 JASM 第二晶圆厂升级 3nm 制程获批，预计 2028 年量产",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-31",
+                "url": "https://www.ithome.com/0/934/678.htm"
+            },
+            {
                 "title": "达美航空将采用亚马逊卫星互联网服务提供机上Wi-Fi",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1555968.htm"
-            },
-            {
-                "title": "捷豹路虎 × 奇瑞：硬派越野神行者 97 概念车确认今年投产，6 月公布详情",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-31",
-                "url": "https://www.ithome.com/0/934/661.htm"
-            },
-            {
-                "title": "车主嫌贵、险企亏钱 2025年新能源汽车承保亏损56亿元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555952.htm"
-            },
-            {
-                "title": "绿城中国公布2025年业绩，有三个优势两点隐忧",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-31",
-                "url": "https://36kr.com/p/3746759043006985"
-            },
-            {
-                "title": "一汽大众全新速腾S上市 起售价仅7.98万元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555944.htm"
             }
         ],
         "mil": [
+            {
+                "title": "瞄准数十亿视力矫正人群：Meta 推出两款雷朋智能眼镜新品，499 美元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-31",
+                "url": "https://www.ithome.com/0/934/690.htm"
+            },
             {
                 "title": "美国人频繁使用人工智能 但对“被AI抢饭碗”的担忧正在加剧",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1555902.htm"
-            },
-            {
-                "title": "安踏“慢跑”，FILA重回轨道",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-31",
-                "url": "https://36kr.com/p/3746211357655808"
             },
             {
                 "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "纽约、日内瓦之后：香港的全球治理时刻到了吗？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-03-31",
+                "url": "https://www.ftchinese.com/story/001109338"
+            },
+            {
+                "title": "瞄准数十亿视力矫正人群：Meta 推出两款雷朋智能眼镜新品，499 美元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-03-31",
+                "url": "https://www.ithome.com/0/934/690.htm"
+            },
+            {
                 "title": "达美航空将采用亚马逊卫星互联网服务提供机上Wi-Fi",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-31",
                 "url": "https://www.ithome.com/0/934/661.htm"
-            },
-            {
-                "title": "美国人频繁使用人工智能 但对“被AI抢饭碗”的担忧正在加剧",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555958.htm"
-            },
-            {
-                "title": "Proton推出隐私优先的办公套件 与微软Office正面竞争",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555956.htm"
             },
             {
                 "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-01T13:15:38.863105+00:00"
+    "last_updated": "2026-04-01T18:57:45.602289+00:00"
 }
