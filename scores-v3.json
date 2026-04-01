@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中美市场需求旺盛，树莓派 2025 年营收同比增长 25%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "达美航空将采用亚马逊卫星互联网服务提供机上Wi-Fi",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
-                "url": "https://www.ithome.com/0/934/541.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555968.htm"
             },
             {
-                "title": "AMD 第 6 代霄龙处理器曝光：192 核主频突破 4GHz",
+                "title": "捷豹路虎 × 奇瑞：硬派越野神行者 97 概念车确认今年投产，6 月公布详情",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-31",
-                "url": "https://www.ithome.com/0/934/516.htm"
+                "url": "https://www.ithome.com/0/934/661.htm"
             },
             {
-                "title": "安踏“慢跑”，FILA重回轨道",
+                "title": "车主嫌贵、险企亏钱 2025年新能源汽车承保亏损56亿元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555952.htm"
+            },
+            {
+                "title": "绿城中国公布2025年业绩，有三个优势两点隐忧",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-31",
-                "url": "https://36kr.com/p/3746211357655808"
+                "url": "https://36kr.com/p/3746759043006985"
             },
             {
-                "title": "国产仪器再获突破：万里眼 110G 频谱分析仪亮相，较瓦森纳出口管制水平提升近 400%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "一汽大众全新速腾S上市 起售价仅7.98万元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
-                "url": "https://www.ithome.com/0/934/511.htm"
-            },
-            {
-                "title": "联想集团与大卫 · 贝克汉姆达成全球合作，深化足球领域布局",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-31",
-                "url": "https://www.ithome.com/0/934/406.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555944.htm"
             }
         ],
         "mil": [
             {
+                "title": "美国人频繁使用人工智能 但对“被AI抢饭碗”的担忧正在加剧",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555958.htm"
+            },
+            {
+                "title": "SpaceX星链又一颗卫星在轨“异常解体” 数月内第二起",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555936.htm"
+            },
+            {
+                "title": "张雪机车夺冠带疯门店 4.3万起820RR同款预定排队两个月 驾龄不满一年不予销售",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555906.htm"
+            },
+            {
+                "title": "法国据俄乌及中东冲突调整军备路线 重点发展低成本拦截无人机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555902.htm"
+            },
+            {
                 "title": "安踏“慢跑”，FILA重回轨道",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-03-31",
                 "url": "https://36kr.com/p/3746211357655808"
-            },
-            {
-                "title": "为“AI上司”打工？美国民调显示15%受访者觉得没问题",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555884.htm"
-            },
-            {
-                "title": "同位素分析揭示：星际彗星 3I/ATLAS 年龄达 100 至 120 亿年",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-31",
-                "url": "https://www.ithome.com/0/934/350.htm"
-            },
-            {
-                "title": "8点1氪丨伊朗议会批准对海峡征收通行费；多品牌电动车将涨价；名创优品回应买盲盒需要会员",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-31",
-                "url": "https://36kr.com/p/3746104816943617"
-            },
-            {
-                "title": "IT早报 0331：苹果 AI 国行版意外上线又紧急撤回；曝多品牌电动两轮车计划下月涨价；6999 元起 vivo X300 Ultra 手机发布；外媒称比亚迪上调出口目标...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-03-30",
-                "url": "https://www.ithome.com/0/934/285.htm"
             },
             {
                 "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdVdUYzZGt0NkxDVFROc0dyWnV4emtfc0ItVVFGdVV4T2R5bWIwYjVFdFNmUVhUc0RDZWp0OUxCT2JvcFh2QlBWbm52R2VWZFE1RFk4eVZNQWtUOUhNRFRlTWZwTnBzR1BKd2R2Q3U1MTg5enY0WGVMN0lvSnNSWWw2Umk?oc=5"
             },
             {
-                "title": "2026年3月30日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅同巴基斯坦副总理兼外长达尔会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-30",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZnA5YUsxaWdVMTlIWE9RMVIyOThXbXJZWElyOGlrUXBYbDNPTVJ3LWdhdkN5cGlmTGlVaXJ1NmNjT0RtYTNkZ1I2M0RVSTMtdGFvR1FsbUpEN0UzWHZ2cU5YRWFEdVhwOEpMd1ZOaEg4dWJRY1E?oc=5"
+                "date": "2026-03-31",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CbGhzQjNuR0RYTHJnTnVHY28zSjhZMWRKX2E1RExNU0pHTkozcC1hRVJRa0FzRHFFYWdUQjlWZ1E2QlV3X1FBbXFUTkdQOVd3NHhXOGduMC1oQ0RJNEpCNkM2cDcwNkdsTGdvd0h3?oc=5"
+            },
+            {
+                "title": "海军某支队组织舰载直升机起降训练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40RUh3WkVuRWhxb0hjRHpTa2hlV0RrcTVxc0dBM01UaEdlRGs5NGprVDNRX1Bhc0liMTZ1b1J0WnlNU1Y1b2FLNDRtXzg0c2VZMUE?oc=5"
             },
             {
                 "title": "一堂行走的红色党课 - 中国军网",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FQnJLVThhSFhzOVpvMk03aFhRWHphUWpXM3JYQkZmd25Yc2oyVDJSdTFPZlJmUGhwM3NkV3hac2hOUnRaVjFQdlBnd1NQMENTWXc?oc=5"
-            },
-            {
-                "title": "【树立和践行正确政绩观】北部战区海军某支队：以实干出政绩 锻造海上精兵劲旅 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xamRodUY0YkFoNFhvM2dnMjVVNjl5cW1RU2REVjhWbFpqN09YWHFoTlJBZFA2MjBzTWVHOVNYQU42MnpOQ3FkV2xTTG9nalhsX2c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "欧姆龙出售电子元件业务 因外部竞争日益激烈",
+                "title": "达美航空将采用亚马逊卫星互联网服务提供机上Wi-Fi",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555894.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555968.htm"
             },
             {
-                "title": "安踏“慢跑”，FILA重回轨道",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-03-31",
-                "url": "https://36kr.com/p/3746211357655808"
-            },
-            {
-                "title": "中国无人车开进迪拜 萝卜快跑启动全无人商业化运营",
+                "title": "雀巢对失窃巧克力的回应证明：只要能玩成梗 就没有真正的坏消息",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555870.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555966.htm"
             },
             {
-                "title": "网友买助眠药收到注销驾驶证短信 交警：系提醒 建议到场核实",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "捷豹路虎 × 奇瑞：硬派越野神行者 97 概念车确认今年投产，6 月公布详情",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555860.htm"
+                "url": "https://www.ithome.com/0/934/661.htm"
             },
             {
-                "title": "美国全国平均汽油零售价格三年多来首次突破每加仑4美元",
+                "title": "美国人频繁使用人工智能 但对“被AI抢饭碗”的担忧正在加剧",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-03-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1555844.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555958.htm"
+            },
+            {
+                "title": "Proton推出隐私优先的办公套件 与微软Office正面竞争",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-03-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1555956.htm"
             },
             {
                 "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdVdUYzZGt0NkxDVFROc0dyWnV4emtfc0ItVVFGdVV4T2R5bWIwYjVFdFNmUVhUc0RDZWp0OUxCT2JvcFh2QlBWbm52R2VWZFE1RFk4eVZNQWtUOUhNRFRlTWZwTnBzR1BKd2R2Q3U1MTg5enY0WGVMN0lvSnNSWWw2Umk?oc=5"
             },
             {
-                "title": "2026年3月30日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅同巴基斯坦副总理兼外长达尔会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-30",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZnA5YUsxaWdVMTlIWE9RMVIyOThXbXJZWElyOGlrUXBYbDNPTVJ3LWdhdkN5cGlmTGlVaXJ1NmNjT0RtYTNkZ1I2M0RVSTMtdGFvR1FsbUpEN0UzWHZ2cU5YRWFEdVhwOEpMd1ZOaEg4dWJRY1E?oc=5"
+                "date": "2026-03-31",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CbGhzQjNuR0RYTHJnTnVHY28zSjhZMWRKX2E1RExNU0pHTkozcC1hRVJRa0FzRHFFYWdUQjlWZ1E2QlV3X1FBbXFUTkdQOVd3NHhXOGduMC1oQ0RJNEpCNkM2cDcwNkdsTGdvd0h3?oc=5"
+            },
+            {
+                "title": "海军某支队组织舰载直升机起降训练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-03-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40RUh3WkVuRWhxb0hjRHpTa2hlV0RrcTVxc0dBM01UaEdlRGs5NGprVDNRX1Bhc0liMTZ1b1J0WnlNU1Y1b2FLNDRtXzg0c2VZMUE?oc=5"
             },
             {
                 "title": "一堂行走的红色党课 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FQnJLVThhSFhzOVpvMk03aFhRWHphUWpXM3JYQkZmd25Yc2oyVDJSdTFPZlJmUGhwM3NkV3hac2hOUnRaVjFQdlBnd1NQMENTWXc?oc=5"
-            },
-            {
-                "title": "【树立和践行正确政绩观】北部战区海军某支队：以实干出政绩 锻造海上精兵劲旅 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-03-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xamRodUY0YkFoNFhvM2dnMjVVNjl5cW1RU2REVjhWbFpqN09YWHFoTlJBZFA2MjBzTWVHOVNYQU42MnpOQ3FkV2xTTG9nalhsX2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-01T07:16:30.940651+00:00"
+    "last_updated": "2026-04-01T13:15:38.863105+00:00"
 }
