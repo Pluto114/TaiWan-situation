@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "4月1日起全国严查后排未系安全带：4岁以下儿童必须使用安全座椅",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556084.htm"
+                "url": "https://36kr.com/p/3748233045541637"
             },
             {
-                "title": "成渝中线高铁全部合龙：时速350公里 重庆到成都仅50分钟",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556082.htm"
+                "url": "https://36kr.com/p/3748061455778311"
             },
             {
-                "title": "中科海钠总经理李树军：钠电池价格明后年有望追平锂电池",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-01",
-                "url": "https://www.ithome.com/0/934/877.htm"
-            },
-            {
-                "title": "库克纪念苹果50周年演讲：承载乔布斯宏大梦想 突破技术极限",
+                "title": "美国已出现电动车“铁锈带” 高油价也救不活它",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556052.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556152.htm"
             },
             {
-                "title": "车库起家到4万亿帝国：苹果迎50岁生日 急需打破AI困局",
+                "title": "工业电商平台万物集被曝跑路：总部人去楼空 有人被拖欠330万货款",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556044.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556136.htm"
+            },
+            {
+                "title": "三星、SK海力士加大在华投资 提高工厂产能、升级工艺",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556132.htm"
             }
         ],
         "mil": [
+            {
+                "title": "伊朗戰事有望三週內結束？中國巴基斯坦呼籲和談",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-01",
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%9C%89%E6%9C%9B%E4%B8%89%E9%80%B1%E5%86%85%E7%BB%93%E6%9D%9F%E4%B8%AD%E5%9B%BD%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%91%BC%E5%90%81%E5%92%8C%E8%B0%88/a-76619807"
+            },
+            {
+                "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-01",
+                "url": "https://36kr.com/p/3747976260174341"
+            },
+            {
+                "title": "跨时空与 81192“相见”：AI 技术实现我国歼-8Ⅱ 与歼-35、歼-15 舰载机并肩翱翔",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-01",
+                "url": "https://www.ithome.com/0/934/983.htm"
+            },
             {
                 "title": "库克纪念苹果50周年演讲：承载乔布斯宏大梦想 突破技术极限",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,24 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556028.htm"
             },
             {
-                "title": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-01",
-                "url": "https://36kr.com/p/3746252355535622"
-            },
-            {
-                "title": "海格塞斯披露曾在周末突访中东，美国加大对伊朗的军事压力",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-04-01",
-                "url": "https://www.voachinese.com/a/secretary-hegseth-makes-unannounced-trip-to-middle-east-as-us-increases-military-pressure-on-iran-20260331/8133020.html"
-            },
-            {
-                "title": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-01",
-                "url": "https://36kr.com/p/3747503534899976"
-            },
-            {
                 "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-03-31",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3hHU1ZQQjZMVDlfNGJ5LVVZWktlazBHanM3WmZQM3Jha3psbW5ZX3JHeV9yUjhDNC1ET2E3SnR1RlBpLUZ3ZXpyZ1J1Vzh1T3I0aGVoNmpGdzJ4WHcxVHcwSUtRc0l0aklHRndydzNmdWN2UkE?oc=5"
             },
             {
-                "title": "王毅同巴基斯坦副总理兼外长达尔会谈 - mfa.gov.cn",
+                "title": "王毅赴人类命运共同体研究中心调研 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-31",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CbGhzQjNuR0RYTHJnTnVHY28zSjhZMWRKX2E1RExNU0pHTkozcC1hRVJRa0FzRHFFYWdUQjlWZ1E2QlV3X1FBbXFUTkdQOVd3NHhXOGduMC1oQ0RJNEpCNkM2cDcwNkdsTGdvd0h3?oc=5"
+                "date": "2026-04-01",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iRFdTTXBaenY2OG5YSlNBdkNLQktBT1pFLTBTcWFKS2pqMjQ1RjdHUW84X3RScUR1cFZwTHpVZDdtRWtPTmZPRFNNaDBfTFpNdE1aNVMxQnBjWXYwcDJZR1VjVDlNS0VDaHhUNUdB?oc=5"
             },
             {
                 "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
@@ -108,38 +108,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FQnJLVThhSFhzOVpvMk03aFhRWHphUWpXM3JYQkZmd25Yc2oyVDJSdTFPZlJmUGhwM3NkV3hac2hOUnRaVjFQdlBnd1NQMENTWXc?oc=5"
+            },
+            {
+                "title": "解除奎山海事处辖区客运船舶禁航管制信息（20260402） - sd.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-04-02",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9COFNhZVpfTEF2M20xZVhvN2NYQVR1WWpaeEYzRVJfenRrZVV6NU9UT1RENi1fMXBiUHV1WlIyMkgyZmJCeVg4elI5WnRjQmtJN1JoRkVFOU9zOVVCOGZuMWJOYzJtOFhWUzRnVw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "海外地址竟是汽修厂 央视曝光伪进口保健品优思益",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556106.htm"
+                "url": "https://36kr.com/p/3748233045541637"
             },
             {
-                "title": "4月1日起全国严查后排未系安全带：4岁以下儿童必须使用安全座椅",
+                "title": "伊朗战事冲击航空燃油供应 航空业陷入危机状态",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556084.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556158.htm"
             },
             {
-                "title": "\"伟哥\"巧克力遭紧急召回 看似\"助兴\" 实则有生命危险",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556070.htm"
+                "url": "https://36kr.com/p/3748061455778311"
             },
             {
-                "title": "新研究发现：全球大型数据中心正在形成“热岛效应”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556050.htm"
-            },
-            {
-                "title": "OpenClaw 3.31 重磅更新：“龙虾”框架原生集成腾讯 QQ 机器人",
+                "title": "国航、厦航、中联航等多家航司宣布 4 月 5 日起上调国内燃油附加费，涨幅达 5 倍",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-01",
-                "url": "https://www.ithome.com/0/934/873.htm"
+                "url": "https://www.ithome.com/0/935/053.htm"
+            },
+            {
+                "title": "高速限速大变革 4月1日起全国统一五档标准 断崖式降速彻底取消",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556148.htm"
             },
             {
                 "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
@@ -154,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3hHU1ZQQjZMVDlfNGJ5LVVZWktlazBHanM3WmZQM3Jha3psbW5ZX3JHeV9yUjhDNC1ET2E3SnR1RlBpLUZ3ZXpyZ1J1Vzh1T3I0aGVoNmpGdzJ4WHcxVHcwSUtRc0l0aklHRndydzNmdWN2UkE?oc=5"
             },
             {
-                "title": "王毅同巴基斯坦副总理兼外长达尔会谈 - mfa.gov.cn",
+                "title": "王毅赴人类命运共同体研究中心调研 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-31",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CbGhzQjNuR0RYTHJnTnVHY28zSjhZMWRKX2E1RExNU0pHTkozcC1hRVJRa0FzRHFFYWdUQjlWZ1E2QlV3X1FBbXFUTkdQOVd3NHhXOGduMC1oQ0RJNEpCNkM2cDcwNkdsTGdvd0h3?oc=5"
+                "date": "2026-04-01",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iRFdTTXBaenY2OG5YSlNBdkNLQktBT1pFLTBTcWFKS2pqMjQ1RjdHUW84X3RScUR1cFZwTHpVZDdtRWtPTmZPRFNNaDBfTFpNdE1aNVMxQnBjWXYwcDJZR1VjVDlNS0VDaHhUNUdB?oc=5"
             },
             {
                 "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
@@ -176,9 +182,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FQnJLVThhSFhzOVpvMk03aFhRWHphUWpXM3JYQkZmd25Yc2oyVDJSdTFPZlJmUGhwM3NkV3hac2hOUnRaVjFQdlBnd1NQMENTWXc?oc=5"
+            },
+            {
+                "title": "解除奎山海事处辖区客运船舶禁航管制信息（20260402） - sd.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-04-02",
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9COFNhZVpfTEF2M20xZVhvN2NYQVR1WWpaeEYzRVJfenRrZVV6NU9UT1RENi1fMXBiUHV1WlIyMkgyZmJCeVg4elI5WnRjQmtJN1JoRkVFOU9zOVVCOGZuMWJOYzJtOFhWUzRnVw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-02T07:08:07.827296+00:00"
+    "last_updated": "2026-04-02T13:06:56.475402+00:00"
 }
