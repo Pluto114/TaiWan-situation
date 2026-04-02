@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-01",
-                "url": "https://36kr.com/p/3748233045541637"
-            },
-            {
-                "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-01",
-                "url": "https://36kr.com/p/3748061455778311"
-            },
-            {
-                "title": "美国已出现电动车“铁锈带” 高油价也救不活它",
+                "title": "美国最高法院对特朗普限制出生公民权的做法持怀疑态度",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556152.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556204.htm"
             },
             {
-                "title": "工业电商平台万物集被曝跑路：总部人去楼空 有人被拖欠330万货款",
+                "title": "礼来减肥药口服版获批 减重药物大战开启全新赛道",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556136.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556202.htm"
             },
             {
-                "title": "三星、SK海力士加大在华投资 提高工厂产能、升级工艺",
+                "title": "美国贸易评估报告：中国仍设广泛贸易壁垒 多项关键承诺落实不足",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-04-01",
+                "url": "https://www.voachinese.com/a/ustr-report-says-china-still-maintains-broad-trade-barriers-remains-out-of-compliance-on-key-commitments-20260401/8133327.html"
+            },
+            {
+                "title": "苹果都50岁了 大家怎么还在怀念它年轻的时候？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556132.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556196.htm"
+            },
+            {
+                "title": "美国最高法院开庭审理出生公民权案 特朗普历史性出席",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556192.htm"
             }
         ],
         "mil": [
+            {
+                "title": "伊朗战争的走向：江学勤的第三个预测能否应验？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-04-01",
+                "url": "https://www.ftchinese.com/story/001109356"
+            },
             {
                 "title": "伊朗戰事有望三週內結束？中國巴基斯坦呼籲和談",
                 "source": "NewsAPI / DW (English)",
@@ -68,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556052.htm"
             },
             {
-                "title": "比特币结束五个月连跌 伊朗局势缓和预期升温",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556028.htm"
-            },
-            {
-                "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
+                "title": "王毅赴人类命运共同体研究中心调研 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-31",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VWtraXpQMUtMSWk0cVYwemJTQldVSkVOZ1h1TVBSbUI0UnBIRF9MRjFXQ2kwSTRfVXdqRGlXMlVETHNxMFFtSmxBdXo4b25FVWp4NlhEZUVITWJCWWtUY2lTUVY0Mm1qMHhiSkJB?oc=5"
+                "date": "2026-04-01",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iRFdTTXBaenY2OG5YSlNBdkNLQktBT1pFLTBTcWFKS2pqMjQ1RjdHUW84X3RScUR1cFZwTHpVZDdtRWtPTmZPRFNNaDBfTFpNdE1aNVMxQnBjWXYwcDJZR1VjVDlNS0VDaHhUNUdB?oc=5"
             },
             {
                 "title": "2026年4月1日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,25 +86,25 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3hHU1ZQQjZMVDlfNGJ5LVVZWktlazBHanM3WmZQM3Jha3psbW5ZX3JHeV9yUjhDNC1ET2E3SnR1RlBpLUZ3ZXpyZ1J1Vzh1T3I0aGVoNmpGdzJ4WHcxVHcwSUtRc0l0aklHRndydzNmdWN2UkE?oc=5"
             },
             {
-                "title": "王毅赴人类命运共同体研究中心调研 - mfa.gov.cn",
+                "title": "毛宁：一份重要和开放的倡议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iRFdTTXBaenY2OG5YSlNBdkNLQktBT1pFLTBTcWFKS2pqMjQ1RjdHUW84X3RScUR1cFZwTHpVZDdtRWtPTmZPRFNNaDBfTFpNdE1aNVMxQnBjWXYwcDJZR1VjVDlNS0VDaHhUNUdB?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmlwWkF1aVhCZzlwSFFwTEJLVmloclNSb3dEWldfZVo5Mm9takJ6dHlUZ1NPV2lEU1NkU1QzcHk5UjRCS2tTTXBKTkp1RnlDd210by1uRVV5YnpmUUhoeU9nZmo1WUpqYmhBeThxQWFTZWRWblY5WXhXa1ZIVDhXQTFwWHQ0UGFjOEhRODEwSG0?oc=5"
             },
             {
-                "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
+                "title": "第74集团军某旅某营：扫码“交伙”真方便 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2WmxGYWF1bnBONGdpTlFVOGIyWjFsREdCdXBTeXEwZXY4b0EtaC1sa3VQYkdWdWpOdFhhZzRLblFPbW1YQ20xcXpEV0E1aGd5RkE?oc=5"
             },
             {
-                "title": "海军某支队组织舰载直升机起降训练 - 中国军网",
+                "title": "海军某支队组织舰载直升机起降训练 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40RUh3WkVuRWhxb0hjRHpTa2hlV0RrcTVxc0dBM01UaEdlRGs5NGprVDNRX1Bhc0liMTZ1b1J0WnlNU1Y1b2FLNDRtXzg0c2VZMUE?oc=5"
             },
             {
-                "title": "强军之声丨从“三要三不要”中树立和践行正确政绩观 - 中国军网",
+                "title": "强军之声丨从“三要三不要”中树立和践行正确政绩观 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FQnJLVThhSFhzOVpvMk03aFhRWHphUWpXM3JYQkZmd25Yc2oyVDJSdTFPZlJmUGhwM3NkV3hac2hOUnRaVjFQdlBnd1NQMENTWXc?oc=5"
@@ -118,46 +118,34 @@
         ],
         "pol": [
             {
-                "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-01",
-                "url": "https://36kr.com/p/3748233045541637"
-            },
-            {
-                "title": "伊朗战事冲击航空燃油供应 航空业陷入危机状态",
+                "title": "礼来减肥药口服版获批 减重药物大战开启全新赛道",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556158.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556202.htm"
             },
             {
-                "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-01",
-                "url": "https://36kr.com/p/3748061455778311"
-            },
-            {
-                "title": "国航、厦航、中联航等多家航司宣布 4 月 5 日起上调国内燃油附加费，涨幅达 5 倍",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-01",
-                "url": "https://www.ithome.com/0/935/053.htm"
-            },
-            {
-                "title": "高速限速大变革 4月1日起全国统一五档标准 断崖式降速彻底取消",
+                "title": "特斯拉交付疲软或成新常态 投资者聚焦Terafab等项目",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556148.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556200.htm"
             },
             {
-                "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-03-31",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VWtraXpQMUtMSWk0cVYwemJTQldVSkVOZ1h1TVBSbUI0UnBIRF9MRjFXQ2kwSTRfVXdqRGlXMlVETHNxMFFtSmxBdXo4b25FVWp4NlhEZUVITWJCWWtUY2lTUVY0Mm1qMHhiSkJB?oc=5"
-            },
-            {
-                "title": "2026年4月1日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "苹果都50岁了 大家怎么还在怀念它年轻的时候？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3hHU1ZQQjZMVDlfNGJ5LVVZWktlazBHanM3WmZQM3Jha3psbW5ZX3JHeV9yUjhDNC1ET2E3SnR1RlBpLUZ3ZXpyZ1J1Vzh1T3I0aGVoNmpGdzJ4WHcxVHcwSUtRc0l0aklHRndydzNmdWN2UkE?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556196.htm"
+            },
+            {
+                "title": "FDA批准礼来GLP-1口服药 开启减肥药市场下一阶段",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556190.htm"
+            },
+            {
+                "title": "伊朗战争的走向：江学勤的第三个预测能否应验？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-04-01",
+                "url": "https://www.ftchinese.com/story/001109356"
             },
             {
                 "title": "王毅赴人类命运共同体研究中心调研 - mfa.gov.cn",
@@ -166,19 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iRFdTTXBaenY2OG5YSlNBdkNLQktBT1pFLTBTcWFKS2pqMjQ1RjdHUW84X3RScUR1cFZwTHpVZDdtRWtPTmZPRFNNaDBfTFpNdE1aNVMxQnBjWXYwcDJZR1VjVDlNS0VDaHhUNUdB?oc=5"
             },
             {
-                "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
+                "title": "2026年4月1日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-01",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3hHU1ZQQjZMVDlfNGJ5LVVZWktlazBHanM3WmZQM3Jha3psbW5ZX3JHeV9yUjhDNC1ET2E3SnR1RlBpLUZ3ZXpyZ1J1Vzh1T3I0aGVoNmpGdzJ4WHcxVHcwSUtRc0l0aklHRndydzNmdWN2UkE?oc=5"
+            },
+            {
+                "title": "毛宁：一份重要和开放的倡议 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-01",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmlwWkF1aVhCZzlwSFFwTEJLVmloclNSb3dEWldfZVo5Mm9takJ6dHlUZ1NPV2lEU1NkU1QzcHk5UjRCS2tTTXBKTkp1RnlDd210by1uRVV5YnpmUUhoeU9nZmo1WUpqYmhBeThxQWFTZWRWblY5WXhXa1ZIVDhXQTFwWHQ0UGFjOEhRODEwSG0?oc=5"
+            },
+            {
+                "title": "第74集团军某旅某营：扫码“交伙”真方便 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2WmxGYWF1bnBONGdpTlFVOGIyWjFsREdCdXBTeXEwZXY4b0EtaC1sa3VQYkdWdWpOdFhhZzRLblFPbW1YQ20xcXpEV0E1aGd5RkE?oc=5"
             },
             {
-                "title": "海军某支队组织舰载直升机起降训练 - 中国军网",
+                "title": "海军某支队组织舰载直升机起降训练 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40RUh3WkVuRWhxb0hjRHpTa2hlV0RrcTVxc0dBM01UaEdlRGs5NGprVDNRX1Bhc0liMTZ1b1J0WnlNU1Y1b2FLNDRtXzg0c2VZMUE?oc=5"
             },
             {
-                "title": "强军之声丨从“三要三不要”中树立和践行正确政绩观 - 中国军网",
+                "title": "强军之声丨从“三要三不要”中树立和践行正确政绩观 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-03-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FQnJLVThhSFhzOVpvMk03aFhRWHphUWpXM3JYQkZmd25Yc2oyVDJSdTFPZlJmUGhwM3NkV3hac2hOUnRaVjFQdlBnd1NQMENTWXc?oc=5"
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-02T13:06:56.475402+00:00"
+    "last_updated": "2026-04-02T18:53:20.808239+00:00"
 }
