@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "IDC：亚太 PC 出货量 2025 年达 1.066 亿台，预计 2026 年下降 13.7%",
+                "title": "曝骁龙 8 Elite Gen6 Pro（SM8975）芯片疑似共享 16MB L2，规格“很激进”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/168.htm"
+                "url": "https://www.ithome.com/0/935/321.htm"
             },
             {
-                "title": "曝金标大众将联手一汽-大众卖车，大众中国首次在销售端“拆墙”",
+                "title": "SEMI：未来四年 12 英寸晶圆厂设备支出持续增长，明年首破万亿人民币",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/167.htm"
+                "url": "https://www.ithome.com/0/935/304.htm"
             },
             {
-                "title": "OpenAI 股票在转售市场滞销，投资者兴趣转向竞争对手 Anthropic",
+                "title": "2026国产AI芯片公司Top10 摩尔线程居第二",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556268.htm"
+            },
+            {
+                "title": "外媒测试三星 Galaxy S26 手机续航：骁龙版比 Exynos 2600 版多 28%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/164.htm"
+                "url": "https://www.ithome.com/0/935/278.htm"
             },
             {
-                "title": "便宜约 15%：苹果海外上线官翻 iPad 11 和 M5 芯片 14 英寸 MacBook Pro",
-                "source": "NewsAPI / Ithome.com",
+                "title": "消息称斯特兰蒂斯集团与零跑讨论在加拿大生产中国电动汽车",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/160.htm"
-            },
-            {
-                "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-02",
-                "url": "https://36kr.com/p/3748296456143362"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556234.htm"
             }
         ],
         "mil": [
+            {
+                "title": "特朗普总统：美国处在“终结伊朗对美国和世界邪恶威胁的关头”；在伊朗的战略目标已接近完成",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-04-02",
+                "url": "https://www.voachinese.com/a/president-trump-says-us-on-the-cusp-of-ending-irans-sinister-threat-20260401/8133741.html"
+            },
+            {
+                "title": "获韶音投资，一家AI公司做了“硬件版OpenClaw” | 36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-02",
+                "url": "https://36kr.com/p/3749149674439169"
+            },
             {
                 "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556218.htm"
             },
             {
-                "title": "伊朗战争的走向：江学勤的第三个预测能否应验？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-01",
-                "url": "https://www.ftchinese.com/story/001109356"
-            },
-            {
-                "title": "伊朗戰事有望三週內結束？中國巴基斯坦呼籲和談",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-01",
-                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%9C%89%E6%9C%9B%E4%B8%89%E9%80%B1%E5%86%85%E7%BB%93%E6%9D%9F%E4%B8%AD%E5%9B%BD%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%91%BC%E5%90%81%E5%92%8C%E8%B0%88/a-76619807"
-            },
-            {
                 "title": "2026年4月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-02",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iRFdTTXBaenY2OG5YSlNBdkNLQktBT1pFLTBTcWFKS2pqMjQ1RjdHUW84X3RScUR1cFZwTHpVZDdtRWtPTmZPRFNNaDBfTFpNdE1aNVMxQnBjWXYwcDJZR1VjVDlNS0VDaHhUNUdB?oc=5"
             },
             {
-                "title": "2026年4月1日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "毛宁：一份重要和开放的倡议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3hHU1ZQQjZMVDlfNGJ5LVVZWktlazBHanM3WmZQM3Jha3psbW5ZX3JHeV9yUjhDNC1ET2E3SnR1RlBpLUZ3ZXpyZ1J1Vzh1T3I0aGVoNmpGdzJ4WHcxVHcwSUtRc0l0aklHRndydzNmdWN2UkE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmlwWkF1aVhCZzlwSFFwTEJLVmloclNSb3dEWldfZVo5Mm9takJ6dHlUZ1NPV2lEU1NkU1QzcHk5UjRCS2tTTXBKTkp1RnlDd210by1uRVV5YnpmUUhoeU9nZmo1WUpqYmhBeThxQWFTZWRWblY5WXhXa1ZIVDhXQTFwWHQ0UGFjOEhRODEwSG0?oc=5"
             },
             {
                 "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdzh2Tmo1OUtlclhkTG0zMVlTSmRoVHlwNldyTE5YTWFwWTNJTGxhcFZHTnBveXdnYkpDUWpQWnlYemNsNzMyQ1owOEJfQS0tR3c?oc=5"
             },
             {
-                "title": "三部门发文推动员工录用“一件事”高效办理 - 中国军网",
+                "title": "河北省沧州军分区组织民兵骨干前往青县烈士陵园开展主题教育活动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Oa1doaHhvX280OThucXptU3lWVW84T3RVRUh6Ry00SG01VXF6Q0didEU0alFidW45eGQ3NWZOeWxaSXYtdTBIZU5kZFY4RWJha0E?oc=5"
+                "date": "2026-04-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zTEZmUVNkeFByN0cyQmV1OGc5cU03ZDVCTTVsRG9VMmx2VlhDUjRxaGdOaF9oODdrR0tHeWZJNHBMeEF2UjNJekhKcmpXYkVwZHc?oc=5"
             },
             {
                 "title": "解除奎山海事处辖区客运船舶禁航管制信息（20260402） - sd.msa.gov.cn",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "OpenAI 股票在转售市场滞销，投资者兴趣转向竞争对手 Anthropic",
-                "source": "NewsAPI / Ithome.com",
+                "title": "今麦郎董事长回应“手打”是商标：立即停止生产所有带有此商标产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/164.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556262.htm"
             },
             {
-                "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "国内最大半导体IP龙头冲刺港股上市 在手订单超50亿",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-02",
-                "url": "https://36kr.com/p/3748296456143362"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556260.htm"
             },
             {
-                "title": "公安部发文力挺张雪“禁止新手买 820RR 摩托车”：真正的热爱是懂得边界",
-                "source": "NewsAPI / Ithome.com",
+                "title": "OpenClaw推出官方中国镜像站 字节跳动提供支持",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/146.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556256.htm"
             },
             {
-                "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "营收停滞、净利下滑超两成 惨淡财报下奥克斯裁员超四千人求生",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-02",
-                "url": "https://36kr.com/p/3748927500387072"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556230.htm"
             },
             {
-                "title": "IT早报 0402：50 多年来首次载人绕月任务，美国阿耳忒弥斯 2 号发射升空；3 月汽车销量汇总：比亚迪获中国车企销冠；曝国内所有安卓大厂本月都会涨价...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-01",
-                "url": "https://www.ithome.com/0/935/136.htm"
+                "title": "苹果50岁这天库克谈iPhone与未来：下个爆款在“软硬服交汇点”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556228.htm"
             },
             {
                 "title": "2026年4月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iRFdTTXBaenY2OG5YSlNBdkNLQktBT1pFLTBTcWFKS2pqMjQ1RjdHUW84X3RScUR1cFZwTHpVZDdtRWtPTmZPRFNNaDBfTFpNdE1aNVMxQnBjWXYwcDJZR1VjVDlNS0VDaHhUNUdB?oc=5"
             },
             {
-                "title": "2026年4月1日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "毛宁：一份重要和开放的倡议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lM3hHU1ZQQjZMVDlfNGJ5LVVZWktlazBHanM3WmZQM3Jha3psbW5ZX3JHeV9yUjhDNC1ET2E3SnR1RlBpLUZ3ZXpyZ1J1Vzh1T3I0aGVoNmpGdzJ4WHcxVHcwSUtRc0l0aklHRndydzNmdWN2UkE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmlwWkF1aVhCZzlwSFFwTEJLVmloclNSb3dEWldfZVo5Mm9takJ6dHlUZ1NPV2lEU1NkU1QzcHk5UjRCS2tTTXBKTkp1RnlDd210by1uRVV5YnpmUUhoeU9nZmo1WUpqYmhBeThxQWFTZWRWblY5WXhXa1ZIVDhXQTFwWHQ0UGFjOEhRODEwSG0?oc=5"
             },
             {
                 "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdzh2Tmo1OUtlclhkTG0zMVlTSmRoVHlwNldyTE5YTWFwWTNJTGxhcFZHTnBveXdnYkpDUWpQWnlYemNsNzMyQ1owOEJfQS0tR3c?oc=5"
             },
             {
-                "title": "三部门发文推动员工录用“一件事”高效办理 - 中国军网",
+                "title": "河北省沧州军分区组织民兵骨干前往青县烈士陵园开展主题教育活动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Oa1doaHhvX280OThucXptU3lWVW84T3RVRUh6Ry00SG01VXF6Q0didEU0alFidW45eGQ3NWZOeWxaSXYtdTBIZU5kZFY4RWJha0E?oc=5"
+                "date": "2026-04-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zTEZmUVNkeFByN0cyQmV1OGc5cU03ZDVCTTVsRG9VMmx2VlhDUjRxaGdOaF9oODdrR0tHeWZJNHBMeEF2UjNJekhKcmpXYkVwZHc?oc=5"
             },
             {
                 "title": "解除奎山海事处辖区客运船舶禁航管制信息（20260402） - sd.msa.gov.cn",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-03T02:04:18.688962+00:00"
+    "last_updated": "2026-04-03T07:04:11.722434+00:00"
 }
