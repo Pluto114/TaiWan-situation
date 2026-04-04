@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国两党参议员推出法案，加强与台湾无人机合作",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.voachinese.com/a/bipartisan-senators-introduce-bill-to-boost-drone-cooperation-with-taiwan-20260402/8133717.html"
+                "title": "韩国 FuriosaAI 今年量产 2 万颗 RNGD 芯片，计划云与端侧双轨并行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-03",
+                "url": "https://www.ithome.com/0/935/560.htm"
             },
             {
-                "title": "美情报揭密：伊朗借中港零件造自杀式无人机(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-02",
-                "url": "https://www.secretchina.com/news/gb/2026/04/03/1097230.html"
+                "title": "剑指史上最大规模上市交易，消息称 SpaceX 上调 IPO 估值目标至逾 2 万亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-03",
+                "url": "https://www.ithome.com/0/935/553.htm"
             },
             {
-                "title": "一位英国名厨的自白：关于风味的理想与高压",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109353"
+                "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-03",
+                "url": "https://36kr.com/p/3750345334292999"
             },
             {
-                "title": "牛津文学节：他者目光里的中国文化",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "三大动力驱动，港股细分龙头扎堆启动A股上市",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109354"
+                "url": "https://36kr.com/newsflashes/3750334893671169"
             },
             {
-                "title": "微软推出最新AI模型，努力寻求AI“自给自足”",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "IT早报 0403：苹果乔布斯 1994 年采访曝光；OpenClaw 龙虾推出官方中国镜像站；“微信支付有优惠”小程序将结束运营；曝 Q2 内存仍持续疯涨...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109369"
+                "url": "https://www.ithome.com/0/935/536.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-03",
+                "url": "https://36kr.com/p/3750345334292999"
+            },
+            {
+                "title": "IT早报 0403：苹果乔布斯 1994 年采访曝光；OpenClaw 龙虾推出官方中国镜像站；“微信支付有优惠”小程序将结束运营；曝 Q2 内存仍持续疯涨...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-02",
+                "url": "https://www.ithome.com/0/935/536.htm"
+            },
             {
                 "title": "无力应对川普挑战 中国改采和平策略(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.ftchinese.com/story/001109354"
             },
             {
-                "title": "一位英国名厨的自白：关于风味的理想与高压",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109353"
-            },
-            {
-                "title": "特朗普为伊朗战争付出“四重代价”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109372"
-            },
-            {
                 "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
@@ -92,60 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYWtBR0ViQnlMSjl1dUhmLU4tRzgwYXN6NGxrMWJjak5LQ3hDMXI5bmlxcl9ualhmVW1GQjR0Smp0eENzclhZM2lHRDZhRDJNbXlJbGQxRnQ5Q1A3bDhiak5fcjZUOVFudE8zSS1R?oc=5"
             },
             {
-                "title": "安徽省砀山县人武部组织民兵和小学生走进县烈士陵园开展祭英烈活动 - 中国军网",
+                "title": "河北省沧州军分区组织民兵骨干前往青县烈士陵园开展主题教育活动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-02",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVXItdEVaV0Z5WHdZNzhrM2prVWJmcEstdGRwbFlvMC15R09fa3gwQW1ScGZkeXUzeWpEMkkzQ0t2LUxPa2g0YzNHWVpEWEhyMGlSQXREcDlxclVhSWZSTg?oc=5"
+                "date": "2026-04-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zTEZmUVNkeFByN0cyQmV1OGc5cU03ZDVCTTVsRG9VMmx2VlhDUjRxaGdOaF9oODdrR0tHeWZJNHBMeEF2UjNJekhKcmpXYkVwZHc?oc=5"
             },
             {
-                "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2WmxGYWF1bnBONGdpTlFVOGIyWjFsREdCdXBTeXEwZXY4b0EtaC1sa3VQYkdWdWpOdFhhZzRLblFPbW1YQ20xcXpEV0E1aGd5RkE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "我国将开展基层医疗质量改善三年行动 - 中国军网",
+                "title": "云南威信：清明缅怀英烈 赓续红色血脉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdzh2Tmo1OUtlclhkTG0zMVlTSmRoVHlwNldyTE5YTWFwWTNJTGxhcFZHTnBveXdnYkpDUWpQWnlYemNsNzMyQ1owOEJfQS0tR3c?oc=5"
-            },
-            {
-                "title": "解除奎山海事处辖区客运船舶禁航管制信息（20260402） - sd.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-04-02",
-                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9COFNhZVpfTEF2M20xZVhvN2NYQVR1WWpaeEYzRVJfenRrZVV6NU9UT1RENi1fMXBiUHV1WlIyMkgyZmJCeVg4elI5WnRjQmtJN1JoRkVFOU9zOVVCOGZuMWJOYzJtOFhWUzRnVw?oc=5"
+                "date": "2026-04-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PMHQyaGd0WTYzd1VBYk5Vc0QwQTN1c29iaGFEWkZMdDRKUlRGMkkxTWozR1oyYnExaWk2VGRMWFJwTEZYaHNVRWIzVEZWRXk1YUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "2026 年 3 月汽车销量 / 交付榜出炉：上汽集团销售整车 37.6 万辆位居榜首",
+                "title": "美国载人绕月计划搞定“厕所危机”后，再遇太空 Outlook 罢工故障",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-03",
+                "url": "https://www.ithome.com/0/935/552.htm"
+            },
+            {
+                "title": "吉利旗下沃飞长空启动科创板 IPO 辅导，打造纯电驱动载客 eVTOL",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-03",
+                "url": "https://www.ithome.com/0/935/551.htm"
+            },
+            {
+                "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-03",
+                "url": "https://36kr.com/p/3750345334292999"
+            },
+            {
+                "title": "IT早报 0403：苹果乔布斯 1994 年采访曝光；OpenClaw 龙虾推出官方中国镜像站；“微信支付有优惠”小程序将结束运营；曝 Q2 内存仍持续疯涨...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/529.htm"
+                "url": "https://www.ithome.com/0/935/536.htm"
             },
             {
-                "title": "牛津文学节：他者目光里的中国文化",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "大众美国 CEO 格鲁纳称轿车和掀背车仍有未来：这是品牌的“心跳”",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109354"
-            },
-            {
-                "title": "一位英国名厨的自白：关于风味的理想与高压",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109353"
-            },
-            {
-                "title": "特朗普为伊朗战争付出“四重代价”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109372"
-            },
-            {
-                "title": "印度学者尼姆巴尔卡尔：中印合作存在着非凡的机遇",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109373"
+                "url": "https://www.ithome.com/0/935/533.htm"
             },
             {
                 "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
@@ -166,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYWtBR0ViQnlMSjl1dUhmLU4tRzgwYXN6NGxrMWJjak5LQ3hDMXI5bmlxcl9ualhmVW1GQjR0Smp0eENzclhZM2lHRDZhRDJNbXlJbGQxRnQ5Q1A3bDhiak5fcjZUOVFudE8zSS1R?oc=5"
             },
             {
-                "title": "安徽省砀山县人武部组织民兵和小学生走进县烈士陵园开展祭英烈活动 - 中国军网",
+                "title": "河北省沧州军分区组织民兵骨干前往青县烈士陵园开展主题教育活动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-02",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVXItdEVaV0Z5WHdZNzhrM2prVWJmcEstdGRwbFlvMC15R09fa3gwQW1ScGZkeXUzeWpEMkkzQ0t2LUxPa2g0YzNHWVpEWEhyMGlSQXREcDlxclVhSWZSTg?oc=5"
+                "date": "2026-04-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zTEZmUVNkeFByN0cyQmV1OGc5cU03ZDVCTTVsRG9VMmx2VlhDUjRxaGdOaF9oODdrR0tHeWZJNHBMeEF2UjNJekhKcmpXYkVwZHc?oc=5"
             },
             {
-                "title": "第74集团军某旅某营：扫码“交伙”真方便 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2WmxGYWF1bnBONGdpTlFVOGIyWjFsREdCdXBTeXEwZXY4b0EtaC1sa3VQYkdWdWpOdFhhZzRLblFPbW1YQ20xcXpEV0E1aGd5RkE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "我国将开展基层医疗质量改善三年行动 - 中国军网",
+                "title": "云南威信：清明缅怀英烈 赓续红色血脉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdzh2Tmo1OUtlclhkTG0zMVlTSmRoVHlwNldyTE5YTWFwWTNJTGxhcFZHTnBveXdnYkpDUWpQWnlYemNsNzMyQ1owOEJfQS0tR3c?oc=5"
-            },
-            {
-                "title": "解除奎山海事处辖区客运船舶禁航管制信息（20260402） - sd.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-04-02",
-                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9COFNhZVpfTEF2M20xZVhvN2NYQVR1WWpaeEYzRVJfenRrZVV6NU9UT1RENi1fMXBiUHV1WlIyMkgyZmJCeVg4elI5WnRjQmtJN1JoRkVFOU9zOVVCOGZuMWJOYzJtOFhWUzRnVw?oc=5"
+                "date": "2026-04-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PMHQyaGd0WTYzd1VBYk5Vc0QwQTN1c29iaGFEWkZMdDRKUlRGMkkxTWozR1oyYnExaWk2VGRMWFJwTEZYaHNVRWIzVEZWRXk1YUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-03T18:42:08.341229+00:00"
+    "last_updated": "2026-04-04T01:56:52.494464+00:00"
 }
