@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "韩国 FuriosaAI 今年量产 2 万颗 RNGD 芯片，计划云与端侧双轨并行",
+                "title": "中东冲突、AI 浪潮、产能受限 DEBUFF 叠满：涨价已从内存、处理器传导至 PCB 等元件",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/560.htm"
+                "url": "https://www.ithome.com/0/935/701.htm"
             },
             {
-                "title": "剑指史上最大规模上市交易，消息称 SpaceX 上调 IPO 估值目标至逾 2 万亿美元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苹果悄然更换140W MacBook Pro充电器插头设计 引发兼容性争议",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/553.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556432.htm"
             },
             {
-                "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
-                "source": "NewsAPI / 36kr.com",
+                "title": "苹果天价扫荡全球手机内存 宁可自己亏损也不给对手活路",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-03",
-                "url": "https://36kr.com/p/3750345334292999"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556428.htm"
             },
             {
-                "title": "三大动力驱动，港股细分龙头扎堆启动A股上市",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-02",
-                "url": "https://36kr.com/newsflashes/3750334893671169"
+                "title": "手机涨价后没人买 高通联发科合计减产约2000万颗处理器",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556414.htm"
             },
             {
-                "title": "IT早报 0403：苹果乔布斯 1994 年采访曝光；OpenClaw 龙虾推出官方中国镜像站；“微信支付有优惠”小程序将结束运营；曝 Q2 内存仍持续疯涨...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/536.htm"
+                "title": "增收不增利 霸王茶姬单季净利大跌94%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556392.htm"
             }
         ],
         "mil": [
             {
-                "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
+                "title": "张雪回应浙创投投资9000万：胆子大了睡觉踏实了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556400.htm"
+            },
+            {
+                "title": "增收不增利 霸王茶姬单季净利大跌94%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556392.htm"
+            },
+            {
+                "title": "亚马逊中东云计算中心遭袭 更多基础设施成为目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556382.htm"
+            },
+            {
+                "title": "消息人士：美国情报评估认为伊朗仍保有强大导弹发射能力",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556376.htm"
+            },
+            {
+                "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-03",
-                "url": "https://36kr.com/p/3750345334292999"
-            },
-            {
-                "title": "IT早报 0403：苹果乔布斯 1994 年采访曝光；OpenClaw 龙虾推出官方中国镜像站；“微信支付有优惠”小程序将结束运营；曝 Q2 内存仍持续疯涨...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/536.htm"
-            },
-            {
-                "title": "无力应对川普挑战 中国改采和平策略(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-02",
-                "url": "https://www.secretchina.com/news/gb/2026/04/03/1097229.html"
-            },
-            {
-                "title": "美情报揭密：伊朗借中港零件造自杀式无人机(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-02",
-                "url": "https://www.secretchina.com/news/gb/2026/04/03/1097230.html"
-            },
-            {
-                "title": "牛津文学节：他者目光里的中国文化",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-04-02",
-                "url": "https://www.ftchinese.com/story/001109354"
+                "url": "https://36kr.com/p/3750417621795588"
             },
             {
                 "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "美国载人绕月计划搞定“厕所危机”后，再遇太空 Outlook 罢工故障",
+                "title": "中东冲突、AI 浪潮、产能受限 DEBUFF 叠满：涨价已从内存、处理器传导至 PCB 等元件",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/552.htm"
+                "url": "https://www.ithome.com/0/935/701.htm"
             },
             {
-                "title": "吉利旗下沃飞长空启动科创板 IPO 辅导，打造纯电驱动载客 eVTOL",
+                "title": "蔚来全新 ES8 完成第 9 万台新车交付，历时 195 天",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/551.htm"
+                "url": "https://www.ithome.com/0/935/679.htm"
             },
             {
-                "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI创企起诉苹果 指控其任意执行App Store审核规则",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-03",
-                "url": "https://36kr.com/p/3750345334292999"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556430.htm"
             },
             {
-                "title": "IT早报 0403：苹果乔布斯 1994 年采访曝光；OpenClaw 龙虾推出官方中国镜像站；“微信支付有优惠”小程序将结束运营；曝 Q2 内存仍持续疯涨...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/536.htm"
+                "title": "增收不增利 霸王茶姬单季净利大跌94%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556392.htm"
             },
             {
-                "title": "大众美国 CEO 格鲁纳称轿车和掀背车仍有未来：这是品牌的“心跳”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-02",
-                "url": "https://www.ithome.com/0/935/533.htm"
+                "title": "亚马逊中东云计算中心遭袭 更多基础设施成为目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556382.htm"
             },
             {
                 "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-04T01:56:52.494464+00:00"
+    "last_updated": "2026-04-04T06:57:30.192272+00:00"
 }
