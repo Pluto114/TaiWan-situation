@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "【CDT报告汇】民主期刊：AI并非无所不能，独裁政权仍无法消除大规模抗议（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-04-04",
+                "url": "https://chinadigitaltimes.net/chinese/726304.html"
+            },
+            {
+                "title": "「同事.Skill」冲上热搜，离职同事已被炼化",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/936/010.htm"
+            },
+            {
                 "title": "一群00后极客和这家机器人公司共处72小时",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-04",
@@ -28,21 +40,33 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-04",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556556.htm"
-            },
-            {
-                "title": "Anthropic向订阅用户额外收费 实质上禁止OpenClaw接入Claude",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556530.htm"
-            },
-            {
-                "title": "IT早报 0404：市监总局要求美团、京东、淘宝闪购尽快自查整改；京东团购上线；小米调整部分在售产品建议零售价；工信部提醒苹果 iPhone 高危漏洞...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/922.htm"
             }
         ],
         "mil": [
+            {
+                "title": "别克至境 E7 SUV 展车已到店：4 月 10 日预售，CLTC 综合续航超 1600 公里",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/936/041.htm"
+            },
+            {
+                "title": "刷得干净也要刷得安全：如何选对电动牙刷？",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-04",
+                "url": "https://www.toodaylab.com/83980"
+            },
+            {
+                "title": "「同事.Skill」冲上热搜，离职同事已被炼化",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/936/010.htm"
+            },
+            {
+                "title": "韩立将启新程：国产动画剧《凡人修仙传》新年番“慕兰之战”定档 6 月 13 日，B站独播",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/935/996.htm"
+            },
             {
                 "title": "406773 公里！美国载人绕月任务将打破 56 年纪录，刷新“人类太空飞行最远距离”",
                 "source": "NewsAPI / Ithome.com",
@@ -50,46 +74,22 @@
                 "url": "https://www.ithome.com/0/935/980.htm"
             },
             {
-                "title": "不只是出错，研究称 AI 智能体开始学会“撒谎”“不听话”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国地图 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
+            },
+            {
+                "title": "重要历史文件 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlibGxfVU05cngtdVZ0VVJBSVZWTm1janMtbW1zTEUzN09PYXdNUzdlcFlibnh5dTczenlWLVZsclkyM1ZBQnF4ekplWW1DQWczNmJVQVJfYXFpeFgwWWN4bHNjMFJsT0tqbldYSy13MlFxSG1mSWJLNzFQTDNnR2RB?oc=5"
+            },
+            {
+                "title": "家国永念丨天地英雄气 千秋尚凛然 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-04",
-                "url": "https://www.ithome.com/0/935/950.htm"
-            },
-            {
-                "title": "IT早报 0404：市监总局要求美团、京东、淘宝闪购尽快自查整改；京东团购上线；小米调整部分在售产品建议零售价；工信部提醒苹果 iPhone 高危漏洞...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/922.htm"
-            },
-            {
-                "title": "第二架美国战机A-10被击落 飞行员获救(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-03",
-                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097287.html"
-            },
-            {
-                "title": "华裔姐弟在美军基地放炸弹 非法移民父母被抓(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-03",
-                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097280.html"
-            },
-            {
-                "title": "2026年4月3日外交部发言人毛宁主持例行记者会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11eXBURzA3aDg1UjNsS3U1SlNzWjdjc1R6VDBmRWlLSFlKRHpQV0IxRzRtbnNjV0ZhMnlNUzFsNEN2M3FaaVhYR2YyeVl6Yk1nWnZ3TFVQTlVVbDZjalByRkZLb0drazU4MDJBdnhhXzYxd2o1NFE?oc=5"
-            },
-            {
-                "title": "驻南非大使吴鹏就关于恢复海湾和中东地区和平稳定的五点倡议接受南非广播公司专访 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEM1RmxpM2VLZFBRWEZLMTFKbmF3T1JkbVhXem40UU83Uzk0TEE0TEVPQ1FGbkx1OTJ3YkxNMW44WGg3VnlfWlZIeVJDRjV4SHdDME1SSHJpdHVqUUpqeE53SEk2aVFvODEydkR4dGNkcFRuUDdvVkVvZzMwbEVEdDFSNlQ?oc=5"
-            },
-            {
-                "title": "驻登巴萨总领事张志昇走访印尼巴厘省努拉莱伊机场移民局 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnZBRkQzbGFJQUNweHdrcUlBZjc4aTktaVQ2aDBnZjdEXzNSQjkzQVJDRG5DT3RZLWd2N2owbTY1Z1hOLXZMUlpfSUpjMVhneU1KQjNyd096NmFVV3UyNFdKN1pfdzFjbktmQUgwbUNIZHBQcFFHQi01ZUg2NEFBZW5nWHU?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTGNCVFJSOGxEdjNFd0pPMXpOeVJLNUNubm80dUV4RHNteGhFdVpPVmNsMWtiUnkzTUx2Q0c3RGxTVktpbFdWbTNqZWx0dFdKZER3ejhzZEppVnpRZWo2ZlFYOA?oc=5"
             },
             {
                 "title": "李幼斌深情寄语致敬英烈- 八一视频 - 中国军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "别克至境 E7 SUV 展车已到店：4 月 10 日预售，CLTC 综合续航超 1600 公里",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/936/041.htm"
+            },
+            {
+                "title": "美伊战事正酣 中国趁机扩展影响力？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-04",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%8B%E6%AD%A3%E9%85%A3-%E4%B8%AD%E5%9B%BD%E8%B6%81%E6%9C%BA%E6%89%A9%E5%B1%95%E5%BD%B1%E5%93%8D%E5%8A%9B/a-76659916"
+            },
+            {
+                "title": "美议员关切1.25兆国防预算受阻 示警“勿对中共抱天真幻想”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-04",
+                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097270.html"
+            },
+            {
                 "title": "Anthropic正式封杀OpenClaw 全球开发者24小时血崩",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-04",
@@ -124,40 +142,22 @@
                 "url": "https://www.ithome.com/0/935/950.htm"
             },
             {
-                "title": "郑丽文与魔鬼交易 神明已降凶兆 94.4%台湾民意说“不”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-04",
-                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097294.html"
-            },
-            {
-                "title": "想参与 SpaceX IPO 还得先买 Grok 订阅，消息称马斯克向投行和律所提出新要求",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-04",
-                "url": "https://www.ithome.com/0/935/944.htm"
-            },
-            {
-                "title": "Anthropic启动员工出资政治行动委员会 为大选季加码政治捐款",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556556.htm"
-            },
-            {
-                "title": "2026年4月3日外交部发言人毛宁主持例行记者会 - mfa.gov.cn",
+                "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11eXBURzA3aDg1UjNsS3U1SlNzWjdjc1R6VDBmRWlLSFlKRHpQV0IxRzRtbnNjV0ZhMnlNUzFsNEN2M3FaaVhYR2YyeVl6Yk1nWnZ3TFVQTlVVbDZjalByRkZLb0drazU4MDJBdnhhXzYxd2o1NFE?oc=5"
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
-                "title": "驻南非大使吴鹏就关于恢复海湾和中东地区和平稳定的五点倡议接受南非广播公司专访 - mfa.gov.cn",
+                "title": "重要历史文件 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEM1RmxpM2VLZFBRWEZLMTFKbmF3T1JkbVhXem40UU83Uzk0TEE0TEVPQ1FGbkx1OTJ3YkxNMW44WGg3VnlfWlZIeVJDRjV4SHdDME1SSHJpdHVqUUpqeE53SEk2aVFvODEydkR4dGNkcFRuUDdvVkVvZzMwbEVEdDFSNlQ?oc=5"
+                "date": "2022-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlibGxfVU05cngtdVZ0VVJBSVZWTm1janMtbW1zTEUzN09PYXdNUzdlcFlibnh5dTczenlWLVZsclkyM1ZBQnF4ekplWW1DQWczNmJVQVJfYXFpeFgwWWN4bHNjMFJsT0tqbldYSy13MlFxSG1mSWJLNzFQTDNnR2RB?oc=5"
             },
             {
-                "title": "驻登巴萨总领事张志昇走访印尼巴厘省努拉莱伊机场移民局 - mfa.gov.cn",
+                "title": "家国永念丨天地英雄气 千秋尚凛然 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnZBRkQzbGFJQUNweHdrcUlBZjc4aTktaVQ2aDBnZjdEXzNSQjkzQVJDRG5DT3RZLWd2N2owbTY1Z1hOLXZMUlpfSUpjMVhneU1KQjNyd096NmFVV3UyNFdKN1pfdzFjbktmQUgwbUNIZHBQcFFHQi01ZUg2NEFBZW5nWHU?oc=5"
+                "date": "2026-04-04",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTGNCVFJSOGxEdjNFd0pPMXpOeVJLNUNubm80dUV4RHNteGhFdVpPVmNsMWtiUnkzTUx2Q0c3RGxTVktpbFdWbTNqZWx0dFdKZER3ejhzZEppVnpRZWo2ZlFYOA?oc=5"
             },
             {
                 "title": "李幼斌深情寄语致敬英烈- 八一视频 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-05T07:02:04.152976+00:00"
+    "last_updated": "2026-04-05T12:52:22.828810+00:00"
 }
