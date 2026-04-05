@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "一群00后极客和这家机器人公司共处72小时",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-04",
+                "url": "https://36kr.com/p/3752115857638145"
+            },
+            {
                 "title": "MLB引入“自动好球坏球挑战系统” 揭示裁判的误判率甚至远高于平均水平",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-04",
@@ -34,15 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-03",
                 "url": "https://www.ithome.com/0/935/922.htm"
-            },
-            {
-                "title": "联想摩托罗拉 moto razr fold 大折叠屏手机上架，5 月 31 日开启预约",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/905.htm"
             }
         ],
         "mil": [
+            {
+                "title": "406773 公里！美国载人绕月任务将打破 56 年纪录，刷新“人类太空飞行最远距离”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/935/980.htm"
+            },
+            {
+                "title": "不只是出错，研究称 AI 智能体开始学会“撒谎”“不听话”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/935/950.htm"
+            },
             {
                 "title": "IT早报 0404：市监总局要求美团、京东、淘宝闪购尽快自查整改；京东团购上线；小米调整部分在售产品建议零售价；工信部提醒苹果 iPhone 高危漏洞...",
                 "source": "NewsAPI / Ithome.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/04/04/1097280.html"
             },
             {
-                "title": "美战机在伊朗被击落 特朗普曾扬言再轰炸两三周",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556520.htm"
-            },
-            {
-                "title": "Perplexity Computer 上线美国联邦报税与审计新功能",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556512.htm"
-            },
-            {
-                "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
+                "title": "2026年4月3日外交部发言人毛宁主持例行记者会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDRydkM0NW5XLXZvWlZabkNBY1J2WUdjbWN4Q0NCM3FmNXZKSjZjRTM2aW80X3N6OVpMM01rdDR4U2YtblFOUGFlVHlOZ3hkTFZBQ1ZKOTQxM21ZSzl3am8tdnNwaXVKQ2lzZ2FheDhsM3lEZ3M3cWc2R0RaMmJ5cmMxS0VVM1JpeGc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11eXBURzA3aDg1UjNsS3U1SlNzWjdjc1R6VDBmRWlLSFlKRHpQV0IxRzRtbnNjV0ZhMnlNUzFsNEN2M3FaaVhYR2YyeVl6Yk1nWnZ3TFVQTlVVbDZjalByRkZLb0drazU4MDJBdnhhXzYxd2o1NFE?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "驻南非大使吴鹏就关于恢复海湾和中东地区和平稳定的五点倡议接受南非广播公司专访 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2NKVzJiMWdRSmtQazNuNl9ScHpRTXBORk5tZ2k3bkJKczdPWFpDWTF2NF9wS05UX2xoTG1LbHlDQWNJTUc1Z1RsbzJIdW1hdU50d2d3dTFnOERoSzVkZldVLUtUQVdBNkZsUnEzcTlyRFpDQWRYa0taRXNEN2VkcHpWdU1lcGc2X2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEM1RmxpM2VLZFBRWEZLMTFKbmF3T1JkbVhXem40UU83Uzk0TEE0TEVPQ1FGbkx1OTJ3YkxNMW44WGg3VnlfWlZIeVJDRjV4SHdDME1SSHJpdHVqUUpqeE53SEk2aVFvODEydkR4dGNkcFRuUDdvVkVvZzMwbEVEdDFSNlQ?oc=5"
             },
             {
-                "title": "驻阿德莱德总领事李东出席2026年南澳州“国际中文日”活动 - mfa.gov.cn",
+                "title": "驻登巴萨总领事张志昇走访印尼巴厘省努拉莱伊机场移民局 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1URWJ0S2FXS3p3ZEg1S3BtOUdFX3Z6VUwzakJoZmFGN0VhWi1KbXR2Ym5JeklzSENHajBKOGFmWmV0YW5EVVQ4Q1ZuYWowTVdKSXk0UWlPMVhIYjJScDFGdUNOcTBmc0F3S0pxbzVIUkhOTk5IM3VSd3U0OA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnZBRkQzbGFJQUNweHdrcUlBZjc4aTktaVQ2aDBnZjdEXzNSQjkzQVJDRG5DT3RZLWd2N2owbTY1Z1hOLXZMUlpfSUpjMVhneU1KQjNyd096NmFVV3UyNFdKN1pfdzFjbktmQUgwbUNIZHBQcFFHQi01ZUg2NEFBZW5nWHU?oc=5"
             },
             {
                 "title": "李幼斌深情寄语致敬英烈- 八一视频 - 中国军网",
@@ -104,13 +104,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RDNRcU1SRl9tRXVVZzFxLXRnbWRZX3gxLTBBR0ZfaUdHNkl1ZGM1eDJqU0pZZEptcFcxNmEzZUpMTVREejV4WXNUcGJfVUt4VUE?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "武警广西总队南宁支队官兵赴革命烈士陵园开展祭扫活动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-04-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaWNHSWZfSEFtR0hVWkRya3dyZUJ2ci05cTN6b0ZIYml3TXJZQUFHbms5cHFwZ2dYa3A0TlpycnpIS0o2YW5vSHVGbGxDaE5OdHc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "Anthropic正式封杀OpenClaw 全球开发者24小时血崩",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556562.htm"
+            },
+            {
+                "title": "不只是出错，研究称 AI 智能体开始学会“撒谎”“不听话”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/935/950.htm"
+            },
+            {
+                "title": "郑丽文与魔鬼交易 神明已降凶兆 94.4%台湾民意说“不”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-04",
+                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097294.html"
+            },
             {
                 "title": "想参与 SpaceX IPO 还得先买 Grok 订阅，消息称马斯克向投行和律所提出新要求",
                 "source": "NewsAPI / Ithome.com",
@@ -124,40 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556556.htm"
             },
             {
-                "title": "法国和日本的船只通过霍尔木兹海峡 或为伊朗战争爆发后首次",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556534.htm"
-            },
-            {
-                "title": "伊朗冲突致燃油价格近乎翻倍 美联航托运行李费上涨10至50美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556528.htm"
-            },
-            {
-                "title": "IT早报 0404：市监总局要求美团、京东、淘宝闪购尽快自查整改；京东团购上线；小米调整部分在售产品建议零售价；工信部提醒苹果 iPhone 高危漏洞...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-03",
-                "url": "https://www.ithome.com/0/935/922.htm"
-            },
-            {
-                "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
+                "title": "2026年4月3日外交部发言人毛宁主持例行记者会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDRydkM0NW5XLXZvWlZabkNBY1J2WUdjbWN4Q0NCM3FmNXZKSjZjRTM2aW80X3N6OVpMM01rdDR4U2YtblFOUGFlVHlOZ3hkTFZBQ1ZKOTQxM21ZSzl3am8tdnNwaXVKQ2lzZ2FheDhsM3lEZ3M3cWc2R0RaMmJ5cmMxS0VVM1JpeGc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11eXBURzA3aDg1UjNsS3U1SlNzWjdjc1R6VDBmRWlLSFlKRHpQV0IxRzRtbnNjV0ZhMnlNUzFsNEN2M3FaaVhYR2YyeVl6Yk1nWnZ3TFVQTlVVbDZjalByRkZLb0drazU4MDJBdnhhXzYxd2o1NFE?oc=5"
             },
             {
-                "title": "- mfa.gov.cn",
+                "title": "驻南非大使吴鹏就关于恢复海湾和中东地区和平稳定的五点倡议接受南非广播公司专访 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2NKVzJiMWdRSmtQazNuNl9ScHpRTXBORk5tZ2k3bkJKczdPWFpDWTF2NF9wS05UX2xoTG1LbHlDQWNJTUc1Z1RsbzJIdW1hdU50d2d3dTFnOERoSzVkZldVLUtUQVdBNkZsUnEzcTlyRFpDQWRYa0taRXNEN2VkcHpWdU1lcGc2X2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVEM1RmxpM2VLZFBRWEZLMTFKbmF3T1JkbVhXem40UU83Uzk0TEE0TEVPQ1FGbkx1OTJ3YkxNMW44WGg3VnlfWlZIeVJDRjV4SHdDME1SSHJpdHVqUUpqeE53SEk2aVFvODEydkR4dGNkcFRuUDdvVkVvZzMwbEVEdDFSNlQ?oc=5"
             },
             {
-                "title": "驻阿德莱德总领事李东出席2026年南澳州“国际中文日”活动 - mfa.gov.cn",
+                "title": "驻登巴萨总领事张志昇走访印尼巴厘省努拉莱伊机场移民局 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1URWJ0S2FXS3p3ZEg1S3BtOUdFX3Z6VUwzakJoZmFGN0VhWi1KbXR2Ym5JeklzSENHajBKOGFmWmV0YW5EVVQ4Q1ZuYWowTVdKSXk0UWlPMVhIYjJScDFGdUNOcTBmc0F3S0pxbzVIUkhOTk5IM3VSd3U0OA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnZBRkQzbGFJQUNweHdrcUlBZjc4aTktaVQ2aDBnZjdEXzNSQjkzQVJDRG5DT3RZLWd2N2owbTY1Z1hOLXZMUlpfSUpjMVhneU1KQjNyd096NmFVV3UyNFdKN1pfdzFjbktmQUgwbUNIZHBQcFFHQi01ZUg2NEFBZW5nWHU?oc=5"
             },
             {
                 "title": "李幼斌深情寄语致敬英烈- 八一视频 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RDNRcU1SRl9tRXVVZzFxLXRnbWRZX3gxLTBBR0ZfaUdHNkl1ZGM1eDJqU0pZZEptcFcxNmEzZUpMTVREejV4WXNUcGJfVUt4VUE?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "武警广西总队南宁支队官兵赴革命烈士陵园开展祭扫活动 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-04-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaWNHSWZfSEFtR0hVWkRya3dyZUJ2ci05cTN6b0ZIYml3TXJZQUFHbms5cHFwZ2dYa3A0TlpycnpIS0o2YW5vSHVGbGxDaE5OdHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-05T02:10:07.274492+00:00"
+    "last_updated": "2026-04-05T07:02:04.152976+00:00"
 }
