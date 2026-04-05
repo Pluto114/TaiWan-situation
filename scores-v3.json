@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "MLB引入“自动好球坏球挑战系统” 揭示裁判的误判率甚至远高于平均水平",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556558.htm"
+            },
+            {
+                "title": "Anthropic启动员工出资政治行动委员会 为大选季加码政治捐款",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556556.htm"
+            },
+            {
+                "title": "Anthropic向订阅用户额外收费 实质上禁止OpenClaw接入Claude",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556530.htm"
+            },
+            {
+                "title": "IT早报 0404：市监总局要求美团、京东、淘宝闪购尽快自查整改；京东团购上线；小米调整部分在售产品建议零售价；工信部提醒苹果 iPhone 高危漏洞...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-03",
+                "url": "https://www.ithome.com/0/935/922.htm"
+            },
+            {
                 "title": "联想摩托罗拉 moto razr fold 大折叠屏手机上架，5 月 31 日开启预约",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-03",
                 "url": "https://www.ithome.com/0/935/905.htm"
-            },
-            {
-                "title": "2025年晶圆代工市场收入达3200亿美元 AI需求成最大推力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556514.htm"
-            },
-            {
-                "title": "德语媒体：急需孩子的中国",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-03",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%80%A5%E9%9C%80%E5%AD%A9%E5%AD%90%E7%9A%84%E4%B8%AD%E5%9B%BD/a-76654734"
-            },
-            {
-                "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-03",
-                "url": "https://36kr.com/p/3751046517129735"
-            },
-            {
-                "title": "长江存储三期项目下半年量产：总产能将超SK海力士 直冲全球第三",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556478.htm"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 0404：市监总局要求美团、京东、淘宝闪购尽快自查整改；京东团购上线；小米调整部分在售产品建议零售价；工信部提醒苹果 iPhone 高危漏洞...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-03",
+                "url": "https://www.ithome.com/0/935/922.htm"
+            },
+            {
+                "title": "第二架美国战机A-10被击落 飞行员获救(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-03",
+                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097287.html"
+            },
+            {
+                "title": "华裔姐弟在美军基地放炸弹 非法移民父母被抓(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-03",
+                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097280.html"
+            },
             {
                 "title": "美战机在伊朗被击落 特朗普曾扬言再轰炸两三周",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,31 +74,13 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556512.htm"
             },
             {
-                "title": "终于来了 五角大楼对中共启动特殊军事行动(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-03",
-                "url": "https://www.secretchina.com/news/gb/2026/04/03/1097261.html"
-            },
-            {
-                "title": "安理会推迟表决护航决议 美国百余名法学家联署公开信",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-03",
-                "url": "https://www.dw.com/zh/%E5%AE%89%E7%90%86%E4%BC%9A%E6%8E%A8%E8%BF%9F%E8%A1%A8%E5%86%B3%E6%8A%A4%E8%88%AA%E5%86%B3%E8%AE%AE-%E7%BE%8E%E5%9B%BD%E7%99%BE%E4%BD%99%E5%90%8D%E6%B3%95%E5%AD%A6%E5%AE%B6%E8%81%94%E7%BD%B2%E5%85%AC%E5%BC%80%E4%BF%A1/a-76652936"
-            },
-            {
-                "title": "大疆与影石对簿公堂：专利权属纠纷案今天开庭 深圳中院喊话延期听证",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556468.htm"
-            },
-            {
                 "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDRydkM0NW5XLXZvWlZabkNBY1J2WUdjbWN4Q0NCM3FmNXZKSjZjRTM2aW80X3N6OVpMM01rdDR4U2YtblFOUGFlVHlOZ3hkTFZBQ1ZKOTQxM21ZSzl3am8tdnNwaXVKQ2lzZ2FheDhsM3lEZ3M3cWc2R0RaMmJ5cmMxS0VVM1JpeGc?oc=5"
             },
             {
-                "title": "驻阿塞拜疆大使鲁梅在阿媒体发表署名文章庆祝中阿建交34周年（2026-04-02） - 外交部 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2NKVzJiMWdRSmtQazNuNl9ScHpRTXBORk5tZ2k3bkJKczdPWFpDWTF2NF9wS05UX2xoTG1LbHlDQWNJTUc1Z1RsbzJIdW1hdU50d2d3dTFnOERoSzVkZldVLUtUQVdBNkZsUnEzcTlyRFpDQWRYa0taRXNEN2VkcHpWdU1lcGc2X2c?oc=5"
@@ -98,10 +98,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pb0Y0V1hUaHZBaFIyVHh0MXd6ZTYtck5WaVZUYldSbm5KblZQY0pJQ2VxSmdOR0pLNHRzTW1Xc1hOWHN0X1dsNUhKRWJ1TG9qNEFrRzI4V3N0Q3MzY2QtbzltMXk?oc=5"
             },
             {
-                "title": "河北省沧州军分区组织民兵骨干前往青县烈士陵园开展主题教育活动 - 中国军网",
+                "title": "喀喇昆仑英雄，祖国永远不会忘记 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zTEZmUVNkeFByN0cyQmV1OGc5cU03ZDVCTTVsRG9VMmx2VlhDUjRxaGdOaF9oODdrR0tHeWZJNHBMeEF2UjNJekhKcmpXYkVwZHc?oc=5"
+                "date": "2026-04-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RDNRcU1SRl9tRXVVZzFxLXRnbWRZX3gxLTBBR0ZfaUdHNkl1ZGM1eDJqU0pZZEptcFcxNmEzZUpMTVREejV4WXNUcGJfVUt4VUE?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "他们正用行动证明台海和平非中国内政(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-03",
-                "url": "https://www.secretchina.com/news/gb/2026/04/04/1097276.html"
+                "title": "想参与 SpaceX IPO 还得先买 Grok 订阅，消息称马斯克向投行和律所提出新要求",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-04",
+                "url": "https://www.ithome.com/0/935/944.htm"
             },
             {
-                "title": "美战机在伊朗被击落 特朗普曾扬言再轰炸两三周",
+                "title": "Anthropic启动员工出资政治行动委员会 为大选季加码政治捐款",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556520.htm"
+                "date": "2026-04-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556556.htm"
             },
             {
-                "title": "走进三家腕表品牌最近开出的全新空间，看看它们能带来怎样的体验",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-03",
-                "url": "https://www.toodaylab.com/83981"
-            },
-            {
-                "title": "又一名政治局委员落马 前新疆党委书记马兴瑞接受调查",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-03",
-                "url": "https://www.dw.com/zh/%E5%8F%88%E4%B8%80%E5%90%8D%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%E8%90%BD%E9%A9%AC-%E5%89%8D%E6%96%B0%E7%96%86%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%A9%AC%E5%85%B4%E7%91%9E%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5/a-76654675"
-            },
-            {
-                "title": "15家中国半导体企业拟被纳入美国出口管制清单 中芯国际长鑫存储在列",
+                "title": "法国和日本的船只通过霍尔木兹海峡 或为伊朗战争爆发后首次",
                 "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556534.htm"
+            },
+            {
+                "title": "伊朗冲突致燃油价格近乎翻倍 美联航托运行李费上涨10至50美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556528.htm"
+            },
+            {
+                "title": "IT早报 0404：市监总局要求美团、京东、淘宝闪购尽快自查整改；京东团购上线；小米调整部分在售产品建议零售价；工信部提醒苹果 iPhone 高危漏洞...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556502.htm"
+                "url": "https://www.ithome.com/0/935/922.htm"
             },
             {
                 "title": "泰国公主诗琳通将访华 - mfa.gov.cn",
@@ -148,7 +148,7 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDRydkM0NW5XLXZvWlZabkNBY1J2WUdjbWN4Q0NCM3FmNXZKSjZjRTM2aW80X3N6OVpMM01rdDR4U2YtblFOUGFlVHlOZ3hkTFZBQ1ZKOTQxM21ZSzl3am8tdnNwaXVKQ2lzZ2FheDhsM3lEZ3M3cWc2R0RaMmJ5cmMxS0VVM1JpeGc?oc=5"
             },
             {
-                "title": "驻阿塞拜疆大使鲁梅在阿媒体发表署名文章庆祝中阿建交34周年（2026-04-02） - 外交部 - mfa.gov.cn",
+                "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-03",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2NKVzJiMWdRSmtQazNuNl9ScHpRTXBORk5tZ2k3bkJKczdPWFpDWTF2NF9wS05UX2xoTG1LbHlDQWNJTUc1Z1RsbzJIdW1hdU50d2d3dTFnOERoSzVkZldVLUtUQVdBNkZsUnEzcTlyRFpDQWRYa0taRXNEN2VkcHpWdU1lcGc2X2c?oc=5"
@@ -166,10 +166,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pb0Y0V1hUaHZBaFIyVHh0MXd6ZTYtck5WaVZUYldSbm5KblZQY0pJQ2VxSmdOR0pLNHRzTW1Xc1hOWHN0X1dsNUhKRWJ1TG9qNEFrRzI4V3N0Q3MzY2QtbzltMXk?oc=5"
             },
             {
-                "title": "河北省沧州军分区组织民兵骨干前往青县烈士陵园开展主题教育活动 - 中国军网",
+                "title": "喀喇昆仑英雄，祖国永远不会忘记 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zTEZmUVNkeFByN0cyQmV1OGc5cU03ZDVCTTVsRG9VMmx2VlhDUjRxaGdOaF9oODdrR0tHeWZJNHBMeEF2UjNJekhKcmpXYkVwZHc?oc=5"
+                "date": "2026-04-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RDNRcU1SRl9tRXVVZzFxLXRnbWRZX3gxLTBBR0ZfaUdHNkl1ZGM1eDJqU0pZZEptcFcxNmEzZUpMTVREejV4WXNUcGJfVUt4VUE?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-04T18:37:45.293081+00:00"
+    "last_updated": "2026-04-05T02:10:07.274492+00:00"
 }
