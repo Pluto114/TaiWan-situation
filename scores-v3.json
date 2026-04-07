@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
+                "title": "OPPO A6k 手机上市：天玑 6300 + LCD 直屏 + 7000mAh 电池，定价 1999 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-06",
+                "url": "https://www.ithome.com/0/936/298.htm"
+            },
+            {
+                "title": "“二次西进”不可行 台股公司赴中投资“1/3亏老本”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-06",
+                "url": "https://www.secretchina.com/news/gb/2026/04/06/1097369.html"
+            },
+            {
+                "title": "M5 MacBook Air 16+512G 京东补货：国补后 7188 元，教育优惠版 6544 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-06",
+                "url": "https://www.ithome.com/0/936/271.htm"
+            },
+            {
+                "title": "消息称三星电子泰勒逻辑厂启动光刻机调试，平泽 DRAM 厂下达设备订单",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-06",
+                "url": "https://www.ithome.com/0/936/264.htm"
+            },
+            {
                 "title": "IT早报 0406：闲鱼“鱼小铺”升级并调整优惠规则；北京警方提醒苹果用户警惕 iMessage 贷款代办诈骗；大疆 Osmo Pocket 4 全能套装包装曝光...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-05",
                 "url": "https://www.ithome.com/0/936/186.htm"
-            },
-            {
-                "title": "编舞师起诉索尼，指控《死侍与金刚狼》擅自使用其《Bye Bye Bye》舞蹈",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-05",
-                "url": "https://www.ithome.com/0/936/183.htm"
-            },
-            {
-                "title": "三星无惧“内存崩盘”恐慌：一季度价格翻倍后二季度再调涨三成",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556700.htm"
-            },
-            {
-                "title": "我们是最后一代！中国年轻人挣扎中求生！(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-05",
-                "url": "https://www.secretchina.com/news/gb/2026/04/06/1097343.html"
-            },
-            {
-                "title": "加财长率金融巨头访华推动贸易回暖引批评(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-05",
-                "url": "https://www.secretchina.com/news/gb/2026/04/05/1097335.html"
             }
         ],
         "mil": [
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "【袁红冰热点】独家内幕：美中对决前夕、北京对“川习会”两个政治目的(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-06",
+                "url": "https://www.secretchina.com/news/gb/2026/04/06/1097375.html"
+            },
+            {
                 "title": "伊朗威胁要炸掉300亿美元OpenAI星际之门AI数据中心",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-06",
@@ -134,12 +140,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-06",
                 "url": "https://36kr.com/newsflashes/3754661771281154"
-            },
-            {
-                "title": "60 万美元投资换来 264 亿美元回报，红杉资本揭秘 1977 年投资苹果往事",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-06",
-                "url": "https://www.ithome.com/0/936/200.htm"
             },
             {
                 "title": "王毅同俄罗斯外长拉夫罗夫通电话 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-07T07:11:44.548371+00:00"
+    "last_updated": "2026-04-07T13:13:27.329825+00:00"
 }
