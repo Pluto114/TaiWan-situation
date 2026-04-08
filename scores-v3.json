@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "霍尼韦尔入局 为五角大楼研发军用电动飞机",
+                "title": "预计明年苹果将推出搭载A19 Pro芯片和12GB内存的新款MacBook Neo",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556898.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556926.htm"
             },
             {
-                "title": "ASML股价因美国国会计划进一步限制对华出口而下跌4.7%",
+                "title": "苹果阔折叠被曝命名iPhone Ultra 国内厂商考虑跟进",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556896.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556920.htm"
             },
             {
-                "title": "大众、小鹏合作首款车型：中大型 SUV 与众 08 将于 4 月 16 日上市，预售价 23.99 万元起",
+                "title": "玩家的RTX 4090被烧毁 猫咪竟然是第一个发现",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556908.htm"
+            },
+            {
+                "title": "打破国外垄断！首款国产车规级 MCU 芯片 DF30 稳步推进量产上车",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/720.htm"
+                "url": "https://www.ithome.com/0/936/752.htm"
             },
             {
-                "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
-                "source": "NewsAPI / 36kr.com",
+                "title": "消息称苹果 MacBook Neo 热销致 A18 Pro 库存告急，面临成本与产能双重压力",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://36kr.com/p/3756523983536905"
-            },
-            {
-                "title": "从近期发布的三组合作系列，看 Bonpoint 如何用联名丰富童装的风格叙事",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-07",
-                "url": "https://www.toodaylab.com/83986"
+                "url": "https://www.ithome.com/0/936/748.htm"
             }
         ],
         "mil": [
@@ -92,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
             },
             {
-                "title": "家国永念｜英雄花开 - 中国军网",
+                "title": "“今天我们抬功臣” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rWFc3RXBGaVMzaTM5MEdHSUVfWDJJR01YVHNGa0RRc0QzZC1XNHpkeVp5c2x4WHBJWWlaRTU5RFJIQXRwTlY2TmlnZDdBSXF1b3c?oc=5"
+                "date": "2026-04-07",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGFub2JxYzBOUjlmeEotQWpUTEZ6LWtOUjVfbGNPRmZqSlVRVkxrYk1uUllsTTJXQUQtc0hGSGhxRk44cGhIX1VOc082SUxjQl9ZeXJXWXB0QmZnNFJiVkVPUUFqdWR5TUtISzN1S3pOVHQxclhUam05b3IyaXYyeUxvbjVlQ3NsOEpkbnkwWV81R2xlVGJCSEhyYzNHaDlHTHp6TGJLbDl6OWxLcXc3X0ZVTmFFcHc?oc=5"
             },
             {
                 "title": "树立和践行正确政绩观系列谈丨深入查找和纠治政绩观偏差 - 中国军网",
@@ -111,6 +111,18 @@
             }
         ],
         "pol": [
+            {
+                "title": "特朗普政府拟削减网络安全机构CISA预算逾7亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556930.htm"
+            },
+            {
+                "title": "德语媒体：谁在坐收渔利？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-07",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E8%B0%81%E5%9C%A8%E5%9D%90%E6%94%B6%E6%B8%94%E5%88%A9/a-76695225"
+            },
             {
                 "title": "ASML股价因美国国会计划进一步限制对华出口而下跌4.7%",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
                 "url": "https://www.ithome.com/0/936/712.htm"
-            },
-            {
-                "title": "国民党主席郑丽文访问中国大陆 台政府：不要配合中共剧本",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-07",
-                "url": "https://www.dw.com/zh/%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86-%E5%8F%B0%E6%94%BF%E5%BA%9C%E4%B8%8D%E8%A6%81%E9%85%8D%E5%90%88%E4%B8%AD%E5%85%B1%E5%89%A7%E6%9C%AC/a-76690482"
-            },
-            {
-                "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-07",
-                "url": "https://36kr.com/p/3756523983536905"
             },
             {
                 "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
             },
             {
-                "title": "家国永念｜英雄花开 - 中国军网",
+                "title": "“今天我们抬功臣” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rWFc3RXBGaVMzaTM5MEdHSUVfWDJJR01YVHNGa0RRc0QzZC1XNHpkeVp5c2x4WHBJWWlaRTU5RFJIQXRwTlY2TmlnZDdBSXF1b3c?oc=5"
+                "date": "2026-04-07",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGFub2JxYzBOUjlmeEotQWpUTEZ6LWtOUjVfbGNPRmZqSlVRVkxrYk1uUllsTTJXQUQtc0hGSGhxRk44cGhIX1VOc082SUxjQl9ZeXJXWXB0QmZnNFJiVkVPUUFqdWR5TUtISzN1S3pOVHQxclhUam05b3IyaXYyeUxvbjVlQ3NsOEpkbnkwWV81R2xlVGJCSEhyYzNHaDlHTHp6TGJLbDl6OWxLcXc3X0ZVTmFFcHc?oc=5"
             },
             {
                 "title": "树立和践行正确政绩观系列谈丨深入查找和纠治政绩观偏差 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-08T13:15:11.432706+00:00"
+    "last_updated": "2026-04-08T19:11:59.826579+00:00"
 }
