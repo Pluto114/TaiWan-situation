@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "极氪 8X 官宣 4 月 17 日发布上市，预售价 37.68 万元起",
+                "title": "曝OpenAI曾讨论疯狂计划 像《使命召唤》反派那样挑拨世界大国对立",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556876.htm"
+            },
+            {
+                "title": "美拟拟对中国半导体产业升级出口管制 实施DUV光刻机出口禁令",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556862.htm"
+            },
+            {
+                "title": "三星可能对在华业务进行“大瘦身” 只保留手机和存储部门",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556854.htm"
+            },
+            {
+                "title": "英特尔酷睿 9 273PQE 嵌入式处理器魔改成功：稳定运行 Win10",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/364.htm"
+                "url": "https://www.ithome.com/0/936/541.htm"
             },
             {
-                "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-07",
-                "url": "https://36kr.com/p/3754821568578050"
-            },
-            {
-                "title": "让大批人贫穷是中共的生存需要(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-07",
-                "url": "https://www.secretchina.com/news/gb/2026/04/07/1097421.html"
-            },
-            {
-                "title": "三星电子第一季度营业利润同比暴增 755% 创纪录，AI 存储芯片成核心驱动力",
+                "title": "华为 Vision 智慧屏 6 SE 开售：Super Mini LED 鸿鹄画质，3899 元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/331.htm"
-            },
-            {
-                "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-06",
-                "url": "https://36kr.com/p/3755994793280000"
+                "url": "https://www.ithome.com/0/936/535.htm"
             }
         ],
         "mil": [
+            {
+                "title": "理想汽车增程系统负责人：张雪这台 819 三缸机从根上解决国产大排量摩托“卡脖子”的问题",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-07",
+                "url": "https://www.ithome.com/0/936/367.htm"
+            },
             {
                 "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
                 "source": "NewsAPI / 36kr.com",
@@ -68,28 +74,22 @@
                 "url": "https://36kr.com/p/3755994793280000"
             },
             {
-                "title": "IT早报 0407：曝苹果首款折叠屏手机已在试产；微信公关总监回应“支付有优惠”小程序关停；iPhone 18 Pro 系列或推灰银深红三色；问界新 M9 无伪装实车上路...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-06",
-                "url": "https://www.ithome.com/0/936/317.htm"
-            },
-            {
-                "title": "习近平致电祝贺苏林当选越南国家主席 - 中华人民共和国国防部",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMT0tiWDR6X19WV0hsS3pPckplVGFYbnBlcUJOaWN3SGdYS2lwOGw5d3ZGMHljNmRvZG9pOG5xZUlBYUdtZlZ0QldGYldXSDl3TTQyS3NYWkM?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
-                "title": "毛宁：中方反对日本放宽武器出口限制（2026年4月7日） - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2VENS1VdU9KM0hoRGRxcklLNUo4cG9yM0dsQ1hIdnlFaGhUbkRTYlJWcmk1YTl5UThDSVdQQ1Bhd0tkTGlyWlp6dnA0eU16dkhfV2pZUFpiT1BzS0RqQy1jUHdfdGJueGZ0SFVXZEZENFo1MFRDcGhtM21JT1ExVjYxV1BNLXlKOGFNSklJQmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
             },
             {
-                "title": "驻克赖斯特彻奇总领事何颖会见蒂马鲁区长奈吉·鲍温 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-06",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVZSZ203VkdMUDNVZTFDVUtPQmpVY2lQZ1BodXpNZ3JXZ01FWndFemhLRW4ySzlxSExuWWp3U1lKLVRHOW5ieTVWQzVOLWk2TGRSRUFlUkdmYkg0ZUFlZ2pWQ2VwV3FwUHZQU1RLS0szcy1WUWlEVmlqZG5TMU5mNHlUUmRaY3ZGVnc?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "家国永念｜英雄花开 - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "NASA 阿耳忒弥斯 2 号成功飞掠月球背面，踏上返回地球行程",
-                "source": "NewsAPI / Ithome.com",
+                "title": "曝OpenAI曾讨论疯狂计划 像《使命召唤》反派那样挑拨世界大国对立",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/350.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556876.htm"
             },
             {
-                "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
+                "title": "最近这三笔重磅的公司间收购交易正式达成，可能即将会改变我们的生活",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-04-07",
-                "url": "https://36kr.com/p/3754821568578050"
+                "url": "https://www.toodaylab.com/83984"
             },
             {
-                "title": "让大批人贫穷是中共的生存需要(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "美拟拟对中国半导体产业升级出口管制 实施DUV光刻机出口禁令",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.secretchina.com/news/gb/2026/04/07/1097421.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556862.htm"
             },
             {
-                "title": "三星电子第一季度营业利润同比暴增 755% 创纪录，AI 存储芯片成核心驱动力",
-                "source": "NewsAPI / Ithome.com",
+                "title": "现实版GTA 美国一架飞机在公路上紧急迫降 后车拍下惊险全程",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/331.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556860.htm"
             },
             {
-                "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-06",
-                "url": "https://36kr.com/p/3755994793280000"
+                "title": "极度看空 小摩预计特斯拉股价至年底暴跌六成",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556856.htm"
             },
             {
-                "title": "习近平致电祝贺苏林当选越南国家主席 - 中华人民共和国国防部",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMT0tiWDR6X19WV0hsS3pPckplVGFYbnBlcUJOaWN3SGdYS2lwOGw5d3ZGMHljNmRvZG9pOG5xZUlBYUdtZlZ0QldGYldXSDl3TTQyS3NYWkM?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
-                "title": "毛宁：中方反对日本放宽武器出口限制（2026年4月7日） - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2VENS1VdU9KM0hoRGRxcklLNUo4cG9yM0dsQ1hIdnlFaGhUbkRTYlJWcmk1YTl5UThDSVdQQ1Bhd0tkTGlyWlp6dnA0eU16dkhfV2pZUFpiT1BzS0RqQy1jUHdfdGJueGZ0SFVXZEZENFo1MFRDcGhtM21JT1ExVjYxV1BNLXlKOGFNSklJQmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
             },
             {
-                "title": "驻克赖斯特彻奇总领事何颖会见蒂马鲁区长奈吉·鲍温 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-06",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVZSZ203VkdMUDNVZTFDVUtPQmpVY2lQZ1BodXpNZ3JXZ01FWndFemhLRW4ySzlxSExuWWp3U1lKLVRHOW5ieTVWQzVOLWk2TGRSRUFlUkdmYkg0ZUFlZ2pWQ2VwV3FwUHZQU1RLS0szcy1WUWlEVmlqZG5TMU5mNHlUUmRaY3ZGVnc?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "家国永念｜英雄花开 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-08T02:07:53.706270+00:00"
+    "last_updated": "2026-04-08T07:14:30.761970+00:00"
 }
