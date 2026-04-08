@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "曝OpenAI曾讨论疯狂计划 像《使命召唤》反派那样挑拨世界大国对立",
+                "title": "霍尼韦尔入局 为五角大楼研发军用电动飞机",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556876.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556898.htm"
             },
             {
-                "title": "美拟拟对中国半导体产业升级出口管制 实施DUV光刻机出口禁令",
+                "title": "ASML股价因美国国会计划进一步限制对华出口而下跌4.7%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556862.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556896.htm"
             },
             {
-                "title": "三星可能对在华业务进行“大瘦身” 只保留手机和存储部门",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556854.htm"
-            },
-            {
-                "title": "英特尔酷睿 9 273PQE 嵌入式处理器魔改成功：稳定运行 Win10",
+                "title": "大众、小鹏合作首款车型：中大型 SUV 与众 08 将于 4 月 16 日上市，预售价 23.99 万元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/541.htm"
+                "url": "https://www.ithome.com/0/936/720.htm"
             },
             {
-                "title": "华为 Vision 智慧屏 6 SE 开售：Super Mini LED 鸿鹄画质，3899 元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/535.htm"
+                "url": "https://36kr.com/p/3756523983536905"
+            },
+            {
+                "title": "从近期发布的三组合作系列，看 Bonpoint 如何用联名丰富童装的风格叙事",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-07",
+                "url": "https://www.toodaylab.com/83986"
             }
         ],
         "mil": [
+            {
+                "title": "霍尼韦尔入局 为五角大楼研发军用电动飞机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556898.htm"
+            },
+            {
+                "title": "前苹果员工揭秘 Vision Pro 首发“惨败”内幕：培训严苛但执行脱节，直指库克时期零售体系变化",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-07",
+                "url": "https://www.ithome.com/0/936/718.htm"
+            },
+            {
+                "title": "特朗普对伊朗发出最后通牒 比特币随风险资产一同下跌",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556878.htm"
+            },
             {
                 "title": "理想汽车增程系统负责人：张雪这台 819 三缸机从根上解决国产大排量摩托“卡脖子”的问题",
                 "source": "NewsAPI / Ithome.com",
@@ -56,22 +74,10 @@
                 "url": "https://36kr.com/p/3754821568578050"
             },
             {
-                "title": "美以对伊军事行动持续，开通海峡期限临近，油价与金融市场上扬",
-                "source": "NewsAPI / Voachinese.com",
+                "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
-                "url": "https://www.voachinese.com/a/us-iran-oil-prices-financial-markets-rise-20260406/8134992.html"
-            },
-            {
-                "title": "让大批人贫穷是中共的生存需要(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-07",
-                "url": "https://www.secretchina.com/news/gb/2026/04/07/1097421.html"
-            },
-            {
-                "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-06",
-                "url": "https://36kr.com/p/3755994793280000"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平就服务业发展作出重要指示 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-04-08",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
             },
             {
                 "title": "家国永念｜英雄花开 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "曝OpenAI曾讨论疯狂计划 像《使命召唤》反派那样挑拨世界大国对立",
+                "title": "ASML股价因美国国会计划进一步限制对华出口而下跌4.7%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556876.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556896.htm"
             },
             {
-                "title": "最近这三笔重磅的公司间收购交易正式达成，可能即将会改变我们的生活",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "前苹果员工揭秘 Vision Pro 首发“惨败”内幕：培训严苛但执行脱节，直指库克时期零售体系变化",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.toodaylab.com/83984"
+                "url": "https://www.ithome.com/0/936/718.htm"
             },
             {
-                "title": "美拟拟对中国半导体产业升级出口管制 实施DUV光刻机出口禁令",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "华境 S 开启预订：五菱、华为合作，全系标配乾崑 ADS Pro 增强版与鸿蒙座舱",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556862.htm"
+                "url": "https://www.ithome.com/0/936/712.htm"
             },
             {
-                "title": "现实版GTA 美国一架飞机在公路上紧急迫降 后车拍下惊险全程",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "国民党主席郑丽文访问中国大陆 台政府：不要配合中共剧本",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556860.htm"
+                "url": "https://www.dw.com/zh/%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86-%E5%8F%B0%E6%94%BF%E5%BA%9C%E4%B8%8D%E8%A6%81%E9%85%8D%E5%90%88%E4%B8%AD%E5%85%B1%E5%89%A7%E6%9C%AC/a-76690482"
             },
             {
-                "title": "极度看空 小摩预计特斯拉股价至年底暴跌六成",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556856.htm"
+                "url": "https://36kr.com/p/3756523983536905"
+            },
+            {
+                "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-07",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平就服务业发展作出重要指示 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-04-08",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
             },
             {
                 "title": "家国永念｜英雄花开 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-08T07:14:30.761970+00:00"
+    "last_updated": "2026-04-08T13:15:11.432706+00:00"
 }
