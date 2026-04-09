@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "预计明年苹果将推出搭载A19 Pro芯片和12GB内存的新款MacBook Neo",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556926.htm"
+                "url": "https://36kr.com/p/3757404054930182"
             },
             {
-                "title": "苹果阔折叠被曝命名iPhone Ultra 国内厂商考虑跟进",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556920.htm"
-            },
-            {
-                "title": "玩家的RTX 4090被烧毁 猫咪竟然是第一个发现",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556908.htm"
-            },
-            {
-                "title": "打破国外垄断！首款国产车规级 MCU 芯片 DF30 稳步推进量产上车",
+                "title": "IT早报 0408：小米罗福莉谈 Token 价格战；曝联发科天玑 9600 Pro 最高频率接近 5GHz；玩家起诉《王者荣耀》案审理终结；REDMI K 系列第一款 Max 官宣...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/752.htm"
+                "url": "https://www.ithome.com/0/936/766.htm"
             },
             {
-                "title": "消息称苹果 MacBook Neo 热销致 A18 Pro 库存告急，面临成本与产能双重压力",
+                "title": "Anthropic推出新模型Mythos 只限顶级安全伙伴试用",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556936.htm"
+            },
+            {
+                "title": "消息称苹果明年推新款 MacBook Neo：搭载 A19 Pro 芯片、12GB 内存",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/748.htm"
+                "url": "https://www.ithome.com/0/936/759.htm"
+            },
+            {
+                "title": "古尔曼：苹果可折叠 iPhone Fold 仍按计划于 9 月推出",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-07",
+                "url": "https://www.ithome.com/0/936/758.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美倾力营救飞行员获赞 中共单兵数位化自毁装置太恐怖(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-07",
+                "url": "https://www.secretchina.com/news/gb/2026/04/08/1097457.html"
+            },
             {
                 "title": "霍尼韦尔入局 为五角大楼研发军用电动飞机",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://www.ithome.com/0/936/367.htm"
             },
             {
-                "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-07",
-                "url": "https://36kr.com/p/3754821568578050"
-            },
-            {
                 "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
@@ -86,22 +86,22 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
-                "title": "习近平就服务业发展作出重要指示 - 中华人民共和国国防部",
+                "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMExZTS12MG9VUmNLR2xOaXh1bDZURHFSYlNvR1NNczljZEhYXy10eV9hQkExOXhIZTFSY0MxblF0YVBnWldWbE92dzlQaVlYcTd6aHFNRUZkc2psN2haTVVWTkVqT2JrMmJpaGFCYjB4YjdZNGdrNWV4NXlPX0RMUXFEaGY?oc=5"
             },
             {
-                "title": "“今天我们抬功臣” - 中国军网",
+                "title": "习近平在全军高级干部培训班开班式上发表重要讲话 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGFub2JxYzBOUjlmeEotQWpUTEZ6LWtOUjVfbGNPRmZqSlVRVkxrYk1uUllsTTJXQUQtc0hGSGhxRk44cGhIX1VOc082SUxjQl9ZeXJXWXB0QmZnNFJiVkVPUUFqdWR5TUtISzN1S3pOVHQxclhUam05b3IyaXYyeUxvbjVlQ3NsOEpkbnkwWV81R2xlVGJCSEhyYzNHaDlHTHp6TGJLbDl6OWxLcXc3X0ZVTmFFcHc?oc=5"
+                "date": "2026-04-08",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeWdydmxpSmREbGJTSmNYT1lkZmtsczJod2VJWmVCc2RvNUpxRTcxNU40a2VhaGxJU0hLclM5V2RHbjdhZGVqRzRxUQ?oc=5"
             },
             {
-                "title": "树立和践行正确政绩观系列谈丨深入查找和纠治政绩观偏差 - 中国军网",
+                "title": "《诗路初吟》：一曲献给时代、献给军旅、献给英雄的深情赞歌 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KbENCOVhNWnZ6TUstUlNjbFgwM1pnTlJUd3BiWjF3VXVCSVNlMEpFVHk3OXB6MUVnazFNY1hpOElRcmxLNGQ0UTdYeXVlSlY1WGc?oc=5"
+                "date": "2026-04-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Nk4tZElTSWRYZ0l2bzFMTFM3N21jOWcxZExidW80WVNXZFIzVkhmLTV3dHJGNnpNY2FyenRfUi1vc0NRTGFIa3hYU21MNEZDVHc?oc=5"
             },
             {
                 "title": "抗战题材电视剧《八千里路云和月》4月7日在CCTV-8首播 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-07",
+                "url": "https://36kr.com/p/3757404054930182"
+            },
+            {
+                "title": "IT早报 0408：小米罗福莉谈 Token 价格战；曝联发科天玑 9600 Pro 最高频率接近 5GHz；玩家起诉《王者荣耀》案审理终结；REDMI K 系列第一款 Max 官宣...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-07",
+                "url": "https://www.ithome.com/0/936/766.htm"
+            },
+            {
+                "title": "马斯克起诉 OpenAI 案升级：要求罢免 CEO 奥尔特曼",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-07",
+                "url": "https://www.ithome.com/0/936/765.htm"
+            },
+            {
+                "title": "Anthropic推出新模型Mythos 只限顶级安全伙伴试用",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556936.htm"
+            },
+            {
                 "title": "特朗普政府拟削减网络安全机构CISA预算逾7亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-07",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556930.htm"
-            },
-            {
-                "title": "德语媒体：谁在坐收渔利？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-07",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E8%B0%81%E5%9C%A8%E5%9D%90%E6%94%B6%E6%B8%94%E5%88%A9/a-76695225"
-            },
-            {
-                "title": "ASML股价因美国国会计划进一步限制对华出口而下跌4.7%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556896.htm"
-            },
-            {
-                "title": "前苹果员工揭秘 Vision Pro 首发“惨败”内幕：培训严苛但执行脱节，直指库克时期零售体系变化",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/718.htm"
-            },
-            {
-                "title": "华境 S 开启预订：五菱、华为合作，全系标配乾崑 ADS Pro 增强版与鸿蒙座舱",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/712.htm"
             },
             {
                 "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
@@ -154,22 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
-                "title": "习近平就服务业发展作出重要指示 - 中华人民共和国国防部",
+                "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMExZTS12MG9VUmNLR2xOaXh1bDZURHFSYlNvR1NNczljZEhYXy10eV9hQkExOXhIZTFSY0MxblF0YVBnWldWbE92dzlQaVlYcTd6aHFNRUZkc2psN2haTVVWTkVqT2JrMmJpaGFCYjB4YjdZNGdrNWV4NXlPX0RMUXFEaGY?oc=5"
             },
             {
-                "title": "“今天我们抬功臣” - 中国军网",
+                "title": "习近平在全军高级干部培训班开班式上发表重要讲话 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGFub2JxYzBOUjlmeEotQWpUTEZ6LWtOUjVfbGNPRmZqSlVRVkxrYk1uUllsTTJXQUQtc0hGSGhxRk44cGhIX1VOc082SUxjQl9ZeXJXWXB0QmZnNFJiVkVPUUFqdWR5TUtISzN1S3pOVHQxclhUam05b3IyaXYyeUxvbjVlQ3NsOEpkbnkwWV81R2xlVGJCSEhyYzNHaDlHTHp6TGJLbDl6OWxLcXc3X0ZVTmFFcHc?oc=5"
+                "date": "2026-04-08",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeWdydmxpSmREbGJTSmNYT1lkZmtsczJod2VJWmVCc2RvNUpxRTcxNU40a2VhaGxJU0hLclM5V2RHbjdhZGVqRzRxUQ?oc=5"
             },
             {
-                "title": "树立和践行正确政绩观系列谈丨深入查找和纠治政绩观偏差 - 中国军网",
+                "title": "《诗路初吟》：一曲献给时代、献给军旅、献给英雄的深情赞歌 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KbENCOVhNWnZ6TUstUlNjbFgwM1pnTlJUd3BiWjF3VXVCSVNlMEpFVHk3OXB6MUVnazFNY1hpOElRcmxLNGQ0UTdYeXVlSlY1WGc?oc=5"
+                "date": "2026-04-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Nk4tZElTSWRYZ0l2bzFMTFM3N21jOWcxZExidW80WVNXZFIzVkhmLTV3dHJGNnpNY2FyenRfUi1vc0NRTGFIa3hYU21MNEZDVHc?oc=5"
             },
             {
                 "title": "抗战题材电视剧《八千里路云和月》4月7日在CCTV-8首播 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-08T19:11:59.826579+00:00"
+    "last_updated": "2026-04-09T02:00:42.529645+00:00"
 }
