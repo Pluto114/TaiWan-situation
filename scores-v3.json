@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-07",
-                "url": "https://36kr.com/p/3757404054930182"
-            },
-            {
-                "title": "IT早报 0408：小米罗福莉谈 Token 价格战；曝联发科天玑 9600 Pro 最高频率接近 5GHz；玩家起诉《王者荣耀》案审理终结；REDMI K 系列第一款 Max 官宣...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/766.htm"
-            },
-            {
-                "title": "Anthropic推出新模型Mythos 只限顶级安全伙伴试用",
+                "title": "Intel重启40年前封装厂 不再只靠CPU制造赚钱",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556936.htm"
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557020.htm"
             },
             {
-                "title": "消息称苹果明年推新款 MacBook Neo：搭载 A19 Pro 芯片、12GB 内存",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/759.htm"
+                "title": "TikTok将在芬兰投资建设第二座十亿欧元级数据中心",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557014.htm"
             },
             {
-                "title": "古尔曼：苹果可折叠 iPhone Fold 仍按计划于 9 月推出",
+                "title": "小米 17T/Pro 手机、REDMI Pad 2 9.7 平板现身官网，有望本月发布",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/758.htm"
+                "date": "2026-04-08",
+                "url": "https://www.ithome.com/0/936/937.htm"
+            },
+            {
+                "title": "超微电脑就联合创始人被起诉事件启动独立调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557008.htm"
+            },
+            {
+                "title": "大众启动在华最大规模电动化攻势 平均每两周一款新车上市",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556992.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国加州高铁08年获批至今1根铁轨没铺 预算1260亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557028.htm"
+            },
+            {
+                "title": "超微电脑就联合创始人被起诉事件启动独立调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557008.htm"
+            },
+            {
+                "title": "智谱发布可持续工作 8 小时的旗舰模型 GLM-5.1，同时提价 10%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-08",
+                "url": "https://www.ithome.com/0/936/851.htm"
+            },
             {
                 "title": "美倾力营救飞行员获赞 中共单兵数位化自毁装置太恐怖(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,34 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1556898.htm"
             },
             {
-                "title": "前苹果员工揭秘 Vision Pro 首发“惨败”内幕：培训严苛但执行脱节，直指库克时期零售体系变化",
-                "source": "NewsAPI / Ithome.com",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/718.htm"
-            },
-            {
-                "title": "特朗普对伊朗发出最后通牒 比特币随风险资产一同下跌",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556878.htm"
-            },
-            {
-                "title": "理想汽车增程系统负责人：张雪这台 819 三缸机从根上解决国产大排量摩托“卡脖子”的问题",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/367.htm"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
                 "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
-            },
-            {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
             },
             {
                 "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
@@ -104,54 +104,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Nk4tZElTSWRYZ0l2bzFMTFM3N21jOWcxZExidW80WVNXZFIzVkhmLTV3dHJGNnpNY2FyenRfUi1vc0NRTGFIa3hYU21MNEZDVHc?oc=5"
             },
             {
-                "title": "抗战题材电视剧《八千里路云和月》4月7日在CCTV-8首播 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZnpLSmdmVU1ib0VkUzZZT29fcGE2N1M2eXRYQnczMnFsZW5qTVU2bFc2MkpWUWtDME41VXJMWDhCS1Z6SnFYUGFIZGFMWnBsYmc?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-07",
-                "url": "https://36kr.com/p/3757404054930182"
-            },
-            {
-                "title": "IT早报 0408：小米罗福莉谈 Token 价格战；曝联发科天玑 9600 Pro 最高频率接近 5GHz；玩家起诉《王者荣耀》案审理终结；REDMI K 系列第一款 Max 官宣...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/766.htm"
-            },
-            {
-                "title": "马斯克起诉 OpenAI 案升级：要求罢免 CEO 奥尔特曼",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-07",
-                "url": "https://www.ithome.com/0/936/765.htm"
-            },
-            {
-                "title": "Anthropic推出新模型Mythos 只限顶级安全伙伴试用",
+                "title": "美国加州高铁08年获批至今1根铁轨没铺 预算1260亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556936.htm"
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557028.htm"
             },
             {
-                "title": "特朗普政府拟削减网络安全机构CISA预算逾7亿美元",
+                "title": "FBI报告：2025年美国因网络犯罪损失创纪录达210亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1556930.htm"
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557010.htm"
             },
             {
-                "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
+                "title": "电动 MINI COOPER 推出即兴蓝调限定配色，售 20.88 万元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-08",
+                "url": "https://www.ithome.com/0/936/933.htm"
+            },
+            {
+                "title": "高铁宠物托运“爱宠行”服务今日正式推出 宠物箱科技量拉满",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556994.htm"
+            },
+            {
+                "title": "Intel官宣加入马斯克全球最大2nm晶圆工厂项目",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1556986.htm"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-07",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSlZFZDd0SnF4ZU5LdXFnRVhrMWJ4Q3JIbXViVWx2dGwtTHRkTHBXZ3R1NFhWeU85OTA1UDZMbnVHMEJnWFVSbmJ4VFpCbnlxS2JYM0hhR1FtWlJTREdpMXg3cXNJUzVPdzVj?oc=5"
+            },
+            {
+                "title": "李强同澳大利亚总理阿尔巴尼斯通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-07",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVnd2a2RUNnA2TENQLUxwaDAyZ2UtUTAtbWFxWXlkc3VfODVqQXphY3E2VGVTdnhOTjBLdi1CWm9zdE43RGV0Q1ZIX05STDBqRmE5bVI1enVYS3JfcFlWb2hTVzFzeThNVlBn?oc=5"
             },
             {
                 "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Nk4tZElTSWRYZ0l2bzFMTFM3N21jOWcxZExidW80WVNXZFIzVkhmLTV3dHJGNnpNY2FyenRfUi1vc0NRTGFIa3hYU21MNEZDVHc?oc=5"
             },
             {
-                "title": "抗战题材电视剧《八千里路云和月》4月7日在CCTV-8首播 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZnpLSmdmVU1ib0VkUzZZT29fcGE2N1M2eXRYQnczMnFsZW5qTVU2bFc2MkpWUWtDME41VXJMWDhCS1Z6SnFYUGFIZGFMWnBsYmc?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-09T02:00:42.529645+00:00"
+    "last_updated": "2026-04-09T07:17:31.392340+00:00"
 }
