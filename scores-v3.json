@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "忆联预热 UH713a：国内首款 8 通道数据中心级固态硬盘，支持压缩算法",
+                "title": "美国FCC拟全面禁止中国实验室测试美国电子产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557166.htm"
+            },
+            {
+                "title": "专访人权领袖学者 剖析中共跨国镇压",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-09",
+                "url": "https://www.secretchina.com/news/gb/2026/04/09/1097530.html"
+            },
+            {
+                "title": "韩国将扩大旧电脑再利用范围 应对芯片价格上涨",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557122.htm"
+            },
+            {
+                "title": "Anthropic上诉被驳回 未能暂时阻止美国防部将其列入黑名单",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557118.htm"
+            },
+            {
+                "title": "神秘「欢乐马」霸榜视频模型！本以为 Seedance 2.0 已封神…",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-09",
-                "url": "https://www.ithome.com/0/937/264.htm"
-            },
-            {
-                "title": "华泰证券：海外供应链稳定性或受冲击，国内精细品/新材料全球份额有望提升",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-09",
-                "url": "https://36kr.com/newsflashes/3758887309214471"
-            },
-            {
-                "title": "Anthropic上诉被驳回，未能暂时阻止美国防部将其列入黑名单",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-09",
-                "url": "https://36kr.com/newsflashes/3758840505713414"
-            },
-            {
-                "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-09",
-                "url": "https://36kr.com/p/3758836635730432"
-            },
-            {
-                "title": "IT早报 0409：阿里巴巴升级通义大模型事业部；曝苹果启动三年“重定义 iPhone”计划；微信官方详解三大滑动操作功能；B站将上线播放页暂停广告...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-08",
-                "url": "https://www.ithome.com/0/937/218.htm"
+                "url": "https://www.ithome.com/0/937/352.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美军方自研AI作战聊天机器人 使用俄乌、伊朗战争数据",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557130.htm"
+            },
+            {
+                "title": "Anthropic上诉被驳回 未能暂时阻止美国防部将其列入黑名单",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557118.htm"
+            },
+            {
+                "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-09",
+                "url": "https://36kr.com/p/3758979573121538"
+            },
             {
                 "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
                 "source": "NewsAPI / 36kr.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.ithome.com/0/937/217.htm"
             },
             {
-                "title": "“全懂”中共党国的专家更危险(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-08",
-                "url": "https://www.secretchina.com/news/gb/2026/04/09/1097517.html"
-            },
-            {
-                "title": "Anthropic最新AI模型或让黑客发起攻击速度前所未有",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557080.htm"
-            },
-            {
-                "title": "美国神秘隐身无人机 RQ-180 在希腊被拍：腹舱透明光学孔径首次清晰可见",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-08",
-                "url": "https://www.ithome.com/0/937/180.htm"
-            },
-            {
                 "title": "王毅同朝鲜外相崔善姬举行会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-09",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdDZ0SzNzQkJEOHc3RS1OSGYxM3BWcnRUaU1WbmR2UGdScXhjOVM1WDVVUHAxeDBBVU1zYnJESERmbXlUVE1qSWlHMVlCbW9FRnpyM2pGNmw5QzdtYlUtMGZwU1NkU3luMHo5OFhB?oc=5"
             },
             {
+                "title": "2026年4月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-09",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQUpkNWdPSFgxUUo3VENLdGhQa3RJb0FJOG1PYlFTQ19kbURzc2RMUERKRU9vTGZGVjR3X2hLWmZsQ2ZkeHQ3WG9RVVZlMlVRcXVqWHBjY0NWT3EyYkgzTXBwZHlQWjNkdHB0WDdoWUN5d1JvUWc?oc=5"
+            },
+            {
                 "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-08",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMExZTS12MG9VUmNLR2xOaXh1bDZURHFSYlNvR1NNczljZEhYXy10eV9hQkExOXhIZTFSY0MxblF0YVBnWldWbE92dzlQaVlYcTd6aHFNRUZkc2psN2haTVVWTkVqT2JrMmJpaGFCYjB4YjdZNGdrNWV4NXlPX0RMUXFEaGY?oc=5"
-            },
-            {
-                "title": "习近平就服务业发展作出重要指示 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
             },
             {
                 "title": "习近平在全军高级干部培训班开班式上发表重要讲话 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
+                "title": "郑丽文遭批遮遮掩掩提中华民国 呼应中共历史叙事(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-09",
+                "url": "https://www.secretchina.com/news/gb/2026/04/09/1097535.html"
+            },
+            {
+                "title": "美司法部反垄断案延伸至海外 苹果要求韩国法院协助取证",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557170.htm"
+            },
+            {
+                "title": "奔驰纯电CLA月销仅21台 曾是被寄予厚望的转型力作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557154.htm"
+            },
+            {
+                "title": "OpenAI对阵Anthropic 营收之争对二者IPO意味着什么？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557114.htm"
+            },
+            {
+                "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-09",
-                "url": "https://36kr.com/p/3758836635730432"
-            },
-            {
-                "title": "IT早报 0409：阿里巴巴升级通义大模型事业部；曝苹果启动三年“重定义 iPhone”计划；微信官方详解三大滑动操作功能；B站将上线播放页暂停广告...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-08",
-                "url": "https://www.ithome.com/0/937/218.htm"
-            },
-            {
-                "title": "Anthropic 上诉受挫：美法院拒绝阻止美国国防部将其列入黑名单",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-08",
-                "url": "https://www.ithome.com/0/937/217.htm"
-            },
-            {
-                "title": "曾经的大众平替斯柯达 现在被大众自己卷“死”了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557096.htm"
-            },
-            {
-                "title": "苹果拟于明年春季发布 iPhone Air 2 和 iPhone 18e",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557094.htm"
+                "url": "https://36kr.com/p/3758982738641670"
             },
             {
                 "title": "王毅同朝鲜外相崔善姬举行会谈 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdDZ0SzNzQkJEOHc3RS1OSGYxM3BWcnRUaU1WbmR2UGdScXhjOVM1WDVVUHAxeDBBVU1zYnJESERmbXlUVE1qSWlHMVlCbW9FRnpyM2pGNmw5QzdtYlUtMGZwU1NkU3luMHo5OFhB?oc=5"
             },
             {
+                "title": "2026年4月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-09",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQUpkNWdPSFgxUUo3VENLdGhQa3RJb0FJOG1PYlFTQ19kbURzc2RMUERKRU9vTGZGVjR3X2hLWmZsQ2ZkeHQ3WG9RVVZlMlVRcXVqWHBjY0NWT3EyYkgzTXBwZHlQWjNkdHB0WDdoWUN5d1JvUWc?oc=5"
+            },
+            {
                 "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-08",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMExZTS12MG9VUmNLR2xOaXh1bDZURHFSYlNvR1NNczljZEhYXy10eV9hQkExOXhIZTFSY0MxblF0YVBnWldWbE92dzlQaVlYcTd6aHFNRUZkc2psN2haTVVWTkVqT2JrMmJpaGFCYjB4YjdZNGdrNWV4NXlPX0RMUXFEaGY?oc=5"
-            },
-            {
-                "title": "习近平就服务业发展作出重要指示 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ3RRczM1VU1KOVUzazU2b19wSWJrSGlQU1U4TnEzdldNTFlmSVhMaHZDa3Q1UnUzOXo2bTVIemZkSVZNZjl4UmZPWDRPOUpQWDJiQllfY0NiTlBlcDFOUzI4aw?oc=5"
             },
             {
                 "title": "习近平在全军高级干部培训班开班式上发表重要讲话 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-10T02:12:41.716976+00:00"
+    "last_updated": "2026-04-10T07:23:19.458952+00:00"
 }
