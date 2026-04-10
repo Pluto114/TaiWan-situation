@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国FCC拟全面禁止中国实验室测试美国电子产品",
+                "title": "欣旺达装车特斯拉，供应全球车型｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-09",
+                "url": "https://36kr.com/p/3759598959969030"
+            },
+            {
+                "title": "NVIDIA首款笔记本N1 SoC主板实物曝光：配备128GB内存 支持Windows",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557166.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557246.htm"
             },
             {
-                "title": "专访人权领袖学者 剖析中共跨国镇压",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "氪星晚报｜李佳琦回应“缺席”直播：没有退休；市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-09",
-                "url": "https://www.secretchina.com/news/gb/2026/04/09/1097530.html"
+                "url": "https://36kr.com/p/3759461864424195"
             },
             {
-                "title": "韩国将扩大旧电脑再利用范围 应对芯片价格上涨",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "台灣半導體紀錄片《造山者》於日本國會首映 聚焦台積電發展與民主供應鏈合作",
+                "source": "NewsAPI / Yahoo Entertainment",
                 "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557122.htm"
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d43b15e5-a023-4320-ad60-377e01cc8410"
             },
             {
-                "title": "Anthropic上诉被驳回 未能暂时阻止美国防部将其列入黑名单",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557118.htm"
-            },
-            {
-                "title": "神秘「欢乐马」霸榜视频模型！本以为 Seedance 2.0 已封神…",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-09",
-                "url": "https://www.ithome.com/0/937/352.htm"
+                "url": "https://36kr.com/p/3759372854706953"
             }
         ],
         "mil": [
+            {
+                "title": "欣旺达装车特斯拉，供应全球车型｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-09",
+                "url": "https://36kr.com/p/3759598959969030"
+            },
+            {
+                "title": "北约“考验失败”？川普借伊朗冲突与格陵兰议题猛批盟友(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-09",
+                "url": "https://www.secretchina.com/news/gb/2026/04/09/1097547.html"
+            },
+            {
+                "title": "NVIDIA首款笔记本N1 SoC主板实物曝光：配备128GB内存 支持Windows",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557246.htm"
+            },
+            {
+                "title": "氪星晚报｜李佳琦回应“缺席”直播：没有退休；市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-09",
+                "url": "https://36kr.com/p/3759461864424195"
+            },
             {
                 "title": "美军方自研AI作战聊天机器人 使用俄乌、伊朗战争数据",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,52 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1557130.htm"
             },
             {
-                "title": "Anthropic上诉被驳回 未能暂时阻止美国防部将其列入黑名单",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557118.htm"
-            },
-            {
-                "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-09",
-                "url": "https://36kr.com/p/3758979573121538"
-            },
-            {
-                "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-09",
-                "url": "https://36kr.com/p/3758836635730432"
-            },
-            {
-                "title": "Anthropic 上诉受挫：美法院拒绝阻止美国国防部将其列入黑名单",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-08",
-                "url": "https://www.ithome.com/0/937/217.htm"
-            },
-            {
                 "title": "王毅同朝鲜外相崔善姬举行会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-09",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdDZ0SzNzQkJEOHc3RS1OSGYxM3BWcnRUaU1WbmR2UGdScXhjOVM1WDVVUHAxeDBBVU1zYnJESERmbXlUVE1qSWlHMVlCbW9FRnpyM2pGNmw5QzdtYlUtMGZwU1NkU3luMHo5OFhB?oc=5"
             },
             {
+                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
+            },
+            {
                 "title": "2026年4月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-09",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQUpkNWdPSFgxUUo3VENLdGhQa3RJb0FJOG1PYlFTQ19kbURzc2RMUERKRU9vTGZGVjR3X2hLWmZsQ2ZkeHQ3WG9RVVZlMlVRcXVqWHBjY0NWT3EyYkgzTXBwZHlQWjNkdHB0WDdoWUN5d1JvUWc?oc=5"
-            },
-            {
-                "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMExZTS12MG9VUmNLR2xOaXh1bDZURHFSYlNvR1NNczljZEhYXy10eV9hQkExOXhIZTFSY0MxblF0YVBnWldWbE92dzlQaVlYcTd6aHFNRUZkc2psN2haTVVWTkVqT2JrMmJpaGFCYjB4YjdZNGdrNWV4NXlPX0RMUXFEaGY?oc=5"
-            },
-            {
-                "title": "习近平在全军高级干部培训班开班式上发表重要讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeWdydmxpSmREbGJTSmNYT1lkZmtsczJod2VJWmVCc2RvNUpxRTcxNU40a2VhaGxJU0hLclM5V2RHbjdhZGVqRzRxUQ?oc=5"
             },
             {
                 "title": "《诗路初吟》：一曲献给时代、献给军旅、献给英雄的深情赞歌 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sdGZTSVYyekEzRk15WTBPNmVXdzA5REVvTmkxUXI3Q083cXlNQzZrdWc2NVRQUzdBY0RORkVBTnFKcGpGNjAtd2xnLUpOdFNxaVE?oc=5"
+            },
+            {
+                "title": "江西九江硬骨头六连希望学校：让英雄旗帜在校园高扬 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q0xoX0lZbm1zbVRzUjZzTkY0UlNxa3JjWmw0ZmgtbUM1Qll1RXhsMjNSTEd0QW81UGRzVzJaeWdFUXVsbUM0U2M2UkhFTm1hVnc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "郑丽文遭批遮遮掩掩提中华民国 呼应中共历史叙事(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-09",
-                "url": "https://www.secretchina.com/news/gb/2026/04/09/1097535.html"
-            },
-            {
-                "title": "美司法部反垄断案延伸至海外 苹果要求韩国法院协助取证",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557170.htm"
-            },
-            {
-                "title": "奔驰纯电CLA月销仅21台 曾是被寄予厚望的转型力作",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557154.htm"
-            },
-            {
-                "title": "OpenAI对阵Anthropic 营收之争对二者IPO意味着什么？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557114.htm"
-            },
-            {
-                "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+                "title": "欣旺达装车特斯拉，供应全球车型｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-09",
-                "url": "https://36kr.com/p/3758982738641670"
+                "url": "https://36kr.com/p/3759598959969030"
+            },
+            {
+                "title": "伊朗欲在霍尔木兹海峡收取通行费 被指违反国际法公约",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-09",
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%AC%B2%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%94%B6%E5%8F%96%E9%80%9A%E8%A1%8C%E8%B4%B9-%E8%A2%AB%E6%8C%87%E8%BF%9D%E5%8F%8D%E5%9B%BD%E9%99%85%E6%B3%95%E5%85%AC%E7%BA%A6/a-76722105"
+            },
+            {
+                "title": "研究团队虚构眼疾“bixonimania” 多款AI聊天机器人连声附和",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557254.htm"
+            },
+            {
+                "title": "NVIDIA首款笔记本N1 SoC主板实物曝光：配备128GB内存 支持Windows",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557246.htm"
+            },
+            {
+                "title": "氪星晚报｜李佳琦回应“缺席”直播：没有退休；市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-09",
+                "url": "https://36kr.com/p/3759461864424195"
             },
             {
                 "title": "王毅同朝鲜外相崔善姬举行会谈 - mfa.gov.cn",
@@ -148,22 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdDZ0SzNzQkJEOHc3RS1OSGYxM3BWcnRUaU1WbmR2UGdScXhjOVM1WDVVUHAxeDBBVU1zYnJESERmbXlUVE1qSWlHMVlCbW9FRnpyM2pGNmw5QzdtYlUtMGZwU1NkU3luMHo5OFhB?oc=5"
             },
             {
+                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
+            },
+            {
                 "title": "2026年4月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-09",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQUpkNWdPSFgxUUo3VENLdGhQa3RJb0FJOG1PYlFTQ19kbURzc2RMUERKRU9vTGZGVjR3X2hLWmZsQ2ZkeHQ3WG9RVVZlMlVRcXVqWHBjY0NWT3EyYkgzTXBwZHlQWjNkdHB0WDdoWUN5d1JvUWc?oc=5"
-            },
-            {
-                "title": "中阿巴举行三方非正式会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMExZTS12MG9VUmNLR2xOaXh1bDZURHFSYlNvR1NNczljZEhYXy10eV9hQkExOXhIZTFSY0MxblF0YVBnWldWbE92dzlQaVlYcTd6aHFNRUZkc2psN2haTVVWTkVqT2JrMmJpaGFCYjB4YjdZNGdrNWV4NXlPX0RMUXFEaGY?oc=5"
-            },
-            {
-                "title": "习近平在全军高级干部培训班开班式上发表重要讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-08",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeWdydmxpSmREbGJTSmNYT1lkZmtsczJod2VJWmVCc2RvNUpxRTcxNU40a2VhaGxJU0hLclM5V2RHbjdhZGVqRzRxUQ?oc=5"
             },
             {
                 "title": "《诗路初吟》：一曲献给时代、献给军旅、献给英雄的深情赞歌 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sdGZTSVYyekEzRk15WTBPNmVXdzA5REVvTmkxUXI3Q083cXlNQzZrdWc2NVRQUzdBY0RORkVBTnFKcGpGNjAtd2xnLUpOdFNxaVE?oc=5"
+            },
+            {
+                "title": "江西九江硬骨头六连希望学校：让英雄旗帜在校园高扬 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q0xoX0lZbm1zbVRzUjZzTkY0UlNxa3JjWmw0ZmgtbUM1Qll1RXhsMjNSTEd0QW81UGRzVzJaeWdFUXVsbUM0U2M2UkhFTm1hVnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-10T07:23:19.458952+00:00"
+    "last_updated": "2026-04-10T13:04:00.494046+00:00"
 }
