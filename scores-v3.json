@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "今年一季度我国汽车出口 222.6 万辆，同比劲增 56.7%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-10",
+                "url": "https://www.ithome.com/0/937/805.htm"
+            },
+            {
+                "title": "消息称马斯克 SpaceX 封装厂和 PCB 厂良率低于预期，量产计划推迟至 2027 年中",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-10",
+                "url": "https://www.ithome.com/0/937/780.htm"
+            },
+            {
+                "title": "一加 Ace 新品官宣即将登场，主打性能",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-10",
+                "url": "https://www.ithome.com/0/937/669.htm"
+            },
+            {
                 "title": "工信部等四部门召开动力及储能电池行业企业座谈会，再强调治理“内卷式”竞争",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-10",
@@ -22,27 +40,15 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-10",
                 "url": "https://36kr.com/p/3760310709174784"
-            },
-            {
-                "title": "国产自研大型水陆两栖飞机，“鲲龙”AG600 开展双机编队驻防任务",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-10",
-                "url": "https://www.ithome.com/0/937/620.htm"
-            },
-            {
-                "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-10",
-                "url": "https://36kr.com/p/3760260422648327"
-            },
-            {
-                "title": "连续 23 年中国品牌乘用车出口第一，奇瑞首个海外区域运营中心落户巴塞罗那",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-09",
-                "url": "https://www.ithome.com/0/937/605.htm"
             }
         ],
         "mil": [
+            {
+                "title": "消息称马斯克 SpaceX 封装厂和 PCB 厂良率低于预期，量产计划推迟至 2027 年中",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-10",
+                "url": "https://www.ithome.com/0/937/780.htm"
+            },
             {
                 "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
                 "source": "NewsAPI / 36kr.com",
@@ -68,16 +74,16 @@
                 "url": "https://36kr.com/p/3759598959969030"
             },
             {
-                "title": "北约“考验失败”？川普借伊朗冲突与格陵兰议题猛批盟友(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-09",
-                "url": "https://www.secretchina.com/news/gb/2026/04/09/1097547.html"
-            },
-            {
                 "title": "2026年4月10日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-10",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oM3ZFRjlHVENMeFdsTDB6OEhPRG1nOEhBMGxaS2VBVmFCYnZ5MG5TWmZIaEhlRTJjY1E1ZDBsVExJQmRuNFZuTktydUhDZTZLN0tQQlBOdjREYmdfbDE0Wm5WQVM5RFQzTFJZcGdJVGE0S2FRbHc?oc=5"
+            },
+            {
+                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
             },
             {
                 "title": "王毅同朝鲜外相崔善姬举行会谈 - mfa.gov.cn",
@@ -86,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdDZ0SzNzQkJEOHc3RS1OSGYxM3BWcnRUaU1WbmR2UGdScXhjOVM1WDVVUHAxeDBBVU1zYnJESERmbXlUVE1qSWlHMVlCbW9FRnpyM2pGNmw5QzdtYlUtMGZwU1NkU3luMHo5OFhB?oc=5"
             },
             {
-                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
+                "title": "山东菏泽：牡丹花开倾城引客来 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWEtveGV3SzVGWk43QWlhanBpTThiR3p1THcxVWJaUkR1d3JwTEpJM19JaXZLNzBuWjVXT0xOSVBDYkdZWnlKUy1Sb2tDQ1paOUE?oc=5"
             },
             {
                 "title": "习近平主席特使姜信治将出席缅甸总统就职仪式 - 中国军网",
@@ -102,15 +108,27 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "江西九江硬骨头六连希望学校：让英雄旗帜在校园高扬 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q0xoX0lZbm1zbVRzUjZzTkY0UlNxa3JjWmw0ZmgtbUM1Qll1RXhsMjNSTEd0QW81UGRzVzJaeWdFUXVsbUM0U2M2UkhFTm1hVnc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "部分三星 Galaxy S22 Ultra 手机用户反馈恢复出厂后“变砖”：被神秘公司远程锁定",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-10",
+                "url": "https://www.ithome.com/0/937/806.htm"
+            },
+            {
+                "title": "今年一季度我国汽车出口 222.6 万辆，同比劲增 56.7%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-10",
+                "url": "https://www.ithome.com/0/937/805.htm"
+            },
+            {
+                "title": "马来西亚环亚机场贵宾室：在机场找到归宿感",
+                "source": "NewsAPI / Mylovelybluesky.com",
+                "date": "2026-04-10",
+                "url": "https://mylovelybluesky.com/malaysia/kuala-lumpur/kuala-lumpur-accomodation/plaza-premium-lounge/"
+            },
             {
                 "title": "工信部等四部门召开动力及储能电池行业企业座谈会，再强调治理“内卷式”竞争",
                 "source": "NewsAPI / Ithome.com",
@@ -124,28 +142,16 @@
                 "url": "https://36kr.com/p/3760260422648327"
             },
             {
-                "title": "IT早报 0410：豆包打电话支持“边听边说”；中国联通上线 eSIM 手机号数量查询功能；DeepSeek 专家模式支持上传文件；特斯拉被曝开发全新紧凑型 SUV...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-09",
-                "url": "https://www.ithome.com/0/937/600.htm"
-            },
-            {
-                "title": "当来自93分自由国家的郑见到9分自由国家的习(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-09",
-                "url": "https://www.secretchina.com/news/gb/2026/04/10/1097568.html"
-            },
-            {
-                "title": "近800个匈牙利政府邮箱密码在互联网上流传",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557288.htm"
-            },
-            {
                 "title": "2026年4月10日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-10",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oM3ZFRjlHVENMeFdsTDB6OEhPRG1nOEhBMGxaS2VBVmFCYnZ5MG5TWmZIaEhlRTJjY1E1ZDBsVExJQmRuNFZuTktydUhDZTZLN0tQQlBOdjREYmdfbDE0Wm5WQVM5RFQzTFJZcGdJVGE0S2FRbHc?oc=5"
+            },
+            {
+                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
             },
             {
                 "title": "王毅同朝鲜外相崔善姬举行会谈 - mfa.gov.cn",
@@ -154,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdDZ0SzNzQkJEOHc3RS1OSGYxM3BWcnRUaU1WbmR2UGdScXhjOVM1WDVVUHAxeDBBVU1zYnJESERmbXlUVE1qSWlHMVlCbW9FRnpyM2pGNmw5QzdtYlUtMGZwU1NkU3luMHo5OFhB?oc=5"
             },
             {
-                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
+                "title": "山东菏泽：牡丹花开倾城引客来 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWEtveGV3SzVGWk43QWlhanBpTThiR3p1THcxVWJaUkR1d3JwTEpJM19JaXZLNzBuWjVXT0xOSVBDYkdZWnlKUy1Sb2tDQ1paOUE?oc=5"
             },
             {
                 "title": "习近平主席特使姜信治将出席缅甸总统就职仪式 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "江西九江硬骨头六连希望学校：让英雄旗帜在校园高扬 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q0xoX0lZbm1zbVRzUjZzTkY0UlNxa3JjWmw0ZmgtbUM1Qll1RXhsMjNSTEd0QW81UGRzVzJaeWdFUXVsbUM0U2M2UkhFTm1hVnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-11T02:00:59.885930+00:00"
+    "last_updated": "2026-04-11T06:57:43.129793+00:00"
 }
