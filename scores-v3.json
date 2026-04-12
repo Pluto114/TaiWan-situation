@@ -12,38 +12,50 @@
     "news_sources": {
         "econ": [
             {
+                "title": "京东再推“国民好车”：4 月 13 日揭晓新主机厂合作，今年计划在 100 个城市开设交付中心",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-11",
+                "url": "https://www.ithome.com/0/938/138.htm"
+            },
+            {
+                "title": "【CDT报告汇】V-Dem民主报告：第三波民主化成果消失殆尽，全球倒退回1978年水平，美国失去自由民主国家地位（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-04-11",
+                "url": "https://chinadigitaltimes.net/chinese/726466.html"
+            },
+            {
+                "title": "地平线创始人余凯：4 月 22 日推出中国第一款舱驾融合智能体芯片“星空”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-11",
+                "url": "https://www.ithome.com/0/938/108.htm"
+            },
+            {
+                "title": "知名AI创业公司Yupp将停止服务，只存活了22个月",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-11",
+                "url": "https://36kr.com/p/3762088319484419"
+            },
+            {
                 "title": "日本经济产业省向 Rapidus 追加 6315 亿日元支持，加速下一代半导体研发",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-11",
                 "url": "https://www.ithome.com/0/938/090.htm"
-            },
-            {
-                "title": "奥特曼家被炸了！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3762027785224707"
-            },
-            {
-                "title": "雷军投的\"红娘\"要去IPO了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3761856919093768"
-            },
-            {
-                "title": "低空经济第一股，来了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3761810181210633"
-            },
-            {
-                "title": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3761709375521288"
             }
         ],
         "mil": [
             {
+                "title": "赛力斯总裁何利扬：问界纯电用户比例大幅提升，辅助驾驶活跃用户超 97.5%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-11",
+                "url": "https://www.ithome.com/0/938/134.htm"
+            },
+            {
+                "title": "知名AI创业公司Yupp将停止服务，只存活了22个月",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-11",
+                "url": "https://36kr.com/p/3762088319484419"
+            },
+            {
                 "title": "奥特曼家被炸了！",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-11",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3761709375521288"
             },
             {
-                "title": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3761718611624707"
-            },
-            {
-                "title": "IT早报 0411：DeepSeek V4 将于 4 月下旬正式发布；阿里认领神秘 AI 视频模型“欢乐马”；华为 Pura 系列发布会定档 4 月 20 日；第二批 625 亿国补资金下达...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-10",
-                "url": "https://www.ithome.com/0/938/022.htm"
-            },
-            {
-                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
-            },
-            {
-                "title": "2026年4月10日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oM3ZFRjlHVENMeFdsTDB6OEhPRG1nOEhBMGxaS2VBVmFCYnZ5MG5TWmZIaEhlRTJjY1E1ZDBsVExJQmRuNFZuTktydUhDZTZLN0tQQlBOdjREYmdfbDE0Wm5WQVM5RFQzTFJZcGdJVGE0S2FRbHc?oc=5"
-            },
-            {
                 "title": "毛宁：破坏中美科技合作只会削弱美国创新活力 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-10",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1NZdHpDR3A1NHZEOWhBTHI2UEV0NlZQMnZBSEQxbzh0bm4waFdXbjRuWGVzalRTUlA1SFpJSm9mLXh0LWw4TzhrVzJHQk9RWE5zTVJQdm4wQmRPZEJoeGxUaUJVbTgyeHNhazFHQVNTZFlZcWh5RWlxanVuM0t0VDE0alRqZ19zaWExNV9xRGY?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTF95Q2dFb1o5U2xMUU5EM3BQdnI3UVAwbWdGZk9DWEdjeEFycjA2TEhYcGFWT0RuZ0E5UkRJTk1FZ3VEYlZpdi15UldTX2pGUWZDRGUyX0YzUVVUMlM2ejEzdjBWR2ljX09oMXVtcjN2MjZzcUdsR2RuRDQ0VHlJVDVRQmVMTkItZWVXd2JOVUNBQmowRXJOaVU2c2M2WFpoSHVWSnR1ODlCN0JYZHc?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2dkeFU3YnhLWlhkNmZrYl9qd2t1QnB1Z3FCRUJHeEtSZG9LaURRd1J1b2V1d0hmRk9mOXZYVFZUU1plYVJ4YlhVdDQ3Ti1Gd090LTltYmdPMmdQZE5iZ1J0S2o1ZzJUY3JpSllsakR6YmFWQ3RycGsxa2Jaa0U5VGRkNWQ?oc=5"
             },
             {
                 "title": "山东菏泽：牡丹花开倾城引客来 - 中国军网",
@@ -104,14 +104,32 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13dnhTZjNuYnNPN1NxbDJhT3hLMWdzSEYzMElPOE1MdV9QS1hJeFJjVTFWMU9Hc2RjNTRVZ1hxdUFDbjRXaXhiUFhHMldlOHNSUWc?oc=5"
             },
             {
-                "title": "您的位置： 工作动态 - 中国人民解放军专业技术人才网",
+                "title": "人民之心｜“为官一任，造福一方” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2024-02-15",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3dmpJNVlDSEJtNTFZWFVBN094RkdUTVFGVWh0OVQzYVk5Z1l1MmplSnRnd0Q4Q0ZyRjlZUWt1c09uWDI5dkIwZQ?oc=5"
+                "date": "2026-04-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fY3dPanBwVlVUb3lHMXZhU0ZsMXpOTkRGSXZYOEpIX1ZpSExDMVFkal81bEg0QU04S1hIVHhnUFVRUFJ6V0kxakNQVEY1Mlk0N1E?oc=5"
             }
         ],
         "pol": [
             {
+                "title": "京东再推“国民好车”：4 月 13 日揭晓新主机厂合作，今年计划在 100 个城市开设交付中心",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-11",
+                "url": "https://www.ithome.com/0/938/138.htm"
+            },
+            {
+                "title": "为什么有钱人也不买GUCCI了？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-11",
+                "url": "https://36kr.com/p/3762200670077448"
+            },
+            {
+                "title": "知名AI创业公司Yupp将停止服务，只存活了22个月",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-11",
+                "url": "https://36kr.com/p/3762088319484419"
+            },
+            {
                 "title": "奥特曼家被炸了！",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-11",
@@ -124,40 +142,22 @@
                 "url": "https://36kr.com/p/3761856919093768"
             },
             {
-                "title": "低空经济第一股，来了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3761810181210633"
-            },
-            {
-                "title": "F1 紧急调整 2026 赛车混动规则，解决最高 70 公里时速差问题",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-11",
-                "url": "https://www.ithome.com/0/938/045.htm"
-            },
-            {
-                "title": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3761709375521288"
-            },
-            {
-                "title": "朝鲜最高领导人金正恩会见王毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2ZYaDNnakZfbnVUZll1ZXNlZmR5aXVWZFlMUm01RW52aFlvenZzLThkTDhycVZiLVR5RnBxeGFEMWhfSHJXY1FlcU1wTGlmLVl0TWZDdTdNSjZfN21ZRWVqdWsxeTBtUmdEQUdR?oc=5"
-            },
-            {
-                "title": "2026年4月10日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-10",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oM3ZFRjlHVENMeFdsTDB6OEhPRG1nOEhBMGxaS2VBVmFCYnZ5MG5TWmZIaEhlRTJjY1E1ZDBsVExJQmRuNFZuTktydUhDZTZLN0tQQlBOdjREYmdfbDE0Wm5WQVM5RFQzTFJZcGdJVGE0S2FRbHc?oc=5"
-            },
-            {
                 "title": "毛宁：破坏中美科技合作只会削弱美国创新活力 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-10",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1NZdHpDR3A1NHZEOWhBTHI2UEV0NlZQMnZBSEQxbzh0bm4waFdXbjRuWGVzalRTUlA1SFpJSm9mLXh0LWw4TzhrVzJHQk9RWE5zTVJQdm4wQmRPZEJoeGxUaUJVbTgyeHNhazFHQVNTZFlZcWh5RWlxanVuM0t0VDE0alRqZ19zaWExNV9xRGY?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTF95Q2dFb1o5U2xMUU5EM3BQdnI3UVAwbWdGZk9DWEdjeEFycjA2TEhYcGFWT0RuZ0E5UkRJTk1FZ3VEYlZpdi15UldTX2pGUWZDRGUyX0YzUVVUMlM2ejEzdjBWR2ljX09oMXVtcjN2MjZzcUdsR2RuRDQ0VHlJVDVRQmVMTkItZWVXd2JOVUNBQmowRXJOaVU2c2M2WFpoSHVWSnR1ODlCN0JYZHc?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-10",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2dkeFU3YnhLWlhkNmZrYl9qd2t1QnB1Z3FCRUJHeEtSZG9LaURRd1J1b2V1d0hmRk9mOXZYVFZUU1plYVJ4YlhVdDQ3Ti1Gd090LTltYmdPMmdQZE5iZ1J0S2o1ZzJUY3JpSllsakR6YmFWQ3RycGsxa2Jaa0U5VGRkNWQ?oc=5"
             },
             {
                 "title": "山东菏泽：牡丹花开倾城引客来 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13dnhTZjNuYnNPN1NxbDJhT3hLMWdzSEYzMElPOE1MdV9QS1hJeFJjVTFWMU9Hc2RjNTRVZ1hxdUFDbjRXaXhiUFhHMldlOHNSUWc?oc=5"
             },
             {
-                "title": "您的位置： 工作动态 - 中国人民解放军专业技术人才网",
+                "title": "人民之心｜“为官一任，造福一方” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2024-02-15",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3dmpJNVlDSEJtNTFZWFVBN094RkdUTVFGVWh0OVQzYVk5Z1l1MmplSnRnd0Q4Q0ZyRjlZUWt1c09uWDI5dkIwZQ?oc=5"
+                "date": "2026-04-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fY3dPanBwVlVUb3lHMXZhU0ZsMXpOTkRGSXZYOEpIX1ZpSExDMVFkal81bEg0QU04S1hIVHhnUFVRUFJ6V0kxakNQVEY1Mlk0N1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-12T07:10:07.547371+00:00"
+    "last_updated": "2026-04-12T12:56:06.904425+00:00"
 }
