@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "突破 500 万大关：消息称华为 Mate 80 系列手机销量约 508.07 万",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-12",
+                "url": "https://www.ithome.com/0/938/205.htm"
+            },
+            {
+                "title": "IT早报 0412：宇树机器人跑出 10m/s 刷新世界纪录；小米手机正式调价；曝三星无缘代工高通第六代骁龙 8 至尊版芯片；努比亚回应红魔 11 Pro 系列遭 3DMark 除名...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-11",
+                "url": "https://www.ithome.com/0/938/193.htm"
+            },
+            {
                 "title": "京东再推“国民好车”：4 月 13 日揭晓新主机厂合作，今年计划在 100 个城市开设交付中心",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-11",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-11",
                 "url": "https://www.ithome.com/0/938/108.htm"
-            },
-            {
-                "title": "知名AI创业公司Yupp将停止服务，只存活了22个月",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3762088319484419"
-            },
-            {
-                "title": "日本经济产业省向 Rapidus 追加 6315 亿日元支持，加速下一代半导体研发",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-11",
-                "url": "https://www.ithome.com/0/938/090.htm"
             }
         ],
         "mil": [
+            {
+                "title": "今日消费资讯：宋雨琦出任巴黎欧莱雅美发代言人、别克至境 E7 三款车型配置公布",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-12",
+                "url": "https://www.toodaylab.com/83990"
+            },
+            {
+                "title": "IT早报 0412：宇树机器人跑出 10m/s 刷新世界纪录；小米手机正式调价；曝三星无缘代工高通第六代骁龙 8 至尊版芯片；努比亚回应红魔 11 Pro 系列遭 3DMark 除名...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-11",
+                "url": "https://www.ithome.com/0/938/193.htm"
+            },
             {
                 "title": "深蓝 CEO：深蓝汽车 3 月市占率创纪录，多款新车 4 月将亮相",
                 "source": "NewsAPI / Ithome.com",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3762088319484419"
             },
             {
-                "title": "奥特曼家被炸了！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3762027785224707"
-            },
-            {
-                "title": "雷军投的\"红娘\"要去IPO了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3761856919093768"
-            },
-            {
-                "title": "阿联酋阿布扎比王储哈立德将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-12",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzNtcFc1M2FsV0ppaWdQYXlMRHluQzFlWEZUSVRKY0RoNmJtY1FQaDRVdC04R0pINlpGY3lqMmt1NGhKWkhoaE82OTVSY1F5RFVzeFA2T1F1dlpWLWZhd3RfNlgxUm44UzhKTDVCZ1lfRmswV1RkY2xZUnBrX3l6UGtBZHREUnpsakE?oc=5"
-            },
-            {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
-            },
-            {
-                "title": "穿林越涧砺锋刃——陆军某旅侦察破袭行动考核影像 - 中华人民共和国国防部",
+                "title": "第一观察 | 习近平主席寄望中美青年 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00XzU3ZUZrWVpsQ09ZUVNfQ0xaSTY5eDF6QVpUVTB4dnVZSzhYUU9NclpEcUk0ZHRvbjBmMXFmTHFRdW1LRFFoeUtJajJob0RUUGM2Z2QxU0k?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSllkenhPRVNxT3AxeXNWVDBUMTJaRlNELUwwQVJRZXFfNVJzazZyTEw1OEd0alpxYkpwWmRsX21tRG1FS2g3TmR1MWp3YjhMVWIwWVBUWlE4VkxPSTE3YUh5TU95dw?oc=5"
+            },
+            {
+                "title": "驻塞舌尔大使林楠同塞旅游和文化部部长工作交流（2026-04-10） - 外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-11",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2FlakRsb2xLd1Z2cUlkdWE3Z1BFOHZXbXNMV29BX1hIT0JRT3EyU01YWVBsOGdkdldkT3BkU2dBdGNyS2huTlFLZ2FqeGduTHlzOGRVU2NUb2E2UTFfRl9Ga1JHTEZtc0FwaEVQTE15RFhFcC1HUF9wd0RnV0piMnZSUng?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-11",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjclByY0lqSHdwSGp6cFBZanJqaFgyRUQ1Zm4yQUNJSkxmd1Ewa0tILUpyOGtCV3lOYmNiNmRyRDAxUHlRMC00NlZDUWg0LS1maEhpRHRGTGVtWUxoWG9JV0pQTWUxcTE3b053cEVZdzJiWjJXOTJwbXF3?oc=5"
             },
             {
                 "title": "山东菏泽：牡丹花开倾城引客来 - 中国军网",
@@ -98,19 +98,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWEtveGV3SzVGWk43QWlhanBpTThiR3p1THcxVWJaUkR1d3JwTEpJM19JaXZLNzBuWjVXT0xOSVBDYkdZWnlKUy1Sb2tDQ1paOUE?oc=5"
             },
             {
-                "title": "中部战区军事检察院探索提高涉军案件司法公信力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13dnhTZjNuYnNPN1NxbDJhT3hLMWdzSEYzMElPOE1MdV9QS1hJeFJjVTFWMU9Hc2RjNTRVZ1hxdUFDbjRXaXhiUFhHMldlOHNSUWc?oc=5"
-            },
-            {
                 "title": "体谅我难处的翠平，陪我走过军旅人生路 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2NmhpeC0yYVRaekUyZE5ITE92SHJCdGhKV2NHMlhfSDFfYUYweWVJZmYwS1k2ZzAzZU16aHEtZldwQ2lpLUtjMWxLMm13ak9YS2c?oc=5"
+            },
+            {
+                "title": "Chemical Defense Soldiers Conduct CBRN Decontamination Drill - Bilingual - 中国军网（英文版） - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-12",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85TXdiSmpOU244NXVtREZtVW94OFNUdGNkdHdZLTlBUXR4R0dZRkZKbHVVbDZER0RKU0ptS3ZtSlQ4clF2cmR6ZVJoWFByMFFJbUFNUVBCYmNPS3E4MGc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "今日消费资讯：宋雨琦出任巴黎欧莱雅美发代言人、别克至境 E7 三款车型配置公布",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-12",
+                "url": "https://www.toodaylab.com/83990"
+            },
+            {
+                "title": "IT早报 0412：宇树机器人跑出 10m/s 刷新世界纪录；小米手机正式调价；曝三星无缘代工高通第六代骁龙 8 至尊版芯片；努比亚回应红魔 11 Pro 系列遭 3DMark 除名...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-11",
+                "url": "https://www.ithome.com/0/938/193.htm"
+            },
             {
                 "title": "深蓝 CEO：深蓝汽车 3 月市占率创纪录，多款新车 4 月将亮相",
                 "source": "NewsAPI / Ithome.com",
@@ -130,34 +142,22 @@
                 "url": "https://36kr.com/p/3762200670077448"
             },
             {
-                "title": "知名AI创业公司Yupp将停止服务，只存活了22个月",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3762088319484419"
-            },
-            {
-                "title": "奥特曼家被炸了！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-11",
-                "url": "https://36kr.com/p/3762027785224707"
-            },
-            {
-                "title": "阿联酋阿布扎比王储哈立德将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-12",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzNtcFc1M2FsV0ppaWdQYXlMRHluQzFlWEZUSVRKY0RoNmJtY1FQaDRVdC04R0pINlpGY3lqMmt1NGhKWkhoaE82OTVSY1F5RFVzeFA2T1F1dlpWLWZhd3RfNlgxUm44UzhKTDVCZ1lfRmswV1RkY2xZUnBrX3l6UGtBZHREUnpsakE?oc=5"
-            },
-            {
-                "title": "中国地图 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
-            },
-            {
-                "title": "穿林越涧砺锋刃——陆军某旅侦察破袭行动考核影像 - 中华人民共和国国防部",
+                "title": "第一观察 | 习近平主席寄望中美青年 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-11",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00XzU3ZUZrWVpsQ09ZUVNfQ0xaSTY5eDF6QVpUVTB4dnVZSzhYUU9NclpEcUk0ZHRvbjBmMXFmTHFRdW1LRFFoeUtJajJob0RUUGM2Z2QxU0k?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSllkenhPRVNxT3AxeXNWVDBUMTJaRlNELUwwQVJRZXFfNVJzazZyTEw1OEd0alpxYkpwWmRsX21tRG1FS2g3TmR1MWp3YjhMVWIwWVBUWlE4VkxPSTE3YUh5TU95dw?oc=5"
+            },
+            {
+                "title": "驻塞舌尔大使林楠同塞旅游和文化部部长工作交流（2026-04-10） - 外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-11",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2FlakRsb2xLd1Z2cUlkdWE3Z1BFOHZXbXNMV29BX1hIT0JRT3EyU01YWVBsOGdkdldkT3BkU2dBdGNyS2huTlFLZ2FqeGduTHlzOGRVU2NUb2E2UTFfRl9Ga1JHTEZtc0FwaEVQTE15RFhFcC1HUF9wd0RnV0piMnZSUng?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-11",
+                "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjclByY0lqSHdwSGp6cFBZanJqaFgyRUQ1Zm4yQUNJSkxmd1Ewa0tILUpyOGtCV3lOYmNiNmRyRDAxUHlRMC00NlZDUWg0LS1maEhpRHRGTGVtWUxoWG9JV0pQTWUxcTE3b053cEVZdzJiWjJXOTJwbXF3?oc=5"
             },
             {
                 "title": "山东菏泽：牡丹花开倾城引客来 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWEtveGV3SzVGWk43QWlhanBpTThiR3p1THcxVWJaUkR1d3JwTEpJM19JaXZLNzBuWjVXT0xOSVBDYkdZWnlKUy1Sb2tDQ1paOUE?oc=5"
             },
             {
-                "title": "中部战区军事检察院探索提高涉军案件司法公信力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13dnhTZjNuYnNPN1NxbDJhT3hLMWdzSEYzMElPOE1MdV9QS1hJeFJjVTFWMU9Hc2RjNTRVZ1hxdUFDbjRXaXhiUFhHMldlOHNSUWc?oc=5"
-            },
-            {
                 "title": "体谅我难处的翠平，陪我走过军旅人生路 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2NmhpeC0yYVRaekUyZE5ITE92SHJCdGhKV2NHMlhfSDFfYUYweWVJZmYwS1k2ZzAzZU16aHEtZldwQ2lpLUtjMWxLMm13ak9YS2c?oc=5"
+            },
+            {
+                "title": "Chemical Defense Soldiers Conduct CBRN Decontamination Drill - Bilingual - 中国军网（英文版） - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-12",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85TXdiSmpOU244NXVtREZtVW94OFNUdGNkdHdZLTlBUXR4R0dZRkZKbHVVbDZER0RKU0ptS3ZtSlQ4clF2cmR6ZVJoWFByMFFJbUFNUVBCYmNPS3E4MGc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-12T18:42:37.756343+00:00"
+    "last_updated": "2026-04-13T02:27:29.475023+00:00"
 }
