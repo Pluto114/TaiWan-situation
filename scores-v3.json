@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”",
-                "source": "NewsAPI / 36kr.com",
+                "title": "李国庆晒生活日常：夫妇两人常吃剩菜 行程不超4小时都坐经济舱",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-13",
-                "url": "https://36kr.com/p/3763919765226240"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557726.htm"
             },
             {
-                "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+                "title": "对话雅诗兰黛集团总裁兼CEO司泰峰：让一家“慢”公司变快，这是他的第一年｜New Look专访",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-13",
-                "url": "https://36kr.com/p/3757975636050695"
+                "url": "https://36kr.com/p/3756542711120640"
             },
             {
-                "title": "8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-13",
-                "url": "https://36kr.com/p/3764503979328001"
-            },
-            {
-                "title": "IT早报 0413：微信鸿蒙版 App 安装量突破 5000 万；曝苹果攻克 iPhone Ultra 折叠屏手机折痕与耐用性难题；曝华为 Mate 80 系列销量突破 500 万...",
+                "title": "AI 预测英超联赛结果能力如何？报告称 Claude Opus 4.6 表现最佳，Grok 垫底",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-12",
-                "url": "https://www.ithome.com/0/938/371.htm"
+                "date": "2026-04-13",
+                "url": "https://www.ithome.com/0/938/480.htm"
             },
             {
-                "title": "广汽科技日发布五大核心技术：星源插混让 2 吨大车油耗降至 3 升，昊铂 GT 攀登版 5 月上市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-12",
-                "url": "https://www.ithome.com/0/938/364.htm"
+                "title": "创业老炮vs00后，谁是下一代“一人公司”的标准样板",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-13",
+                "url": "https://36kr.com/p/3764728843289089"
+            },
+            {
+                "title": "估值 2.5 亿，成立 4 个月，潮玩中的爱马仕 「MOMOTOY」获数千万元融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-13",
+                "url": "https://36kr.com/p/3756978314511110"
             }
         ],
         "mil": [
             {
+                "title": "全新宾利添越将于两年后发布：放弃纯电，拥抱插混",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-13",
+                "url": "https://www.ithome.com/0/938/536.htm"
+            },
+            {
+                "title": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-13",
+                "url": "https://36kr.com/p/3764777930621705"
+            },
+            {
+                "title": "创业老炮vs00后，谁是下一代“一人公司”的标准样板",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-13",
+                "url": "https://36kr.com/p/3764728843289089"
+            },
+            {
                 "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-13",
@@ -54,30 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-13",
                 "url": "https://36kr.com/p/3764503979328001"
-            },
-            {
-                "title": "IT早报 0413：微信鸿蒙版 App 安装量突破 5000 万；曝苹果攻克 iPhone Ultra 折叠屏手机折痕与耐用性难题；曝华为 Mate 80 系列销量突破 500 万...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-12",
-                "url": "https://www.ithome.com/0/938/371.htm"
-            },
-            {
-                "title": "元戎启行首次证实前 DeepSeek 多模态核心研究员阮翀加盟，出任首席科学家",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-12",
-                "url": "https://www.ithome.com/0/938/325.htm"
-            },
-            {
-                "title": "今日消费资讯：宋雨琦出任巴黎欧莱雅美发代言人、别克至境 E7 三款车型配置公布",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-12",
-                "url": "https://www.toodaylab.com/83990"
-            },
-            {
-                "title": "阿联酋阿布扎比王储哈立德将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-12",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzNtcFc1M2FsV0ppaWdQYXlMRHluQzFlWEZUSVRKY0RoNmJtY1FQaDRVdC04R0pINlpGY3lqMmt1NGhKWkhoaE82OTVSY1F5RFVzeFA2T1F1dlpWLWZhd3RfNlgxUm44UzhKTDVCZ1lfRmswV1RkY2xZUnBrX3l6UGtBZHREUnpsakE?oc=5"
             },
             {
                 "title": "俄罗斯外长拉夫罗夫将访华 - mfa.gov.cn",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BNEZiV2czZXB1cC1JeTVCQ3dvT2VOQ0RxS0xsaGp3MXFkc01LbVdEM20xWktJOUlOMGNPOTd6blUtXzk0NHB1bVZkQlhVOGxwTnI5UFZYUTlaa0pjU2dsRlpteTZUQWk1N2xZ?oc=5"
             },
             {
+                "title": "驻约旦大使郭伟会见约前首相巴德兰 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmJ6czdwVU9sOHJPaHVyLUZrR01kdi00amM2cnoxTVVydEdrekpnbXJUeDEyOFdJdVFTSnlsSzZqUFhSVE9yYkU3cXlweF84ZXRMSmtSUHVSNVhpRk5KWFd6T2c3YnN6ZWlZY095VzRTZlBYakNmdXBNeDVmYmJXMXRMR3g?oc=5"
+            },
+            {
                 "title": "解放军报评论员：以崭新政治面貌迎接建军一百周年 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MEZQSHVSOWhpVjRtRC00MElzdlFYM2dJR1NNbGFBd1FKenhQZS1DYm4zclhYSS0zTzFUTkYzWDFvYVBEaFlRT0tLMnh2RXZ3akE?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
                 "title": "唤醒眼睛里的“护眼开关”，科学防控儿童近视 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcXVZUWgzVXFMb21CUlBubVNPTkExeHhpZTRJMkpZZGJHSi1IREpoc254eGlGMVRETFAwUDZSWXpOQTZzX1FHMDFxVldLcDJ0OUE?oc=5"
+            },
+            {
+                "title": "内蒙古杭锦旗军民合力推进“三北”工程攻坚战 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qQkRuODZxelFmaldmakczdU9CX0c5WUVlRG9qcmRWN0FETVRRN3Focmd4d2tEbjdPU1Q3XzQ0cHpGbXVuelVJSnIwOFd6eklDanc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-13",
-                "url": "https://36kr.com/p/3763919765226240"
-            },
-            {
-                "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-13",
-                "url": "https://36kr.com/p/3757975636050695"
-            },
-            {
-                "title": "8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-13",
-                "url": "https://36kr.com/p/3764503979328001"
-            },
-            {
-                "title": "我国外商独资券商有望扩容至7家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-13",
-                "url": "https://36kr.com/newsflashes/3764501615575817"
-            },
-            {
-                "title": "贾跃亭：FF EAI 机器人新增出货 12 台，Super One 车型将升级 800V 架构",
+                "title": "极兔速递：2026 年一季度包裹量 83.26 亿件，同比增长 26.2%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-13",
-                "url": "https://www.ithome.com/0/938/380.htm"
+                "url": "https://www.ithome.com/0/938/541.htm"
             },
             {
-                "title": "阿联酋阿布扎比王储哈立德将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-12",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzNtcFc1M2FsV0ppaWdQYXlMRHluQzFlWEZUSVRKY0RoNmJtY1FQaDRVdC04R0pINlpGY3lqMmt1NGhKWkhoaE82OTVSY1F5RFVzeFA2T1F1dlpWLWZhd3RfNlgxUm44UzhKTDVCZ1lfRmswV1RkY2xZUnBrX3l6UGtBZHREUnpsakE?oc=5"
+                "title": "全新宾利添越将于两年后发布：放弃纯电，拥抱插混",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-13",
+                "url": "https://www.ithome.com/0/938/536.htm"
+            },
+            {
+                "title": "贾跃亭FF机器人4月新增出货12台 首个交付季剑指200台",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557724.htm"
+            },
+            {
+                "title": "对话雅诗兰黛集团总裁兼CEO司泰峰：让一家“慢”公司变快，这是他的第一年｜New Look专访",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-13",
+                "url": "https://36kr.com/p/3756542711120640"
+            },
+            {
+                "title": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-13",
+                "url": "https://36kr.com/p/3764777930621705"
             },
             {
                 "title": "俄罗斯外长拉夫罗夫将访华 - mfa.gov.cn",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BNEZiV2czZXB1cC1JeTVCQ3dvT2VOQ0RxS0xsaGp3MXFkc01LbVdEM20xWktJOUlOMGNPOTd6blUtXzk0NHB1bVZkQlhVOGxwTnI5UFZYUTlaa0pjU2dsRlpteTZUQWk1N2xZ?oc=5"
             },
             {
+                "title": "驻约旦大使郭伟会见约前首相巴德兰 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmJ6czdwVU9sOHJPaHVyLUZrR01kdi00amM2cnoxTVVydEdrekpnbXJUeDEyOFdJdVFTSnlsSzZqUFhSVE9yYkU3cXlweF84ZXRMSmtSUHVSNVhpRk5KWFd6T2c3YnN6ZWlZY095VzRTZlBYakNmdXBNeDVmYmJXMXRMR3g?oc=5"
+            },
+            {
                 "title": "解放军报评论员：以崭新政治面貌迎接建军一百周年 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MEZQSHVSOWhpVjRtRC00MElzdlFYM2dJR1NNbGFBd1FKenhQZS1DYm4zclhYSS0zTzFUTkYzWDFvYVBEaFlRT0tLMnh2RXZ3akE?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
                 "title": "唤醒眼睛里的“护眼开关”，科学防控儿童近视 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcXVZUWgzVXFMb21CUlBubVNPTkExeHhpZTRJMkpZZGJHSi1IREpoc254eGlGMVRETFAwUDZSWXpOQTZzX1FHMDFxVldLcDJ0OUE?oc=5"
+            },
+            {
+                "title": "内蒙古杭锦旗军民合力推进“三北”工程攻坚战 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qQkRuODZxelFmaldmakczdU9CX0c5WUVlRG9qcmRWN0FETVRRN3Focmd4d2tEbjdPU1Q3XzQ0cHpGbXVuelVJSnIwOFd6eklDanc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-14T02:13:55.504113+00:00"
+    "last_updated": "2026-04-14T07:26:34.562425+00:00"
 }
