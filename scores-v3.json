@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "长安汽车 2025 年营收 1640 亿元同比增长 2.67%，净利润 40.75 亿元",
+                "title": "AI 热潮驱动韩国 3 月信息通信技术产品出口额 435.1 亿美元同比增长 112%，创历史新高",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-14",
-                "url": "https://www.ithome.com/0/938/791.htm"
+                "url": "https://www.ithome.com/0/938/968.htm"
             },
             {
-                "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
-                "source": "NewsAPI / 36kr.com",
+                "title": "星链成太空印钞机 去年利润72亿美元，一己之力扛起马斯克万亿帝国",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-14",
-                "url": "https://36kr.com/p/3765986197684736"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557962.htm"
             },
             {
-                "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
+                "title": "“马斯克版微信”XChat将于4月17日上线 “完全隐私”仍存诸多漏洞",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-14",
-                "url": "https://36kr.com/p/3764953900990977"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557956.htm"
             },
             {
-                "title": "澳航 & 空客首架 A350-1000ULR 飞机下线：明年将执飞全球最长直飞航线（悉尼-伦敦）",
-                "source": "NewsAPI / Ithome.com",
+                "title": "福特CEO：中国车若入美 我们全都得玩完",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-14",
-                "url": "https://www.ithome.com/0/938/783.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557952.htm"
             },
             {
-                "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
-                "source": "NewsAPI / 36kr.com",
+                "title": "斯坦福423页AI报告出炉 中美差距仅2.7% 清华DeepSeek冲进全球前十",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-14",
-                "url": "https://36kr.com/p/3765932138103554"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557950.htm"
             }
         ],
         "mil": [
+            {
+                "title": "星链成太空印钞机 去年利润72亿美元，一己之力扛起马斯克万亿帝国",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557962.htm"
+            },
+            {
+                "title": "全球AI芯片被一家味精厂卡脖子？份额超95% 英伟达也得排队抢产能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557948.htm"
+            },
+            {
+                "title": "REGENT自主翼地效“海鸥滑翔机”完成首飞 向美国军方展示",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557944.htm"
+            },
             {
                 "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
                 "source": "NewsAPI / 36kr.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.ithome.com/0/938/758.htm"
             },
             {
-                "title": "美国即将开始封锁霍尔木兹海峡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557830.htm"
-            },
-            {
-                "title": "美以伊在中东苦战 中国新能源产业胜出？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-13",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BB%A5%E4%BC%8A%E5%9C%A8%E4%B8%AD%E4%B8%9C%E8%8B%A6%E6%88%98-%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%A7%E4%B8%9A%E8%83%9C%E5%87%BA/a-76764466"
-            },
-            {
-                "title": "全新荣威 i6 汽车预售发布：搭载上汽自研 1.5L 全铝发动机 + CVT 变速箱，限时 6.59 万元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-13",
-                "url": "https://www.ithome.com/0/938/702.htm"
+                "title": "2026年4月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mVFZpbnlNMVRSdkhlbm1zQnlOZXloV014NjZDbW52QUsya2I2d015ZThka18xSW9vaVlXaDU2bUdISG1YN2NqMGJzaFpfX1ktUk44b2phMWJ3azZkNDFpa2FWVTJpRllVNkZnQXBtNUFZQ2lCWEE?oc=5"
             },
             {
                 "title": "习近平会见西班牙首相桑切斯 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-13",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKQ2FvTGdFRzIwbkRvYk5DeHNkc2c1Qm82N1ZFV0VYblhMZGJva0xFTThSR3M5ZG9jZG1sQlZqdTg4c2RRbHljVkhXSGZ3UXVfRHVzSlZ0d1ZXVk0xYWxkaUM3NTU4Z3MyWlRUYVd3?oc=5"
-            },
-            {
-                "title": "俄罗斯外长拉夫罗夫将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-13",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2hoUDZYMnMxY2xLYnhob09KQ3VLRFNrVEF6UGJGc3hpWlpkaG9pR0dNMHVyQ3h0bF9waWxCQTh5VElsNk5Vci1TcXlZbHBmcW9DQmE2SXZjdHpQckpsOUdzWEpzdGRDbjNBRXRBMXZGMWcta0hsaXhfZGtDWFI5TXp6NEpXSHpNdmc?oc=5"
             },
             {
                 "title": "视频丨习近平会见西班牙首相桑切斯：共同捍卫真正的多边主义 守护全球和平与发展 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "长安汽车 2025 年营收 1640 亿元同比增长 2.67%，净利润 40.75 亿元",
+                "title": "星链成太空印钞机 去年利润72亿美元，一己之力扛起马斯克万亿帝国",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557962.htm"
+            },
+            {
+                "title": "“马斯克版微信”XChat将于4月17日上线 “完全隐私”仍存诸多漏洞",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557956.htm"
+            },
+            {
+                "title": "全球AI芯片被一家味精厂卡脖子？份额超95% 英伟达也得排队抢产能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557948.htm"
+            },
+            {
+                "title": "REGENT自主翼地效“海鸥滑翔机”完成首飞 向美国军方展示",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1557944.htm"
+            },
+            {
+                "title": "大众汽车一季度全球交付量同比下滑 4%：纯电车型在华暴跌 63.8%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-14",
-                "url": "https://www.ithome.com/0/938/791.htm"
+                "url": "https://www.ithome.com/0/938/915.htm"
             },
             {
-                "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2026年4月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-14",
-                "url": "https://36kr.com/p/3764953900990977"
-            },
-            {
-                "title": "澳航 & 空客首架 A350-1000ULR 飞机下线：明年将执飞全球最长直飞航线（悉尼-伦敦）",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-14",
-                "url": "https://www.ithome.com/0/938/783.htm"
-            },
-            {
-                "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-14",
-                "url": "https://36kr.com/p/3765932138103554"
-            },
-            {
-                "title": "首款 200G 吞吐量加密网关获国家商密认证：100% 国产化，深度适配 SM2、SM3、SM4 等国密算法",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-14",
-                "url": "https://www.ithome.com/0/938/768.htm"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mVFZpbnlNMVRSdkhlbm1zQnlOZXloV014NjZDbW52QUsya2I2d015ZThka18xSW9vaVlXaDU2bUdISG1YN2NqMGJzaFpfX1ktUk44b2phMWJ3azZkNDFpa2FWVTJpRllVNkZnQXBtNUFZQ2lCWEE?oc=5"
             },
             {
                 "title": "习近平会见西班牙首相桑切斯 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-13",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKQ2FvTGdFRzIwbkRvYk5DeHNkc2c1Qm82N1ZFV0VYblhMZGJva0xFTThSR3M5ZG9jZG1sQlZqdTg4c2RRbHljVkhXSGZ3UXVfRHVzSlZ0d1ZXVk0xYWxkaUM3NTU4Z3MyWlRUYVd3?oc=5"
-            },
-            {
-                "title": "俄罗斯外长拉夫罗夫将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-13",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2hoUDZYMnMxY2xLYnhob09KQ3VLRFNrVEF6UGJGc3hpWlpkaG9pR0dNMHVyQ3h0bF9waWxCQTh5VElsNk5Vci1TcXlZbHBmcW9DQmE2SXZjdHpQckpsOUdzWEpzdGRDbjNBRXRBMXZGMWcta0hsaXhfZGtDWFI5TXp6NEpXSHpNdmc?oc=5"
             },
             {
                 "title": "视频丨习近平会见西班牙首相桑切斯：共同捍卫真正的多边主义 守护全球和平与发展 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-15T02:11:31.026198+00:00"
+    "last_updated": "2026-04-15T07:27:06.103450+00:00"
 }
