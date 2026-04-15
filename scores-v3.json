@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "亚马逊Leo发布新型机载卫星天线 正面竞争星链机上Wi‑Fi服务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557846.htm"
-            },
-            {
-                "title": "达美航空推出全新达美一号套房 打响高端客舱军备竞赛",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557828.htm"
-            },
-            {
-                "title": "受中美市场疲软拖累 大众汽车集团交付量下滑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557820.htm"
-            },
-            {
-                "title": "全新荣威 i6 汽车预售发布：搭载上汽自研 1.5L 全铝发动机 + CVT 变速箱，限时 6.59 万元起",
+                "title": "长安汽车 2025 年营收 1640 亿元同比增长 2.67%，净利润 40.75 亿元",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-13",
-                "url": "https://www.ithome.com/0/938/702.htm"
+                "date": "2026-04-14",
+                "url": "https://www.ithome.com/0/938/791.htm"
             },
             {
-                "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+                "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-13",
-                "url": "https://36kr.com/p/3765207394009602"
+                "date": "2026-04-14",
+                "url": "https://36kr.com/p/3765986197684736"
+            },
+            {
+                "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-14",
+                "url": "https://36kr.com/p/3764953900990977"
+            },
+            {
+                "title": "澳航 & 空客首架 A350-1000ULR 飞机下线：明年将执飞全球最长直飞航线（悉尼-伦敦）",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-14",
+                "url": "https://www.ithome.com/0/938/783.htm"
+            },
+            {
+                "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-14",
+                "url": "https://36kr.com/p/3765932138103554"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-14",
+                "url": "https://36kr.com/p/3765932138103554"
+            },
+            {
+                "title": "IT早报 0414：网信办发布 11 条直播打赏规定；华为 Pura X Max 横向阔折叠手机定档；荣耀辟谣与字节接洽豆包手机合作；多名被 AI 偷声音的配音演员发声...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-13",
+                "url": "https://www.ithome.com/0/938/758.htm"
+            },
             {
                 "title": "美国即将开始封锁霍尔木兹海峡",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,40 +74,22 @@
                 "url": "https://www.ithome.com/0/938/702.htm"
             },
             {
-                "title": "氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-13",
-                "url": "https://36kr.com/p/3765146768376326"
-            },
-            {
-                "title": "美国拟封锁伊朗经霍尔木兹海峡的航运 油价攀升至每桶100美元上方",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557784.htm"
-            },
-            {
-                "title": "2026年4月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-14",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mVFZpbnlNMVRSdkhlbm1zQnlOZXloV014NjZDbW52QUsya2I2d015ZThka18xSW9vaVlXaDU2bUdISG1YN2NqMGJzaFpfX1ktUk44b2phMWJ3azZkNDFpa2FWVTJpRllVNkZnQXBtNUFZQ2lCWEE?oc=5"
-            },
-            {
                 "title": "习近平会见西班牙首相桑切斯 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-14",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BSDJZaUVfYXVJT05QcndRbTVRVk94bHhoZlRPNHVpSE5XZzVRTG9uUzVmZkxQbW9qSnoxdHZ6VnRncVdTQkNWSE5tWHJuUExtdDBOeVZNU3pTeHZSUG9VWGlaOXJCQmd2RDVr?oc=5"
             },
             {
-                "title": "习近平会见阿联酋阿布扎比王储哈立德 - mfa.gov.cn",
+                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-14",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5icEpxdDF0MDV5YXJmNThZZk9wdWpYU2Q0ckZXRDBpa2ZYY0pkU1dtc0VRQU1ydDMxZXhDOW1Gb3RSNVBwOGZpMlNEOEs2NWF5UGlOWjJac1VMdU9yMm10RHByZFltRUY3Qld3?oc=5"
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKQ2FvTGdFRzIwbkRvYk5DeHNkc2c1Qm82N1ZFV0VYblhMZGJva0xFTThSR3M5ZG9jZG1sQlZqdTg4c2RRbHljVkhXSGZ3UXVfRHVzSlZ0d1ZXVk0xYWxkaUM3NTU4Z3MyWlRUYVd3?oc=5"
             },
             {
-                "title": "解放军报评论员：以崭新政治面貌迎接建军一百周年 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MEZQSHVSOWhpVjRtRC00MElzdlFYM2dJR1NNbGFBd1FKenhQZS1DYm4zclhYSS0zTzFUTkYzWDFvYVBEaFlRT0tLMnh2RXZ3akE?oc=5"
+                "title": "俄罗斯外长拉夫罗夫将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2hoUDZYMnMxY2xLYnhob09KQ3VLRFNrVEF6UGJGc3hpWlpkaG9pR0dNMHVyQ3h0bF9waWxCQTh5VElsNk5Vci1TcXlZbHBmcW9DQmE2SXZjdHpQckpsOUdzWEpzdGRDbjNBRXRBMXZGMWcta0hsaXhfZGtDWFI5TXp6NEpXSHpNdmc?oc=5"
             },
             {
                 "title": "视频丨习近平会见西班牙首相桑切斯：共同捍卫真正的多边主义 守护全球和平与发展 - 中国军网",
@@ -108,44 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcXVZUWgzVXFMb21CUlBubVNPTkExeHhpZTRJMkpZZGJHSi1IREpoc254eGlGMVRETFAwUDZSWXpOQTZzX1FHMDFxVldLcDJ0OUE?oc=5"
+            },
+            {
+                "title": "《国防军事早报》20260414 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-14",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4ZG5JcFM4RVVPUDJZdm01MXNsUzk5VlBCaTNBTmVXOEtyQkJCbzgtcEE2WHVMdE15NU8yMGE2WkFBcFhCVFlTVGJXaldsVG1DRlJr?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "封锁升级！川普警告伊舰靠近就击沉 中国船急掉头(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-13",
-                "url": "https://www.secretchina.com/news/gb/2026/04/14/1097715.html"
-            },
-            {
-                "title": "又一团派女官员落马 罪名“结交政治骗子”引关注(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-13",
-                "url": "https://www.secretchina.com/news/gb/2026/04/13/1097713.html"
-            },
-            {
-                "title": "美国即将开始封锁霍尔木兹海峡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557830.htm"
-            },
-            {
-                "title": "Meta预计将超越谷歌 成为全球最大数字广告巨头",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557826.htm"
-            },
-            {
-                "title": "亚马逊加码汽车销售业务 新增合作品牌、覆盖更多城市",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1557824.htm"
-            },
-            {
-                "title": "2026年4月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "长安汽车 2025 年营收 1640 亿元同比增长 2.67%，净利润 40.75 亿元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-14",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mVFZpbnlNMVRSdkhlbm1zQnlOZXloV014NjZDbW52QUsya2I2d015ZThka18xSW9vaVlXaDU2bUdISG1YN2NqMGJzaFpfX1ktUk44b2phMWJ3azZkNDFpa2FWVTJpRllVNkZnQXBtNUFZQ2lCWEE?oc=5"
+                "url": "https://www.ithome.com/0/938/791.htm"
+            },
+            {
+                "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-14",
+                "url": "https://36kr.com/p/3764953900990977"
+            },
+            {
+                "title": "澳航 & 空客首架 A350-1000ULR 飞机下线：明年将执飞全球最长直飞航线（悉尼-伦敦）",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-14",
+                "url": "https://www.ithome.com/0/938/783.htm"
+            },
+            {
+                "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-14",
+                "url": "https://36kr.com/p/3765932138103554"
+            },
+            {
+                "title": "首款 200G 吞吐量加密网关获国家商密认证：100% 国产化，深度适配 SM2、SM3、SM4 等国密算法",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-14",
+                "url": "https://www.ithome.com/0/938/768.htm"
             },
             {
                 "title": "习近平会见西班牙首相桑切斯 - mfa.gov.cn",
@@ -154,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BSDJZaUVfYXVJT05QcndRbTVRVk94bHhoZlRPNHVpSE5XZzVRTG9uUzVmZkxQbW9qSnoxdHZ6VnRncVdTQkNWSE5tWHJuUExtdDBOeVZNU3pTeHZSUG9VWGlaOXJCQmd2RDVr?oc=5"
             },
             {
-                "title": "习近平会见阿联酋阿布扎比王储哈立德 - mfa.gov.cn",
+                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-14",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5icEpxdDF0MDV5YXJmNThZZk9wdWpYU2Q0ckZXRDBpa2ZYY0pkU1dtc0VRQU1ydDMxZXhDOW1Gb3RSNVBwOGZpMlNEOEs2NWF5UGlOWjJac1VMdU9yMm10RHByZFltRUY3Qld3?oc=5"
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKQ2FvTGdFRzIwbkRvYk5DeHNkc2c1Qm82N1ZFV0VYblhMZGJva0xFTThSR3M5ZG9jZG1sQlZqdTg4c2RRbHljVkhXSGZ3UXVfRHVzSlZ0d1ZXVk0xYWxkaUM3NTU4Z3MyWlRUYVd3?oc=5"
             },
             {
-                "title": "解放军报评论员：以崭新政治面貌迎接建军一百周年 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MEZQSHVSOWhpVjRtRC00MElzdlFYM2dJR1NNbGFBd1FKenhQZS1DYm4zclhYSS0zTzFUTkYzWDFvYVBEaFlRT0tLMnh2RXZ3akE?oc=5"
+                "title": "俄罗斯外长拉夫罗夫将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-13",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2hoUDZYMnMxY2xLYnhob09KQ3VLRFNrVEF6UGJGc3hpWlpkaG9pR0dNMHVyQ3h0bF9waWxCQTh5VElsNk5Vci1TcXlZbHBmcW9DQmE2SXZjdHpQckpsOUdzWEpzdGRDbjNBRXRBMXZGMWcta0hsaXhfZGtDWFI5TXp6NEpXSHpNdmc?oc=5"
             },
             {
                 "title": "视频丨习近平会见西班牙首相桑切斯：共同捍卫真正的多边主义 守护全球和平与发展 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcXVZUWgzVXFMb21CUlBubVNPTkExeHhpZTRJMkpZZGJHSi1IREpoc254eGlGMVRETFAwUDZSWXpOQTZzX1FHMDFxVldLcDJ0OUE?oc=5"
+            },
+            {
+                "title": "《国防军事早报》20260414 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-14",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4ZG5JcFM4RVVPUDJZdm01MXNsUzk5VlBCaTNBTmVXOEtyQkJCbzgtcEE2WHVMdE15NU8yMGE2WkFBcFhCVFlTVGJXaldsVG1DRlJr?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-14T19:10:03.200796+00:00"
+    "last_updated": "2026-04-15T02:11:31.026198+00:00"
 }
