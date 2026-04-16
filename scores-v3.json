@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "108 年历史：电影摄影机厂商 ARRI 阿莱被收购，保持独立运营",
+                "title": "NASA 局长：阿耳忒弥斯 2 号任务只是美国重返月球的序幕",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/204.htm"
+                "url": "https://www.ithome.com/0/939/446.htm"
             },
             {
-                "title": "“十元捐助”22周年 善意守护受难者传递民主火种(组图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "联邦机构绕过特朗普的Anthropic禁令 测试其先进AI模型 “Claude Mythos”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-15",
-                "url": "https://www.secretchina.com/news/gb/2026/04/15/1097774.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558148.htm"
             },
             {
-                "title": "早报｜苹果：建议更新iOS保护iPhone数据安全/华为苹果一季度逆势领跑手机市场/比亚迪回应车库起火",
-                "source": "NewsAPI / Ifanr.com",
-                "date": "2026-04-15",
-                "url": "https://www.ifanr.com/1662221"
-            },
-            {
-                "title": "摆脱对英伟达依赖：Meta 与博通扩大合作，联合研发数代定制 AI 处理器",
+                "title": "微软接手 OpenAI 挪威“星门”数据中心，获 3 万块英伟达芯片算力",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/192.htm"
+                "url": "https://www.ithome.com/0/939/313.htm"
             },
             {
-                "title": "华泰证券：4月中国出口或仍有望维持较高景气度",
-                "source": "NewsAPI / 36kr.com",
+                "title": "恒大多家公司成失信被执行人上热搜 许家印名下240多家企业被注吊销",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-15",
-                "url": "https://36kr.com/newsflashes/3767348211433990"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558134.htm"
+            },
+            {
+                "title": "苹果首款折叠屏曝光：将采用石墨烯+VC散热 国内售价约1.4万元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558114.htm"
             }
         ],
         "mil": [
+            {
+                "title": "NASA 局长：阿耳忒弥斯 2 号任务只是美国重返月球的序幕",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-15",
+                "url": "https://www.ithome.com/0/939/446.htm"
+            },
+            {
+                "title": "台湾兵推演习接连登场 赖清德视导谈国防(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-15",
+                "url": "https://www.secretchina.com/news/gb/2026/04/15/1097754.html"
+            },
             {
                 "title": "早报｜苹果：建议更新iOS保护iPhone数据安全/华为苹果一季度逆势领跑手机市场/比亚迪回应车库起火",
                 "source": "NewsAPI / Ifanr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.voachinese.com/a/imf-says-middle-east-crisis-threatens-higher-inflation-economic-downturn-20260414/8137742.html"
             },
             {
-                "title": "放话封堵中油轮 美财长：他们拿不到石油(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-14",
-                "url": "https://www.secretchina.com/news/gb/2026/04/15/1097759.html"
-            },
-            {
-                "title": "「美股例外」何时休？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-14",
-                "url": "https://36kr.com/p/3766410231726855"
-            },
-            {
                 "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-15",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15VFNHd0M5azVOQjRGUVJGYzVpbGxwS2Z0enl2YV9yejVqdkJCRzlxb0V2aG5Tb0FaTGdvRGlpSlJGaG1GTGhqTUZKTVd2cVRwSUlVSTRPamUwWndFNjlNVFVHaURjNmVvekdR?oc=5"
             },
             {
-                "title": "习近平会见西班牙首相桑切斯 - mfa.gov.cn",
+                "title": "王毅同俄罗斯外长拉夫罗夫会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-14",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BSDJZaUVfYXVJT05QcndRbTVRVk94bHhoZlRPNHVpSE5XZzVRTG9uUzVmZkxQbW9qSnoxdHZ6VnRncVdTQkNWSE5tWHJuUExtdDBOeVZNU3pTeHZSUG9VWGlaOXJCQmd2RDVr?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByOXZmUXdVbWc0MEkzU3hZbE5pWHFYQTVaLWxZR1I1TzBrcVF0TFQ0OEtmNkw2aGJHTTJBX3BkVVJvci1CaUVvaFIzZHgyR0E0UWVjLU4xZXl2S3NrOUVMSXJsZDJVMmRVY1hBRVpR?oc=5"
             },
             {
                 "title": "视频丨习近平会见西班牙首相桑切斯：共同捍卫真正的多边主义 守护全球和平与发展 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "NASA 局长：阿耳忒弥斯 2 号任务只是美国重返月球的序幕",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-15",
+                "url": "https://www.ithome.com/0/939/446.htm"
+            },
+            {
+                "title": "中东战争影响机场购物 奢侈品牌销售额下降",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558158.htm"
+            },
+            {
+                "title": "联邦机构绕过特朗普的Anthropic禁令 测试其先进AI模型 “Claude Mythos”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558148.htm"
+            },
+            {
+                "title": "相关交通事故激增 全国多地开始陆续禁止老头乐上路",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558126.htm"
+            },
+            {
                 "title": "早报｜苹果：建议更新iOS保护iPhone数据安全/华为苹果一季度逆势领跑手机市场/比亚迪回应车库起火",
                 "source": "NewsAPI / Ifanr.com",
                 "date": "2026-04-15",
                 "url": "https://www.ifanr.com/1662221"
-            },
-            {
-                "title": "摆脱对英伟达依赖：Meta 与博通扩大合作，联合研发数代定制 AI 处理器",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/192.htm"
-            },
-            {
-                "title": "“AI 医生”并不可靠，研究称五款头部 AI 平台半数医学建议存在误导性",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/189.htm"
-            },
-            {
-                "title": "超 70 个机构联名警告 Meta：智能眼镜人脸识别功能恐遭不法分子滥用",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/186.htm"
-            },
-            {
-                "title": "8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-15",
-                "url": "https://36kr.com/p/3767326268392199"
             },
             {
                 "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15VFNHd0M5azVOQjRGUVJGYzVpbGxwS2Z0enl2YV9yejVqdkJCRzlxb0V2aG5Tb0FaTGdvRGlpSlJGaG1GTGhqTUZKTVd2cVRwSUlVSTRPamUwWndFNjlNVFVHaURjNmVvekdR?oc=5"
             },
             {
-                "title": "习近平会见西班牙首相桑切斯 - mfa.gov.cn",
+                "title": "王毅同俄罗斯外长拉夫罗夫会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-14",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BSDJZaUVfYXVJT05QcndRbTVRVk94bHhoZlRPNHVpSE5XZzVRTG9uUzVmZkxQbW9qSnoxdHZ6VnRncVdTQkNWSE5tWHJuUExtdDBOeVZNU3pTeHZSUG9VWGlaOXJCQmd2RDVr?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByOXZmUXdVbWc0MEkzU3hZbE5pWHFYQTVaLWxZR1I1TzBrcVF0TFQ0OEtmNkw2aGJHTTJBX3BkVVJvci1CaUVvaFIzZHgyR0E0UWVjLU4xZXl2S3NrOUVMSXJsZDJVMmRVY1hBRVpR?oc=5"
             },
             {
                 "title": "视频丨习近平会见西班牙首相桑切斯：共同捍卫真正的多边主义 守护全球和平与发展 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-16T02:26:39.309420+00:00"
+    "last_updated": "2026-04-16T07:27:34.268815+00:00"
 }
