@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "伊朗“影子船队”遭遇美国封锁强力制衡",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558232.htm"
+            },
+            {
+                "title": "美国FCC禁令使NetGear实质获得美国家用路由器市场“临时垄断权”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558228.htm"
+            },
+            {
+                "title": "IWF警告：全球债务将升至100% 美中两国增长最快",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-15",
+                "url": "https://www.dw.com/zh/iwf%E8%AD%A6%E5%91%8A%E5%85%A8%E7%90%83%E5%80%BA%E5%8A%A1%E5%B0%86%E5%8D%87%E8%87%B3100-%E7%BE%8E%E4%B8%AD%E4%B8%A4%E5%9B%BD%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB/a-76796912"
+            },
+            {
+                "title": "氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-15",
+                "url": "https://36kr.com/p/3767970803221251"
+            },
+            {
                 "title": "39.98 万元起，小鹏首款全尺寸旗舰 SUV 车型 GX 开启预售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-15",
                 "url": "https://www.ithome.com/0/939/613.htm"
-            },
-            {
-                "title": "华尔街有一支精英咖啡品鉴团队 却苦于招不到新人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558220.htm"
-            },
-            {
-                "title": "特斯拉携手台积电与三星完成AI5芯片流片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558202.htm"
-            },
-            {
-                "title": "印度加码苹果代工：塔塔集团再砸 150 亿卢比扩产 iPhone，美国市场七成以上 iPhone 产自印度",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/572.htm"
-            },
-            {
-                "title": "无视特朗普禁令，美联邦机构偷偷测试 Anthropic 新模型 Claude Mythos",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/565.htm"
             }
         ],
         "mil": [
+            {
+                "title": "伊朗“影子船队”遭遇美国封锁强力制衡",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558232.htm"
+            },
             {
                 "title": "NASA 局长：阿耳忒弥斯 2 号任务只是美国重返月球的序幕",
                 "source": "NewsAPI / Ithome.com",
@@ -68,22 +74,16 @@
                 "url": "https://36kr.com/p/3767326268392199"
             },
             {
-                "title": "国际货币基金组织：中东危机恐引发高通胀和经济衰退",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-04-14",
-                "url": "https://www.voachinese.com/a/imf-says-middle-east-crisis-threatens-higher-inflation-economic-downturn-20260414/8137742.html"
+                "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-15",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uSnRfbENxNGxxaEN1WXE5NGhlWjNPZTZfMG9sZEM2dVFadWxncXczS29IeHFmUWQ3YkVfMVVYXzBQcDg4bzIzbS1HNWdmMWI1dWdZR2FhdDZaUXBEdEZ5R3ZXUEpUS0xWd0JB?oc=5"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-15",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TSTUxVkpYN0pHQUFsRW9GMGpPMDBaRllPLVEtNGlYeWVtMFdIYkVzdFZMVExCMmE0aFFFVWRqVjhUNEdXS1RFcGwzSVJtdldLbGpCaVFkX3ZDVno2YUp6dzJNc0doRmRMenpOcUpn?oc=5"
-            },
-            {
-                "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uSnRfbENxNGxxaEN1WXE5NGhlWjNPZTZfMG9sZEM2dVFadWxncXczS29IeHFmUWQ3YkVfMVVYXzBQcDg4bzIzbS1HNWdmMWI1dWdZR2FhdDZaUXBEdEZ5R3ZXUEpUS0xWd0JB?oc=5"
             },
             {
                 "title": "习近平会见俄罗斯外长拉夫罗夫 - mfa.gov.cn",
@@ -112,46 +112,46 @@
         ],
         "pol": [
             {
+                "title": "美国FCC禁令使NetGear实质获得美国家用路由器市场“临时垄断权”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558228.htm"
+            },
+            {
+                "title": "IWF警告：全球债务将升至100% 美中两国增长最快",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-15",
+                "url": "https://www.dw.com/zh/iwf%E8%AD%A6%E5%91%8A%E5%85%A8%E7%90%83%E5%80%BA%E5%8A%A1%E5%B0%86%E5%8D%87%E8%87%B3100-%E7%BE%8E%E4%B8%AD%E4%B8%A4%E5%9B%BD%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB/a-76796912"
+            },
+            {
+                "title": "氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-15",
+                "url": "https://36kr.com/p/3767970803221251"
+            },
+            {
+                "title": "OpenAI计划为ChatGPT广告推出新定价模式 并探索其他升级功能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558226.htm"
+            },
+            {
                 "title": "39.98 万元起，小鹏首款全尺寸旗舰 SUV 车型 GX 开启预售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-15",
                 "url": "https://www.ithome.com/0/939/613.htm"
             },
             {
-                "title": "德语媒体：习近平在欧盟中所剩无几的好友",
-                "source": "NewsAPI / DW (English)",
+                "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-15",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%AC%A7%E7%9B%9F%E4%B8%AD%E6%89%80%E5%89%A9%E6%97%A0%E5%87%A0%E7%9A%84%E5%A5%BD%E5%8F%8B/a-76791695"
-            },
-            {
-                "title": "特斯拉携手台积电与三星完成AI5芯片流片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558202.htm"
-            },
-            {
-                "title": "印度加码苹果代工：塔塔集团再砸 150 亿卢比扩产 iPhone，美国市场七成以上 iPhone 产自印度",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/572.htm"
-            },
-            {
-                "title": "美国3只比特犬街头相互打斗 好心男子上前制止惨被咬死",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558194.htm"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uSnRfbENxNGxxaEN1WXE5NGhlWjNPZTZfMG9sZEM2dVFadWxncXczS29IeHFmUWQ3YkVfMVVYXzBQcDg4bzIzbS1HNWdmMWI1dWdZR2FhdDZaUXBEdEZ5R3ZXUEpUS0xWd0JB?oc=5"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-15",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TSTUxVkpYN0pHQUFsRW9GMGpPMDBaRllPLVEtNGlYeWVtMFdIYkVzdFZMVExCMmE0aFFFVWRqVjhUNEdXS1RFcGwzSVJtdldLbGpCaVFkX3ZDVno2YUp6dzJNc0doRmRMenpOcUpn?oc=5"
-            },
-            {
-                "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uSnRfbENxNGxxaEN1WXE5NGhlWjNPZTZfMG9sZEM2dVFadWxncXczS29IeHFmUWQ3YkVfMVVYXzBQcDg4bzIzbS1HNWdmMWI1dWdZR2FhdDZaUXBEdEZ5R3ZXUEpUS0xWd0JB?oc=5"
             },
             {
                 "title": "习近平会见俄罗斯外长拉夫罗夫 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-16T13:23:54.051515+00:00"
+    "last_updated": "2026-04-16T19:08:03.752206+00:00"
 }
