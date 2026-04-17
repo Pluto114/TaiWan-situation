@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "新加坡的AI征途：孕育下一个“硅谷”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-16",
-                "url": "https://36kr.com/p/3768997634130434"
-            },
-            {
-                "title": "英特尔代工业务有望迎来苹果、AMD、Google和英伟达等大客户订单",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558364.htm"
-            },
-            {
-                "title": "中国移动eSIM绑号查询服务上线 三步查清前任绑定",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558342.htm"
-            },
-            {
-                "title": "自动驾驶技术企业 Wayve 获 AMD、Arm、高通合计 6000 万美元投资",
+                "title": "苹果：所有产品再生材料使用率升至创纪录的 30%，并已完全淘汰塑料包装",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-16",
-                "url": "https://www.ithome.com/0/939/816.htm"
+                "url": "https://www.ithome.com/0/940/069.htm"
             },
             {
-                "title": "黄仁勋：没有AI NVIDIA依然会非常非常强大 但我会很难过",
+                "title": "谁在买特斯拉Cybertruck？马斯克自己公司消化 SpaceX独占18%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558336.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558404.htm"
+            },
+            {
+                "title": "国际能源署署长：欧洲航空燃油或在6周内耗尽",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558402.htm"
+            },
+            {
+                "title": "爬取 8600 万个 Spotify 音频文件，“安娜的档案”被判赔 3.22 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-16",
+                "url": "https://www.ithome.com/0/940/063.htm"
+            },
+            {
+                "title": "神火股份：股东普天工贸拟减持不超1.30%公司股份",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-16",
+                "url": "https://36kr.com/newsflashes/3769452903416580"
             }
         ],
         "mil": [
+            {
+                "title": "微软商店 Microsoft Store 喜加一：RPG 游戏《废土重制版》PC / Xbox 版免费领",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-16",
+                "url": "https://www.ithome.com/0/940/057.htm"
+            },
+            {
+                "title": "百年诺基亚杀回来了！股价创 16 年来新高，市值逼近 600 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-16",
+                "url": "https://www.ithome.com/0/939/964.htm"
+            },
             {
                 "title": "新加坡的AI征途：孕育下一个“硅谷”",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.ithome.com/0/939/650.htm"
             },
             {
-                "title": "伊朗“影子船队”遭遇美国封锁强力制衡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558232.htm"
-            },
-            {
-                "title": "NASA 局长：阿耳忒弥斯 2 号任务只是美国重返月球的序幕",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/446.htm"
-            },
-            {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-15",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TSTUxVkpYN0pHQUFsRW9GMGpPMDBaRllPLVEtNGlYeWVtMFdIYkVzdFZMVExCMmE0aFFFVWRqVjhUNEdXS1RFcGwzSVJtdldLbGpCaVFkX3ZDVno2YUp6dzJNc0doRmRMenpOcUpn?oc=5"
             },
             {
-                "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uSnRfbENxNGxxaEN1WXE5NGhlWjNPZTZfMG9sZEM2dVFadWxncXczS29IeHFmUWQ3YkVfMVVYXzBQcDg4bzIzbS1HNWdmMWI1dWdZR2FhdDZaUXBEdEZ5R3ZXUEpUS0xWd0JB?oc=5"
-            },
-            {
-                "title": "2026年4月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅会见意大利副总理兼外长塔亚尼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MSjhxVTJZbmJVRHV6Tnl4YnJPVmZMb1Y3dnctZ0I5dU9mcFh0UFRDVmp4X2ZrTmNkNnF4eWVNc3JDdXJlSWwwMkVWcXdkZ1ZFMlZITkk0M1dxbi11dWtHVE04VmtrdEpvRGRPTFRsWkMwc2dIZHc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rVHpuSGhrYTRkU09SRnphXzYxWTdINDJWSkJYcFQ3a25zUm9iVzE4MWdEQjBiNlhyVWtmZDQ0QjhxWHNTeWFDNDNpM00yR1hLTFVEUEVuVnQ0ckx3ekFSQWE3ZFNQX18zYV8tU0p3?oc=5"
+            },
+            {
+                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明— 中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DMHExY2FtOV9OX0o1TzRpY0QxOG5uSmkxeDd2ZmRzNHVSX0FzalE5NGo1Y1Q1c29BZkZFU1dZZ3NNXzlsSC0wcW1aa3VnZDdtV0hUSjJLemtvTWNaTkxZVGFMekoyYlhqai1F?oc=5"
             },
             {
                 "title": "中国第六批赴阿卜耶伊维和直升机分队持续执行联合国空中运输任务 - 中国军网",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80RHo5NXh3bHNEbXpGUnV2U0MwOGJBUGRRNjFzQzg5Z2lrTmFQUlZqdnFkaVRpZGY5U1RkX3BfNW5LcElfZ3VIamp0NFlXam5QdW9VT0pJLWdLZ25TNnZaeA?oc=5"
             },
             {
-                "title": "【钧正平说·全民国家安全教育日】在国家安全这件大事前，没有谁是“路人甲” - 中国军网",
+                "title": "强军论坛丨以坚强党性涵养正确政绩观 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44YTZiQWdWQU5rZzRNUm9uN2xCaDQyLTB6NmdxS3EwVS1JQ3ZESXNkUjZQOVZyTmRZczlpWkhtcEduYmlDdjhKT3VOcml4VnZwX1E?oc=5"
+                "date": "2026-04-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRFBNWGhXYjhIb25aa1NrYWpKUjFrNjhua012bU9TOTJCRk1RcG9xLUxqTGZ1UDFpNmNJUV9PQXR1b05CRkJZMkVpZ3k5Y0dYMVE?oc=5"
             },
             {
-                "title": "新华时评·首季经济观察丨在扎根实体经济中释放智能经济新活力 - 中国军网",
+                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUko2eHMtc1lzNDEtQlNENzM2M3M3SEJWVFdhZ1BfNnlOZTZuLTloRm9DZi1JZVlmMkxYYTlYVUtGRUt0STBUUjhEc1lMa3FER3c?oc=5"
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWGdRRUZmd0FnR0QzTWhPVTExREtwTzhHcXRTd0hrZ2N3YVJ3TmsxU09JTjNuaXdVbjRGbGZzZWJDd2RuZ25CbTAycFotSHU3aFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "今年的博洛尼亚国际儿童书展上中国元素闪耀，有这些插画家的作品入选了",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "苹果：所有产品再生材料使用率升至创纪录的 30%，并已完全淘汰塑料包装",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-16",
-                "url": "https://www.toodaylab.com/83996"
+                "url": "https://www.ithome.com/0/940/069.htm"
             },
             {
-                "title": "英国拟加强社交平台儿童保护监管 斯塔默警告科技巨头后果“十分严峻”",
+                "title": "谁在买特斯拉Cybertruck？马斯克自己公司消化 SpaceX独占18%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558356.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558404.htm"
             },
             {
-                "title": "伊朗购买了一颗高分辨率在轨卫星 用于锁定美国中东军事目标",
+                "title": "国际能源署署长：欧洲航空燃油或在6周内耗尽",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558330.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558402.htm"
             },
             {
-                "title": "黄仁勋给NVIDIA起了一个新名字：将电子转为Token的“转换器”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中伊外长通话 王毅促霍尔姆兹海峡通行",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558322.htm"
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E4%BC%8A%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D-%E7%8E%8B%E6%AF%85%E4%BF%83%E9%9C%8D%E5%B0%94%E5%A7%86%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C/a-76810098"
             },
             {
-                "title": "一线城市房地产率先出现企稳迹象",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国致函两家中国银行：援伊交易将面临二级制裁",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-04-16",
-                "url": "https://36kr.com/p/3768928312001028"
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E8%87%B4%E5%87%BD%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E6%8F%B4%E4%BC%8A%E4%BA%A4%E6%98%93%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BA%8C%E7%BA%A7%E5%88%B6%E8%A3%81/a-76807174"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TSTUxVkpYN0pHQUFsRW9GMGpPMDBaRllPLVEtNGlYeWVtMFdIYkVzdFZMVExCMmE0aFFFVWRqVjhUNEdXS1RFcGwzSVJtdldLbGpCaVFkX3ZDVno2YUp6dzJNc0doRmRMenpOcUpn?oc=5"
             },
             {
-                "title": "习近平同苏林共同会见中越青年代表 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uSnRfbENxNGxxaEN1WXE5NGhlWjNPZTZfMG9sZEM2dVFadWxncXczS29IeHFmUWQ3YkVfMVVYXzBQcDg4bzIzbS1HNWdmMWI1dWdZR2FhdDZaUXBEdEZ5R3ZXUEpUS0xWd0JB?oc=5"
-            },
-            {
-                "title": "2026年4月16日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅会见意大利副总理兼外长塔亚尼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MSjhxVTJZbmJVRHV6Tnl4YnJPVmZMb1Y3dnctZ0I5dU9mcFh0UFRDVmp4X2ZrTmNkNnF4eWVNc3JDdXJlSWwwMkVWcXdkZ1ZFMlZITkk0M1dxbi11dWtHVE04VmtrdEpvRGRPTFRsWkMwc2dIZHc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rVHpuSGhrYTRkU09SRnphXzYxWTdINDJWSkJYcFQ3a25zUm9iVzE4MWdEQjBiNlhyVWtmZDQ0QjhxWHNTeWFDNDNpM00yR1hLTFVEUEVuVnQ0ckx3ekFSQWE3ZFNQX18zYV8tU0p3?oc=5"
+            },
+            {
+                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明— 中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DMHExY2FtOV9OX0o1TzRpY0QxOG5uSmkxeDd2ZmRzNHVSX0FzalE5NGo1Y1Q1c29BZkZFU1dZZ3NNXzlsSC0wcW1aa3VnZDdtV0hUSjJLemtvTWNaTkxZVGFMekoyYlhqai1F?oc=5"
             },
             {
                 "title": "中国第六批赴阿卜耶伊维和直升机分队持续执行联合国空中运输任务 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80RHo5NXh3bHNEbXpGUnV2U0MwOGJBUGRRNjFzQzg5Z2lrTmFQUlZqdnFkaVRpZGY5U1RkX3BfNW5LcElfZ3VIamp0NFlXam5QdW9VT0pJLWdLZ25TNnZaeA?oc=5"
             },
             {
-                "title": "【钧正平说·全民国家安全教育日】在国家安全这件大事前，没有谁是“路人甲” - 中国军网",
+                "title": "强军论坛丨以坚强党性涵养正确政绩观 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44YTZiQWdWQU5rZzRNUm9uN2xCaDQyLTB6NmdxS3EwVS1JQ3ZESXNkUjZQOVZyTmRZczlpWkhtcEduYmlDdjhKT3VOcml4VnZwX1E?oc=5"
+                "date": "2026-04-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRFBNWGhXYjhIb25aa1NrYWpKUjFrNjhua012bU9TOTJCRk1RcG9xLUxqTGZ1UDFpNmNJUV9PQXR1b05CRkJZMkVpZ3k5Y0dYMVE?oc=5"
             },
             {
-                "title": "新华时评·首季经济观察丨在扎根实体经济中释放智能经济新活力 - 中国军网",
+                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUko2eHMtc1lzNDEtQlNENzM2M3M3SEJWVFdhZ1BfNnlOZTZuLTloRm9DZi1JZVlmMkxYYTlYVUtGRUt0STBUUjhEc1lMa3FER3c?oc=5"
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWGdRRUZmd0FnR0QzTWhPVTExREtwTzhHcXRTd0hrZ2N3YVJ3TmsxU09JTjNuaXdVbjRGbGZzZWJDd2RuZ25CbTAycFotSHU3aFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-17T07:28:15.927762+00:00"
+    "last_updated": "2026-04-17T13:13:09.165234+00:00"
 }
