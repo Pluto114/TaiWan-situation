@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "两名美国公民为朝鲜运营虚假远程IT工作农场 被判合计16年监禁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558434.htm"
+            },
+            {
+                "title": "Google加强打击不良广告 AI助力封禁量创新高但账号停用减少",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558432.htm"
+            },
+            {
+                "title": "谷歌与五角大楼讨论在机密环境中部署Gemini大模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558412.htm"
+            },
+            {
+                "title": "大众、小鹏合作首款车型：中大型 SUV 与众 08 上市，起步价 22.99 万元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-16",
+                "url": "https://www.ithome.com/0/940/076.htm"
+            },
+            {
                 "title": "苹果：所有产品再生材料使用率升至创纪录的 30%，并已完全淘汰塑料包装",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-16",
                 "url": "https://www.ithome.com/0/940/069.htm"
-            },
-            {
-                "title": "谁在买特斯拉Cybertruck？马斯克自己公司消化 SpaceX独占18%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558404.htm"
-            },
-            {
-                "title": "国际能源署署长：欧洲航空燃油或在6周内耗尽",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558402.htm"
-            },
-            {
-                "title": "爬取 8600 万个 Spotify 音频文件，“安娜的档案”被判赔 3.22 亿美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-16",
-                "url": "https://www.ithome.com/0/940/063.htm"
-            },
-            {
-                "title": "神火股份：股东普天工贸拟减持不超1.30%公司股份",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-16",
-                "url": "https://36kr.com/newsflashes/3769452903416580"
             }
         ],
         "mil": [
+            {
+                "title": "海格塞斯：若伊朗在谈判中做出“不明智”选择，美国做好随时恢复军事行动的准备",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-04-16",
+                "url": "https://www.voachinese.com/a/war-secretary-hegseth-says-us-ready-to-resume-operation-should-iran-choose-poorly-in-negotiations-20260416/8138412.html"
+            },
+            {
+                "title": "谷歌与五角大楼讨论在机密环境中部署Gemini大模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558412.htm"
+            },
             {
                 "title": "微软商店 Microsoft Store 喜加一：RPG 游戏《废土重制版》PC / Xbox 版免费领",
                 "source": "NewsAPI / Ithome.com",
@@ -62,22 +74,10 @@
                 "url": "https://36kr.com/p/3768997634130434"
             },
             {
-                "title": "伊朗购买了一颗高分辨率在轨卫星 用于锁定美国中东军事目标",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558330.htm"
-            },
-            {
-                "title": "IT早报 0416：免受网页攻击苹果提醒 iPhone 用户尽快更新系统；华为稳居 Q1 中国智能手机出货量第一；微信电脑版能发语音了；格力海信就空调“真铜实料”互怼...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-15",
-                "url": "https://www.ithome.com/0/939/650.htm"
-            },
-            {
-                "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
+                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TSTUxVkpYN0pHQUFsRW9GMGpPMDBaRllPLVEtNGlYeWVtMFdIYkVzdFZMVExCMmE0aFFFVWRqVjhUNEdXS1RFcGwzSVJtdldLbGpCaVFkX3ZDVno2YUp6dzJNc0doRmRMenpOcUpn?oc=5"
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zZGRFV2swaHRVMEVQNmR0MTMwWnU4SFVjRjZKVFdNOXgyNEJLWXBDS2ZLaUZkZFlLLV83STBlZWVCU3hQbzFDRFQ5QVZMVTZMTmpXNTFiUE1zNzNSbm53ZXJoanBvdzh6WER2RkZfaGVrbklGakE?oc=5"
             },
             {
                 "title": "王毅会见意大利副总理兼外长塔亚尼 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rVHpuSGhrYTRkU09SRnphXzYxWTdINDJWSkJYcFQ3a25zUm9iVzE4MWdEQjBiNlhyVWtmZDQ0QjhxWHNTeWFDNDNpM00yR1hLTFVEUEVuVnQ0ckx3ekFSQWE3ZFNQX18zYV8tU0p3?oc=5"
             },
             {
-                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明— 中华人民共和国外交部 - mfa.gov.cn",
+                "title": "东部战区新闻发言人就日本“雷”号驱逐舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DMHExY2FtOV9OX0o1TzRpY0QxOG5uSmkxeDd2ZmRzNHVSX0FzalE5NGo1Y1Q1c29BZkZFU1dZZ3NNXzlsSC0wcW1aa3VnZDdtV0hUSjJLemtvTWNaTkxZVGFMekoyYlhqai1F?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSUJfdXZoQ2FEWWU0dEs1Sl9Gb290WmZWRF9QMExybjRva242VFJPX2VwVzVtc3ZuLU96S04xWUUwaEJDMFR0WVF4T0Q5NWE4TnBKZFpnVzg?oc=5"
             },
             {
                 "title": "中国第六批赴阿卜耶伊维和直升机分队持续执行联合国空中运输任务 - 中国军网",
@@ -104,13 +104,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRFBNWGhXYjhIb25aa1NrYWpKUjFrNjhua012bU9TOTJCRk1RcG9xLUxqTGZ1UDFpNmNJUV9PQXR1b05CRkJZMkVpZ3k5Y0dYMVE?oc=5"
             },
             {
-                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明 - 中国军网",
+                "title": "王沪宁出席第七届台胞社团论坛开幕式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWGdRRUZmd0FnR0QzTWhPVTExREtwTzhHcXRTd0hrZ2N3YVJ3TmsxU09JTjNuaXdVbjRGbGZzZWJDd2RuZ25CbTAycFotSHU3aFE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05S0lMUEFicmVmek9UdzdlOHgyUnJoMlllWFEtcFVqWTdGRk5ycVZ2U3hEVWVVS05FT0w5UVZjOGZXc2Q0WXRzN3ZPeVdrVkNvSFE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "马克龙对法国青少年喊话：“关掉手机，去读书”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558420.htm"
+            },
+            {
+                "title": "谷歌与五角大楼讨论在机密环境中部署Gemini大模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558412.htm"
+            },
             {
                 "title": "苹果：所有产品再生材料使用率升至创纪录的 30%，并已完全淘汰塑料包装",
                 "source": "NewsAPI / Ithome.com",
@@ -130,22 +142,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1558402.htm"
             },
             {
-                "title": "中伊外长通话 王毅促霍尔姆兹海峡通行",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-16",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E4%BC%8A%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D-%E7%8E%8B%E6%AF%85%E4%BF%83%E9%9C%8D%E5%B0%94%E5%A7%86%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C/a-76810098"
-            },
-            {
-                "title": "美国致函两家中国银行：援伊交易将面临二级制裁",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-16",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E8%87%B4%E5%87%BD%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E6%8F%B4%E4%BC%8A%E4%BA%A4%E6%98%93%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%BA%8C%E7%BA%A7%E5%88%B6%E8%A3%81/a-76807174"
-            },
-            {
-                "title": "王毅同伊朗外长阿拉格齐通电话 - mfa.gov.cn",
+                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TSTUxVkpYN0pHQUFsRW9GMGpPMDBaRllPLVEtNGlYeWVtMFdIYkVzdFZMVExCMmE0aFFFVWRqVjhUNEdXS1RFcGwzSVJtdldLbGpCaVFkX3ZDVno2YUp6dzJNc0doRmRMenpOcUpn?oc=5"
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zZGRFV2swaHRVMEVQNmR0MTMwWnU4SFVjRjZKVFdNOXgyNEJLWXBDS2ZLaUZkZFlLLV83STBlZWVCU3hQbzFDRFQ5QVZMVTZMTmpXNTFiUE1zNzNSbm53ZXJoanBvdzh6WER2RkZfaGVrbklGakE?oc=5"
             },
             {
                 "title": "王毅会见意大利副总理兼外长塔亚尼 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rVHpuSGhrYTRkU09SRnphXzYxWTdINDJWSkJYcFQ3a25zUm9iVzE4MWdEQjBiNlhyVWtmZDQ0QjhxWHNTeWFDNDNpM00yR1hLTFVEUEVuVnQ0ckx3ekFSQWE3ZFNQX18zYV8tU0p3?oc=5"
             },
             {
-                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明— 中华人民共和国外交部 - mfa.gov.cn",
+                "title": "东部战区新闻发言人就日本“雷”号驱逐舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DMHExY2FtOV9OX0o1TzRpY0QxOG5uSmkxeDd2ZmRzNHVSX0FzalE5NGo1Y1Q1c29BZkZFU1dZZ3NNXzlsSC0wcW1aa3VnZDdtV0hUSjJLemtvTWNaTkxZVGFMekoyYlhqai1F?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSUJfdXZoQ2FEWWU0dEs1Sl9Gb290WmZWRF9QMExybjRva242VFJPX2VwVzVtc3ZuLU96S04xWUUwaEJDMFR0WVF4T0Q5NWE4TnBKZFpnVzg?oc=5"
             },
             {
                 "title": "中国第六批赴阿卜耶伊维和直升机分队持续执行联合国空中运输任务 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRFBNWGhXYjhIb25aa1NrYWpKUjFrNjhua012bU9TOTJCRk1RcG9xLUxqTGZ1UDFpNmNJUV9PQXR1b05CRkJZMkVpZ3k5Y0dYMVE?oc=5"
             },
             {
-                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明 - 中国军网",
+                "title": "王沪宁出席第七届台胞社团论坛开幕式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWGdRRUZmd0FnR0QzTWhPVTExREtwTzhHcXRTd0hrZ2N3YVJ3TmsxU09JTjNuaXdVbjRGbGZzZWJDd2RuZ25CbTAycFotSHU3aFE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05S0lMUEFicmVmek9UdzdlOHgyUnJoMlllWFEtcFVqWTdGRk5ycVZ2U3hEVWVVS05FT0w5UVZjOGZXc2Q0WXRzN3ZPeVdrVkNvSFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-17T13:13:09.165234+00:00"
+    "last_updated": "2026-04-17T18:56:22.892957+00:00"
 }
