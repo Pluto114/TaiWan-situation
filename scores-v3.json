@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "本田将关停中国两座燃油车工厂 销量五年跌百万辆",
+                "title": "韩国总统李在明在社交平台发帖引发外交风波",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558572.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558614.htm"
             },
             {
-                "title": "深色樱桃成iPhone 18 Pro主打新色 传橙色将被全面取代",
+                "title": "中意贸易关系“再平衡”期限将至 中国贸易顺差持续扩大",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-17",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%84%8F%E8%B4%B8%E6%98%93%E5%85%B3%E7%B3%BB%E5%86%8D%E5%B9%B3%E8%A1%A1%E6%9C%9F%E9%99%90%E5%B0%86%E8%87%B3-%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E6%8C%81%E7%BB%AD%E6%89%A9%E5%A4%A7/a-76835106"
+            },
+            {
+                "title": "一件 T 恤可以拥有多大的力量？优衣库这个特别的系列给出了回答",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-17",
+                "url": "https://www.toodaylab.com/83999"
+            },
+            {
+                "title": "微软等美企施压欧盟 数据中心排放数据被“封存”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558568.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558596.htm"
             },
             {
-                "title": "袭击山姆·奥特曼事件暴露反人工智能运动的阴暗面",
+                "title": "美国财政部长称中国电车就是烧煤的车 对气候变化持消极怀疑态度",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558562.htm"
-            },
-            {
-                "title": "中兴推出星云 BE3600Pro+ 路由器：双 2.5G 网口，首发 349 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-17",
-                "url": "https://www.ithome.com/0/940/562.htm"
-            },
-            {
-                "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-17",
-                "url": "https://36kr.com/p/3770688595214857"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558582.htm"
             }
         ],
         "mil": [
+            {
+                "title": "韩国总统李在明在社交平台发帖引发外交风波",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558614.htm"
+            },
+            {
+                "title": "一件 T 恤可以拥有多大的力量？优衣库这个特别的系列给出了回答",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-17",
+                "url": "https://www.toodaylab.com/83999"
+            },
             {
                 "title": "美国众议院否决监视法案折衷提案 投票通过延期两周",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,28 +74,10 @@
                 "url": "https://36kr.com/p/3770819743728131"
             },
             {
-                "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-17",
-                "url": "https://36kr.com/p/3770699297800707"
-            },
-            {
-                "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-17",
-                "url": "https://36kr.com/p/3770651778761481"
-            },
-            {
                 "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-17",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zZGRFV2swaHRVMEVQNmR0MTMwWnU4SFVjRjZKVFdNOXgyNEJLWXBDS2ZLaUZkZFlLLV83STBlZWVCU3hQbzFDRFQ5QVZMVTZMTmpXNTFiUE1zNzNSbm53ZXJoanBvdzh6WER2RkZfaGVrbklGakE?oc=5"
-            },
-            {
-                "title": "王毅会见意大利副总理兼外长塔亚尼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rVHpuSGhrYTRkU09SRnphXzYxWTdINDJWSkJYcFQ3a25zUm9iVzE4MWdEQjBiNlhyVWtmZDQ0QjhxWHNTeWFDNDNpM00yR1hLTFVEUEVuVnQ0ckx3ekFSQWE3ZFNQX18zYV8tU0p3?oc=5"
             },
             {
                 "title": "东部战区新闻发言人就日本“雷”号驱逐舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
@@ -92,54 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSUJfdXZoQ2FEWWU0dEs1Sl9Gb290WmZWRF9QMExybjRva242VFJPX2VwVzVtc3ZuLU96S04xWUUwaEJDMFR0WVF4T0Q5NWE4TnBKZFpnVzg?oc=5"
             },
             {
+                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明— 中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DMHExY2FtOV9OX0o1TzRpY0QxOG5uSmkxeDd2ZmRzNHVSX0FzalE5NGo1Y1Q1c29BZkZFU1dZZ3NNXzlsSC0wcW1aa3VnZDdtV0hUSjJLemtvTWNaTkxZVGFMekoyYlhqai1F?oc=5"
+            },
+            {
                 "title": "强军论坛丨以坚强党性涵养正确政绩观 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRFBNWGhXYjhIb25aa1NrYWpKUjFrNjhua012bU9TOTJCRk1RcG9xLUxqTGZ1UDFpNmNJUV9PQXR1b05CRkJZMkVpZ3k5Y0dYMVE?oc=5"
             },
             {
+                "title": "“深化两岸融合发展，推进祖国统一大业”——第七届台胞社团论坛上的共同心声 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nZllSMXNqMUthUVFFRk9oWFlWbzY4ZXdlLXBadlEtVUdnaEFBeVdzclF6NVdwVHN3c0ZudjZWNkpFVWp4OHUyUFJGTU5Lb2N2amc?oc=5"
+            },
+            {
                 "title": "王沪宁出席第七届台胞社团论坛开幕式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-17",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05S0lMUEFicmVmek9UdzdlOHgyUnJoMlllWFEtcFVqWTdGRk5ycVZ2U3hEVWVVS05FT0w5UVZjOGZXc2Q0WXRzN3ZPeVdrVkNvSFE?oc=5"
-            },
-            {
-                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWGdRRUZmd0FnR0QzTWhPVTExREtwTzhHcXRTd0hrZ2N3YVJ3TmsxU09JTjNuaXdVbjRGbGZzZWJDd2RuZ25CbTAycFotSHU3aFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "WSBK荷兰站今晚开战 张雪发视频预告国产三大品牌集体出征",
+                "title": "韩国总统李在明在社交平台发帖引发外交风波",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558576.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558614.htm"
             },
             {
-                "title": "深色樱桃成iPhone 18 Pro主打新色 传橙色将被全面取代",
+                "title": "美团回应被处罚：坚决打击餐饮转单 守护外卖食品安全",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558568.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558608.htm"
             },
             {
-                "title": "袭击山姆·奥特曼事件暴露反人工智能运动的阴暗面",
+                "title": "一件 T 恤可以拥有多大的力量？优衣库这个特别的系列给出了回答",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-17",
+                "url": "https://www.toodaylab.com/83999"
+            },
+            {
+                "title": "美国考虑与伊朗达成200亿美元现金换铀协议",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558562.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558598.htm"
             },
             {
-                "title": "美国众议院否决监视法案折衷提案 投票通过延期两周",
+                "title": "微软等美企施压欧盟 数据中心排放数据被“封存”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558558.htm"
-            },
-            {
-                "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-17",
-                "url": "https://36kr.com/p/3770688595214857"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558596.htm"
             },
             {
                 "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zZGRFV2swaHRVMEVQNmR0MTMwWnU4SFVjRjZKVFdNOXgyNEJLWXBDS2ZLaUZkZFlLLV83STBlZWVCU3hQbzFDRFQ5QVZMVTZMTmpXNTFiUE1zNzNSbm53ZXJoanBvdzh6WER2RkZfaGVrbklGakE?oc=5"
             },
             {
-                "title": "王毅会见意大利副总理兼外长塔亚尼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rVHpuSGhrYTRkU09SRnphXzYxWTdINDJWSkJYcFQ3a25zUm9iVzE4MWdEQjBiNlhyVWtmZDQ0QjhxWHNTeWFDNDNpM00yR1hLTFVEUEVuVnQ0ckx3ekFSQWE3ZFNQX18zYV8tU0p3?oc=5"
-            },
-            {
                 "title": "东部战区新闻发言人就日本“雷”号驱逐舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-17",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSUJfdXZoQ2FEWWU0dEs1Sl9Gb290WmZWRF9QMExybjRva242VFJPX2VwVzVtc3ZuLU96S04xWUUwaEJDMFR0WVF4T0Q5NWE4TnBKZFpnVzg?oc=5"
+            },
+            {
+                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明— 中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DMHExY2FtOV9OX0o1TzRpY0QxOG5uSmkxeDd2ZmRzNHVSX0FzalE5NGo1Y1Q1c29BZkZFU1dZZ3NNXzlsSC0wcW1aa3VnZDdtV0hUSjJLemtvTWNaTkxZVGFMekoyYlhqai1F?oc=5"
             },
             {
                 "title": "强军论坛丨以坚强党性涵养正确政绩观 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRFBNWGhXYjhIb25aa1NrYWpKUjFrNjhua012bU9TOTJCRk1RcG9xLUxqTGZ1UDFpNmNJUV9PQXR1b05CRkJZMkVpZ3k5Y0dYMVE?oc=5"
             },
             {
+                "title": "“深化两岸融合发展，推进祖国统一大业”——第七届台胞社团论坛上的共同心声 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nZllSMXNqMUthUVFFRk9oWFlWbzY4ZXdlLXBadlEtVUdnaEFBeVdzclF6NVdwVHN3c0ZudjZWNkpFVWp4OHUyUFJGTU5Lb2N2amc?oc=5"
+            },
+            {
                 "title": "王沪宁出席第七届台胞社团论坛开幕式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-17",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05S0lMUEFicmVmek9UdzdlOHgyUnJoMlllWFEtcFVqWTdGRk5ycVZ2U3hEVWVVS05FT0w5UVZjOGZXc2Q0WXRzN3ZPeVdrVkNvSFE?oc=5"
-            },
-            {
-                "title": "中华人民共和国和越南社会主义共和国关于在新时期持续深化全面战略合作伙伴关系、推动构建更高水平具有战略意义的中越命运共同体的联合声明 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWGdRRUZmd0FnR0QzTWhPVTExREtwTzhHcXRTd0hrZ2N3YVJ3TmsxU09JTjNuaXdVbjRGbGZzZWJDd2RuZ25CbTAycFotSHU3aFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-18T12:56:29.585457+00:00"
+    "last_updated": "2026-04-18T18:43:41.330195+00:00"
 }
