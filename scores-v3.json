@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "德国将与行业代表商讨航空燃油供应问题",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558722.htm"
+            },
+            {
+                "title": "曝 Stripe 曾意图 12 亿美元收购 Airwallex 空中云汇，如今却正面交锋",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-18",
+                "url": "https://www.ithome.com/0/940/800.htm"
+            },
+            {
+                "title": "联想 ThinkPad T16 Gen 5 公布：首搭 Panther Lake 与 LPCAMM2 可升级内存",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-18",
+                "url": "https://www.ithome.com/0/940/798.htm"
+            },
+            {
                 "title": "紫光展锐将完成IPO辅导验收 市占出货量全球第四",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-18",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-18",
                 "url": "https://www.ithome.com/0/940/705.htm"
-            },
-            {
-                "title": "乌军加速部署战地机器人 人机混编以降低无人机战场对士兵风险",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558710.htm"
-            },
-            {
-                "title": "禾赛发布可识别颜色的新一代激光雷达 提升自动驾驶安全性",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558706.htm"
-            },
-            {
-                "title": "亚洲开发银行行长：货币和财政纪律是抵御重大外部冲击的最佳缓冲",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-18",
-                "url": "https://36kr.com/newsflashes/3772027429519880"
             }
         ],
         "mil": [
@@ -74,10 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1558632.htm"
             },
             {
-                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会（2026-04-17） - mfa.gov.cn",
+                "title": "东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzNrUy1GZEpkM3VaajE5aEN1eklIQUREWGVaUHZsM0NiZXI4Wm1wekdKZjBlakdzOXdORGc4OU1BZnBaVU5SeU5KWHBuZlQ0enlEWDZVdlZXd3pURFMwOGdLalZnUnRJQVEyZ2lDVHY5ejMtd3Z0TnVXQ3phblo3Z1JrSTRVN2s?oc=5"
+                "date": "2026-04-19",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRjZrRTlGdy02TllpMUF2aFljYW44SFN0YzRDZ0Fxc0NGS1VDTnREX3htX3BKcGF5NlRIRUxJd09pWTdLNFJXeXVWZ3dJSVVJdmthWTdQRmM?oc=5"
             },
             {
                 "title": "丁薛祥访问土库曼斯坦、作为习近平主席特别代表出席复兴气田四期项目开工仪式、举行中土合作委员会第七次会议 - mfa.gov.cn",
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "曝 Stripe 曾意图 12 亿美元收购 Airwallex 空中云汇，如今却正面交锋",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-18",
+                "url": "https://www.ithome.com/0/940/800.htm"
+            },
+            {
                 "title": "微软砸 200 万美元为 Edge 拉新：头奖 100 万美元现金 + 奔驰汽车",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-18",
@@ -136,16 +142,10 @@
                 "url": "https://www.ithome.com/0/940/715.htm"
             },
             {
-                "title": "向身体低头，向岁月妥协：我的高血压“还债日记”",
-                "source": "NewsAPI / Williamlong.info",
-                "date": "2026-04-18",
-                "url": "https://www.williamlong.info/archives/7542.html"
-            },
-            {
-                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会（2026-04-17） - mfa.gov.cn",
+                "title": "东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzNrUy1GZEpkM3VaajE5aEN1eklIQUREWGVaUHZsM0NiZXI4Wm1wekdKZjBlakdzOXdORGc4OU1BZnBaVU5SeU5KWHBuZlQ0enlEWDZVdlZXd3pURFMwOGdLalZnUnRJQVEyZ2lDVHY5ejMtd3Z0TnVXQ3phblo3Z1JrSTRVN2s?oc=5"
+                "date": "2026-04-19",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRjZrRTlGdy02TllpMUF2aFljYW44SFN0YzRDZ0Fxc0NGS1VDTnREX3htX3BKcGF5NlRIRUxJd09pWTdLNFJXeXVWZ3dJSVVJdmthWTdQRmM?oc=5"
             },
             {
                 "title": "丁薛祥访问土库曼斯坦、作为习近平主席特别代表出席复兴气田四期项目开工仪式、举行中土合作委员会第七次会议 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-19T12:55:54.878975+00:00"
+    "last_updated": "2026-04-19T18:43:59.346267+00:00"
 }
