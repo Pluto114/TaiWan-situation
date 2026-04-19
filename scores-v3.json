@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "国产存储双雄进入先款排产模式 拿钱排队都不一定给货",
+                "title": "紫光展锐将完成IPO辅导验收 市占出货量全球第四",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558678.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558714.htm"
             },
             {
-                "title": "NVIDIA黄仁勋：7nm工艺已经足够好 HBM也不一定需要EUV",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "OpenAI 政策主管：行业领袖面临人身攻击，AI 公司需要“把 AI 讲好”",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558672.htm"
+                "url": "https://www.ithome.com/0/940/705.htm"
             },
             {
-                "title": "OpenAI与Anthropic，是兄弟就来砍我",
+                "title": "乌军加速部署战地机器人 人机混编以降低无人机战场对士兵风险",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558652.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558710.htm"
             },
             {
-                "title": "手机市场洗牌：华为苹果笑看涨价，小米跌出前五",
+                "title": "禾赛发布可识别颜色的新一代激光雷达 提升自动驾驶安全性",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558650.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558706.htm"
             },
             {
-                "title": "欧盟拟推动航空燃油来源多元化",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "亚洲开发银行行长：货币和财政纪律是抵御重大外部冲击的最佳缓冲",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558646.htm"
+                "url": "https://36kr.com/newsflashes/3772027429519880"
             }
         ],
         "mil": [
+            {
+                "title": "乌军加速部署战地机器人 人机混编以降低无人机战场对士兵风险",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558710.htm"
+            },
             {
                 "title": "手机市场洗牌：华为苹果笑看涨价，小米跌出前五",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,28 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1558632.htm"
             },
             {
-                "title": "智元机器人，要做AI大模型平台和开放生态",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-18",
-                "url": "https://36kr.com/p/3770721219035649"
-            },
-            {
-                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zZGRFV2swaHRVMEVQNmR0MTMwWnU4SFVjRjZKVFdNOXgyNEJLWXBDS2ZLaUZkZFlLLV83STBlZWVCU3hQbzFDRFQ5QVZMVTZMTmpXNTFiUE1zNzNSbm53ZXJoanBvdzh6WER2RkZfaGVrbklGakE?oc=5"
-            },
-            {
-                "title": "- mfa.gov.cn",
+                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会（2026-04-17） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-17",
                 "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzNrUy1GZEpkM3VaajE5aEN1eklIQUREWGVaUHZsM0NiZXI4Wm1wekdKZjBlakdzOXdORGc4OU1BZnBaVU5SeU5KWHBuZlQ0enlEWDZVdlZXd3pURFMwOGdLalZnUnRJQVEyZ2lDVHY5ejMtd3Z0TnVXQ3phblo3Z1JrSTRVN2s?oc=5"
             },
             {
-                "title": "东部战区新闻发言人就日本“雷”号驱逐舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
+                "title": "丁薛祥访问土库曼斯坦、作为习近平主席特别代表出席复兴气田四期项目开工仪式、举行中土合作委员会第七次会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSUJfdXZoQ2FEWWU0dEs1Sl9Gb290WmZWRF9QMExybjRva242VFJPX2VwVzVtc3ZuLU96S04xWUUwaEJDMFR0WVF4T0Q5NWE4TnBKZFpnVzg?oc=5"
+                "date": "2026-04-18",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3pXQkZpN0lieWFrdk1RTHVoRE5TelVLRjV3cVdOZHk1Z0tHWHBBcU1LeWZmSnBqdmFQQ09UTVB0MlZWLTVjTjcxM1dmYnBtSHZxNDJuN243bXNpeHV5Y3FsU2VfTHVZeFY2TmRYU3pZaDB3NW4xR2JWdm52UU1DZ05DYmJzOW1J?oc=5"
+            },
+            {
+                "title": "习近平主席特使、全国政协副主席邵鸿出席刚果（布）总统就职典礼 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-18",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWU5VnktRm1tWFU2OW1zMHRqcjd6eGZkUFVnTVFsdkc4RDBoZTBueG5OU0FUVXNQc2lYZ2V0RjJXY2tuTmF0ZF9jU3FvVWtDRlEwZTN4eTF2cFlkWVJUaUNjUmZvX1dhdXU0Rmtfbzl2N0NhbGxLTmJ1WS1BakwxZHdPdzJrMFJX?oc=5"
             },
             {
                 "title": "各部队通过多种形式剖析安全风险 增强官兵国家安全意识 - 中国军网",
@@ -98,66 +98,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xRm1CTFpkV0Z1VnlvekR1TUdqRFFEd1M0WkoydTRIYUZrLTZQOGJhbnNHVG5TcXJ4cnJ6UXUzVGFDUjUwZWVWVklwd3gwQ0N4Vnc?oc=5"
             },
             {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
                 "title": "“深化两岸融合发展，推进祖国统一大业”——第七届台胞社团论坛上的共同心声 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-18",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nZllSMXNqMUthUVFFRk9oWFlWbzY4ZXdlLXBadlEtVUdnaEFBeVdzclF6NVdwVHN3c0ZudjZWNkpFVWp4OHUyUFJGTU5Lb2N2amc?oc=5"
-            },
-            {
-                "title": "王沪宁出席第七届台胞社团论坛开幕式 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05S0lMUEFicmVmek9UdzdlOHgyUnJoMlllWFEtcFVqWTdGRk5ycVZ2U3hEVWVVS05FT0w5UVZjOGZXc2Q0WXRzN3ZPeVdrVkNvSFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "高市政権、中国製品を排除　地方自治体が使用するIT機器は認定品のみ使用に　中国製機器が踏み台の恐れで",
-                "source": "NewsAPI / Itainews.com",
+                "title": "微软砸 200 万美元为 Edge 拉新：头奖 100 万美元现金 + 奔驰汽车",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-18",
-                "url": "https://itainews.com/archives/2061364.html"
+                "url": "https://www.ithome.com/0/940/787.htm"
             },
             {
-                "title": "FF新获4500万美元融资落地EAI战略 5月22日召开股东大会",
+                "title": "消息称佳能将推 EOS R8 Mark II 全画幅无反相机，拥有复古版",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-18",
+                "url": "https://www.ithome.com/0/940/723.htm"
+            },
+            {
+                "title": "紫光展锐将完成IPO辅导验收 市占出货量全球第四",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558656.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558714.htm"
             },
             {
-                "title": "OpenAI与Anthropic，是兄弟就来砍我",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "张雪机车 WSBK 夺冠后全球订单激增，广交会现场超 5000 客商争当代理",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558652.htm"
+                "url": "https://www.ithome.com/0/940/715.htm"
             },
             {
-                "title": "欧盟拟推动航空燃油来源多元化",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "向身体低头，向岁月妥协：我的高血压“还债日记”",
+                "source": "NewsAPI / Williamlong.info",
                 "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558646.htm"
+                "url": "https://www.williamlong.info/archives/7542.html"
             },
             {
-                "title": "特朗普称伊朗将无限期暂停核计划 德黑兰不会获得被冻结的资金",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558644.htm"
-            },
-            {
-                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zZGRFV2swaHRVMEVQNmR0MTMwWnU4SFVjRjZKVFdNOXgyNEJLWXBDS2ZLaUZkZFlLLV83STBlZWVCU3hQbzFDRFQ5QVZMVTZMTmpXNTFiUE1zNzNSbm53ZXJoanBvdzh6WER2RkZfaGVrbklGakE?oc=5"
-            },
-            {
-                "title": "- mfa.gov.cn",
+                "title": "2026年4月17日外交部发言人郭嘉昆主持例行记者会（2026-04-17） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-17",
                 "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzNrUy1GZEpkM3VaajE5aEN1eklIQUREWGVaUHZsM0NiZXI4Wm1wekdKZjBlakdzOXdORGc4OU1BZnBaVU5SeU5KWHBuZlQ0enlEWDZVdlZXd3pURFMwOGdLalZnUnRJQVEyZ2lDVHY5ejMtd3Z0TnVXQ3phblo3Z1JrSTRVN2s?oc=5"
             },
             {
-                "title": "东部战区新闻发言人就日本“雷”号驱逐舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
+                "title": "丁薛祥访问土库曼斯坦、作为习近平主席特别代表出席复兴气田四期项目开工仪式、举行中土合作委员会第七次会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSUJfdXZoQ2FEWWU0dEs1Sl9Gb290WmZWRF9QMExybjRva242VFJPX2VwVzVtc3ZuLU96S04xWUUwaEJDMFR0WVF4T0Q5NWE4TnBKZFpnVzg?oc=5"
+                "date": "2026-04-18",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3pXQkZpN0lieWFrdk1RTHVoRE5TelVLRjV3cVdOZHk1Z0tHWHBBcU1LeWZmSnBqdmFQQ09UTVB0MlZWLTVjTjcxM1dmYnBtSHZxNDJuN243bXNpeHV5Y3FsU2VfTHVZeFY2TmRYU3pZaDB3NW4xR2JWdm52UU1DZ05DYmJzOW1J?oc=5"
+            },
+            {
+                "title": "习近平主席特使、全国政协副主席邵鸿出席刚果（布）总统就职典礼 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-18",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWU5VnktRm1tWFU2OW1zMHRqcjd6eGZkUFVnTVFsdkc4RDBoZTBueG5OU0FUVXNQc2lYZ2V0RjJXY2tuTmF0ZF9jU3FvVWtDRlEwZTN4eTF2cFlkWVJUaUNjUmZvX1dhdXU0Rmtfbzl2N0NhbGxLTmJ1WS1BakwxZHdPdzJrMFJX?oc=5"
             },
             {
                 "title": "各部队通过多种形式剖析安全风险 增强官兵国家安全意识 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xRm1CTFpkV0Z1VnlvekR1TUdqRFFEd1M0WkoydTRIYUZrLTZQOGJhbnNHVG5TcXJ4cnJ6UXUzVGFDUjUwZWVWVklwd3gwQ0N4Vnc?oc=5"
             },
             {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
                 "title": "“深化两岸融合发展，推进祖国统一大业”——第七届台胞社团论坛上的共同心声 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-18",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nZllSMXNqMUthUVFFRk9oWFlWbzY4ZXdlLXBadlEtVUdnaEFBeVdzclF6NVdwVHN3c0ZudjZWNkpFVWp4OHUyUFJGTU5Lb2N2amc?oc=5"
-            },
-            {
-                "title": "王沪宁出席第七届台胞社团论坛开幕式 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05S0lMUEFicmVmek9UdzdlOHgyUnJoMlllWFEtcFVqWTdGRk5ycVZ2U3hEVWVVS05FT0w5UVZjOGZXc2Q0WXRzN3ZPeVdrVkNvSFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-19T07:15:13.895294+00:00"
+    "last_updated": "2026-04-19T12:55:54.878975+00:00"
 }
