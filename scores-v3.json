@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "谷歌正与美满电子洽谈合作 研发全新AI推理芯片",
+                "title": "苹果被曝下调 iPhone 18 规格以压缩成本",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558986.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559020.htm"
             },
             {
-                "title": "【CDT报告汇】中国劳工观察：比亚迪匈牙利工厂涉嫌强迫劳动（外二篇）",
+                "title": "NSA据称已接入Anthropic高风险AI模型Mythos",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559016.htm"
+            },
+            {
+                "title": "二湘的七维空间｜一个文学殉道者的悲剧人生，桑伟川的文字狱",
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-04-20",
-                "url": "https://chinadigitaltimes.net/chinese/?p=726647"
+                "url": "https://chinadigitaltimes.net/chinese/726681.html"
             },
             {
-                "title": "电池、芯片涨完轮胎涨 超70家轮胎企业集体发布涨价函",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558980.htm"
+                "url": "https://36kr.com/p/3775059219792648"
             },
             {
-                "title": "原油涨价致饮料瓶身成本暴涨3成 百事将率先涨价",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558976.htm"
-            },
-            {
-                "title": "台湾产业界：两岸经贸互动应排除政治影响",
+                "title": "不求顶尖 但求性价比：中国芯片为何在全球走红？",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-04-20",
-                "url": "https://www.dw.com/zh/%E5%8F%B0%E6%B9%BE%E4%BA%A7%E4%B8%9A%E7%95%8C%E4%B8%A4%E5%B2%B8%E7%BB%8F%E8%B4%B8%E4%BA%92%E5%8A%A8%E5%BA%94%E6%8E%92%E9%99%A4%E6%94%BF%E6%B2%BB%E5%BD%B1%E5%93%8D/a-76857235"
+                "url": "https://www.dw.com/zh/%E4%B8%8D%E6%B1%82%E9%A1%B6%E5%B0%96-%E4%BD%86%E6%B1%82%E6%80%A7%E4%BB%B7%E6%AF%94%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B8%BA%E4%BD%95%E5%9C%A8%E5%85%A8%E7%90%83%E8%B5%B0%E7%BA%A2/a-76864365"
             }
         ],
         "mil": [
@@ -74,6 +74,12 @@
                 "url": "https://www.ithome.com/0/940/969.htm"
             },
             {
+                "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-21",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
+            },
+            {
                 "title": "习近平同沙特王储兼首相穆罕默德通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-20",
@@ -86,31 +92,43 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSE5vRjMyUllab3pCSXVQUmlGOWJVRWNJQUgzek85QV9ubFVyWGg0UFhLXy03ZTdPTTdYX2c1VkEwemV2SFRIVEN2Ym00ZnVTNUFWd1liSkQ?oc=5"
             },
             {
-                "title": "郭嘉昆：中方向《不扩散核武器条约》第十一次审议大会提交履约国家报告 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmd4a2NpSmVMMzJKbGNudXIzZ3ZXYndlQl9QVk0ydUROamQ5NUZyNHEySGdEdnlMeTFXZlZFVnltbWJIam1vMXhUWXZyV1BOU013T0E2eEZXSE1salN2LTdVX2xFMjJaVmI0WnJWam51Um1Xc3hVcVEzWWJ4TUZOaHVrWlNWTDd1RlFRdDVQSlI?oc=5"
-            },
-            {
                 "title": "国防科技大学某大队：为学员成长画准“路线图” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTjJsTlpscTdQMFRobW91dzFvVUtCZnNCUVRvbldOTjNwMF9tM2tpLWVRQ1ctdVhuU1lPZGRVMHNGZlYtcHpXUDR2UGE2ZkVXUFE?oc=5"
             },
             {
+                "title": "视频丨习近平：将双边关系提升为新时代中莫命运共同体 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWXR5TEVzRlQtQWl1SzZSSF9QVVhTV201ZmNCYXI3RC1Eb3FXdmdDa0hUekhxYlhlV0NPV2pUM1FyLXR3ZklsUVk0SExfamMyZkE?oc=5"
+            },
+            {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "时政微周刊丨总书记的一周（4月13日—4月19日） - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndXdqRlF2X2dBUTNqWlFUbGMwREF1cXptcHlKY3NtbFBKaHJLeDMxemJ6N0lIRE5fam0zNWhpZHgzNHhnTW1wcnB3MHFwNTZXVWc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "苹果被曝下调 iPhone 18 规格以压缩成本",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559020.htm"
+            },
+            {
+                "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-20",
+                "url": "https://36kr.com/p/3775059219792648"
+            },
+            {
+                "title": "奔驰C级纯电版全球首发 车内一块巨屏横贯前排",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559004.htm"
+            },
             {
                 "title": "美国航空否决与美联航巨额合并计划 盘前股价下跌3%",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -124,22 +142,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/04/20/1098014.html"
             },
             {
-                "title": "台湾产业界：两岸经贸互动应排除政治影响",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-20",
-                "url": "https://www.dw.com/zh/%E5%8F%B0%E6%B9%BE%E4%BA%A7%E4%B8%9A%E7%95%8C%E4%B8%A4%E5%B2%B8%E7%BB%8F%E8%B4%B8%E4%BA%92%E5%8A%A8%E5%BA%94%E6%8E%92%E9%99%A4%E6%94%BF%E6%B2%BB%E5%BD%B1%E5%93%8D/a-76857235"
-            },
-            {
-                "title": "申根签证申请同比增长20%，VFS Global观察中国市场回暖｜最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-20",
-                "url": "https://36kr.com/p/3774760404894216"
-            },
-            {
-                "title": "字节跳动净利润下滑超70% AI投入猛增 海外营收创新高",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558938.htm"
+                "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-21",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
             },
             {
                 "title": "习近平同沙特王储兼首相穆罕默德通电话 - mfa.gov.cn",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSE5vRjMyUllab3pCSXVQUmlGOWJVRWNJQUgzek85QV9ubFVyWGg0UFhLXy03ZTdPTTdYX2c1VkEwemV2SFRIVEN2Ym00ZnVTNUFWd1liSkQ?oc=5"
             },
             {
-                "title": "郭嘉昆：中方向《不扩散核武器条约》第十一次审议大会提交履约国家报告 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmd4a2NpSmVMMzJKbGNudXIzZ3ZXYndlQl9QVk0ydUROamQ5NUZyNHEySGdEdnlMeTFXZlZFVnltbWJIam1vMXhUWXZyV1BOU013T0E2eEZXSE1salN2LTdVX2xFMjJaVmI0WnJWam51Um1Xc3hVcVEzWWJ4TUZOaHVrWlNWTDd1RlFRdDVQSlI?oc=5"
-            },
-            {
                 "title": "国防科技大学某大队：为学员成长画准“路线图” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTjJsTlpscTdQMFRobW91dzFvVUtCZnNCUVRvbldOTjNwMF9tM2tpLWVRQ1ctdVhuU1lPZGRVMHNGZlYtcHpXUDR2UGE2ZkVXUFE?oc=5"
             },
             {
+                "title": "视频丨习近平：将双边关系提升为新时代中莫命运共同体 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWXR5TEVzRlQtQWl1SzZSSF9QVVhTV201ZmNCYXI3RC1Eb3FXdmdDa0hUekhxYlhlV0NPV2pUM1FyLXR3ZklsUVk0SExfamMyZkE?oc=5"
+            },
+            {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "时政微周刊丨总书记的一周（4月13日—4月19日） - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndXdqRlF2X2dBUTNqWlFUbGMwREF1cXptcHlKY3NtbFBKaHJLeDMxemJ6N0lIRE5fam0zNWhpZHgzNHhnTW1wcnB3MHFwNTZXVWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-21T13:19:57.062750+00:00"
+    "last_updated": "2026-04-21T19:07:16.195772+00:00"
 }
