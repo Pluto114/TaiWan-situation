@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英特尔 Arc G3 系列掌机处理器预计 COMPUTEX 亮相，微星、壹号掌机将首批试水",
+                "title": "福特CEO透露选择试驾小米原因：特斯拉没有更新款车型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558940.htm"
+            },
+            {
+                "title": "微软“全球最强”AI 数据中心 Fairwater 提前上线，包含数十万块 GB200",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-20",
-                "url": "https://www.ithome.com/0/940/982.htm"
+                "url": "https://www.ithome.com/0/941/193.htm"
             },
             {
-                "title": "DRAM 提产速度仅能满足市场六成需求，短缺、涨价仍将持续数年",
-                "source": "NewsAPI / Ithome.com",
+                "title": "近70款车集体降价 新能源均降3.8万 车企赔本赚吆喝已成常态",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-20",
-                "url": "https://www.ithome.com/0/940/978.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558934.htm"
             },
             {
-                "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
-                "source": "NewsAPI / 36kr.com",
+                "title": "DeepSeek百亿美元估值融资传闻背后的四重逻辑判断",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-20",
-                "url": "https://36kr.com/p/3774401650656001"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558874.htm"
             },
             {
-                "title": "英调查：近三成英国年轻人选择“回巢”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-19",
-                "url": "https://36kr.com/newsflashes/3774351988310534"
-            },
-            {
-                "title": "IT早报 0420：2026 北京亦庄机器人半马开跑；曝苹果 WWDC 26 海报暗示全新 Siri 界面；微信朋友圈初代界面曝光；长城魏建军痛批魏牌团队不会营销...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-19",
-                "url": "https://www.ithome.com/0/940/969.htm"
+                "title": "美媒：联手马斯克、股价涨两倍 英特尔为何依然危险？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558868.htm"
             }
         ],
         "mil": [
             {
+                "title": "WSBK荷兰站第二回合因意外提前结束 张雪：赛车圈很干净",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558924.htm"
+            },
+            {
+                "title": "美军正用机器人在霍尔木兹海峡排雷",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558896.htm"
+            },
+            {
+                "title": "外媒热议人形机器人半马：中国在美竞争中“迈出关键一步”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558870.htm"
+            },
+            {
                 "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-20",
@@ -56,22 +74,10 @@
                 "url": "https://www.ithome.com/0/940/969.htm"
             },
             {
-                "title": "Anthropic 新模型强到打脸，美国政府顶着“国家风险”禁令也要部署 Claude Mythos",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-19",
-                "url": "https://www.ithome.com/0/940/933.htm"
-            },
-            {
-                "title": "果然，最恨AI的人，是大学毕业生",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558810.htm"
-            },
-            {
-                "title": "纽博格林24小时耐力排位赛中七车连撞 一芬兰车手不幸身亡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558782.htm"
+                "title": "习近平同沙特王储兼首相穆罕默德通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GazBXS1d3NkhqY0s0WG1OWWJ3NXNVbS1EWEhvaWJxYldZSk1pdjl5M01iX25iLWxfNFRVckFEcGd2WTA2dWhJbFVYME5VcUhoeFdxaUhpbXdiZUMtVmNCY2tZRm9DQnRoN21r?oc=5"
             },
             {
                 "title": "2026年4月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-19",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRjZrRTlGdy02TllpMUF2aFljYW44SFN0YzRDZ0Fxc0NGS1VDTnREX3htX3BKcGF5NlRIRUxJd09pWTdLNFJXeXVWZ3dJSVVJdmthWTdQRmM?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "国防科技大学某大队：为学员成长画准“路线图” - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
+                "title": "字节跳动净利润下滑超70% AI投入猛增 海外营收创新高",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558938.htm"
+            },
+            {
+                "title": "启明头条 | 连接世界级的科学与顶级的投资者，首届S2S中国研讨会创业提案第二次征集进行中",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-20",
-                "url": "https://36kr.com/p/3774502008963841"
+                "url": "https://36kr.com/p/3774783568937478"
             },
             {
-                "title": "报告称澳大利亚青少年社媒禁令上路四个月后成效不彰，对超六成用户影响有限",
-                "source": "NewsAPI / Ithome.com",
+                "title": "视频会议软件Zoom将基于虹膜验证参会人员是否为真人",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-20",
-                "url": "https://www.ithome.com/0/940/987.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558922.htm"
             },
             {
-                "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+                "title": "多平台五一订购火车票功能异常 12306风控升级拦截百万张恶意抢票",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1558914.htm"
+            },
+            {
+                "title": "地产一哥业绩“大洗澡”，舍利润稳保现金流",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-20",
-                "url": "https://36kr.com/p/3774401650656001"
+                "url": "https://36kr.com/p/3774684111634953"
             },
             {
-                "title": "奔驰“赢回中国”策略遭投资者质疑：过于强调豪华品牌定位或将适得其反",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-19",
-                "url": "https://www.ithome.com/0/940/974.htm"
-            },
-            {
-                "title": "IT早报 0420：2026 北京亦庄机器人半马开跑；曝苹果 WWDC 26 海报暗示全新 Siri 界面；微信朋友圈初代界面曝光；长城魏建军痛批魏牌团队不会营销...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-19",
-                "url": "https://www.ithome.com/0/940/969.htm"
+                "title": "习近平同沙特王储兼首相穆罕默德通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GazBXS1d3NkhqY0s0WG1OWWJ3NXNVbS1EWEhvaWJxYldZSk1pdjl5M01iX25iLWxfNFRVckFEcGd2WTA2dWhJbFVYME5VcUhoeFdxaUhpbXdiZUMtVmNCY2tZRm9DQnRoN21r?oc=5"
             },
             {
                 "title": "2026年4月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-19",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRjZrRTlGdy02TllpMUF2aFljYW44SFN0YzRDZ0Fxc0NGS1VDTnREX3htX3BKcGF5NlRIRUxJd09pWTdLNFJXeXVWZ3dJSVVJdmthWTdQRmM?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "国防科技大学某大队：为学员成长画准“路线图” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-21T02:23:58.987833+00:00"
+    "last_updated": "2026-04-21T07:45:08.718872+00:00"
 }
