@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Anthropic 新模型强到打脸，美国政府顶着“国家风险”禁令也要部署 Claude Mythos",
+                "title": "英特尔 Arc G3 系列掌机处理器预计 COMPUTEX 亮相，微星、壹号掌机将首批试水",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-20",
+                "url": "https://www.ithome.com/0/940/982.htm"
+            },
+            {
+                "title": "DRAM 提产速度仅能满足市场六成需求，短缺、涨价仍将持续数年",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-20",
+                "url": "https://www.ithome.com/0/940/978.htm"
+            },
+            {
+                "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-20",
+                "url": "https://36kr.com/p/3774401650656001"
+            },
+            {
+                "title": "英调查：近三成英国年轻人选择“回巢”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-19",
+                "url": "https://36kr.com/newsflashes/3774351988310534"
+            },
+            {
+                "title": "IT早报 0420：2026 北京亦庄机器人半马开跑；曝苹果 WWDC 26 海报暗示全新 Siri 界面；微信朋友圈初代界面曝光；长城魏建军痛批魏牌团队不会营销...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-19",
-                "url": "https://www.ithome.com/0/940/933.htm"
-            },
-            {
-                "title": "ASML：内存芯片EUV订单量首次反超",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558812.htm"
-            },
-            {
-                "title": "果然，最恨AI的人，是大学毕业生",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558810.htm"
-            },
-            {
-                "title": "包装袋断供 韩国泡面面临“裸奔”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558792.htm"
-            },
-            {
-                "title": "黄仁勋回应美国对中国禁售芯片情绪失控：太蠢了 完全是失败心态",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558780.htm"
+                "url": "https://www.ithome.com/0/940/969.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-20",
+                "url": "https://36kr.com/p/3774401650656001"
+            },
+            {
+                "title": "IT早报 0420：2026 北京亦庄机器人半马开跑；曝苹果 WWDC 26 海报暗示全新 Siri 界面；微信朋友圈初代界面曝光；长城魏建军痛批魏牌团队不会营销...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-19",
+                "url": "https://www.ithome.com/0/940/969.htm"
+            },
             {
                 "title": "Anthropic 新模型强到打脸，美国政府顶着“国家风险”禁令也要部署 Claude Mythos",
                 "source": "NewsAPI / Ithome.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1558782.htm"
             },
             {
-                "title": "黄仁勋回应美国对中国禁售芯片情绪失控：太蠢了 完全是失败心态",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558780.htm"
-            },
-            {
-                "title": "张雪机车下一站恐将遭BOP削弱 增重并限制动力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558778.htm"
+                "title": "2026年4月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WZWNmV1IzU1pTLWkxUlpSZGJla2ZaaHdmSWljUWxRZll1dWJyaTREQ2czVDBUTTdjbkNIUVVqcUh6ZUQ5SnFHemhEZ25QTDVjd0MtZzRzUVJ3bjJBWjlNeExHdS1ZRHlnM2U2Nzg1R054bmpiNFE?oc=5"
             },
             {
                 "title": "东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动 - 中华人民共和国国防部",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRjZrRTlGdy02TllpMUF2aFljYW44SFN0YzRDZ0Fxc0NGS1VDTnREX3htX3BKcGF5NlRIRUxJd09pWTdLNFJXeXVWZ3dJSVVJdmthWTdQRmM?oc=5"
             },
             {
-                "title": "郭嘉昆：中方向《不扩散核武器条约》第十一次审议大会提交履约国家报告 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmd4a2NpSmVMMzJKbGNudXIzZ3ZXYndlQl9QVk0ydUROamQ5NUZyNHEySGdEdnlMeTFXZlZFVnltbWJIam1vMXhUWXZyV1BOU013T0E2eEZXSE1salN2LTdVX2xFMjJaVmI0WnJWam51Um1Xc3hVcVEzWWJ4TUZOaHVrWlNWTDd1RlFRdDVQSlI?oc=5"
-            },
-            {
-                "title": "外交部副部长马朝旭出席联合国亚太经社会第82届年会— 中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rN25Vb1I0bXVrTVpSWExva2pPLWFTSlk5YVNlQlFYRHJmXzJjU1VwVEtETmF1eUx1bDE1c0UxOEgxYUVGc0Z4NXA1YXp4MzRjZUZhSEp3SU8zQU5Pd3JnRVl2TmpVNTczY2MtTGlNN0lXdw?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "国防科技大学某大队：为学员成长画准“路线图” - 中国军网",
@@ -104,42 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "军人家庭丨军装里的每一条褶皱，都浸着母亲的目光 - 中国军网",
+                "title": "时政微周刊丨总书记的一周（4月13日—4月19日） - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90azhZaTFVQXBDSlNSLUpmMU01cGFtZnhMcTRJRUhpX3ZPRW94OWhZdU1HZC12ZWc3MTl6eDVPVkpSWkVCc3RVMEJTQ00wbnoxV0E?oc=5"
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndXdqRlF2X2dBUTNqWlFUbGMwREF1cXptcHlKY3NtbFBKaHJLeDMxemJ6N0lIRE5fam0zNWhpZHgzNHhnTW1wcnB3MHFwNTZXVWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "谷雨：春去夏来，雨水无闲，百谷种田间",
+                "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-20",
+                "url": "https://36kr.com/p/3774502008963841"
+            },
+            {
+                "title": "报告称澳大利亚青少年社媒禁令上路四个月后成效不彰，对超六成用户影响有限",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-20",
+                "url": "https://www.ithome.com/0/940/987.htm"
+            },
+            {
+                "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-20",
+                "url": "https://36kr.com/p/3774401650656001"
+            },
+            {
+                "title": "奔驰“赢回中国”策略遭投资者质疑：过于强调豪华品牌定位或将适得其反",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-19",
-                "url": "https://www.ithome.com/0/940/960.htm"
+                "url": "https://www.ithome.com/0/940/974.htm"
             },
             {
-                "title": "Anthropic 新模型强到打脸，美国政府顶着“国家风险”禁令也要部署 Claude Mythos",
+                "title": "IT早报 0420：2026 北京亦庄机器人半马开跑；曝苹果 WWDC 26 海报暗示全新 Siri 界面；微信朋友圈初代界面曝光；长城魏建军痛批魏牌团队不会营销...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-19",
-                "url": "https://www.ithome.com/0/940/933.htm"
+                "url": "https://www.ithome.com/0/940/969.htm"
             },
             {
-                "title": "多个商旅平台订购火车票功能受限 携程等商旅关闭入口",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558822.htm"
-            },
-            {
-                "title": "ASML：内存芯片EUV订单量首次反超",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558812.htm"
-            },
-            {
-                "title": "果然，最恨AI的人，是大学毕业生",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1558810.htm"
+                "title": "2026年4月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WZWNmV1IzU1pTLWkxUlpSZGJla2ZaaHdmSWljUWxRZll1dWJyaTREQ2czVDBUTTdjbkNIUVVqcUh6ZUQ5SnFHemhEZ25QTDVjd0MtZzRzUVJ3bjJBWjlNeExHdS1ZRHlnM2U2Nzg1R054bmpiNFE?oc=5"
             },
             {
                 "title": "东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动 - 中华人民共和国国防部",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRjZrRTlGdy02TllpMUF2aFljYW44SFN0YzRDZ0Fxc0NGS1VDTnREX3htX3BKcGF5NlRIRUxJd09pWTdLNFJXeXVWZ3dJSVVJdmthWTdQRmM?oc=5"
             },
             {
-                "title": "郭嘉昆：中方向《不扩散核武器条约》第十一次审议大会提交履约国家报告 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmd4a2NpSmVMMzJKbGNudXIzZ3ZXYndlQl9QVk0ydUROamQ5NUZyNHEySGdEdnlMeTFXZlZFVnltbWJIam1vMXhUWXZyV1BOU013T0E2eEZXSE1salN2LTdVX2xFMjJaVmI0WnJWam51Um1Xc3hVcVEzWWJ4TUZOaHVrWlNWTDd1RlFRdDVQSlI?oc=5"
-            },
-            {
-                "title": "外交部副部长马朝旭出席联合国亚太经社会第82届年会— 中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rN25Vb1I0bXVrTVpSWExva2pPLWFTSlk5YVNlQlFYRHJmXzJjU1VwVEtETmF1eUx1bDE1c0UxOEgxYUVGc0Z4NXA1YXp4MzRjZUZhSEp3SU8zQU5Pd3JnRVl2TmpVNTczY2MtTGlNN0lXdw?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "国防科技大学某大队：为学员成长画准“路线图” - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "军人家庭丨军装里的每一条褶皱，都浸着母亲的目光 - 中国军网",
+                "title": "时政微周刊丨总书记的一周（4月13日—4月19日） - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90azhZaTFVQXBDSlNSLUpmMU01cGFtZnhMcTRJRUhpX3ZPRW94OWhZdU1HZC12ZWc3MTl6eDVPVkpSWkVCc3RVMEJTQ00wbnoxV0E?oc=5"
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndXdqRlF2X2dBUTNqWlFUbGMwREF1cXptcHlKY3NtbFBKaHJLeDMxemJ6N0lIRE5fam0zNWhpZHgzNHhnTW1wcnB3MHFwNTZXVWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-20T19:00:52.362772+00:00"
+    "last_updated": "2026-04-21T02:23:58.987833+00:00"
 }
