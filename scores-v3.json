@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Telegram在英面临封禁风险 监管机构依据《在线安全法》展开重大合规调查",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559192.htm"
+                "url": "https://36kr.com/p/3776741071571200"
             },
             {
-                "title": "TP-Link向FCC申请路由器禁令豁免 强调自己是美国公司",
+                "title": "特朗普称Anthropic“表现良好” 愿与五角大楼达成协议",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559190.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559204.htm"
             },
             {
-                "title": "OPPO Find X9 Ultra 旗舰手机发布：第五代骁龙 8 至尊版处理器、7050mAh 冰川电池，7499 元起",
+                "title": "欧盟900亿欧元援乌贷款障碍消除 首笔款项拟于5月底拨付",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559202.htm"
+            },
+            {
+                "title": "联合包裹与联邦快递已开始申请部分关税退款",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559200.htm"
+            },
+            {
+                "title": "美国 FBI 公布 2025 年网络犯罪报告：“投资类诈骗”最频发、AI 深度伪造钓鱼内容威胁巨大",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/820.htm"
-            },
-            {
-                "title": "古老鹦鹉羽毛揭示横贯安第斯山脉的远古贸易网络",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559188.htm"
-            },
-            {
-                "title": "高通CEO安蒙现身韩国 传考虑重新将部分订单交给三星",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559184.htm"
+                "url": "https://www.ithome.com/0/941/843.htm"
             }
         ],
         "mil": [
+            {
+                "title": "特朗普称Anthropic“表现良好” 愿与五角大楼达成协议",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559204.htm"
+            },
+            {
+                "title": "欧盟900亿欧元援乌贷款障碍消除 首笔款项拟于5月底拨付",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559202.htm"
+            },
             {
                 "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
                 "source": "NewsAPI / 36kr.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.ithome.com/0/941/672.htm"
             },
             {
-                "title": "1.25兆军购卡关 美退将：删军购商售削弱台美互通性与战力(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-21",
-                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098059.html"
-            },
-            {
-                "title": "福特CEO称在电动汽车领域将对标比亚迪 而不是特斯拉",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559052.htm"
+                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
             },
             {
                 "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
             },
             {
-                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "2026年4月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
-            },
-            {
-                "title": "王毅会见老挝常务副总理沙伦赛 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-21",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zU1E4c3BQcHUxRjJfNHpCUm1NYjJnSDM5LWdKTUJLOEZfM2JPS1FIMG5YRWVOWkpyajBoR0F6Y1dfdGgwSS1mLXRzd042R3cyU0ZDVUFHMFRuc0k2VXdJS01ZbXZYaVB6b24wU1dn?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bHpvc3p1TDU5YmR1c2ZCNGpyWmw2N0dnWUNLM2o3QWJTQ2hpYjBmRXExMkx2LTRVZ2RhS2EyZ2RrLTZKVURqUVBWMFR0clF0VHZVNE90SFdUN2stX0tTNmRTd25LRGFtd0tKdEN4a2U5LV9nM2c?oc=5"
             },
             {
                 "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "Telegram在英面临封禁风险 监管机构依据《在线安全法》展开重大合规调查",
+                "title": "德国电信据悉考虑与T-Mobile US进行全面合并",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559192.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559212.htm"
             },
             {
-                "title": "TP-Link向FCC申请路由器禁令豁免 强调自己是美国公司",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "庆祝 20 岁生日的荣威，带来了和火山引擎深度合作的“AI 原生汽车”新系列",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559190.htm"
+                "url": "https://www.toodaylab.com/84006"
             },
             {
-                "title": "古老鹦鹉羽毛揭示横贯安第斯山脉的远古贸易网络",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559188.htm"
-            },
-            {
-                "title": "高通CEO安蒙现身韩国 传考虑重新将部分订单交给三星",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559184.htm"
-            },
-            {
-                "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+                "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-21",
-                "url": "https://36kr.com/p/3776458805904129"
+                "url": "https://36kr.com/p/3776741071571200"
             },
             {
-                "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "欧盟900亿欧元援乌贷款障碍消除 首笔款项拟于5月底拨付",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559202.htm"
+            },
+            {
+                "title": "加拿大车厂拟组装中国电动车 专家：数千就业或消失(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-21",
+                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098074.html"
             },
             {
                 "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
             },
             {
-                "title": "王毅会见老挝常务副总理沙伦赛 - mfa.gov.cn",
+                "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-21",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zU1E4c3BQcHUxRjJfNHpCUm1NYjJnSDM5LWdKTUJLOEZfM2JPS1FIMG5YRWVOWkpyajBoR0F6Y1dfdGgwSS1mLXRzd042R3cyU0ZDVUFHMFRuc0k2VXdJS01ZbXZYaVB6b24wU1dn?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
+            },
+            {
+                "title": "2026年4月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bHpvc3p1TDU5YmR1c2ZCNGpyWmw2N0dnWUNLM2o3QWJTQ2hpYjBmRXExMkx2LTRVZ2RhS2EyZ2RrLTZKVURqUVBWMFR0clF0VHZVNE90SFdUN2stX0tTNmRTd25LRGFtd0tKdEN4a2U5LV9nM2c?oc=5"
             },
             {
                 "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-22T13:21:03.272648+00:00"
+    "last_updated": "2026-04-22T19:09:19.077441+00:00"
 }
