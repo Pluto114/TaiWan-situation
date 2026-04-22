@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "简析中国《产业链供应链安全规定》(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "揭秘苹果新 CEO 特努斯的上位之路：一个老好人如何走到权力顶峰",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-21",
-                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098051.html"
+                "url": "https://www.ithome.com/0/941/650.htm"
             },
             {
-                "title": "美以空袭后局势升级：中共对伊朗提供“隐形技术支援”(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "郭明錤评苹果CEO交接：特努斯凭芯片上位 对外事务仍需库克",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098050.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559142.htm"
             },
             {
-                "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "揭秘苹果新CEO的上位之路：一个老好人如何走到权力顶峰？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://36kr.com/p/3774707915440897"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559140.htm"
             },
             {
-                "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
-                "source": "NewsAPI / 36kr.com",
+                "title": "外媒热议库克卸任苹果 CEO：功在万亿市值，憾在创新不足",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-21",
-                "url": "https://36kr.com/p/3775892441301511"
+                "url": "https://www.ithome.com/0/941/639.htm"
             },
             {
-                "title": "早报｜苹果官宣新CEO，设立首席硬件官职位/华为发布大阔折叠，余承东：扛不住了也可能涨价/多平台回应12306拒绝出票",
-                "source": "NewsAPI / Ifanr.com",
+                "title": "AI内存需求暴涨 芯片厂商开足马力扩产到2027年也只能满足六成",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.ifanr.com/1662987"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559126.htm"
             }
         ],
         "mil": [
+            {
+                "title": "福特CEO称在电动汽车领域将对标比亚迪 而不是特斯拉",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559052.htm"
+            },
             {
                 "title": "美以空袭后局势升级：中共对伊朗提供“隐形技术支援”(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.ifanr.com/1662987"
             },
             {
-                "title": "今日消费资讯：蕉内在成都带来“躺平猫咖”限时空间、Eight Sleep 正式进入中国市场",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-21",
-                "url": "https://www.toodaylab.com/84004"
-            },
-            {
                 "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-21",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWXR5TEVzRlQtQWl1SzZSSF9QVVhTV201ZmNCYXI3RC1Eb3FXdmdDa0hUekhxYlhlV0NPV2pUM1FyLXR3ZklsUVk0SExfamMyZkE?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
                 "title": "李强会见莫桑比克总统查波 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Bd0hpM2QydGN2YzJGUGFfMUVxUG5KdW4wTGxHZHV2MXlnR2tyLVRfZzB6eU95eGJqMWtLTmc3ZDZLVE1Td0NJcEM0R2hVeEh1Mmc?oc=5"
+            },
+            {
+                "title": "陆军某部组织基层党组织书记集中淬火为“领头雁”砺翅强羽 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HM2VJZ3UwclRkVThBX3AzQ3B1aFhDUnB5ME5WeWNUUnNDNi1ablBXSURZNUtFMUNPbGpJVHhMYUlad1JKaTRqa04xb0RHQ200VVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美以空袭后局势升级：中共对伊朗提供“隐形技术支援”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-21",
-                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098050.html"
-            },
-            {
-                "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-21",
-                "url": "https://36kr.com/p/3774707915440897"
-            },
-            {
-                "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-21",
-                "url": "https://36kr.com/p/3775892441301511"
-            },
-            {
-                "title": "早报｜苹果官宣新CEO，设立首席硬件官职位/华为发布大阔折叠，余承东：扛不住了也可能涨价/多平台回应12306拒绝出票",
-                "source": "NewsAPI / Ifanr.com",
-                "date": "2026-04-21",
-                "url": "https://www.ifanr.com/1662987"
-            },
-            {
-                "title": "NASA 与 SpaceX 签署 1.757 亿美元火星车发射合同，白宫却要砍项目资金",
+                "title": "揭秘苹果新 CEO 特努斯的上位之路：一个老好人如何走到权力顶峰",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/417.htm"
+                "url": "https://www.ithome.com/0/941/650.htm"
+            },
+            {
+                "title": "CVE 提交量 5 年暴增 263%，美国 NIST 未来将优先分析关键漏洞",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-21",
+                "url": "https://www.ithome.com/0/941/648.htm"
+            },
+            {
+                "title": "郭明錤评苹果CEO交接：特努斯凭芯片上位 对外事务仍需库克",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559142.htm"
+            },
+            {
+                "title": "揭秘苹果新CEO的上位之路：一个老好人如何走到权力顶峰？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559140.htm"
+            },
+            {
+                "title": "外媒热议库克卸任苹果 CEO：功在万亿市值，憾在创新不足",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-21",
+                "url": "https://www.ithome.com/0/941/639.htm"
             },
             {
                 "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWXR5TEVzRlQtQWl1SzZSSF9QVVhTV201ZmNCYXI3RC1Eb3FXdmdDa0hUekhxYlhlV0NPV2pUM1FyLXR3ZklsUVk0SExfamMyZkE?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
                 "title": "李强会见莫桑比克总统查波 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Bd0hpM2QydGN2YzJGUGFfMUVxUG5KdW4wTGxHZHV2MXlnR2tyLVRfZzB6eU95eGJqMWtLTmc3ZDZLVE1Td0NJcEM0R2hVeEh1Mmc?oc=5"
+            },
+            {
+                "title": "陆军某部组织基层党组织书记集中淬火为“领头雁”砺翅强羽 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HM2VJZ3UwclRkVThBX3AzQ3B1aFhDUnB5ME5WeWNUUnNDNi1ablBXSURZNUtFMUNPbGpJVHhMYUlad1JKaTRqa04xb0RHQ200VVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-22T02:13:26.797654+00:00"
+    "last_updated": "2026-04-22T07:28:26.172859+00:00"
 }
