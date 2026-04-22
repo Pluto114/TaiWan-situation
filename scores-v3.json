@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "揭秘苹果新 CEO 特努斯的上位之路：一个老好人如何走到权力顶峰",
+                "title": "Telegram在英面临封禁风险 监管机构依据《在线安全法》展开重大合规调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559192.htm"
+            },
+            {
+                "title": "TP-Link向FCC申请路由器禁令豁免 强调自己是美国公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559190.htm"
+            },
+            {
+                "title": "OPPO Find X9 Ultra 旗舰手机发布：第五代骁龙 8 至尊版处理器、7050mAh 冰川电池，7499 元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/650.htm"
+                "url": "https://www.ithome.com/0/941/820.htm"
             },
             {
-                "title": "郭明錤评苹果CEO交接：特努斯凭芯片上位 对外事务仍需库克",
+                "title": "古老鹦鹉羽毛揭示横贯安第斯山脉的远古贸易网络",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559142.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559188.htm"
             },
             {
-                "title": "揭秘苹果新CEO的上位之路：一个老好人如何走到权力顶峰？",
+                "title": "高通CEO安蒙现身韩国 传考虑重新将部分订单交给三星",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559140.htm"
-            },
-            {
-                "title": "外媒热议库克卸任苹果 CEO：功在万亿市值，憾在创新不足",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/639.htm"
-            },
-            {
-                "title": "AI内存需求暴涨 芯片厂商开足马力扩产到2027年也只能满足六成",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559126.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559184.htm"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-21",
+                "url": "https://36kr.com/p/3776458805904129"
+            },
+            {
+                "title": "我国运-20B 首次飞出国门：挂载“荣归 50”呼号起飞赴韩，接迎第十三批志愿军烈士遗骸回国",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-21",
+                "url": "https://www.ithome.com/0/941/783.htm"
+            },
+            {
+                "title": "V社经典游戏《半衰期 2》开发趣事曝光：角色“伊莱 · 凡斯”脸模来自无名流浪汉",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-21",
+                "url": "https://www.ithome.com/0/941/672.htm"
+            },
+            {
+                "title": "1.25兆军购卡关 美退将：删军购商售削弱台美互通性与战力(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-21",
+                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098059.html"
+            },
             {
                 "title": "福特CEO称在电动汽车领域将对标比亚迪 而不是特斯拉",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,46 +74,28 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1559052.htm"
             },
             {
-                "title": "美以空袭后局势升级：中共对伊朗提供“隐形技术支援”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-21",
-                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098050.html"
-            },
-            {
-                "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-21",
-                "url": "https://36kr.com/p/3774707915440897"
-            },
-            {
-                "title": "人民海军成立 77 周年：北部战区九舰在山东青岛、辽宁大连面向公众开放，052D 驱逐舰领衔亮相",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/423.htm"
-            },
-            {
-                "title": "早报｜苹果官宣新CEO，设立首席硬件官职位/华为发布大阔折叠，余承东：扛不住了也可能涨价/多平台回应12306拒绝出票",
-                "source": "NewsAPI / Ifanr.com",
-                "date": "2026-04-21",
-                "url": "https://www.ifanr.com/1662987"
-            },
-            {
                 "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-21",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
             },
             {
-                "title": "习近平同沙特王储兼首相穆罕默德通电话 - mfa.gov.cn",
+                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GazBXS1d3NkhqY0s0WG1OWWJ3NXNVbS1EWEhvaWJxYldZSk1pdjl5M01iX25iLWxfNFRVckFEcGd2WTA2dWhJbFVYME5VcUhoeFdxaUhpbXdiZUMtVmNCY2tZRm9DQnRoN21r?oc=5"
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
             },
             {
-                "title": "中国空军运-20B赴韩接迎第十三批在韩志愿军烈士遗骸回国 - 中华人民共和国国防部",
+                "title": "王毅会见老挝常务副总理沙伦赛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSE5vRjMyUllab3pCSXVQUmlGOWJVRWNJQUgzek85QV9ubFVyWGg0UFhLXy03ZTdPTTdYX2c1VkEwemV2SFRIVEN2Ym00ZnVTNUFWd1liSkQ?oc=5"
+                "date": "2026-04-21",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zU1E4c3BQcHUxRjJfNHpCUm1NYjJnSDM5LWdKTUJLOEZfM2JPS1FIMG5YRWVOWkpyajBoR0F6Y1dfdGgwSS1mLXRzd042R3cyU0ZDVUFHMFRuc0k2VXdJS01ZbXZYaVB6b24wU1dn?oc=5"
+            },
+            {
+                "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hNmtTVDdQTng5VXcyMFFQNUpaNzRFbG9CR3JTQm8yYlJNcHdmaWNTQTNvQkdqYnFOU1ZaODFmaXpONlVzem1uQmZxYkZWeHl6Z3c?oc=5"
             },
             {
                 "title": "视频丨习近平：将双边关系提升为新时代中莫命运共同体 - 中国军网",
@@ -98,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWXR5TEVzRlQtQWl1SzZSSF9QVVhTV201ZmNCYXI3RC1Eb3FXdmdDa0hUekhxYlhlV0NPV2pUM1FyLXR3ZklsUVk0SExfamMyZkE?oc=5"
             },
             {
-                "title": "李强会见莫桑比克总统查波 - 中国军网",
+                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Bd0hpM2QydGN2YzJGUGFfMUVxUG5KdW4wTGxHZHV2MXlnR2tyLVRfZzB6eU95eGJqMWtLTmc3ZDZLVE1Td0NJcEM0R2hVeEh1Mmc?oc=5"
-            },
-            {
-                "title": "陆军某部组织基层党组织书记集中淬火为“领头雁”砺翅强羽 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HM2VJZ3UwclRkVThBX3AzQ3B1aFhDUnB5ME5WeWNUUnNDNi1ablBXSURZNUtFMUNPbGpJVHhMYUlad1JKaTRqa04xb0RHQ200VVE?oc=5"
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kZTNRaTVISXV3NHl5MmlnZDNVY1VWdzQ1cmtRSHhCcDZjOW02UndqaVY4ZWtKVDNLcFRQWXFJNm44ZFRiQjR6UEpB?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "揭秘苹果新 CEO 特努斯的上位之路：一个老好人如何走到权力顶峰",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/650.htm"
-            },
-            {
-                "title": "CVE 提交量 5 年暴增 263%，美国 NIST 未来将优先分析关键漏洞",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/648.htm"
-            },
-            {
-                "title": "郭明錤评苹果CEO交接：特努斯凭芯片上位 对外事务仍需库克",
+                "title": "Telegram在英面临封禁风险 监管机构依据《在线安全法》展开重大合规调查",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559142.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559192.htm"
             },
             {
-                "title": "揭秘苹果新CEO的上位之路：一个老好人如何走到权力顶峰？",
+                "title": "TP-Link向FCC申请路由器禁令豁免 强调自己是美国公司",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559140.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559190.htm"
             },
             {
-                "title": "外媒热议库克卸任苹果 CEO：功在万亿市值，憾在创新不足",
-                "source": "NewsAPI / Ithome.com",
+                "title": "古老鹦鹉羽毛揭示横贯安第斯山脉的远古贸易网络",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/639.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559188.htm"
+            },
+            {
+                "title": "高通CEO安蒙现身韩国 传考虑重新将部分订单交给三星",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559184.htm"
+            },
+            {
+                "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-21",
+                "url": "https://36kr.com/p/3776458805904129"
             },
             {
                 "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
@@ -148,16 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
             },
             {
-                "title": "习近平同沙特王储兼首相穆罕默德通电话 - mfa.gov.cn",
+                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GazBXS1d3NkhqY0s0WG1OWWJ3NXNVbS1EWEhvaWJxYldZSk1pdjl5M01iX25iLWxfNFRVckFEcGd2WTA2dWhJbFVYME5VcUhoeFdxaUhpbXdiZUMtVmNCY2tZRm9DQnRoN21r?oc=5"
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
             },
             {
-                "title": "中国空军运-20B赴韩接迎第十三批在韩志愿军烈士遗骸回国 - 中华人民共和国国防部",
+                "title": "王毅会见老挝常务副总理沙伦赛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSE5vRjMyUllab3pCSXVQUmlGOWJVRWNJQUgzek85QV9ubFVyWGg0UFhLXy03ZTdPTTdYX2c1VkEwemV2SFRIVEN2Ym00ZnVTNUFWd1liSkQ?oc=5"
+                "date": "2026-04-21",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zU1E4c3BQcHUxRjJfNHpCUm1NYjJnSDM5LWdKTUJLOEZfM2JPS1FIMG5YRWVOWkpyajBoR0F6Y1dfdGgwSS1mLXRzd042R3cyU0ZDVUFHMFRuc0k2VXdJS01ZbXZYaVB6b24wU1dn?oc=5"
+            },
+            {
+                "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hNmtTVDdQTng5VXcyMFFQNUpaNzRFbG9CR3JTQm8yYlJNcHdmaWNTQTNvQkdqYnFOU1ZaODFmaXpONlVzem1uQmZxYkZWeHl6Z3c?oc=5"
             },
             {
                 "title": "视频丨习近平：将双边关系提升为新时代中莫命运共同体 - 中国军网",
@@ -166,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWXR5TEVzRlQtQWl1SzZSSF9QVVhTV201ZmNCYXI3RC1Eb3FXdmdDa0hUekhxYlhlV0NPV2pUM1FyLXR3ZklsUVk0SExfamMyZkE?oc=5"
             },
             {
-                "title": "李强会见莫桑比克总统查波 - 中国军网",
+                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Bd0hpM2QydGN2YzJGUGFfMUVxUG5KdW4wTGxHZHV2MXlnR2tyLVRfZzB6eU95eGJqMWtLTmc3ZDZLVE1Td0NJcEM0R2hVeEh1Mmc?oc=5"
-            },
-            {
-                "title": "陆军某部组织基层党组织书记集中淬火为“领头雁”砺翅强羽 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HM2VJZ3UwclRkVThBX3AzQ3B1aFhDUnB5ME5WeWNUUnNDNi1ablBXSURZNUtFMUNPbGpJVHhMYUlad1JKaTRqa04xb0RHQ200VVE?oc=5"
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kZTNRaTVISXV3NHl5MmlnZDNVY1VWdzQ1cmtRSHhCcDZjOW02UndqaVY4ZWtKVDNLcFRQWXFJNm44ZFRiQjR6UEpB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-22T07:28:26.172859+00:00"
+    "last_updated": "2026-04-22T13:21:03.272648+00:00"
 }
