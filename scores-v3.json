@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-21",
-                "url": "https://36kr.com/p/3776741071571200"
-            },
-            {
-                "title": "特朗普称Anthropic“表现良好” 愿与五角大楼达成协议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559204.htm"
-            },
-            {
-                "title": "欧盟900亿欧元援乌贷款障碍消除 首笔款项拟于5月底拨付",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559202.htm"
-            },
-            {
-                "title": "联合包裹与联邦快递已开始申请部分关税退款",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559200.htm"
-            },
-            {
-                "title": "美国 FBI 公布 2025 年网络犯罪报告：“投资类诈骗”最频发、AI 深度伪造钓鱼内容威胁巨大",
+                "title": "小米 REDMI 手机：发布 4 小时，K90 Max 刷新近一年全渠道 3K-4K 新机首销纪录",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/843.htm"
+                "date": "2026-04-22",
+                "url": "https://www.ithome.com/0/941/920.htm"
+            },
+            {
+                "title": "零刻 Mate Pro 多功能扩展坞上市：USB4 v2 上下行 + 4 盘位，1059 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-22",
+                "url": "https://www.ithome.com/0/941/907.htm"
+            },
+            {
+                "title": "IPO 前先泼冷水：SpaceX 警告投资者 AI 数据中心商业上或“不可行”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-22",
+                "url": "https://www.ithome.com/0/941/899.htm"
+            },
+            {
+                "title": "vivo Y600 Pro 手机官宣 4 月 27 日发布，搭载 10200mAh 耐低温电池",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-22",
+                "url": "https://www.ithome.com/0/941/891.htm"
+            },
+            {
+                "title": "证监会主席吴清：加大力度支持北京科技创新和产业创新深度融合，推动科创板、创业板等改革在京落地见效",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-22",
+                "url": "https://36kr.com/newsflashes/3777282261043461"
             }
         ],
         "mil": [
             {
+                "title": "8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-21",
+                "url": "https://36kr.com/p/3777227930224900"
+            },
+            {
+                "title": "Meta计划监控员工鼠标键盘收集数据训练AI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559224.htm"
+            },
+            {
+                "title": "华盛顿大学团队打造摄像头耳机VueBuds 实时描述所看到的一切",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559218.htm"
+            },
+            {
                 "title": "特朗普称Anthropic“表现良好” 愿与五角大楼达成协议",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-21",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1559202.htm"
-            },
-            {
-                "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-21",
-                "url": "https://36kr.com/p/3776458805904129"
-            },
-            {
-                "title": "我国运-20B 首次飞出国门：挂载“荣归 50”呼号起飞赴韩，接迎第十三批志愿军烈士遗骸回国",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/783.htm"
-            },
-            {
-                "title": "V社经典游戏《半衰期 2》开发趣事曝光：角色“伊莱 · 凡斯”脸模来自无名流浪汉",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-21",
-                "url": "https://www.ithome.com/0/941/672.htm"
             },
             {
                 "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -80,7 +80,7 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
             },
             {
-                "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
+                "title": "国家主席特使沙伦赛（2026-04-21） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-21",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "德国电信据悉考虑与T-Mobile US进行全面合并",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559212.htm"
+                "title": "IPO 前先泼冷水：SpaceX 警告投资者 AI 数据中心商业上或“不可行”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-22",
+                "url": "https://www.ithome.com/0/941/899.htm"
             },
             {
-                "title": "庆祝 20 岁生日的荣威，带来了和火山引擎深度合作的“AI 原生汽车”新系列",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-21",
-                "url": "https://www.toodaylab.com/84006"
+                "title": "押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-22",
+                "url": "https://36kr.com/p/3774632804057607"
             },
             {
-                "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
+                "title": "8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-21",
-                "url": "https://36kr.com/p/3776741071571200"
+                "url": "https://36kr.com/p/3777227930224900"
             },
             {
-                "title": "欧盟900亿欧元援乌贷款障碍消除 首笔款项拟于5月底拨付",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 0422：余承东称华为 Pura 90 顶配不用贴膜；2999 元起 REDMI K90 Max 发布；曝下半年多家厂商推 7 英寸“超大屏”手机；爱奇艺再回应 AI 艺人库争议...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559202.htm"
+                "url": "https://www.ithome.com/0/941/867.htm"
             },
             {
-                "title": "加拿大车厂拟组装中国电动车 专家：数千就业或消失(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "苹果严管 App Store 支付：Cal AI 因违规绕开应用内购及诱导营销被下架",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-21",
-                "url": "https://www.secretchina.com/news/gb/2026/04/21/1098074.html"
+                "url": "https://www.ithome.com/0/941/863.htm"
             },
             {
                 "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,7 +148,7 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
             },
             {
-                "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛 - mfa.gov.cn",
+                "title": "国家主席特使沙伦赛（2026-04-21） - 外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-21",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3QkU1eVZzTVFzelo3OWxwOUVXbDV5THpsNE90c3R1TW1FZGd0aHdCSG9MNjNENFdHRHRONlhXaERXbVZFWmRZa2lzRGUyTmdSbTB5Q0tUWFRBaVdjMUxoaXFFSmpJRVEzdnZN?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-22T19:09:19.077441+00:00"
+    "last_updated": "2026-04-23T02:25:26.710375+00:00"
 }
