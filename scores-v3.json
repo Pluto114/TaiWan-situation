@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星员工抗议与 SK 海力士存在巨大薪资差距，威胁将长期罢工",
+                "title": "中国新规阻止脱钩 美商会对特习会“不期待重大突破”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-23",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%A7%84%E9%98%BB%E6%AD%A2%E8%84%B1%E9%92%A9-%E7%BE%8E%E5%95%86%E4%BC%9A%E5%AF%B9%E7%89%B9%E4%B9%A0%E4%BC%9A%E4%B8%8D%E6%9C%9F%E5%BE%85%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4/a-76912430"
+            },
+            {
+                "title": "Meta推出家长监督新功能 可查看青少年与Meta AI的聊天话题",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559644.htm"
+            },
+            {
+                "title": "微软Azure定价双标引发6万企业集体诉讼 索赔194亿元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559640.htm"
+            },
+            {
+                "title": "华为乾崑智驾 ADS 5 发布：首发防误打方向盘，车位到车位 3.0 版本",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/555.htm"
+                "url": "https://www.ithome.com/0/942/800.htm"
             },
             {
-                "title": "新款奔驰S级国内首发亮相 超50%部件改款焕新",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559610.htm"
-            },
-            {
-                "title": "消息称 SpaceX 计划自研自制 GPU，已将其列入重大资本开支项目",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/539.htm"
-            },
-            {
-                "title": "SpaceX计划自研GPU 警告投资者芯片供应和成本问题",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559586.htm"
-            },
-            {
-                "title": "“还债骑手”被强制下线240次：“开始我很反感过劳提醒，影响赚钱”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559584.htm"
+                "url": "https://36kr.com/p/3779369343144965"
             }
         ],
         "mil": [
+            {
+                "title": "“高德地图”涉资安疑虑 台湾政府全面禁用(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-23",
+                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098156.html"
+            },
+            {
+                "title": "创·问｜炜璨医疗李强：从理解规则，到建立规则——重塑植入式给药路径",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-23",
+                "url": "https://36kr.com/p/3779145497515269"
+            },
             {
                 "title": "卢特尼克称NVIDIA至今未能向中国出售H200芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,84 +74,72 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1559502.htm"
             },
             {
-                "title": "历时 215 天，蔚来全新 ES8 完成 10 万台交付里程碑",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/461.htm"
-            },
-            {
-                "title": "美以联合打击伊朗后 中国对伊朗的多线支持(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-23",
-                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098136.html"
-            },
-            {
                 "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-23",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1E2OGJIMDFVWVl3aDlES20xRW1fUUhQTE9qS3FPWG5la2RDYk9xRUlRSTE4VTlLNU1hU1BUYWQ3RlNidUd6TU00dXdhQmRXVUFGZ1l2bmtGWk9pQzBTZFF0SHBYTlJtY2RNaXlUSzEyd3pla3c?oc=5"
             },
             {
-                "title": "2026年4月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "学习手记丨全面建成世界一流海军 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bHpvc3p1TDU5YmR1c2ZCNGpyWmw2N0dnWUNLM2o3QWJTQ2hpYjBmRXExMkx2LTRVZ2RhS2EyZ2RrLTZKVURqUVBWMFR0clF0VHZVNE90SFdUN2stX0tTNmRTd25LRGFtd0tKdEN4a2U5LV9nM2c?oc=5"
+                "date": "2026-04-23",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TeGlKdGY2M2Y1azVaNmpET25rNGdnenVoSXFQTDZaTEpYa1hhbkJpenVqT2czUE5mZTFhcmcxTjdWajQxVmgtRm9xOVBXLXRiX2FVRHBtdWNiS2tfSnB6OGlheEViQQ?oc=5"
             },
             {
-                "title": "郭嘉昆：“台独”势力的分裂图谋只是螳臂当车，必将自取灭亡 - mfa.gov.cn",
+                "title": "郭嘉昆：全球发展倡议提出5周年成果丰硕 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTVBSnM5UXJ6Z2t5T1FTVEtiRUlYakpUZVJTa2FqNDhtZzJQU0c1QWtBdDNoTWtmRGVwVTMxRy1Sak9FRklDWExJa3NGa2xfeUY5dVYwbTlVQ0FhU1pCQURBTldpVU1hUm43RlEzbElWQTYwcUZaRFB6cUhaSXNBYXEzZFdRZFg5b3VN?oc=5"
+                "date": "2026-04-23",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0F3NVc0Z0VRMUEzc21qSDdSanVZN3VEYzJ0YnhpUDFFd2ZLUURQWEdtSXRPa09Ja2NkRVZrZWpHbW1PekhuNkpRbklUMjQ0RWVvbVhxZ2pOaWJhYVdsU1FWYnQyUC1ZUDU3VDEzRGFpdy1FWHpfV3ZpM21oU2Y3SzJUQWxQdnphQkJKQmhLY0s?oc=5"
             },
             {
-                "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
+                "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hNmtTVDdQTng5VXcyMFFQNUpaNzRFbG9CR3JTQm8yYlJNcHdmaWNTQTNvQkdqYnFOU1ZaODFmaXpONlVzem1uQmZxYkZWeHl6Z3c?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcERZRXdwbGlyYzlEbFFCLVlxM1RUR3RtRm1tQmZ3VjkzdjVJQTlvd1hKOW9XekNTMlFmQUxPdGROb2pvRDBjY1JMalFZVWZoMXc?oc=5"
+            },
+            {
+                "title": "H-6 bombers set out for training - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTm91R2xpTzZkRnlUb29NOFdTVEJuRUpyLTJFM1BDWjJiSHQxX2c1XzhnSTRTYkdnUTdaald6MHJtZGF6cUcwcjc2cnh4OXZQSUtHS3d1TTc2VUh6U2c?oc=5"
             },
             {
                 "title": "直播：人民海军成立77周年·云端看“舰” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-23",
                 "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xRGR3LWdubUZibG1oRi1jSWI5Q214dVVUaFYzbm83bnp5REt4SkhjQ0tXMXZCZDZrUk9hdC1jMkZNcmQzaXFj?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "SpaceX计划自研GPU 警告投资者芯片供应和成本问题",
+                "title": "土耳其议会通过法案 限制15岁以下未成年人使用社交媒体",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559586.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559648.htm"
             },
             {
-                "title": "“还债骑手”被强制下线240次：“开始我很反感过劳提醒，影响赚钱”",
+                "title": "Meta推出家长监督新功能 可查看青少年与Meta AI的聊天话题",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559584.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559644.htm"
             },
             {
-                "title": "卢特尼克称NVIDIA至今未能向中国出售H200芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "华为乾崑鸿蒙座舱 HarmonySpace 6 发布，小艺智能体能边聊边开车",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559582.htm"
+                "url": "https://www.ithome.com/0/942/801.htm"
             },
             {
-                "title": "赖清德出访受阻 谢金河警告“台湾若非国家财富恐瞬间归零”(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-23",
-                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098144.html"
+                "url": "https://36kr.com/p/3779369343144965"
             },
             {
-                "title": "特斯拉承认数百万车主需硬件升级才能实现“完全自动驾驶”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559574.htm"
+                "url": "https://36kr.com/p/3774776226923272"
             },
             {
                 "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,37 +148,37 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1E2OGJIMDFVWVl3aDlES20xRW1fUUhQTE9qS3FPWG5la2RDYk9xRUlRSTE4VTlLNU1hU1BUYWQ3RlNidUd6TU00dXdhQmRXVUFGZ1l2bmtGWk9pQzBTZFF0SHBYTlJtY2RNaXlUSzEyd3pla3c?oc=5"
             },
             {
-                "title": "2026年4月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "学习手记丨全面建成世界一流海军 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bHpvc3p1TDU5YmR1c2ZCNGpyWmw2N0dnWUNLM2o3QWJTQ2hpYjBmRXExMkx2LTRVZ2RhS2EyZ2RrLTZKVURqUVBWMFR0clF0VHZVNE90SFdUN2stX0tTNmRTd25LRGFtd0tKdEN4a2U5LV9nM2c?oc=5"
+                "date": "2026-04-23",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TeGlKdGY2M2Y1azVaNmpET25rNGdnenVoSXFQTDZaTEpYa1hhbkJpenVqT2czUE5mZTFhcmcxTjdWajQxVmgtRm9xOVBXLXRiX2FVRHBtdWNiS2tfSnB6OGlheEViQQ?oc=5"
             },
             {
-                "title": "郭嘉昆：“台独”势力的分裂图谋只是螳臂当车，必将自取灭亡 - mfa.gov.cn",
+                "title": "郭嘉昆：全球发展倡议提出5周年成果丰硕 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTVBSnM5UXJ6Z2t5T1FTVEtiRUlYakpUZVJTa2FqNDhtZzJQU0c1QWtBdDNoTWtmRGVwVTMxRy1Sak9FRklDWExJa3NGa2xfeUY5dVYwbTlVQ0FhU1pCQURBTldpVU1hUm43RlEzbElWQTYwcUZaRFB6cUhaSXNBYXEzZFdRZFg5b3VN?oc=5"
+                "date": "2026-04-23",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0F3NVc0Z0VRMUEzc21qSDdSanVZN3VEYzJ0YnhpUDFFd2ZLUURQWEdtSXRPa09Ja2NkRVZrZWpHbW1PekhuNkpRbklUMjQ0RWVvbVhxZ2pOaWJhYVdsU1FWYnQyUC1ZUDU3VDEzRGFpdy1FWHpfV3ZpM21oU2Y3SzJUQWxQdnphQkJKQmhLY0s?oc=5"
             },
             {
-                "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
+                "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hNmtTVDdQTng5VXcyMFFQNUpaNzRFbG9CR3JTQm8yYlJNcHdmaWNTQTNvQkdqYnFOU1ZaODFmaXpONlVzem1uQmZxYkZWeHl6Z3c?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcERZRXdwbGlyYzlEbFFCLVlxM1RUR3RtRm1tQmZ3VjkzdjVJQTlvd1hKOW9XekNTMlFmQUxPdGROb2pvRDBjY1JMalFZVWZoMXc?oc=5"
+            },
+            {
+                "title": "H-6 bombers set out for training - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTm91R2xpTzZkRnlUb29NOFdTVEJuRUpyLTJFM1BDWjJiSHQxX2c1XzhnSTRTYkdnUTdaald6MHJtZGF6cUcwcjc2cnh4OXZQSUtHS3d1TTc2VUh6U2c?oc=5"
             },
             {
                 "title": "直播：人民海军成立77周年·云端看“舰” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-23",
                 "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xRGR3LWdubUZibG1oRi1jSWI5Q214dVVUaFYzbm83bnp5REt4SkhjQ0tXMXZCZDZrUk9hdC1jMkZNcmQzaXFj?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-24T07:58:32.919484+00:00"
+    "last_updated": "2026-04-24T13:17:52.391249+00:00"
 }
