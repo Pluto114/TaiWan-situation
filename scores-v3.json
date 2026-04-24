@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "象帝先启动上市准备：已完成天钧一号等 GPU 芯片量产",
+                "title": "三星员工抗议与 SK 海力士存在巨大薪资差距，威胁将长期罢工",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/397.htm"
+                "url": "https://www.ithome.com/0/942/555.htm"
             },
             {
-                "title": "马斯克承认特斯拉 HW3 无法做到无监督 FSD，将建“迷你工厂”协助升级硬件",
+                "title": "新款奔驰S级国内首发亮相 超50%部件改款焕新",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559610.htm"
+            },
+            {
+                "title": "消息称 SpaceX 计划自研自制 GPU，已将其列入重大资本开支项目",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/394.htm"
+                "url": "https://www.ithome.com/0/942/539.htm"
             },
             {
-                "title": "美以联合打击伊朗后 中国对伊朗的多线支持(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "SpaceX计划自研GPU 警告投资者芯片供应和成本问题",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098136.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559586.htm"
             },
             {
-                "title": "特斯拉 2026 年第一季度营收 224 亿美元，同比增长 16%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "“还债骑手”被强制下线240次：“开始我很反感过劳提醒，影响赚钱”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/386.htm"
-            },
-            {
-                "title": "外媒概览 iPhone / iPad 全球供应链，苹果主力组装线迁回美国不现实",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/372.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559584.htm"
             }
         ],
         "mil": [
             {
+                "title": "卢特尼克称NVIDIA至今未能向中国出售H200芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559582.htm"
+            },
+            {
+                "title": "韩国战机空中相撞原因公布 飞行员掏出手机拍照",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559530.htm"
+            },
+            {
+                "title": "特斯拉2026一季度财报：交付量超35.8万辆 同比增长6.5%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559502.htm"
+            },
+            {
+                "title": "历时 215 天，蔚来全新 ES8 完成 10 万台交付里程碑",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-23",
+                "url": "https://www.ithome.com/0/942/461.htm"
+            },
+            {
                 "title": "美以联合打击伊朗后 中国对伊朗的多线支持(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-04-23",
                 "url": "https://www.secretchina.com/news/gb/2026/04/23/1098136.html"
-            },
-            {
-                "title": "特斯拉 2026 年第一季度营收 224 亿美元，同比增长 16%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/386.htm"
-            },
-            {
-                "title": "美海军部长费伦无预警下台 国防高层再洗牌(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-23",
-                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098130.html"
-            },
-            {
-                "title": "8点1氪丨张雪机车发布召回通告；哪吒汽车创始人已被列为“老赖”；英国新法案规定08后终身不得购烟",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-23",
-                "url": "https://36kr.com/p/3778660962505989"
-            },
-            {
-                "title": "21天内爆发？当人心刚硬，灾难临近",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-23",
-                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098129.html"
-            },
-            {
-                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
             },
             {
                 "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bHpvc3p1TDU5YmR1c2ZCNGpyWmw2N0dnWUNLM2o3QWJTQ2hpYjBmRXExMkx2LTRVZ2RhS2EyZ2RrLTZKVURqUVBWMFR0clF0VHZVNE90SFdUN2stX0tTNmRTd25LRGFtd0tKdEN4a2U5LV9nM2c?oc=5"
             },
             {
+                "title": "郭嘉昆：“台独”势力的分裂图谋只是螳臂当车，必将自取灭亡 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTVBSnM5UXJ6Z2t5T1FTVEtiRUlYakpUZVJTa2FqNDhtZzJQU0c1QWtBdDNoTWtmRGVwVTMxRy1Sak9FRklDWExJa3NGa2xfeUY5dVYwbTlVQ0FhU1pCQURBTldpVU1hUm43RlEzbElWQTYwcUZaRFB6cUhaSXNBYXEzZFdRZFg5b3VN?oc=5"
+            },
+            {
                 "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hNmtTVDdQTng5VXcyMFFQNUpaNzRFbG9CR3JTQm8yYlJNcHdmaWNTQTNvQkdqYnFOU1ZaODFmaXpONlVzem1uQmZxYkZWeHl6Z3c?oc=5"
             },
             {
-                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kZTNRaTVISXV3NHl5MmlnZDNVY1VWdzQ1cmtRSHhCcDZjOW02UndqaVY4ZWtKVDNLcFRQWXFJNm44ZFRiQjR6UEpB?oc=5"
-            },
-            {
                 "title": "直播：人民海军成立77周年·云端看“舰” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-23",
                 "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xRGR3LWdubUZibG1oRi1jSWI5Q214dVVUaFYzbm83bnp5REt4SkhjQ0tXMXZCZDZrUk9hdC1jMkZNcmQzaXFj?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "象帝先启动上市准备：已完成天钧一号等 GPU 芯片量产",
-                "source": "NewsAPI / Ithome.com",
+                "title": "SpaceX计划自研GPU 警告投资者芯片供应和成本问题",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/397.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559586.htm"
             },
             {
-                "title": "美以联合打击伊朗后 中国对伊朗的多线支持(图)",
+                "title": "“还债骑手”被强制下线240次：“开始我很反感过劳提醒，影响赚钱”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559584.htm"
+            },
+            {
+                "title": "卢特尼克称NVIDIA至今未能向中国出售H200芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559582.htm"
+            },
+            {
+                "title": "赖清德出访受阻 谢金河警告“台湾若非国家财富恐瞬间归零”(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-04-23",
-                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098136.html"
+                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098144.html"
             },
             {
-                "title": "特斯拉 2026 年第一季度营收 224 亿美元，同比增长 16%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特斯拉承认数百万车主需硬件升级才能实现“完全自动驾驶”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/386.htm"
-            },
-            {
-                "title": "TCL 华星供屏小米 REDMI K90 Max 等新品，支持 1nit 超低亮度",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/381.htm"
-            },
-            {
-                "title": "一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-23",
-                "url": "https://36kr.com/p/3778121523025154"
-            },
-            {
-                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41QjUydW1tbTRLbFozNGtGTVY2TWN4azBKclNZZnlQemVzREhoV0pxckpyNFVNRzZ0TC1LdTlpR2VDNW8yZlUyaWUyamx6c1dadEtoR0JNUDI1d3pVYm8xU0J3TTdKNzFuajlScWJhemJDdjU5Mmc?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559574.htm"
             },
             {
                 "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bHpvc3p1TDU5YmR1c2ZCNGpyWmw2N0dnWUNLM2o3QWJTQ2hpYjBmRXExMkx2LTRVZ2RhS2EyZ2RrLTZKVURqUVBWMFR0clF0VHZVNE90SFdUN2stX0tTNmRTd25LRGFtd0tKdEN4a2U5LV9nM2c?oc=5"
             },
             {
+                "title": "郭嘉昆：“台独”势力的分裂图谋只是螳臂当车，必将自取灭亡 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-22",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTVBSnM5UXJ6Z2t5T1FTVEtiRUlYakpUZVJTa2FqNDhtZzJQU0c1QWtBdDNoTWtmRGVwVTMxRy1Sak9FRklDWExJa3NGa2xfeUY5dVYwbTlVQ0FhU1pCQURBTldpVU1hUm43RlEzbElWQTYwcUZaRFB6cUhaSXNBYXEzZFdRZFg5b3VN?oc=5"
+            },
+            {
                 "title": "中共中央办公厅 国务院办公厅关于更高水平更高质量做好节能降碳工作的意见 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hNmtTVDdQTng5VXcyMFFQNUpaNzRFbG9CR3JTQm8yYlJNcHdmaWNTQTNvQkdqYnFOU1ZaODFmaXpONlVzem1uQmZxYkZWeHl6Z3c?oc=5"
             },
             {
-                "title": "外交部发言人就台湾当局宣称赖清德“暂缓”窜访斯威士兰答记者问 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-22",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kZTNRaTVISXV3NHl5MmlnZDNVY1VWdzQ1cmtRSHhCcDZjOW02UndqaVY4ZWtKVDNLcFRQWXFJNm44ZFRiQjR6UEpB?oc=5"
-            },
-            {
                 "title": "直播：人民海军成立77周年·云端看“舰” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-23",
                 "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xRGR3LWdubUZibG1oRi1jSWI5Q214dVVUaFYzbm83bnp5REt4SkhjQ0tXMXZCZDZrUk9hdC1jMkZNcmQzaXFj?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-24T02:26:12.083377+00:00"
+    "last_updated": "2026-04-24T07:58:32.919484+00:00"
 }
