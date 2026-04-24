@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国新规阻止脱钩 美商会对特习会“不期待重大突破”",
-                "source": "NewsAPI / DW (English)",
+                "title": "中国美国商会白皮书：在华美企仍看重中国市场，但忧虑经济放缓与政策不确定性",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-04-23",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%A7%84%E9%98%BB%E6%AD%A2%E8%84%B1%E9%92%A9-%E7%BE%8E%E5%95%86%E4%BC%9A%E5%AF%B9%E7%89%B9%E4%B9%A0%E4%BC%9A%E4%B8%8D%E6%9C%9F%E5%BE%85%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4/a-76912430"
+                "url": "https://www.voachinese.com/a/amcham-china-white-paper-companies-still-value-the-chinese-market-but-are-concerned-about-economic-slowdown-and-policy-uncertainty-20260423/8141726.html"
             },
             {
-                "title": "Meta推出家长监督新功能 可查看青少年与Meta AI的聊天话题",
+                "title": "苹果入门级全家桶价格首次低于一台高端MacBook Pro",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559644.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559674.htm"
             },
             {
-                "title": "微软Azure定价双标引发6万企业集体诉讼 索赔194亿元",
+                "title": "微软首次推出自愿离职买断计划 覆盖美国至多7%员工",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559640.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559672.htm"
             },
             {
-                "title": "华为乾崑智驾 ADS 5 发布：首发防误打方向盘，车位到车位 3.0 版本",
+                "title": "三星劳资紧张升级 或加剧全球存储芯片供应吃紧现状",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559658.htm"
+            },
+            {
+                "title": "马斯克 560 亿美元薪酬恢复后，特斯拉撤销其 290 亿美元临时薪酬方案",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/800.htm"
-            },
-            {
-                "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-23",
-                "url": "https://36kr.com/p/3779369343144965"
+                "url": "https://www.ithome.com/0/942/832.htm"
             }
         ],
         "mil": [
+            {
+                "title": "一名中国公民承认非法拍摄美空军基地及重要军事装备",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-04-23",
+                "url": "https://www.voachinese.com/a/chinese-national-pleads-guilty-to-photographing-military-base-20260423/8141737.html"
+            },
+            {
+                "title": "John Ternus 成为库克之后的新任 CEO，苹果选择了一条硬件导向的未来之路",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-23",
+                "url": "https://www.toodaylab.com/84010"
+            },
+            {
+                "title": "小米：「小米汽车北京国际车展专场发布会」将公布 YU7 相关最新信息",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-23",
+                "url": "https://www.ithome.com/0/942/827.htm"
+            },
             {
                 "title": "“高德地图”涉资安疑虑 台湾政府全面禁用(组图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,40 +74,22 @@
                 "url": "https://36kr.com/p/3779145497515269"
             },
             {
-                "title": "卢特尼克称NVIDIA至今未能向中国出售H200芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559582.htm"
-            },
-            {
-                "title": "韩国战机空中相撞原因公布 飞行员掏出手机拍照",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559530.htm"
-            },
-            {
-                "title": "特斯拉2026一季度财报：交付量超35.8万辆 同比增长6.5%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559502.htm"
-            },
-            {
                 "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-23",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1E2OGJIMDFVWVl3aDlES20xRW1fUUhQTE9qS3FPWG5la2RDYk9xRUlRSTE4VTlLNU1hU1BUYWQ3RlNidUd6TU00dXdhQmRXVUFGZ1l2bmtGWk9pQzBTZFF0SHBYTlJtY2RNaXlUSzEyd3pla3c?oc=5"
             },
             {
-                "title": "学习手记丨全面建成世界一流海军 - 中华人民共和国国防部",
+                "title": "郭嘉昆：日本“新型军国主义”成势为患，构成现实威胁 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TeGlKdGY2M2Y1azVaNmpET25rNGdnenVoSXFQTDZaTEpYa1hhbkJpenVqT2czUE5mZTFhcmcxTjdWajQxVmgtRm9xOVBXLXRiX2FVRHBtdWNiS2tfSnB6OGlheEViQQ?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWC1TRTRXRDZxaGhiN3RGbnQtZDd3Qm1WTERuV0dSVVVvTmpfdy1HMHk3Q2ZpdUhVVloyanVnNG1fWFJrUi1ZR3MyeE9aYXJxWmJSN3hUMFJINDNGYXRlc2tsQlgyNzB0MnhVZU1nZElvRVJBcjFCNFlDazF5d2E2eW9QdWZ6MjF2OXZmM1Y0UFY?oc=5"
             },
             {
-                "title": "郭嘉昆：全球发展倡议提出5周年成果丰硕 - mfa.gov.cn",
+                "title": "驻非盟使团团长蒋烽大使与非盟委员会共同举办第一届中非企业家高端论坛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0F3NVc0Z0VRMUEzc21qSDdSanVZN3VEYzJ0YnhpUDFFd2ZLUURQWEdtSXRPa09Ja2NkRVZrZWpHbW1PekhuNkpRbklUMjQ0RWVvbVhxZ2pOaWJhYVdsU1FWYnQyUC1ZUDU3VDEzRGFpdy1FWHpfV3ZpM21oU2Y3SzJUQWxQdnphQkJKQmhLY0s?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3hKUkcwN2w3U2RpbWd1NmhFaXdtTFQzX2tXZ1lVTXE1SW9ObmFXRWc0V0lZdWpibFdHX0pOQ3htR2ZyaUx0LURJMkdsd0F0RXZscVpCb1ZmQ0Zoc3d5UzFmNTNIanNUMllkeFhIT0NrdENZOXZTS3BmRGFhREJVU0RKMGc?oc=5"
             },
             {
                 "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "马斯克 560 亿美元薪酬恢复后，特斯拉撤销其 290 亿美元临时薪酬方案",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-23",
+                "url": "https://www.ithome.com/0/942/832.htm"
+            },
+            {
+                "title": "John Ternus 成为库克之后的新任 CEO，苹果选择了一条硬件导向的未来之路",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-23",
+                "url": "https://www.toodaylab.com/84010"
+            },
+            {
+                "title": "美佛州州长签署法案 禁地方政府推行DEI政策(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-23",
+                "url": "https://www.secretchina.com/news/gb/2026/04/23/1098169.html"
+            },
+            {
+                "title": "美国百年太妃糖易手，Roca乐家被全资收购",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-23",
+                "url": "https://36kr.com/p/3779468716938499"
+            },
+            {
                 "title": "土耳其议会通过法案 限制15岁以下未成年人使用社交媒体",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-23",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1559648.htm"
-            },
-            {
-                "title": "Meta推出家长监督新功能 可查看青少年与Meta AI的聊天话题",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559644.htm"
-            },
-            {
-                "title": "华为乾崑鸿蒙座舱 HarmonySpace 6 发布，小艺智能体能边聊边开车",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-23",
-                "url": "https://www.ithome.com/0/942/801.htm"
-            },
-            {
-                "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-23",
-                "url": "https://36kr.com/p/3779369343144965"
-            },
-            {
-                "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-23",
-                "url": "https://36kr.com/p/3774776226923272"
             },
             {
                 "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1E2OGJIMDFVWVl3aDlES20xRW1fUUhQTE9qS3FPWG5la2RDYk9xRUlRSTE4VTlLNU1hU1BUYWQ3RlNidUd6TU00dXdhQmRXVUFGZ1l2bmtGWk9pQzBTZFF0SHBYTlJtY2RNaXlUSzEyd3pla3c?oc=5"
             },
             {
-                "title": "学习手记丨全面建成世界一流海军 - 中华人民共和国国防部",
+                "title": "郭嘉昆：日本“新型军国主义”成势为患，构成现实威胁 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TeGlKdGY2M2Y1azVaNmpET25rNGdnenVoSXFQTDZaTEpYa1hhbkJpenVqT2czUE5mZTFhcmcxTjdWajQxVmgtRm9xOVBXLXRiX2FVRHBtdWNiS2tfSnB6OGlheEViQQ?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWC1TRTRXRDZxaGhiN3RGbnQtZDd3Qm1WTERuV0dSVVVvTmpfdy1HMHk3Q2ZpdUhVVloyanVnNG1fWFJrUi1ZR3MyeE9aYXJxWmJSN3hUMFJINDNGYXRlc2tsQlgyNzB0MnhVZU1nZElvRVJBcjFCNFlDazF5d2E2eW9QdWZ6MjF2OXZmM1Y0UFY?oc=5"
             },
             {
-                "title": "郭嘉昆：全球发展倡议提出5周年成果丰硕 - mfa.gov.cn",
+                "title": "驻非盟使团团长蒋烽大使与非盟委员会共同举办第一届中非企业家高端论坛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0F3NVc0Z0VRMUEzc21qSDdSanVZN3VEYzJ0YnhpUDFFd2ZLUURQWEdtSXRPa09Ja2NkRVZrZWpHbW1PekhuNkpRbklUMjQ0RWVvbVhxZ2pOaWJhYVdsU1FWYnQyUC1ZUDU3VDEzRGFpdy1FWHpfV3ZpM21oU2Y3SzJUQWxQdnphQkJKQmhLY0s?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3hKUkcwN2w3U2RpbWd1NmhFaXdtTFQzX2tXZ1lVTXE1SW9ObmFXRWc0V0lZdWpibFdHX0pOQ3htR2ZyaUx0LURJMkdsd0F0RXZscVpCb1ZmQ0Zoc3d5UzFmNTNIanNUMllkeFhIT0NrdENZOXZTS3BmRGFhREJVU0RKMGc?oc=5"
             },
             {
                 "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-24T13:17:52.391249+00:00"
+    "last_updated": "2026-04-24T18:45:32.721665+00:00"
 }
