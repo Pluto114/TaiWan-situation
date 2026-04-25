@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "蔚来秦力洪：不能因为老用户就停止产品更新，这样公司都没了",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/049.htm"
-            },
-            {
-                "title": "AMD锐龙CPU日本涨价超50% AM4处理器也未能幸免",
+                "title": "高铁将试点坐火车可以带自行车 骑行爱好者通过12306客户端办理",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559786.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559834.htm"
             },
             {
-                "title": "华为昇腾超节点系列产品全面支持DeepSeek V4 新品性能近3倍于H20、支持FP4",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559782.htm"
-            },
-            {
-                "title": "上海经济今年彻底熄火 越来越多人离开上海(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-24",
-                "url": "https://www.secretchina.com/news/gb/2026/04/24/1098200.html"
-            },
-            {
-                "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+                "title": "ST新华锦：申请撤销部分其他风险警示",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-24",
-                "url": "https://36kr.com/p/3780375304312072"
+                "url": "https://36kr.com/newsflashes/3780774441131009"
+            },
+            {
+                "title": "多地放宽网约车司机年龄户籍要求",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559826.htm"
+            },
+            {
+                "title": "消息称苹果20周年纪念版iPhone将采用定制“微曲面”OLED屏幕",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559820.htm"
+            },
+            {
+                "title": "4F架构全球首产 三星突破DRAM物理极限",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559816.htm"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-24",
+                "url": "https://36kr.com/p/3777694346548482"
+            },
+            {
+                "title": "中东局势骤变 谁能笑到最后？谁是最大的赢家？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-24",
+                "url": "https://www.secretchina.com/news/gb/2026/04/24/1098185.html"
+            },
+            {
+                "title": "DeepSeek 正式发布 V4 API：Flash/Pro 双版本齐发 百万上下文成标配",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559794.htm"
+            },
             {
                 "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
                 "source": "NewsAPI / 36kr.com",
@@ -56,28 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1559722.htm"
             },
             {
-                "title": "超千匹马力、300km/h 极速，雷军宣布小米 YU7 GT 新车 5 月底见",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/942/864.htm"
-            },
-            {
-                "title": "今日消费资讯：黛米·摩尔出任兰蔻全球品牌代言人、lululemon 任命 Heidi O'Neill 成为 CEO",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-24",
-                "url": "https://www.toodaylab.com/84009"
-            },
-            {
-                "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-24",
-                "url": "https://36kr.com/p/3778831119897600"
-            },
-            {
-                "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "107编队位菲律宾吕宋岛以东海域开展演训活动 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1E2OGJIMDFVWVl3aDlES20xRW1fUUhQTE9qS3FPWG5la2RDYk9xRUlRSTE4VTlLNU1hU1BUYWQ3RlNidUd6TU00dXdhQmRXVUFGZ1l2bmtGWk9pQzBTZFF0SHBYTlJtY2RNaXlUSzEyd3pla3c?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RRzY0UWxBSnN3bXl5QXdYMVJXZDdDaVZ2a0EwcHhUWjZVMVoyTVVROXZIZXFYNWZfZ3dUS0NOZTJiN000dElRWEdyQnRqVEtjS0doWmUtM2I?oc=5"
             },
             {
                 "title": "中国同德国的关系 - mfa.gov.cn",
@@ -104,48 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTm91R2xpTzZkRnlUb29NOFdTVEJuRUpyLTJFM1BDWjJiSHQxX2c1XzhnSTRTYkdnUTdaald6MHJtZGF6cUcwcjc2cnh4OXZQSUtHS3d1TTc2VUh6U2c?oc=5"
             },
             {
-                "title": "PLA Support Base in Djibouti conducts mosquito control and epidemic prevention campaign - China Military Online",
+                "title": "八一锐评丨把红色基因融入血脉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PTkJ1ZlE1ZXAzODMzWFUyRi04SmxJeHU3aTUzYkkyY0tFdFAza3VwcWtDcjhMVUtFV1d2S2RET0ZFRzhHS3pxU191R2RLRlpQQjZZNGFWa01aUUFQOVE?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwT3ZkZ1ZHNmFsU3VTU2dnWE11TkJnNnVpS1FMc3VNNFhnNVVwbEp4MmM2MktkVXJuQTB2M3JZa0ZjUXNlOGdWckxzeERuMVVHekE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "蔚来秦力洪：不能因为老用户就停止产品更新，这样公司都没了",
+                "title": "ST新华锦：申请撤销部分其他风险警示",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-24",
+                "url": "https://36kr.com/newsflashes/3780774441131009"
+            },
+            {
+                "title": "韵达股份 2025 年净利润 11.71 亿元，同比下降 38.79%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/049.htm"
+                "url": "https://www.ithome.com/0/943/322.htm"
             },
             {
-                "title": "保时捷将推出纯电版Cayenne Coupe 延续多动力并行布局",
+                "title": "多地放宽网约车司机年龄户籍要求",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559776.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559826.htm"
             },
             {
-                "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-                "source": "NewsAPI / 36kr.com",
+                "title": "DeepSeek V4把百万上下文打到2毛 国产卡将“腰斩”API价格？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://36kr.com/p/3780375304312072"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559824.htm"
             },
             {
-                "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-                "source": "NewsAPI / 36kr.com",
+                "title": "消息称苹果20周年纪念版iPhone将采用定制“微曲面”OLED屏幕",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://36kr.com/p/3780352721851397"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559820.htm"
             },
             {
-                "title": "茅台向经销商「要利润」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-24",
-                "url": "https://36kr.com/p/3780191213229314"
-            },
-            {
-                "title": "2026年4月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "107编队位菲律宾吕宋岛以东海域开展演训活动 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQX1E2OGJIMDFVWVl3aDlES20xRW1fUUhQTE9qS3FPWG5la2RDYk9xRUlRSTE4VTlLNU1hU1BUYWQ3RlNidUd6TU00dXdhQmRXVUFGZ1l2bmtGWk9pQzBTZFF0SHBYTlJtY2RNaXlUSzEyd3pla3c?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RRzY0UWxBSnN3bXl5QXdYMVJXZDdDaVZ2a0EwcHhUWjZVMVoyTVVROXZIZXFYNWZfZ3dUS0NOZTJiN000dElRWEdyQnRqVEtjS0doWmUtM2I?oc=5"
             },
             {
                 "title": "中国同德国的关系 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTm91R2xpTzZkRnlUb29NOFdTVEJuRUpyLTJFM1BDWjJiSHQxX2c1XzhnSTRTYkdnUTdaald6MHJtZGF6cUcwcjc2cnh4OXZQSUtHS3d1TTc2VUh6U2c?oc=5"
             },
             {
-                "title": "PLA Support Base in Djibouti conducts mosquito control and epidemic prevention campaign - China Military Online",
+                "title": "八一锐评丨把红色基因融入血脉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-23",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PTkJ1ZlE1ZXAzODMzWFUyRi04SmxJeHU3aTUzYkkyY0tFdFAza3VwcWtDcjhMVUtFV1d2S2RET0ZFRzhHS3pxU191R2RLRlpQQjZZNGFWa01aUUFQOVE?oc=5"
+                "date": "2026-04-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwT3ZkZ1ZHNmFsU3VTU2dnWE11TkJnNnVpS1FMc3VNNFhnNVVwbEp4MmM2MktkVXJuQTB2M3JZa0ZjUXNlOGdWckxzeERuMVVHekE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-25T07:10:50.566403+00:00"
+    "last_updated": "2026-04-25T12:58:37.994025+00:00"
 }
