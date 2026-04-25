@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "高铁将试点坐火车可以带自行车 骑行爱好者通过12306客户端办理",
+                "title": "物联网安全薄弱或致公共充电桩遭遇大面积瘫痪",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559834.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559852.htm"
             },
             {
-                "title": "ST新华锦：申请撤销部分其他风险警示",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-24",
-                "url": "https://36kr.com/newsflashes/3780774441131009"
-            },
-            {
-                "title": "多地放宽网约车司机年龄户籍要求",
+                "title": "英特尔与软银携手推进ZAM次世代存储 日本政府出资加速商用进程",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559826.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559850.htm"
             },
             {
-                "title": "消息称苹果20周年纪念版iPhone将采用定制“微曲面”OLED屏幕",
+                "title": "特朗普政府持有的英特尔股份价值飙升300%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559820.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559846.htm"
             },
             {
-                "title": "4F架构全球首产 三星突破DRAM物理极限",
+                "title": "陈立武：英特尔 14A 节点成熟度与良率优于 18A 同期，特斯拉 Terafab 项目确定采用 14A 工艺",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-24",
+                "url": "https://www.ithome.com/0/943/367.htm"
+            },
+            {
+                "title": "纽约时报揭秘：马斯克如何借SpaceX为自己及其商业帝国“输血”？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559816.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559838.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美防长宣布封锁扩至全球 第二艘航母将助阵锁死伊朗(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-24",
+                "url": "https://www.secretchina.com/news/gb/2026/04/24/1098212.html"
+            },
+            {
+                "title": "中共商业卫星频繁曝光美军部署 华盛顿加强戒备(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-24",
+                "url": "https://www.secretchina.com/news/gb/2026/04/24/1098211.html"
+            },
+            {
+                "title": "中国海军在菲律宾吕宋以东展开实弹演习",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-24",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%90%95%E5%AE%8B%E4%BB%A5%E4%B8%9C%E5%B1%95%E5%BC%80%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0/a-76925758"
+            },
             {
                 "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
                 "source": "NewsAPI / 36kr.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/04/24/1098185.html"
             },
             {
-                "title": "DeepSeek 正式发布 V4 API：Flash/Pro 双版本齐发 百万上下文成标配",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559794.htm"
-            },
-            {
-                "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-24",
-                "url": "https://36kr.com/p/3780375304312072"
-            },
-            {
-                "title": "软银改造工厂为数据中心生产电池",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559722.htm"
+                "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZzVWMmVLSFZhNEo4eFF2VFNTY3lnZUphVWRKRW0tMm1CWjU5NDVyWnp0Sm9SSUE4Q3ZBQTREZTZWa2lzVWtBSWt0ZlhXcm02cUU0bGJvdFo3SjBuYXV3cndfWXF2Wkt0ZE9v?oc=5"
             },
             {
                 "title": "107编队位菲律宾吕宋岛以东海域开展演训活动 - 中华人民共和国国防部",
@@ -86,31 +92,49 @@
                 "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUhqSjlMS3dWX21saUR1WGhfTGVlSzBKMGdxVVpUVTZmZmJDWHJtVWlRQVFUNE5xRXdEVUlsM3dIdUJISTZ6OTRPbFZta2NCc054UVlERm1XcnBURVAtVG5XU0NYTFRtY3hxZkFzZ1lVVmdWR2piOG9GSUtiSDl2SVR3Zmhfc05LcjAtcQ?oc=5"
             },
             {
-                "title": "郭嘉昆：日本“新型军国主义”成势为患，构成现实威胁 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWC1TRTRXRDZxaGhiN3RGbnQtZDd3Qm1WTERuV0dSVVVvTmpfdy1HMHk3Q2ZpdUhVVloyanVnNG1fWFJrUi1ZR3MyeE9aYXJxWmJSN3hUMFJINDNGYXRlc2tsQlgyNzB0MnhVZU1nZElvRVJBcjFCNFlDazF5d2E2eW9QdWZ6MjF2OXZmM1Y0UFY?oc=5"
+                "title": "八一锐评丨遵守法规制度没有特殊 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVTJwSmxKNUpCdVZGMG9EeEZSS0FubnR2ODlrRUw3UWtfSFFLUi1DNDJPdHlTWHd3QUZaZzgxaDBsN2x2WnRISXJ3LVBQMFFocUE?oc=5"
+            },
+            {
+                "title": "大别山下，抗美援朝老兵王茂贵义务守护红军烈士墓58年 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtS0phQllnbFdQWUMtWUh0T2Z6UU0yMVBkOU9PZGpKUmZQci1tN1VzWDFQSDc5Yk5fcW91QUhUU3cwV3ZFWm82Nk5DVzI1OWFlVXc?oc=5"
             },
             {
                 "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcERZRXdwbGlyYzlEbFFCLVlxM1RUR3RtRm1tQmZ3VjkzdjVJQTlvd1hKOW9XekNTMlFmQUxPdGROb2pvRDBjY1JMalFZVWZoMXc?oc=5"
-            },
-            {
-                "title": "H-6 bombers set out for training - China Military Online",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTm91R2xpTzZkRnlUb29NOFdTVEJuRUpyLTJFM1BDWjJiSHQxX2c1XzhnSTRTYkdnUTdaald6MHJtZGF6cUcwcjc2cnh4OXZQSUtHS3d1TTc2VUh6U2c?oc=5"
-            },
-            {
-                "title": "八一锐评丨把红色基因融入血脉 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwT3ZkZ1ZHNmFsU3VTU2dnWE11TkJnNnVpS1FMc3VNNFhnNVVwbEp4MmM2MktkVXJuQTB2M3JZa0ZjUXNlOGdWckxzeERuMVVHekE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "“国外媒体实在净说大实话”大陆辟谣选择性执法网评翻车(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-24",
+                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098216.html"
+            },
+            {
+                "title": "纽约时报揭秘：马斯克如何借SpaceX为自己及其商业帝国“输血”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559838.htm"
+            },
+            {
+                "title": "NGO警告：中资工厂正将996加班文化传染欧洲",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-24",
+                "url": "https://www.dw.com/zh/ngo%E8%AD%A6%E5%91%8A%E4%B8%AD%E8%B5%84%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%B0%86996%E5%8A%A0%E7%8F%AD%E6%96%87%E5%8C%96%E4%BC%A0%E6%9F%93%E6%AC%A7%E6%B4%B2/a-76924245"
+            },
+            {
+                "title": "把 SpaceX 当提款机？揭秘马斯克如何借其为自己和商业帝国“输血”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-24",
+                "url": "https://www.ithome.com/0/943/341.htm"
+            },
             {
                 "title": "ST新华锦：申请撤销部分其他风险警示",
                 "source": "NewsAPI / 36kr.com",
@@ -118,28 +142,10 @@
                 "url": "https://36kr.com/newsflashes/3780774441131009"
             },
             {
-                "title": "韵达股份 2025 年净利润 11.71 亿元，同比下降 38.79%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/322.htm"
-            },
-            {
-                "title": "多地放宽网约车司机年龄户籍要求",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559826.htm"
-            },
-            {
-                "title": "DeepSeek V4把百万上下文打到2毛 国产卡将“腰斩”API价格？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559824.htm"
-            },
-            {
-                "title": "消息称苹果20周年纪念版iPhone将采用定制“微曲面”OLED屏幕",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559820.htm"
+                "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZzVWMmVLSFZhNEo4eFF2VFNTY3lnZUphVWRKRW0tMm1CWjU5NDVyWnp0Sm9SSUE4Q3ZBQTREZTZWa2lzVWtBSWt0ZlhXcm02cUU0bGJvdFo3SjBuYXV3cndfWXF2Wkt0ZE9v?oc=5"
             },
             {
                 "title": "107编队位菲律宾吕宋岛以东海域开展演训活动 - 中华人民共和国国防部",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUhqSjlMS3dWX21saUR1WGhfTGVlSzBKMGdxVVpUVTZmZmJDWHJtVWlRQVFUNE5xRXdEVUlsM3dIdUJISTZ6OTRPbFZta2NCc054UVlERm1XcnBURVAtVG5XU0NYTFRtY3hxZkFzZ1lVVmdWR2piOG9GSUtiSDl2SVR3Zmhfc05LcjAtcQ?oc=5"
             },
             {
-                "title": "郭嘉昆：日本“新型军国主义”成势为患，构成现实威胁 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWC1TRTRXRDZxaGhiN3RGbnQtZDd3Qm1WTERuV0dSVVVvTmpfdy1HMHk3Q2ZpdUhVVloyanVnNG1fWFJrUi1ZR3MyeE9aYXJxWmJSN3hUMFJINDNGYXRlc2tsQlgyNzB0MnhVZU1nZElvRVJBcjFCNFlDazF5d2E2eW9QdWZ6MjF2OXZmM1Y0UFY?oc=5"
+                "title": "八一锐评丨遵守法规制度没有特殊 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVTJwSmxKNUpCdVZGMG9EeEZSS0FubnR2ODlrRUw3UWtfSFFLUi1DNDJPdHlTWHd3QUZaZzgxaDBsN2x2WnRISXJ3LVBQMFFocUE?oc=5"
+            },
+            {
+                "title": "大别山下，抗美援朝老兵王茂贵义务守护红军烈士墓58年 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtS0phQllnbFdQWUMtWUh0T2Z6UU0yMVBkOU9PZGpKUmZQci1tN1VzWDFQSDc5Yk5fcW91QUhUU3cwV3ZFWm82Nk5DVzI1OWFlVXc?oc=5"
             },
             {
                 "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcERZRXdwbGlyYzlEbFFCLVlxM1RUR3RtRm1tQmZ3VjkzdjVJQTlvd1hKOW9XekNTMlFmQUxPdGROb2pvRDBjY1JMalFZVWZoMXc?oc=5"
-            },
-            {
-                "title": "H-6 bombers set out for training - China Military Online",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTm91R2xpTzZkRnlUb29NOFdTVEJuRUpyLTJFM1BDWjJiSHQxX2c1XzhnSTRTYkdnUTdaald6MHJtZGF6cUcwcjc2cnh4OXZQSUtHS3d1TTc2VUh6U2c?oc=5"
-            },
-            {
-                "title": "八一锐评丨把红色基因融入血脉 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwT3ZkZ1ZHNmFsU3VTU2dnWE11TkJnNnVpS1FMc3VNNFhnNVVwbEp4MmM2MktkVXJuQTB2M3JZa0ZjUXNlOGdWckxzeERuMVVHekE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-25T12:58:37.994025+00:00"
+    "last_updated": "2026-04-25T18:47:06.053848+00:00"
 }
