@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "我国成功发射巴基斯坦 PRSC-EO3 卫星，长征六号再立新功",
+                "title": "国产自研6nm显卡获微软认可 砺算科技搞定Windows兼容性",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559976.htm"
+            },
+            {
+                "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3782434723355655"
+            },
+            {
+                "title": "梵蒂冈加紧构筑AI时代“数字防线” 试图在新秩序中争夺话语权",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559972.htm"
+            },
+            {
+                "title": "美国地方法院驳回 Masimo 针对 Apple Watch 禁售令的申诉",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-25",
-                "url": "https://www.ithome.com/0/943/517.htm"
+                "url": "https://www.ithome.com/0/943/543.htm"
             },
             {
-                "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/p/3782137908403457"
-            },
-            {
-                "title": "江苏如东能源岛LNG输出量突破1000亿立方米",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/newsflashes/3782060061563910"
-            },
-            {
-                "title": "DeepSeek-V4报告亮了 V4发布延迟的秘密终于曝光",
+                "title": "女子在公交站台劝男子吸烟发生争执 官方通报",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559948.htm"
-            },
-            {
-                "title": "美国国务院要求全球使馆就中国AI“窃密”发出警示 DeepSeek等企业再成焦点",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559942.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559968.htm"
             }
         ],
         "mil": [
             {
+                "title": "每周鞋报：PRO‑KEDS 1949 进入中国市场、Crocs 带来 MOLLY 联名款",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-25",
+                "url": "https://www.toodaylab.com/84011"
+            },
+            {
+                "title": "小米汽车：雷军在北京车展上赠送给车企同行的文化衫暂不公开发售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-25",
+                "url": "https://www.ithome.com/0/943/556.htm"
+            },
+            {
+                "title": "领克 03+TCR 赛车 TCR CHINA 上海站首秀夺冠",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-25",
+                "url": "https://www.ithome.com/0/943/522.htm"
+            },
+            {
                 "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-25",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-25",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1559942.htm"
-            },
-            {
-                "title": "最激进的“AI先锋”多邻国 已经放过员工了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559884.htm"
-            },
-            {
-                "title": "手机电池越来越不耐用 真是“计划报废”在发力？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559878.htm"
-            },
-            {
-                "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/p/3781548853533959"
             },
             {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3782434723355655"
+            },
+            {
+                "title": "小米汽车：雷军在北京车展上赠送给车企同行的文化衫暂不公开发售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-25",
+                "url": "https://www.ithome.com/0/943/556.htm"
+            },
+            {
+                "title": "梵蒂冈加紧构筑AI时代“数字防线” 试图在新秩序中争夺话语权",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559972.htm"
+            },
+            {
+                "title": "女子在公交站台劝男子吸烟发生争执 官方通报",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559968.htm"
+            },
+            {
                 "title": "Momenta 一年间量产搭载量超 80 万台，BBA 齐聚“上车”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-25",
                 "url": "https://www.ithome.com/0/943/516.htm"
-            },
-            {
-                "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/p/3782137908403457"
-            },
-            {
-                "title": "赖总统出访受阻 德议员：台湾被打压沉默不该是选项(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-25",
-                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098236.html"
-            },
-            {
-                "title": "美国国务院要求全球使馆就中国AI“窃密”发出警示 DeepSeek等企业再成焦点",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559942.htm"
-            },
-            {
-                "title": "DeepSeek V4适配华为升腾芯片 黄仁勋预言的“灾难”降临",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559894.htm"
             },
             {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-26T13:00:48.666171+00:00"
+    "last_updated": "2026-04-26T18:50:30.295272+00:00"
 }
