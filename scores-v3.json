@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "物联网安全薄弱或致公共充电桩遭遇大面积瘫痪",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559852.htm"
+                "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3781548853533959"
             },
             {
-                "title": "英特尔与软银携手推进ZAM次世代存储 日本政府出资加速商用进程",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559850.htm"
+                "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3781532841581576"
             },
             {
-                "title": "特朗普政府持有的英特尔股份价值飙升300%",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国加大对伊朗在中国的石油贸易网络的压力，大连恒力石化与近40船只与公司受制裁",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559846.htm"
+                "url": "https://www.voachinese.com/a/economic-fury-targets-global-network-fueling-iran-oil-trade-and-shadow-fleet-20260424/8142209.html"
             },
             {
-                "title": "陈立武：英特尔 14A 节点成熟度与良率优于 18A 同期，特斯拉 Terafab 项目确定采用 14A 工艺",
+                "title": "既合作又竞争，谷歌拟向 Anthropic 投资至高 400 亿美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/367.htm"
+                "url": "https://www.ithome.com/0/943/379.htm"
             },
             {
-                "title": "纽约时报揭秘：马斯克如何借SpaceX为自己及其商业帝国“输血”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 0425：曝苹果 iPhone 18 标准版配 12GB 内存；2026 北京车展开幕；DeepSeek-V4 预览版正式发布；OpenAI 发布 GPT5.5...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559838.htm"
+                "url": "https://www.ithome.com/0/943/378.htm"
             }
         ],
         "mil": [
             {
-                "title": "美防长宣布封锁扩至全球 第二艘航母将助阵锁死伊朗(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3781548853533959"
+            },
+            {
+                "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3781532841581576"
+            },
+            {
+                "title": "IT早报 0425：曝苹果 iPhone 18 标准版配 12GB 内存；2026 北京车展开幕；DeepSeek-V4 预览版正式发布；OpenAI 发布 GPT5.5...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-24",
-                "url": "https://www.secretchina.com/news/gb/2026/04/24/1098212.html"
+                "url": "https://www.ithome.com/0/943/378.htm"
             },
             {
                 "title": "中共商业卫星频繁曝光美军部署 华盛顿加强戒备(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-04-24",
-                "url": "https://www.secretchina.com/news/gb/2026/04/24/1098211.html"
+                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098211.html"
             },
             {
-                "title": "中国海军在菲律宾吕宋以东展开实弹演习",
-                "source": "NewsAPI / DW (English)",
+                "title": "极昼工作室｜封闭的海岛高中，蒸发了他们半生积蓄",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-04-24",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%90%95%E5%AE%8B%E4%BB%A5%E4%B8%9C%E5%B1%95%E5%BC%80%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0/a-76925758"
-            },
-            {
-                "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-24",
-                "url": "https://36kr.com/p/3777694346548482"
-            },
-            {
-                "title": "中东局势骤变 谁能笑到最后？谁是最大的赢家？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-24",
-                "url": "https://www.secretchina.com/news/gb/2026/04/24/1098185.html"
+                "url": "https://chinadigitaltimes.net/chinese/?p=726744"
             },
             {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3781532841581576"
+            },
+            {
+                "title": "既合作又竞争，谷歌拟向 Anthropic 投资至高 400 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-24",
+                "url": "https://www.ithome.com/0/943/379.htm"
+            },
+            {
+                "title": "IT早报 0425：曝苹果 iPhone 18 标准版配 12GB 内存；2026 北京车展开幕；DeepSeek-V4 预览版正式发布；OpenAI 发布 GPT5.5...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-24",
+                "url": "https://www.ithome.com/0/943/378.htm"
+            },
+            {
+                "title": "七千香港抗争者被送中 泰拳王：恐被活摘器官(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-24",
+                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098219.html"
+            },
+            {
                 "title": "“国外媒体实在净说大实话”大陆辟谣选择性执法网评翻车(组图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-04-24",
                 "url": "https://www.secretchina.com/news/gb/2026/04/25/1098216.html"
-            },
-            {
-                "title": "纽约时报揭秘：马斯克如何借SpaceX为自己及其商业帝国“输血”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559838.htm"
-            },
-            {
-                "title": "NGO警告：中资工厂正将996加班文化传染欧洲",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-24",
-                "url": "https://www.dw.com/zh/ngo%E8%AD%A6%E5%91%8A%E4%B8%AD%E8%B5%84%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%B0%86996%E5%8A%A0%E7%8F%AD%E6%96%87%E5%8C%96%E4%BC%A0%E6%9F%93%E6%AC%A7%E6%B4%B2/a-76924245"
-            },
-            {
-                "title": "把 SpaceX 当提款机？揭秘马斯克如何借其为自己和商业帝国“输血”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/341.htm"
-            },
-            {
-                "title": "ST新华锦：申请撤销部分其他风险警示",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-24",
-                "url": "https://36kr.com/newsflashes/3780774441131009"
             },
             {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-25T18:47:06.053848+00:00"
+    "last_updated": "2026-04-26T02:30:15.164748+00:00"
 }
