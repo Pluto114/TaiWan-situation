@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "DeepSeek V4适配华为升腾芯片 黄仁勋预言的“灾难”降临",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "我国成功发射巴基斯坦 PRSC-EO3 卫星，长征六号再立新功",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559894.htm"
+                "url": "https://www.ithome.com/0/943/517.htm"
             },
             {
-                "title": "最激进的“AI先锋”多邻国 已经放过员工了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559884.htm"
-            },
-            {
-                "title": "美法官应马斯克请求 驳回其在OpenAI案中的欺诈指控",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559868.htm"
-            },
-            {
-                "title": "海外评测DeepSeek-V4：智能体任务排名开源第一，幻觉率上升，Token消耗大",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559864.htm"
-            },
-            {
-                "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
+                "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-25",
-                "url": "https://36kr.com/newsflashes/3781734984473856"
+                "url": "https://36kr.com/p/3782137908403457"
+            },
+            {
+                "title": "江苏如东能源岛LNG输出量突破1000亿立方米",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/newsflashes/3782060061563910"
+            },
+            {
+                "title": "DeepSeek-V4报告亮了 V4发布延迟的秘密终于曝光",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559948.htm"
+            },
+            {
+                "title": "美国国务院要求全球使馆就中国AI“窃密”发出警示 DeepSeek等企业再成焦点",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559942.htm"
             }
         ],
         "mil": [
+            {
+                "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3782137908403457"
+            },
+            {
+                "title": "美国国务院要求全球使馆就中国AI“窃密”发出警示 DeepSeek等企业再成焦点",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559942.htm"
+            },
             {
                 "title": "最激进的“AI先锋”多邻国 已经放过员工了",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3781548853533959"
             },
             {
-                "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/p/3781532841581576"
-            },
-            {
-                "title": "IT早报 0425：曝苹果 iPhone 18 标准版配 12GB 内存；2026 北京车展开幕；DeepSeek-V4 预览版正式发布；OpenAI 发布 GPT5.5...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/378.htm"
-            },
-            {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-25",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZzVWMmVLSFZhNEo4eFF2VFNTY3lnZUphVWRKRW0tMm1CWjU5NDVyWnp0Sm9SSUE4Q3ZBQTREZTZWa2lzVWtBSWt0ZlhXcm02cUU0bGJvdFo3SjBuYXV3cndfWXF2Wkt0ZE9v?oc=5"
             },
             {
-                "title": "107编队位菲律宾吕宋岛以东海域开展演训活动 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RRzY0UWxBSnN3bXl5QXdYMVJXZDdDaVZ2a0EwcHhUWjZVMVoyTVVROXZIZXFYNWZfZ3dUS0NOZTJiN000dElRWEdyQnRqVEtjS0doWmUtM2I?oc=5"
-            },
-            {
                 "title": "中国同德国的关系 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2022-12-12",
                 "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUhqSjlMS3dWX21saUR1WGhfTGVlSzBKMGdxVVpUVTZmZmJDWHJtVWlRQVFUNE5xRXdEVUlsM3dIdUJISTZ6OTRPbFZta2NCc054UVlERm1XcnBURVAtVG5XU0NYTFRtY3hxZkFzZ1lVVmdWR2piOG9GSUtiSDl2SVR3Zmhfc05LcjAtcQ?oc=5"
+            },
+            {
+                "title": "缅甸总统敏昂莱会见王毅 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVG5WNGZNU0Q4amM4UWVxN0E5WlVWdXNYSGFVX3VKMnYzdE44T1ZNN0xjM2UwUXh2Vno1QWxRUlFoNHA2Nk5jYW5jX3Z0bzl5U3RuTWdTOTNpUGxlS2RYaWJaMERuSTZNVXFDRGw3QjBqN0t1UE1TUi05RkotcGxxaGJHMjNiVzUyNDlpZUNR?oc=5"
             },
             {
                 "title": "八一锐评丨遵守法规制度没有特殊 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "Momenta 一年间量产搭载量超 80 万台，BBA 齐聚“上车”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-25",
+                "url": "https://www.ithome.com/0/943/516.htm"
+            },
+            {
+                "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-25",
+                "url": "https://36kr.com/p/3782137908403457"
+            },
+            {
+                "title": "赖总统出访受阻 德议员：台湾被打压沉默不该是选项(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-25",
+                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098236.html"
+            },
+            {
+                "title": "美国国务院要求全球使馆就中国AI“窃密”发出警示 DeepSeek等企业再成焦点",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559942.htm"
+            },
+            {
                 "title": "DeepSeek V4适配华为升腾芯片 黄仁勋预言的“灾难”降临",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-25",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1559894.htm"
-            },
-            {
-                "title": "美高层警告韩国瑜“川习会”前应通过军购预算 否则代价惨重(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-25",
-                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098235.html"
-            },
-            {
-                "title": "最激进的“AI先锋”多邻国 已经放过员工了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559884.htm"
-            },
-            {
-                "title": "海外评测DeepSeek-V4：智能体任务排名开源第一，幻觉率上升，Token消耗大",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559864.htm"
-            },
-            {
-                "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/newsflashes/3781734984473856"
             },
             {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZzVWMmVLSFZhNEo4eFF2VFNTY3lnZUphVWRKRW0tMm1CWjU5NDVyWnp0Sm9SSUE4Q3ZBQTREZTZWa2lzVWtBSWt0ZlhXcm02cUU0bGJvdFo3SjBuYXV3cndfWXF2Wkt0ZE9v?oc=5"
             },
             {
-                "title": "107编队位菲律宾吕宋岛以东海域开展演训活动 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RRzY0UWxBSnN3bXl5QXdYMVJXZDdDaVZ2a0EwcHhUWjZVMVoyTVVROXZIZXFYNWZfZ3dUS0NOZTJiN000dElRWEdyQnRqVEtjS0doWmUtM2I?oc=5"
-            },
-            {
                 "title": "中国同德国的关系 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2022-12-12",
                 "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUhqSjlMS3dWX21saUR1WGhfTGVlSzBKMGdxVVpUVTZmZmJDWHJtVWlRQVFUNE5xRXdEVUlsM3dIdUJISTZ6OTRPbFZta2NCc054UVlERm1XcnBURVAtVG5XU0NYTFRtY3hxZkFzZ1lVVmdWR2piOG9GSUtiSDl2SVR3Zmhfc05LcjAtcQ?oc=5"
+            },
+            {
+                "title": "缅甸总统敏昂莱会见王毅 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVG5WNGZNU0Q4amM4UWVxN0E5WlVWdXNYSGFVX3VKMnYzdE44T1ZNN0xjM2UwUXh2Vno1QWxRUlFoNHA2Nk5jYW5jX3Z0bzl5U3RuTWdTOTNpUGxlS2RYaWJaMERuSTZNVXFDRGw3QjBqN0t1UE1TUi05RkotcGxxaGJHMjNiVzUyNDlpZUNR?oc=5"
             },
             {
                 "title": "八一锐评丨遵守法规制度没有特殊 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-26T07:24:50.936947+00:00"
+    "last_updated": "2026-04-26T13:00:48.666171+00:00"
 }
