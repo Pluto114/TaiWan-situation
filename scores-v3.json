@@ -12,38 +12,50 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+                "title": "DeepSeek V4适配华为升腾芯片 黄仁勋预言的“灾难”降临",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559894.htm"
+            },
+            {
+                "title": "最激进的“AI先锋”多邻国 已经放过员工了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559884.htm"
+            },
+            {
+                "title": "美法官应马斯克请求 驳回其在OpenAI案中的欺诈指控",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559868.htm"
+            },
+            {
+                "title": "海外评测DeepSeek-V4：智能体任务排名开源第一，幻觉率上升，Token消耗大",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559864.htm"
+            },
+            {
+                "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-25",
-                "url": "https://36kr.com/p/3781548853533959"
-            },
-            {
-                "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/p/3781532841581576"
-            },
-            {
-                "title": "美国加大对伊朗在中国的石油贸易网络的压力，大连恒力石化与近40船只与公司受制裁",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-04-24",
-                "url": "https://www.voachinese.com/a/economic-fury-targets-global-network-fueling-iran-oil-trade-and-shadow-fleet-20260424/8142209.html"
-            },
-            {
-                "title": "既合作又竞争，谷歌拟向 Anthropic 投资至高 400 亿美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/379.htm"
-            },
-            {
-                "title": "IT早报 0425：曝苹果 iPhone 18 标准版配 12GB 内存；2026 北京车展开幕；DeepSeek-V4 预览版正式发布；OpenAI 发布 GPT5.5...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/378.htm"
+                "url": "https://36kr.com/newsflashes/3781734984473856"
             }
         ],
         "mil": [
             {
+                "title": "最激进的“AI先锋”多邻国 已经放过员工了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559884.htm"
+            },
+            {
+                "title": "手机电池越来越不耐用 真是“计划报废”在发力？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559878.htm"
+            },
+            {
                 "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-25",
@@ -62,18 +74,6 @@
                 "url": "https://www.ithome.com/0/943/378.htm"
             },
             {
-                "title": "中共商业卫星频繁曝光美军部署 华盛顿加强戒备(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-24",
-                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098211.html"
-            },
-            {
-                "title": "极昼工作室｜封闭的海岛高中，蒸发了他们半生积蓄",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-04-24",
-                "url": "https://chinadigitaltimes.net/chinese/?p=726744"
-            },
-            {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-25",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtS0phQllnbFdQWUMtWUh0T2Z6UU0yMVBkOU9PZGpKUmZQci1tN1VzWDFQSDc5Yk5fcW91QUhUU3cwV3ZFWm82Nk5DVzI1OWFlVXc?oc=5"
             },
             {
-                "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
+                "title": "战友，我们接你回家 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcERZRXdwbGlyYzlEbFFCLVlxM1RUR3RtRm1tQmZ3VjkzdjVJQTlvd1hKOW9XekNTMlFmQUxPdGROb2pvRDBjY1JMalFZVWZoMXc?oc=5"
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1URjQtLTdrQjRHVUlJdk0wS2czeEdqWkpmR2MzZzMzOGRlb0RNNWpqcnJoWlpqaEo0cjhaZjE1d3FDZlBMM1AwVk1aNHJ4RDRndGZFZUFaWWtzSk9sNjBnZw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+                "title": "DeepSeek V4适配华为升腾芯片 黄仁勋预言的“灾难”降临",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559894.htm"
+            },
+            {
+                "title": "美高层警告韩国瑜“川习会”前应通过军购预算 否则代价惨重(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-25",
+                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098235.html"
+            },
+            {
+                "title": "最激进的“AI先锋”多邻国 已经放过员工了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559884.htm"
+            },
+            {
+                "title": "海外评测DeepSeek-V4：智能体任务排名开源第一，幻觉率上升，Token消耗大",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559864.htm"
+            },
+            {
+                "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-25",
-                "url": "https://36kr.com/p/3781532841581576"
-            },
-            {
-                "title": "既合作又竞争，谷歌拟向 Anthropic 投资至高 400 亿美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/379.htm"
-            },
-            {
-                "title": "IT早报 0425：曝苹果 iPhone 18 标准版配 12GB 内存；2026 北京车展开幕；DeepSeek-V4 预览版正式发布；OpenAI 发布 GPT5.5...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-24",
-                "url": "https://www.ithome.com/0/943/378.htm"
-            },
-            {
-                "title": "七千香港抗争者被送中 泰拳王：恐被活摘器官(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-24",
-                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098219.html"
-            },
-            {
-                "title": "“国外媒体实在净说大实话”大陆辟谣选择性执法网评翻车(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-24",
-                "url": "https://www.secretchina.com/news/gb/2026/04/25/1098216.html"
+                "url": "https://36kr.com/newsflashes/3781734984473856"
             },
             {
                 "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtS0phQllnbFdQWUMtWUh0T2Z6UU0yMVBkOU9PZGpKUmZQci1tN1VzWDFQSDc5Yk5fcW91QUhUU3cwV3ZFWm82Nk5DVzI1OWFlVXc?oc=5"
             },
             {
-                "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
+                "title": "战友，我们接你回家 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcERZRXdwbGlyYzlEbFFCLVlxM1RUR3RtRm1tQmZ3VjkzdjVJQTlvd1hKOW9XekNTMlFmQUxPdGROb2pvRDBjY1JMalFZVWZoMXc?oc=5"
+                "date": "2026-04-25",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1URjQtLTdrQjRHVUlJdk0wS2czeEdqWkpmR2MzZzMzOGRlb0RNNWpqcnJoWlpqaEo0cjhaZjE1d3FDZlBMM1AwVk1aNHJ4RDRndGZFZUFaWWtzSk9sNjBnZw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-26T02:30:15.164748+00:00"
+    "last_updated": "2026-04-26T07:24:50.936947+00:00"
 }
