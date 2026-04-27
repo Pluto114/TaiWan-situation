@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "QEMU 11.0 发布：补全龙芯 LoongArch TCG 指令与 RISC-V 扩展，x86 新增英特尔 Diamond Rapids CPU 模型",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/751.htm"
+            },
+            {
+                "title": "古尔曼：库克为苹果新任 CEO 特努斯留下十大新产品线研发计划",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/744.htm"
+            },
+            {
                 "title": "南方多省电价突然飙升 广东逼近1元/度",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-26",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-26",
                 "url": "https://www.ithome.com/0/943/708.htm"
-            },
-            {
-                "title": "哈佛大学、MIT、斯坦福等高校子域名 DNS 记录未及时清理，被劫持用于非法内容",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-26",
-                "url": "https://www.ithome.com/0/943/706.htm"
-            },
-            {
-                "title": "安波福发布“中国定义”核心战略",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-26",
-                "url": "https://36kr.com/newsflashes/3783419976391684"
             }
         ],
         "mil": [
+            {
+                "title": "QEMU 11.0 发布：补全龙芯 LoongArch TCG 指令与 RISC-V 扩展，x86 新增英特尔 Diamond Rapids CPU 模型",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/751.htm"
+            },
             {
                 "title": "哈佛大学、MIT、斯坦福等高校子域名 DNS 记录未及时清理，被劫持用于非法内容",
                 "source": "NewsAPI / Ithome.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.ithome.com/0/943/591.htm"
             },
             {
-                "title": "NASA 复盘阿耳忒弥斯 2 号任务，关键系统达标仅马桶出故障",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-26",
-                "url": "https://www.ithome.com/0/943/574.htm"
-            },
-            {
                 "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-26",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻刚果（布）大使安青会见刚果劳动党负责对外事务的常务书记塔图 - mfa.gov.cn",
+                "title": "驻约翰内斯堡总领事潘庆江出席中国（湖北）—南非贸易投资合作对接会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMll4b2tFekFXZWhFTm5XNnRPN2hPcEprS09XTmtBeF9Eb2t2eFNzWlJIVVhWZEdkaGxTN0NxVEpKWUJrYmVGbTFiQTc4LUtiX1FzbGNjaWdJdlN5X0hYRVdqcjZWSi1oLUxQX19QVGV5NDZuSm11WWZsQnJQMV9iNlhGSy0?oc=5"
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFNHUWU2MjNDSlA1R2pZSkRpeG9aUEdUSzhmSGFrLUs4TTJZei1NYjZOTWpSWHBUUnk0YW44ZG5fZGx5U3kwSU45VHpMVXk4NXZNZlNTU3UwWm9tUDh1X3h3TW1TSkdFTU9wbmZPLTJySVdydHlCdVFVc1ZCYUtFS2tyd1U?oc=5"
             },
             {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
@@ -98,10 +98,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
             },
             {
-                "title": "《军报每天读》20260426 - 中国军网",
+                "title": "中国式现代化成就图片展在俄罗斯举行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaWNuRW1Wbm8zc1hJcHZMb3NNZUk4NHpSTXU3YzB5TXNwdy0xOUpDVWZSR0N6Q0xUb3I2VV9KXzJrd0o5ODVjb2JKZElQVks2MkJ3cg?oc=5"
+                "date": "2026-04-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxVVJlb2M1cTV0VzlyRktqRjJDMmRBakNHOFdyVGlJeEJjaXJtSUZDODZUWVRBbXl3bTJyLVIyYUs4U1NjVG1KZHVod1NnSmZ5UVE?oc=5"
             },
             {
                 "title": "美国威胁“惩戒”欧洲盟友 - 中国军网",
@@ -111,6 +111,24 @@
             }
         ],
         "pol": [
+            {
+                "title": "华硕 X870 主板测试 AMD EXPO 1.2 支持：新增超低延迟模式，B850 后续更新",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/749.htm"
+            },
+            {
+                "title": "古尔曼：库克为苹果新任 CEO 特努斯留下十大新产品线研发计划",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/744.htm"
+            },
+            {
+                "title": "超导与磁场从“水火不容”到“互相成就”：中国科学家在镍氧化物中发现全新量子态，45 特斯拉下仍稳如磐石",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/742.htm"
+            },
             {
                 "title": "哈佛大学、MIT、斯坦福等高校子域名 DNS 记录未及时清理，被劫持用于非法内容",
                 "source": "NewsAPI / Ithome.com",
@@ -124,24 +142,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1560028.htm"
             },
             {
-                "title": "全国多地交警宣布五一假期轻微违法不处罚",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560026.htm"
-            },
-            {
-                "title": "澳大利亚年轻人迅速摸索出绕过社交网络年龄验证和账户限制的办法",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560002.htm"
-            },
-            {
-                "title": "美联储：ChatGPT 发布后美国程序员岗位增速腰斩，外包领域最为明显",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-26",
-                "url": "https://www.ithome.com/0/943/629.htm"
-            },
-            {
                 "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-26",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻刚果（布）大使安青会见刚果劳动党负责对外事务的常务书记塔图 - mfa.gov.cn",
+                "title": "驻约翰内斯堡总领事潘庆江出席中国（湖北）—南非贸易投资合作对接会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMll4b2tFekFXZWhFTm5XNnRPN2hPcEprS09XTmtBeF9Eb2t2eFNzWlJIVVhWZEdkaGxTN0NxVEpKWUJrYmVGbTFiQTc4LUtiX1FzbGNjaWdJdlN5X0hYRVdqcjZWSi1oLUxQX19QVGV5NDZuSm11WWZsQnJQMV9iNlhGSy0?oc=5"
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFNHUWU2MjNDSlA1R2pZSkRpeG9aUEdUSzhmSGFrLUs4TTJZei1NYjZOTWpSWHBUUnk0YW44ZG5fZGx5U3kwSU45VHpMVXk4NXZNZlNTU3UwWm9tUDh1X3h3TW1TSkdFTU9wbmZPLTJySVdydHlCdVFVc1ZCYUtFS2tyd1U?oc=5"
             },
             {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
@@ -166,10 +166,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
             },
             {
-                "title": "《军报每天读》20260426 - 中国军网",
+                "title": "中国式现代化成就图片展在俄罗斯举行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaWNuRW1Wbm8zc1hJcHZMb3NNZUk4NHpSTXU3YzB5TXNwdy0xOUpDVWZSR0N6Q0xUb3I2VV9KXzJrd0o5ODVjb2JKZElQVks2MkJ3cg?oc=5"
+                "date": "2026-04-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxVVJlb2M1cTV0VzlyRktqRjJDMmRBakNHOFdyVGlJeEJjaXJtSUZDODZUWVRBbXl3bTJyLVIyYUs4U1NjVG1KZHVod1NnSmZ5UVE?oc=5"
             },
             {
                 "title": "美国威胁“惩戒”欧洲盟友 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-27T13:46:29.436197+00:00"
+    "last_updated": "2026-04-27T19:15:39.213404+00:00"
 }
