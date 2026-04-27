@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "一加 120W 超能舱超级闪充移动电源参数公布：15000mAh 容量，120W 高功率快充",
+                "title": "南方多省电价突然飙升 广东逼近1元/度",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560064.htm"
+            },
+            {
+                "title": "KTC 推出 24.5 英寸 2K 260Hz QD-Mini LED 显示器，1399 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-26",
-                "url": "https://www.ithome.com/0/943/636.htm"
+                "url": "https://www.ithome.com/0/943/718.htm"
             },
             {
-                "title": "澳大利亚年轻人迅速摸索出绕过社交网络年龄验证和账户限制的办法",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "微星推出 34 英寸准 4K 280Hz 带鱼屏显示器流光 X28：第五代 QD-OLED 面板，6499 元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560002.htm"
+                "url": "https://www.ithome.com/0/943/708.htm"
             },
             {
-                "title": "Intel：一年前外界还在担心我们能否活下去 现在时代变了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "哈佛大学、MIT、斯坦福等高校子域名 DNS 记录未及时清理，被劫持用于非法内容",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559998.htm"
+                "url": "https://www.ithome.com/0/943/706.htm"
             },
             {
-                "title": "DeepSeek V4 token价格暴降75% 百万token只要两毛五",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559994.htm"
-            },
-            {
-                "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+                "title": "安波福发布“中国定义”核心战略",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-26",
-                "url": "https://36kr.com/p/3783249100397570"
+                "url": "https://36kr.com/newsflashes/3783419976391684"
             }
         ],
         "mil": [
+            {
+                "title": "哈佛大学、MIT、斯坦福等高校子域名 DNS 记录未及时清理，被劫持用于非法内容",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/706.htm"
+            },
+            {
+                "title": "我国自主设计建造的最大 LNG 运输船在江苏南通交付",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/643.htm"
+            },
             {
                 "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
                 "source": "NewsAPI / 36kr.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.ithome.com/0/943/574.htm"
             },
             {
-                "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-                "source": "NewsAPI / 36kr.com",
+                "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-26",
-                "url": "https://36kr.com/p/3782901034785801"
-            },
-            {
-                "title": "IT早报 0426：特斯拉客服否认 FSD 五一中国上线；苹果 iPhone Ultra /18 Pro Max 机模上手视频曝光；尚界回应展车遭蓄意破坏；华为 Pura X Max 开售...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-25",
-                "url": "https://www.ithome.com/0/943/562.htm"
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YRkxkNjhaMWNmcmo3Y2lXYjRzNXBhU1l6dlpJNFpmMm1QNzRua0c3TnlZWHUtTjVnMjlGTTE0VGhSZEoyZnMtcFIwN2o3Sm80Qk9BYzBrYWVJdWdpdFZoSUxBTi0xUQ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "缅甸总统敏昂莱会见王毅 - mfa.gov.cn",
+                "title": "驻刚果（布）大使安青会见刚果劳动党负责对外事务的常务书记塔图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVG5WNGZNU0Q4amM4UWVxN0E5WlVWdXNYSGFVX3VKMnYzdE44T1ZNN0xjM2UwUXh2Vno1QWxRUlFoNHA2Nk5jYW5jX3Z0bzl5U3RuTWdTOTNpUGxlS2RYaWJaMERuSTZNVXFDRGw3QjBqN0t1UE1TUi05RkotcGxxaGJHMjNiVzUyNDlpZUNR?oc=5"
-            },
-            {
-                "title": "驻利比里亚大使尹承武出席使馆举办的利青年足球代表队赴华参加“村超”友谊赛启动仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm4xLTNhR1ZmQ0ZMZlcwcWRFUVhVcG9FMVFLWXpnMGJ2NmVUNm40a0ZUUTE5VlU5bmM0UzdsOGlFNmRMSXk3RHE3S01FWV9rLVVQWlNZRWNCTjltam9PYVB4dmowWThnbExyb2xKWDFxa0gwdWZJQWdESW80V0h3cTJnLXA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMll4b2tFekFXZWhFTm5XNnRPN2hPcEprS09XTmtBeF9Eb2t2eFNzWlJIVVhWZEdkaGxTN0NxVEpKWUJrYmVGbTFiQTc4LUtiX1FzbGNjaWdJdlN5X0hYRVdqcjZWSi1oLUxQX19QVGV5NDZuSm11WWZsQnJQMV9iNlhGSy0?oc=5"
             },
             {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
@@ -111,6 +111,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "哈佛大学、MIT、斯坦福等高校子域名 DNS 记录未及时清理，被劫持用于非法内容",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/706.htm"
+            },
             {
                 "title": "宝视达回应镜片装反致孩子近视暴涨900度：不存在左右装反情况",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -136,10 +142,10 @@
                 "url": "https://www.ithome.com/0/943/629.htm"
             },
             {
-                "title": "OpenAI，危机四伏",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559990.htm"
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YRkxkNjhaMWNmcmo3Y2lXYjRzNXBhU1l6dlpJNFpmMm1QNzRua0c3TnlZWHUtTjVnMjlGTTE0VGhSZEoyZnMtcFIwN2o3Sm80Qk9BYzBrYWVJdWdpdFZoSUxBTi0xUQ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "缅甸总统敏昂莱会见王毅 - mfa.gov.cn",
+                "title": "驻刚果（布）大使安青会见刚果劳动党负责对外事务的常务书记塔图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVG5WNGZNU0Q4amM4UWVxN0E5WlVWdXNYSGFVX3VKMnYzdE44T1ZNN0xjM2UwUXh2Vno1QWxRUlFoNHA2Nk5jYW5jX3Z0bzl5U3RuTWdTOTNpUGxlS2RYaWJaMERuSTZNVXFDRGw3QjBqN0t1UE1TUi05RkotcGxxaGJHMjNiVzUyNDlpZUNR?oc=5"
-            },
-            {
-                "title": "驻利比里亚大使尹承武出席使馆举办的利青年足球代表队赴华参加“村超”友谊赛启动仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm4xLTNhR1ZmQ0ZMZlcwcWRFUVhVcG9FMVFLWXpnMGJ2NmVUNm40a0ZUUTE5VlU5bmM0UzdsOGlFNmRMSXk3RHE3S01FWV9rLVVQWlNZRWNCTjltam9PYVB4dmowWThnbExyb2xKWDFxa0gwdWZJQWdESW80V0h3cTJnLXA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMll4b2tFekFXZWhFTm5XNnRPN2hPcEprS09XTmtBeF9Eb2t2eFNzWlJIVVhWZEdkaGxTN0NxVEpKWUJrYmVGbTFiQTc4LUtiX1FzbGNjaWdJdlN5X0hYRVdqcjZWSi1oLUxQX19QVGV5NDZuSm11WWZsQnJQMV9iNlhGSy0?oc=5"
             },
             {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-27T08:19:05.466888+00:00"
+    "last_updated": "2026-04-27T13:46:29.436197+00:00"
 }
