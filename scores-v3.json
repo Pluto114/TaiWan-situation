@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Momenta 曹旭东研判：智驾领域中国最多 3 家、全球最多 4 家供应商会胜出",
+                "title": "一加 120W 超能舱超级闪充移动电源参数公布：15000mAh 容量，120W 高功率快充",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-26",
-                "url": "https://www.ithome.com/0/943/572.htm"
+                "url": "https://www.ithome.com/0/943/636.htm"
             },
             {
-                "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-26",
-                "url": "https://36kr.com/p/3782901034785801"
-            },
-            {
-                "title": "IT早报 0426：特斯拉客服否认 FSD 五一中国上线；苹果 iPhone Ultra /18 Pro Max 机模上手视频曝光；尚界回应展车遭蓄意破坏；华为 Pura X Max 开售...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-25",
-                "url": "https://www.ithome.com/0/943/562.htm"
-            },
-            {
-                "title": "国产自研6nm显卡获微软认可 砺算科技搞定Windows兼容性",
+                "title": "澳大利亚年轻人迅速摸索出绕过社交网络年龄验证和账户限制的办法",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559976.htm"
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560002.htm"
             },
             {
-                "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
+                "title": "Intel：一年前外界还在担心我们能否活下去 现在时代变了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559998.htm"
+            },
+            {
+                "title": "DeepSeek V4 token价格暴降75% 百万token只要两毛五",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559994.htm"
+            },
+            {
+                "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/p/3782434723355655"
+                "date": "2026-04-26",
+                "url": "https://36kr.com/p/3783249100397570"
             }
         ],
         "mil": [
+            {
+                "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-26",
+                "url": "https://36kr.com/p/3783249100397570"
+            },
+            {
+                "title": "Momenta R7 强化学习世界模型北京车展量产首发",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/591.htm"
+            },
             {
                 "title": "NASA 复盘阿耳忒弥斯 2 号任务，关键系统达标仅马桶出故障",
                 "source": "NewsAPI / Ithome.com",
@@ -62,24 +74,6 @@
                 "url": "https://www.ithome.com/0/943/562.htm"
             },
             {
-                "title": "特朗普撤换美国国家科学委员会全体成员 科研资助体系再陷动荡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559980.htm"
-            },
-            {
-                "title": "每周鞋报：PRO‑KEDS 1949 进入中国市场、Crocs 带来 MOLLY 联名款",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-25",
-                "url": "https://www.toodaylab.com/84011"
-            },
-            {
-                "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZzVWMmVLSFZhNEo4eFF2VFNTY3lnZUphVWRKRW0tMm1CWjU5NDVyWnp0Sm9SSUE4Q3ZBQTREZTZWa2lzVWtBSWt0ZlhXcm02cUU0bGJvdFo3SjBuYXV3cndfWXF2Wkt0ZE9v?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVG5WNGZNU0Q4amM4UWVxN0E5WlVWdXNYSGFVX3VKMnYzdE44T1ZNN0xjM2UwUXh2Vno1QWxRUlFoNHA2Nk5jYW5jX3Z0bzl5U3RuTWdTOTNpUGxlS2RYaWJaMERuSTZNVXFDRGw3QjBqN0t1UE1TUi05RkotcGxxaGJHMjNiVzUyNDlpZUNR?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "驻利比里亚大使尹承武出席使馆举办的利青年足球代表队赴华参加“村超”友谊赛启动仪式 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm4xLTNhR1ZmQ0ZMZlcwcWRFUVhVcG9FMVFLWXpnMGJ2NmVUNm40a0ZUUTE5VlU5bmM0UzdsOGlFNmRMSXk3RHE3S01FWV9rLVVQWlNZRWNCTjltam9PYVB4dmowWThnbExyb2xKWDFxa0gwdWZJQWdESW80V0h3cTJnLXA?oc=5"
+            },
+            {
+                "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-04-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
             },
             {
                 "title": "《军报每天读》20260426 - 中国军网",
@@ -104,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaWNuRW1Wbm8zc1hJcHZMb3NNZUk4NHpSTXU3YzB5TXNwdy0xOUpDVWZSR0N6Q0xUb3I2VV9KXzJrd0o5ODVjb2JKZElQVks2MkJ3cg?oc=5"
             },
             {
-                "title": "湖南省株洲军分区传承红色基因助力乡村振兴记事 - 中国军网",
+                "title": "美国威胁“惩戒”欧洲盟友 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwVWVxdjE4SGlBMm5Nc0ZPSWhFdHQ0bkNXa0hBbUlUOE9TUWt3d2YtTTZWRkVxRHZoMWFZeV9yTlhsaXRMSS1lWkxSYlBVTzhFNUE?oc=5"
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uX21QbDd2UlRkYkRmME56X2pfY2ZfOEl0ZW1NMDRpSFZka3l1V0x3R2NUUzVMVnRwY1JzSERhZXpxa2NKbzgweGxXWmQxZl9GWEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "IT早报 0426：特斯拉客服否认 FSD 五一中国上线；苹果 iPhone Ultra /18 Pro Max 机模上手视频曝光；尚界回应展车遭蓄意破坏；华为 Pura X Max 开售...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-25",
-                "url": "https://www.ithome.com/0/943/562.htm"
-            },
-            {
-                "title": "特朗普撤换美国国家科学委员会全体成员 科研资助体系再陷动荡",
+                "title": "宝视达回应镜片装反致孩子近视暴涨900度：不存在左右装反情况",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559980.htm"
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560028.htm"
             },
             {
-                "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-25",
-                "url": "https://36kr.com/p/3782434723355655"
-            },
-            {
-                "title": "小米汽车：雷军在北京车展上赠送给车企同行的文化衫暂不公开发售",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-25",
-                "url": "https://www.ithome.com/0/943/556.htm"
-            },
-            {
-                "title": "梵蒂冈加紧构筑AI时代“数字防线” 试图在新秩序中争夺话语权",
+                "title": "全国多地交警宣布五一假期轻微违法不处罚",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1559972.htm"
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560026.htm"
             },
             {
-                "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BZzVWMmVLSFZhNEo4eFF2VFNTY3lnZUphVWRKRW0tMm1CWjU5NDVyWnp0Sm9SSUE4Q3ZBQTREZTZWa2lzVWtBSWt0ZlhXcm02cUU0bGJvdFo3SjBuYXV3cndfWXF2Wkt0ZE9v?oc=5"
+                "title": "澳大利亚年轻人迅速摸索出绕过社交网络年龄验证和账户限制的办法",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560002.htm"
+            },
+            {
+                "title": "美联储：ChatGPT 发布后美国程序员岗位增速腰斩，外包领域最为明显",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-26",
+                "url": "https://www.ithome.com/0/943/629.htm"
+            },
+            {
+                "title": "OpenAI，危机四伏",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1559990.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVG5WNGZNU0Q4amM4UWVxN0E5WlVWdXNYSGFVX3VKMnYzdE44T1ZNN0xjM2UwUXh2Vno1QWxRUlFoNHA2Nk5jYW5jX3Z0bzl5U3RuTWdTOTNpUGxlS2RYaWJaMERuSTZNVXFDRGw3QjBqN0t1UE1TUi05RkotcGxxaGJHMjNiVzUyNDlpZUNR?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "驻利比里亚大使尹承武出席使馆举办的利青年足球代表队赴华参加“村超”友谊赛启动仪式 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm4xLTNhR1ZmQ0ZMZlcwcWRFUVhVcG9FMVFLWXpnMGJ2NmVUNm40a0ZUUTE5VlU5bmM0UzdsOGlFNmRMSXk3RHE3S01FWV9rLVVQWlNZRWNCTjltam9PYVB4dmowWThnbExyb2xKWDFxa0gwdWZJQWdESW80V0h3cTJnLXA?oc=5"
+            },
+            {
+                "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-04-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
             },
             {
                 "title": "《军报每天读》20260426 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaWNuRW1Wbm8zc1hJcHZMb3NNZUk4NHpSTXU3YzB5TXNwdy0xOUpDVWZSR0N6Q0xUb3I2VV9KXzJrd0o5ODVjb2JKZElQVks2MkJ3cg?oc=5"
             },
             {
-                "title": "湖南省株洲军分区传承红色基因助力乡村振兴记事 - 中国军网",
+                "title": "美国威胁“惩戒”欧洲盟友 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwVWVxdjE4SGlBMm5Nc0ZPSWhFdHQ0bkNXa0hBbUlUOE9TUWt3d2YtTTZWRkVxRHZoMWFZeV9yTlhsaXRMSS1lWkxSYlBVTzhFNUE?oc=5"
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uX21QbDd2UlRkYkRmME56X2pfY2ZfOEl0ZW1NMDRpSFZka3l1V0x3R2NUUzVMVnRwY1JzSERhZXpxa2NKbzgweGxXWmQxZl9GWEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-27T02:32:34.212859+00:00"
+    "last_updated": "2026-04-27T08:19:05.466888+00:00"
 }
