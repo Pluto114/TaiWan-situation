@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国信通院正式启动DeepSeek V4国产化适配测试工作",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560170.htm"
-            },
-            {
-                "title": "中东战事冲击电路板供应链：AI热潮叠加原料短缺 科技企业成本进一步承压",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560164.htm"
-            },
-            {
-                "title": "欧洲河流因为可卡因超标导致鲑鱼性情大变 不怕天敌且游得更快更远",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560158.htm"
-            },
-            {
-                "title": "Counterpoint：2026 年第一季度全球智能手机 SoC 出货量同比下降 8%",
+                "title": "石油巨头壳牌将打造全新纯电概念车，快充时间低于 10 分钟",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/943/980.htm"
+                "url": "https://www.ithome.com/0/944/160.htm"
             },
             {
-                "title": "油价“创纪录”之际，比亚迪在日本启动最长 66 小时免费试驾活动",
+                "title": "ASML加速扩产EUV设备 AI芯片热潮推动全年产量冲上60台以上",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560218.htm"
+            },
+            {
+                "title": "马斯克起诉 OpenAI 案即将开庭，高管日记内容或成案件关键",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/943/973.htm"
+                "url": "https://www.ithome.com/0/944/153.htm"
+            },
+            {
+                "title": "【CDT报告汇】国际特赦组织报告：世界面临严峻时刻，国际秩序面临美俄中等“掠夺者”的攻击（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-04-27",
+                "url": "https://chinadigitaltimes.net/chinese/726806.html"
+            },
+            {
+                "title": "天猫的米兰野心：做全球家居产业的“第一公里”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-27",
+                "url": "https://www.toodaylab.com/84012"
             }
         ],
         "mil": [
             {
+                "title": "天猫的米兰野心：做全球家居产业的“第一公里”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-27",
+                "url": "https://www.toodaylab.com/84012"
+            },
+            {
+                "title": "【袁红冰热点】独家内幕：中共针对美国总统组建秘密研究机构(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-27",
+                "url": "https://www.secretchina.com/news/gb/2026/04/27/1098318.html"
+            },
+            {
+                "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-27",
+                "url": "https://36kr.com/p/3784957482523648"
+            },
+            {
+                "title": "丰田放弃极致品控降本 卸任社长：不改变 我们将无法生存",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560174.htm"
+            },
+            {
                 "title": "金融时报：小米携高端电动车进军欧洲 叫板马斯克胜算几何？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-27",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1560092.htm"
-            },
-            {
-                "title": "印度医学生用 AI 生成“MAGA 女孩”诈骗美国男性，月入数千美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/943/884.htm"
-            },
-            {
-                "title": "微软 XGP“入门版”曝光：含《群星》《星露谷物语》等 50 多款游戏但限制在线联机，每月仅 10 小时云游戏",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/943/786.htm"
-            },
-            {
-                "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-27",
-                "url": "https://36kr.com/p/3783824870317312"
-            },
-            {
-                "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-27",
-                "url": "https://36kr.com/p/3784311487945735"
-            },
-            {
-                "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YRkxkNjhaMWNmcmo3Y2lXYjRzNXBhU1l6dlpJNFpmMm1QNzRua0c3TnlZWHUtTjVnMjlGTTE0VGhSZEoyZnMtcFIwN2o3Sm80Qk9BYzBrYWVJdWdpdFZoSUxBTi0xUQ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42eG5JWmhSdGFVSTdsQ0xOVldnSkFOVFByUV9vVEtJVExLbXpUNi11RC1FQnAtd1hSOUdlNHhHc2hYTms2VldJSWFWNGFsQ05UbDBIVXAzb3JOempORVhQREdySXhoM0M5QmdlOUZsUEN4QXVKVkJkUlFjOTU?oc=5"
             },
             {
+                "title": "林剑：日方近期危险冒进动作戳穿了“和平国家”的自我标榜 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-28",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT05tMXN0SjhtMDhwNGM1R3RrUldyTWhNa0J6LW9ZU3pIeTV4WnVIRUlxWk9MNUhJaFlJR1BTY2ljRGtUV1RZaElxX0FFUndHeldKS0NWRnJBVnZSclJFZzhzVl9fNzJ4NjZ3MmpLNUdfb3k5MUZvWl9kX0w1T2REM2cxM0U4Skc0RHFqME9BUTY?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
             },
             {
-                "title": "中国式现代化成就图片展在俄罗斯举行 - 中国军网",
+                "title": "《习近平谈治国理政》第五卷英文版中印尼推介会在雅加达举行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxVVJlb2M1cTV0VzlyRktqRjJDMmRBakNHOFdyVGlJeEJjaXJtSUZDODZUWVRBbXl3bTJyLVIyYUs4U1NjVG1KZHVod1NnSmZ5UVE?oc=5"
-            },
-            {
-                "title": "美国威胁“惩戒”欧洲盟友 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uX21QbDd2UlRkYkRmME56X2pfY2ZfOEl0ZW1NMDRpSFZka3l1V0x3R2NUUzVMVnRwY1JzSERhZXpxa2NKbzgweGxXWmQxZl9GWEE?oc=5"
+                "date": "2026-04-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MUEVvY1BmUzRLQVF5OXRsQjRNVkEyZ3JLbTVvdTJLR1l2eE83TGZjOEltQ2tVZ2I0V1czdkpWX0g3VjBIeERTVUhUdWZwdU9VYnc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "中东战事冲击电路板供应链：AI热潮叠加原料短缺 科技企业成本进一步承压",
+                "title": "泄露机模曝三星或将推出更宽形态折叠手机Galaxy Z Fold 8 Wide",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560164.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560220.htm"
             },
             {
-                "title": "金融时报：小米携高端电动车进军欧洲 叫板马斯克胜算几何？",
+                "title": "ASML加速扩产EUV设备 AI芯片热潮推动全年产量冲上60台以上",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560092.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560218.htm"
             },
             {
-                "title": "DeepSeek大幅降价",
+                "title": "天猫的米兰野心：做全球家居产业的“第一公里”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-27",
+                "url": "https://www.toodaylab.com/84012"
+            },
+            {
+                "title": "触及红线被叫停 Meta数十亿收购Manus遭否决",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560086.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560208.htm"
             },
             {
-                "title": "加国会道德委员会敦促卡尼出售Brookfield股票(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-27",
-                "url": "https://www.secretchina.com/news/gb/2026/04/27/1098246.html"
-            },
-            {
-                "title": "#江泽民 飘飘然 大大低估了 #邓小平 的政治能量",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-04-27",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260427/2311357.html"
-            },
-            {
-                "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YRkxkNjhaMWNmcmo3Y2lXYjRzNXBhU1l6dlpJNFpmMm1QNzRua0c3TnlZWHUtTjVnMjlGTTE0VGhSZEoyZnMtcFIwN2o3Sm80Qk9BYzBrYWVJdWdpdFZoSUxBTi0xUQ?oc=5"
+                "url": "https://36kr.com/p/3784957482523648"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42eG5JWmhSdGFVSTdsQ0xOVldnSkFOVFByUV9vVEtJVExLbXpUNi11RC1FQnAtd1hSOUdlNHhHc2hYTms2VldJSWFWNGFsQ05UbDBIVXAzb3JOempORVhQREdySXhoM0M5QmdlOUZsUEN4QXVKVkJkUlFjOTU?oc=5"
             },
             {
+                "title": "林剑：日方近期危险冒进动作戳穿了“和平国家”的自我标榜 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-28",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT05tMXN0SjhtMDhwNGM1R3RrUldyTWhNa0J6LW9ZU3pIeTV4WnVIRUlxWk9MNUhJaFlJR1BTY2ljRGtUV1RZaElxX0FFUndHeldKS0NWRnJBVnZSclJFZzhzVl9fNzJ4NjZ3MmpLNUdfb3k5MUZvWl9kX0w1T2REM2cxM0U4Skc0RHFqME9BUTY?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
             },
             {
-                "title": "中国式现代化成就图片展在俄罗斯举行 - 中国军网",
+                "title": "《习近平谈治国理政》第五卷英文版中印尼推介会在雅加达举行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxVVJlb2M1cTV0VzlyRktqRjJDMmRBakNHOFdyVGlJeEJjaXJtSUZDODZUWVRBbXl3bTJyLVIyYUs4U1NjVG1KZHVod1NnSmZ5UVE?oc=5"
-            },
-            {
-                "title": "美国威胁“惩戒”欧洲盟友 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uX21QbDd2UlRkYkRmME56X2pfY2ZfOEl0ZW1NMDRpSFZka3l1V0x3R2NUUzVMVnRwY1JzSERhZXpxa2NKbzgweGxXWmQxZl9GWEE?oc=5"
+                "date": "2026-04-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MUEVvY1BmUzRLQVF5OXRsQjRNVkEyZ3JLbTVvdTJLR1l2eE83TGZjOEltQ2tVZ2I0V1czdkpWX0g3VjBIeERTVUhUdWZwdU9VYnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-28T08:21:28.869653+00:00"
+    "last_updated": "2026-04-28T13:58:43.447586+00:00"
 }
