@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "目标到 2030 年实现人类与机器人协同工作，富士通与美国卡内基梅隆大学联合开发物理 AI 操作系统",
+                "title": "中国信通院正式启动DeepSeek V4国产化适配测试工作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560170.htm"
+            },
+            {
+                "title": "中东战事冲击电路板供应链：AI热潮叠加原料短缺 科技企业成本进一步承压",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560164.htm"
+            },
+            {
+                "title": "欧洲河流因为可卡因超标导致鲑鱼性情大变 不怕天敌且游得更快更远",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560158.htm"
+            },
+            {
+                "title": "Counterpoint：2026 年第一季度全球智能手机 SoC 出货量同比下降 8%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/943/787.htm"
+                "url": "https://www.ithome.com/0/943/980.htm"
             },
             {
-                "title": "国家统计局：一季度规模以上工业企业利润较快增长",
-                "source": "NewsAPI / 36kr.com",
+                "title": "油价“创纪录”之际，比亚迪在日本启动最长 66 小时免费试驾活动",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-27",
-                "url": "https://36kr.com/newsflashes/3784402787294466"
-            },
-            {
-                "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-27",
-                "url": "https://36kr.com/p/3783824870317312"
-            },
-            {
-                "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-27",
-                "url": "https://36kr.com/p/3784365164322055"
-            },
-            {
-                "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-27",
-                "url": "https://36kr.com/p/3784311487945735"
+                "url": "https://www.ithome.com/0/943/973.htm"
             }
         ],
         "mil": [
+            {
+                "title": "金融时报：小米携高端电动车进军欧洲 叫板马斯克胜算几何？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560092.htm"
+            },
+            {
+                "title": "印度医学生用 AI 生成“MAGA 女孩”诈骗美国男性，月入数千美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-27",
+                "url": "https://www.ithome.com/0/943/884.htm"
+            },
             {
                 "title": "微软 XGP“入门版”曝光：含《群星》《星露谷物语》等 50 多款游戏但限制在线联机，每月仅 10 小时云游戏",
                 "source": "NewsAPI / Ithome.com",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3784311487945735"
             },
             {
-                "title": "《GT 赛车》之父山内一典称小米雷军、比亚迪王传福是英雄豪杰",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-26",
-                "url": "https://www.ithome.com/0/943/761.htm"
-            },
-            {
-                "title": "IT早报 0427：华为余承东称尊界新车做到 200 万级别；美团小象超市大部分站点已暂停自提；曝库克为苹果留下十大新品研发计划；微软官方认证的首个国产显卡诞生...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-26",
-                "url": "https://www.ithome.com/0/943/759.htm"
-            },
-            {
                 "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-26",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻约翰内斯堡总领事潘庆江出席中国（湖北）—南非贸易投资合作对接会 - mfa.gov.cn",
+                "title": "越南国家概况 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFNHUWU2MjNDSlA1R2pZSkRpeG9aUEdUSzhmSGFrLUs4TTJZei1NYjZOTWpSWHBUUnk0YW44ZG5fZGx5U3kwSU45VHpMVXk4NXZNZlNTU3UwWm9tUDh1X3h3TW1TSkdFTU9wbmZPLTJySVdydHlCdVFVc1ZCYUtFS2tyd1U?oc=5"
+                "date": "2022-02-07",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42eG5JWmhSdGFVSTdsQ0xOVldnSkFOVFByUV9vVEtJVExLbXpUNi11RC1FQnAtd1hSOUdlNHhHc2hYTms2VldJSWFWNGFsQ05UbDBIVXAzb3JOempORVhQREdySXhoM0M5QmdlOUZsUEN4QXVKVkJkUlFjOTU?oc=5"
             },
             {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中东战事冲击电路板供应链：AI热潮叠加原料短缺 科技企业成本进一步承压",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-27",
-                "url": "https://36kr.com/p/3783828639571203"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560164.htm"
             },
             {
-                "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
-                "source": "NewsAPI / 36kr.com",
+                "title": "金融时报：小米携高端电动车进军欧洲 叫板马斯克胜算几何？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-27",
-                "url": "https://36kr.com/p/3784365164322055"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560092.htm"
             },
             {
-                "title": "零跑朱江明：有信心达成百万辆年销量目标，A10、D19 车型订单远超预期",
-                "source": "NewsAPI / Ithome.com",
+                "title": "DeepSeek大幅降价",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/943/774.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560086.htm"
             },
             {
-                "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
-                "source": "NewsAPI / 36kr.com",
+                "title": "加国会道德委员会敦促卡尼出售Brookfield股票(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-04-27",
-                "url": "https://36kr.com/p/3784311487945735"
+                "url": "https://www.secretchina.com/news/gb/2026/04/27/1098246.html"
             },
             {
-                "title": "派早报：X 推出聊天软件 XChat",
-                "source": "NewsAPI / Sspai.com",
-                "date": "2026-04-26",
-                "url": "https://sspai.com/post/109114"
+                "title": "#江泽民 飘飘然 大大低估了 #邓小平 的政治能量",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-04-27",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260427/2311357.html"
             },
             {
                 "title": "开放合作提升服务业国际竞争力影响力——学习贯彻习近平总书记就服务业发展作出重要指示精神系列述评 - 中华人民共和国国防部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻约翰内斯堡总领事潘庆江出席中国（湖北）—南非贸易投资合作对接会 - mfa.gov.cn",
+                "title": "越南国家概况 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFNHUWU2MjNDSlA1R2pZSkRpeG9aUEdUSzhmSGFrLUs4TTJZei1NYjZOTWpSWHBUUnk0YW44ZG5fZGx5U3kwSU45VHpMVXk4NXZNZlNTU3UwWm9tUDh1X3h3TW1TSkdFTU9wbmZPLTJySVdydHlCdVFVc1ZCYUtFS2tyd1U?oc=5"
+                "date": "2022-02-07",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42eG5JWmhSdGFVSTdsQ0xOVldnSkFOVFByUV9vVEtJVExLbXpUNi11RC1FQnAtd1hSOUdlNHhHc2hYTms2VldJSWFWNGFsQ05UbDBIVXAzb3JOempORVhQREdySXhoM0M5QmdlOUZsUEN4QXVKVkJkUlFjOTU?oc=5"
             },
             {
                 "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-28T02:40:09.934905+00:00"
+    "last_updated": "2026-04-28T08:21:28.869653+00:00"
 }
