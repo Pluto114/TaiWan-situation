@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "欧洲率先批准莫德纳新型流感 - 新冠mRNA联用疫苗",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560248.htm"
+                "title": "荣耀 Play11C 入门级手机发售：搭载联发科天玑 6300 芯片，4+128GB 版本 1299 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-28",
+                "url": "https://www.ithome.com/0/944/272.htm"
             },
             {
-                "title": "桌面级金属3D打印机售价已被压至1万美元以下 工业级技术现身工作台",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560246.htm"
+                "title": "DeepSeek-V4 技术报告公开作者名单，多位核心骨干离职去大厂",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-28",
+                "url": "https://www.ithome.com/0/944/264.htm"
             },
             {
-                "title": "数据中心扎堆建设推高成本 两年内燃气电站造价飙升66%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560244.htm"
+                "title": "小红书：内容添加 AI 标识，反对 AI 造假；小米全新机器人亮相；微信 15 周年皮肤衣开卖，238 元 | 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-04-28",
+                "url": "http://www.geekpark.net/news/363371"
             },
             {
-                "title": "传高通与OpenAI合作研发手机AI芯片 股价大涨7%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560228.htm"
+                "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-28",
+                "url": "https://36kr.com/p/3785730095127817"
             },
             {
-                "title": "石油巨头壳牌将打造全新纯电概念车，快充时间低于 10 分钟",
+                "title": "IT早报 0428：发改委依法要求外资撤销收购 Manus；俞敏洪回应东方甄选主播 F4 出走；曝三星将停止在华销售家电及电视产品；小米玄戒 O1 芯片出货量超一百万颗...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/944/160.htm"
+                "url": "https://www.ithome.com/0/944/209.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-28",
+                "url": "https://36kr.com/p/3785730095127817"
+            },
+            {
+                "title": "IT早报 0428：发改委依法要求外资撤销收购 Manus；俞敏洪回应东方甄选主播 F4 出走；曝三星将停止在华销售家电及电视产品；小米玄戒 O1 芯片出货量超一百万颗...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-27",
+                "url": "https://www.ithome.com/0/944/209.htm"
+            },
+            {
+                "title": "新一代小米 SU7 Max 挑战浙江国际赛车场原片发布，圈速 1:37.974 成浙赛 50 万内最速四门量产车",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-27",
+                "url": "https://www.ithome.com/0/944/208.htm"
+            },
             {
                 "title": "美国指控参与对美网络攻击的中国男子被引渡至休斯敦受审",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,24 +74,6 @@
                 "url": "https://www.dw.com/zh/sipri%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%B4%B9%E8%BF%9E%E7%BB%AD%E5%A2%9E%E9%95%BF31%E5%B9%B4/a-76955440"
             },
             {
-                "title": "天猫的米兰野心：做全球家居产业的“第一公里”",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-27",
-                "url": "https://www.toodaylab.com/84012"
-            },
-            {
-                "title": "【袁红冰热点】独家内幕：中共针对美国总统组建秘密研究机构(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-27",
-                "url": "https://www.secretchina.com/news/gb/2026/04/27/1098318.html"
-            },
-            {
-                "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-27",
-                "url": "https://36kr.com/p/3784957482523648"
-            },
-            {
                 "title": "第80届联合国大会主席贝尔伯克将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-28",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
-            },
-            {
                 "title": "《习近平谈治国理政》第五卷英文版中印尼推介会在雅加达举行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MUEVvY1BmUzRLQVF5OXRsQjRNVkEyZ3JLbTVvdTJLR1l2eE83TGZjOEltQ2tVZ2I0V1czdkpWX0g3VjBIeERTVUhUdWZwdU9VYnc?oc=5"
+            },
+            {
+                "title": "中国式现代化成就图片展在俄罗斯举行 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxVVJlb2M1cTV0VzlyRktqRjJDMmRBakNHOFdyVGlJeEJjaXJtSUZDODZUWVRBbXl3bTJyLVIyYUs4U1NjVG1KZHVod1NnSmZ5UVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美国指控参与对美网络攻击的中国男子被引渡至休斯敦受审",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560260.htm"
+                "title": "苹果回应不公平劳动指控：将遵守集体谈判协议，向 NLRB 提交事实",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-28",
+                "url": "https://www.ithome.com/0/944/237.htm"
             },
             {
-                "title": "欧洲率先批准莫德纳新型流感 - 新冠mRNA联用疫苗",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560248.htm"
+                "title": "小红书：内容添加 AI 标识，反对 AI 造假；小米全新机器人亮相；微信 15 周年皮肤衣开卖，238 元 | 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-04-28",
+                "url": "http://www.geekpark.net/news/363371"
             },
             {
-                "title": "桌面级金属3D打印机售价已被压至1万美元以下 工业级技术现身工作台",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560246.htm"
+                "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-28",
+                "url": "https://36kr.com/p/3785730095127817"
             },
             {
-                "title": "冲击 30 万元以上市场，消息称零跑计划明年推出第二品牌",
+                "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-28",
+                "url": "https://36kr.com/p/3784480103455748"
+            },
+            {
+                "title": "宁德时代港股配股筹资约 50 亿美元，配售价每股 628.20 港元折让 7%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-27",
-                "url": "https://www.ithome.com/0/944/190.htm"
-            },
-            {
-                "title": "涉及新冠科研窃密：意大利向美国移交中国籍黑客嫌疑人",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-27",
-                "url": "https://www.dw.com/zh/%E6%B6%89%E5%8F%8A%E6%96%B0%E5%86%A0%E7%A7%91%E7%A0%94%E7%AA%83%E5%AF%86%E6%84%8F%E5%A4%A7%E5%88%A9%E5%90%91%E7%BE%8E%E5%9B%BD%E7%A7%BB%E4%BA%A4%E4%B8%AD%E5%9B%BD%E7%B1%8D%E9%BB%91%E5%AE%A2%E5%AB%8C%E7%96%91%E4%BA%BA/a-76955417"
+                "url": "https://www.ithome.com/0/944/216.htm"
             },
             {
                 "title": "第80届联合国大会主席贝尔伯克将访华 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "一习话·人民之心丨“一分部署，九分落实” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-04-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa0d1ajBFMGZIR2J4ME1mTmRUZnoyVE8zb3lKQnVuNWlTaGVWZG1kRFFKLU1jZGFYMVNicVpZV3VkWXphYmxILWhZZ0FvaThFamc?oc=5"
-            },
-            {
                 "title": "《习近平谈治国理政》第五卷英文版中印尼推介会在雅加达举行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MUEVvY1BmUzRLQVF5OXRsQjRNVkEyZ3JLbTVvdTJLR1l2eE83TGZjOEltQ2tVZ2I0V1czdkpWX0g3VjBIeERTVUhUdWZwdU9VYnc?oc=5"
+            },
+            {
+                "title": "中国式现代化成就图片展在俄罗斯举行 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxVVJlb2M1cTV0VzlyRktqRjJDMmRBakNHOFdyVGlJeEJjaXJtSUZDODZUWVRBbXl3bTJyLVIyYUs4U1NjVG1KZHVod1NnSmZ5UVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-28T19:28:25.064804+00:00"
+    "last_updated": "2026-04-29T02:39:55.586757+00:00"
 }
