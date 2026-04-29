@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "OpenAI称华尔街日报的报道是标题党 公司各项业务“火力全开”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560432.htm"
+            },
+            {
                 "title": "阿联酋宣布退出OPEC及OPEC+",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-28",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-28",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1560410.htm"
-            },
-            {
-                "title": "汽车的「OpenClaw 时刻」，到了？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-04-28",
-                "url": "http://www.geekpark.net/news/363403"
             }
         ],
         "mil": [
+            {
+                "title": "Google翻译上线口语纠正功能 率先在美印推出",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560430.htm"
+            },
             {
                 "title": "阿联酋宣布退出OPEC及OPEC+",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,22 +74,16 @@
                 "url": "https://36kr.com/p/3786324189027332"
             },
             {
-                "title": "宇树 G1 人形机器人将进日本羽田机场，协助人类搬运行李货物",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-28",
-                "url": "https://www.ithome.com/0/944/552.htm"
-            },
-            {
                 "title": "第80届联合国大会主席贝尔伯克将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-28",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnVVSEcyYV91MkRvb1RyTGRPOWp3ZnFIWk04d3RmVmprR3JWQkRQcjM0UlRYZ1J4LWNrWVV6M2NrZzFwSkhMTE1vN2VFYXB1NE5pMlN6bU9XTlVHQUx5YzVDQThXU1JPZFIycFliWUN4amlSa185cUstMlR3UHFiTWZLSm1SSEZTdVE?oc=5"
             },
             {
-                "title": "越南国家概况 - mfa.gov.cn",
+                "title": "林剑：中方愿同非方一道，不断丰富零关税举措内涵，为全球南方团结协作注入新动力 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2022-02-07",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42eG5JWmhSdGFVSTdsQ0xOVldnSkFOVFByUV9vVEtJVExLbXpUNi11RC1FQnAtd1hSOUdlNHhHc2hYTms2VldJSWFWNGFsQ05UbDBIVXAzb3JOempORVhQREdySXhoM0M5QmdlOUZsUEN4QXVKVkJkUlFjOTU?oc=5"
+                "date": "2026-04-29",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmJNR0pqWUItdkdDRkJjU2RGckFpWXp3Q0hOcHZIQmt1Q25OVy1MTTVaYlRXbHlrYnNONWwzdzJqMlFkUHdnUEQ2eVRoSTB1M1FKdnR3NGV3NE1sM0xiNFZyNzlYSUNsa3BCS0wzMkxKZVRBTzE4VFdDMi15OENtay1mTXhUV1JVbmtSTGdJMWo?oc=5"
             },
             {
                 "title": "驻莱索托大使杨晓坤出席波利哈利输水隧洞建设项目第二台隧道掘进机启动仪式（2026-04-27） - 外交部 - mfa.gov.cn",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "Google翻译上线口语纠正功能 率先在美印推出",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560430.htm"
+            },
+            {
+                "title": "澳大利亚拟对Google、Meta和TikTok征收数字税以迫使其向新闻机构付费",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560420.htm"
+            },
+            {
                 "title": "阿联酋宣布退出OPEC及OPEC+",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-28",
@@ -130,28 +142,16 @@
                 "url": "https://www.ithome.com/0/944/672.htm"
             },
             {
-                "title": "53.99 万元起，2026 款别克世纪 CENTURY 豪华 MPV 上市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-28",
-                "url": "https://www.ithome.com/0/944/670.htm"
-            },
-            {
-                "title": "殖民火星才能拿，SpaceX 为马斯克制定的薪酬方案曝光",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-28",
-                "url": "https://www.ithome.com/0/944/665.htm"
-            },
-            {
                 "title": "第80届联合国大会主席贝尔伯克将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-28",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnVVSEcyYV91MkRvb1RyTGRPOWp3ZnFIWk04d3RmVmprR3JWQkRQcjM0UlRYZ1J4LWNrWVV6M2NrZzFwSkhMTE1vN2VFYXB1NE5pMlN6bU9XTlVHQUx5YzVDQThXU1JPZFIycFliWUN4amlSa185cUstMlR3UHFiTWZLSm1SSEZTdVE?oc=5"
             },
             {
-                "title": "越南国家概况 - mfa.gov.cn",
+                "title": "林剑：中方愿同非方一道，不断丰富零关税举措内涵，为全球南方团结协作注入新动力 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2022-02-07",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42eG5JWmhSdGFVSTdsQ0xOVldnSkFOVFByUV9vVEtJVExLbXpUNi11RC1FQnAtd1hSOUdlNHhHc2hYTms2VldJSWFWNGFsQ05UbDBIVXAzb3JOempORVhQREdySXhoM0M5QmdlOUZsUEN4QXVKVkJkUlFjOTU?oc=5"
+                "date": "2026-04-29",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmJNR0pqWUItdkdDRkJjU2RGckFpWXp3Q0hOcHZIQmt1Q25OVy1MTTVaYlRXbHlrYnNONWwzdzJqMlFkUHdnUEQ2eVRoSTB1M1FKdnR3NGV3NE1sM0xiNFZyNzlYSUNsa3BCS0wzMkxKZVRBTzE4VFdDMi15OENtay1mTXhUV1JVbmtSTGdJMWo?oc=5"
             },
             {
                 "title": "驻莱索托大使杨晓坤出席波利哈利输水隧洞建设项目第二台隧道掘进机启动仪式（2026-04-27） - 外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-29T13:49:14.601989+00:00"
+    "last_updated": "2026-04-29T19:20:58.678490+00:00"
 }
