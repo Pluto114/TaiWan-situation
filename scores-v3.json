@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "闻泰科技 2026 年一季度亏损 1.89 亿元，同比-172.41%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "忧国家安全及产业受损，74位民主党议员联名敦促特朗普总统抵制中国汽车大举入美",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/220.htm"
+                "url": "https://www.voachinese.com/a/house-dems-urge-trump-to-ban-on-chinese-automakers-20260429/8144739.html"
             },
             {
-                "title": "极米推出 X50 Ultra / Max 投影仪：至高 10000:1 对比度、7000CVIA 亮度，15499-19499 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/211.htm"
-            },
-            {
-                "title": "极米 RS30 系列投影仪发布：引入无极光圈技术、至高 6800 ISO/7000:1 对比度，8822-13499 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/206.htm"
-            },
-            {
-                "title": "小米之家：2026 五一假期可到店免费领取“奥利奥云朵蛋糕”，单店活动期间至少提供 12 个",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/185.htm"
-            },
-            {
-                "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
+                "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-29",
-                "url": "https://36kr.com/p/3787806140636420"
+                "url": "https://36kr.com/p/3788151000751364"
+            },
+            {
+                "title": "三星晶圆代工4nm芯片良率突破80% 有望正面迎击台积电",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560622.htm"
+            },
+            {
+                "title": "美财政部警告金融机构：与中国“茶壶”炼厂做生意有被制裁风险",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-04-29",
+                "url": "https://www.voachinese.com/a/treasury-warns-of-sanctions-risks-linked-to-china-based-independent-teapot-oil-refineries-20260429/8144714.html"
+            },
+            {
+                "title": "DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-04-29",
+                "url": "https://www.dw.com/zh/deepseek-v4-%E5%BC%95%E7%88%86%E9%9C%80%E6%B1%82%E5%8D%8E%E4%B8%BA%E5%8D%87%E8%85%BE950%E8%8A%AF%E7%89%87%E9%81%AD%E5%90%84%E5%A4%A7%E5%8E%82%E5%95%86%E7%96%AF%E6%8A%A2/a-76984997"
             }
         ],
         "mil": [
+            {
+                "title": "IAEA总干事：伊朗高浓缩铀极可能仍藏于伊斯法罕地下隧道",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560618.htm"
+            },
+            {
+                "title": "美伊冲突逼近60天红线 国会启动战争权力审查(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-04-29",
+                "url": "https://www.secretchina.com/news/gb/2026/04/29/1098428.html"
+            },
+            {
+                "title": "DeepSeek又有大更新 这次它终于看得见了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560602.htm"
+            },
             {
                 "title": "往事随想录｜你交的烟税有可能没拿去造航母，而是给体制内发养老金了",
                 "source": "NewsAPI / Chinadigitaltimes.net",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-29",
                 "url": "https://www.ithome.com/0/945/185.htm"
-            },
-            {
-                "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-29",
-                "url": "https://36kr.com/p/3787806140636420"
-            },
-            {
-                "title": "OpenAI 硬件负责人的闭门分享，向我们揭示了为什么硬件「终点」仍是智能手机",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-04-29",
-                "url": "http://www.geekpark.net/news/363596"
-            },
-            {
-                "title": "一加 Ace 6 至尊版发布，天玑 9500 领衔，要打造最极致的射击游戏体验",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-04-29",
-                "url": "https://www.toodaylab.com/84016"
             },
             {
                 "title": "2026年4月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTjc1N1RUaTVjc3dFdWpFYmdMb25qQXJYUF9FbzdVWHZnUTAtcTRSRFdza0FGTWc1ZTVwdjhzeFBnY2VoMFd0ak91U25PUWNVU0ZreWJaVkxpZmlnVFJRVzZvUFd4NUdnTlhMeGV3?oc=5"
             },
             {
-                "title": "林剑：中国将于5月1日起担任联合国安理会轮值主席 - mfa.gov.cn",
+                "title": "中国同印度尼西亚的关系 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-30",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlV6MUFrUmdFY2JOZjhoM0E2WTBYdkZkVUozVWNuemdOY25IQW1TVm5Ia1oyUVNSaDZZQ3NEblN5YlVhejFnNkR5RkcwZVF5M0RGdGtwMkxSOG9sZ3NRTTduQnd1SHdNczVMVUkxNnRSRVlMZGc3VlpJTnVoSDJDbmJ3WUxLRmxXaWNoX0dYRzI?oc=5"
+                "date": "2022-01-27",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUS1vS05hcE5Sc0xDMHpTaF80STZHMV9FMGNkSGNoRzZlUjdOTEdCU1g2YTl5ZHZhd2p4dGYxNHZRV3BVcWp3RDY1ZmE4aUVjcTcyVTRtejdqQjR1MmZPRWJLakc5NlM1RlJpclZ4MGszVGEyNDc1UWFjY052UHVDZ2E1OGU2MFN0VGVzSQ?oc=5"
             },
             {
                 "title": "国防部：欢迎台湾同胞常回家看看 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "闻泰科技 2026 年一季度亏损 1.89 亿元，同比-172.41%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "法国监管机构：75%电商平台送检产品违反欧盟标准",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/220.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560626.htm"
             },
             {
-                "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+                "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-29",
-                "url": "https://36kr.com/p/3787748082293766"
+                "url": "https://36kr.com/p/3788151000751364"
             },
             {
-                "title": "查尔斯国王访美：为特朗普量身定制的批评与幽默",
-                "source": "NewsAPI / DW (English)",
+                "title": "美国以支付欠款施压联合国 要求系统性清理中共渗透(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-04-29",
-                "url": "https://www.dw.com/zh/%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E8%AE%BF%E7%BE%8E%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%88%B6%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8E%E5%B9%BD%E9%BB%98/a-76981888"
+                "url": "https://www.secretchina.com/news/gb/2026/04/30/1098431.html"
             },
             {
-                "title": "五一入梦万花奇境，乐高品牌在成都太古里创造了一片“桃花源”",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "美财政部警告金融机构：与中国“茶壶”炼厂做生意有被制裁风险",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-04-29",
-                "url": "https://www.toodaylab.com/84015"
+                "url": "https://www.voachinese.com/a/treasury-warns-of-sanctions-risks-linked-to-china-based-independent-teapot-oil-refineries-20260429/8144714.html"
             },
             {
-                "title": "小米之家：2026 五一假期可到店免费领取“奥利奥云朵蛋糕”，单店活动期间至少提供 12 个",
-                "source": "NewsAPI / Ithome.com",
+                "title": "IAEA总干事：伊朗高浓缩铀极可能仍藏于伊斯法罕地下隧道",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/185.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560618.htm"
             },
             {
                 "title": "2026年4月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTjc1N1RUaTVjc3dFdWpFYmdMb25qQXJYUF9FbzdVWHZnUTAtcTRSRFdza0FGTWc1ZTVwdjhzeFBnY2VoMFd0ak91U25PUWNVU0ZreWJaVkxpZmlnVFJRVzZvUFd4NUdnTlhMeGV3?oc=5"
             },
             {
-                "title": "林剑：中国将于5月1日起担任联合国安理会轮值主席 - mfa.gov.cn",
+                "title": "中国同印度尼西亚的关系 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-30",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlV6MUFrUmdFY2JOZjhoM0E2WTBYdkZkVUozVWNuemdOY25IQW1TVm5Ia1oyUVNSaDZZQ3NEblN5YlVhejFnNkR5RkcwZVF5M0RGdGtwMkxSOG9sZ3NRTTduQnd1SHdNczVMVUkxNnRSRVlMZGc3VlpJTnVoSDJDbmJ3WUxLRmxXaWNoX0dYRzI?oc=5"
+                "date": "2022-01-27",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUS1vS05hcE5Sc0xDMHpTaF80STZHMV9FMGNkSGNoRzZlUjdOTEdCU1g2YTl5ZHZhd2p4dGYxNHZRV3BVcWp3RDY1ZmE4aUVjcTcyVTRtejdqQjR1MmZPRWJLakc5NlM1RlJpclZ4MGszVGEyNDc1UWFjY052UHVDZ2E1OGU2MFN0VGVzSQ?oc=5"
             },
             {
                 "title": "国防部：欢迎台湾同胞常回家看看 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-30T13:48:17.749061+00:00"
+    "last_updated": "2026-04-30T19:16:18.982538+00:00"
 }
