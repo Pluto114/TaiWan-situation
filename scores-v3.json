@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "欧盟新制裁锁定香港转口商 报告揭欧洲技术经香港输往俄乌战场(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-29",
-                "url": "https://www.secretchina.com/news/gb/2026/04/29/1098377.html"
-            },
-            {
-                "title": "华为 WATCH FIT 5 智能手表首销：首发腕上微运动、1.82 英寸 AMOLED 屏，1099 元起",
+                "title": "马斯克称 OpenAI 是“自己的主意”：我本可以从最开始就追求营利",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/944/779.htm"
+                "url": "https://www.ithome.com/0/945/015.htm"
             },
             {
-                "title": "昔日“彩电一哥”康佳 2025 年巨亏 125.82 亿元同比扩大 237.73%，将被实施退市风险警示",
-                "source": "NewsAPI / Ithome.com",
+                "title": "俄罗斯富翁名下超级游艇成功穿越霍尔木兹海峡",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/944/769.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560540.htm"
             },
             {
-                "title": "8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作",
-                "source": "NewsAPI / 36kr.com",
+                "title": "30年DIY老牌GALAX退出海外PC市场 和国内影驰没关系",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-29",
-                "url": "https://36kr.com/p/3787150633065728"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560538.htm"
             },
             {
-                "title": "华为 Pura 90 Pro / Pro Max 手机开售：首发麒麟 9030S 芯片，售价 5499 元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "台积电全部清仓Arm股份 套现约2.31亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/944/744.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560526.htm"
+            },
+            {
+                "title": "美海军测试JDAM-LR远程制导套件：让“铁炸弹”变身低成本巡航导弹",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560524.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美海军测试JDAM-LR远程制导套件：让“铁炸弹”变身低成本巡航导弹",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560524.htm"
+            },
             {
                 "title": "含5亿美元援台 美众院通过2027拨款法案(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1560444.htm"
             },
             {
-                "title": "Google翻译上线口语纠正功能 率先在美印推出",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560430.htm"
-            },
-            {
-                "title": "第80届联合国大会主席贝尔伯克将访华 - mfa.gov.cn",
+                "title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-28",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnVVSEcyYV91MkRvb1RyTGRPOWp3ZnFIWk04d3RmVmprR3JWQkRQcjM0UlRYZ1J4LWNrWVV6M2NrZzFwSkhMTE1vN2VFYXB1NE5pMlN6bU9XTlVHQUx5YzVDQThXU1JPZFIycFliWUN4amlSa185cUstMlR3UHFiTWZLSm1SSEZTdVE?oc=5"
+                "date": "2026-04-29",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTjc1N1RUaTVjc3dFdWpFYmdMb25qQXJYUF9FbzdVWHZnUTAtcTRSRFdza0FGTWc1ZTVwdjhzeFBnY2VoMFd0ak91U25PUWNVU0ZreWJaVkxpZmlnVFJRVzZvUFd4NUdnTlhMeGV3?oc=5"
             },
             {
                 "title": "2026年4月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tN2Z1LXdhZlZ4Rmt1TUt2eWdSQ1VVMmVhWDEtaEFSSW95NW1CZHU1bG1YN2xBbVZ3Ul9ldVRPNmliU1k2a3lnNFhqXzJDUnJkZmtKcXYzV0dkZ3dwYWdqQWxYR2tIeGdzSEFOdlg2V3pDQ3E5ZWc?oc=5"
             },
             {
-                "title": "林剑：中方愿同非方一道，不断丰富零关税举措内涵，为全球南方团结协作注入新动力 - mfa.gov.cn",
+                "title": "​驻阿克托别总领事郭宇访问西哈萨克斯坦州 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-29",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmJNR0pqWUItdkdDRkJjU2RGckFpWXp3Q0hOcHZIQmt1Q25OVy1MTTVaYlRXbHlrYnNONWwzdzJqMlFkUHdnUEQ2eVRoSTB1M1FKdnR3NGV3NE1sM0xiNFZyNzlYSUNsa3BCS0wzMkxKZVRBTzE4VFdDMi15OENtay1mTXhUV1JVbmtSTGdJMWo?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-04-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaDVOLWZRZ1hHX1FKbHZSa1JwVXVCeGI5bDVETEhTRGVrWjVRTnMtVDRxS1ZfVXhtMVlqQUR6UXJtZ1J2TFBGWE9wOFRIOHVfRGtpNmJFYWRXSzRVQ0VBMHBBLUE3akJrYzMtN19Kc2ZucEwwSmNCZXBfNjlkYTJzZUpSSUI?oc=5"
             },
             {
                 "title": "看战士跳伞全过程 - 中国军网",
@@ -104,48 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR0VHQXNXQ2FxNmt4Qm9meldUV1dpMWphWVdLSWxiOThNd1owRTZLTVFkZkFSTGdPT0RSelNFNmxkazBwc2VoUmFFc1hmbEZ0MlE?oc=5"
             },
             {
-                "title": "《习近平谈治国理政》第五卷英文版中印尼推介会在雅加达举行 - 中国军网",
+                "title": "Chinese peacekeepers to South Sudan (Wau) complete infrastructure construction at Kuajok detachment point - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-29",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSHZHYlptZldXS2JLUnBlY3RKSFExVnpNa1I0LUM0X3ZRQ3RDdnZfNWxaUTBaYU9wd2RNSUJCbmt4emFkcDVOS1kwclhBVmxucWRwNjlvM0hDWUowV3c?oc=5"
+            },
+            {
+                "title": "学有所思丨以坚强党性涵养优良作风 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MUEVvY1BmUzRLQVF5OXRsQjRNVkEyZ3JLbTVvdTJLR1l2eE83TGZjOEltQ2tVZ2I0V1czdkpWX0g3VjBIeERTVUhUdWZwdU9VYnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13QWpCQl81ZnB2SnJQWTdzMVhsaFFtQk5XdHJhZGc4ZnNtVmxVRW43Zk1uN1dWR0lWUUFVSmVCUUthcUpIRnVrd3hodkVGaEZlQXc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "含5亿美元援台 美众院通过2027拨款法案(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-29",
-                "url": "https://www.secretchina.com/news/gb/2026/04/29/1098393.html"
-            },
-            {
-                "title": "昔日“彩电一哥”康佳 2025 年巨亏 125.82 亿元同比扩大 237.73%，将被实施退市风险警示",
+                "title": "马斯克称 OpenAI 是“自己的主意”：我本可以从最开始就追求营利",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/944/769.htm"
+                "url": "https://www.ithome.com/0/945/015.htm"
             },
             {
-                "title": "8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-29",
-                "url": "https://36kr.com/p/3787150633065728"
-            },
-            {
-                "title": "IT早报 0429：央视解读“中方禁止 Manus 并购案”；“探店网红”白冰偷税被追罚 1891 万元；DeepSeek 多位骨干离职去大厂；张雪就声援华为余承东争议进行回应...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-28",
-                "url": "https://www.ithome.com/0/944/734.htm"
-            },
-            {
-                "title": "Tim Cook出席白宫欢迎仪式 见证查尔斯三世首次访美国事活动",
+                "title": "30年DIY老牌GALAX退出海外PC市场 和国内影驰没关系",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560446.htm"
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560538.htm"
             },
             {
-                "title": "第80届联合国大会主席贝尔伯克将访华 - mfa.gov.cn",
+                "title": "雅迪等8家企业被约谈：禁加装改装、限速25公里/小时",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560522.htm"
+            },
+            {
+                "title": "紫光展锐 × Unity 中国联合发布舱驾一体解决方案，基于 A7870、A8880 芯片平台打造",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-29",
+                "url": "https://www.ithome.com/0/944/909.htm"
+            },
+            {
+                "title": "怒办签证是这个时代打工人离职前的最后一舞",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560496.htm"
+            },
+            {
+                "title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-28",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnVVSEcyYV91MkRvb1RyTGRPOWp3ZnFIWk04d3RmVmprR3JWQkRQcjM0UlRYZ1J4LWNrWVV6M2NrZzFwSkhMTE1vN2VFYXB1NE5pMlN6bU9XTlVHQUx5YzVDQThXU1JPZFIycFliWUN4amlSa185cUstMlR3UHFiTWZLSm1SSEZTdVE?oc=5"
+                "date": "2026-04-29",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTjc1N1RUaTVjc3dFdWpFYmdMb25qQXJYUF9FbzdVWHZnUTAtcTRSRFdza0FGTWc1ZTVwdjhzeFBnY2VoMFd0ak91U25PUWNVU0ZreWJaVkxpZmlnVFJRVzZvUFd4NUdnTlhMeGV3?oc=5"
             },
             {
                 "title": "2026年4月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tN2Z1LXdhZlZ4Rmt1TUt2eWdSQ1VVMmVhWDEtaEFSSW95NW1CZHU1bG1YN2xBbVZ3Ul9ldVRPNmliU1k2a3lnNFhqXzJDUnJkZmtKcXYzV0dkZ3dwYWdqQWxYR2tIeGdzSEFOdlg2V3pDQ3E5ZWc?oc=5"
             },
             {
-                "title": "林剑：中方愿同非方一道，不断丰富零关税举措内涵，为全球南方团结协作注入新动力 - mfa.gov.cn",
+                "title": "​驻阿克托别总领事郭宇访问西哈萨克斯坦州 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-29",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmJNR0pqWUItdkdDRkJjU2RGckFpWXp3Q0hOcHZIQmt1Q25OVy1MTTVaYlRXbHlrYnNONWwzdzJqMlFkUHdnUEQ2eVRoSTB1M1FKdnR3NGV3NE1sM0xiNFZyNzlYSUNsa3BCS0wzMkxKZVRBTzE4VFdDMi15OENtay1mTXhUV1JVbmtSTGdJMWo?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-04-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaDVOLWZRZ1hHX1FKbHZSa1JwVXVCeGI5bDVETEhTRGVrWjVRTnMtVDRxS1ZfVXhtMVlqQUR6UXJtZ1J2TFBGWE9wOFRIOHVfRGtpNmJFYWRXSzRVQ0VBMHBBLUE3akJrYzMtN19Kc2ZucEwwSmNCZXBfNjlkYTJzZUpSSUI?oc=5"
             },
             {
                 "title": "看战士跳伞全过程 - 中国军网",
@@ -172,13 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR0VHQXNXQ2FxNmt4Qm9meldUV1dpMWphWVdLSWxiOThNd1owRTZLTVFkZkFSTGdPT0RSelNFNmxkazBwc2VoUmFFc1hmbEZ0MlE?oc=5"
             },
             {
-                "title": "《习近平谈治国理政》第五卷英文版中印尼推介会在雅加达举行 - 中国军网",
+                "title": "Chinese peacekeepers to South Sudan (Wau) complete infrastructure construction at Kuajok detachment point - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-04-29",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSHZHYlptZldXS2JLUnBlY3RKSFExVnpNa1I0LUM0X3ZRQ3RDdnZfNWxaUTBaYU9wd2RNSUJCbmt4emFkcDVOS1kwclhBVmxucWRwNjlvM0hDWUowV3c?oc=5"
+            },
+            {
+                "title": "学有所思丨以坚强党性涵养优良作风 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-04-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MUEVvY1BmUzRLQVF5OXRsQjRNVkEyZ3JLbTVvdTJLR1l2eE83TGZjOEltQ2tVZ2I0V1czdkpWX0g3VjBIeERTVUhUdWZwdU9VYnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13QWpCQl81ZnB2SnJQWTdzMVhsaFFtQk5XdHJhZGc4ZnNtVmxVRW43Zk1uN1dWR0lWUUFVSmVCUUthcUpIRnVrd3hodkVGaEZlQXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-04-30T02:41:02.511056+00:00"
+    "last_updated": "2026-04-30T08:15:46.821135+00:00"
 }
