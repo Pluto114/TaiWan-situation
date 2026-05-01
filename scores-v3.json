@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "vivo Y600 Pro 手机正式开售：10200mAh 耐低温大电池、6.83 英寸 1.5K 屏，1999 元起",
+                "title": "力图重现 2CV“经典国民车”荣光，雪铁龙将推 1.5 万英镑 A00 级纯电小车",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-30",
-                "url": "https://www.ithome.com/0/945/295.htm"
+                "url": "https://www.ithome.com/0/945/568.htm"
             },
             {
-                "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "月活超2亿，闲鱼容不下中小卖家",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-30",
-                "url": "https://36kr.com/p/3788687934249989"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560722.htm"
             },
             {
-                "title": "“特朗普关税”首批退款将于5月11日左右发放",
-                "source": "NewsAPI / 36kr.com",
+                "title": "机构称2030年近半数全球智能手机将具备卫星连接能力",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-30",
-                "url": "https://36kr.com/newsflashes/3788613758147587"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560706.htm"
             },
             {
-                "title": "高通 FY2026Q2 营收小幅下滑 3%，预告年内交付首款超大规模 ASIC",
+                "title": "实验室带你过假期：2026.5.1 - 5.5 成都篇",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-04-30",
+                "url": "https://www.toodaylab.com/84017"
+            },
+            {
+                "title": "华为鸿蒙 HarmonyOS 6.1.1 (24) Beta1 版本发布，Camera Kit 在相机控制器提供影随人动能力",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-30",
-                "url": "https://www.ithome.com/0/945/259.htm"
-            },
-            {
-                "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-04-30",
-                "url": "http://www.geekpark.net/news/363594"
+                "url": "https://www.ithome.com/0/945/408.htm"
             }
         ],
         "mil": [
+            {
+                "title": "无视员工反对 Google：会“自豪地”继续与美国军方进行AI合作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560664.htm"
+            },
+            {
+                "title": "白宫反对Anthropic扩大Mythos模型使用范围的计划",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560648.htm"
+            },
+            {
+                "title": "半日主力资金加仓电子股，抛售电力设备股",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-30",
+                "url": "https://36kr.com/newsflashes/3788781865294852"
+            },
             {
                 "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
                 "source": "NewsAPI / 36kr.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-04-30",
                 "url": "https://36kr.com/p/3788573115735299"
-            },
-            {
-                "title": "IT早报 0430：微信朋友圈灰度改版；追觅回应造车质疑称我们不可能是乐视；小米自研芯片玄戒 O3 曝光；DeepSeek 灰度“识图模式”...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/245.htm"
-            },
-            {
-                "title": "IAEA总干事：伊朗高浓缩铀极可能仍藏于伊斯法罕地下隧道",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560618.htm"
-            },
-            {
-                "title": "美伊冲突逼近60天红线 国会启动战争权力审查(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-29",
-                "url": "https://www.secretchina.com/news/gb/2026/04/29/1098428.html"
             },
             {
                 "title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "月活超2亿，闲鱼容不下中小卖家",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-04-30",
-                "url": "https://36kr.com/p/3788687934249989"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560722.htm"
             },
             {
-                "title": "Bug频出，官方致歉：《异环》能跳出《幻塔》的剧本吗？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-30",
-                "url": "https://36kr.com/p/3787956437179395"
-            },
-            {
-                "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-04-30",
-                "url": "http://www.geekpark.net/news/363594"
-            },
-            {
-                "title": "消息称 OpenAI 调整“星际之门”计划：更大程度依赖算力租赁",
+                "title": "华为鸿蒙 HarmonyOS 6.1.1 (24) Beta1 版本发布，Camera Kit 在相机控制器提供影随人动能力",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-04-30",
-                "url": "https://www.ithome.com/0/945/255.htm"
+                "url": "https://www.ithome.com/0/945/408.htm"
             },
             {
-                "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI 走出屏幕，家电变成「机器人」",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-04-30",
-                "url": "https://36kr.com/p/3788573115735299"
+                "url": "http://www.geekpark.net/news/363602"
+            },
+            {
+                "title": "3351件\"心机商标\"被整治",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560690.htm"
+            },
+            {
+                "title": "联想、惠普、戴尔等笔记本电脑全线涨价20% 市场老板：现在根本没人买",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-04-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1560688.htm"
             },
             {
                 "title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-01T02:47:25.569228+00:00"
+    "last_updated": "2026-05-01T08:08:03.773228+00:00"
 }
