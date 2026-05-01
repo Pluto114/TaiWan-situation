@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "忧国家安全及产业受损，74位民主党议员联名敦促特朗普总统抵制中国汽车大举入美",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-04-29",
-                "url": "https://www.voachinese.com/a/house-dems-urge-trump-to-ban-on-chinese-automakers-20260429/8144739.html"
+                "title": "vivo Y600 Pro 手机正式开售：10200mAh 耐低温大电池、6.83 英寸 1.5K 屏，1999 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-30",
+                "url": "https://www.ithome.com/0/945/295.htm"
             },
             {
-                "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+                "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-29",
-                "url": "https://36kr.com/p/3788151000751364"
+                "date": "2026-04-30",
+                "url": "https://36kr.com/p/3788687934249989"
             },
             {
-                "title": "三星晶圆代工4nm芯片良率突破80% 有望正面迎击台积电",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560622.htm"
+                "title": "“特朗普关税”首批退款将于5月11日左右发放",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-30",
+                "url": "https://36kr.com/newsflashes/3788613758147587"
             },
             {
-                "title": "美财政部警告金融机构：与中国“茶壶”炼厂做生意有被制裁风险",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-04-29",
-                "url": "https://www.voachinese.com/a/treasury-warns-of-sanctions-risks-linked-to-china-based-independent-teapot-oil-refineries-20260429/8144714.html"
+                "title": "高通 FY2026Q2 营收小幅下滑 3%，预告年内交付首款超大规模 ASIC",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-30",
+                "url": "https://www.ithome.com/0/945/259.htm"
             },
             {
-                "title": "DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-04-29",
-                "url": "https://www.dw.com/zh/deepseek-v4-%E5%BC%95%E7%88%86%E9%9C%80%E6%B1%82%E5%8D%8E%E4%B8%BA%E5%8D%87%E8%85%BE950%E8%8A%AF%E7%89%87%E9%81%AD%E5%90%84%E5%A4%A7%E5%8E%82%E5%95%86%E7%96%AF%E6%8A%A2/a-76984997"
+                "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-04-30",
+                "url": "http://www.geekpark.net/news/363594"
             }
         ],
         "mil": [
+            {
+                "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-30",
+                "url": "https://36kr.com/p/3788687934249989"
+            },
+            {
+                "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-30",
+                "url": "https://36kr.com/p/3788573115735299"
+            },
+            {
+                "title": "IT早报 0430：微信朋友圈灰度改版；追觅回应造车质疑称我们不可能是乐视；小米自研芯片玄戒 O3 曝光；DeepSeek 灰度“识图模式”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-29",
+                "url": "https://www.ithome.com/0/945/245.htm"
+            },
             {
                 "title": "IAEA总干事：伊朗高浓缩铀极可能仍藏于伊斯法罕地下隧道",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,34 +74,16 @@
                 "url": "https://www.secretchina.com/news/gb/2026/04/29/1098428.html"
             },
             {
-                "title": "DeepSeek又有大更新 这次它终于看得见了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560602.htm"
-            },
-            {
-                "title": "往事随想录｜你交的烟税有可能没拿去造航母，而是给体制内发养老金了",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-04-29",
-                "url": "https://chinadigitaltimes.net/chinese/726888.html"
-            },
-            {
-                "title": "小米之家：2026 五一假期可到店免费领取“奥利奥云朵蛋糕”，单店活动期间至少提供 12 个",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-04-29",
-                "url": "https://www.ithome.com/0/945/185.htm"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTjc1N1RUaTVjc3dFdWpFYmdMb25qQXJYUF9FbzdVWHZnUTAtcTRSRFdza0FGTWc1ZTVwdjhzeFBnY2VoMFd0ak91U25PUWNVU0ZreWJaVkxpZmlnVFJRVzZvUFd4NUdnTlhMeGV3?oc=5"
             },
             {
                 "title": "2026年4月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-29",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tN2Z1LXdhZlZ4Rmt1TUt2eWdSQ1VVMmVhWDEtaEFSSW95NW1CZHU1bG1YN2xBbVZ3Ul9ldVRPNmliU1k2a3lnNFhqXzJDUnJkZmtKcXYzV0dkZ3dwYWdqQWxYR2tIeGdzSEFOdlg2V3pDQ3E5ZWc?oc=5"
-            },
-            {
-                "title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-29",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTjc1N1RUaTVjc3dFdWpFYmdMb25qQXJYUF9FbzdVWHZnUTAtcTRSRFdza0FGTWc1ZTVwdjhzeFBnY2VoMFd0ak91U25PUWNVU0ZreWJaVkxpZmlnVFJRVzZvUFd4NUdnTlhMeGV3?oc=5"
             },
             {
                 "title": "中国同印度尼西亚的关系 - mfa.gov.cn",
@@ -112,46 +112,46 @@
         ],
         "pol": [
             {
-                "title": "法国监管机构：75%电商平台送检产品违反欧盟标准",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560626.htm"
-            },
-            {
-                "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+                "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-04-29",
-                "url": "https://36kr.com/p/3788151000751364"
+                "date": "2026-04-30",
+                "url": "https://36kr.com/p/3788687934249989"
             },
             {
-                "title": "美国以支付欠款施压联合国 要求系统性清理中共渗透(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-04-29",
-                "url": "https://www.secretchina.com/news/gb/2026/04/30/1098431.html"
+                "title": "Bug频出，官方致歉：《异环》能跳出《幻塔》的剧本吗？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-30",
+                "url": "https://36kr.com/p/3787956437179395"
             },
             {
-                "title": "美财政部警告金融机构：与中国“茶壶”炼厂做生意有被制裁风险",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-04-29",
-                "url": "https://www.voachinese.com/a/treasury-warns-of-sanctions-risks-linked-to-china-based-independent-teapot-oil-refineries-20260429/8144714.html"
+                "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-04-30",
+                "url": "http://www.geekpark.net/news/363594"
             },
             {
-                "title": "IAEA总干事：伊朗高浓缩铀极可能仍藏于伊斯法罕地下隧道",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-04-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560618.htm"
+                "title": "消息称 OpenAI 调整“星际之门”计划：更大程度依赖算力租赁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-04-30",
+                "url": "https://www.ithome.com/0/945/255.htm"
             },
             {
-                "title": "2026年4月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-04-29",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tN2Z1LXdhZlZ4Rmt1TUt2eWdSQ1VVMmVhWDEtaEFSSW95NW1CZHU1bG1YN2xBbVZ3Ul9ldVRPNmliU1k2a3lnNFhqXzJDUnJkZmtKcXYzV0dkZ3dwYWdqQWxYR2tIeGdzSEFOdlg2V3pDQ3E5ZWc?oc=5"
+                "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-04-30",
+                "url": "https://36kr.com/p/3788573115735299"
             },
             {
                 "title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-04-29",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vTjc1N1RUaTVjc3dFdWpFYmdMb25qQXJYUF9FbzdVWHZnUTAtcTRSRFdza0FGTWc1ZTVwdjhzeFBnY2VoMFd0ak91U25PUWNVU0ZreWJaVkxpZmlnVFJRVzZvUFd4NUdnTlhMeGV3?oc=5"
+            },
+            {
+                "title": "2026年4月29日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-04-29",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tN2Z1LXdhZlZ4Rmt1TUt2eWdSQ1VVMmVhWDEtaEFSSW95NW1CZHU1bG1YN2xBbVZ3Ul9ldVRPNmliU1k2a3lnNFhqXzJDUnJkZmtKcXYzV0dkZ3dwYWdqQWxYR2tIeGdzSEFOdlg2V3pDQ3E5ZWc?oc=5"
             },
             {
                 "title": "中国同印度尼西亚的关系 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-04-30T19:16:18.982538+00:00"
+    "last_updated": "2026-05-01T02:47:25.569228+00:00"
 }
