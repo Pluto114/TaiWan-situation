@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "IMEC认为芯片工艺还能再战20年 2046年直奔0.2nm以下",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561076.htm"
+            },
+            {
+                "title": "特斯拉在加拿大价格腰斩 Model 3起售仅19.8万 比中国还低",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561072.htm"
+            },
+            {
+                "title": "伯克希尔·哈撒韦公司新任CEO首次主持年度股东大会 参会人数有所减少",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561068.htm"
+            },
+            {
+                "title": "苹果暗示可能正在酝酿一笔大型AI收购",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561062.htm"
+            },
+            {
                 "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-02",
                 "url": "https://36kr.com/p/3792155815304450"
-            },
-            {
-                "title": "谷歌、微软等四巨头今年将豪掷超 7000 亿美元，分析师直言 AI 熊市论就是“垃圾”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-02",
-                "url": "https://www.ithome.com/0/946/062.htm"
-            },
-            {
-                "title": "周杰伦伙伴，要被卖了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-02",
-                "url": "https://36kr.com/p/3791838183234816"
-            },
-            {
-                "title": "又一算力独角兽，冲击IPO",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-02",
-                "url": "https://36kr.com/p/3791796527602951"
-            },
-            {
-                "title": "国产自研6nm显卡砺算科技7G100官宣5月20日开售",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561012.htm"
             }
         ],
         "mil": [
+            {
+                "title": "张雪机车在匈牙利再夺一冠",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561074.htm"
+            },
+            {
+                "title": "伯克希尔·哈撒韦公司新任CEO首次主持年度股东大会 参会人数有所减少",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561068.htm"
+            },
+            {
+                "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-02",
+                "url": "https://36kr.com/p/3792228036615430"
+            },
             {
                 "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
                 "source": "NewsAPI / 36kr.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.ithome.com/0/946/034.htm"
             },
             {
-                "title": "又一算力独角兽，冲击IPO",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-02",
-                "url": "https://36kr.com/p/3791796527602951"
-            },
-            {
-                "title": "花了天价造反导系统 为什么拦导弹还是像赌博？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561016.htm"
-            },
-            {
-                "title": "那个在OpenAI修中文的人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1560982.htm"
-            },
-            {
                 "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-02",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTRrdHVfYlFhVjdYa1J4VHk3akg3T3dsWlRQdjYydVEyOGtJZFFCekZjYnJlMWtFSXlRSUFWeTB3cVhYSWp2Qm95aEZsNkdBdnZ5dXpZRkF5VE1Pb09Od1hCZl84enlGOUw2cDBLQ1lrRWg1Ti03aVVnMWZmS2lZS3UzbkpkN0JTR1E?oc=5"
             },
             {
-                "title": "外交部发言人就东京审判开庭80周年答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OUTFPTndLTmdJbkc4ZU93dzNHbDQ4bmNwUEtuM0ZaUDhpcG96bS1ycGwwY1FtMjZrdmtRcHZELTh4V18xcWZvaWNxNFl4OHZlU2h3Nm1XWUpMc0JGbWdqT1NHUHcyNm9valp4blpLTkRoUzBMc2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
+            },
+            {
+                "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSkRnMkMxbFB5YThubVlrQUZQYnJhaG5ONk45TThlWUs3VW52YmlkbjN6TjczOTFzQnBXUTJfS3pYN2RyNkV6V2l2WmVMcWRRNkE?oc=5"
             },
             {
                 "title": "今晚7点，不见不散！ - 中国军网",
@@ -102,15 +108,33 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EWnZwUk5kZVFCZ1RYRnlUUmxfczdWN0FNVk1uMzBSUDBmSUtxaHFSbThKc1FPMEhGdmFOaTlPYnNuNXNqa0FoZHBkWldaWkdDYWc?oc=5"
-            },
-            {
-                "title": "新发现东京审判“萨顿档案”揭露侵华日军四方面暴行 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DekJpanFaQ3hUemhCSVRKV2pkVl9vLU5CVVMzd3BnYlV0d0JiRFg5SXQ5eGJKODlybVpFU0ozVEU1RnpBUWlPVUZkc05tNXQ4Rnc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "伯克希尔·哈撒韦公司新任CEO首次主持年度股东大会 参会人数有所减少",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561068.htm"
+            },
+            {
+                "title": "关于时间管理，关于高效工作，博恩·崔西要再次提醒你：吃掉那只青蛙！",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-05-02",
+                "url": "https://www.toodaylab.com/84019"
+            },
+            {
+                "title": "苹果暗示可能正在酝酿一笔大型AI收购",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561062.htm"
+            },
+            {
+                "title": "加情报局揭中共“全政府式”渗透：冷战以来最严峻(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-02",
+                "url": "https://www.secretchina.com/news/gb/2026/05/02/1098579.html"
+            },
             {
                 "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
                 "source": "NewsAPI / 36kr.com",
@@ -118,30 +142,6 @@
                 "url": "https://36kr.com/p/3792155815304450"
             },
             {
-                "title": "周杰伦伙伴，要被卖了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-02",
-                "url": "https://36kr.com/p/3791838183234816"
-            },
-            {
-                "title": "又一算力独角兽，冲击IPO",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-02",
-                "url": "https://36kr.com/p/3791796527602951"
-            },
-            {
-                "title": "Uber想把全球数百万名司机变成公司的“传感器网络”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561034.htm"
-            },
-            {
-                "title": "萨姆·阿尔特曼：OpenAI 不想用 AI 把你“换掉”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561028.htm"
-            },
-            {
                 "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-02",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTRrdHVfYlFhVjdYa1J4VHk3akg3T3dsWlRQdjYydVEyOGtJZFFCekZjYnJlMWtFSXlRSUFWeTB3cVhYSWp2Qm95aEZsNkdBdnZ5dXpZRkF5VE1Pb09Od1hCZl84enlGOUw2cDBLQ1lrRWg1Ti03aVVnMWZmS2lZS3UzbkpkN0JTR1E?oc=5"
             },
             {
-                "title": "外交部发言人就东京审判开庭80周年答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OUTFPTndLTmdJbkc4ZU93dzNHbDQ4bmNwUEtuM0ZaUDhpcG96bS1ycGwwY1FtMjZrdmtRcHZELTh4V18xcWZvaWNxNFl4OHZlU2h3Nm1XWUpMc0JGbWdqT1NHUHcyNm9valp4blpLTkRoUzBMc2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
+            },
+            {
+                "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSkRnMkMxbFB5YThubVlrQUZQYnJhaG5ONk45TThlWUs3VW52YmlkbjN6TjczOTFzQnBXUTJfS3pYN2RyNkV6V2l2WmVMcWRRNkE?oc=5"
             },
             {
                 "title": "今晚7点，不见不散！ - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EWnZwUk5kZVFCZ1RYRnlUUmxfczdWN0FNVk1uMzBSUDBmSUtxaHFSbThKc1FPMEhGdmFOaTlPYnNuNXNqa0FoZHBkWldaWkdDYWc?oc=5"
-            },
-            {
-                "title": "新发现东京审判“萨顿档案”揭露侵华日军四方面暴行 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DekJpanFaQ3hUemhCSVRKV2pkVl9vLU5CVVMzd3BnYlV0d0JiRFg5SXQ5eGJKODlybVpFU0ozVEU1RnpBUWlPVUZkc05tNXQ4Rnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-03T13:03:37.807824+00:00"
+    "last_updated": "2026-05-03T18:55:52.437663+00:00"
 }
