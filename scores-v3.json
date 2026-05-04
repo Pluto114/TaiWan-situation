@@ -12,38 +12,44 @@
     "news_sources": {
         "econ": [
             {
-                "title": "魔法原子进军硅谷背后：世界模型野望与生态卡位",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-03",
-                "url": "http://www.geekpark.net/news/363699"
-            },
-            {
-                "title": "张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-03",
-                "url": "http://www.geekpark.net/news/363698"
-            },
-            {
-                "title": "小米 MIX 5 手机曝光：真全面屏回归、磁吸镜头技术，登陆全球市场",
+                "title": "5000 美元一条视频：曝 OpenAI 注资“黑金”组织，收买网红宣扬中国 AI 威胁论",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-02",
-                "url": "https://www.ithome.com/0/946/089.htm"
+                "date": "2026-05-03",
+                "url": "https://www.ithome.com/0/946/136.htm"
             },
             {
-                "title": "乌克兰只用四年跃升为反无人机技术强国",
+                "title": "TP-Link申请豁免称是美公司 CEO花百万美元买移民签证",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561086.htm"
+                "date": "2026-05-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561120.htm"
             },
             {
-                "title": "IT早报 0503：张雪机车匈牙利站再夺冠军；俞浩再放狠话称追觅手机对标苹果三星；苹果 iPhone18Pro 或采取激进定价策略；中国移动“移动梦网”等业务下线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-02",
-                "url": "https://www.ithome.com/0/946/087.htm"
+                "title": "马里兰州成为美国首个禁止杂货店监控定价的州",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561118.htm"
+            },
+            {
+                "title": "时隔十五年，罗永浩再“锤”西门子",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561104.htm"
+            },
+            {
+                "title": "德国经济界：美加征关税或对德产业造成实质性冲击",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561096.htm"
             }
         ],
         "mil": [
             {
+                "title": "习携九政治局委员到上海另立中央？三人或处境不妙(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-03",
+                "url": "https://www.secretchina.com/news/gb/2026/05/03/1098593.html"
+            },
+            {
                 "title": "魔法原子进军硅谷背后：世界模型野望与生态卡位",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-03",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-02",
                 "url": "https://www.ithome.com/0/946/087.htm"
-            },
-            {
-                "title": "张雪机车在匈牙利再夺一冠",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561074.htm"
             },
             {
                 "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "魔法原子进军硅谷背后：世界模型野望与生态卡位",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "每周鞋报：无底绑带鞋“破圈”，还有三组联名系列和三款运动鞋值得留意",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-05-03",
-                "url": "http://www.geekpark.net/news/363699"
+                "url": "https://www.toodaylab.com/84021"
             },
             {
-                "title": "张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-03",
-                "url": "http://www.geekpark.net/news/363698"
-            },
-            {
-                "title": "微软与CISA警告影响几乎所有主流Linux系统的严重漏洞",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561084.htm"
-            },
-            {
-                "title": "“愚民节”投影抗争跨三洲四国七市 中领馆如临大敌(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-02",
-                "url": "https://www.secretchina.com/news/gb/2026/05/03/1098581.html"
-            },
-            {
-                "title": "IT早报 0503：张雪机车匈牙利站再夺冠军；俞浩再放狠话称追觅手机对标苹果三星；苹果 iPhone18Pro 或采取激进定价策略；中国移动“移动梦网”等业务下线...",
+                "title": "5000 美元一条视频：曝 OpenAI 注资“黑金”组织，收买网红宣扬中国 AI 威胁论",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-02",
-                "url": "https://www.ithome.com/0/946/087.htm"
+                "date": "2026-05-03",
+                "url": "https://www.ithome.com/0/946/136.htm"
+            },
+            {
+                "title": "一图看懂DeepSeek V4与美国顶级AI差距：落后8个月",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561130.htm"
+            },
+            {
+                "title": "TP-Link申请豁免称是美公司 CEO花百万美元买移民签证",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561120.htm"
+            },
+            {
+                "title": "消费者投诉后被指因“不良体验”账户被顺丰拉黑 律师称封禁涉嫌违约",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561108.htm"
             },
             {
                 "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-04T02:37:11.738039+00:00"
+    "last_updated": "2026-05-04T08:25:52.990291+00:00"
 }
