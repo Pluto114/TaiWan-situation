@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
+                "title": "黄仁勋称英伟达中国市场份额已降为零，美国出口管制属于是搬起石头砸自己的脚",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-03",
+                "url": "https://www.ithome.com/0/946/181.htm"
+            },
+            {
+                "title": "丰田投资 3000 亿日元在印度建新厂，剑指百万产能与中东、非洲等新兴市场",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-03",
+                "url": "https://www.ithome.com/0/946/163.htm"
+            },
+            {
+                "title": "比亚迪王朝网首款 D 级旗舰 SUV“大唐 EV”到店，预售 25 万起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-03",
+                "url": "https://www.ithome.com/0/946/160.htm"
+            },
+            {
+                "title": "通用汽车称数字订阅服务被严重低估：Super Cruise 辅助驾驶续订率近 40%，每用户平均贡献 20 美元月营收",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-03",
+                "url": "https://www.ithome.com/0/946/141.htm"
+            },
+            {
                 "title": "5000 美元一条视频：曝 OpenAI 注资“黑金”组织，收买网红宣扬中国 AI 威胁论",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-03",
                 "url": "https://www.ithome.com/0/946/136.htm"
-            },
-            {
-                "title": "TP-Link申请豁免称是美公司 CEO花百万美元买移民签证",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561120.htm"
-            },
-            {
-                "title": "马里兰州成为美国首个禁止杂货店监控定价的州",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561118.htm"
-            },
-            {
-                "title": "时隔十五年，罗永浩再“锤”西门子",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561104.htm"
-            },
-            {
-                "title": "德国经济界：美加征关税或对德产业造成实质性冲击",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561096.htm"
             }
         ],
         "mil": [
@@ -74,12 +74,6 @@
                 "url": "https://www.ithome.com/0/946/087.htm"
             },
             {
-                "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-02",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWlQ0QXIzak1zN21IZ2FVMDlCeFlFT2lIYk1YRmRLYkxKYm4taHpHaGNSeUZUV2lpOUZxeEZOX2ZjeWV0dFBlazVhNTdSYXlKUDl2WHRla1JVbnNLLU5mZGRrZzd3TUkwUXRkdDVtV0stZkswelE?oc=5"
-            },
-            {
                 "title": "乌兹别克斯坦总理阿里波夫将访华并举行中乌政府间合作委员会第八次会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-03",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-03",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
+            },
+            {
+                "title": "孟加拉国外交部长卡利勒将访华_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSk44eTZRTHdXUDljX3c4NDgzUXkyM21abEJxVUo1RUtnNjhoZlM4ZkJUekVyeGpic25IS3hkU0k3NzZ2VlE2TE1lR3RLbDk0ZzlrTTNDb2cteU9acVdfSUdIdnJLbGpYeTgwUHZhbF85RHlWT3NwZWtidFB3NGp4Y0VITDA2c3BTMlE?oc=5"
             },
             {
                 "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
@@ -104,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uc2JjS3ZiYlZLbk4zSVBoWHEtLWR3LUF1UU5XZGpfTFZSZC1XLW8tdzBON0lqb04tRXczN2pvNU5IRV9fYThZaFQwTXI?oc=5"
             },
             {
-                "title": "特稿｜如何继续这场“未完结的正义审判”——东京审判开庭80周年启示 - 中国军网",
+                "title": "新闻调查｜东京审判80年 日本军国主义潜滋暗长 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EWnZwUk5kZVFCZ1RYRnlUUmxfczdWN0FNVk1uMzBSUDBmSUtxaHFSbThKc1FPMEhGdmFOaTlPYnNuNXNqa0FoZHBkWldaWkdDYWc?oc=5"
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6MkJiOG04cHRfbmtOTmt4dDFWTWVjX21vLWJiZ1Q4dzZ1RktHTG5weVh1NXZmX1NZZ3gyNXNNX0hqdmc2bmJEbGRDbnVrMHpVWEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "每周鞋报：无底绑带鞋“破圈”，还有三组联名系列和三款运动鞋值得留意",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-05-03",
-                "url": "https://www.toodaylab.com/84021"
-            },
-            {
-                "title": "5000 美元一条视频：曝 OpenAI 注资“黑金”组织，收买网红宣扬中国 AI 威胁论",
+                "title": "黄仁勋称英伟达中国市场份额已降为零，美国出口管制属于是搬起石头砸自己的脚",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/136.htm"
+                "url": "https://www.ithome.com/0/946/181.htm"
             },
             {
-                "title": "一图看懂DeepSeek V4与美国顶级AI差距：落后8个月",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "网传“全国电动自行车淘汰赛”是谣言，官方明确已买车辆不强制淘汰",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561130.htm"
+                "url": "https://www.ithome.com/0/946/165.htm"
             },
             {
-                "title": "TP-Link申请豁免称是美公司 CEO花百万美元买移民签证",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "通用汽车称数字订阅服务被严重低估：Super Cruise 辅助驾驶续订率近 40%，每用户平均贡献 20 美元月营收",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561120.htm"
+                "url": "https://www.ithome.com/0/946/141.htm"
             },
             {
-                "title": "消费者投诉后被指因“不良体验”账户被顺丰拉黑 律师称封禁涉嫌违约",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "广汽国际：1-4 月累计出口量 70474 台，同比增幅 133.9%",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561108.htm"
+                "url": "https://www.ithome.com/0/946/139.htm"
             },
             {
-                "title": "外交部发言人就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-02",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWlQ0QXIzak1zN21IZ2FVMDlCeFlFT2lIYk1YRmRLYkxKYm4taHpHaGNSeUZUV2lpOUZxeEZOX2ZjeWV0dFBlazVhNTdSYXlKUDl2WHRla1JVbnNLLU5mZGRrZzd3TUkwUXRkdDVtV0stZkswelE?oc=5"
+                "title": "德国削减发展援助：慈善组织警告这事关“生死”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-03",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E5%89%8A%E5%87%8F%E5%8F%91%E5%B1%95%E6%8F%B4%E5%8A%A9%E6%85%88%E5%96%84%E7%BB%84%E7%BB%87%E8%AD%A6%E5%91%8A%E8%BF%99%E4%BA%8B%E5%85%B3%E7%94%9F%E6%AD%BB/a-77000717"
             },
             {
                 "title": "乌兹别克斯坦总理阿里波夫将访华并举行中乌政府间合作委员会第八次会议 - mfa.gov.cn",
@@ -160,6 +154,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
             },
             {
+                "title": "孟加拉国外交部长卡利勒将访华_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSk44eTZRTHdXUDljX3c4NDgzUXkyM21abEJxVUo1RUtnNjhoZlM4ZkJUekVyeGpic25IS3hkU0k3NzZ2VlE2TE1lR3RLbDk0ZzlrTTNDb2cteU9acVdfSUdIdnJLbGpYeTgwUHZhbF85RHlWT3NwZWtidFB3NGp4Y0VITDA2c3BTMlE?oc=5"
+            },
+            {
                 "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-03",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uc2JjS3ZiYlZLbk4zSVBoWHEtLWR3LUF1UU5XZGpfTFZSZC1XLW8tdzBON0lqb04tRXczN2pvNU5IRV9fYThZaFQwTXI?oc=5"
             },
             {
-                "title": "特稿｜如何继续这场“未完结的正义审判”——东京审判开庭80周年启示 - 中国军网",
+                "title": "新闻调查｜东京审判80年 日本军国主义潜滋暗长 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EWnZwUk5kZVFCZ1RYRnlUUmxfczdWN0FNVk1uMzBSUDBmSUtxaHFSbThKc1FPMEhGdmFOaTlPYnNuNXNqa0FoZHBkWldaWkdDYWc?oc=5"
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6MkJiOG04cHRfbmtOTmt4dDFWTWVjX21vLWJiZ1Q4dzZ1RktHTG5weVh1NXZmX1NZZ3gyNXNNX0hqdmc2bmJEbGRDbnVrMHpVWEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-04T08:25:52.990291+00:00"
+    "last_updated": "2026-05-04T13:52:06.015363+00:00"
 }
