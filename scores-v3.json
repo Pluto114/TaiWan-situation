@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "黄仁勋：英伟达中国市场份额已降为零 美国出口管制效果适得其反",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561158.htm"
+                "title": "小米 REDMI 17 系列手机现身 IMEI 数据库，瞄准入门级市场",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-04",
+                "url": "https://www.ithome.com/0/946/218.htm"
             },
             {
-                "title": "从寻找一个适合“祠堂”的tag说起",
-                "source": "NewsAPI / Openstreetmap.org",
-                "date": "2026-05-03",
-                "url": "https://www.openstreetmap.org/user/WayeeTan/diary/408617"
+                "title": "借 AI 芯片风口，日本卫浴巨头 TOTO 半导体陶瓷业务利润占比过半",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-04",
+                "url": "https://www.ithome.com/0/946/216.htm"
             },
             {
-                "title": "我国高分辨大宽带集成光子光谱仪成功实现天文观测",
+                "title": "传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-04",
+                "url": "http://www.geekpark.net/news/363701"
+            },
+            {
+                "title": "IT早报 0504：苹果 iOS 27 将重心转向 AI；黄仁勋称英伟达中国市场份额已降为零；华为 5A 通信最新支持设备清单公布；小米 MIX 5 真全面屏手机回归...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/195.htm"
+                "url": "https://www.ithome.com/0/946/203.htm"
             },
             {
-                "title": "黄仁勋称英伟达中国市场份额已降为零，美国出口管制属于是搬起石头砸自己的脚",
-                "source": "NewsAPI / Ithome.com",
+                "title": "贝森特敦促中方停止购买伊朗能源 川普如期访华(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/181.htm"
-            },
-            {
-                "title": "丰田投资 3000 亿日元在印度建新厂，剑指百万产能与中东、非洲等新兴市场",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/163.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/05/04/1098621.html"
             }
         ],
         "mil": [
+            {
+                "title": "传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-04",
+                "url": "http://www.geekpark.net/news/363701"
+            },
             {
                 "title": "习携九政治局委员到上海另立中央？三人或处境不妙(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,28 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561086.htm"
             },
             {
-                "title": "IT早报 0503：张雪机车匈牙利站再夺冠军；俞浩再放狠话称追觅手机对标苹果三星；苹果 iPhone18Pro 或采取激进定价策略；中国移动“移动梦网”等业务下线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-02",
-                "url": "https://www.ithome.com/0/946/087.htm"
-            },
-            {
-                "title": "乌兹别克斯坦总理阿里波夫将访华并举行中乌政府间合作委员会第八次会议 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTRrdHVfYlFhVjdYa1J4VHk3akg3T3dsWlRQdjYydVEyOGtJZFFCekZjYnJlMWtFSXlRSUFWeTB3cVhYSWp2Qm95aEZsNkdBdnZ5dXpZRkF5VE1Pb09Od1hCZl84enlGOUw2cDBLQ1lrRWg1Ti03aVVnMWZmS2lZS3UzbkpkN0JTR1E?oc=5"
-            },
-            {
-                "title": "中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
-            },
-            {
-                "title": "孟加拉国外交部长卡利勒将访华_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平对湖南长沙浏阳市一烟花厂爆炸事故作出重要指示 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-04",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSk44eTZRTHdXUDljX3c4NDgzUXkyM21abEJxVUo1RUtnNjhoZlM4ZkJUekVyeGpic25IS3hkU0k3NzZ2VlE2TE1lR3RLbDk0ZzlrTTNDb2cteU9acVdfSUdIdnJLbGpYeTgwUHZhbF85RHlWT3NwZWtidFB3NGp4Y0VITDA2c3BTMlE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jLXZGWHZZb1hESzZHaE9OQkdOTHVVYURmX0ptTUJGdFJ4YU8zNm54ZER1ODhtYTFhLVFiMHNrTHc0V3l0Y3I4SW5SMzQ1UVE2ZFA1SHdIbmk?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXZ2Z3NnTTVyU0FCMVVZSHI2dm56TUFIY3g0ZFdMVzhDY0tfYnRncjJqalRaZHVGUE9NLXJNR2trVnFPWVFTU1NWd0luSGljNVd2OHpmVFVyRkoyaU1oOGFkckNWOVBnZ3pPQWtzTFlrc1lHMFkwUWtHd29vVjMzcmNvai0?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazNuWUpkRFpnRDRRQVNWZDQwOGZhS0t2RER0endLWG56UXFGQVlBNE9Ic3pTT1M1QlRPMjMxSmc2SEJrQmlrR2thQWlaWVRBRFNrTlpqQmQzTi1VQkpodVdPSThOUjRfQUNtMWdfR1ZzUFZKM003ZlRSeXR4WWVDZlFCVmc?oc=5"
             },
             {
                 "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "黄仁勋：英伟达中国市场份额已降为零 美国出口管制效果适得其反",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561158.htm"
+                "title": "借 AI 芯片风口，日本卫浴巨头 TOTO 半导体陶瓷业务利润占比过半",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-04",
+                "url": "https://www.ithome.com/0/946/216.htm"
             },
             {
-                "title": "从寻找一个适合“祠堂”的tag说起",
-                "source": "NewsAPI / Openstreetmap.org",
-                "date": "2026-05-03",
-                "url": "https://www.openstreetmap.org/user/WayeeTan/diary/408617"
+                "title": "卡普空早期本地化：一人撑起游戏译制",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-04",
+                "url": "https://www.ithome.com/0/946/213.htm"
             },
             {
-                "title": "我国高分辨大宽带集成光子光谱仪成功实现天文观测",
+                "title": "传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-04",
+                "url": "http://www.geekpark.net/news/363701"
+            },
+            {
+                "title": "IT早报 0504：苹果 iOS 27 将重心转向 AI；黄仁勋称英伟达中国市场份额已降为零；华为 5A 通信最新支持设备清单公布；小米 MIX 5 真全面屏手机回归...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/195.htm"
+                "url": "https://www.ithome.com/0/946/203.htm"
             },
             {
-                "title": "继“液态玻璃”之后：苹果 iOS 27 将重心转向 AI，Siri 迎来独立 App 与多任务指令支持",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国被以色列视为“反犹主义国家”后的最坏结果(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/194.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/05/04/1098619.html"
             },
             {
-                "title": "黄仁勋称英伟达中国市场份额已降为零，美国出口管制属于是搬起石头砸自己的脚",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/181.htm"
-            },
-            {
-                "title": "乌兹别克斯坦总理阿里波夫将访华并举行中乌政府间合作委员会第八次会议 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTRrdHVfYlFhVjdYa1J4VHk3akg3T3dsWlRQdjYydVEyOGtJZFFCekZjYnJlMWtFSXlRSUFWeTB3cVhYSWp2Qm95aEZsNkdBdnZ5dXpZRkF5VE1Pb09Od1hCZl84enlGOUw2cDBLQ1lrRWg1Ti03aVVnMWZmS2lZS3UzbkpkN0JTR1E?oc=5"
-            },
-            {
-                "title": "中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
-            },
-            {
-                "title": "孟加拉国外交部长卡利勒将访华_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平对湖南长沙浏阳市一烟花厂爆炸事故作出重要指示 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-04",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSk44eTZRTHdXUDljX3c4NDgzUXkyM21abEJxVUo1RUtnNjhoZlM4ZkJUekVyeGpic25IS3hkU0k3NzZ2VlE2TE1lR3RLbDk0ZzlrTTNDb2cteU9acVdfSUdIdnJLbGpYeTgwUHZhbF85RHlWT3NwZWtidFB3NGp4Y0VITDA2c3BTMlE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jLXZGWHZZb1hESzZHaE9OQkdOTHVVYURmX0ptTUJGdFJ4YU8zNm54ZER1ODhtYTFhLVFiMHNrTHc0V3l0Y3I4SW5SMzQ1UVE2ZFA1SHdIbmk?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXZ2Z3NnTTVyU0FCMVVZSHI2dm56TUFIY3g0ZFdMVzhDY0tfYnRncjJqalRaZHVGUE9NLXJNR2trVnFPWVFTU1NWd0luSGljNVd2OHpmVFVyRkoyaU1oOGFkckNWOVBnZ3pPQWtzTFlrc1lHMFkwUWtHd29vVjMzcmNvai0?oc=5"
+            },
+            {
+                "title": "- mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-04",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazNuWUpkRFpnRDRRQVNWZDQwOGZhS0t2RER0endLWG56UXFGQVlBNE9Ic3pTT1M1QlRPMjMxSmc2SEJrQmlrR2thQWlaWVRBRFNrTlpqQmQzTi1VQkpodVdPSThOUjRfQUNtMWdfR1ZzUFZKM003ZlRSeXR4WWVDZlFCVmc?oc=5"
             },
             {
                 "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-04T19:25:11.414830+00:00"
+    "last_updated": "2026-05-05T02:30:47.841099+00:00"
 }
