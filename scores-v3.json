@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米 REDMI 17 系列手机现身 IMEI 数据库，瞄准入门级市场",
+                "title": "“DeepSeek版Claude Code” GitHub 2.3k星",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561238.htm"
+            },
+            {
+                "title": "内存市场冰火两重天：DDR4价格单月暴跌16% DDR5还得涨",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561232.htm"
+            },
+            {
+                "title": "他曾在法庭上击败马斯克 如今又替奥特曼出战",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561224.htm"
+            },
+            {
+                "title": "消息称小米 Q5 机型非 MIX 5，而是小米 18 系列",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-04",
-                "url": "https://www.ithome.com/0/946/218.htm"
+                "url": "https://www.ithome.com/0/946/241.htm"
             },
             {
-                "title": "借 AI 芯片风口，日本卫浴巨头 TOTO 半导体陶瓷业务利润占比过半",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苹果扫光LPDDR5内存锁死iPhone定价 将国产Android手机厂商锁进泥潭",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-04",
-                "url": "https://www.ithome.com/0/946/216.htm"
-            },
-            {
-                "title": "传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-04",
-                "url": "http://www.geekpark.net/news/363701"
-            },
-            {
-                "title": "IT早报 0504：苹果 iOS 27 将重心转向 AI；黄仁勋称英伟达中国市场份额已降为零；华为 5A 通信最新支持设备清单公布；小米 MIX 5 真全面屏手机回归...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/203.htm"
-            },
-            {
-                "title": "贝森特敦促中方停止购买伊朗能源 川普如期访华(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-03",
-                "url": "https://www.secretchina.com/news/gb/2026/05/04/1098621.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561188.htm"
             }
         ],
         "mil": [
+            {
+                "title": "他曾在法庭上击败马斯克 如今又替奥特曼出战",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561224.htm"
+            },
             {
                 "title": "传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布",
                 "source": "NewsAPI / Geekpark.net",
@@ -68,18 +74,6 @@
                 "url": "http://www.geekpark.net/news/363698"
             },
             {
-                "title": "乌克兰只用四年跃升为反无人机技术强国",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561086.htm"
-            },
-            {
-                "title": "习近平对湖南长沙浏阳市一烟花厂爆炸事故作出重要指示 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jLXZGWHZZb1hESzZHaE9OQkdOTHVVYURmX0ptTUJGdFJ4YU8zNm54ZER1ODhtYTFhLVFiMHNrTHc0V3l0Y3I4SW5SMzQ1UVE2ZFA1SHdIbmk?oc=5"
-            },
-            {
                 "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-04",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazNuWUpkRFpnRDRRQVNWZDQwOGZhS0t2RER0endLWG56UXFGQVlBNE9Ic3pTT1M1QlRPMjMxSmc2SEJrQmlrR2thQWlaWVRBRFNrTlpqQmQzTi1VQkpodVdPSThOUjRfQUNtMWdfR1ZzUFZKM003ZlRSeXR4WWVDZlFCVmc?oc=5"
             },
             {
-                "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSkRnMkMxbFB5YThubVlrQUZQYnJhaG5ONk45TThlWUs3VW52YmlkbjN6TjczOTFzQnBXUTJfS3pYN2RyNkV6V2l2WmVMcWRRNkE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
             },
             {
                 "title": "今晚7点，不见不散！ - 中国军网",
@@ -108,44 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6MkJiOG04cHRfbmtOTmt4dDFWTWVjX21vLWJiZ1Q4dzZ1RktHTG5weVh1NXZmX1NZZ3gyNXNNX0hqdmc2bmJEbGRDbnVrMHpVWEE?oc=5"
+            },
+            {
+                "title": "特稿｜如何继续这场“未完结的正义审判”——东京审判开庭80周年启示 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EWnZwUk5kZVFCZ1RYRnlUUmxfczdWN0FNVk1uMzBSUDBmSUtxaHFSbThKc1FPMEhGdmFOaTlPYnNuNXNqa0FoZHBkWldaWkdDYWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "借 AI 芯片风口，日本卫浴巨头 TOTO 半导体陶瓷业务利润占比过半",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-04",
-                "url": "https://www.ithome.com/0/946/216.htm"
-            },
-            {
-                "title": "卡普空早期本地化：一人撑起游戏译制",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-04",
-                "url": "https://www.ithome.com/0/946/213.htm"
-            },
-            {
-                "title": "传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-04",
-                "url": "http://www.geekpark.net/news/363701"
-            },
-            {
-                "title": "IT早报 0504：苹果 iOS 27 将重心转向 AI；黄仁勋称英伟达中国市场份额已降为零；华为 5A 通信最新支持设备清单公布；小米 MIX 5 真全面屏手机回归...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-03",
-                "url": "https://www.ithome.com/0/946/203.htm"
-            },
-            {
-                "title": "中国被以色列视为“反犹主义国家”后的最坏结果(图)",
+                "title": "爆中共为阻止官员外逃 五一假期大量取消国际航班(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-03",
-                "url": "https://www.secretchina.com/news/gb/2026/05/04/1098619.html"
+                "date": "2026-05-04",
+                "url": "https://www.secretchina.com/news/gb/2026/05/04/1098635.html"
             },
             {
-                "title": "习近平对湖南长沙浏阳市一烟花厂爆炸事故作出重要指示 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "“DeepSeek版Claude Code” GitHub 2.3k星",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jLXZGWHZZb1hESzZHaE9OQkdOTHVVYURmX0ptTUJGdFJ4YU8zNm54ZER1ODhtYTFhLVFiMHNrTHc0V3l0Y3I4SW5SMzQ1UVE2ZFA1SHdIbmk?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561238.htm"
+            },
+            {
+                "title": "他曾在法庭上击败马斯克 如今又替奥特曼出战",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561224.htm"
+            },
+            {
+                "title": "苹果扫光LPDDR5内存锁死iPhone定价 将国产Android手机厂商锁进泥潭",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561188.htm"
+            },
+            {
+                "title": "叶望辉评郑丽文要见川普 是一场拙劣且危险的个人政治秀(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-04",
+                "url": "https://www.secretchina.com/news/gb/2026/05/04/1098624.html"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazNuWUpkRFpnRDRRQVNWZDQwOGZhS0t2RER0endLWG56UXFGQVlBNE9Ic3pTT1M1QlRPMjMxSmc2SEJrQmlrR2thQWlaWVRBRFNrTlpqQmQzTi1VQkpodVdPSThOUjRfQUNtMWdfR1ZzUFZKM003ZlRSeXR4WWVDZlFCVmc?oc=5"
             },
             {
-                "title": "习近平给中国青年五四奖章暨新时代青年先锋奖获奖者代表的回信 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "中方在《开罗宣言》发表地埃及开罗米娜宫饭店建立纪念碑 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSkRnMkMxbFB5YThubVlrQUZQYnJhaG5ONk45TThlWUs3VW52YmlkbjN6TjczOTFzQnBXUTJfS3pYN2RyNkV6V2l2WmVMcWRRNkE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDdQNWlIQVVkSFZEcnM5ZDU0ZUZvSE9Rd1ZxUk83X3NCX3ZRNEduXzg1c3VsUjNXZ1E5bUFSV181SjJmdENBZGNUTmxKQXZMdE9VenJJaUZ4U3YtbDViVHBjV3Ywdmk4Z1BqOXFCczllNFEtR2ptd25xb2RSN3VSSTJlZkN3d29UV2c?oc=5"
             },
             {
                 "title": "今晚7点，不见不散！ - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6MkJiOG04cHRfbmtOTmt4dDFWTWVjX21vLWJiZ1Q4dzZ1RktHTG5weVh1NXZmX1NZZ3gyNXNNX0hqdmc2bmJEbGRDbnVrMHpVWEE?oc=5"
+            },
+            {
+                "title": "特稿｜如何继续这场“未完结的正义审判”——东京审判开庭80周年启示 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EWnZwUk5kZVFCZ1RYRnlUUmxfczdWN0FNVk1uMzBSUDBmSUtxaHFSbThKc1FPMEhGdmFOaTlPYnNuNXNqa0FoZHBkWldaWkdDYWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-05T02:30:47.841099+00:00"
+    "last_updated": "2026-05-05T08:05:18.164587+00:00"
 }
