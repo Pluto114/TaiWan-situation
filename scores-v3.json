@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "“躺平”已是中国潮流 全社会变相“大罢工”(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-05",
-                "url": "https://www.secretchina.com/news/gb/2026/05/05/1098699.html"
-            },
-            {
-                "title": "20周年纪念版iPhone或将采用固态按键与四曲面玻璃设计",
+                "title": "iPhone 18 Pro 或将继续采用铝合金机身涂层",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561402.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561426.htm"
             },
             {
-                "title": "Meta用AI骨骼结构分析识别未成年用户照片 将清理13岁以下账号",
+                "title": "多家大型出版商以AI训练涉及版权侵权为由起诉Meta",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561398.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561420.htm"
             },
             {
-                "title": "莱迪思半导体拟以16.5亿美元收购固件供应商 AMI",
+                "title": "史上最严控烟来了，哪座城市的烟味最淡？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561392.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561418.htm"
             },
             {
-                "title": "OpenAI总裁当庭自曝零元购300亿 马斯克这回真要赢了？",
+                "title": "苹果制造学院在密歇根举办首届春季论坛 用AI解决方案强化美国供应链",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561388.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561414.htm"
+            },
+            {
+                "title": "德语媒体：“灰犀牛”挡住了中国的崛起之路",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-05",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%81%B0%E7%8A%80%E7%89%9B%E6%8C%A1%E4%BD%8F%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B9%8B%E8%B7%AF/a-77056224"
             }
         ],
         "mil": [
+            {
+                "title": "美战争部长: 驱逐舰部署到位 霍尔木兹海峡畅通无阻(全文翻译)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-05",
+                "url": "https://www.secretchina.com/news/gb/2026/05/05/1098703.html"
+            },
+            {
+                "title": "苹果制造学院在密歇根举办首届春季论坛 用AI解决方案强化美国供应链",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561414.htm"
+            },
             {
                 "title": "Google DeepMind员工发起组建工会 反对AI军事合同与以色列相关合作",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,34 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561378.htm"
             },
             {
-                "title": "美国海军在布什号航母上测试LOCUST激光武器 对无人机目标击落率100%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561374.htm"
-            },
-            {
-                "title": "两艘美国驱逐舰避开伊朗密集袭击后穿越霍尔木兹海峡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561324.htm"
-            },
-            {
                 "title": "伊朗外长阿拉格齐将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-05",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXo0N3Y1RkZ6S3JXeVVlTk1JekcyT0Q3VXRfaWpfTlkzeWNVTzUzTFctWmxobDF6ODdfd0tmQXhJMVdoSU9FdndpRXZJcXQwNHZuSl9CT0hUQk1Ja2o5SmJyVTZHSTIxN1Z1OG1WTFB0VjZCZFdITWx4WGZwR01JNlJDU0hjd2xBM3c?oc=5"
             },
             {
+                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
+            },
+            {
                 "title": "王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-06",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlSjFqMWw1S2FzQU9PUWhLY2pnQnJ5TUt6dVFrMVZRNExiRHBnZ3JkdjNGZ3BGMndqbjRPQksyU3V2ejRFTk9XZVVDVFMtWWljUHppT3kwRnUzTlAxbFBGVVJYNTM5UHJfa2hQUGtR?oc=5"
-            },
-            {
-                "title": "习近平对湖南长沙浏阳市一烟花厂爆炸事故作出重要指示 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jLXZGWHZZb1hESzZHaE9OQkdOTHVVYURmX0ptTUJGdFJ4YU8zNm54ZER1ODhtYTFhLVFiMHNrTHc0V3l0Y3I4SW5SMzQ1UVE2ZFA1SHdIbmk?oc=5"
             },
             {
                 "title": "军营观察丨为青春的梦想插上双翼 - 中国军网",
@@ -104,13 +104,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mSTVIX2Mwb0Nia2VMbkxUMFdQWHJEWnZoaWNTMExtbXh3SDBkVS1DZzN3X1duMTRjTG85MXpjM2R1aFVfQUtsMEJtSDByanZBSnc?oc=5"
             },
             {
-                "title": "学习进行时｜习近平总书记对青年学子的殷切期待 - 中国军网",
+                "title": "天舟九号货运飞船顺利撤离空间站组合体 将于近期择机受控再入大气层 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZ3FhZWlyOHpodld3VW42X1NySVhTa2lkS0Q3VnhKNzF2WGpSRGYzSnNoUjh3VVVDRlcwOUNHREd0UDFZRmppRml2aDU5SmdmY3c?oc=5"
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGNmhKbExoQzU4WU1SekVMbk1oN09UUlc0VzN5dWoyRENJREJoWTZDZUQxMVJfTUFGNUotRmhLU0RSQTJRQ29obnJaZVc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "宾州起诉 Character.AI：调查中聊天机器人自称“持证精神科医生”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561432.htm"
+            },
+            {
+                "title": "iPhone 18 Pro 或将继续采用铝合金机身涂层",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561426.htm"
+            },
+            {
+                "title": "史上最严控烟来了，哪座城市的烟味最淡？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561418.htm"
+            },
+            {
+                "title": "苹果制造学院在密歇根举办首届春季论坛 用AI解决方案强化美国供应链",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561414.htm"
+            },
             {
                 "title": "20周年纪念版iPhone或将采用固态按键与四曲面玻璃设计",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -118,46 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561402.htm"
             },
             {
-                "title": "Meta用AI骨骼结构分析识别未成年用户照片 将清理13岁以下账号",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561398.htm"
-            },
-            {
-                "title": "蒋介石晚年的核武警告 藏着什么历史讯号？(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-05",
-                "url": "https://www.secretchina.com/news/gb/2026/05/05/1098687.html"
-            },
-            {
-                "title": "莱迪思半导体拟以16.5亿美元收购固件供应商 AMI",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561392.htm"
-            },
-            {
-                "title": "OpenAI总裁当庭自曝零元购300亿 马斯克这回真要赢了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561388.htm"
-            },
-            {
                 "title": "伊朗外长阿拉格齐将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-05",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXo0N3Y1RkZ6S3JXeVVlTk1JekcyT0Q3VXRfaWpfTlkzeWNVTzUzTFctWmxobDF6ODdfd0tmQXhJMVdoSU9FdndpRXZJcXQwNHZuSl9CT0hUQk1Ja2o5SmJyVTZHSTIxN1Z1OG1WTFB0VjZCZFdITWx4WGZwR01JNlJDU0hjd2xBM3c?oc=5"
             },
             {
+                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
+            },
+            {
                 "title": "王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-06",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlSjFqMWw1S2FzQU9PUWhLY2pnQnJ5TUt6dVFrMVZRNExiRHBnZ3JkdjNGZ3BGMndqbjRPQksyU3V2ejRFTk9XZVVDVFMtWWljUHppT3kwRnUzTlAxbFBGVVJYNTM5UHJfa2hQUGtR?oc=5"
-            },
-            {
-                "title": "习近平对湖南长沙浏阳市一烟花厂爆炸事故作出重要指示 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jLXZGWHZZb1hESzZHaE9OQkdOTHVVYURmX0ptTUJGdFJ4YU8zNm54ZER1ODhtYTFhLVFiMHNrTHc0V3l0Y3I4SW5SMzQ1UVE2ZFA1SHdIbmk?oc=5"
             },
             {
                 "title": "军营观察丨为青春的梦想插上双翼 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mSTVIX2Mwb0Nia2VMbkxUMFdQWHJEWnZoaWNTMExtbXh3SDBkVS1DZzN3X1duMTRjTG85MXpjM2R1aFVfQUtsMEJtSDByanZBSnc?oc=5"
             },
             {
-                "title": "学习进行时｜习近平总书记对青年学子的殷切期待 - 中国军网",
+                "title": "天舟九号货运飞船顺利撤离空间站组合体 将于近期择机受控再入大气层 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZ3FhZWlyOHpodld3VW42X1NySVhTa2lkS0Q3VnhKNzF2WGpSRGYzSnNoUjh3VVVDRlcwOUNHREd0UDFZRmppRml2aDU5SmdmY3c?oc=5"
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGNmhKbExoQzU4WU1SekVMbk1oN09UUlc0VzN5dWoyRENJREJoWTZDZUQxMVJfTUFGNUotRmhLU0RSQTJRQ29obnJaZVc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-06T14:02:19.813965+00:00"
+    "last_updated": "2026-05-06T19:42:30.696874+00:00"
 }
