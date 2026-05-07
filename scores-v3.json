@@ -12,72 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "豆包试水付费 DeepSeek会跟进吗？AI助手全面收费倒计时",
+                "title": "苹果在AI竞赛中加码研发投入 单季研发支出首超过营收的10%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561516.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561562.htm"
             },
             {
-                "title": "超越宝马、特斯拉，比亚迪成为英国最大电动汽车品牌",
+                "title": "商汤科技首席科学家林达华：我们将以成本取胜，模型效率也很高",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/859.htm"
+                "url": "https://www.ithome.com/0/947/007.htm"
             },
             {
-                "title": "Linux 高危漏洞 CopyFail 威胁全球数据中心，几乎影响所有主流发行版",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美伊停战协议逼近 “最后48小时”博弈？(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/854.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/05/06/1098741.html"
             },
             {
-                "title": "白宫酝酿对前沿AI实施更严格的监管",
+                "title": "报告：欧盟修订《网络安全法》将造成自身数千亿欧元损失",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-06",
+                "url": "https://36kr.com/newsflashes/3797787763694852"
+            },
+            {
+                "title": "英伟达与康宁达成巨额光纤合作协议 或将改写AI行业格局",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561510.htm"
-            },
-            {
-                "title": "SAP斥资逾10亿欧元押注德国AI实验室 NemoClaw获得“通行证”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561504.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561558.htm"
             }
         ],
         "mil": [
             {
+                "title": "航空公司严管移动充电宝",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561540.htm"
+            },
+            {
+                "title": "美官员透露：美伊拟达成一页纸备忘录以结束战事",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561534.htm"
+            },
+            {
+                "title": "游戏《战地风云 6》第 3 赛季将于 5 月 12 日开启：全新“荒野游踪”地图、通行证预购价 138 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-06",
+                "url": "https://www.ithome.com/0/946/967.htm"
+            },
+            {
+                "title": "奈特科尔充电宝即将迎来中国 3C 认证标识，方便海外用户来华使用",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-06",
+                "url": "https://www.ithome.com/0/946/919.htm"
+            },
+            {
                 "title": "豆包试水付费 DeepSeek会跟进吗？AI助手全面收费倒计时",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561516.htm"
             },
             {
-                "title": "白宫酝酿对前沿AI实施更严格的监管",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561510.htm"
-            },
-            {
-                "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-06",
-                "url": "https://36kr.com/p/3797276726893569"
-            },
-            {
-                "title": "谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-06",
-                "url": "http://www.geekpark.net/news/363719"
-            },
-            {
-                "title": "AI 大模型的「中文税」：中文比英文更费 Token，为什么？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-06",
-                "url": "http://www.geekpark.net/news/363717"
-            },
-            {
-                "title": "伊朗外长阿拉格齐将访华 - mfa.gov.cn",
+                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-05",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXo0N3Y1RkZ6S3JXeVVlTk1JekcyT0Q3VXRfaWpfTlkzeWNVTzUzTFctWmxobDF6ODdfd0tmQXhJMVdoSU9FdndpRXZJcXQwNHZuSl9CT0hUQk1Ja2o5SmJyVTZHSTIxN1Z1OG1WTFB0VjZCZFdITWx4WGZwR01JNlJDU0hjd2xBM3c?oc=5"
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlSjFqMWw1S2FzQU9PUWhLY2pnQnJ5TUt6dVFrMVZRNExiRHBnZ3JkdjNGZ3BGMndqbjRPQksyU3V2ejRFTk9XZVVDVFMtWWljUHppT3kwRnUzTlAxbFBGVVJYNTM5UHJfa2hQUGtR?oc=5"
             },
             {
-                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-05",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXUHR3ZjZIeUg2OTJES2tBSC00WUNDOEpVeG5ISnRjNDFvbkQ5V3ZTUmtGQXE4ZE1hWmdFZzJYZmFrSzVMV3FYSGx2eExXRkhLNUVhUUtsMjFuNFpNS3NZTkFYRnp6VWxaNXUxRVAxeFNNTWc1SVVR?oc=5"
+            },
+            {
+                "title": "踏访新时代边关·军营开放日丨西沙寻绿，军属走近抗风桐 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVF9kZkNUdmNlbnl6Ri1OTmFDNnVMZUd6LWJDZ1hkMUc3NXpWbWhaNGpoc0hBOFE5VmdzNmFIOHFIbHlUbVZUTU9oOFFtTUdua1E?oc=5"
             },
             {
                 "title": "军营观察丨为青春的梦想插上双翼 - 中国军网",
@@ -102,50 +108,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-06",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mSTVIX2Mwb0Nia2VMbkxUMFdQWHJEWnZoaWNTMExtbXh3SDBkVS1DZzN3X1duMTRjTG85MXpjM2R1aFVfQUtsMEJtSDByanZBSnc?oc=5"
-            },
-            {
-                "title": "天舟九号货运飞船顺利撤离空间站组合体 将于近期择机受控再入大气层 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGNmhKbExoQzU4WU1SekVMbk1oN09UUlc0VzN5dWoyRENJREJoWTZDZUQxMVJfTUFGNUotRmhLU0RSQTJRQ29obnJaZVc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "卢比奥警告：“川习会”将讨论台湾议题 勿破坏区域稳定(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-06",
-                "url": "https://www.secretchina.com/news/gb/2026/05/06/1098733.html"
-            },
-            {
-                "title": "豆包试水付费 DeepSeek会跟进吗？AI助手全面收费倒计时",
+                "title": "苹果在AI竞赛中加码研发投入 单季研发支出首超过营收的10%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561516.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561562.htm"
             },
             {
-                "title": "宝马集团 2026 年第一季度收入 310.07 亿欧元同比下降 8.1%，净利润下降 23.1%",
+                "title": "商汤科技首席科学家林达华：我们将以成本取胜，模型效率也很高",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/875.htm"
+                "url": "https://www.ithome.com/0/947/007.htm"
             },
             {
-                "title": "白宫酝酿对前沿AI实施更严格的监管",
+                "title": "停产前夕，宝马 Z4 今年 Q1 销量迎来一波小幅回升",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-06",
+                "url": "https://www.ithome.com/0/947/003.htm"
+            },
+            {
+                "title": "ChatGPT教育研究被撤稿：AI学习红利证据并不牢靠 统计方法遭质疑",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561510.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561554.htm"
             },
             {
-                "title": "SAP斥资逾10亿欧元押注德国AI实验室 NemoClaw获得“通行证”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "预订率低于预期 世界杯前夕美国酒店业遇冷",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561504.htm"
+                "url": "https://36kr.com/newsflashes/3797773553458433"
             },
             {
-                "title": "伊朗外长阿拉格齐将访华 - mfa.gov.cn",
+                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-05",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXo0N3Y1RkZ6S3JXeVVlTk1JekcyT0Q3VXRfaWpfTlkzeWNVTzUzTFctWmxobDF6ODdfd0tmQXhJMVdoSU9FdndpRXZJcXQwNHZuSl9CT0hUQk1Ja2o5SmJyVTZHSTIxN1Z1OG1WTFB0VjZCZFdITWx4WGZwR01JNlJDU0hjd2xBM3c?oc=5"
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlSjFqMWw1S2FzQU9PUWhLY2pnQnJ5TUt6dVFrMVZRNExiRHBnZ3JkdjNGZ3BGMndqbjRPQksyU3V2ejRFTk9XZVVDVFMtWWljUHppT3kwRnUzTlAxbFBGVVJYNTM5UHJfa2hQUGtR?oc=5"
             },
             {
-                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-05",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXUHR3ZjZIeUg2OTJES2tBSC00WUNDOEpVeG5ISnRjNDFvbkQ5V3ZTUmtGQXE4ZE1hWmdFZzJYZmFrSzVMV3FYSGx2eExXRkhLNUVhUUtsMjFuNFpNS3NZTkFYRnp6VWxaNXUxRVAxeFNNTWc1SVVR?oc=5"
+            },
+            {
+                "title": "踏访新时代边关·军营开放日丨西沙寻绿，军属走近抗风桐 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVF9kZkNUdmNlbnl6Ri1OTmFDNnVMZUd6LWJDZ1hkMUc3NXpWbWhaNGpoc0hBOFE5VmdzNmFIOHFIbHlUbVZUTU9oOFFtTUdua1E?oc=5"
             },
             {
                 "title": "军营观察丨为青春的梦想插上双翼 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-06",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mSTVIX2Mwb0Nia2VMbkxUMFdQWHJEWnZoaWNTMExtbXh3SDBkVS1DZzN3X1duMTRjTG85MXpjM2R1aFVfQUtsMEJtSDByanZBSnc?oc=5"
-            },
-            {
-                "title": "天舟九号货运飞船顺利撤离空间站组合体 将于近期择机受控再入大气层 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGNmhKbExoQzU4WU1SekVMbk1oN09UUlc0VzN5dWoyRENJREJoWTZDZUQxMVJfTUFGNUotRmhLU0RSQTJRQ29obnJaZVc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-07T08:29:37.859924+00:00"
+    "last_updated": "2026-05-07T14:00:26.593516+00:00"
 }
