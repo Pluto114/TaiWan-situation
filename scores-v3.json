@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "苹果在AI竞赛中加码研发投入 单季研发支出首超过营收的10%",
+                "title": "美贸易代表：美国不希望中国发禁令阻止美国制裁一事“破坏更广泛的双边关系”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-05-06",
+                "url": "https://www.voachinese.com/a/ustr-us-doesn-t-want-china-s-blocking-ban-to-derail-broader-bilateral-ties-20260506/8147300.html"
+            },
+            {
+                "title": "前沿AI模型同场竞技炒股结果亏多赚少 金融业最难的工作还得靠真人",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561562.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561588.htm"
             },
             {
-                "title": "商汤科技首席科学家林达华：我们将以成本取胜，模型效率也很高",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/947/007.htm"
-            },
-            {
-                "title": "美伊停战协议逼近 “最后48小时”博弈？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-06",
-                "url": "https://www.secretchina.com/news/gb/2026/05/06/1098741.html"
-            },
-            {
-                "title": "报告：欧盟修订《网络安全法》将造成自身数千亿欧元损失",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-06",
-                "url": "https://36kr.com/newsflashes/3797787763694852"
-            },
-            {
-                "title": "英伟达与康宁达成巨额光纤合作协议 或将改写AI行业格局",
+                "title": "台积电中科十五厂A厂区转产4nm 台中1.4 nm新厂建设速度超预期",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561558.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561586.htm"
+            },
+            {
+                "title": "美最高法院拒绝暂缓“藐视法庭”裁定 苹果在与Epic诉讼中再遇挫折",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561574.htm"
+            },
+            {
+                "title": "苹果被曝主动推迟发布iPhone 18 或为延长iPhone 17生命周期并压缩成本",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561572.htm"
             }
         ],
         "mil": [
+            {
+                "title": "日本参加多国军演并在菲律宾北部发射导弹，日菲防长对中国胁迫行为深表关切",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-05-06",
+                "url": "https://www.voachinese.com/a/japan-launched-missiles-off-the-northern-philippines-as-tokyo-and-manila-express-concern-over-chinese-coercive-activities-20260506/8147289.html"
+            },
+            {
+                "title": "CNN创办人特德·特纳逝世 享年87岁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561584.htm"
+            },
+            {
+                "title": "全力布局 AI，苹果研发支出占营收比例 30 年来首次突破 10%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-06",
+                "url": "https://www.ithome.com/0/947/013.htm"
+            },
             {
                 "title": "航空公司严管移动充电宝",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561534.htm"
             },
             {
-                "title": "游戏《战地风云 6》第 3 赛季将于 5 月 12 日开启：全新“荒野游踪”地图、通行证预购价 138 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/967.htm"
-            },
-            {
-                "title": "奈特科尔充电宝即将迎来中国 3C 认证标识，方便海外用户来华使用",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/919.htm"
-            },
-            {
-                "title": "豆包试水付费 DeepSeek会跟进吗？AI助手全面收费倒计时",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561516.htm"
-            },
-            {
-                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
-            },
-            {
                 "title": "王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-06",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlSjFqMWw1S2FzQU9PUWhLY2pnQnJ5TUt6dVFrMVZRNExiRHBnZ3JkdjNGZ3BGMndqbjRPQksyU3V2ejRFTk9XZVVDVFMtWWljUHppT3kwRnUzTlAxbFBGVVJYNTM5UHJfa2hQUGtR?oc=5"
             },
             {
-                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "title": "2026年5月7日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-05",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXUHR3ZjZIeUg2OTJES2tBSC00WUNDOEpVeG5ISnRjNDFvbkQ5V3ZTUmtGQXE4ZE1hWmdFZzJYZmFrSzVMV3FYSGx2eExXRkhLNUVhUUtsMjFuNFpNS3NZTkFYRnp6VWxaNXUxRVAxeFNNTWc1SVVR?oc=5"
+                "date": "2026-05-07",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pZF9HM1dkWkFjam9uem52QUZ4c2QwMXBzMHRkbVVSQXoyUnRQd3ZpeU1FeXBtdkUzeDI2UE5UWEZuR3hPZ1V6eFp6OTNaTkh1VnNYa2xfUkdRM2ctNW13RWhWVktrVUlNbTRZOWhOb2RHdzFjT3c?oc=5"
+            },
+            {
+                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
             },
             {
                 "title": "踏访新时代边关·军营开放日丨西沙寻绿，军属走近抗风桐 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "苹果在AI竞赛中加码研发投入 单季研发支出首超过营收的10%",
+                "title": "台湾正在脱离北京框住的战场(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-06",
+                "url": "https://www.secretchina.com/news/gb/2026/05/07/1098757.html"
+            },
+            {
+                "title": "DeepSeek拟募资最高40亿美元 估值或达500亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561562.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561592.htm"
             },
             {
-                "title": "商汤科技首席科学家林达华：我们将以成本取胜，模型效率也很高",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/947/007.htm"
-            },
-            {
-                "title": "停产前夕，宝马 Z4 今年 Q1 销量迎来一波小幅回升",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/947/003.htm"
-            },
-            {
-                "title": "ChatGPT教育研究被撤稿：AI学习红利证据并不牢靠 统计方法遭质疑",
+                "title": "美最高法院拒绝暂缓“藐视法庭”裁定 苹果在与Epic诉讼中再遇挫折",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561554.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561574.htm"
             },
             {
-                "title": "预订率低于预期 世界杯前夕美国酒店业遇冷",
-                "source": "NewsAPI / 36kr.com",
+                "title": "习到上海开座谈会 向江派求援？未视察东部战区释信号(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-06",
-                "url": "https://36kr.com/newsflashes/3797773553458433"
+                "url": "https://www.secretchina.com/news/gb/2026/05/06/1098748.html"
             },
             {
-                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "初创公司 Tin Can 的 100 美元“儿童座机”走红：多彩外观，相互间能免费通话",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
+                "url": "https://www.ithome.com/0/947/018.htm"
             },
             {
                 "title": "王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlSjFqMWw1S2FzQU9PUWhLY2pnQnJ5TUt6dVFrMVZRNExiRHBnZ3JkdjNGZ3BGMndqbjRPQksyU3V2ejRFTk9XZVVDVFMtWWljUHppT3kwRnUzTlAxbFBGVVJYNTM5UHJfa2hQUGtR?oc=5"
             },
             {
-                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "title": "2026年5月7日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-05",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXUHR3ZjZIeUg2OTJES2tBSC00WUNDOEpVeG5ISnRjNDFvbkQ5V3ZTUmtGQXE4ZE1hWmdFZzJYZmFrSzVMV3FYSGx2eExXRkhLNUVhUUtsMjFuNFpNS3NZTkFYRnp6VWxaNXUxRVAxeFNNTWc1SVVR?oc=5"
+                "date": "2026-05-07",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pZF9HM1dkWkFjam9uem52QUZ4c2QwMXBzMHRkbVVSQXoyUnRQd3ZpeU1FeXBtdkUzeDI2UE5UWEZuR3hPZ1V6eFp6OTNaTkh1VnNYa2xfUkdRM2ctNW13RWhWVktrVUlNbTRZOWhOb2RHdzFjT3c?oc=5"
+            },
+            {
+                "title": "2026年5月6日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01ZUVLUEV3SVRzVkMzb1JOczhsZXhpOHd3MjlkT3MxUjk3Yzd2WTRUaGJ4YjNxQ2FORXY4Unp4ZTkwOWpsU0JFRTVzLWlxeGNiVk5WQlA5d1hERlUyNWdZNnE3QnRSa2YwcVY3RV9MX24wSW1tX0E?oc=5"
             },
             {
                 "title": "踏访新时代边关·军营开放日丨西沙寻绿，军属走近抗风桐 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-07T14:00:26.593516+00:00"
+    "last_updated": "2026-05-07T19:40:23.753841+00:00"
 }
