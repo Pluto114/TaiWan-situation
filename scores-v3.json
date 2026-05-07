@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "豆包试水付费 DeepSeek会跟进吗？AI助手全面收费倒计时",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "http://www.geekpark.net/news/363719"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561516.htm"
             },
             {
-                "title": "SIA：2026Q1 全球半导体销售额达 2985 亿美元，环比增幅 25%",
+                "title": "超越宝马、特斯拉，比亚迪成为英国最大电动汽车品牌",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/673.htm"
+                "url": "https://www.ithome.com/0/946/859.htm"
             },
             {
-                "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-06",
-                "url": "https://36kr.com/p/3682907323150215"
-            },
-            {
-                "title": "小米首台万级大电池手机被曝暂定年底发布：3nm 芯片，7 英寸 2K 屏，3D 超声波指纹",
+                "title": "Linux 高危漏洞 CopyFail 威胁全球数据中心，几乎影响所有主流发行版",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/648.htm"
+                "url": "https://www.ithome.com/0/946/854.htm"
             },
             {
-                "title": "美光宣布出货业界最大容量（245TB）固态硬盘 6600 ION",
-                "source": "NewsAPI / Ithome.com",
+                "title": "白宫酝酿对前沿AI实施更严格的监管",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/641.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561510.htm"
+            },
+            {
+                "title": "SAP斥资逾10亿欧元押注德国AI实验室 NemoClaw获得“通行证”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561504.htm"
             }
         ],
         "mil": [
+            {
+                "title": "豆包试水付费 DeepSeek会跟进吗？AI助手全面收费倒计时",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561516.htm"
+            },
+            {
+                "title": "白宫酝酿对前沿AI实施更严格的监管",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561510.htm"
+            },
+            {
+                "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-06",
+                "url": "https://36kr.com/p/3797276726893569"
+            },
             {
                 "title": "谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉",
                 "source": "NewsAPI / Geekpark.net",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-06",
                 "url": "http://www.geekpark.net/news/363717"
-            },
-            {
-                "title": "卢比奥称对伊行动已“收官” 美方转向海峡护航与核谈判(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-06",
-                "url": "https://www.secretchina.com/news/gb/2026/05/06/1098716.html"
-            },
-            {
-                "title": "吉利被曝将收购福特西班牙工厂产线，加速欧洲新能源汽车布局",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/622.htm"
-            },
-            {
-                "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-05",
-                "url": "https://36kr.com/p/3797041945304327"
             },
             {
                 "title": "伊朗外长阿拉格齐将访华 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-06",
-                "url": "http://www.geekpark.net/news/363719"
-            },
-            {
-                "title": "AI 大模型的「中文税」：中文比英文更费 Token，为什么？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-06",
-                "url": "http://www.geekpark.net/news/363717"
-            },
-            {
-                "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-06",
-                "url": "https://36kr.com/p/3682907323150215"
-            },
-            {
-                "title": "美光宣布出货业界最大容量（245TB）固态硬盘 6600 ION",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-06",
-                "url": "https://www.ithome.com/0/946/641.htm"
-            },
-            {
-                "title": "卢比奥称对伊行动已“收官” 美方转向海峡护航与核谈判(图)",
+                "title": "卢比奥警告：“川习会”将讨论台湾议题 勿破坏区域稳定(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-06",
-                "url": "https://www.secretchina.com/news/gb/2026/05/06/1098716.html"
+                "url": "https://www.secretchina.com/news/gb/2026/05/06/1098733.html"
+            },
+            {
+                "title": "豆包试水付费 DeepSeek会跟进吗？AI助手全面收费倒计时",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561516.htm"
+            },
+            {
+                "title": "宝马集团 2026 年第一季度收入 310.07 亿欧元同比下降 8.1%，净利润下降 23.1%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-06",
+                "url": "https://www.ithome.com/0/946/875.htm"
+            },
+            {
+                "title": "白宫酝酿对前沿AI实施更严格的监管",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561510.htm"
+            },
+            {
+                "title": "SAP斥资逾10亿欧元押注德国AI实验室 NemoClaw获得“通行证”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561504.htm"
             },
             {
                 "title": "伊朗外长阿拉格齐将访华 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-07T02:37:39.934545+00:00"
+    "last_updated": "2026-05-07T08:29:37.859924+00:00"
 }
