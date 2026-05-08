@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "市场需求疲软引发供应链调整 PC主板销量遭遇超25%幅度的大幅下滑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561702.htm"
+            },
+            {
+                "title": "芯片与内存成本上行施压 苹果或砍掉599美元入门款MacBook Neo",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561690.htm"
+            },
+            {
                 "title": "AI真能拯救美国39万亿美元债务？耶鲁发出警告(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-07",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-07",
                 "url": "https://36kr.com/p/3786528811572481"
-            },
-            {
-                "title": "三星芯片部门劳资谈判破裂：13% 利润奖金是否长期化成关键分歧",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-07",
-                "url": "https://www.ithome.com/0/947/391.htm"
-            },
-            {
-                "title": "与盟友合作 台湾力拼无人机“民主供应链亚太中心”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-07",
-                "url": "https://www.secretchina.com/news/gb/2026/05/07/1098784.html"
             }
         ],
         "mil": [
+            {
+                "title": "中国两名前国防部长以受贿罪被判死缓",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-05-07",
+                "url": "https://www.voachinese.com/a/china-sentences-two-ex-defense-ministers-to-death-20260507/8147655.html"
+            },
             {
                 "title": "比 OpenClaw 更火的 「Agent 员工」赛道，杀出一个新王者｜AI 上新",
                 "source": "NewsAPI / Geekpark.net",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-07",
                 "url": "https://36kr.com/p/3797155747748867"
-            },
-            {
-                "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-07",
-                "url": "https://36kr.com/p/3797787228151048"
             },
             {
                 "title": "2026年5月7日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -108,6 +108,12 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESVVVakthbWlkcW0yOWRQd04xZW1ZdnE5QlFKdkxvRUthWkoyUmZSanZFa2VXU0QtNFRkVWx3WDBTTUhLT1ZiNmFNUy0xNjlldlE?oc=5"
+            },
+            {
+                "title": "泰州海事局组织开展客（渡） 运航线短临致灾天气预警叫应实战演练 - 江苏海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-05-07",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5NjlJdm9ENm9kT0FwOE11aV9vM09yYl90QjIxV0xmc2ZfMEd0Zk93U0JSbV85YzdocVdGci12SGg3SmNrT2NuTFc5eVlrODRqRWFueV8tNTNwSlhCMDMycmdpaC0xNHlhOTNj?oc=5"
             }
         ],
         "pol": [
@@ -176,9 +182,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESVVVakthbWlkcW0yOWRQd04xZW1ZdnE5QlFKdkxvRUthWkoyUmZSanZFa2VXU0QtNFRkVWx3WDBTTUhLT1ZiNmFNUy0xNjlldlE?oc=5"
+            },
+            {
+                "title": "泰州海事局组织开展客（渡） 运航线短临致灾天气预警叫应实战演练 - 江苏海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-05-07",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5NjlJdm9ENm9kT0FwOE11aV9vM09yYl90QjIxV0xmc2ZfMEd0Zk93U0JSbV85YzdocVdGci12SGg3SmNrT2NuTFc5eVlrODRqRWFueV8tNTNwSlhCMDMycmdpaC0xNHlhOTNj?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-08T13:26:34.679785+00:00"
+    "last_updated": "2026-05-08T19:13:04.108579+00:00"
 }
