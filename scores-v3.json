@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "550 亿美元！马斯克的「芯片工厂」开始成为现实",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-08",
-                "url": "http://www.geekpark.net/news/363854"
-            },
-            {
-                "title": "Stellantis 与零跑汽车扩大战略合作伙伴关系：欧洲工厂扩产，中国供应链赋能",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-08",
-                "url": "https://www.ithome.com/0/947/731.htm"
-            },
-            {
-                "title": "华为 Pura 90 标准版今日开售：搭载麒麟 9010S，国补价 4199~5199 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-08",
-                "url": "https://www.ithome.com/0/947/684.htm"
-            },
-            {
-                "title": "苹果在英遭遇410亿美元iCloud集体诉讼 约4000万用户有望获赔95美元",
+                "title": "欧央行行长拉加德质疑欧元稳定币存在的必要性",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561766.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561808.htm"
             },
             {
-                "title": "上海制造特斯拉 Model 3 RWD 性能升级：支持 250 kW 超快充，百公里加速从 6.1 秒提升至 5.2 秒",
+                "title": "斯特兰蒂斯与中国零跑汽车深化合作 推进欧洲电动车扩张",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561802.htm"
+            },
+            {
+                "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-08",
+                "url": "https://36kr.com/p/3800495686163721"
+            },
+            {
+                "title": "微软计划买断8750名老员工：46岁、入职24年 成了公司最想赶走的人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561794.htm"
+            },
+            {
+                "title": "本田上市以来首次营业亏损，预计 2025 财年巨亏 4000 亿日元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-08",
-                "url": "https://www.ithome.com/0/947/635.htm"
+                "url": "https://www.ithome.com/0/947/811.htm"
             }
         ],
         "mil": [
+            {
+                "title": "川普政府首次大规模解密UFO档案(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-08",
+                "url": "https://www.secretchina.com/news/gb/2026/05/08/1098848.html"
+            },
+            {
+                "title": "微软计划买断8750名老员工：46岁、入职24年 成了公司最想赶走的人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561794.htm"
+            },
             {
                 "title": "550 亿美元！马斯克的「芯片工厂」开始成为现实",
                 "source": "NewsAPI / Geekpark.net",
@@ -62,24 +74,6 @@
                 "url": "https://36kr.com/p/3799028783439111"
             },
             {
-                "title": "川普访问中国之际 习近平提前送“超级大礼”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-08",
-                "url": "https://www.secretchina.com/news/gb/2026/05/08/1098833.html"
-            },
-            {
-                "title": "育碧《彩虹六号》Major 2026 明日开赛，AG、EDG、4AM 代表 CN 赛区出征盐湖城",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-08",
-                "url": "https://www.ithome.com/0/947/563.htm"
-            },
-            {
-                "title": "2026年5月7日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pZF9HM1dkWkFjam9uem52QUZ4c2QwMXBzMHRkbVVSQXoyUnRQd3ZpeU1FeXBtdkUzeDI2UE5UWEZuR3hPZ1V6eFp6OTNaTkh1VnNYa2xfUkdRM2ctNW13RWhWVktrVUlNbTRZOWhOb2RHdzFjT3c?oc=5"
-            },
-            {
                 "title": "塔吉克斯坦总统拉赫蒙将对华进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-08",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-08",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkhJQ1ZiV1V4eUNSeG04MElwWHAzZDgzam12cS15ZS0waUhBU0J4MzFQYVpiaThPSWdoNlRWRVEwZW5hN1VLRndtTXpYb2FIUU5TdjYxWklWNVlBNXpXOHlNYjJNeXhoSklhejlfVk5pVHYwTVlMcmFIdGw3dVBLNHk1NEgwOFRLRVE?oc=5"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "从泥泞土路变成平坦水泥路，老兵为家乡铺就“幸福路” - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "苹果在英遭遇410亿美元iCloud集体诉讼 约4000万用户有望获赔95美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "五菱、华为合作打造的大六座 SUV 华境 S 正式上市，置换价 14.98 万-19.38 万元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561766.htm"
+                "url": "https://www.ithome.com/0/947/951.htm"
             },
             {
-                "title": "加拿大加密法案或迫使苹果在当地关闭隐私功能",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "逆变器：欧洲电网安全的“中国隐患”",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-05-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561764.htm"
+                "url": "https://www.dw.com/zh/%E9%80%86%E5%8F%98%E5%99%A8%E6%AC%A7%E6%B4%B2%E7%94%B5%E7%BD%91%E5%AE%89%E5%85%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9A%90%E6%82%A3/a-77095288"
             },
             {
-                "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
+                "title": "苹果要求美加等地教育商店启用UNiDAYS资格验证 同时新增Apple Watch折扣",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561800.htm"
+            },
+            {
+                "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-08",
-                "url": "https://36kr.com/p/3800183520091398"
+                "url": "https://36kr.com/p/3800495686163721"
             },
             {
-                "title": "欧盟禁止AI生成“深度伪造”的色情内容",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "欧宝德国总部裁掉 650 名工程师，下一款电动车型有望基于零跑 B10 打造",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561758.htm"
-            },
-            {
-                "title": "欧盟警告航空公司：因油价上涨取消的航班必须赔偿乘客",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561732.htm"
-            },
-            {
-                "title": "2026年5月7日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pZF9HM1dkWkFjam9uem52QUZ4c2QwMXBzMHRkbVVSQXoyUnRQd3ZpeU1FeXBtdkUzeDI2UE5UWEZuR3hPZ1V6eFp6OTNaTkh1VnNYa2xfUkdRM2ctNW13RWhWVktrVUlNbTRZOWhOb2RHdzFjT3c?oc=5"
+                "url": "https://www.ithome.com/0/947/907.htm"
             },
             {
                 "title": "塔吉克斯坦总统拉赫蒙将对华进行国事访问 - mfa.gov.cn",
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-08",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkhJQ1ZiV1V4eUNSeG04MElwWHAzZDgzam12cS15ZS0waUhBU0J4MzFQYVpiaThPSWdoNlRWRVEwZW5hN1VLRndtTXpYb2FIUU5TdjYxWklWNVlBNXpXOHlNYjJNeXhoSklhejlfVk5pVHYwTVlMcmFIdGw3dVBLNHk1NEgwOFRLRVE?oc=5"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "从泥泞土路变成平坦水泥路，老兵为家乡铺就“幸福路” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-09T07:52:51.736529+00:00"
+    "last_updated": "2026-05-09T13:11:17.699262+00:00"
 }
