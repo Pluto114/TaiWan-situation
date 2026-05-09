@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "市场需求疲软引发供应链调整 PC主板销量遭遇超25%幅度的大幅下滑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561702.htm"
-            },
-            {
-                "title": "芯片与内存成本上行施压 苹果或砍掉599美元入门款MacBook Neo",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561690.htm"
-            },
-            {
-                "title": "AI真能拯救美国39万亿美元债务？耶鲁发出警告(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-07",
-                "url": "https://www.secretchina.com/news/gb/2026/05/07/1098795.html"
-            },
-            {
-                "title": "法官裁定：英伟达相关脚本唯一用途就是协助实施版权侵权行为",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-07",
-                "url": "https://www.ithome.com/0/947/408.htm"
-            },
-            {
-                "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+                "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-07",
-                "url": "https://36kr.com/p/3786528811572481"
+                "date": "2026-05-08",
+                "url": "https://36kr.com/p/3800022823951363"
+            },
+            {
+                "title": "重磅信号： #中华民国 正在取代 #中共 的位置",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-05-08",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260508/2315198.html"
+            },
+            {
+                "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-08",
+                "url": "https://36kr.com/p/3799984046333186"
+            },
+            {
+                "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-08",
+                "url": "https://36kr.com/p/3799129165863937"
+            },
+            {
+                "title": "昆仑芯启动科创板 IPO 上市辅导，百度持股 57.67%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-08",
+                "url": "https://www.ithome.com/0/947/484.htm"
             }
         ],
         "mil": [
+            {
+                "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-08",
+                "url": "https://36kr.com/p/3799984046333186"
+            },
+            {
+                "title": "#中国 两任 #防长 #死缓 太意外，释放 #张又侠 厄运信号",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-05-08",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260508/2315178.html"
+            },
+            {
+                "title": "卢比奥宣布对古巴实施新制裁(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-07",
+                "url": "https://www.secretchina.com/news/gb/2026/05/08/1098824.html"
+            },
             {
                 "title": "中国两名前国防部长以受贿罪被判死缓",
                 "source": "NewsAPI / Voachinese.com",
@@ -56,46 +74,28 @@
                 "url": "http://www.geekpark.net/news/363804"
             },
             {
-                "title": "2026 Apple Swift Student Challenge 的六张面孔：从 17 岁到 25 岁，他们用代码回答世界",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-07",
-                "url": "https://www.ithome.com/0/947/213.htm"
-            },
-            {
-                "title": "对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-07",
-                "url": "https://36kr.com/p/3797662460419337"
-            },
-            {
-                "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-07",
-                "url": "https://36kr.com/p/3797155747748867"
-            },
-            {
                 "title": "2026年5月7日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-07",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pZF9HM1dkWkFjam9uem52QUZ4c2QwMXBzMHRkbVVSQXoyUnRQd3ZpeU1FeXBtdkUzeDI2UE5UWEZuR3hPZ1V6eFp6OTNaTkh1VnNYa2xfUkdRM2ctNW13RWhWVktrVUlNbTRZOWhOb2RHdzFjT3c?oc=5"
             },
             {
-                "title": "王毅会见美国国会参议员代表团 - mfa.gov.cn",
+                "title": "文莱王储比拉将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXNlM5ZzVVaVQzSjRZNXJkU3ZiZmNhZFRMVFpNVjl2VndJeXVvZXcyQ0JiUlRxOGJmLVpsSVBud1ZLc04xNnF0VVRjVzNKYUFFRlJlWkY5SXU3ZmRXQVVXTXlhaGdFNUEtNDBmdkx3?oc=5"
+                "date": "2026-05-08",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkhJQ1ZiV1V4eUNSeG04MElwWHAzZDgzam12cS15ZS0waUhBU0J4MzFQYVpiaThPSWdoNlRWRVEwZW5hN1VLRndtTXpYb2FIUU5TdjYxWklWNVlBNXpXOHlNYjJNeXhoSklhejlfVk5pVHYwTVlMcmFIdGw3dVBLNHk1NEgwOFRLRVE?oc=5"
             },
             {
-                "title": "魏凤和案、李尚福案一审宣判 - 国防部网",
+                "title": "塔吉克斯坦总统拉赫蒙将对华进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TOU1fZENBQWZLcVBXZTBmQ1JuSndMcG1PT3BVZWdWOFJGenVydzRFU3oxWnM4UEI4bklPcjM5VWxjam4xSmhzQ0ZNWUoyNzFfNVMtNTU5eTg?oc=5"
+                "date": "2026-05-08",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0JSYnl2VDBpQy1CU0xuU1VxblRYSzVmYmhQWTcwaTgyU0M2d1RIZnlhQlRQNWd5Z0lXSGY3aXItaVlpNTVQRmhzOEV6Y0NVRFBSeUk3OWZsUzVRYUF3VzV4U2ZDMHhEakVOcjNkWG1iMXJJbVIxS21ZNWVzMFFSTS0zYjd2VFpDdVE?oc=5"
             },
             {
-                "title": "踏访新时代边关·军营开放日丨西沙寻绿，军属走近抗风桐 - 中国军网",
+                "title": "从泥泞土路变成平坦水泥路，老兵为家乡铺就“幸福路” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVF9kZkNUdmNlbnl6Ri1OTmFDNnVMZUd6LWJDZ1hkMUc3NXpWbWhaNGpoc0hBOFE5VmdzNmFIOHFIbHlUbVZUTU9oOFFtTUdua1E?oc=5"
+                "date": "2026-05-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43SW52UkZzYWNyRnp3N0FMUV9NS3RCNndqNFVFLWdieXI1RkRyOVhJa1dBMEQ0X2JWR0s4bGVSTVgyTnlObTU1SldHYTMwd0llUXc?oc=5"
             },
             {
                 "title": "2026年火箭军面向社会公开招考专业技能类文职人员公告 - 中国军网",
@@ -104,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJUnlrd2tWcENGWU1HaGw1YTJ2a0lkbENZS2RUQTJCRDZ3dEpmUUVERWN0aUZRaWxjRk9qZ0RNOG9relpBUnkxN19oYVNQYmFDRnc?oc=5"
             },
             {
-                "title": "新华社国家高端智库发布《文化赋能论——中国迈向高质量发展的文化自觉》智库报告 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESVVVakthbWlkcW0yOWRQd04xZW1ZdnE5QlFKdkxvRUthWkoyUmZSanZFa2VXU0QtNFRkVWx3WDBTTUhLT1ZiNmFNUy0xNjlldlE?oc=5"
-            },
-            {
-                "title": "泰州海事局组织开展客（渡） 运航线短临致灾天气预警叫应实战演练 - 江苏海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5NjlJdm9ENm9kT0FwOE11aV9vM09yYl90QjIxV0xmc2ZfMEd0Zk93U0JSbV85YzdocVdGci12SGg3SmNrT2NuTFc5eVlrODRqRWFueV8tNTNwSlhCMDMycmdpaC0xNHlhOTNj?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "AI真能拯救美国39万亿美元债务？耶鲁发出警告(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-07",
-                "url": "https://www.secretchina.com/news/gb/2026/05/07/1098795.html"
+                "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-08",
+                "url": "https://36kr.com/p/3799984046333186"
             },
             {
-                "title": "法官裁定：英伟达相关脚本唯一用途就是协助实施版权侵权行为",
+                "title": "昆仑芯启动科创板 IPO 上市辅导，百度持股 57.67%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-07",
-                "url": "https://www.ithome.com/0/947/408.htm"
+                "date": "2026-05-08",
+                "url": "https://www.ithome.com/0/947/484.htm"
             },
             {
-                "title": "23岁学生用手持电台伪造警报信号致台铁高铁多车次停驶",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561678.htm"
+                "title": "工信部批复 6GHz 频段 6G 试验频率使用许可，为第六代移动通信系统铺路",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-08",
+                "url": "https://www.ithome.com/0/947/480.htm"
             },
             {
-                "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+                "title": "美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-08",
+                "url": "http://www.geekpark.net/news/363813"
+            },
+            {
+                "title": "8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-07",
-                "url": "https://36kr.com/p/3786528811572481"
-            },
-            {
-                "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-07",
-                "url": "https://36kr.com/p/3799089350712324"
+                "date": "2026-05-08",
+                "url": "https://36kr.com/p/3799881836633093"
             },
             {
                 "title": "2026年5月7日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,22 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pZF9HM1dkWkFjam9uem52QUZ4c2QwMXBzMHRkbVVSQXoyUnRQd3ZpeU1FeXBtdkUzeDI2UE5UWEZuR3hPZ1V6eFp6OTNaTkh1VnNYa2xfUkdRM2ctNW13RWhWVktrVUlNbTRZOWhOb2RHdzFjT3c?oc=5"
             },
             {
-                "title": "王毅会见美国国会参议员代表团 - mfa.gov.cn",
+                "title": "文莱王储比拉将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXNlM5ZzVVaVQzSjRZNXJkU3ZiZmNhZFRMVFpNVjl2VndJeXVvZXcyQ0JiUlRxOGJmLVpsSVBud1ZLc04xNnF0VVRjVzNKYUFFRlJlWkY5SXU3ZmRXQVVXTXlhaGdFNUEtNDBmdkx3?oc=5"
+                "date": "2026-05-08",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkhJQ1ZiV1V4eUNSeG04MElwWHAzZDgzam12cS15ZS0waUhBU0J4MzFQYVpiaThPSWdoNlRWRVEwZW5hN1VLRndtTXpYb2FIUU5TdjYxWklWNVlBNXpXOHlNYjJNeXhoSklhejlfVk5pVHYwTVlMcmFIdGw3dVBLNHk1NEgwOFRLRVE?oc=5"
             },
             {
-                "title": "魏凤和案、李尚福案一审宣判 - 国防部网",
+                "title": "塔吉克斯坦总统拉赫蒙将对华进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TOU1fZENBQWZLcVBXZTBmQ1JuSndMcG1PT3BVZWdWOFJGenVydzRFU3oxWnM4UEI4bklPcjM5VWxjam4xSmhzQ0ZNWUoyNzFfNVMtNTU5eTg?oc=5"
+                "date": "2026-05-08",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0JSYnl2VDBpQy1CU0xuU1VxblRYSzVmYmhQWTcwaTgyU0M2d1RIZnlhQlRQNWd5Z0lXSGY3aXItaVlpNTVQRmhzOEV6Y0NVRFBSeUk3OWZsUzVRYUF3VzV4U2ZDMHhEakVOcjNkWG1iMXJJbVIxS21ZNWVzMFFSTS0zYjd2VFpDdVE?oc=5"
             },
             {
-                "title": "踏访新时代边关·军营开放日丨西沙寻绿，军属走近抗风桐 - 中国军网",
+                "title": "从泥泞土路变成平坦水泥路，老兵为家乡铺就“幸福路” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVF9kZkNUdmNlbnl6Ri1OTmFDNnVMZUd6LWJDZ1hkMUc3NXpWbWhaNGpoc0hBOFE5VmdzNmFIOHFIbHlUbVZUTU9oOFFtTUdua1E?oc=5"
+                "date": "2026-05-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43SW52UkZzYWNyRnp3N0FMUV9NS3RCNndqNFVFLWdieXI1RkRyOVhJa1dBMEQ0X2JWR0s4bGVSTVgyTnlObTU1SldHYTMwd0llUXc?oc=5"
             },
             {
                 "title": "2026年火箭军面向社会公开招考专业技能类文职人员公告 - 中国军网",
@@ -178,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJUnlrd2tWcENGWU1HaGw1YTJ2a0lkbENZS2RUQTJCRDZ3dEpmUUVERWN0aUZRaWxjRk9qZ0RNOG9relpBUnkxN19oYVNQYmFDRnc?oc=5"
             },
             {
-                "title": "新华社国家高端智库发布《文化赋能论——中国迈向高质量发展的文化自觉》智库报告 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESVVVakthbWlkcW0yOWRQd04xZW1ZdnE5QlFKdkxvRUthWkoyUmZSanZFa2VXU0QtNFRkVWx3WDBTTUhLT1ZiNmFNUy0xNjlldlE?oc=5"
-            },
-            {
-                "title": "泰州海事局组织开展客（渡） 运航线短临致灾天气预警叫应实战演练 - 江苏海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-05-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5NjlJdm9ENm9kT0FwOE11aV9vM09yYl90QjIxV0xmc2ZfMEd0Zk93U0JSbV85YzdocVdGci12SGg3SmNrT2NuTFc5eVlrODRqRWFueV8tNTNwSlhCMDMycmdpaC0xNHlhOTNj?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-08T19:13:04.108579+00:00"
+    "last_updated": "2026-05-09T02:36:59.241825+00:00"
 }
