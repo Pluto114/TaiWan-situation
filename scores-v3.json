@@ -12,38 +12,44 @@
     "news_sources": {
         "econ": [
             {
-                "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "苹果和英特尔，分手六年后，又「在一起」了",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-09",
-                "url": "https://36kr.com/p/3797202414820359"
+                "url": "http://www.geekpark.net/news/363920"
             },
             {
-                "title": "消息称三星电子有意为 Galaxy S27 手机 OLED 显示面板引入第二供应商京东方",
+                "title": "消息称一加平板 3 Pro 配置可参考 OPPO Pad 5 Pro，海外型号为 OnePlus Pad 4",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/027.htm"
+                "url": "https://www.ithome.com/0/948/195.htm"
             },
             {
-                "title": "OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "乘联分会崔东树：中国汽车产业形成“零部件深耕欧美、整车辐射全球”的交叉互补格局",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-09",
-                "url": "http://www.geekpark.net/news/363872"
+                "url": "https://www.ithome.com/0/948/175.htm"
             },
             {
-                "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-                "source": "NewsAPI / 36kr.com",
+                "title": "开启收费，字节养不起豆包了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-09",
-                "url": "https://36kr.com/p/3801348046151428"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561868.htm"
             },
             {
-                "title": "Anthropic 估值逼近 1 万亿美元；OpenAI 推出 Codex Chrome 扩展；消息称腾讯实习生大涨薪，百度「全员晋升」｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-08",
-                "url": "http://www.geekpark.net/news/363869"
+                "title": "售价或超4000 定位全球第二 王自如要做智能指环了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561860.htm"
             }
         ],
         "mil": [
             {
+                "title": "AI开始接管年轻人的「精神自留地」",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-09",
+                "url": "https://36kr.com/p/3801461350702855"
+            },
+            {
                 "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-09",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-08",
                 "url": "http://www.geekpark.net/news/363869"
-            },
-            {
-                "title": "波兰情报机构称黑客入侵多座水处理厂 美国也面临类似威胁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561840.htm"
             },
             {
                 "title": "2026年5月8日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -80,16 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9peDQtbkJlc05ZOXFwWDFVUmZ6WUJwbk9pNTlRSlE2aGdMQlo1X1cxOUdWRUFLQW5pSmlYSjFCRU56NkNNdzNfcG5sZXpVVEpWb2kwY3A5RW9WaHVPOFFnZk14MmlBRFp4Yllnc3V0VUZPMmhUM2c?oc=5"
             },
             {
-                "title": "塔吉克斯坦总统拉赫蒙将对华进行国事访问 - mfa.gov.cn",
+                "title": "中巴两军持续深化务实合作 - 国防部网",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0JSYnl2VDBpQy1CU0xuU1VxblRYSzVmYmhQWTcwaTgyU0M2d1RIZnlhQlRQNWd5Z0lXSGY3aXItaVlpNTVQRmhzOEV6Y0NVRFBSeUk3OWZsUzVRYUF3VzV4U2ZDMHhEakVOcjNkWG1iMXJJbVIxS21ZNWVzMFFSTS0zYjd2VFpDdVE?oc=5"
+                "date": "2026-05-09",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibklkM3piWnNrUFNnNFBqa29GS0UtTDk4MGp3ekVaT2Vsa3lQaElMQmdwcGtyd1NhelUyUEdMU2tOQnpiTE0xOEtIc1pmclZ6aXZSQUpLMVU?oc=5"
             },
             {
-                "title": "文莱王储比拉将访华 - mfa.gov.cn",
+                "title": "林剑：东京审判把法西斯战犯永远钉在人类历史的耻辱柱上 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkhJQ1ZiV1V4eUNSeG04MElwWHAzZDgzam12cS15ZS0waUhBU0J4MzFQYVpiaThPSWdoNlRWRVEwZW5hN1VLRndtTXpYb2FIUU5TdjYxWklWNVlBNXpXOHlNYjJNeXhoSklhejlfVk5pVHYwTVlMcmFIdGw3dVBLNHk1NEgwOFRLRVE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0kycnBfaTh5VEdiVUpYdGpaYXp1Yi02Z2QtLW9Gem5xdmdVU1pxMG5JSTIyOEhxaTZaRk5xdVJzSVNCbVhRTDV4eUJoR3VKVUVXamFITEk3LWVoYm1hdmZiUjlYMTB2d2R1NVVlUzl0WGUtdlFJYjBuYmVtTDdrZ1RHNHNCbm8xTDVrNy1Vc3U?oc=5"
             },
             {
                 "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-09",
-                "url": "https://36kr.com/p/3797202414820359"
-            },
-            {
-                "title": "消息称三星电子有意为 Galaxy S27 手机 OLED 显示面板引入第二供应商京东方",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/027.htm"
-            },
-            {
-                "title": "OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪",
+                "title": "苹果和英特尔，分手六年后，又「在一起」了",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-09",
-                "url": "http://www.geekpark.net/news/363872"
+                "url": "http://www.geekpark.net/news/363920"
             },
             {
-                "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-                "source": "NewsAPI / 36kr.com",
+                "title": "央视网曝光8家车企因锁电被约谈 网传名单中车企集体否认",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-09",
-                "url": "https://36kr.com/p/3801348046151428"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561904.htm"
             },
             {
-                "title": "Anthropic 估值逼近 1 万亿美元；OpenAI 推出 Codex Chrome 扩展；消息称腾讯实习生大涨薪，百度「全员晋升」｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-08",
-                "url": "http://www.geekpark.net/news/363869"
+                "title": "特斯拉Model Y成首款通过美国全新驾驶辅助安全基准的车型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561902.htm"
+            },
+            {
+                "title": "曝AMD显卡在中国竟是在亏本大甩卖",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561876.htm"
+            },
+            {
+                "title": "开启收费，字节养不起豆包了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561868.htm"
             },
             {
                 "title": "2026年5月8日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9peDQtbkJlc05ZOXFwWDFVUmZ6WUJwbk9pNTlRSlE2aGdMQlo1X1cxOUdWRUFLQW5pSmlYSjFCRU56NkNNdzNfcG5sZXpVVEpWb2kwY3A5RW9WaHVPOFFnZk14MmlBRFp4Yllnc3V0VUZPMmhUM2c?oc=5"
             },
             {
-                "title": "塔吉克斯坦总统拉赫蒙将对华进行国事访问 - mfa.gov.cn",
+                "title": "中巴两军持续深化务实合作 - 国防部网",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0JSYnl2VDBpQy1CU0xuU1VxblRYSzVmYmhQWTcwaTgyU0M2d1RIZnlhQlRQNWd5Z0lXSGY3aXItaVlpNTVQRmhzOEV6Y0NVRFBSeUk3OWZsUzVRYUF3VzV4U2ZDMHhEakVOcjNkWG1iMXJJbVIxS21ZNWVzMFFSTS0zYjd2VFpDdVE?oc=5"
+                "date": "2026-05-09",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibklkM3piWnNrUFNnNFBqa29GS0UtTDk4MGp3ekVaT2Vsa3lQaElMQmdwcGtyd1NhelUyUEdMU2tOQnpiTE0xOEtIc1pmclZ6aXZSQUpLMVU?oc=5"
             },
             {
-                "title": "文莱王储比拉将访华 - mfa.gov.cn",
+                "title": "林剑：东京审判把法西斯战犯永远钉在人类历史的耻辱柱上 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkhJQ1ZiV1V4eUNSeG04MElwWHAzZDgzam12cS15ZS0waUhBU0J4MzFQYVpiaThPSWdoNlRWRVEwZW5hN1VLRndtTXpYb2FIUU5TdjYxWklWNVlBNXpXOHlNYjJNeXhoSklhejlfVk5pVHYwTVlMcmFIdGw3dVBLNHk1NEgwOFRLRVE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0kycnBfaTh5VEdiVUpYdGpaYXp1Yi02Z2QtLW9Gem5xdmdVU1pxMG5JSTIyOEhxaTZaRk5xdVJzSVNCbVhRTDV4eUJoR3VKVUVXamFITEk3LWVoYm1hdmZiUjlYMTB2d2R1NVVlUzl0WGUtdlFJYjBuYmVtTDdrZ1RHNHNCbm8xTDVrNy1Vc3U?oc=5"
             },
             {
                 "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-10T02:41:43.975267+00:00"
+    "last_updated": "2026-05-10T08:04:20.118433+00:00"
 }
