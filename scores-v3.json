@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "消息称 HMD Skyline 2 手机项目被取消，致敬诺基亚设计未能延续",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-09",
+                "url": "https://www.ithome.com/0/948/327.htm"
+            },
+            {
+                "title": "美伊仍在零星交火 数家中企遭美制裁",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-09",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E4%BB%8D%E5%9C%A8%E9%9B%B6%E6%98%9F%E4%BA%A4%E7%81%AB-%E6%95%B0%E5%AE%B6%E4%B8%AD%E4%BC%81%E9%81%AD%E7%BE%8E%E5%88%B6%E8%A3%81/a-77103989"
+            },
+            {
+                "title": "中美元首峰会在即：北京想要什么？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-09",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%B3%B0%E4%BC%9A%E5%9C%A8%E5%8D%B3%E5%8C%97%E4%BA%AC%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88/a-77103967"
+            },
+            {
+                "title": "市场人士回应“DeepSeek 和阿里谈崩了”：阿里应该没有进行谈判",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-09",
+                "url": "https://www.ithome.com/0/948/253.htm"
+            },
+            {
                 "title": "苹果和英特尔，分手六年后，又「在一起」了",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-09",
                 "url": "http://www.geekpark.net/news/363920"
-            },
-            {
-                "title": "消息称一加平板 3 Pro 配置可参考 OPPO Pad 5 Pro，海外型号为 OnePlus Pad 4",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/195.htm"
-            },
-            {
-                "title": "乘联分会崔东树：中国汽车产业形成“零部件深耕欧美、整车辐射全球”的交叉互补格局",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/175.htm"
-            },
-            {
-                "title": "开启收费，字节养不起豆包了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561868.htm"
-            },
-            {
-                "title": "售价或超4000 定位全球第二 王自如要做智能指环了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561860.htm"
             }
         ],
         "mil": [
+            {
+                "title": "躲过 #北京 盯梢 #台湾人 #乌克兰 前线学 #无人机 实战",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-05-09",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260509/2315690.html"
+            },
+            {
+                "title": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-09",
+                "url": "http://www.geekpark.net/news/363905"
+            },
+            {
+                "title": "诅咒再现？重庆市公安局长张安疆身亡 网传跳楼(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-09",
+                "url": "https://www.secretchina.com/news/gb/2026/05/09/1098886.html"
+            },
             {
                 "title": "AI开始接管年轻人的「精神自留地」",
                 "source": "NewsAPI / 36kr.com",
@@ -56,40 +74,22 @@
                 "url": "https://36kr.com/p/3797202414820359"
             },
             {
-                "title": "OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-09",
-                "url": "http://www.geekpark.net/news/363872"
-            },
-            {
-                "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-09",
-                "url": "https://36kr.com/p/3801348046151428"
-            },
-            {
-                "title": "Anthropic 估值逼近 1 万亿美元；OpenAI 推出 Codex Chrome 扩展；消息称腾讯实习生大涨薪，百度「全员晋升」｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-08",
-                "url": "http://www.geekpark.net/news/363869"
-            },
-            {
-                "title": "2026年5月8日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9peDQtbkJlc05ZOXFwWDFVUmZ6WUJwbk9pNTlRSlE2aGdMQlo1X1cxOUdWRUFLQW5pSmlYSjFCRU56NkNNdzNfcG5sZXpVVEpWb2kwY3A5RW9WaHVPOFFnZk14MmlBRFp4Yllnc3V0VUZPMmhUM2c?oc=5"
-            },
-            {
                 "title": "中巴两军持续深化务实合作 - 国防部网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-09",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibklkM3piWnNrUFNnNFBqa29GS0UtTDk4MGp3ekVaT2Vsa3lQaElMQmdwcGtyd1NhelUyUEdMU2tOQnpiTE0xOEtIc1pmclZ6aXZSQUpLMVU?oc=5"
             },
             {
-                "title": "林剑：东京审判把法西斯战犯永远钉在人类历史的耻辱柱上 - mfa.gov.cn",
+                "title": "驻挪威大使侯悦出席使馆举办的第三届中挪绿色合作研讨会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0kycnBfaTh5VEdiVUpYdGpaYXp1Yi02Z2QtLW9Gem5xdmdVU1pxMG5JSTIyOEhxaTZaRk5xdVJzSVNCbVhRTDV4eUJoR3VKVUVXamFITEk3LWVoYm1hdmZiUjlYMTB2d2R1NVVlUzl0WGUtdlFJYjBuYmVtTDdrZ1RHNHNCbm8xTDVrNy1Vc3U?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkF1bXAwLXhoQVdqU1hza1BIWDBockVNM19Nc09uZk9ReWdYOTBSamQ5c05fN1d4WUZYRU5vWWNDS1pveUpKQjV0ay1mSEpQTnE3TjdSZDRpUlVJWktiUUo3S2JSMnh5T3ZPU1NtOHIzS2JwUzVuNDVqMlJ2OGNmTnhDckg?oc=5"
+            },
+            {
+                "title": "驻非盟使团团长蒋烽大使与驻突尼斯万黎大使在突尼斯《时报》联合发表署名文章 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-09",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTi1BcWw4NEhSSUVYemhjdklWVVVDRWxkQXBpa08zcXVkTFlsa01CVllRbDhkUVRNcnFIdEF4ZWpEa0RvOU9pQjZ3cGl6b0xMdG5fc25wM3VvNHlvc2dJc2FGMFd4U1JTX09uU0dtRUdST2pBWDVMYThCRQ?oc=5"
             },
             {
                 "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "躲过 #北京 盯梢 #台湾人 #乌克兰 前线学 #无人机 实战",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-05-09",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260509/2315690.html"
+            },
+            {
+                "title": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-09",
+                "url": "http://www.geekpark.net/news/363905"
+            },
+            {
                 "title": "苹果和英特尔，分手六年后，又「在一起」了",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-09",
@@ -130,34 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561902.htm"
             },
             {
-                "title": "曝AMD显卡在中国竟是在亏本大甩卖",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561876.htm"
-            },
-            {
-                "title": "开启收费，字节养不起豆包了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561868.htm"
-            },
-            {
-                "title": "2026年5月8日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9peDQtbkJlc05ZOXFwWDFVUmZ6WUJwbk9pNTlRSlE2aGdMQlo1X1cxOUdWRUFLQW5pSmlYSjFCRU56NkNNdzNfcG5sZXpVVEpWb2kwY3A5RW9WaHVPOFFnZk14MmlBRFp4Yllnc3V0VUZPMmhUM2c?oc=5"
-            },
-            {
                 "title": "中巴两军持续深化务实合作 - 国防部网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-09",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibklkM3piWnNrUFNnNFBqa29GS0UtTDk4MGp3ekVaT2Vsa3lQaElMQmdwcGtyd1NhelUyUEdMU2tOQnpiTE0xOEtIc1pmclZ6aXZSQUpLMVU?oc=5"
             },
             {
-                "title": "林剑：东京审判把法西斯战犯永远钉在人类历史的耻辱柱上 - mfa.gov.cn",
+                "title": "驻挪威大使侯悦出席使馆举办的第三届中挪绿色合作研讨会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-08",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0kycnBfaTh5VEdiVUpYdGpaYXp1Yi02Z2QtLW9Gem5xdmdVU1pxMG5JSTIyOEhxaTZaRk5xdVJzSVNCbVhRTDV4eUJoR3VKVUVXamFITEk3LWVoYm1hdmZiUjlYMTB2d2R1NVVlUzl0WGUtdlFJYjBuYmVtTDdrZ1RHNHNCbm8xTDVrNy1Vc3U?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkF1bXAwLXhoQVdqU1hza1BIWDBockVNM19Nc09uZk9ReWdYOTBSamQ5c05fN1d4WUZYRU5vWWNDS1pveUpKQjV0ay1mSEpQTnE3TjdSZDRpUlVJWktiUUo3S2JSMnh5T3ZPU1NtOHIzS2JwUzVuNDVqMlJ2OGNmTnhDckg?oc=5"
+            },
+            {
+                "title": "驻非盟使团团长蒋烽大使与驻突尼斯万黎大使在突尼斯《时报》联合发表署名文章 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-09",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTi1BcWw4NEhSSUVYemhjdklWVVVDRWxkQXBpa08zcXVkTFlsa01CVllRbDhkUVRNcnFIdEF4ZWpEa0RvOU9pQjZ3cGl6b0xMdG5fc25wM3VvNHlvc2dJc2FGMFd4U1JTX09uU0dtRUdST2pBWDVMYThCRQ?oc=5"
             },
             {
                 "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-10T08:04:20.118433+00:00"
+    "last_updated": "2026-05-10T13:12:09.819208+00:00"
 }
