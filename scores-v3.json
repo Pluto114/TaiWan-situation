@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+                "title": "【CDT报告汇】连线中国：政治商业双压力，中国书商迎来行业寒冬（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-05-10",
+                "url": "https://chinadigitaltimes.net/chinese/727095.html"
+            },
+            {
+                "title": "美科技行业失业率四月升至3.8% AI驱动裁员阴影加重",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561958.htm"
+            },
+            {
+                "title": "中国新增高端聚苯乙烯规模化产能 为光学材料供应链提供新选择",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-10",
-                "url": "https://36kr.com/p/3802822550839047"
+                "url": "https://36kr.com/newsflashes/3803127835991817"
             },
             {
-                "title": "华为智慧屏 S7 发布：全新自研鸿鹄芯片、升级 Super MiniLED，3999 元起",
+                "title": "Increment Labs 为摄影师设计 LMW‑V1 测光腕表",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561952.htm"
+            },
+            {
+                "title": "蓝芯算力联合中国移动实现 RISC-V + BC-LINUX 全栈融合方案适配",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-10",
-                "url": "https://www.ithome.com/0/948/405.htm"
-            },
-            {
-                "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-10",
-                "url": "https://36kr.com/p/3801745491943169"
-            },
-            {
-                "title": "Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-10",
-                "url": "http://www.geekpark.net/news/363934"
-            },
-            {
-                "title": "IT早报 0510：SK 海力士回应“员工人均奖金 610 万人民币”；多家车企辟谣“锁电”被约谈；曝 iPhone 18 Pro 灵动岛缩小 25%；DeepSeek 大范围开放“识图模式”...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/383.htm"
+                "url": "https://www.ithome.com/0/948/452.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国解密UFO文件：宇航员看到神秘闪光 多人目睹金属物体空中悬浮",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561962.htm"
+            },
+            {
+                "title": "系统 OTA 升级后续航从 500km 变 300km？央视揭秘新能源汽车“锁电”真相",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-10",
+                "url": "https://www.ithome.com/0/948/435.htm"
+            },
             {
                 "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.ithome.com/0/948/382.htm"
             },
             {
-                "title": "躲过 #北京 盯梢 #台湾人 #乌克兰 前线学 #无人机 实战",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-05-09",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260509/2315690.html"
+                "title": "美国总统特朗普将对中国进行国事访问 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWMxR1BSZUJkcGh6LUtySmhYOHhLc1lZNlRSd1F3QlpuMldsbEVsVlF2X1luRm5NejBzYmg0ZFpJUm9NYzhRMkQyNmlqVFFrU05EelJuemJOUUZiS2lmTmZDdnlPTVBKQmVzVEtuRzJoSVYtVTdvVWEzR0gtc3dCNXNITU5kNnYyWnc?oc=5"
             },
             {
-                "title": "Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-09",
-                "url": "http://www.geekpark.net/news/363905"
-            },
-            {
-                "title": "【双语】日方应拿出正视历史的态度、真诚悔罪的行动 - 国防部网",
+                "title": "驻非盟使团团长蒋烽大使与驻突尼斯万黎大使在突尼斯《时报》联合发表署名文章 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kY3JzSXlJVmdHeG9jdEs0ZW1XMnpsQUlyRjdiRnp0S3UtNzVMNC14SmV2LUxMUW4wOWRORUF3S3I3aE1ZbUFQRjFPb01fN1dGemZYcnBBNUs?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTi1BcWw4NEhSSUVYemhjdklWVVVDRWxkQXBpa08zcXVkTFlsa01CVllRbDhkUVRNcnFIdEF4ZWpEa0RvOU9pQjZ3cGl6b0xMdG5fc25wM3VvNHlvc2dJc2FGMFd4U1JTX09uU0dtRUdST2pBWDVMYThCRQ?oc=5"
             },
             {
-                "title": "中巴两军持续深化务实合作 - 国防部网",
+                "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibklkM3piWnNrUFNnNFBqa29GS0UtTDk4MGp3ekVaT2Vsa3lQaElMQmdwcGtyd1NhelUyUEdMU2tOQnpiTE0xOEtIc1pmclZ6aXZSQUpLMVU?oc=5"
-            },
-            {
-                "title": "军委办公厅 - 国防部网",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FQnRibTJGRXZsSHl1TVZWakVGM1Z3X2ZmdjlkT09NTlpXV29LSEYxdGtoMjNPZ2NNYmdWY3FnbDZPbS1Odi1RQzNXTXNJTTJqdFoyUW8tTmNaVVBDT0stdk5naGR3QQ?oc=5"
+                "date": "2026-05-10",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
             },
             {
                 "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
@@ -98,66 +98,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55aF9rZmZlTGIwU3RuU1ZWdU81VDR1ZlIzQjAteW9MX0JWelN3SW9RYy1kS20xTThCanFMWnJ2bGJqWTlyVUNZN1VLTTFGYTNkVmc?oc=5"
             },
             {
+                "title": "Army Troops Conduct Live-fire Shooting, Grenade and Demolition Assessments - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QdzRGR0VFenBnbDRXX2UwWFZ0NkRzY0ZBa2pLQThjc1NlVGhReFduMzBtUk54RElQNDM5WUNqY1puZTV1UTF1dmlQQlFBTmFMSHRpb1dpTXpVXzdVLWc?oc=5"
+            },
+            {
                 "title": "人民论坛网评 | 以“无我”境界成“有我”之业 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
-                "source": "NewsAPI / 36kr.com",
+                "title": "【CDT报告汇】连线中国：政治商业双压力，中国书商迎来行业寒冬（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-05-10",
-                "url": "https://36kr.com/p/3802822550839047"
+                "url": "https://chinadigitaltimes.net/chinese/727095.html"
             },
             {
-                "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Anthropic大肆购买古籍，扫描蒸馏后立即销毁？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-10",
-                "url": "https://36kr.com/p/3801745491943169"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561972.htm"
             },
             {
-                "title": "今日消费资讯：Alessio Lillocci 出任 CANALI 创意总监、Aesop 深圳万象城店闭店",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "阿里巴巴将把通义千问AI接入淘宝 推出智能体式购物服务",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-10",
-                "url": "https://www.toodaylab.com/84030"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561964.htm"
             },
             {
-                "title": "Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "美国解密UFO文件：宇航员看到神秘闪光 多人目睹金属物体空中悬浮",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-10",
-                "url": "http://www.geekpark.net/news/363934"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561962.htm"
             },
             {
-                "title": "IT早报 0510：SK 海力士回应“员工人均奖金 610 万人民币”；多家车企辟谣“锁电”被约谈；曝 iPhone 18 Pro 灵动岛缩小 25%；DeepSeek 大范围开放“识图模式”...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/383.htm"
+                "title": "Increment Labs 为摄影师设计 LMW‑V1 测光腕表",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561952.htm"
             },
             {
-                "title": "【双语】日方应拿出正视历史的态度、真诚悔罪的行动 - 国防部网",
+                "title": "美国总统特朗普将对中国进行国事访问 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWMxR1BSZUJkcGh6LUtySmhYOHhLc1lZNlRSd1F3QlpuMldsbEVsVlF2X1luRm5NejBzYmg0ZFpJUm9NYzhRMkQyNmlqVFFrU05EelJuemJOUUZiS2lmTmZDdnlPTVBKQmVzVEtuRzJoSVYtVTdvVWEzR0gtc3dCNXNITU5kNnYyWnc?oc=5"
+            },
+            {
+                "title": "驻非盟使团团长蒋烽大使与驻突尼斯万黎大使在突尼斯《时报》联合发表署名文章 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kY3JzSXlJVmdHeG9jdEs0ZW1XMnpsQUlyRjdiRnp0S3UtNzVMNC14SmV2LUxMUW4wOWRORUF3S3I3aE1ZbUFQRjFPb01fN1dGemZYcnBBNUs?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTi1BcWw4NEhSSUVYemhjdklWVVVDRWxkQXBpa08zcXVkTFlsa01CVllRbDhkUVRNcnFIdEF4ZWpEa0RvOU9pQjZ3cGl6b0xMdG5fc25wM3VvNHlvc2dJc2FGMFd4U1JTX09uU0dtRUdST2pBWDVMYThCRQ?oc=5"
             },
             {
-                "title": "中巴两军持续深化务实合作 - 国防部网",
+                "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibklkM3piWnNrUFNnNFBqa29GS0UtTDk4MGp3ekVaT2Vsa3lQaElMQmdwcGtyd1NhelUyUEdMU2tOQnpiTE0xOEtIc1pmclZ6aXZSQUpLMVU?oc=5"
-            },
-            {
-                "title": "军委办公厅 - 国防部网",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FQnRibTJGRXZsSHl1TVZWakVGM1Z3X2ZmdjlkT09NTlpXV29LSEYxdGtoMjNPZ2NNYmdWY3FnbDZPbS1Odi1RQzNXTXNJTTJqdFoyUW8tTmNaVVBDT0stdk5naGR3QQ?oc=5"
+                "date": "2026-05-10",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
             },
             {
                 "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55aF9rZmZlTGIwU3RuU1ZWdU81VDR1ZlIzQjAteW9MX0JWelN3SW9RYy1kS20xTThCanFMWnJ2bGJqWTlyVUNZN1VLTTFGYTNkVmc?oc=5"
             },
             {
+                "title": "Army Troops Conduct Live-fire Shooting, Grenade and Demolition Assessments - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QdzRGR0VFenBnbDRXX2UwWFZ0NkRzY0ZBa2pLQThjc1NlVGhReFduMzBtUk54RElQNDM5WUNqY1puZTV1UTF1dmlQQlFBTmFMSHRpb1dpTXpVXzdVLWc?oc=5"
+            },
+            {
                 "title": "人民论坛网评 | 以“无我”境界成“有我”之业 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-11T02:51:37.275065+00:00"
+    "last_updated": "2026-05-11T09:34:34.096305+00:00"
 }
