@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "特朗普 Mobile T1 手机发布近一年依然还是“概念产品”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1561982.htm"
+            },
+            {
                 "title": "特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-10",
@@ -34,12 +40,6 @@
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-05-10",
                 "url": "https://chinadigitaltimes.net/chinese/727095.html"
-            },
-            {
-                "title": "美科技行业失业率四月升至3.8% AI驱动裁员阴影加重",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561958.htm"
             }
         ],
         "mil": [
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
             },
             {
+                "title": "视频｜圆满成功！中国空间站“快递小哥”再赴太空 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50ZkQtdDBQVURhTndvM3FvSHJJbVNSOGM3WjJjNGJmTXZ2ZGVYekRlZ0dPV09BbnZ5RWdTMlB2UUlUUVdOV2dqZF94aUxjYnh6VHc?oc=5"
+            },
+            {
                 "title": "Army Troops Conduct Live-fire Shooting, Grenade and Demolition Assessments - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-11",
@@ -102,12 +108,6 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
-            },
-            {
-                "title": "珠江抗日根据地：三角洲上的红色堡垒 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTWNOcFAySUdNbFNIZFR1NW5QdXNHams1dlozOFNfdlpRUlBxUTMxaXRPN0x3UjhtakNtd3BJamJYRzdoeUNHUVBtRV9UeXk4X0wxNXFzX2NhQ1ZoQWZmVQ?oc=5"
             }
         ],
         "pol": [
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
             },
             {
+                "title": "视频｜圆满成功！中国空间站“快递小哥”再赴太空 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50ZkQtdDBQVURhTndvM3FvSHJJbVNSOGM3WjJjNGJmTXZ2ZGVYekRlZ0dPV09BbnZ5RWdTMlB2UUlUUVdOV2dqZF94aUxjYnh6VHc?oc=5"
+            },
+            {
                 "title": "Army Troops Conduct Live-fire Shooting, Grenade and Demolition Assessments - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-11",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
-            },
-            {
-                "title": "珠江抗日根据地：三角洲上的红色堡垒 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTWNOcFAySUdNbFNIZFR1NW5QdXNHams1dlozOFNfdlpRUlBxUTMxaXRPN0x3UjhtakNtd3BJamJYRzdoeUNHUVBtRV9UeXk4X0wxNXFzX2NhQ1ZoQWZmVQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-11T14:43:28.948652+00:00"
+    "last_updated": "2026-05-11T19:43:29.035126+00:00"
 }
