@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-10",
+                "url": "https://www.ithome.com/0/948/550.htm"
+            },
+            {
+                "title": "罗技加码投入，押注 AI、游戏及商用市场",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-10",
+                "url": "https://www.ithome.com/0/948/502.htm"
+            },
+            {
+                "title": "向伊朗提供卫星图像 美国再制裁三家中资企业",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-10",
+                "url": "https://www.dw.com/zh/%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F-%E7%BE%8E%E5%9B%BD%E5%86%8D%E5%88%B6%E8%A3%81%E4%B8%89%E5%AE%B6%E4%B8%AD%E8%B5%84%E4%BC%81%E4%B8%9A/a-77109744"
+            },
+            {
                 "title": "【CDT报告汇】连线中国：政治商业双压力，中国书商迎来行业寒冬（外二篇）",
                 "source": "NewsAPI / Chinadigitaltimes.net",
                 "date": "2026-05-10",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-10",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561958.htm"
-            },
-            {
-                "title": "中国新增高端聚苯乙烯规模化产能 为光学材料供应链提供新选择",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-10",
-                "url": "https://36kr.com/newsflashes/3803127835991817"
-            },
-            {
-                "title": "Increment Labs 为摄影师设计 LMW‑V1 测光腕表",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561952.htm"
-            },
-            {
-                "title": "蓝芯算力联合中国移动实现 RISC-V + BC-LINUX 全栈融合方案适配",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-10",
-                "url": "https://www.ithome.com/0/948/452.htm"
             }
         ],
         "mil": [
@@ -80,22 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWMxR1BSZUJkcGh6LUtySmhYOHhLc1lZNlRSd1F3QlpuMldsbEVsVlF2X1luRm5NejBzYmg0ZFpJUm9NYzhRMkQyNmlqVFFrU05EelJuemJOUUZiS2lmTmZDdnlPTVBKQmVzVEtuRzJoSVYtVTdvVWEzR0gtc3dCNXNITU5kNnYyWnc?oc=5"
             },
             {
-                "title": "驻非盟使团团长蒋烽大使与驻突尼斯万黎大使在突尼斯《时报》联合发表署名文章 - mfa.gov.cn",
+                "title": "外交部介绍特朗普总统即将对中国进行国事访问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTi1BcWw4NEhSSUVYemhjdklWVVVDRWxkQXBpa08zcXVkTFlsa01CVllRbDhkUVRNcnFIdEF4ZWpEa0RvOU9pQjZ3cGl6b0xMdG5fc25wM3VvNHlvc2dJc2FGMFd4U1JTX09uU0dtRUdST2pBWDVMYThCRQ?oc=5"
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1RDUzgyS0tROHc0YlRLYU1SV2k5U2ZaU3pITmlTajQxMVkxc1pRUFI3SFB1V0xDRC1XZlJoTGRGWGhscnVLYUZ2akVnUkwyNkRXOFJvdDZjQURXN043R1JjU0F1bldHbmFsQk85RXZHNklRRy1iOUV1RzVKeHNxREdRLXE4T0U5dEVfVFN1d3Y?oc=5"
             },
             {
                 "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
-            },
-            {
-                "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55aF9rZmZlTGIwU3RuU1ZWdU81VDR1ZlIzQjAteW9MX0JWelN3SW9RYy1kS20xTThCanFMWnJ2bGJqWTlyVUNZN1VLTTFGYTNkVmc?oc=5"
             },
             {
                 "title": "Army Troops Conduct Live-fire Shooting, Grenade and Demolition Assessments - China Military Online",
@@ -108,9 +102,27 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
+            },
+            {
+                "title": "珠江抗日根据地：三角洲上的红色堡垒 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTWNOcFAySUdNbFNIZFR1NW5QdXNHams1dlozOFNfdlpRUlBxUTMxaXRPN0x3UjhtakNtd3BJamJYRzdoeUNHUVBtRV9UeXk4X0wxNXFzX2NhQ1ZoQWZmVQ?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-10",
+                "url": "https://www.ithome.com/0/948/550.htm"
+            },
+            {
+                "title": "美国一数据中心偷偷抽取 2900 万加仑水，竟被免予罚款",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-10",
+                "url": "https://www.ithome.com/0/948/533.htm"
+            },
             {
                 "title": "【CDT报告汇】连线中国：政治商业双压力，中国书商迎来行业寒冬（外二篇）",
                 "source": "NewsAPI / Chinadigitaltimes.net",
@@ -130,40 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1561964.htm"
             },
             {
-                "title": "美国解密UFO文件：宇航员看到神秘闪光 多人目睹金属物体空中悬浮",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561962.htm"
-            },
-            {
-                "title": "Increment Labs 为摄影师设计 LMW‑V1 测光腕表",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561952.htm"
-            },
-            {
                 "title": "美国总统特朗普将对中国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-11",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWMxR1BSZUJkcGh6LUtySmhYOHhLc1lZNlRSd1F3QlpuMldsbEVsVlF2X1luRm5NejBzYmg0ZFpJUm9NYzhRMkQyNmlqVFFrU05EelJuemJOUUZiS2lmTmZDdnlPTVBKQmVzVEtuRzJoSVYtVTdvVWEzR0gtc3dCNXNITU5kNnYyWnc?oc=5"
             },
             {
-                "title": "驻非盟使团团长蒋烽大使与驻突尼斯万黎大使在突尼斯《时报》联合发表署名文章 - mfa.gov.cn",
+                "title": "外交部介绍特朗普总统即将对中国进行国事访问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTi1BcWw4NEhSSUVYemhjdklWVVVDRWxkQXBpa08zcXVkTFlsa01CVllRbDhkUVRNcnFIdEF4ZWpEa0RvOU9pQjZ3cGl6b0xMdG5fc25wM3VvNHlvc2dJc2FGMFd4U1JTX09uU0dtRUdST2pBWDVMYThCRQ?oc=5"
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1RDUzgyS0tROHc0YlRLYU1SV2k5U2ZaU3pITmlTajQxMVkxc1pRUFI3SFB1V0xDRC1XZlJoTGRGWGhscnVLYUZ2akVnUkwyNkRXOFJvdDZjQURXN043R1JjU0F1bldHbmFsQk85RXZHNklRRy1iOUV1RzVKeHNxREdRLXE4T0U5dEVfVFN1d3Y?oc=5"
             },
             {
                 "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
-            },
-            {
-                "title": "第三轮第六批中央生态环保督察全部实现进驻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55aF9rZmZlTGIwU3RuU1ZWdU81VDR1ZlIzQjAteW9MX0JWelN3SW9RYy1kS20xTThCanFMWnJ2bGJqWTlyVUNZN1VLTTFGYTNkVmc?oc=5"
             },
             {
                 "title": "Army Troops Conduct Live-fire Shooting, Grenade and Demolition Assessments - China Military Online",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
+            },
+            {
+                "title": "珠江抗日根据地：三角洲上的红色堡垒 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTWNOcFAySUdNbFNIZFR1NW5QdXNHams1dlozOFNfdlpRUlBxUTMxaXRPN0x3UjhtakNtd3BJamJYRzdoeUNHUVBtRV9UeXk4X0wxNXFzX2NhQ1ZoQWZmVQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-11T09:34:34.096305+00:00"
+    "last_updated": "2026-05-11T14:43:28.948652+00:00"
 }
