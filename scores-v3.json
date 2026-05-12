@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "特朗普 Mobile T1 手机发布近一年依然还是“概念产品”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561982.htm"
+                "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-11",
+                "url": "https://36kr.com/p/3804282431659779"
             },
             {
-                "title": "特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回",
+                "title": "2026 台北电脑展看点前瞻：英特尔有望发布掌机芯片 G3E，英伟达首款消费级 PC SoC 备受关注",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-10",
-                "url": "https://www.ithome.com/0/948/550.htm"
+                "date": "2026-05-11",
+                "url": "https://www.ithome.com/0/948/593.htm"
             },
             {
-                "title": "罗技加码投入，押注 AI、游戏及商用市场",
+                "title": "全球首创“运营商码号即大模型账号”，中国移动发布 AI-eSIM 多生态智能服务体系",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-10",
-                "url": "https://www.ithome.com/0/948/502.htm"
+                "date": "2026-05-11",
+                "url": "https://www.ithome.com/0/948/585.htm"
             },
             {
-                "title": "向伊朗提供卫星图像 美国再制裁三家中资企业",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-05-10",
-                "url": "https://www.dw.com/zh/%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F-%E7%BE%8E%E5%9B%BD%E5%86%8D%E5%88%B6%E8%A3%81%E4%B8%89%E5%AE%B6%E4%B8%AD%E8%B5%84%E4%BC%81%E4%B8%9A/a-77109744"
+                "title": "OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生最好时机：微信测试「组合支付」功能｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-11",
+                "url": "http://www.geekpark.net/news/363937"
             },
             {
-                "title": "【CDT报告汇】连线中国：政治商业双压力，中国书商迎来行业寒冬（外二篇）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-05-10",
-                "url": "https://chinadigitaltimes.net/chinese/727095.html"
+                "title": "中信建投：继续看好算力与商业航天板块",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-11",
+                "url": "https://36kr.com/newsflashes/3804142582177538"
             }
         ],
         "mil": [
+            {
+                "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-11",
+                "url": "https://36kr.com/p/3804282431659779"
+            },
+            {
+                "title": "8点1氪丨SK海力士回应“员工人均奖金达610万元”传闻；世界杯中国转播费从3亿美元腰斩到1.5亿；曝三星中国家电部门裁员补偿N+4，还送手机",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-11",
+                "url": "https://36kr.com/p/3804132892646919"
+            },
+            {
+                "title": "IT早报 0511：央视揭秘新能源汽车“锁电”真相；曝阿里巴巴将深度整合千问与淘宝；哈啰回应“脚踩门”调查最新进展；微信转账灰度测试“组合支付”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-10",
+                "url": "https://www.ithome.com/0/948/562.htm"
+            },
             {
                 "title": "美国解密UFO文件：宇航员看到神秘闪光 多人目睹金属物体空中悬浮",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,22 @@
                 "url": "https://www.ithome.com/0/948/435.htm"
             },
             {
-                "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-10",
-                "url": "https://36kr.com/p/3801745491943169"
-            },
-            {
-                "title": "IT早报 0510：SK 海力士回应“员工人均奖金 610 万人民币”；多家车企辟谣“锁电”被约谈；曝 iPhone 18 Pro 灵动岛缩小 25%；DeepSeek 大范围开放“识图模式”...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/383.htm"
-            },
-            {
-                "title": "美国加速 6G 频谱储备：NTIA 公布四大频段研究里程碑，7GHz 进度领先",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-09",
-                "url": "https://www.ithome.com/0/948/382.htm"
-            },
-            {
                 "title": "美国总统特朗普将对中国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-11",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWMxR1BSZUJkcGh6LUtySmhYOHhLc1lZNlRSd1F3QlpuMldsbEVsVlF2X1luRm5NejBzYmg0ZFpJUm9NYzhRMkQyNmlqVFFrU05EelJuemJOUUZiS2lmTmZDdnlPTVBKQmVzVEtuRzJoSVYtVTdvVWEzR0gtc3dCNXNITU5kNnYyWnc?oc=5"
             },
             {
+                "title": "2026年5月11日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01T3Q4ZG9pZEZvM09WYjNzYWllZnFjVGk4Ym13UXJiY2ZsYXBFZGE5SkpEZ1VUVTBycnVBMGxjR3A3WmVGRlZ1eUlVdFhablE2YzEyQV9rR1dhY0c1NTA5RDFFcGxYa0wwRVdfb001SEQ3Y0dZRVE?oc=5"
+            },
+            {
                 "title": "外交部介绍特朗普总统即将对中国进行国事访问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-11",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1RDUzgyS0tROHc0YlRLYU1SV2k5U2ZaU3pITmlTajQxMVkxc1pRUFI3SFB1V0xDRC1XZlJoTGRGWGhscnVLYUZ2akVnUkwyNkRXOFJvdDZjQURXN043R1JjU0F1bldHbmFsQk85RXZHNklRRy1iOUV1RzVKeHNxREdRLXE4T0U5dEVfVFN1d3Y?oc=5"
-            },
-            {
-                "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-10",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
             },
             {
                 "title": "视频｜圆满成功！中国空间站“快递小哥”再赴太空 - 中国军网",
@@ -104,13 +104,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QdzRGR0VFenBnbDRXX2UwWFZ0NkRzY0ZBa2pLQThjc1NlVGhReFduMzBtUk54RElQNDM5WUNqY1puZTV1UTF1dmlQQlFBTmFMSHRpb1dpTXpVXzdVLWc?oc=5"
             },
             {
-                "title": "人民论坛网评 | 以“无我”境界成“有我”之业 - 中国军网",
+                "title": "珠江抗日根据地：三角洲上的红色堡垒 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTWNOcFAySUdNbFNIZFR1NW5QdXNHams1dlozOFNfdlpRUlBxUTMxaXRPN0x3UjhtakNtd3BJamJYRzdoeUNHUVBtRV9UeXk4X0wxNXFzX2NhQ1ZoQWZmVQ?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-11",
+                "url": "https://36kr.com/p/3804282431659779"
+            },
+            {
+                "title": "全球首创“运营商码号即大模型账号”，中国移动发布 AI-eSIM 多生态智能服务体系",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-11",
+                "url": "https://www.ithome.com/0/948/585.htm"
+            },
+            {
+                "title": "OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生最好时机：微信测试「组合支付」功能｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-11",
+                "url": "http://www.geekpark.net/news/363937"
+            },
+            {
+                "title": "8点1氪丨SK海力士回应“员工人均奖金达610万元”传闻；世界杯中国转播费从3亿美元腰斩到1.5亿；曝三星中国家电部门裁员补偿N+4，还送手机",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-11",
+                "url": "https://36kr.com/p/3804132892646919"
+            },
             {
                 "title": "特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回",
                 "source": "NewsAPI / Ithome.com",
@@ -118,46 +142,22 @@
                 "url": "https://www.ithome.com/0/948/550.htm"
             },
             {
-                "title": "美国一数据中心偷偷抽取 2900 万加仑水，竟被免予罚款",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-10",
-                "url": "https://www.ithome.com/0/948/533.htm"
-            },
-            {
-                "title": "【CDT报告汇】连线中国：政治商业双压力，中国书商迎来行业寒冬（外二篇）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-05-10",
-                "url": "https://chinadigitaltimes.net/chinese/727095.html"
-            },
-            {
-                "title": "Anthropic大肆购买古籍，扫描蒸馏后立即销毁？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561972.htm"
-            },
-            {
-                "title": "阿里巴巴将把通义千问AI接入淘宝 推出智能体式购物服务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1561964.htm"
-            },
-            {
                 "title": "美国总统特朗普将对中国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-11",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWMxR1BSZUJkcGh6LUtySmhYOHhLc1lZNlRSd1F3QlpuMldsbEVsVlF2X1luRm5NejBzYmg0ZFpJUm9NYzhRMkQyNmlqVFFrU05EelJuemJOUUZiS2lmTmZDdnlPTVBKQmVzVEtuRzJoSVYtVTdvVWEzR0gtc3dCNXNITU5kNnYyWnc?oc=5"
             },
             {
+                "title": "2026年5月11日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01T3Q4ZG9pZEZvM09WYjNzYWllZnFjVGk4Ym13UXJiY2ZsYXBFZGE5SkpEZ1VUVTBycnVBMGxjR3A3WmVGRlZ1eUlVdFhablE2YzEyQV9rR1dhY0c1NTA5RDFFcGxYa0wwRVdfb001SEQ3Y0dZRVE?oc=5"
+            },
+            {
                 "title": "外交部介绍特朗普总统即将对中国进行国事访问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-11",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1RDUzgyS0tROHc0YlRLYU1SV2k5U2ZaU3pITmlTajQxMVkxc1pRUFI3SFB1V0xDRC1XZlJoTGRGWGhscnVLYUZ2akVnUkwyNkRXOFJvdDZjQURXN043R1JjU0F1bldHbmFsQk85RXZHNklRRy1iOUV1RzVKeHNxREdRLXE4T0U5dEVfVFN1d3Y?oc=5"
-            },
-            {
-                "title": "习近平主席特使、全国人大常委会副委员长洛桑江村出席吉布提总统就职典礼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-10",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlF5Q1c0ak1leW8taHFkZTBzWnVwaVpKcVYwWGtWa1FYQTIxa0JONlVGVWRZM3c4N1ZrZWZ4S1M2QUhrU1JEZWhQUllFbmJhSy1RajFzelFySzZBQ2Q4UUk4dVhLOE5vUHdZZmhFbmlaVWFhblA4dnNzSk1BOEFvdHk4YWxkVGFkVEhyeFRtX3kzb1hOVWNDcWhtYURWQXkwLWc?oc=5"
             },
             {
                 "title": "视频｜圆满成功！中国空间站“快递小哥”再赴太空 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QdzRGR0VFenBnbDRXX2UwWFZ0NkRzY0ZBa2pLQThjc1NlVGhReFduMzBtUk54RElQNDM5WUNqY1puZTV1UTF1dmlQQlFBTmFMSHRpb1dpTXpVXzdVLWc?oc=5"
             },
             {
-                "title": "人民论坛网评 | 以“无我”境界成“有我”之业 - 中国军网",
+                "title": "珠江抗日根据地：三角洲上的红色堡垒 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUzRiU2g5Z1pERGFkMllyMDhDMG9vR015Z09nYlRidG9PMUJKYTJDSVJwMmFzc1RpSC1aNWxGMW1kQl9PQndDRUI2TkNYR2Nsdnc?oc=5"
+                "date": "2026-05-11",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTWNOcFAySUdNbFNIZFR1NW5QdXNHams1dlozOFNfdlpRUlBxUTMxaXRPN0x3UjhtakNtd3BJamJYRzdoeUNHUVBtRV9UeXk4X0wxNXFzX2NhQ1ZoQWZmVQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-11T19:43:29.035126+00:00"
+    "last_updated": "2026-05-12T02:43:21.338452+00:00"
 }
