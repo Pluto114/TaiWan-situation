@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "外交部：中美经贸关系的本质是互利共赢",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-12",
-                "url": "https://36kr.com/newsflashes/3805999111888388"
-            },
-            {
-                "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华 黄仁勋缺席",
+                "title": "台积电携手应用材料 投资50亿美元在硅谷共建EPIC中心攻克3D晶体管瓶颈",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562180.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562238.htm"
             },
             {
-                "title": "黄仁勋称AI正创造新的工业时代 蓝领技工将成热门职业",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "徕芬 T2 Pro 剃须刀发售：升级双刀头组合、110 分钟续航，549 元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562176.htm"
+                "url": "https://www.ithome.com/0/949/516.htm"
             },
             {
-                "title": "波兰航空指责波音销售737 MAX飞机时隐瞒安全问题",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "荣耀亲选 AI 投影仪 Pro 亮相：海思 V352 主控芯片、750nit 亮度，标价 1410.5 元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562170.htm"
+                "url": "https://www.ithome.com/0/949/488.htm"
             },
             {
-                "title": "韩国官员提议以人工智能税收向发放公民红利",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美议员提案：中共犯台将受“毁灭性制裁”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562168.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/05/12/1099017.html"
+            },
+            {
+                "title": "在中国市场搞「付费订阅」，豆包咋想的？",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-05-12",
+                "url": "http://www.geekpark.net/news/364059"
             }
         ],
         "mil": [
             {
-                "title": "川普:“川习会”将谈对台军售与黎智英案(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "对话维他动力余轶南：融资 5 亿，如何跨过从 Demo 到量产的 5 个月",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-12",
-                "url": "https://www.secretchina.com/news/gb/2026/05/12/1098959.html"
+                "url": "http://www.geekpark.net/news/364058"
             },
             {
-                "title": "韩国官员提议以人工智能税收向发放公民红利",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562168.htm"
-            },
-            {
-                "title": "Grok模型在竞争中失速 SpaceX算力转租Anthropic引发疑问",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562164.htm"
-            },
-            {
-                "title": "半日主力资金加仓公用事业股，抛售电子、有色金属股",
+                "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-12",
-                "url": "https://36kr.com/newsflashes/3805767829413379"
+                "url": "https://36kr.com/p/3806196073242112"
             },
             {
-                "title": "Walulu：用六个月撕开一条新赛道",
+                "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-12",
-                "url": "https://36kr.com/p/3805761383751427"
+                "url": "https://36kr.com/p/3806179759496711"
+            },
+            {
+                "title": "国防部的Azure使用引发连锁震荡 微软以色列区总经理涉伦理风波离职",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562214.htm"
+            },
+            {
+                "title": "京东物流 2026 财年第一财季净利润 8.80 亿元，同比增长 95.17%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-12",
+                "url": "https://www.ithome.com/0/949/417.htm"
             },
             {
                 "title": "习近平同塔吉克斯坦总统拉赫蒙会谈 - mfa.gov.cn",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vWHdjdFZ1VDBtWExNV0J1NjVmVHVraWtfa1ZaX1pDSWRQblRicXNXNVF1anhPVWlsb2kwOWpfbU9sZHVLelQ0YjhiZTNlNkZxeGdGNHNKS1cwTjVFcXdxN0dRSTN1ZkJHaDBOeWVn?oc=5"
             },
             {
-                "title": "2026年5月11日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01T3Q4ZG9pZEZvM09WYjNzYWllZnFjVGk4Ym13UXJiY2ZsYXBFZGE5SkpEZ1VUVTBycnVBMGxjR3A3WmVGRlZ1eUlVdFhablE2YzEyQV9rR1dhY0c1NTA5RDFFcGxYa0wwRVdfb001SEQ3Y0dZRVE?oc=5"
-            },
-            {
-                "title": "海军某潜艇支队组织训练 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZV0NfU0V4Rlo4WXBLVXdZN0hEdmNmZGRGTE9GTmJDbVpRbXJFQndfSFZiV2N5cWFFS3h4Y1hQY2szU3Z5OTlOY241cUw4TGIzYUlHa0duWThnWk9SUlE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "从“一”到“十”，解码天舟十号赴天宫 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DV1lDWmo0U1c3bDBLZHhEZ2dQWW9qbzZKclplWWFaUDZZSE9hWDlpdE5rcHlIVWxEQVZZUl9hLUV0dXhRVlFEWlVKN0FoM1hVOXc?oc=5"
+            },
+            {
+                "title": "联勤保障部队第965医院联合驻地开展灾害救援演练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNElnVVRRMEJmbVpTaUd1X01BZEozNzFtZ2draHdTYjFtQVY0ODlJdUkzYndWNmNVc3hiNGV0OEM1aHcxbHIwU25MVVh4RV8yLUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "川普:“川习会”将谈对台军售与黎智英案(图)",
+                "title": "Waymo召回自动驾驶出租车软件 此前被曝在内涝积水路段继续行驶",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562240.htm"
+            },
+            {
+                "title": "追觅高管回应兽爷：其文章是为了博眼球的造谣抹黑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562236.htm"
+            },
+            {
+                "title": "eBay拒绝GameStop 560亿美元收购要约",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562230.htm"
+            },
+            {
+                "title": "美议员提案：中共犯台将受“毁灭性制裁”(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-12",
-                "url": "https://www.secretchina.com/news/gb/2026/05/12/1098959.html"
+                "url": "https://www.secretchina.com/news/gb/2026/05/12/1099017.html"
             },
             {
-                "title": "特斯拉得州工厂双线并进：5.99 万美元 Cybertruck 投产，Cybercab 产能爬坡",
-                "source": "NewsAPI / Ithome.com",
+                "title": "在中国市场搞「付费订阅」，豆包咋想的？",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-12",
-                "url": "https://www.ithome.com/0/949/352.htm"
-            },
-            {
-                "title": "外交部：中美经贸关系的本质是互利共赢",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-12",
-                "url": "https://36kr.com/newsflashes/3805999111888388"
-            },
-            {
-                "title": "Grok模型在竞争中失速 SpaceX算力转租Anthropic引发疑问",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562164.htm"
-            },
-            {
-                "title": "特斯拉据称在特朗普政府施压下将AI6.5芯片代工从台积电转向英特尔",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562162.htm"
+                "url": "http://www.geekpark.net/news/364059"
             },
             {
                 "title": "习近平同塔吉克斯坦总统拉赫蒙会谈 - mfa.gov.cn",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vWHdjdFZ1VDBtWExNV0J1NjVmVHVraWtfa1ZaX1pDSWRQblRicXNXNVF1anhPVWlsb2kwOWpfbU9sZHVLelQ0YjhiZTNlNkZxeGdGNHNKS1cwTjVFcXdxN0dRSTN1ZkJHaDBOeWVn?oc=5"
             },
             {
-                "title": "2026年5月11日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01T3Q4ZG9pZEZvM09WYjNzYWllZnFjVGk4Ym13UXJiY2ZsYXBFZGE5SkpEZ1VUVTBycnVBMGxjR3A3WmVGRlZ1eUlVdFhablE2YzEyQV9rR1dhY0c1NTA5RDFFcGxYa0wwRVdfb001SEQ3Y0dZRVE?oc=5"
-            },
-            {
-                "title": "海军某潜艇支队组织训练 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZV0NfU0V4Rlo4WXBLVXdZN0hEdmNmZGRGTE9GTmJDbVpRbXJFQndfSFZiV2N5cWFFS3h4Y1hQY2szU3Z5OTlOY241cUw4TGIzYUlHa0duWThnWk9SUlE?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "从“一”到“十”，解码天舟十号赴天宫 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DV1lDWmo0U1c3bDBLZHhEZ2dQWW9qbzZKclplWWFaUDZZSE9hWDlpdE5rcHlIVWxEQVZZUl9hLUV0dXhRVlFEWlVKN0FoM1hVOXc?oc=5"
+            },
+            {
+                "title": "联勤保障部队第965医院联合驻地开展灾害救援演练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNElnVVRRMEJmbVpTaUd1X01BZEozNzFtZ2draHdTYjFtQVY0ODlJdUkzYndWNmNVc3hiNGV0OEM1aHcxbHIwU25MVVh4RV8yLUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-13T08:40:48.757157+00:00"
+    "last_updated": "2026-05-13T14:26:51.396064+00:00"
 }
