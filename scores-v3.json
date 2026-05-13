@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "台积电携手应用材料 投资50亿美元在硅谷共建EPIC中心攻克3D晶体管瓶颈",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562238.htm"
-            },
-            {
-                "title": "徕芬 T2 Pro 剃须刀发售：升级双刀头组合、110 分钟续航，549 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-12",
-                "url": "https://www.ithome.com/0/949/516.htm"
-            },
-            {
-                "title": "荣耀亲选 AI 投影仪 Pro 亮相：海思 V352 主控芯片、750nit 亮度，标价 1410.5 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-12",
-                "url": "https://www.ithome.com/0/949/488.htm"
-            },
-            {
-                "title": "美议员提案：中共犯台将受“毁灭性制裁”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-12",
-                "url": "https://www.secretchina.com/news/gb/2026/05/12/1099017.html"
-            },
-            {
-                "title": "在中国市场搞「付费订阅」，豆包咋想的？",
+                "title": "谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-12",
-                "url": "http://www.geekpark.net/news/364059"
+                "url": "http://www.geekpark.net/news/364060"
+            },
+            {
+                "title": "特习峰会谈什么？(4) 人权、人工智能和其他",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-05-12",
+                "url": "https://www.voachinese.com/a/trump-xi-summit-part-iv-human-rights-ai-and-others-20260512/8149241.html"
+            },
+            {
+                "title": "希音诉特姆版权侵权案在伦敦开审 跨境电商巨头法律博弈升级",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562248.htm"
+            },
+            {
+                "title": "传iPhone 18 Pro或在内存危机中将继续维持“激进定价”策略",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562246.htm"
+            },
+            {
+                "title": "iPhone 18 Pro仍无缘双层OLED 更高亮度屏幕或将遥遥无期",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562244.htm"
             }
         ],
         "mil": [
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vWHdjdFZ1VDBtWExNV0J1NjVmVHVraWtfa1ZaX1pDSWRQblRicXNXNVF1anhPVWlsb2kwOWpfbU9sZHVLelQ0YjhiZTNlNkZxeGdGNHNKS1cwTjVFcXdxN0dRSTN1ZkJHaDBOeWVn?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年5月13日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "从“一”到“十”，解码天舟十号赴天宫 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SSkpWRHhiMzIwMHdicGl3YTZxME90NG1mY0hjeTZjbzN4NzhLSldHNGNCSWN6M2k0YkRVSkhfOWM4dGdWeGdsR0VOb1dwMF9xdlE?oc=5"
+                "date": "2026-05-13",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OYUZyX3V4OTltMlU3MUo1MHBrU2Zac0VIT09QMzNfSmtKVVJrMU9UcXVmWkNzUGg1SUZ2YlVpNllHMGdrX3NMa240dDdNUWJkVlM1eThxN1M3Y2FrV0xteVVkd0Y1anI2b2hvWU9hRk5ab0xfQ2c?oc=5"
             },
             {
                 "title": "让过紧日子成为习惯和常态 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNElnVVRRMEJmbVpTaUd1X01BZEozNzFtZ2draHdTYjFtQVY0ODlJdUkzYndWNmNVc3hiNGV0OEM1aHcxbHIwU25MVVh4RV8yLUE?oc=5"
+            },
+            {
+                "title": "构建面向新时代的中阿命运共同体——智库报告解读中阿合作新篇章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmSk9ENTNaQldsZ3JGaDhvUmFXV2Z3N2VXd2dfSmVGQTJNWjRIRE9hdnZsb21pRkh2REVVYVZUTmxGZUExUlp1RHRmQzllZHhfemc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "Waymo召回自动驾驶出租车软件 此前被曝在内涝积水路段继续行驶",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562240.htm"
-            },
-            {
-                "title": "追觅高管回应兽爷：其文章是为了博眼球的造谣抹黑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562236.htm"
-            },
-            {
-                "title": "eBay拒绝GameStop 560亿美元收购要约",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562230.htm"
-            },
-            {
-                "title": "美议员提案：中共犯台将受“毁灭性制裁”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-12",
-                "url": "https://www.secretchina.com/news/gb/2026/05/12/1099017.html"
-            },
-            {
-                "title": "在中国市场搞「付费订阅」，豆包咋想的？",
+                "title": "谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-12",
-                "url": "http://www.geekpark.net/news/364059"
+                "url": "http://www.geekpark.net/news/364060"
+            },
+            {
+                "title": "Android推新功能“暂停点” 助用户摆脱刷手机上瘾",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562250.htm"
+            },
+            {
+                "title": "蓬佩奥警告中共特工深度渗透加拿大 卡尼政府“开门迎狼”引忧(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-12",
+                "url": "https://www.secretchina.com/news/gb/2026/05/12/1098989.html"
+            },
+            {
+                "title": "希音诉特姆版权侵权案在伦敦开审 跨境电商巨头法律博弈升级",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562248.htm"
+            },
+            {
+                "title": "iPhone 18 Pro仍无缘双层OLED 更高亮度屏幕或将遥遥无期",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562244.htm"
             },
             {
                 "title": "习近平同塔吉克斯坦总统拉赫蒙会谈 - mfa.gov.cn",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vWHdjdFZ1VDBtWExNV0J1NjVmVHVraWtfa1ZaX1pDSWRQblRicXNXNVF1anhPVWlsb2kwOWpfbU9sZHVLelQ0YjhiZTNlNkZxeGdGNHNKS1cwTjVFcXdxN0dRSTN1ZkJHaDBOeWVn?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年5月13日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "从“一”到“十”，解码天舟十号赴天宫 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SSkpWRHhiMzIwMHdicGl3YTZxME90NG1mY0hjeTZjbzN4NzhLSldHNGNCSWN6M2k0YkRVSkhfOWM4dGdWeGdsR0VOb1dwMF9xdlE?oc=5"
+                "date": "2026-05-13",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OYUZyX3V4OTltMlU3MUo1MHBrU2Zac0VIT09QMzNfSmtKVVJrMU9UcXVmWkNzUGg1SUZ2YlVpNllHMGdrX3NMa240dDdNUWJkVlM1eThxN1M3Y2FrV0xteVVkd0Y1anI2b2hvWU9hRk5ab0xfQ2c?oc=5"
             },
             {
                 "title": "让过紧日子成为习惯和常态 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNElnVVRRMEJmbVpTaUd1X01BZEozNzFtZ2draHdTYjFtQVY0ODlJdUkzYndWNmNVc3hiNGV0OEM1aHcxbHIwU25MVVh4RV8yLUE?oc=5"
+            },
+            {
+                "title": "构建面向新时代的中阿命运共同体——智库报告解读中阿合作新篇章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmSk9ENTNaQldsZ3JGaDhvUmFXV2Z3N2VXd2dfSmVGQTJNWjRIRE9hdnZsb21pRkh2REVVYVZUTmxGZUExUlp1RHRmQzllZHhfemc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-13T14:26:51.396064+00:00"
+    "last_updated": "2026-05-13T19:50:41.491867+00:00"
 }
