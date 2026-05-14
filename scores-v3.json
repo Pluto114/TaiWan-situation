@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中汽协专务副秘书长何毅：今年中国汽车出口有望突破 1000 万辆",
-                "source": "NewsAPI / Ithome.com",
+                "title": "三星电子劳资第二轮事后调解谈判破裂 工会宣布将如期启动总罢工",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-13",
-                "url": "https://www.ithome.com/0/949/936.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562366.htm"
             },
             {
-                "title": "亚马逊员工承认“刷 AI 用量”：刻意消耗词元冲内部排行榜",
+                "title": "佳能推出 EOS R6 V 相机：3250 万像素 7K 传感器、取消电子取景器 / 机械快门，13999 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-13",
-                "url": "https://www.ithome.com/0/949/900.htm"
+                "url": "https://www.ithome.com/0/950/055.htm"
             },
             {
-                "title": "消息称微软与 SK 海力士加强合作，降低在 AI 领域对英伟达的依赖",
-                "source": "NewsAPI / Ithome.com",
+                "title": "川普抵达北京 此前稱「不需中國幫忙處理伊朗問題」",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-05-13",
-                "url": "https://www.ithome.com/0/949/805.htm"
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC-%E6%AD%A4%E5%89%8D%E7%A7%B0%E4%B8%8D%E9%9C%80%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%BF%99%E5%A4%84%E7%90%86%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98/a-77140936"
             },
             {
-                "title": "ATK 蜻蜓 A9MINI 大师版+ 鼠标今晚开售：满血 PAW3955 Master 传感器，首发价 299.2 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "卢比奥穿“马杜罗被捕装”赴京 计算习近平的心里阴影面积(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-13",
-                "url": "https://www.ithome.com/0/949/773.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/05/13/1099068.html"
             },
             {
-                "title": "AI 为什么一定会成为这代人的全新购物入口",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "2026 AI最佳场景渗透案例重磅揭晓",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-13",
-                "url": "http://www.geekpark.net/news/364101"
+                "url": "https://36kr.com/p/3807623172235011"
             }
         ],
         "mil": [
             {
+                "title": "佳能推出 EOS R6 V 相机：3250 万像素 7K 传感器、取消电子取景器 / 机械快门，13999 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-13",
+                "url": "https://www.ithome.com/0/950/055.htm"
+            },
+            {
+                "title": "2026 AI最佳场景渗透案例重磅揭晓",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-13",
+                "url": "https://36kr.com/p/3807623172235011"
+            },
+            {
+                "title": "美国务卿鲁比奥穿马杜罗被捕同款服装赴华 大陆网民：敌意满满(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-13",
+                "url": "https://www.secretchina.com/news/gb/2026/05/13/1099065.html"
+            },
+            {
+                "title": "特朗普第二任期已发帖超8800次 44次深夜密集发文",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562334.htm"
+            },
+            {
                 "title": "英伟达CEO黄仁勋随特朗普访华,市场预期高端AI芯片出口僵局或现转机",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-13",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1562328.htm"
             },
             {
-                "title": "特习会聚焦AI霸权 人权争议与核武风险(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-13",
-                "url": "https://www.secretchina.com/news/gb/2026/05/13/1099045.html"
-            },
-            {
-                "title": "谷歌在安卓上全面强化 Gemini AI；宇树发布全球首款载人机甲，售价 390 万元；追觅高管回应「崩老头」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-13",
-                "url": "http://www.geekpark.net/news/364062"
-            },
-            {
-                "title": "8点1氪丨宇树发布载人变形机甲，定价390万起；微信确认不会开发已读、访客功能；国内航线燃油附加费将再上调",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-13",
-                "url": "https://36kr.com/p/3806970999955201"
-            },
-            {
-                "title": "IT早报 0513：腾讯收购喜马拉雅获市监总局附条件批准；390 万元起宇树发布全球首款载人机甲；微信不会开发已读与访客功能；DeepSeek 灰度聊天记录搜索功能...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-12",
-                "url": "https://www.ithome.com/0/949/560.htm"
+                "title": "习近平同美国总统特朗普参观天坛 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-14",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSS1Eb2dmSnZJVVcwZzkwLTZjckhiQks4OWFPamd0QTBuSTNpdTJUM1RsREtvUkVvUzdGYTV4VDFmZUxwVmhBNkRoQXlvUVBfb0NPZjM0NjRUa0VCSWhNZmNYVnNVMEczbnVv?oc=5"
             },
             {
                 "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
@@ -80,66 +86,66 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UN3VoUWJJZHpyck1nMzdZZ2FZWUJJemNvX2F2TUhmNzllTlpSb0dLemhteXlYRTVnckR4NjdfS2tBdElreElERGc0aTVzdVFvNC1OTGJNalU2RGVSN2RSZWdRRjN6YTZTVEI0?oc=5"
             },
             {
-                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vWHdjdFZ1VDBtWExNV0J1NjVmVHVraWtfa1ZaX1pDSWRQblRicXNXNVF1anhPVWlsb2kwOWpfbU9sZHVLelQ0YjhiZTNlNkZxeGdGNHNKS1cwTjVFcXdxN0dRSTN1ZkJHaDBOeWVn?oc=5"
-            },
-            {
-                "title": "新华社权威快报丨习近平同美国总统特朗普举行会谈 - 中华人民共和国国防部",
+                "title": "习近平为美国总统特朗普举行欢迎宴会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-14",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93b245X3VvSjlQb3laaDc1dmR1SE5mUWtBT1BfTGxmX2x2bTdMRGRfWlJ2bnBnTW5PYVo1cjJMX1V2U1BRV2pvc2ZVeGVaRXNlQUpPM0F1dC1fZm1qQkM1TFlSUQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlXzdJLVVlNkFLY1RHWFlNTWhtR1FQQzd4MC1Lb0ZGU1RJOXlPbzBYNXJ2T19FV0sxVm0yWVVTUmM3clVwSEZMMHNSUVJKNUJQb3VGMFowZk5LQWd1LXJrcjFXcEFzS3V6bi0w?oc=5"
+            },
+            {
+                "title": "军营观察丨一支新型保障力量的转型之路 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kbEVYYlUwel80V0hVVElqNS1GUkdvbV8yaV90Mkx0Xzc5ZG9wM2dRcU1xOUhDSTZUNlBkRVlpUnFsNUs2cFBKTWUzWW9pNXNHWEE?oc=5"
+            },
+            {
+                "title": "习近平同美国总统特朗普参观天坛 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-14",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JRTNwb3NWcWlyVktsYU84dUtCdTh1Q1NzbkZmd01rYW4wWEF0cFEzUXJJc2Q5OXBsbGNBQTBSTmZMcF9OZXBmZDVpOA?oc=5"
             },
             {
                 "title": "让过紧日子成为习惯和常态 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DV1lDWmo0U1c3bDBLZHhEZ2dQWW9qbzZKclplWWFaUDZZSE9hWDlpdE5rcHlIVWxEQVZZUl9hLUV0dXhRVlFEWlVKN0FoM1hVOXc?oc=5"
-            },
-            {
-                "title": "联勤保障部队第965医院联合驻地开展灾害救援演练 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNElnVVRRMEJmbVpTaUd1X01BZEozNzFtZ2draHdTYjFtQVY0ODlJdUkzYndWNmNVc3hiNGV0OEM1aHcxbHIwU25MVVh4RV8yLUE?oc=5"
-            },
-            {
-                "title": "构建面向新时代的中阿命运共同体——智库报告解读中阿合作新篇章 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmSk9ENTNaQldsZ3JGaDhvUmFXV2Z3N2VXd2dfSmVGQTJNWjRIRE9hdnZsb21pRkh2REVVYVZUTmxGZUExUlp1RHRmQzllZHhfemc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "捷豹转型后首款车型定名 Type 01：代表从零开始、独一无二",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Google Gemini Intelligence展示Android 17智能代理功能 苹果Siri尚未实现",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-13",
-                "url": "https://www.ithome.com/0/949/897.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562368.htm"
             },
             {
-                "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+                "title": "三星电子劳资第二轮事后调解谈判破裂 工会宣布将如期启动总罢工",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562366.htm"
+            },
+            {
+                "title": "特朗普手机本周开始发货 公司CEO称所有预订数周内完成交付",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562354.htm"
+            },
+            {
+                "title": "卢比奥穿“马杜罗被捕装”赴京 计算习近平的心里阴影面积(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-13",
+                "url": "https://www.secretchina.com/news/gb/2026/05/13/1099068.html"
+            },
+            {
+                "title": "2026 AI最佳场景渗透案例重磅揭晓",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-13",
-                "url": "https://36kr.com/p/3807382930251523"
+                "url": "https://36kr.com/p/3807623172235011"
             },
             {
-                "title": "英伟达CEO黄仁勋随特朗普访华,市场预期高端AI芯片出口僵局或现转机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562328.htm"
-            },
-            {
-                "title": "Google开了一场“读作Android，写作Gemini”的硬件发布会",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562318.htm"
-            },
-            {
-                "title": "韩国政府介入平息罢工担忧 三星市值收复660亿美元损失",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562312.htm"
+                "title": "习近平同美国总统特朗普参观天坛 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-14",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSS1Eb2dmSnZJVVcwZzkwLTZjckhiQks4OWFPamd0QTBuSTNpdTJUM1RsREtvUkVvUzdGYTV4VDFmZUxwVmhBNkRoQXlvUVBfb0NPZjM0NjRUa0VCSWhNZmNYVnNVMEczbnVv?oc=5"
             },
             {
                 "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
@@ -148,37 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UN3VoUWJJZHpyck1nMzdZZ2FZWUJJemNvX2F2TUhmNzllTlpSb0dLemhteXlYRTVnckR4NjdfS2tBdElreElERGc0aTVzdVFvNC1OTGJNalU2RGVSN2RSZWdRRjN6YTZTVEI0?oc=5"
             },
             {
-                "title": "王毅同巴基斯坦副总理兼外长达尔通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vWHdjdFZ1VDBtWExNV0J1NjVmVHVraWtfa1ZaX1pDSWRQblRicXNXNVF1anhPVWlsb2kwOWpfbU9sZHVLelQ0YjhiZTNlNkZxeGdGNHNKS1cwTjVFcXdxN0dRSTN1ZkJHaDBOeWVn?oc=5"
-            },
-            {
-                "title": "新华社权威快报丨习近平同美国总统特朗普举行会谈 - 中华人民共和国国防部",
+                "title": "习近平为美国总统特朗普举行欢迎宴会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-14",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93b245X3VvSjlQb3laaDc1dmR1SE5mUWtBT1BfTGxmX2x2bTdMRGRfWlJ2bnBnTW5PYVo1cjJMX1V2U1BRV2pvc2ZVeGVaRXNlQUpPM0F1dC1fZm1qQkM1TFlSUQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlXzdJLVVlNkFLY1RHWFlNTWhtR1FQQzd4MC1Lb0ZGU1RJOXlPbzBYNXJ2T19FV0sxVm0yWVVTUmM3clVwSEZMMHNSUVJKNUJQb3VGMFowZk5LQWd1LXJrcjFXcEFzS3V6bi0w?oc=5"
+            },
+            {
+                "title": "军营观察丨一支新型保障力量的转型之路 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kbEVYYlUwel80V0hVVElqNS1GUkdvbV8yaV90Mkx0Xzc5ZG9wM2dRcU1xOUhDSTZUNlBkRVlpUnFsNUs2cFBKTWUzWW9pNXNHWEE?oc=5"
+            },
+            {
+                "title": "习近平同美国总统特朗普参观天坛 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-14",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JRTNwb3NWcWlyVktsYU84dUtCdTh1Q1NzbkZmd01rYW4wWEF0cFEzUXJJc2Q5OXBsbGNBQTBSTmZMcF9OZXBmZDVpOA?oc=5"
             },
             {
                 "title": "让过紧日子成为习惯和常态 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DV1lDWmo0U1c3bDBLZHhEZ2dQWW9qbzZKclplWWFaUDZZSE9hWDlpdE5rcHlIVWxEQVZZUl9hLUV0dXhRVlFEWlVKN0FoM1hVOXc?oc=5"
-            },
-            {
-                "title": "联勤保障部队第965医院联合驻地开展灾害救援演练 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNElnVVRRMEJmbVpTaUd1X01BZEozNzFtZ2draHdTYjFtQVY0ODlJdUkzYndWNmNVc3hiNGV0OEM1aHcxbHIwU25MVVh4RV8yLUE?oc=5"
-            },
-            {
-                "title": "构建面向新时代的中阿命运共同体——智库报告解读中阿合作新篇章 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmSk9ENTNaQldsZ3JGaDhvUmFXV2Z3N2VXd2dfSmVGQTJNWjRIRE9hdnZsb21pRkh2REVVYVZUTmxGZUExUlp1RHRmQzllZHhfemc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-14T08:33:31.236748+00:00"
+    "last_updated": "2026-05-14T14:03:36.934302+00:00"
 }
