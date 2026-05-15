@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Counterpoint：到 2027 年，每出货三款智能手机就有一款具备智能体 AI 功能",
+                "title": "研究称巨型星座卫星加剧高层大气污染，成航天污染主要来源",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-14",
-                "url": "https://www.ithome.com/0/950/478.htm"
+                "url": "https://www.ithome.com/0/950/627.htm"
             },
             {
-                "title": "Anthropic 推出中小企业专属 Claude 服务，AI 平台竞争下沉至小微商户",
+                "title": "【IT之家评测室】海信 UX2026 款 RGB-Mini LED 电视体验：玲珑 4 芯真彩背光，中国技术再次定义全球彩电标准",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-14",
-                "url": "https://www.ithome.com/0/950/468.htm"
+                "url": "https://www.ithome.com/0/950/605.htm"
             },
             {
-                "title": "在多家 OpenAI 合作企业持股超 20 亿美元，奥尔特曼遭质疑",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-14",
-                "url": "https://www.ithome.com/0/950/447.htm"
-            },
-            {
-                "title": "韩国的AI东风特别猛？SK海力士即将迈过万亿市值大关",
+                "title": "内存硬盘遭罢工暴击 中国华强北DDR4报价急涨20%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562454.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562480.htm"
             },
             {
-                "title": "美国三大公共养老基金反对 SpaceX 极端治理架构，要求限制马斯克权力",
-                "source": "NewsAPI / Ithome.com",
+                "title": "DeepSeek 融资后，大模型领域会有什么新格局？",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-14",
-                "url": "https://www.ithome.com/0/950/422.htm"
+                "url": "http://www.geekpark.net/news/364208"
+            },
+            {
+                "title": "关税与科技战阴影下会面 川普携美企访华试探中美新平衡(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-14",
+                "url": "https://www.secretchina.com/news/gb/2026/05/14/1099117.html"
             }
         ],
         "mil": [
+            {
+                "title": "国宴前雷军主动与马斯克合影互动 中美两大车企掌门人同框",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562478.htm"
+            },
+            {
+                "title": "腾讯要懂得花钱",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-14",
+                "url": "https://36kr.com/p/3808999399497221"
+            },
+            {
+                "title": "习近平与卢比奥握手 摄影师遮挡“被制裁者”遭嘲讽(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-14",
+                "url": "https://www.secretchina.com/news/gb/2026/05/14/1099112.html"
+            },
             {
                 "title": "#川普 “入侵” 搅混 #中国 表面平静的一池春水",
                 "source": "NewsAPI / Bannedbook.org",
@@ -56,22 +74,10 @@
                 "url": "https://www.ithome.com/0/950/391.htm"
             },
             {
-                "title": "与近10家整机厂达成合作，专注打造航空电推进“中国心”，「羽嘉动力」连续完成两轮融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2026年5月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-14",
-                "url": "https://36kr.com/p/3808772503199489"
-            },
-            {
-                "title": "03年创始人造火箭，40万做出原型发动机，选了一条没人走过的路｜产业专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-14",
-                "url": "https://36kr.com/p/3808769298767369"
-            },
-            {
-                "title": "投中了理想、MiniMax 后，他说，AI 时代仍然要找「让人汗毛直竖」的创业者",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-05-14",
-                "url": "http://www.geekpark.net/news/364177"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtVG9GcmdDR0xmUndiWXVWTnJCVXNjVWdHTWRONS10TUVFZzRaMDlxM0VVSE03LXVFeGRScjV2dkl3RGlCc0h3X21Ta1NoN1JRd0Z0Qjk0a1NOckdEMUVSTzBra3ZrT2xCS0JsSkFxMm9yX1Q1MEE?oc=5"
             },
             {
                 "title": "外交部发言人就美国总统特朗普访华情况答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-14",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSS1Eb2dmSnZJVVcwZzkwLTZjckhiQks4OWFPamd0QTBuSTNpdTJUM1RsREtvUkVvUzdGYTV4VDFmZUxwVmhBNkRoQXlvUVBfb0NPZjM0NjRUa0VCSWhNZmNYVnNVMEczbnVv?oc=5"
-            },
-            {
-                "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-14",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UN3VoUWJJZHpyck1nMzdZZ2FZWUJJemNvX2F2TUhmNzllTlpSb0dLemhteXlYRTVnckR4NjdfS2tBdElreElERGc0aTVzdVFvNC1OTGJNalU2RGVSN2RSZWdRRjN6YTZTVEI0?oc=5"
             },
             {
                 "title": "辽宁省辽阳市白塔区打通跨部门堵点提升拥军质效 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "在多家 OpenAI 合作企业持股超 20 亿美元，奥尔特曼遭质疑",
+                "title": "【IT之家评测室】海信 UX2026 款 RGB-Mini LED 电视体验：玲珑 4 芯真彩背光，中国技术再次定义全球彩电标准",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-14",
-                "url": "https://www.ithome.com/0/950/447.htm"
+                "url": "https://www.ithome.com/0/950/605.htm"
             },
             {
-                "title": "罗永浩时隔七年重启X账号：上线第一日便火力全开怒怼黑粉",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "DeepSeek 融资后，大模型领域会有什么新格局？",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-05-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562452.htm"
+                "url": "http://www.geekpark.net/news/364208"
             },
             {
-                "title": "美国三大公共养老基金反对 SpaceX 极端治理架构，要求限制马斯克权力",
-                "source": "NewsAPI / Ithome.com",
+                "title": "关税与科技战阴影下会面 川普携美企访华试探中美新平衡(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-14",
-                "url": "https://www.ithome.com/0/950/422.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/05/14/1099117.html"
             },
             {
-                "title": "与近10家整机厂达成合作，专注打造航空电推进“中国心”，「羽嘉动力」连续完成两轮融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "习会见川普又“长高了”！几次“伸缩自如”引热议(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-14",
-                "url": "https://36kr.com/p/3808772503199489"
+                "url": "https://www.secretchina.com/news/gb/2026/05/14/1099116.html"
             },
             {
-                "title": "03年创始人造火箭，40万做出原型发动机，选了一条没人走过的路｜产业专访",
-                "source": "NewsAPI / 36kr.com",
+                "title": "开箱 OPPO Find X9s Pro 和哈苏影像套装，我们感受到了“旅拍神器”的乐趣",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-05-14",
-                "url": "https://36kr.com/p/3808769298767369"
+                "url": "https://www.toodaylab.com/84037"
+            },
+            {
+                "title": "2026年5月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtVG9GcmdDR0xmUndiWXVWTnJCVXNjVWdHTWRONS10TUVFZzRaMDlxM0VVSE03LXVFeGRScjV2dkl3RGlCc0h3X21Ta1NoN1JRd0Z0Qjk0a1NOckdEMUVSTzBra3ZrT2xCS0JsSkFxMm9yX1Q1MEE?oc=5"
             },
             {
                 "title": "外交部发言人就美国总统特朗普访华情况答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-14",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSS1Eb2dmSnZJVVcwZzkwLTZjckhiQks4OWFPamd0QTBuSTNpdTJUM1RsREtvUkVvUzdGYTV4VDFmZUxwVmhBNkRoQXlvUVBfb0NPZjM0NjRUa0VCSWhNZmNYVnNVMEczbnVv?oc=5"
-            },
-            {
-                "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-14",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UN3VoUWJJZHpyck1nMzdZZ2FZWUJJemNvX2F2TUhmNzllTlpSb0dLemhteXlYRTVnckR4NjdfS2tBdElreElERGc0aTVzdVFvNC1OTGJNalU2RGVSN2RSZWdRRjN6YTZTVEI0?oc=5"
             },
             {
                 "title": "辽宁省辽阳市白塔区打通跨部门堵点提升拥军质效 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-15T08:45:00.592235+00:00"
+    "last_updated": "2026-05-15T14:00:06.761903+00:00"
 }
