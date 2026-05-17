@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "蔚来乐道 L80 开启全国交付：整车购买 24.28 万起，电池租用购买 15.68 万起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-16",
+                "url": "https://www.ithome.com/0/951/404.htm"
+            },
+            {
+                "title": "经济不确定性抑制投资吸引力 #中国 1-3月FDI较最高峰下降68%",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-05-16",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260516/2318076.html"
+            },
+            {
                 "title": "中国团队将酷睿i9-14900KF超频至9.2GHz 刷新全球CPU频率纪录",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-16",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-16",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1562614.htm"
-            },
-            {
-                "title": "比亚迪首次为单一海外市场独立开发新车，纯电 K-Car“海獭” Racco 今年登陆日本",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-16",
-                "url": "https://www.ithome.com/0/951/261.htm"
-            },
-            {
-                "title": "突发！OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-16",
-                "url": "https://www.ithome.com/0/951/258.htm"
             }
         ],
         "mil": [
+            {
+                "title": "#偷拍 韩 #国军 用 #机场 #中国 #高中生 遭判2年有期徒刑",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-05-16",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260516/2318085.html"
+            },
             {
                 "title": "特朗普：“伊斯兰国”二号人物在尼日利亚被击毙",
                 "source": "NewsAPI / DW (English)",
@@ -68,18 +74,6 @@
                 "url": "https://36kr.com/p/3811265856626440"
             },
             {
-                "title": "IT早报 0516：支付宝回应关闭支付仍被扣款；罗永浩回呛保时捷高管“被抄袭无奈”；苹果 iPhone17Pro 系列降价千元；国行任天堂 Switch 正式停服...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-15",
-                "url": "https://www.ithome.com/0/951/155.htm"
-            },
-            {
-                "title": "王毅向媒体介绍中美元首会晤情况和共识 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdC1iTFo2QWc4TWhaZFVITGo0OFozVnNoT2JlRm5hbkhON2RSUHlkRGJQNTlkU2JtQk1xdXlVNzZXcF9tbC1WVUhhUlFVR3cyOW9hNFlGemUtTmRucEtWYktCY0k5X0hBSEdGM2pB?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-17",
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwakpPcmFYc3JreGtpSjFZeHRVU09QYjlVaFdEQTY3eVJhaExpS0kwcTRWMEE0cThqUVROU1ozczIxdEZkcVByb1hQRGhGT3lHWGgtYWtxbTVVS0lROFM2aEsxZDd5SUd3Vmx2aGNxOXNVRXJ2Z3BV?oc=5"
+            },
+            {
+                "title": "中华人民共和国和克罗地亚共和国建交联合公报 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcXAxSWtrbDZ2T2ZLczhPekVKeGc2ZURFLVRTV01Wb0l3a0Y3RmlnRHgxRkFZYU9zTFF2V2tXUl84SmloMWlBQWdvMmRpb3lUczVOaG9yU0liakp0eHM0YXpwU3VxQ2dNUVB3XzFB?oc=5"
             },
             {
                 "title": "我国将开展多个专项行动强化知识产权保护 - 中国军网",
@@ -111,6 +111,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "刚果爆发伊波拉疫情80人死 罕见病毒株无疫苗可打 - Newswav",
+                "source": "NewsAPI / Newswav.com",
+                "date": "2026-05-16",
+                "url": "https://newswav.com/article/刚果爆发伊波拉疫情80人死-罕见病毒株无疫苗可打-A2605_9JzCcY"
+            },
             {
                 "title": "宝马 BMW ALPINA 概念车全球首秀，不对外销售",
                 "source": "NewsAPI / Ithome.com",
@@ -136,18 +142,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1562620.htm"
             },
             {
-                "title": "成为芯片制造中心 越南野心勃勃",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562614.htm"
-            },
-            {
-                "title": "王毅向媒体介绍中美元首会晤情况和共识 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdC1iTFo2QWc4TWhaZFVITGo0OFozVnNoT2JlRm5hbkhON2RSUHlkRGJQNTlkU2JtQk1xdXlVNzZXcF9tbC1WVUhhUlFVR3cyOW9hNFlGemUtTmRucEtWYktCY0k5X0hBSEdGM2pB?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-17",
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwakpPcmFYc3JreGtpSjFZeHRVU09QYjlVaFdEQTY3eVJhaExpS0kwcTRWMEE0cThqUVROU1ozczIxdEZkcVByb1hQRGhGT3lHWGgtYWtxbTVVS0lROFM2aEsxZDd5SUd3Vmx2aGNxOXNVRXJ2Z3BV?oc=5"
+            },
+            {
+                "title": "中华人民共和国和克罗地亚共和国建交联合公报 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcXAxSWtrbDZ2T2ZLczhPekVKeGc2ZURFLVRTV01Wb0l3a0Y3RmlnRHgxRkFZYU9zTFF2V2tXUl84SmloMWlBQWdvMmRpb3lUczVOaG9yU0liakp0eHM0YXpwU3VxQ2dNUVB3XzFB?oc=5"
             },
             {
                 "title": "我国将开展多个专项行动强化知识产权保护 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-17T13:14:11.535668+00:00"
+    "last_updated": "2026-05-17T19:04:17.281857+00:00"
 }
