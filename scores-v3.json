@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "乐道 L80 为何只比预售价低三千元？蔚来秦力洪：先虚高定价再降好几万没意义",
+                "title": "成本海啸中逆行 苹果为何敢在行业涨价潮中降价？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562622.htm"
+            },
+            {
+                "title": "成为芯片制造中心 越南野心勃勃",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562614.htm"
+            },
+            {
+                "title": "比亚迪首次为单一海外市场独立开发新车，纯电 K-Car“海獭” Racco 今年登陆日本",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-16",
-                "url": "https://www.ithome.com/0/951/192.htm"
+                "url": "https://www.ithome.com/0/951/261.htm"
             },
             {
-                "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-                "source": "NewsAPI / 36kr.com",
+                "title": "突发！OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-16",
-                "url": "https://36kr.com/p/3810520138243593"
+                "url": "https://www.ithome.com/0/951/258.htm"
             },
             {
-                "title": "【速報】米大統領 イラン産原油購入理由の中国企業への制裁解除検討示唆 ★3",
-                "source": "NewsAPI / Www.2nn.jp",
+                "title": "追觅造车主体回应232万股权被冻结：已与供应商和解 法院解除保全",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-16",
-                "url": "https://www.2nn.jp/newsplus/1778896431/"
-            },
-            {
-                "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-16",
-                "url": "https://36kr.com/p/3811265856626440"
-            },
-            {
-                "title": "#川普 ：中方采购飞机有望增至750架",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-05-15",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260516/2317880.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562612.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Claude为什么早晨8:30催你睡觉？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562620.htm"
+            },
+            {
+                "title": "突发！OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-16",
+                "url": "https://www.ithome.com/0/951/258.htm"
+            },
             {
                 "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.toodaylab.com/84038"
             },
             {
-                "title": "AI开始进军蓝领工作领域：机器人换胎比技师更快、更便宜",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562586.htm"
-            },
-            {
-                "title": "中央广播电视总台与国际足联达成新周期版权合作，消息称 2026 年美加墨世界杯版权费为 6000 万美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-15",
-                "url": "https://www.ithome.com/0/951/081.htm"
-            },
-            {
-                "title": "习近平同美国总统特朗普在中南海小范围会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85UW9mSDZGT3Brb19ZMkhQSjU0SjZnNUFjZldXOEd0R1gtSVZKOV9wbEdfMVgxdzE4Q0RiV3phTWwteUNUN3hxa2wyeVFWcXJsRGVmV0dkZzgxcWdPNFdIUF8yODNSenUwQnpN?oc=5"
-            },
-            {
                 "title": "王毅向媒体介绍中美元首会晤情况和共识 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-15",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdC1iTFo2QWc4TWhaZFVITGo0OFozVnNoT2JlRm5hbkhON2RSUHlkRGJQNTlkU2JtQk1xdXlVNzZXcF9tbC1WVUhhUlFVR3cyOW9hNFlGemUtTmRucEtWYktCY0k5X0hBSEdGM2pB?oc=5"
             },
             {
-                "title": "外交部发言人就伊朗局势答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CY0YyV0I2UXdheWJOWVFwQ0ptcFI0dFhjTFZuanp3NGp0U0FZLTV3VkdUb0lzQWlwMFhtUFRpaXlRdjhnSG9OZGpMZ1Exb0NxbFdEOUFmOWJpTnZiaVI5SUdzUjFJYUY2QXhHOFZWTWxFTTR3NmhqdnVIOA?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-17",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwakpPcmFYc3JreGtpSjFZeHRVU09QYjlVaFdEQTY3eVJhaExpS0kwcTRWMEE0cThqUVROU1ozczIxdEZkcVByb1hQRGhGT3lHWGgtYWtxbTVVS0lROFM2aEsxZDd5SUd3Vmx2aGNxOXNVRXJ2Z3BV?oc=5"
             },
             {
                 "title": "我国将开展多个专项行动强化知识产权保护 - 中国军网",
@@ -104,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OTkhpQ1NHMGVPenVlZi1jSEVDS0pmVlM3OGRqWGNfWjNkTGhVSXRqY0FhUk5EN3Q1REl5MDEyb0RtUTVtMG5pVkFKbkZYYTYwNFNwMQ?oc=5"
             },
             {
-                "title": "辽宁省辽阳市白塔区打通跨部门堵点提升拥军质效 - 中国军网",
+                "title": "双拥视界丨三代同心守家园 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5raWdxRWIwMjJRcUs4cjZGcHJkUTEwbVlmdjFfVnR5MDhZbERvSmxmdUdaZWRBTmJYLUFKWlBHUlFjNXVYZ3ZSUXVsNUUxUC1DT0E?oc=5"
+                "date": "2026-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lTnNpblNGR1FjRVRUdEg3Z0FhZnpvenFPQ3JQdHU5a2tPMzh6TXplUFB5Z2xOVERaV3VkMkV4U1V2TC1mVUZvUUtjUjEwdU0tZFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-16",
-                "url": "https://36kr.com/p/3810520138243593"
-            },
-            {
-                "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-16",
-                "url": "https://36kr.com/p/3811265856626440"
-            },
-            {
-                "title": "“川习会”台湾已不是问题 把黎智英带回来才是关键(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-16",
-                "url": "https://www.secretchina.com/news/gb/2026/05/16/1098806.html"
-            },
-            {
-                "title": "OpenAI 低调收购声音克隆平台 Weights.gg，整合 AI 语音技术并应对版权争议",
+                "title": "SK 海力士员工成相亲“香饽饽”，公司夹克成“相亲终极穿搭”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-16",
-                "url": "https://www.ithome.com/0/951/169.htm"
+                "url": "https://www.ithome.com/0/951/263.htm"
             },
             {
-                "title": "200 亿美元追加到位，台积电美国 Fab 21 半导体工厂扩产再提速",
+                "title": "OpenAI把ChatGPT接进银行 它知道你攒了多少钱但碰不了一分",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562636.htm"
+            },
+            {
+                "title": "Claude为什么早晨8:30催你睡觉？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562620.htm"
+            },
+            {
+                "title": "成为芯片制造中心 越南野心勃勃",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562614.htm"
+            },
+            {
+                "title": "比亚迪首次为单一海外市场独立开发新车，纯电 K-Car“海獭” Racco 今年登陆日本",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-15",
-                "url": "https://www.ithome.com/0/951/157.htm"
-            },
-            {
-                "title": "习近平同美国总统特朗普在中南海小范围会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85UW9mSDZGT3Brb19ZMkhQSjU0SjZnNUFjZldXOEd0R1gtSVZKOV9wbEdfMVgxdzE4Q0RiV3phTWwteUNUN3hxa2wyeVFWcXJsRGVmV0dkZzgxcWdPNFdIUF8yODNSenUwQnpN?oc=5"
+                "date": "2026-05-16",
+                "url": "https://www.ithome.com/0/951/261.htm"
             },
             {
                 "title": "王毅向媒体介绍中美元首会晤情况和共识 - mfa.gov.cn",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdC1iTFo2QWc4TWhaZFVITGo0OFozVnNoT2JlRm5hbkhON2RSUHlkRGJQNTlkU2JtQk1xdXlVNzZXcF9tbC1WVUhhUlFVR3cyOW9hNFlGemUtTmRucEtWYktCY0k5X0hBSEdGM2pB?oc=5"
             },
             {
-                "title": "外交部发言人就伊朗局势答记者问_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CY0YyV0I2UXdheWJOWVFwQ0ptcFI0dFhjTFZuanp3NGp0U0FZLTV3VkdUb0lzQWlwMFhtUFRpaXlRdjhnSG9OZGpMZ1Exb0NxbFdEOUFmOWJpTnZiaVI5SUdzUjFJYUY2QXhHOFZWTWxFTTR3NmhqdnVIOA?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-17",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwakpPcmFYc3JreGtpSjFZeHRVU09QYjlVaFdEQTY3eVJhaExpS0kwcTRWMEE0cThqUVROU1ozczIxdEZkcVByb1hQRGhGT3lHWGgtYWtxbTVVS0lROFM2aEsxZDd5SUd3Vmx2aGNxOXNVRXJ2Z3BV?oc=5"
             },
             {
                 "title": "我国将开展多个专项行动强化知识产权保护 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OTkhpQ1NHMGVPenVlZi1jSEVDS0pmVlM3OGRqWGNfWjNkTGhVSXRqY0FhUk5EN3Q1REl5MDEyb0RtUTVtMG5pVkFKbkZYYTYwNFNwMQ?oc=5"
             },
             {
-                "title": "辽宁省辽阳市白塔区打通跨部门堵点提升拥军质效 - 中国军网",
+                "title": "双拥视界丨三代同心守家园 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5raWdxRWIwMjJRcUs4cjZGcHJkUTEwbVlmdjFfVnR5MDhZbERvSmxmdUdaZWRBTmJYLUFKWlBHUlFjNXVYZ3ZSUXVsNUUxUC1DT0E?oc=5"
+                "date": "2026-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lTnNpblNGR1FjRVRUdEg3Z0FhZnpvenFPQ3JQdHU5a2tPMzh6TXplUFB5Z2xOVERaV3VkMkV4U1V2TC1mVUZvUUtjUjEwdU0tZFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-17T02:48:46.467034+00:00"
+    "last_updated": "2026-05-17T08:17:23.551719+00:00"
 }
