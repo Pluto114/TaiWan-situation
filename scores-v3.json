@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "16+1TB 3999 元：REDMI K90 Pro Max 手机直降，骁龙 8 Gen5 至尊版 + Bose 调音",
+                "title": "G7财长巴黎会议 聚焦降低对中关键矿产依赖(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-18",
+                "url": "https://www.secretchina.com/news/gb/2026/05/19/1099278.html"
+            },
+            {
+                "title": "伊朗威胁向穿越霍尔木兹海峡的海底光缆收取“过境费”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562854.htm"
+            },
+            {
+                "title": "何小鹏：小鹏 Robotaxi 将在广州开启示范运营",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-18",
-                "url": "https://www.ithome.com/0/952/034.htm"
+                "url": "https://www.ithome.com/0/952/038.htm"
             },
             {
-                "title": "Arm正面临美国反垄断调查",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-18",
-                "url": "https://36kr.com/newsflashes/3814713578266376"
-            },
-            {
-                "title": "黄仁勋来了没用 中国拒绝采购H200 美国批准出口也不买",
+                "title": "AI芯片繁荣下的裂痕：三星劳资纠纷四大结局 罢工能否避免？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562834.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562844.htm"
             },
             {
-                "title": "特斯拉首席执行官马斯克：无人驾驶无人监管车辆今年将在美国大范围普及",
+                "title": "苹果在DRAM谈判中失势于超大规模云厂商 重心转向保供而非谈价",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562830.htm"
-            },
-            {
-                "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-18",
-                "url": "https://36kr.com/p/3814695536336387"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562842.htm"
             }
         ],
         "mil": [
+            {
+                "title": "伊朗威胁向穿越霍尔木兹海峡的海底光缆收取“过境费”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562854.htm"
+            },
+            {
+                "title": "AI芯片繁荣下的裂痕：三星劳资纠纷四大结局 罢工能否避免？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562844.htm"
+            },
+            {
+                "title": "苹果在DRAM谈判中失势于超大规模云厂商 重心转向保供而非谈价",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562842.htm"
+            },
             {
                 "title": "特斯拉首席执行官马斯克：无人驾驶无人监管车辆今年将在美国大范围普及",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / China.com",
                 "date": "2026-05-18",
                 "url": "https://military.china.com/news/13004177/20260518/49500333.html"
-            },
-            {
-                "title": "消息称比亚迪有意收购Alpine F1车队及雷诺引擎工厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562820.htm"
-            },
-            {
-                "title": "迈从百万级销量外设“全家桶”体验，便宜也有好货",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-18",
-                "url": "https://www.ithome.com/0/951/916.htm"
-            },
-            {
-                "title": "黄仁勋给儿女涨薪：年薪双双破百万美元 称与爹无关",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562806.htm"
             },
             {
                 "title": "2026年5月18日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "【CDT周报】第268期：我跟习近平不过是一墙之隔的两个伏地魔罢了",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-05-18",
+                "url": "https://chinadigitaltimes.net/chinese/727262.html"
+            },
+            {
+                "title": "伊朗威胁向穿越霍尔木兹海峡的海底光缆收取“过境费”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562854.htm"
+            },
+            {
+                "title": "上海交大一学生用AI伪造收据 私吞竞赛奖金 校方通报",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562846.htm"
+            },
+            {
+                "title": "AI芯片繁荣下的裂痕：三星劳资纠纷四大结局 罢工能否避免？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1562844.htm"
+            },
+            {
                 "title": "台湾外交部长现身WHA场边 北京批“蹭会”刷存在感",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-05-18",
                 "url": "https://www.dw.com/zh/%E5%8F%B0%E6%B9%BE%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E7%8E%B0%E8%BA%ABwha%E5%9C%BA%E8%BE%B9-%E5%8C%97%E4%BA%AC%E6%89%B9%E8%B9%AD%E4%BC%9A%E5%88%B7%E5%AD%98%E5%9C%A8%E6%84%9F/a-77200894"
-            },
-            {
-                "title": "黄仁勋来了没用 中国拒绝采购H200 美国批准出口也不买",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562834.htm"
-            },
-            {
-                "title": "美国运输安全管理局试行场外安检 缓解机场拥堵",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562832.htm"
-            },
-            {
-                "title": "特斯拉首席执行官马斯克：无人驾驶无人监管车辆今年将在美国大范围普及",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1562830.htm"
-            },
-            {
-                "title": "#川习会 后最可怕的不是外交 而是民间情绪",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-05-18",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260518/2318648.html"
             },
             {
                 "title": "2026年5月18日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-19T14:54:22.606945+00:00"
+    "last_updated": "2026-05-19T19:48:27.756037+00:00"
 }
