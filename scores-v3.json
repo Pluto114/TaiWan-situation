@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星工会达成初步薪资协议后 暂停了原定的罢工计划",
+                "title": "实际优惠价更低：iQOO 15T 手机最新国补价 2879 元起，搭载天玑 9500 Monster 芯 + 8000mAh 电池",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-21",
+                "url": "https://www.ithome.com/0/953/117.htm"
+            },
+            {
+                "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-20",
+                "url": "https://36kr.com/p/3818280989443202"
+            },
+            {
+                "title": "SpaceX启动史上最大IPO 全面披露财务与太空蓝图",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563106.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563146.htm"
             },
             {
-                "title": "赣锋锂业：400Wh/kg 固态电池循环寿命突破 1100 次，500Wh/kg 级 10Ah 产品小批量量产",
+                "title": "IT早报 0521：雷军坦言小米 YU7 GT 会有点“小贵”；微信 iOS 版灰度“本机号码登录”功能；三星电子与工会达成共识；英伟达 Q1 净利润 583 亿美元同比增 211%...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-20",
-                "url": "https://www.ithome.com/0/953/082.htm"
+                "url": "https://www.ithome.com/0/953/099.htm"
             },
             {
-                "title": "德语媒体：中俄——不对等的伙伴",
-                "source": "NewsAPI / DW (English)",
+                "title": "冷却铜板新技术有望将数据中心制冷能耗削减90%以上",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-20",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E4%BF%84%E4%B8%8D%E5%AF%B9%E7%AD%89%E7%9A%84%E4%BC%99%E4%BC%B4/a-77232874"
-            },
-            {
-                "title": "【IT之家开箱】iQOO 15T 手机图赏：首发天玑 9500 Monster 旗舰芯，升级 8000mAh 电池",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-20",
-                "url": "https://www.ithome.com/0/953/078.htm"
-            },
-            {
-                "title": "川普拒绝伊朗新提案 美伊战争会再起吗？(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-20",
-                "url": "https://www.secretchina.com/news/gb/2026/05/20/1099354.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563124.htm"
             }
         ],
         "mil": [
+            {
+                "title": "布朗巴克大使：信仰自由是中共最害怕的力量(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-21",
+                "url": "https://www.secretchina.com/news/gb/2026/05/21/1099380.html"
+            },
+            {
+                "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-20",
+                "url": "https://36kr.com/p/3818280989443202"
+            },
+            {
+                "title": "IT早报 0521：雷军坦言小米 YU7 GT 会有点“小贵”；微信 iOS 版灰度“本机号码登录”功能；三星电子与工会达成共识；英伟达 Q1 净利润 583 亿美元同比增 211%...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-20",
+                "url": "https://www.ithome.com/0/953/099.htm"
+            },
             {
                 "title": "时隔30年追责 美控古巴前总统卡斯特罗谋杀罪(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-20",
                 "url": "https://www.secretchina.com/news/gb/2026/05/21/1099361.html"
-            },
-            {
-                "title": "川普拒绝伊朗新提案 美伊战争会再起吗？(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-20",
-                "url": "https://www.secretchina.com/news/gb/2026/05/20/1099354.html"
-            },
-            {
-                "title": "德国警方逮捕一对涉嫌为中国从事间谍活动的夫妻",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-05-20",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E4%B8%80%E5%AF%B9%E6%B6%89%E5%AB%8C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E7%9A%84%E5%A4%AB%E5%A6%BB/a-77229948"
-            },
-            {
-                "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-20",
-                "url": "https://36kr.com/p/3817353357968516"
             },
             {
                 "title": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明 - mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV21LNTVIM1BPZ2RoZUw5Wmswa1QtSGlxZUljTUtJS01uSmFQeFlzNEpjR2wteWE0SHkwZ1prNVNKdTd4RTZPSWlYUHNLTllDOUtJQU9yWS1fZ0tUNGM5ODhUTGJmY05EWU5mWDBQdE1mamt6a2hsVVpCRnUyUTI0aGRtYXg?oc=5"
             },
             {
-                "title": "习近平同俄罗斯总统普京共同会见记者 - mfa.gov.cn",
+                "title": "习近平同俄罗斯总统普京会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvQzhwQXlFUEtraUdFZU9zNWYyYmdBMkpYbEo0U0ZxcFpkOXZFbDQzSXVOR29NMXBOZU5uQ2pKWDZuOUNqNHpBWVNwenlEYzdsZGlobVBTZmh3bEg4NlhvQ2pfTVJ6aEdraGt3?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Z1hNV1pjMXBTX1VPeGNNTkZYRzIwTExab2pXNDROSUxHbGVEc0JRbElscFZfSUk0dW1nUmwtVFMxRzA0Vng1eDYwbEhSdUQybFZKTHRRT2YxMld6Y1FVbGRBXzhOMmp2b1I0?oc=5"
             },
             {
                 "title": "战友你好 今日小满 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "川习会后美中台日博弈升级 台湾预算卡关成变数(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-20",
-                "url": "https://www.secretchina.com/news/gb/2026/05/21/1099326.html"
-            },
-            {
-                "title": "川普拒绝平庸与衰败 重塑美国首都形象(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-20",
-                "url": "https://www.secretchina.com/news/gb/2026/05/20/1099352.html"
-            },
-            {
-                "title": "小鹏 GX 旗舰 SUV 正式上市，限时折扣后 26.98 万-34.98 万元",
+                "title": "消息称“AI 六小龙”月之暗面拆除 VIE 架构，估值超 200 亿美元冲刺香港 IPO",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-20",
-                "url": "https://www.ithome.com/0/953/053.htm"
+                "date": "2026-05-21",
+                "url": "https://www.ithome.com/0/953/178.htm"
             },
             {
-                "title": "蔡崇信、吴泳铭致股东信：努力将 AI+ 云打造成阿里巴巴又一个增长动力",
+                "title": "Anthropic 有望 2026Q2 实现首个盈利季度，跑赢 OpenAI 与 xAI",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-20",
-                "url": "https://www.ithome.com/0/953/048.htm"
+                "date": "2026-05-21",
+                "url": "https://www.ithome.com/0/953/156.htm"
             },
             {
-                "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+                "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-20",
-                "url": "https://36kr.com/p/3816942423000196"
+                "url": "https://36kr.com/p/3818280989443202"
+            },
+            {
+                "title": "SpaceX启动史上最大IPO 全面披露财务与太空蓝图",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563146.htm"
+            },
+            {
+                "title": "Anthropic将每月向xAI支付12.5亿美元租用算力 合约总额或超400亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563144.htm"
             },
             {
                 "title": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV21LNTVIM1BPZ2RoZUw5Wmswa1QtSGlxZUljTUtJS01uSmFQeFlzNEpjR2wteWE0SHkwZ1prNVNKdTd4RTZPSWlYUHNLTllDOUtJQU9yWS1fZ0tUNGM5ODhUTGJmY05EWU5mWDBQdE1mamt6a2hsVVpCRnUyUTI0aGRtYXg?oc=5"
             },
             {
-                "title": "习近平同俄罗斯总统普京共同会见记者 - mfa.gov.cn",
+                "title": "习近平同俄罗斯总统普京会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvQzhwQXlFUEtraUdFZU9zNWYyYmdBMkpYbEo0U0ZxcFpkOXZFbDQzSXVOR29NMXBOZU5uQ2pKWDZuOUNqNHpBWVNwenlEYzdsZGlobVBTZmh3bEg4NlhvQ2pfTVJ6aEdraGt3?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Z1hNV1pjMXBTX1VPeGNNTkZYRzIwTExab2pXNDROSUxHbGVEc0JRbElscFZfSUk0dW1nUmwtVFMxRzA0Vng1eDYwbEhSdUQybFZKTHRRT2YxMld6Y1FVbGRBXzhOMmp2b1I0?oc=5"
             },
             {
                 "title": "战友你好 今日小满 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-21T19:49:46.246752+00:00"
+    "last_updated": "2026-05-22T02:58:51.107081+00:00"
 }
