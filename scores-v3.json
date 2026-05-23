@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "力挡 #中企 得标! #美国 会推动介入 #阿根廷 标案 #卢比欧 面临抗 #中共 考验",
-                "source": "NewsAPI / Bannedbook.org",
+                "title": "长岛铁路三日罢工5月19日结束 每日经济损失超6000万美元(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-22",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260522/2320208.html"
+                "url": "https://www.secretchina.com/news/gb/2026/05/23/1099457.html"
             },
             {
-                "title": "联想称掌上游戏机 G02 通过区域品牌授权生产，仅面向中国市场",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-22",
-                "url": "https://www.ithome.com/0/954/170.htm"
-            },
-            {
-                "title": "美加联手逮捕疑似“KimWolf”僵尸网络组织者 加男子面临引渡",
+                "title": "美国政府押注量子计算 拟投20亿美元并持有企业股权",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563336.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563360.htm"
             },
             {
-                "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-22",
-                "url": "https://36kr.com/p/3816943010071427"
-            },
-            {
-                "title": "OpenAI的Codex可在Mac锁屏状态下远程操控应用",
+                "title": "苹果首次在第一季度登顶全球智能手机市场",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563334.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563354.htm"
+            },
+            {
+                "title": "苹果或在iPhone 18 Pro上回撤具有争议的透明壳设计",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563352.htm"
+            },
+            {
+                "title": "京东方欲凭更低报价打入三星Galaxy S27 OLED供应链",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563350.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美代理海军部长：为确保对伊朗行动弹药充足，暂停对台军售；台北表示未获通知",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-05-22",
+                "url": "https://www.voachinese.com/a/us-arms-sales-to-taiwan-on-pause-amid-iran-war-taipei-says-it-has-received-no-official-notice-20260522/8152811.html"
+            },
             {
                 "title": "全新猛士 M817 预售定档 5 月 29 日，与华为乾崑深度共创的 Ultimate 车型同步亮相",
                 "source": "NewsAPI / Ithome.com",
@@ -68,19 +74,13 @@
                 "url": "https://www.toodaylab.com/84048"
             },
             {
-                "title": "小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-22",
-                "url": "https://36kr.com/p/3817022407181188"
-            },
-            {
                 "title": "2026年5月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-22",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5NXVoLThMcXhpcUdYN1pGbXFtdHJkNjNFWC1sc1pUeE9zSC16VHpORjRuMU9CLUVBOC1ZdFE3dTZiYUxMcU1uQXNhaThxR3lIV3h1cm5BdWtES0xTQlZBeG9FRVJYM0hQSVNBUFFITWt2Wms0RFE?oc=5"
             },
             {
-                "title": "镜观·领航丨光影长卷浓缩牢不可破的中俄友谊 - 国防部网",
+                "title": "镜观·领航丨光影长卷浓缩牢不可破的中俄友谊 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-22",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QNzZtN1NLRlNjZzRkNWNxcm9jNzkyaDVaZmxnQnhseDE5Yk04VXlPMHM0bDJfMGJFYWYyT05STVlHWGdvLUZMZnhIemtfSWNQVVdrN2VxMGx6Zw?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "相隔十年 中国再度利用稀土“卡日本脖子”",
+                "title": "2026年科技业裁员已超10万人 企业加码押注AI引发新一轮震荡",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563358.htm"
+            },
+            {
+                "title": "苹果或在iPhone 18 Pro上回撤具有争议的透明壳设计",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563352.htm"
+            },
+            {
+                "title": "苹果股价再创新高，总市值站上 4.5 万亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/954/218.htm"
+            },
+            {
+                "title": "德语媒体：昔日“老大哥”沦为“乞讨小弟”",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-05-22",
-                "url": "https://www.dw.com/zh/%E7%9B%B8%E9%9A%94%E5%8D%81%E5%B9%B4-%E4%B8%AD%E5%9B%BD%E5%86%8D%E5%BA%A6%E5%88%A9%E7%94%A8%E7%A8%80%E5%9C%9F%E5%8D%A1%E6%97%A5%E6%9C%AC%E8%84%96%E5%AD%90/a-77264678"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%98%94%E6%97%A5%E8%80%81%E5%A4%A7%E5%93%A5%E6%B2%A6%E4%B8%BA%E4%B9%9E%E8%AE%A8%E5%B0%8F%E5%BC%9F/a-77266613"
             },
             {
-                "title": "美加联手逮捕疑似“KimWolf”僵尸网络组织者 加男子面临引渡",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中俄联合声明贬损台湾主权 台外交部谴责中共霸凌(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563336.htm"
-            },
-            {
-                "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-22",
-                "url": "https://36kr.com/p/3816943010071427"
-            },
-            {
-                "title": "从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-22",
-                "url": "https://36kr.com/p/3820298219425924"
-            },
-            {
-                "title": "中国证监会拟没收老虎、富途及长桥境内非法经营业务违法所得并处罚",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563324.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/05/22/1099449.html"
             },
             {
                 "title": "2026年5月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,7 +148,7 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5NXVoLThMcXhpcUdYN1pGbXFtdHJkNjNFWC1sc1pUeE9zSC16VHpORjRuMU9CLUVBOC1ZdFE3dTZiYUxMcU1uQXNhaThxR3lIV3h1cm5BdWtES0xTQlZBeG9FRVJYM0hQSVNBUFFITWt2Wms0RFE?oc=5"
             },
             {
-                "title": "镜观·领航丨光影长卷浓缩牢不可破的中俄友谊 - 国防部网",
+                "title": "镜观·领航丨光影长卷浓缩牢不可破的中俄友谊 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-22",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QNzZtN1NLRlNjZzRkNWNxcm9jNzkyaDVaZmxnQnhseDE5Yk04VXlPMHM0bDJfMGJFYWYyT05STVlHWGdvLUZMZnhIemtfSWNQVVdrN2VxMGx6Zw?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-23T13:18:53.747560+00:00"
+    "last_updated": "2026-05-23T19:04:42.801490+00:00"
 }
