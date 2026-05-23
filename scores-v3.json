@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Anthropic正洽谈采用微软自研人工智能芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563256.htm"
-            },
-            {
-                "title": "AYANEO Pocket AIR Mini 安卓掌机 Arcade Home 联名款发布：IGS 正版授权游戏，739 元起",
+                "title": "越南 VinFast 在美建厂进程延宕，遭北卡罗来纳州商务部起诉",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-21",
-                "url": "https://www.ithome.com/0/953/648.htm"
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/953/727.htm"
             },
             {
-                "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
+                "title": "空客、法航因 2009 年 AF447 空难被判“过失杀人罪”，处 22.5 万欧元顶格罚款",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/953/720.htm"
+            },
+            {
+                "title": "智谱 GLM-5.1 高速版 AI 模型发布，跑出全球最快速度 400 tokens/s",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/953/717.htm"
+            },
+            {
+                "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-21",
-                "url": "https://36kr.com/p/3816942732133510"
+                "date": "2026-05-22",
+                "url": "https://36kr.com/p/3819709302329735"
             },
             {
-                "title": "IBM与美国商务部宣布建设全美首座量子芯片专用晶圆厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563248.htm"
-            },
-            {
-                "title": "RTX5090D v2中国被禁 RTX5090韩国涨疯了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563240.htm"
+                "title": "Epic 指责苹果“藐视法庭”，苹果向最高法院请求复审",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/953/687.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-22",
+                "url": "https://36kr.com/p/3819709302329735"
+            },
+            {
+                "title": "《战锤 40K：战争黎明 4》9 月 17 日正式发售，Steam 国区 258 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-21",
+                "url": "https://www.ithome.com/0/953/682.htm"
+            },
+            {
+                "title": "IT早报 0522：38.99 万元起小米 YU7 GT 发布；比亚迪辟谣“考虑收购玛莎拉蒂”；特斯拉监督版 FSD 官宣登陆中国；何小鹏称激光雷达已不是必需品...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-21",
+                "url": "https://www.ithome.com/0/953/678.htm"
+            },
             {
                 "title": "时评人析川习会和普习会 北京心中谁轻谁重？(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,52 +74,34 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1563254.htm"
             },
             {
-                "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-21",
-                "url": "https://36kr.com/p/3816942732133510"
-            },
-            {
-                "title": "SpaceX更多IPO细节披露：去年亏损49亿美元 马斯克掌握85%投票权",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563232.htm"
-            },
-            {
-                "title": "SpaceX公司IPO招股书披露诸多内幕",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563230.htm"
-            },
-            {
-                "title": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-21",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93ZHByNURkbFZ3cVZiVEs5UmVWRUhLbTZDc1dlNmVzTGtBSms0Zm04dDB0alFyZjJsMllPQWt0Y2I4QTUzNVYzMzFGTW1yVXprNzFvUlJqR0FJSUU1d0JmM0tRZFZDZ04zQi0w?oc=5"
-            },
-            {
-                "title": "中华人民共和国和俄罗斯联邦关于倡导世界多极化和新型国际关系的联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-21",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kRFNzSjRIM2xEVGJYVk1RZWFsV3ZZMGxHLVl5cmVtMkh0SC0wRmlqNDc4Wlladk56c2owa3hQY29ITGJEV1hGbjhiRW84RnJVNWpOTGxhc2J2MEY4cE81ZVZFdFdPMXNleVdr?oc=5"
-            },
-            {
                 "title": "中华人民共和国政府和埃塞俄比亚人民民主共和国政府文化协定 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-21",
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WbDRWVVdKX083a2VxVFM2NTJMR0tPbVZYT2RtS1lGUjk5TWpSZHlUSTNHd0NCaG1Zek1NMWlkc1I3dFNXVmQ2bzh3RU9UZnNFMVpiM2lUb2c4QmRpandDSGVSOWs2dmZMa0xMcHBLMFk4b2lac0xn?oc=5"
             },
             {
-                "title": "退役军人杨尚文用爱点亮失明少年“心灯” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15akdNQUNieGdhenBNREVNbFA2WUJvS05BTnM3LWtUYmk0ZjVkY3JHOVZGLTBHdjQta0RJVmZHS1prVlpWTDhMTGtvUWNUamNxdXc?oc=5"
+                "title": "郭嘉昆：中俄关系迈上新起点 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-21",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0Nzemx6WTMzdTJOcjJiMlBMWmdqSk5ZSXNlcmRfWG5oOG9COGNRazVBVnFnRmlvZ3lvbDdqM0I5ck15X1dpSHozZW13VXh5Uno3aFoydW9VSW12SXFudHE0QTRGYmwwR2RHMlF6bU1wM3JtS0E1cjZjS3FvNzYyYTBiQjBHYlVQajZPa3FmdFY?oc=5"
             },
             {
-                "title": "长征副刊丨古诗词里的政绩观 - 中国军网",
+                "title": "驻缅甸大使马珈拜会缅副总统南尼尼埃 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-21",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkttS3dzTW9XakhjcnQ2UWlDSzk0Q3VyV3RXXy14ME81d2duSm1TZC1RWFZVN2NfeXdzTFZvbVZuS1dGeWxwOENKNHRqTkdtNmZPUGFOaTIyVEsyNTg5VFI1Z0l5M3ZBN0ZfZHp2bHFlUzI4ZWdmUGhBQ3c3WEJzbGJsSnY?oc=5"
+            },
+            {
+                "title": "“中国大脑”驱动塞尔维亚工厂转型升级 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbkNTWE5Mdk1Oa2Y3eEdxUGlkQUJWSkpWRkxxWk03UlNMWDAxMFNrRm54MG9sdFhLY1VfdmJXZ0pIMUNNbzM1OV9JdGhXX3RlNlE?oc=5"
+                "date": "2026-05-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CX3VlSXZXUnV4Q3lzbjBEYWNpSW1MSV9lRTQxNHdLWFhsZ1pkR0tGbWxxUFo2UWJRVVk4M1JXMC1tRmFtcWxGekNINVd1cUlTd3c?oc=5"
+            },
+            {
+                "title": "习近平对山西长治市沁源县一煤矿瓦斯爆炸事故作出重要指示强调全力救治伤员科学组织搜救坚决防范遏制重特大事故发生李强作出批示 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tN2s5UVdOMmVkMGRWa1FfN0plQVBHN0U3NXdwcVJtRTRHR2hlZ3Y0S2d0U2tyOEdyZG5ZMGtxY1Rjekszcm80VzFiNllBX2J3Zmc?oc=5"
             },
             {
                 "title": "从太空看中国丨红军长征在川足迹——“彝海结盟”地 - 中国军网",
@@ -112,46 +112,34 @@
         ],
         "pol": [
             {
-                "title": "财新｜迷奸“失忆者”的罪恶产业链",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-05-21",
-                "url": "https://chinadigitaltimes.net/chinese/727334.html"
-            },
-            {
-                "title": "三星卷轴屏手机专利曝光：拉伸机身即可扩展屏幕",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-21",
-                "url": "https://www.ithome.com/0/953/640.htm"
-            },
-            {
-                "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
+                "title": "国家发改委：从未要求中国科技企业不得接受外商投资",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-21",
-                "url": "https://36kr.com/p/3816942732133510"
+                "date": "2026-05-22",
+                "url": "https://36kr.com/newsflashes/3819848509427845"
             },
             {
-                "title": "从细节中看“习特会”和“习普会”的异同",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-05-21",
-                "url": "https://www.dw.com/zh/%E4%BB%8E%E7%BB%86%E8%8A%82%E4%B8%AD%E7%9C%8B%E4%B9%A0%E7%89%B9%E4%BC%9A%E5%92%8C%E4%B9%A0%E6%99%AE%E4%BC%9A%E7%9A%84%E5%BC%82%E5%90%8C/a-77246677"
+                "title": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/953/725.htm"
             },
             {
-                "title": "Manus创始人研究撤销Meta收购方案 考虑融资10亿美元回购",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563238.htm"
+                "title": "空客、法航因 2009 年 AF447 空难被判“过失杀人罪”，处 22.5 万欧元顶格罚款",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/953/720.htm"
             },
             {
-                "title": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-21",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93ZHByNURkbFZ3cVZiVEs5UmVWRUhLbTZDc1dlNmVzTGtBSms0Zm04dDB0alFyZjJsMllPQWt0Y2I4QTUzNVYzMzFGTW1yVXprNzFvUlJqR0FJSUU1d0JmM0tRZFZDZ04zQi0w?oc=5"
+                "title": "智谱 GLM-5.1 高速版 AI 模型发布，跑出全球最快速度 400 tokens/s",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-22",
+                "url": "https://www.ithome.com/0/953/717.htm"
             },
             {
-                "title": "中华人民共和国和俄罗斯联邦关于倡导世界多极化和新型国际关系的联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-21",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kRFNzSjRIM2xEVGJYVk1RZWFsV3ZZMGxHLVl5cmVtMkh0SC0wRmlqNDc4Wlladk56c2owa3hQY29ITGJEV1hGbjhiRW84RnJVNWpOTGxhc2J2MEY4cE81ZVZFdFdPMXNleVdr?oc=5"
+                "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-22",
+                "url": "https://36kr.com/p/3819709302329735"
             },
             {
                 "title": "中华人民共和国政府和埃塞俄比亚人民民主共和国政府文化协定 - 中华人民共和国-条约数据库",
@@ -160,16 +148,28 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WbDRWVVdKX083a2VxVFM2NTJMR0tPbVZYT2RtS1lGUjk5TWpSZHlUSTNHd0NCaG1Zek1NMWlkc1I3dFNXVmQ2bzh3RU9UZnNFMVpiM2lUb2c4QmRpandDSGVSOWs2dmZMa0xMcHBLMFk4b2lac0xn?oc=5"
             },
             {
-                "title": "退役军人杨尚文用爱点亮失明少年“心灯” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15akdNQUNieGdhenBNREVNbFA2WUJvS05BTnM3LWtUYmk0ZjVkY3JHOVZGLTBHdjQta0RJVmZHS1prVlpWTDhMTGtvUWNUamNxdXc?oc=5"
+                "title": "郭嘉昆：中俄关系迈上新起点 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-21",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0Nzemx6WTMzdTJOcjJiMlBMWmdqSk5ZSXNlcmRfWG5oOG9COGNRazVBVnFnRmlvZ3lvbDdqM0I5ck15X1dpSHozZW13VXh5Uno3aFoydW9VSW12SXFudHE0QTRGYmwwR2RHMlF6bU1wM3JtS0E1cjZjS3FvNzYyYTBiQjBHYlVQajZPa3FmdFY?oc=5"
             },
             {
-                "title": "长征副刊丨古诗词里的政绩观 - 中国军网",
+                "title": "驻缅甸大使马珈拜会缅副总统南尼尼埃 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-21",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkttS3dzTW9XakhjcnQ2UWlDSzk0Q3VyV3RXXy14ME81d2duSm1TZC1RWFZVN2NfeXdzTFZvbVZuS1dGeWxwOENKNHRqTkdtNmZPUGFOaTIyVEsyNTg5VFI1Z0l5M3ZBN0ZfZHp2bHFlUzI4ZWdmUGhBQ3c3WEJzbGJsSnY?oc=5"
+            },
+            {
+                "title": "“中国大脑”驱动塞尔维亚工厂转型升级 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbkNTWE5Mdk1Oa2Y3eEdxUGlkQUJWSkpWRkxxWk03UlNMWDAxMFNrRm54MG9sdFhLY1VfdmJXZ0pIMUNNbzM1OV9JdGhXX3RlNlE?oc=5"
+                "date": "2026-05-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CX3VlSXZXUnV4Q3lzbjBEYWNpSW1MSV9lRTQxNHdLWFhsZ1pkR0tGbWxxUFo2UWJRVVk4M1JXMC1tRmFtcWxGekNINVd1cUlTd3c?oc=5"
+            },
+            {
+                "title": "习近平对山西长治市沁源县一煤矿瓦斯爆炸事故作出重要指示强调全力救治伤员科学组织搜救坚决防范遏制重特大事故发生李强作出批示 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tN2s5UVdOMmVkMGRWa1FfN0plQVBHN0U3NXdwcVJtRTRHR2hlZ3Y0S2d0U2tyOEdyZG5ZMGtxY1Rjekszcm80VzFiNllBX2J3Zmc?oc=5"
             },
             {
                 "title": "从太空看中国丨红军长征在川足迹——“彝海结盟”地 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-22T19:40:35.664395+00:00"
+    "last_updated": "2026-05-23T02:44:20.664409+00:00"
 }
