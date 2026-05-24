@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "首个杜比视界认证 AR 眼镜套组，雷鸟 GT 系列正式亮相",
+                "title": "金标大众首款轿车与众 07 上市，限时权益价 10.99 万-11.99 万元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-23",
-                "url": "https://www.ithome.com/0/954/267.htm"
+                "url": "https://www.ithome.com/0/954/357.htm"
             },
             {
-                "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+                "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-23",
-                "url": "https://36kr.com/p/3819979202253189"
+                "url": "https://36kr.com/p/3821533415985283"
             },
             {
-                "title": "9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”",
+                "title": "对话王小川：离开通用人工智能的主干道之后",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-23",
-                "url": "https://36kr.com/p/3821177784881541"
+                "url": "https://36kr.com/p/3821521291038856"
             },
             {
-                "title": "今日消费资讯：奔富推出“文创系列”陈粉丸联名合作款、佳能推出 EOS R6 V",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-23",
-                "url": "https://www.toodaylab.com/84049"
+                "url": "https://36kr.com/p/3821519307591811"
             },
             {
-                "title": "IT早报 0523：腾讯音乐官宣放弃音频版权独家授权；中国汽车史首家，上汽集团将迎全球第一亿位用户；DeepSeek 官宣永久降价；微信解释消息撤回时限 2 分钟...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-22",
-                "url": "https://www.ithome.com/0/954/231.htm"
+                "title": "借关税提振国内芯片产业 美贸易代表：仍考虑征收进口半导体关税",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563404.htm"
             }
         ],
         "mil": [
             {
+                "title": "川普很快就对台军售做决定 美议员提决议案挺台(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-23",
+                "url": "https://www.secretchina.com/news/gb/2026/05/23/1099474.html"
+            },
+            {
+                "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-23",
+                "url": "https://36kr.com/p/3821533415985283"
+            },
+            {
+                "title": "对话王小川：离开通用人工智能的主干道之后",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-23",
+                "url": "https://36kr.com/p/3821521291038856"
+            },
+            {
+                "title": "AI技术被用于\"复活\"遇难飞行员声音 NTSB紧急关闭档案系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563390.htm"
+            },
+            {
                 "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-23",
                 "url": "https://36kr.com/p/3819979202253189"
-            },
-            {
-                "title": "9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-23",
-                "url": "https://36kr.com/p/3821177784881541"
-            },
-            {
-                "title": "IT早报 0523：腾讯音乐官宣放弃音频版权独家授权；中国汽车史首家，上汽集团将迎全球第一亿位用户；DeepSeek 官宣永久降价；微信解释消息撤回时限 2 分钟...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-22",
-                "url": "https://www.ithome.com/0/954/231.htm"
-            },
-            {
-                "title": "美代理海军部长：为确保对伊朗行动弹药充足，暂停对台军售；台北表示未获通知",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-05-22",
-                "url": "https://www.voachinese.com/a/us-arms-sales-to-taiwan-on-pause-amid-iran-war-taipei-says-it-has-received-no-official-notice-20260522/8152811.html"
-            },
-            {
-                "title": "全新猛士 M817 预售定档 5 月 29 日，与华为乾崑深度共创的 Ultimate 车型同步亮相",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-22",
-                "url": "https://www.ithome.com/0/954/163.htm"
             },
             {
                 "title": "2026年5月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "周恩来的影子：中共战狼外交的前世今生(组图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "40.68 万元起，蔚来全新 ES8 完成第 11 万台新车交付",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-23",
-                "url": "https://www.secretchina.com/news/gb/2026/05/23/1099431.html"
+                "url": "https://www.ithome.com/0/954/364.htm"
             },
             {
-                "title": "9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”",
+                "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-23",
-                "url": "https://36kr.com/p/3821177784881541"
+                "url": "https://36kr.com/p/3821533415985283"
             },
             {
-                "title": "5.68 万元起五菱缤果 Pro 纯电小车正式上市，续航 330/403km",
-                "source": "NewsAPI / Ithome.com",
+                "title": "对话王小川：离开通用人工智能的主干道之后",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-23",
-                "url": "https://www.ithome.com/0/954/244.htm"
+                "url": "https://36kr.com/p/3821521291038856"
             },
             {
-                "title": "IT早报 0523：腾讯音乐官宣放弃音频版权独家授权；中国汽车史首家，上汽集团将迎全球第一亿位用户；DeepSeek 官宣永久降价；微信解释消息撤回时限 2 分钟...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-22",
-                "url": "https://www.ithome.com/0/954/231.htm"
+                "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-23",
+                "url": "https://36kr.com/p/3821519307591811"
             },
             {
-                "title": "特朗普政府宣布外国人必须回本国申请绿卡 或对移民群体造成广泛影响",
+                "title": "借关税提振国内芯片产业 美贸易代表：仍考虑征收进口半导体关税",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563372.htm"
+                "date": "2026-05-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563404.htm"
             },
             {
                 "title": "2026年5月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-24T02:56:27.905321+00:00"
+    "last_updated": "2026-05-24T08:25:24.577766+00:00"
 }
