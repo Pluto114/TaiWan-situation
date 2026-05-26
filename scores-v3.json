@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "闲鱼涨佣一个月，部分鱼小铺卖家选择离场观望",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563474.htm"
+                "title": "小米 17 Max 手机全渠道开售：首搭徕卡 2 亿像素主摄，国补到手价 4299 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-25",
+                "url": "https://www.ithome.com/0/954/707.htm"
             },
             {
-                "title": "欧盟警告对华贸易失衡 布鲁塞尔酝酿强硬反制措施(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-24",
-                "url": "https://www.secretchina.com/news/gb/2026/05/24/1099530.html"
-            },
-            {
-                "title": "#诺奖 得主费尔普斯逝世 曾获 #中国政府 友谊奖",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-05-24",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260524/2320899.html"
-            },
-            {
-                "title": "功效洗护市场，跑不出下一个完美日记",
+                "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-24",
-                "url": "https://36kr.com/p/3819023278048643"
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3824073646624899"
             },
             {
-                "title": "珀莱雅收购花知晓，但美妆界的“安踏”还没诞生",
+                "title": "Mate 90 系列首发？华为今年秋季发布全新麒麟手机芯片：完整采用逻辑折叠技术，大幅提升相关性能",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-25",
+                "url": "https://www.ithome.com/0/954/702.htm"
+            },
+            {
+                "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-24",
-                "url": "https://36kr.com/p/3820119270953352"
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3824053061652616"
+            },
+            {
+                "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3819931562414467"
             }
         ],
         "mil": [
+            {
+                "title": "Mate 90 系列首发？华为今年秋季发布全新麒麟手机芯片：完整采用逻辑折叠技术，大幅提升相关性能",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-25",
+                "url": "https://www.ithome.com/0/954/702.htm"
+            },
+            {
+                "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3819931562414467"
+            },
+            {
+                "title": "8点1氪丨“壹号土猪”商标被宣告无效；山西煤矿爆炸时近一半下井工人在系统中查不到有效信息；小米通报空调抽真空造假事件",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-24",
+                "url": "https://36kr.com/p/3823941399826566"
+            },
             {
                 "title": "珀莱雅收购花知晓，但美妆界的“安踏”还没诞生",
                 "source": "NewsAPI / 36kr.com",
@@ -56,22 +74,10 @@
                 "url": "https://36kr.com/p/3823013049045380"
             },
             {
-                "title": "11 月首航，我国第二艘国产大邮轮爱达 · 花城号完成航速测试等四项关键试验",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-24",
-                "url": "https://www.ithome.com/0/954/578.htm"
-            },
-            {
-                "title": "第 56 届 IEEE ISCAS 会议在上海召开，华为董事何庭波、中国科大潘建伟院士发表演讲",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-24",
-                "url": "https://www.ithome.com/0/954/536.htm"
-            },
-            {
-                "title": "蓝思科技24万股东，坐了场过山车",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563456.htm"
+                "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CTHU2R0RnNl96ZktVYl82Q2ZMYlpDRmpaXzhSM2h4VW9RLXNnWHlqMGl3bUNwMVp4NFpOWTdGQ0FvTDN1NEpOQ3JMR3pqUndsMTdiRm4tTzQyQ3NJMHBfd3lKaXZrdnkxbGlJ?oc=5"
             },
             {
                 "title": "2026年5月25日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-24",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvM0YtRHpaNTdkZ1luSUdvMnpTYzJ2QkFmU0Y3M0c5SkNzc0YyM0Y4aGpBR05tQlVqb3pQWFNTRjRGUU9GUnpiUzF1djdTVTlBWU5WVE5rYmdlUQ?oc=5"
-            },
-            {
-                "title": "毛宁：相信中美两国人民将续写更多友好故事 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnhkcU5obGJfWkV0RmthYU1uUHphRkU0VmJCVll3RUNhb0VCMEJYSnB5OTd6MVFYVmFOdm9pc3JRMXNfOFlnZTNVa1BKRU9ZcDVyaUNvckdqUndWdi02WEF2blFpUGk3aFEzTlJCQWRPTUdldkNpcGdobFpqS2k3NU41eDc2WW4zRlFaLXRnNUM?oc=5"
             },
             {
                 "title": "陆军某训练基地紧盯部队人才需求优化组训模式 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "刚果抗疫犹如“士兵空手上战场” 伊波拉病毒跨境传播风险恐波及非洲10国 - 联合早报",
-                "source": "NewsAPI / Zaobao.com.sg",
-                "date": "2026-05-24",
-                "url": "https://www.zaobao.com.sg/news/world/story20260524-9098917"
-            },
-            {
-                "title": "闲鱼涨佣一个月，部分鱼小铺卖家选择离场观望",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563474.htm"
-            },
-            {
-                "title": "美国多股激进运动合流 专家警告或削弱美对华竞争力(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-24",
-                "url": "https://www.secretchina.com/news/gb/2026/05/24/1099531.html"
-            },
-            {
-                "title": "欧盟警告对华贸易失衡 布鲁塞尔酝酿强硬反制措施(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-24",
-                "url": "https://www.secretchina.com/news/gb/2026/05/24/1099530.html"
-            },
-            {
-                "title": "功效洗护市场，跑不出下一个完美日记",
+                "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-24",
-                "url": "https://36kr.com/p/3819023278048643"
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3824089662853513"
+            },
+            {
+                "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3824073646624899"
+            },
+            {
+                "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3824053061652616"
+            },
+            {
+                "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-25",
+                "url": "https://36kr.com/p/3819931562414467"
+            },
+            {
+                "title": "长鑫科技董事长朱一明让渡近半持股 7.68 亿股激励员工，并承诺十年不减持",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-25",
+                "url": "https://www.ithome.com/0/954/653.htm"
+            },
+            {
+                "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CTHU2R0RnNl96ZktVYl82Q2ZMYlpDRmpaXzhSM2h4VW9RLXNnWHlqMGl3bUNwMVp4NFpOWTdGQ0FvTDN1NEpOQ3JMR3pqUndsMTdiRm4tTzQyQ3NJMHBfd3lKaXZrdnkxbGlJ?oc=5"
             },
             {
                 "title": "2026年5月25日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-24",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvM0YtRHpaNTdkZ1luSUdvMnpTYzJ2QkFmU0Y3M0c5SkNzc0YyM0Y4aGpBR05tQlVqb3pQWFNTRjRGUU9GUnpiUzF1djdTVTlBWU5WVE5rYmdlUQ?oc=5"
-            },
-            {
-                "title": "毛宁：相信中美两国人民将续写更多友好故事 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnhkcU5obGJfWkV0RmthYU1uUHphRkU0VmJCVll3RUNhb0VCMEJYSnB5OTd6MVFYVmFOdm9pc3JRMXNfOFlnZTNVa1BKRU9ZcDVyaUNvckdqUndWdi02WEF2blFpUGk3aFEzTlJCQWRPTUdldkNpcGdobFpqS2k3NU41eDc2WW4zRlFaLXRnNUM?oc=5"
             },
             {
                 "title": "陆军某训练基地紧盯部队人才需求优化组训模式 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-25T19:25:22.430342+00:00"
+    "last_updated": "2026-05-26T02:52:09.967404+00:00"
 }
