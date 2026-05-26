@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "韩国将上市三星电子及SK海力士杠杆ETF 单日涨跌可达±60%",
+                "title": "美光警告：AI需求暴涨引发存储芯片紧缺 状况将持续到2026年后",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563576.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563596.htm"
             },
             {
-                "title": "华为何庭波发表署名芯片论文",
+                "title": "华为抛出中国首个芯片新定律：广发英雄帖，重启芯片新周期",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563574.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563594.htm"
             },
             {
-                "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-25",
-                "url": "https://36kr.com/p/3824164325412992"
-            },
-            {
-                "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-25",
-                "url": "https://36kr.com/p/3824439681520002"
-            },
-            {
-                "title": "风力、光伏首度超过燃气发电 2026年4月全球电力版图迎来历史性拐点",
+                "title": "Tether将在格鲁吉亚推出政府支持的官方稳定币",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563568.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563592.htm"
+            },
+            {
+                "title": "AMD Zen 7“Grimlock”处理器将采用台积电1.4nm制程 并评估FOPLP封装技术",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563590.htm"
+            },
+            {
+                "title": "古巴深陷经济危机 中国援助送大米",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-25",
+                "url": "https://www.dw.com/zh/%E5%8F%A4%E5%B7%B4%E6%B7%B1%E9%99%B7%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA-%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E9%80%81%E5%A4%A7%E7%B1%B3/a-77285546"
             }
         ],
         "mil": [
             {
+                "title": "Anthropic 联合创始人奥拉：人工智能的发展不能仅由科技公司主导",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-25",
+                "url": "https://www.ithome.com/0/955/033.htm"
+            },
+            {
+                "title": "OPPO Pad6 平板发布：天玑 9500s+3K 柔光屏，国补到手价 2804.15 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-25",
+                "url": "https://www.ithome.com/0/955/011.htm"
+            },
+            {
+                "title": "教宗利奥呼吁全球“给人工智能踩刹车”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563580.htm"
+            },
+            {
+                "title": "国补后 2999 元起，OPPO Reno16/Pro 手机发布",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-25",
+                "url": "https://www.ithome.com/0/955/007.htm"
+            },
+            {
                 "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-25",
                 "url": "https://36kr.com/p/3824164325412992"
             },
             {
-                "title": "英皇家空军启用可充气导弹阵地 提升对抗先进防空威胁训练水平",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中华人民共和国和塞尔维亚共和国关于持续推进构建新时代中塞命运共同体的联合声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563566.htm"
-            },
-            {
-                "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-25",
-                "url": "https://36kr.com/p/3824158896312709"
-            },
-            {
-                "title": "AI小说大逃杀：百万在读被下架，“一键生成”时代结束？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563510.htm"
-            },
-            {
-                "title": "半日主力资金加仓电子股，抛售电力设备股",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-25",
-                "url": "https://36kr.com/newsflashes/3824166298276224"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KSjEwWEdQdER6VDk4M19VME9LMmpsVFpZV2g4X0VBbmtsX0J4YWFudGgzdEVXMHpOZkFNSTM1RVNyMl9icmhQNnRXaC1HYkRydk45VXZOS1VjZkVOYnE3blU5X19NSkZaSzJR?oc=5"
             },
             {
                 "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-25",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hUnQ4eDdQU1ZiT3dhOFdpaklHX2FwMDVvSG9aeWItdF85c3dYVUFobDJFamFMQzA1UFFPTk5zbkVSb0RjR2dzSHhXaFNiZmxGVExTYm5fdkdZamlpSGxmT1ZtYlY1Y2MwZFlXYVZzSTh1VDVCNlE?oc=5"
-            },
-            {
-                "title": "神舟二十三号航天员乘组顺利进驻“天宫” 中国航天员完成第8次“太空会师” - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-24",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvM0YtRHpaNTdkZ1luSUdvMnpTYzJ2QkFmU0Y3M0c5SkNzc0YyM0Y4aGpBR05tQlVqb3pQWFNTRjRGUU9GUnpiUzF1djdTVTlBWU5WVE5rYmdlUQ?oc=5"
             },
             {
                 "title": "陆军某训练基地紧盯部队人才需求优化组训模式 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "韩国将上市三星电子及SK海力士杠杆ETF 单日涨跌可达±60%",
+                "title": "正面连接｜德国华人迷奸案：药、暗语、非人化",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-05-25",
+                "url": "https://chinadigitaltimes.net/chinese/727403.html"
+            },
+            {
+                "title": "美伊停火后谈判陷拉锯 川普放话“不急签协议”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-25",
+                "url": "https://www.secretchina.com/news/gb/2026/05/25/1099566.html"
+            },
+            {
+                "title": "美光警告：AI需求暴涨引发存储芯片紧缺 状况将持续到2026年后",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563576.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563596.htm"
             },
             {
-                "title": "华为何庭波发表署名芯片论文",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "Anthropic 联合创始人奥拉：人工智能的发展不能仅由科技公司主导",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563574.htm"
+                "url": "https://www.ithome.com/0/955/033.htm"
             },
             {
-                "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "【袁红冰热点】独家内幕：习近平要比肩毛泽东、正为发动台海战争做准备(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-25",
-                "url": "https://36kr.com/p/3824164325412992"
+                "url": "https://www.secretchina.com/news/gb/2026/05/25/1099563.html"
             },
             {
-                "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中华人民共和国和塞尔维亚共和国关于持续推进构建新时代中塞命运共同体的联合声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-25",
-                "url": "https://36kr.com/p/3824439681520002"
-            },
-            {
-                "title": "风力、光伏首度超过燃气发电 2026年4月全球电力版图迎来历史性拐点",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563568.htm"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KSjEwWEdQdER6VDk4M19VME9LMmpsVFpZV2g4X0VBbmtsX0J4YWFudGgzdEVXMHpOZkFNSTM1RVNyMl9icmhQNnRXaC1HYkRydk45VXZOS1VjZkVOYnE3blU5X19NSkZaSzJR?oc=5"
             },
             {
                 "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-25",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hUnQ4eDdQU1ZiT3dhOFdpaklHX2FwMDVvSG9aeWItdF85c3dYVUFobDJFamFMQzA1UFFPTk5zbkVSb0RjR2dzSHhXaFNiZmxGVExTYm5fdkdZamlpSGxmT1ZtYlY1Y2MwZFlXYVZzSTh1VDVCNlE?oc=5"
-            },
-            {
-                "title": "神舟二十三号航天员乘组顺利进驻“天宫” 中国航天员完成第8次“太空会师” - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-24",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvM0YtRHpaNTdkZ1luSUdvMnpTYzJ2QkFmU0Y3M0c5SkNzc0YyM0Y4aGpBR05tQlVqb3pQWFNTRjRGUU9GUnpiUzF1djdTVTlBWU5WVE5rYmdlUQ?oc=5"
             },
             {
                 "title": "陆军某训练基地紧盯部队人才需求优化组训模式 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-26T09:50:08.161274+00:00"
+    "last_updated": "2026-05-26T15:18:17.596427+00:00"
 }
