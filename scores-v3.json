@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "三体宇宙公司发声明回应“原CEO许垚被执行死刑”：正义终得伸张",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-26",
-                "url": "https://36kr.com/p/3824179485233541"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563678.htm"
             },
             {
-                "title": "商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
-                "source": "NewsAPI / 36kr.com",
+                "title": "大裁员中的Meta幸存员工：心气都扔马桶里冲掉了",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-26",
-                "url": "https://36kr.com/newsflashes/3825512712802944"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563676.htm"
             },
             {
-                "title": "思特威、紫光展锐联手布局 MicroLED 高速光互连，打造国产化 AI 算力集群短距高速互连方案",
+                "title": "OpenAI首席执行官：AI普及并不会引发“就业末日”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563674.htm"
+            },
+            {
+                "title": "消息称 AMD 苏姿丰布局 Zen 7：台积电 A14 工艺、评估力成 FOPLP 封装",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/169.htm"
+                "url": "https://www.ithome.com/0/955/413.htm"
             },
             {
-                "title": "工信部：截至 4 月末我国 5G 基站数首次突破 500 万个，5G 移动电话用户超 12.62 亿",
-                "source": "NewsAPI / Ithome.com",
+                "title": "不满奖金悬殊过大 三星非芯片部门员工寻求法院阻止初步协议的表决",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/123.htm"
-            },
-            {
-                "title": "对话云鲸CEO张峻彬：理解人性，告别天真",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-26",
-                "url": "https://36kr.com/p/3824244844859525"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563670.htm"
             }
         ],
         "mil": [
+            {
+                "title": "受特朗普相关举措冲击 冰岛考虑加入欧盟",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563668.htm"
+            },
+            {
+                "title": "《DOTA2》国际邀请赛 TI15 时隔七年重返上海：中国战队 XG 获直邀，现场门票 6 月 10 日开售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-26",
+                "url": "https://www.ithome.com/0/955/332.htm"
+            },
+            {
+                "title": "美方简报川习会内容 对台政策不变、军售秉持台湾关系法(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-26",
+                "url": "https://www.secretchina.com/news/gb/2026/05/26/1099598.html"
+            },
             {
                 "title": "对话云鲸CEO张峻彬：理解人性，告别天真",
                 "source": "NewsAPI / 36kr.com",
@@ -54,30 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-26",
                 "url": "https://36kr.com/p/3823033729061253"
-            },
-            {
-                "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-25",
-                "url": "https://36kr.com/p/3825357879497346"
-            },
-            {
-                "title": "IT早报 0526：华为高端芯片 2031 年剑指 1.4 纳米；抖音副总裁李亮辟谣短视频“猪食论”传言；华为麒麟 2026 芯片峰值频率首超 3GHz；稚晖君正式担任上纬新材董事长...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-25",
-                "url": "https://www.ithome.com/0/955/084.htm"
-            },
-            {
-                "title": "加文 · 贝克最新对话，细谈前沿模型、晶圆及巨头格局：如果只能盯一个指标来判断 AI 泡沫，我会盯台积电产能决策",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-25",
-                "url": "https://www.ithome.com/0/955/075.htm"
-            },
-            {
-                "title": "中华人民共和国和巴基斯坦伊斯兰共和国联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SG5DSjliczZjRTBmMUdTbWRmN1lRQ25vakF1dVR0SVdEeHpMWEV5a1BjSEFLX01uVTVCUWY2R0ZoOTJVSFJPa3J1dldMb2x3czk4VF93cGdyQ21raTh2NXBYQWF4RXVYS0VB?oc=5"
             },
             {
                 "title": "习近平为塞尔维亚总统武契奇举行“友谊勋章”颁授仪式 - mfa.gov.cn",
@@ -92,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KSjEwWEdQdER6VDk4M19VME9LMmpsVFpZV2g4X0VBbmtsX0J4YWFudGgzdEVXMHpOZkFNSTM1RVNyMl9icmhQNnRXaC1HYkRydk45VXZOS1VjZkVOYnE3blU5X19NSkZaSzJR?oc=5"
             },
             {
-                "title": "为什么我们忘不了19岁的他？ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GUThXU3d6LVhlQ2twbWxCOFYzVC1QTFVxYWdUSUpCOXcwUDVoT1JwRWpRZElFOVZGTS1tWmJ5VmVQd0xJeHdTQnc5S0dwcjRlSlE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CTHU2R0RnNl96ZktVYl82Q2ZMYlpDRmpaXzhSM2h4VW9RLXNnWHlqMGl3bUNwMVp4NFpOWTdGQ0FvTDN1NEpOQ3JMR3pqUndsMTdiRm4tTzQyQ3NJMHBfd3lKaXZrdnkxbGlJ?oc=5"
+            },
+            {
+                "title": "第七届军事大数据论坛期间有关专家答记者问 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yVlM4VmN1aTh0RTFLOF9lRnhRWXUwMDdRUTlwOURBVlpfNVo5VmRtS1hfSmpuRmd3TTl5SVE2bEhvU2laVFo1WjVtQ3VsQlJDdVE?oc=5"
             },
             {
                 "title": "树立和践行正确政绩观系列谈丨甘当强军路上的“栽树人” - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-26",
-                "url": "https://36kr.com/p/3824179485233541"
-            },
-            {
-                "title": "思特威、紫光展锐联手布局 MicroLED 高速光互连，打造国产化 AI 算力集群短距高速互连方案",
+                "title": "小米集团 2026 年第一季度营收 991 亿元，经调整净利润 61 亿元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/169.htm"
+                "url": "https://www.ithome.com/0/955/586.htm"
             },
             {
-                "title": "对话云鲸CEO张峻彬：理解人性，告别天真",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-26",
-                "url": "https://36kr.com/p/3824244844859525"
-            },
-            {
-                "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-25",
-                "url": "https://36kr.com/p/3825357879497346"
-            },
-            {
-                "title": "Anthropic 新模型震动金融圈，欧洲央行紧急开会要求升级网络防御",
+                "title": "小米 2026 财年第一财季经调整净利润 60.72 亿元，同比下降 43.1%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-25",
-                "url": "https://www.ithome.com/0/955/090.htm"
+                "date": "2026-05-26",
+                "url": "https://www.ithome.com/0/955/542.htm"
             },
             {
-                "title": "中华人民共和国和巴基斯坦伊斯兰共和国联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "开源社区反对后，美国加州拟豁免 Linux 遵守年龄验证法",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SG5DSjliczZjRTBmMUdTbWRmN1lRQ25vakF1dVR0SVdEeHpMWEV5a1BjSEFLX01uVTVCUWY2R0ZoOTJVSFJPa3J1dldMb2x3czk4VF93cGdyQ21raTh2NXBYQWF4RXVYS0VB?oc=5"
+                "url": "https://www.ithome.com/0/955/518.htm"
+            },
+            {
+                "title": "中共治下“吃人的矿山”阴魂不散 山西煤矿爆炸是人祸？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-26",
+                "url": "https://www.secretchina.com/news/gb/2026/05/26/1099603.html"
+            },
+            {
+                "title": "大裁员中的Meta幸存员工：心气都扔马桶里冲掉了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563676.htm"
             },
             {
                 "title": "习近平为塞尔维亚总统武契奇举行“友谊勋章”颁授仪式 - mfa.gov.cn",
@@ -160,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KSjEwWEdQdER6VDk4M19VME9LMmpsVFpZV2g4X0VBbmtsX0J4YWFudGgzdEVXMHpOZkFNSTM1RVNyMl9icmhQNnRXaC1HYkRydk45VXZOS1VjZkVOYnE3blU5X19NSkZaSzJR?oc=5"
             },
             {
-                "title": "为什么我们忘不了19岁的他？ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GUThXU3d6LVhlQ2twbWxCOFYzVC1QTFVxYWdUSUpCOXcwUDVoT1JwRWpRZElFOVZGTS1tWmJ5VmVQd0xJeHdTQnc5S0dwcjRlSlE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CTHU2R0RnNl96ZktVYl82Q2ZMYlpDRmpaXzhSM2h4VW9RLXNnWHlqMGl3bUNwMVp4NFpOWTdGQ0FvTDN1NEpOQ3JMR3pqUndsMTdiRm4tTzQyQ3NJMHBfd3lKaXZrdnkxbGlJ?oc=5"
+            },
+            {
+                "title": "第七届军事大数据论坛期间有关专家答记者问 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yVlM4VmN1aTh0RTFLOF9lRnhRWXUwMDdRUTlwOURBVlpfNVo5VmRtS1hfSmpuRmd3TTl5SVE2bEhvU2laVFo1WjVtQ3VsQlJDdVE?oc=5"
             },
             {
                 "title": "树立和践行正确政绩观系列谈丨甘当强军路上的“栽树人” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-27T03:31:07.370197+00:00"
+    "last_updated": "2026-05-27T09:39:35.693610+00:00"
 }
