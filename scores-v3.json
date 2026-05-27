@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三体宇宙公司发声明回应“原CEO许垚被执行死刑”：正义终得伸张",
+                "title": "伊朗战争中星链涨价四倍 SpaceX与美军方关系紧张",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563678.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563692.htm"
             },
             {
-                "title": "大裁员中的Meta幸存员工：心气都扔马桶里冲掉了",
+                "title": "台积电股价屡创新高 台湾股市跃升至全球第五大市场",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563676.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563688.htm"
             },
             {
-                "title": "OpenAI首席执行官：AI普及并不会引发“就业末日”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563674.htm"
-            },
-            {
-                "title": "消息称 AMD 苏姿丰布局 Zen 7：台积电 A14 工艺、评估力成 FOPLP 封装",
+                "title": "GoPro Mission 1 标准版 / Pro 版运动相机国行发售：搭 1 英寸传感器，4698 元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/413.htm"
+                "url": "https://www.ithome.com/0/955/591.htm"
             },
             {
-                "title": "不满奖金悬殊过大 三星非芯片部门员工寻求法院阻止初步协议的表决",
+                "title": "德国经济部长访华 政商各界分歧巨大",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-26",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%83%A8%E9%95%BF%E8%AE%BF%E5%8D%8E-%E6%94%BF%E5%95%86%E5%90%84%E7%95%8C%E5%88%86%E6%AD%A7%E5%B7%A8%E5%A4%A7/a-77298551"
+            },
+            {
+                "title": "华纳云618云端大促 香港CN2云198元/年 美国CN2云永久988元/年",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563670.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563680.htm"
             }
         ],
         "mil": [
+            {
+                "title": "SpaceX、OpenAI与Anthropic拟上市 人工智能热潮或将迎来极限考验",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563682.htm"
+            },
+            {
+                "title": "机器人启蒙，需要一所能“犯错”的幼儿园",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-26",
+                "url": "https://36kr.com/p/3825969453699970"
+            },
+            {
+                "title": "氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-26",
+                "url": "https://36kr.com/p/3825928694846085"
+            },
             {
                 "title": "受特朗普相关举措冲击 冰岛考虑加入欧盟",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,28 @@
                 "url": "https://www.ithome.com/0/955/332.htm"
             },
             {
-                "title": "美方简报川习会内容 对台政策不变、军售秉持台湾关系法(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-26",
-                "url": "https://www.secretchina.com/news/gb/2026/05/26/1099598.html"
-            },
-            {
-                "title": "对话云鲸CEO张峻彬：理解人性，告别天真",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-26",
-                "url": "https://36kr.com/p/3824244844859525"
-            },
-            {
-                "title": "两部 AI 剧集闯入戛纳，水母智能要做 AI 内容工业化的破局者｜项目报道",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-26",
-                "url": "https://36kr.com/p/3823033729061253"
-            },
-            {
-                "title": "习近平为塞尔维亚总统武契奇举行“友谊勋章”颁授仪式 - mfa.gov.cn",
+                "title": "中华人民共和国和巴基斯坦伊斯兰共和国联合声明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwb1BXejJQSTFmbUdUdUZ0Tm5kX0FPREhCMDZOcnFVNDBJMUNpUldobG9wc0EwejlYVTNITUo1OFdvRXdhNDM3akFmOWdkdVVnZVBiaElGSFpxaE9MWFlvWEd5VGlWUHVYRFdR?oc=5"
+                "date": "2026-05-26",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SG5DSjliczZjRTBmMUdTbWRmN1lRQ25vakF1dVR0SVdEeHpMWEV5a1BjSEFLX01uVTVCUWY2R0ZoOTJVSFJPa3J1dldMb2x3czk4VF93cGdyQ21raTh2NXBYQWF4RXVYS0VB?oc=5"
             },
             {
-                "title": "中华人民共和国和塞尔维亚共和国关于持续推进构建新时代中塞命运共同体的联合声明 - mfa.gov.cn",
+                "title": "2026年5月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KSjEwWEdQdER6VDk4M19VME9LMmpsVFpZV2g4X0VBbmtsX0J4YWFudGgzdEVXMHpOZkFNSTM1RVNyMl9icmhQNnRXaC1HYkRydk45VXZOS1VjZkVOYnE3blU5X19NSkZaSzJR?oc=5"
+                "date": "2026-05-26",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50WHRzTGkxUjJfcWhpQVFiSURFY2Z2ZGtSeElLMzJjeTVMZGV1eHN2NUt1em9UUEVBOW8wc2huRzVnUGVOOHNXMklmZllIckpTNVF2ZG54Z1FObWt3dXlELVU1OGxuQ3ZZZEplWE5VaEZGcmlYN1E?oc=5"
             },
             {
-                "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
+                "title": "毛宁：维护联合国、激活联合国、壮大联合国 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CTHU2R0RnNl96ZktVYl82Q2ZMYlpDRmpaXzhSM2h4VW9RLXNnWHlqMGl3bUNwMVp4NFpOWTdGQ0FvTDN1NEpOQ3JMR3pqUndsMTdiRm4tTzQyQ3NJMHBfd3lKaXZrdnkxbGlJ?oc=5"
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3hwcXo5UlhBcG0yaDhQVV9PdnFjVnZyTy0wWkdtSUdIVWZmcFllaHdFZ2hyZk83ZHd6SG14aFNFVjIwOFpkWmhzUmpROHp1ODd1UUtuUWg0UGlUXy1UMXFDVHFHT1ZLRGwzNFE5aDN5WjlTWFBnWFkzSTBsVERlWWlFMjcySHlZaGM5dXRPQ0s?oc=5"
+            },
+            {
+                "title": "外交部介绍王毅主持联合国安理会高级别会议情况 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44N0ljUHdkWVIwSVJnTFhQSmRsa1hJekZ3TURUOUdRQ3N5UDZDcHdfX1FrZWhmNEVOdExycnJ6V2xRTmxVVUh5XzBn?oc=5"
             },
             {
                 "title": "第七届军事大数据论坛期间有关专家答记者问 - 中国军网",
@@ -102,62 +108,62 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzcmFwYmJFTVMwOGtyMUxTS0JQeEh4aWlRVmRWTGQ2ZG94TXUwZnR1bk5heFdSZE5rbU1BX3VGRlRWNC1TZWlEbHBwbl9weFJMVkE?oc=5"
-            },
-            {
-                "title": "从训练场到战场，他们给战术训练插上“科技翅膀” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdFU5UTJHb3I2aktTVWZqZi11M1pKRU9rbDM0TUtQT1FGZVhkQ1dQd05QWks5aVdVblBRNk01aTJsYkNLUzNMckZUR3lUYVB5Ync?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "小米集团 2026 年第一季度营收 991 亿元，经调整净利润 61 亿元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特习会后 中国人权案件前景不明",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/586.htm"
+                "url": "https://www.dw.com/zh/%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%90%8E-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%A1%88%E4%BB%B6%E5%89%8D%E6%99%AF%E4%B8%8D%E6%98%8E/a-77301951"
             },
             {
-                "title": "小米 2026 财年第一财季经调整净利润 60.72 亿元，同比下降 43.1%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/542.htm"
-            },
-            {
-                "title": "开源社区反对后，美国加州拟豁免 Linux 遵守年龄验证法",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/518.htm"
-            },
-            {
-                "title": "中共治下“吃人的矿山”阴魂不散 山西煤矿爆炸是人祸？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-26",
-                "url": "https://www.secretchina.com/news/gb/2026/05/26/1099603.html"
-            },
-            {
-                "title": "大裁员中的Meta幸存员工：心气都扔马桶里冲掉了",
+                "title": "SpaceX、OpenAI与Anthropic拟上市 人工智能热潮或将迎来极限考验",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563676.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563682.htm"
             },
             {
-                "title": "习近平为塞尔维亚总统武契奇举行“友谊勋章”颁授仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwb1BXejJQSTFmbUdUdUZ0Tm5kX0FPREhCMDZOcnFVNDBJMUNpUldobG9wc0EwejlYVTNITUo1OFdvRXdhNDM3akFmOWdkdVVnZVBiaElGSFpxaE9MWFlvWEd5VGlWUHVYRFdR?oc=5"
+                "title": "机器人启蒙，需要一所能“犯错”的幼儿园",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-26",
+                "url": "https://36kr.com/p/3825969453699970"
             },
             {
-                "title": "中华人民共和国和塞尔维亚共和国关于持续推进构建新时代中塞命运共同体的联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KSjEwWEdQdER6VDk4M19VME9LMmpsVFpZV2g4X0VBbmtsX0J4YWFudGgzdEVXMHpOZkFNSTM1RVNyMl9icmhQNnRXaC1HYkRydk45VXZOS1VjZkVOYnE3blU5X19NSkZaSzJR?oc=5"
+                "title": "氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-26",
+                "url": "https://36kr.com/p/3825928694846085"
             },
             {
-                "title": "习近平同塞尔维亚总统武契奇会谈 - mfa.gov.cn",
+                "title": "4 家大牌献上 2027 早春大秀，释放出“同质化”的危险信号",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-05-26",
+                "url": "https://www.toodaylab.com/84056"
+            },
+            {
+                "title": "中华人民共和国和巴基斯坦伊斯兰共和国联合声明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CTHU2R0RnNl96ZktVYl82Q2ZMYlpDRmpaXzhSM2h4VW9RLXNnWHlqMGl3bUNwMVp4NFpOWTdGQ0FvTDN1NEpOQ3JMR3pqUndsMTdiRm4tTzQyQ3NJMHBfd3lKaXZrdnkxbGlJ?oc=5"
+                "date": "2026-05-26",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SG5DSjliczZjRTBmMUdTbWRmN1lRQ25vakF1dVR0SVdEeHpMWEV5a1BjSEFLX01uVTVCUWY2R0ZoOTJVSFJPa3J1dldMb2x3czk4VF93cGdyQ21raTh2NXBYQWF4RXVYS0VB?oc=5"
+            },
+            {
+                "title": "2026年5月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-26",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50WHRzTGkxUjJfcWhpQVFiSURFY2Z2ZGtSeElLMzJjeTVMZGV1eHN2NUt1em9UUEVBOW8wc2huRzVnUGVOOHNXMklmZllIckpTNVF2ZG54Z1FObWt3dXlELVU1OGxuQ3ZZZEplWE5VaEZGcmlYN1E?oc=5"
+            },
+            {
+                "title": "毛宁：维护联合国、激活联合国、壮大联合国 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3hwcXo5UlhBcG0yaDhQVV9PdnFjVnZyTy0wWkdtSUdIVWZmcFllaHdFZ2hyZk83ZHd6SG14aFNFVjIwOFpkWmhzUmpROHp1ODd1UUtuUWg0UGlUXy1UMXFDVHFHT1ZLRGwzNFE5aDN5WjlTWFBnWFkzSTBsVERlWWlFMjcySHlZaGM5dXRPQ0s?oc=5"
+            },
+            {
+                "title": "外交部介绍王毅主持联合国安理会高级别会议情况 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44N0ljUHdkWVIwSVJnTFhQSmRsa1hJekZ3TURUOUdRQ3N5UDZDcHdfX1FrZWhmNEVOdExycnJ6V2xRTmxVVUh5XzBn?oc=5"
             },
             {
                 "title": "第七届军事大数据论坛期间有关专家答记者问 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzcmFwYmJFTVMwOGtyMUxTS0JQeEh4aWlRVmRWTGQ2ZG94TXUwZnR1bk5heFdSZE5rbU1BX3VGRlRWNC1TZWlEbHBwbl9weFJMVkE?oc=5"
-            },
-            {
-                "title": "从训练场到战场，他们给战术训练插上“科技翅膀” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdFU5UTJHb3I2aktTVWZqZi11M1pKRU9rbDM0TUtQT1FGZVhkQ1dQd05QWks5aVdVblBRNk01aTJsYkNLUzNMckZUR3lUYVB5Ync?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-27T09:39:35.693610+00:00"
+    "last_updated": "2026-05-27T15:33:27.938192+00:00"
 }
