@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "中国必然崩溃的深层次内在逻辑(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-27",
+                "url": "https://www.secretchina.com/news/gb/2026/05/28/1099671.html"
+            },
+            {
+                "title": "调查称多数美国民众反对数字价签与“监控定价” 担忧其推高食品价格",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563824.htm"
+            },
+            {
                 "title": "彭博：字节跳动拟豪掷700亿美元 加码AI数据中心竞赛",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-27",
@@ -28,21 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-27",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1563792.htm"
-            },
-            {
-                "title": "【IT之家实拍】雷鸟 GT Max 智能眼镜图赏：突破光学痛点，把 267 吋巨幕戴在头上",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-27",
-                "url": "https://www.ithome.com/0/956/208.htm"
-            },
-            {
-                "title": "蔚来 ES9 旗舰 SUV 正式上市：整车购买 49.8 万-62.8 万起，租电 39 万-52 万元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-27",
-                "url": "https://www.ithome.com/0/956/205.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国250周年 华府国殇日盛大游行(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-27",
+                "url": "https://www.secretchina.com/news/gb/2026/05/28/1099677.html"
+            },
             {
                 "title": "伊朗革命卫队：与美再爆全面战争可能性低(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,46 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1563742.htm"
             },
             {
-                "title": "中国AI闯入全球编程前二 前面只剩Claude",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563734.htm"
-            },
-            {
                 "title": "王毅会见联合国秘书长古特雷斯 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-27",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tS3dCT2YxbXJtMC11cUJsMUJieVdMemhFZldxOF9rQUhJaF9OQjB3aE1PRmpkYlFsMFRydG91UHRteHhRbmg4SkRuOUEzREcybVJtdF8wYkFsUy00akNNazdtbHZtcmplR0ltdjlR?oc=5"
             },
             {
+                "title": "王毅同美国各界人士座谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94U3l2MFJPU1ZYbkMtUzFURllNX1RfeFZ2ZXh0TzEtOWtsSjZlSFRRNktWU2JBbkpMUUllOWtmdkFnUHYxdklwLWRWeTV1NVdUQ2Vyc3RYUUthZEVkRmZoOXNFLXpXOWc4aTViRHBR?oc=5"
+            },
+            {
                 "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-27",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtUDcxSWxHOTdqbXVtRktRN292QUlCMl9qem9NMHM2NVVEaFVkZFV4UXdWbEphbmJtZTNpRDE4NWhfUDRLTmNTMDVmdTBMU0lSSk44TmFFeHQ4aFRndkM4c0podFg3QQ?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "习近平同苏里南总统西蒙斯就中苏建交50周年互致贺电 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wSEJ4eV9WMmpBUU12Z0c0b3kzYkg1dVk5aUV5VFJCMWRXS3o0UkRhQVp6Z0RuVVc3MnB2VW9CVUEzaFdMbllNenNscGc5VUp4VEE?oc=5"
-            },
-            {
-                "title": "王沪宁会见英国跨党派议员代表团 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRVczS2xlRkhlblVQZEZEQXhaYW0td3BIYUJFeWpJN0llVW5ncEFHRVNmaWZSc0xHc3ktcHZwSWY5ekJaUWswWVFCeWdxMUh5NHc?oc=5"
-            },
-            {
-                "title": "多国举行“汉语桥”比赛 “中文热”持续升温 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPbjRXLWFPZUJpMERoU21Vcm8zMWlEVWxKbldrcmxjMEROSVg2eW1FOG03UHdlVDVYUTc3TDNlNHNpZ2JIUDJId2RRYkNBbXZOVXc?oc=5"
             }
         ],
         "pol": [
@@ -148,37 +130,19 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tS3dCT2YxbXJtMC11cUJsMUJieVdMemhFZldxOF9rQUhJaF9OQjB3aE1PRmpkYlFsMFRydG91UHRteHhRbmg4SkRuOUEzREcybVJtdF8wYkFsUy00akNNazdtbHZtcmplR0ltdjlR?oc=5"
             },
             {
+                "title": "王毅同美国各界人士座谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94U3l2MFJPU1ZYbkMtUzFURllNX1RfeFZ2ZXh0TzEtOWtsSjZlSFRRNktWU2JBbkpMUUllOWtmdkFnUHYxdklwLWRWeTV1NVdUQ2Vyc3RYUUthZEVkRmZoOXNFLXpXOWc4aTViRHBR?oc=5"
+            },
+            {
                 "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-27",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtUDcxSWxHOTdqbXVtRktRN292QUlCMl9qem9NMHM2NVVEaFVkZFV4UXdWbEphbmJtZTNpRDE4NWhfUDRLTmNTMDVmdTBMU0lSSk44TmFFeHQ4aFRndkM4c0podFg3QQ?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "习近平同苏里南总统西蒙斯就中苏建交50周年互致贺电 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wSEJ4eV9WMmpBUU12Z0c0b3kzYkg1dVk5aUV5VFJCMWRXS3o0UkRhQVp6Z0RuVVc3MnB2VW9CVUEzaFdMbllNenNscGc5VUp4VEE?oc=5"
-            },
-            {
-                "title": "王沪宁会见英国跨党派议员代表团 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRRVczS2xlRkhlblVQZEZEQXhaYW0td3BIYUJFeWpJN0llVW5ncEFHRVNmaWZSc0xHc3ktcHZwSWY5ekJaUWswWVFCeWdxMUh5NHc?oc=5"
-            },
-            {
-                "title": "多国举行“汉语桥”比赛 “中文热”持续升温 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPbjRXLWFPZUJpMERoU21Vcm8zMWlEVWxKbldrcmxjMEROSVg2eW1FOG03UHdlVDVYUTc3TDNlNHNpZ2JIUDJId2RRYkNBbXZOVXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-28T15:44:10.276851+00:00"
+    "last_updated": "2026-05-28T20:16:48.064019+00:00"
 }
