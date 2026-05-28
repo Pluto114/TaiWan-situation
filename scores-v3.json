@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "安全可靠等级 I 级：华为昇腾 310 / 910 人工智能训练推理芯片通过中国信息安全测评中心认证",
+                "title": "【IT之家开箱】荣耀 600 Pro「青苹果」图赏：手握“青苹果”，清爽又治愈",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-27",
-                "url": "https://www.ithome.com/0/955/751.htm"
+                "url": "https://www.ithome.com/0/956/155.htm"
             },
             {
-                "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
-                "source": "NewsAPI / 36kr.com",
+                "title": "19.48 万元起，极狐品牌旗下首款 MPV 车型问道 V9 上市",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-27",
-                "url": "https://36kr.com/newsflashes/3826943472947847"
+                "url": "https://www.ithome.com/0/956/121.htm"
             },
             {
-                "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
-                "source": "NewsAPI / 36kr.com",
+                "title": "华为郑俊谈中美 AI 竞争：模型整体水平差距仅 2.7%，今年 2 月以来中国模型的调用量持续碾压美国",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826354349412992"
+                "url": "https://www.ithome.com/0/956/104.htm"
             },
             {
-                "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
-                "source": "NewsAPI / 36kr.com",
+                "title": "长鑫科技科创板 IPO 获上市委会议通过",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826390617870984"
+                "url": "https://www.ithome.com/0/956/101.htm"
             },
             {
-                "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
-                "source": "NewsAPI / 36kr.com",
+                "title": "麒麟9050 Pro流片完成 将在华为Mate 90首发",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826385821192841"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563784.htm"
             }
         ],
         "mil": [
+            {
+                "title": "19.48 万元起，极狐品牌旗下首款 MPV 车型问道 V9 上市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-27",
+                "url": "https://www.ithome.com/0/956/121.htm"
+            },
+            {
+                "title": "小米汽车又亏了，雷军慌不慌",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563742.htm"
+            },
+            {
+                "title": "中国AI闯入全球编程前二 前面只剩Claude",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563734.htm"
+            },
+            {
+                "title": "战争中的“天价Wi-Fi”：SpaceX要求五角大楼涨价五倍 马斯克发文称报道“虚假”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563722.htm"
+            },
             {
                 "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
                 "source": "NewsAPI / 36kr.com",
@@ -50,46 +74,22 @@
                 "url": "https://36kr.com/p/3826932509364869"
             },
             {
-                "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826390617870984"
-            },
-            {
-                "title": "《玩具总动员 5》终极预告发布：巴斯光年组建反派军团，6 月 19 日中美同步上映",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-27",
-                "url": "https://www.ithome.com/0/955/656.htm"
-            },
-            {
-                "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826779946930822"
-            },
-            {
-                "title": "IT早报 0527：小米 Q1 营收 991 亿元，经调净利 61 亿元；美光科技总市值突破 1 万亿美元；小米 MiMo-V2.5 系列 API 永久降价；尊界 V800 实车上路...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-26",
-                "url": "https://www.ithome.com/0/955/644.htm"
-            },
-            {
-                "title": "中华人民共和国和巴基斯坦伊斯兰共和国联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SG5DSjliczZjRTBmMUdTbWRmN1lRQ25vakF1dVR0SVdEeHpMWEV5a1BjSEFLX01uVTVCUWY2R0ZoOTJVSFJPa3J1dldMb2x3czk4VF93cGdyQ21raTh2NXBYQWF4RXVYS0VB?oc=5"
-            },
-            {
-                "title": "2026年5月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50WHRzTGkxUjJfcWhpQVFiSURFY2Z2ZGtSeElLMzJjeTVMZGV1eHN2NUt1em9UUEVBOW8wc2huRzVnUGVOOHNXMklmZllIckpTNVF2ZG54Z1FObWt3dXlELVU1OGxuQ3ZZZEplWE5VaEZGcmlYN1E?oc=5"
-            },
-            {
-                "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 国防部网",
+                "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-27",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtUDcxSWxHOTdqbXVtRktRN292QUlCMl9qem9NMHM2NVVEaFVkZFV4UXdWbEphbmJtZTNpRDE4NWhfUDRLTmNTMDVmdTBMU0lSSk44TmFFeHQ4aFRndkM4c0podFg3QQ?oc=5"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "毛宁：维护联合国、激活联合国、壮大联合国 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3hwcXo5UlhBcG0yaDhQVV9PdnFjVnZyTy0wWkdtSUdIVWZmcFllaHdFZ2hyZk83ZHd6SG14aFNFVjIwOFpkWmhzUmpROHp1ODd1UUtuUWg0UGlUXy1UMXFDVHFHT1ZLRGwzNFE5aDN5WjlTWFBnWFkzSTBsVERlWWlFMjcySHlZaGM5dXRPQ0s?oc=5"
             },
             {
                 "title": "多国举行“汉语桥”比赛 “中文热”持续升温 - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-27",
-                "url": "https://36kr.com/newsflashes/3826943472947847"
-            },
-            {
-                "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826354349412992"
-            },
-            {
-                "title": "灵感源自特朗普 T1 手机：Caviar 推出苹果 iPhone 17 Pro Max“T-Great”限量版，价值 10900 美元",
+                "title": "Waymo 自动驾驶汽车半路“撂挑子”，客服建议乘客改打 Uber 或 Lyft",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-27",
-                "url": "https://www.ithome.com/0/955/662.htm"
+                "url": "https://www.ithome.com/0/956/133.htm"
             },
             {
-                "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+                "title": "19.48 万元起，极狐品牌旗下首款 MPV 车型问道 V9 上市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-27",
+                "url": "https://www.ithome.com/0/956/121.htm"
+            },
+            {
+                "title": "前4个月我国交通出行人数为232.1亿人次",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826390617870984"
+                "url": "https://36kr.com/newsflashes/3827264290869891"
             },
             {
-                "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美记者被控充当中共代理人 疑撰写呈阅习近平报告(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-27",
-                "url": "https://36kr.com/p/3826385821192841"
+                "url": "https://www.secretchina.com/news/gb/2026/05/27/1099643.html"
             },
             {
-                "title": "中华人民共和国和巴基斯坦伊斯兰共和国联合声明 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SG5DSjliczZjRTBmMUdTbWRmN1lRQ25vakF1dVR0SVdEeHpMWEV5a1BjSEFLX01uVTVCUWY2R0ZoOTJVSFJPa3J1dldMb2x3czk4VF93cGdyQ21raTh2NXBYQWF4RXVYS0VB?oc=5"
+                "title": "DuckDuckGo安装量飙升30% 用户拒绝被“强喂”Google AI搜索",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563760.htm"
             },
             {
-                "title": "2026年5月26日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50WHRzTGkxUjJfcWhpQVFiSURFY2Z2ZGtSeElLMzJjeTVMZGV1eHN2NUt1em9UUEVBOW8wc2huRzVnUGVOOHNXMklmZllIckpTNVF2ZG54Z1FObWt3dXlELVU1OGxuQ3ZZZEplWE5VaEZGcmlYN1E?oc=5"
-            },
-            {
-                "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 国防部网",
+                "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-27",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtUDcxSWxHOTdqbXVtRktRN292QUlCMl9qem9NMHM2NVVEaFVkZFV4UXdWbEphbmJtZTNpRDE4NWhfUDRLTmNTMDVmdTBMU0lSSk44TmFFeHQ4aFRndkM4c0podFg3QQ?oc=5"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "毛宁：维护联合国、激活联合国、壮大联合国 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-27",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3hwcXo5UlhBcG0yaDhQVV9PdnFjVnZyTy0wWkdtSUdIVWZmcFllaHdFZ2hyZk83ZHd6SG14aFNFVjIwOFpkWmhzUmpROHp1ODd1UUtuUWg0UGlUXy1UMXFDVHFHT1ZLRGwzNFE5aDN5WjlTWFBnWFkzSTBsVERlWWlFMjcySHlZaGM5dXRPQ0s?oc=5"
             },
             {
                 "title": "多国举行“汉语桥”比赛 “中文热”持续升温 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-28T02:50:59.050623+00:00"
+    "last_updated": "2026-05-28T09:56:24.362604+00:00"
 }
