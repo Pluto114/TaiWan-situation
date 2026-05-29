@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "德语媒体：经济部长赖歇访华的平衡术",
-                "source": "NewsAPI / DW (English)",
+                "title": "施压再升级 美财长：将切断伊朗航空通道(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-28",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%BB%8F%E6%B5%8E%E9%83%A8%E9%95%BF%E8%B5%96%E6%AD%87%E8%AE%BF%E5%8D%8E%E7%9A%84%E5%B9%B3%E8%A1%A1%E6%9C%AF/a-77333607"
+                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099732.html"
             },
             {
-                "title": "小米 17T/Pro 海外发布：7000mAh 电池“国际版机型迄今最大”，749 欧元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-28",
-                "url": "https://www.ithome.com/0/956/788.htm"
-            },
-            {
-                "title": "高通骁龙 C 处理器发布，瞄准 300 美元入门级 Windows 笔记本市场",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-28",
-                "url": "https://www.ithome.com/0/956/785.htm"
-            },
-            {
-                "title": "五角大楼证实美军在战区遭商业定位数据“锁定”",
+                "title": "IBM拟未来五年投资逾100亿美元 押注2029年前建成大规模量子计算机",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563922.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563950.htm"
             },
             {
-                "title": "Mistral AI CEO：拟自研芯片 同步加码基础设施建设",
+                "title": "比亚迪发布中国首款4nm智驾芯片璇玑A3 单车三颗算力超2100TOPS",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563918.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563932.htm"
+            },
+            {
+                "title": "IBM与红帽宣布投入50亿美元 推出人工智能驱动的开源安全计划",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563928.htm"
+            },
+            {
+                "title": "苹果加码推进端侧人工智能 发力脱离云端运行模式",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563924.htm"
             }
         ],
         "mil": [
             {
+                "title": "AIT庆祝美建国250周年，台湾总统赖清德吁美台加强合作深化关系",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-05-28",
+                "url": "https://www.voachinese.com/a/taiwan-president-calls-for-enhanced-cooperation-with-the-u-s-as-ait-celebrates-freedom-250-20260528/8154946.html"
+            },
+            {
+                "title": "美军表示美国和科威特部队拦截了一系列伊朗导弹和无人机，称其“严重违反”已持续50天的停火",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-05-28",
+                "url": "https://www.voachinese.com/a/us-military-says-us-kuwaiti-forces-intercepted-series-of-iranian-missile-and-drone-attacks-20260528/8154854.html"
+            },
+            {
+                "title": "腾讯混元发布 Hy-Memory：打造记忆力超强的 Agent 第二大脑",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-28",
+                "url": "https://www.ithome.com/0/956/816.htm"
+            },
+            {
                 "title": "国际研究警告：台海战争恐导致美中核升级(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-28",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1563922.htm"
-            },
-            {
-                "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-28",
-                "url": "https://36kr.com/p/3828915666441090"
-            },
-            {
-                "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-28",
-                "url": "https://36kr.com/p/3828851140350592"
-            },
-            {
-                "title": "特朗普政府正与无人机企业密集磋商融资协议 美军拟巨资扩产重塑供应链",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563862.htm"
             },
             {
                 "title": "王毅同美国各界人士座谈 - mfa.gov.cn",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeHdoS2xYLXZfSVFtUXZJeVhGTE5pcDhMVFBpSFlqR0JTdWtiUlJ6Y3B0ZmtaMUMwQ3MwaEZFTkdsYWQtcW5EMWRPblZrT0tuUlJxa1J6ek85X2xPTUNqQmtGZl9IeGFXQy1xRERJaXpPcWM?oc=5"
             },
             {
-                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "title": "解放战争时期的儿童团——烽火中那抹少年红 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQkZvZHFxRGdZQ0J0QzBDQzFVc0pqd3NqZDNlOUFXbjRvZGhLam9LLXpWZ3U2RlZEc1liY1NqODd4WXQ1cDd4UHNrR292T0paOUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "从“球印争议”到拒绝握手 法网赛场上究竟发生了什么？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-05-28",
-                "url": "https://www.dw.com/zh/%E4%BB%8E%E7%90%83%E5%8D%B0%E4%BA%89%E8%AE%AE%E5%88%B0%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B-%E6%B3%95%E7%BD%91%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%A9%B6%E7%AB%9F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/a-77333403"
-            },
-            {
-                "title": "从“球印争议”到拒绝握手 法网赛场上究竟发生了什么？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-05-28",
-                "url": "https://www.dw.com/zh/%E4%BB%8E%E7%90%83%E5%8D%B0%E4%BA%89%E8%AE%AE%E5%88%B0%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B-%E6%B3%95%E7%BD%91%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%A9%B6%E7%AB%9F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/a-77333403"
-            },
-            {
-                "title": "国际研究警告：台海战争恐导致美中核升级(图)",
+                "title": "美伊传达成60天停火框架 川普尚未最终拍板(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-28",
-                "url": "https://www.secretchina.com/news/gb/2026/05/28/1099716.html"
+                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099729.html"
             },
             {
-                "title": "伊朗坚持核浓缩红线 川普：美国绝不会退让！(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-28",
-                "url": "https://www.secretchina.com/news/gb/2026/05/28/1099714.html"
-            },
-            {
-                "title": "五角大楼证实美军在战区遭商业定位数据“锁定”",
+                "title": "IBM拟未来五年投资逾100亿美元 押注2029年前建成大规模量子计算机",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563922.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563950.htm"
+            },
+            {
+                "title": "习近平为何执着于台湾问题？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-28",
+                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099725.html"
+            },
+            {
+                "title": "IBM与红帽宣布投入50亿美元 推出人工智能驱动的开源安全计划",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563928.htm"
+            },
+            {
+                "title": "苹果加码推进端侧人工智能 发力脱离云端运行模式",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563924.htm"
             },
             {
                 "title": "王毅同美国各界人士座谈 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeHdoS2xYLXZfSVFtUXZJeVhGTE5pcDhMVFBpSFlqR0JTdWtiUlJ6Y3B0ZmtaMUMwQ3MwaEZFTkdsYWQtcW5EMWRPblZrT0tuUlJxa1J6ek85X2xPTUNqQmtGZl9IeGFXQy1xRERJaXpPcWM?oc=5"
             },
             {
-                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "title": "解放战争时期的儿童团——烽火中那抹少年红 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQkZvZHFxRGdZQ0J0QzBDQzFVc0pqd3NqZDNlOUFXbjRvZGhLam9LLXpWZ3U2RlZEc1liY1NqODd4WXQ1cDd4UHNrR292T0paOUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-29T14:55:38.538075+00:00"
+    "last_updated": "2026-05-29T20:20:42.761443+00:00"
 }
