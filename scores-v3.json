@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "理想汽车 2026 财年第一财季归母亏损 22.90 亿元，同比由盈转亏",
+                "title": "德语媒体：经济部长赖歇访华的平衡术",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-28",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%BB%8F%E6%B5%8E%E9%83%A8%E9%95%BF%E8%B5%96%E6%AD%87%E8%AE%BF%E5%8D%8E%E7%9A%84%E5%B9%B3%E8%A1%A1%E6%9C%AF/a-77333607"
+            },
+            {
+                "title": "小米 17T/Pro 海外发布：7000mAh 电池“国际版机型迄今最大”，749 欧元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-28",
-                "url": "https://www.ithome.com/0/956/661.htm"
+                "url": "https://www.ithome.com/0/956/788.htm"
             },
             {
-                "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-28",
-                "url": "https://36kr.com/p/3820602297208966"
-            },
-            {
-                "title": "中保研 2025 年测评车型第四次结果发布：问界 M8、尚界 H5、方程豹钛 7，两款全优",
+                "title": "高通骁龙 C 处理器发布，瞄准 300 美元入门级 Windows 笔记本市场",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-28",
-                "url": "https://www.ithome.com/0/956/625.htm"
+                "url": "https://www.ithome.com/0/956/785.htm"
             },
             {
-                "title": "Vertu推出售价6880美元起的AI折叠屏手机 瞄准企业高管市场",
+                "title": "五角大楼证实美军在战区遭商业定位数据“锁定”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563894.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563922.htm"
             },
             {
-                "title": "超越AMD英伟达和英特尔 腾讯自研沧海芯片夺冠",
+                "title": "Mistral AI CEO：拟自研芯片 同步加码基础设施建设",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563892.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563918.htm"
             }
         ],
         "mil": [
             {
+                "title": "国际研究警告：台海战争恐导致美中核升级(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-28",
+                "url": "https://www.secretchina.com/news/gb/2026/05/28/1099716.html"
+            },
+            {
+                "title": "五角大楼证实美军在战区遭商业定位数据“锁定”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563922.htm"
+            },
+            {
+                "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-28",
+                "url": "https://36kr.com/p/3828915666441090"
+            },
+            {
+                "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-28",
+                "url": "https://36kr.com/p/3828851140350592"
+            },
+            {
                 "title": "特朗普政府正与无人机企业密集磋商融资协议 美军拟巨资扩产重塑供应链",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1563862.htm"
-            },
-            {
-                "title": "半日主力资金加仓电子股，抛售非银金融股",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-28",
-                "url": "https://36kr.com/newsflashes/3828414945038985"
-            },
-            {
-                "title": "罕见！挑战 #中共 领海领空！这国硬闯",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-05-28",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260528/2322088.html"
-            },
-            {
-                "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-28",
-                "url": "https://36kr.com/p/3828191630348934"
-            },
-            {
-                "title": "IT早报 0528：新一代问界 M9 与蔚来 ES9 同日发布；曝小红书拿下 2026 世界杯独家转播权；SK 海力士市值突破 1 万亿美元；阿里发全员信公布薪酬变革...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-27",
-                "url": "https://www.ithome.com/0/956/246.htm"
-            },
-            {
-                "title": "王毅会见古巴外长罗德里格斯 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnUEN1Tk9udTFpR2JGcktxM18zWnZhZUt4RjBobUxycVZsMmJqVkVhQW9OeUUzMzBhalRyalBuWXV2WC0xTWl0Q1QtRktjNXJ3b19DTy1lYjdmdmU1UUJ4ODJfdGlfMEl6TmZISkl3?oc=5"
             },
             {
                 "title": "王毅同美国各界人士座谈 - mfa.gov.cn",
@@ -86,10 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94U3l2MFJPU1ZYbkMtUzFURllNX1RfeFZ2ZXh0TzEtOWtsSjZlSFRRNktWU2JBbkpMUUllOWtmdkFnUHYxdklwLWRWeTV1NVdUQ2Vyc3RYUUthZEVkRmZoOXNFLXpXOWc4aTViRHBR?oc=5"
             },
             {
-                "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 中华人民共和国国防部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-27",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtUDcxSWxHOTdqbXVtRktRN292QUlCMl9qem9NMHM2NVVEaFVkZFV4UXdWbEphbmJtZTNpRDE4NWhfUDRLTmNTMDVmdTBMU0lSSk44TmFFeHQ4aFRndkM4c0podFg3QQ?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "2026年5月28日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRWVUOWczb1A0UmxoVXoyUi1PZU9ZTmFaenl6M1NNdk9oTThqcVoxZTNla09uUURZMHNLc0ZDLUhfeDNCcmZLQWRKc2Z0VVVZMU56RzNGM0xjMnFwdnpMeFNwTkFRaWhiakVOWG9aM2lJbmNZX3c?oc=5"
             },
             {
                 "title": "解放军报评论员：整改整治必须下真功、见实效 - 中国军网",
@@ -98,54 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01RENVaEhFQ3lYdE9Gclo2MkU1TWljZGs4a2hHMFNrbXhrUnlDYm94Q2ttQ1htLThfT1FpaEFHMzZSOF9YUVgxYUFTVFg2NlllalE?oc=5"
             },
             {
-                "title": "李强在浙江舟山宁波调研时强调加快建设大宗商品资源配置枢纽为统筹发展和安全提供可靠保障 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUy1CRGtBaFhTOWFRRkZVVEJibVFjVGdqTjctVUgzY0EzeWZaZmh3UmItQzN3TjR1eEhpS1Rmckd2T085T3plcGV4ZFlrTzFkUWc?oc=5"
-            },
-            {
-                "title": "习近平同苏里南总统西蒙斯就中苏建交50周年互致贺电 - 中国军网",
+                "title": "Armored vehicles fire at targets - China Military",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wSEJ4eV9WMmpBUU12Z0c0b3kzYkg1dVk5aUV5VFJCMWRXS3o0UkRhQVp6Z0RuVVc3MnB2VW9CVUEzaFdMbllNenNscGc5VUp4VEE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeHdoS2xYLXZfSVFtUXZJeVhGTE5pcDhMVFBpSFlqR0JTdWtiUlJ6Y3B0ZmtaMUMwQ3MwaEZFTkdsYWQtcW5EMWRPblZrT0tuUlJxa1J6ek85X2xPTUNqQmtGZl9IeGFXQy1xRERJaXpPcWM?oc=5"
+            },
+            {
+                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "袁立｜我还要继续在中国大地上演一台大戏",
-                "source": "NewsAPI / Chinadigitaltimes.net",
+                "title": "从“球印争议”到拒绝握手 法网赛场上究竟发生了什么？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-05-28",
-                "url": "https://chinadigitaltimes.net/chinese/727582.html"
+                "url": "https://www.dw.com/zh/%E4%BB%8E%E7%90%83%E5%8D%B0%E4%BA%89%E8%AE%AE%E5%88%B0%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B-%E6%B3%95%E7%BD%91%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%A9%B6%E7%AB%9F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/a-77333403"
             },
             {
-                "title": "研究团队量化了2026年3月伊朗德黑兰炼油厂火灾后的二氧化硫排放量",
+                "title": "从“球印争议”到拒绝握手 法网赛场上究竟发生了什么？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-28",
+                "url": "https://www.dw.com/zh/%E4%BB%8E%E7%90%83%E5%8D%B0%E4%BA%89%E8%AE%AE%E5%88%B0%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B-%E6%B3%95%E7%BD%91%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%A9%B6%E7%AB%9F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/a-77333403"
+            },
+            {
+                "title": "国际研究警告：台海战争恐导致美中核升级(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-28",
+                "url": "https://www.secretchina.com/news/gb/2026/05/28/1099716.html"
+            },
+            {
+                "title": "伊朗坚持核浓缩红线 川普：美国绝不会退让！(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-28",
+                "url": "https://www.secretchina.com/news/gb/2026/05/28/1099714.html"
+            },
+            {
+                "title": "五角大楼证实美军在战区遭商业定位数据“锁定”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563906.htm"
-            },
-            {
-                "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-28",
-                "url": "https://36kr.com/p/3820602297208966"
-            },
-            {
-                "title": "国家大基金领投DeepSeek首轮融资 投前估值450亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563878.htm"
-            },
-            {
-                "title": "特朗普政府正与无人机企业密集磋商融资协议 美军拟巨资扩产重塑供应链",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1563862.htm"
-            },
-            {
-                "title": "王毅会见古巴外长罗德里格斯 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnUEN1Tk9udTFpR2JGcktxM18zWnZhZUt4RjBobUxycVZsMmJqVkVhQW9OeUUzMzBhalRyalBuWXV2WC0xTWl0Q1QtRktjNXJ3b19DTy1lYjdmdmU1UUJ4ODJfdGlfMEl6TmZISkl3?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1563922.htm"
             },
             {
                 "title": "王毅同美国各界人士座谈 - mfa.gov.cn",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94U3l2MFJPU1ZYbkMtUzFURllNX1RfeFZ2ZXh0TzEtOWtsSjZlSFRRNktWU2JBbkpMUUllOWtmdkFnUHYxdklwLWRWeTV1NVdUQ2Vyc3RYUUthZEVkRmZoOXNFLXpXOWc4aTViRHBR?oc=5"
             },
             {
-                "title": "南部战区新闻发言人翟士臣就荷兰军舰侵权行为发表谈话 - 中华人民共和国国防部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-27",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtUDcxSWxHOTdqbXVtRktRN292QUlCMl9qem9NMHM2NVVEaFVkZFV4UXdWbEphbmJtZTNpRDE4NWhfUDRLTmNTMDVmdTBMU0lSSk44TmFFeHQ4aFRndkM4c0podFg3QQ?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "2026年5月28日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRWVUOWczb1A0UmxoVXoyUi1PZU9ZTmFaenl6M1NNdk9oTThqcVoxZTNla09uUURZMHNLc0ZDLUhfeDNCcmZLQWRKc2Z0VVVZMU56RzNGM0xjMnFwdnpMeFNwTkFRaWhiakVOWG9aM2lJbmNZX3c?oc=5"
             },
             {
                 "title": "解放军报评论员：整改整治必须下真功、见实效 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01RENVaEhFQ3lYdE9Gclo2MkU1TWljZGs4a2hHMFNrbXhrUnlDYm94Q2ttQ1htLThfT1FpaEFHMzZSOF9YUVgxYUFTVFg2NlllalE?oc=5"
             },
             {
-                "title": "李强在浙江舟山宁波调研时强调加快建设大宗商品资源配置枢纽为统筹发展和安全提供可靠保障 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUy1CRGtBaFhTOWFRRkZVVEJibVFjVGdqTjctVUgzY0EzeWZaZmh3UmItQzN3TjR1eEhpS1Rmckd2T085T3plcGV4ZFlrTzFkUWc?oc=5"
-            },
-            {
-                "title": "习近平同苏里南总统西蒙斯就中苏建交50周年互致贺电 - 中国军网",
+                "title": "Armored vehicles fire at targets - China Military",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wSEJ4eV9WMmpBUU12Z0c0b3kzYkg1dVk5aUV5VFJCMWRXS3o0UkRhQVp6Z0RuVVc3MnB2VW9CVUEzaFdMbllNenNscGc5VUp4VEE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeHdoS2xYLXZfSVFtUXZJeVhGTE5pcDhMVFBpSFlqR0JTdWtiUlJ6Y3B0ZmtaMUMwQ3MwaEZFTkdsYWQtcW5EMWRPblZrT0tuUlJxa1J6ek85X2xPTUNqQmtGZl9IeGFXQy1xRERJaXpPcWM?oc=5"
+            },
+            {
+                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-29T09:48:59.537821+00:00"
+    "last_updated": "2026-05-29T14:55:38.538075+00:00"
 }
