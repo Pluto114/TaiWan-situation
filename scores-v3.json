@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国广电等成立低空经济新公司，注册资本3000万",
-                "source": "NewsAPI / 36kr.com",
+                "title": "当一家车企开始为智驾兜底，它就不是单纯的车企了",
+                "source": "NewsAPI / Ifanr.com",
                 "date": "2026-05-29",
-                "url": "https://36kr.com/newsflashes/3830103519241857"
+                "url": "https://www.ifanr.com/1667523"
             },
             {
-                "title": "21.99 万元起华为乾崑｜启境 GT7 车型开启预售：首发 τ 定律底盘赤兔平台，首批搭载 ADS 5 智驾",
-                "source": "NewsAPI / Ithome.com",
+                "title": "印度迎极端高温 自来水温近51度",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-29",
-                "url": "https://www.ithome.com/0/957/225.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564058.htm"
             },
             {
-                "title": "戴尔确认将推出 NVIDIA（英伟达）\"N1X\" 芯片版 XPS",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德语媒体：欧洲到底要不要反制中国的贸易政策？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-05-29",
-                "url": "https://www.ithome.com/0/957/203.htm"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%AC%A7%E6%B4%B2%E5%88%B0%E5%BA%95%E8%A6%81%E4%B8%8D%E8%A6%81%E5%8F%8D%E5%88%B6%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B4%B8%E6%98%93%E6%94%BF%E7%AD%96/a-77346249"
             },
             {
-                "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-29",
-                "url": "https://36kr.com/p/3830038913558147"
-            },
-            {
-                "title": "抹红芯片“中国制” 雷虎提告红煤《钜闻天下》求偿5000万(图)",
+                "title": "台湾是全球民主韧性、供应链安全不可或缺关键力量(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-29",
-                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099744.html"
+                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099755.html"
+            },
+            {
+                "title": "日均15单，营收200元：一个三线城市网约车司机在算法里抠订单",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564052.htm"
             }
         ],
         "mil": [
@@ -80,16 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
             },
             {
-                "title": "2026年5月28日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRWVUOWczb1A0UmxoVXoyUi1PZU9ZTmFaenl6M1NNdk9oTThqcVoxZTNla09uUURZMHNLc0ZDLUhfeDNCcmZLQWRKc2Z0VVVZMU56RzNGM0xjMnFwdnpMeFNwTkFRaWhiakVOWG9aM2lJbmNZX3c?oc=5"
-            },
-            {
                 "title": "毛宁：青少年是中美关系的未来和希望 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-29",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2hzcnZRbWFlODNPZHRoOUZVR0RQZ1BpZmZKdXRRRFphYTFuV3dKNXBlZjFKbWV0dlp2d1dIc01RaUVkdjZnM2NteC1aeWVndmpkM1RWcTRfZmJOQ3Rra0tUMUlXcVdDdFpfTHgwLXg0N0NUV1F4VDVfOWFyY0hIRnFxNEdDTUR0c1hHb3NGX1Y?oc=5"
+            },
+            {
+                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xbkdBNVk0Q290Y3ExWFNiVkYyU2kzaWFWWUVZN2NhQlRkbkozWDVkV19KcFBKX1J2ZjlOUUFxNjhHM1RKaERjZE0xM3UxNnlNSDUyd2k4d0NwcHR5TlpvZmZNZG5IMlU4RTM5dG5B?oc=5"
             },
             {
                 "title": "解放军报评论员：整改整治必须下真功、见实效 - 中国军网",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01RENVaEhFQ3lYdE9Gclo2MkU1TWljZGs4a2hHMFNrbXhrUnlDYm94Q2ttQ1htLThfT1FpaEFHMzZSOF9YUVgxYUFTVFg2NlllalE?oc=5"
             },
             {
-                "title": "Armored vehicles fire at targets - China Military",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeHdoS2xYLXZfSVFtUXZJeVhGTE5pcDhMVFBpSFlqR0JTdWtiUlJ6Y3B0ZmtaMUMwQ3MwaEZFTkdsYWQtcW5EMWRPblZrT0tuUlJxa1J6ek85X2xPTUNqQmtGZl9IeGFXQy1xRERJaXpPcWM?oc=5"
-            },
-            {
                 "title": "解放战争时期的儿童团——烽火中那抹少年红 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQkZvZHFxRGdZQ0J0QzBDQzFVc0pqd3NqZDNlOUFXbjRvZGhLam9LLXpWZ3U2RlZEc1liY1NqODd4WXQ1cDd4UHNrR292T0paOUE?oc=5"
+            },
+            {
+                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "21.99 万元起华为乾崑｜启境 GT7 车型开启预售：首发 τ 定律底盘赤兔平台，首批搭载 ADS 5 智驾",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-29",
-                "url": "https://www.ithome.com/0/957/225.htm"
-            },
-            {
-                "title": "南京新街口地块精细化更新日志",
-                "source": "NewsAPI / Openstreetmap.org",
-                "date": "2026-05-29",
-                "url": "https://www.openstreetmap.org/user/michaelIsADullGuy/diary/408799"
-            },
-            {
-                "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-29",
-                "url": "https://36kr.com/p/3830038913558147"
-            },
-            {
-                "title": "我国牵头修订金融“世界语言”，更新应用程序接口（API）等",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-29",
-                "url": "https://www.ithome.com/0/957/118.htm"
-            },
-            {
-                "title": "苹果最新冲突矿产报告与此前指控相矛盾",
+                "title": "印度迎极端高温 自来水温近51度",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-05-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564026.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564058.htm"
+            },
+            {
+                "title": "台湾是全球民主韧性、供应链安全不可或缺关键力量(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-05-29",
+                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099755.html"
+            },
+            {
+                "title": "日均15单，营收200元：一个三线城市网约车司机在算法里抠订单",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564052.htm"
+            },
+            {
+                "title": "赛力斯：正积极布局海外市场，问界坚定高端出海",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-29",
+                "url": "https://www.ithome.com/0/957/309.htm"
+            },
+            {
+                "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-29",
+                "url": "https://36kr.com/p/3830194503526277"
             },
             {
                 "title": "2026年5月29日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
             },
             {
-                "title": "2026年5月28日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRWVUOWczb1A0UmxoVXoyUi1PZU9ZTmFaenl6M1NNdk9oTThqcVoxZTNla09uUURZMHNLc0ZDLUhfeDNCcmZLQWRKc2Z0VVVZMU56RzNGM0xjMnFwdnpMeFNwTkFRaWhiakVOWG9aM2lJbmNZX3c?oc=5"
-            },
-            {
                 "title": "毛宁：青少年是中美关系的未来和希望 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-29",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2hzcnZRbWFlODNPZHRoOUZVR0RQZ1BpZmZKdXRRRFphYTFuV3dKNXBlZjFKbWV0dlp2d1dIc01RaUVkdjZnM2NteC1aeWVndmpkM1RWcTRfZmJOQ3Rra0tUMUlXcVdDdFpfTHgwLXg0N0NUV1F4VDVfOWFyY0hIRnFxNEdDTUR0c1hHb3NGX1Y?oc=5"
+            },
+            {
+                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xbkdBNVk0Q290Y3ExWFNiVkYyU2kzaWFWWUVZN2NhQlRkbkozWDVkV19KcFBKX1J2ZjlOUUFxNjhHM1RKaERjZE0xM3UxNnlNSDUyd2k4d0NwcHR5TlpvZmZNZG5IMlU4RTM5dG5B?oc=5"
             },
             {
                 "title": "解放军报评论员：整改整治必须下真功、见实效 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01RENVaEhFQ3lYdE9Gclo2MkU1TWljZGs4a2hHMFNrbXhrUnlDYm94Q2ttQ1htLThfT1FpaEFHMzZSOF9YUVgxYUFTVFg2NlllalE?oc=5"
             },
             {
-                "title": "Armored vehicles fire at targets - China Military",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeHdoS2xYLXZfSVFtUXZJeVhGTE5pcDhMVFBpSFlqR0JTdWtiUlJ6Y3B0ZmtaMUMwQ3MwaEZFTkdsYWQtcW5EMWRPblZrT0tuUlJxa1J6ek85X2xPTUNqQmtGZl9IeGFXQy1xRERJaXpPcWM?oc=5"
-            },
-            {
                 "title": "解放战争时期的儿童团——烽火中那抹少年红 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQkZvZHFxRGdZQ0J0QzBDQzFVc0pqd3NqZDNlOUFXbjRvZGhLam9LLXpWZ3U2RlZEc1liY1NqODd4WXQ1cDd4UHNrR292T0paOUE?oc=5"
+            },
+            {
+                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-30T08:24:33.822358+00:00"
+    "last_updated": "2026-05-30T13:22:59.221034+00:00"
 }
