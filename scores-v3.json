@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "中国Temu、EUを激怒させてとうとう約370億円の制裁金を食らうｗｗｗｗｗ",
+                "source": "NewsAPI / Doorblog.jp",
+                "date": "2026-05-30",
+                "url": "https://money-life.doorblog.jp/archives/59862262.html"
+            },
+            {
+                "title": "6999 → 4699 元：OPPO Find X8 Ultra 手机京东直降",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-30",
+                "url": "https://www.ithome.com/0/957/665.htm"
+            },
+            {
+                "title": "宝马欧洲工厂首次引入人形机器人：直接适配产线 无需大规模改造",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564138.htm"
+            },
+            {
+                "title": "LG电子纸海报发布：不插电也能亮 32英寸2K屏薄如纸张",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564132.htm"
+            },
+            {
                 "title": "华为上架 MEDELI C25 Mini 音乐键盘：适用于 MatePad Pro Max，“一台平板就是一支乐队”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-30",
                 "url": "https://www.ithome.com/0/957/513.htm"
-            },
-            {
-                "title": "首发 1099 元，中兴星云 PoE 子母路由 1 拖 3 套装今日开售",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/495.htm"
-            },
-            {
-                "title": "蓝色起源火箭爆炸引发美国太空股重挫",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564112.htm"
-            },
-            {
-                "title": "4399 → 2808 元：荣耀 WIN 官方 88VIP 直降，骁龙 8E5 + 10000 mAh+ 内置散热",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/482.htm"
-            },
-            {
-                "title": "火箭爆炸致蓝色起源势头逆转 双重打击或引发重大延期",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564100.htm"
             }
         ],
         "mil": [
+            {
+                "title": "宝马欧洲工厂首次引入人形机器人：直接适配产线 无需大规模改造",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564138.htm"
+            },
             {
                 "title": "火箭爆炸致蓝色起源势头逆转 双重打击或引发重大延期",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,40 +74,34 @@
                 "url": "https://36kr.com/p/3831135917107075"
             },
             {
-                "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-30",
-                "url": "https://36kr.com/p/3831073348855433"
-            },
-            {
                 "title": "加拿大总理卡尼会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-30",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mYktEOFg3TUhmb0tTYWlLdFRJU1NpYW5pdk9jOHJaWVVlR1ItZjczeVRMZnBId000SXhUM2hscWsxLUowaTZSX0N5QzJXaUF6Qm04UHRTOWRJWGpweXFoOWtlMnlmVnh5aWhoZTln?oc=5"
             },
             {
-                "title": "2026年5月29日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅同加拿大外长阿南德会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-29",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc04ybmlOOUpCQTk2RWhxU3Bxd1NOSjM4cXc1RkZqT25oaEx4OWE5ZzYyYTRrcEFhSkNkcFZNdGVOWm5HcUFTMGs2TFcyZTB0WWR0RVczTC0yRUw0T0FhcHhQODlucmxkSjZoYzYzdnlLTUFxWVM2UFIyUmxrMFRBX09PTUhVZw?oc=5"
             },
             {
-                "title": "毛宁：扩大非洲对华出口打开了全新的机遇之窗（2026年5月29日） - mfa.gov.cn",
+                "title": "赵乐际对俄罗斯进行正式友好访问并出席中俄议会合作委员会第十一次会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-29",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3o5UkhXYUozbHlQS1ptNlNtSVhNVUFCS2pzNnFCQXlFTTRmeEE1N29ZOG5SMUJEZ0wzOHBISnBtcXhDOFNtY3otOHZUOXRWY2pLbHFRRmdFbGJXUjRIT1Y4aE9BQ3BmTW1ZbmVrZlFnOEVNaWsxX0tBLU5qdm1SX3RiQXRuTVprQWM3YnBQQlU?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XT0FqWlctSC1Ja3FFVWRtX2ZBdWp1aE93ZkNNeFhtaWlsYmNrNnc0X3U0VnJhUC1LRktRWVJjQlVteFE5UGZDWTFYRmY3Q0hETXJIUnkzcTBFRXA2RGdrUF9ONko3eVlOOTRR?oc=5"
+            },
+            {
+                "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zeG02RFFsY0xvTDdaR3lfQ0lJM09TOWJlR2JLdDI2M3VRR2JYWHU0cWZ3NTZPQndDN0V4WDhCR3ZGQ1RYT0RKWHhFUHhXX1BxdWc?oc=5"
             },
             {
                 "title": "海军“丝路方舟”号医院船起航执行“健康送海疆”任务 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BX2JDYmd1X21RV0pjb3VQT0VpUnA2ekhuWmlqbTI3ZWJYdngxbG9ObEFwWGxMWEtQT3Z4aXRPbXV4QlJQVXg2dVREQkhUcmVGQ3c?oc=5"
-            },
-            {
-                "title": "习近平给中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员的回信 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zYjA3MUlkTW9nSjllclU0eVA5T0I2OTE0VnVnLURqZW90TVgxUUJodHFhMUliWHoxTE42b21SNlR6NnVRY2QtRTdFSTRLQ2llMEE?oc=5"
             },
             {
                 "title": "武警辽宁总队新兵团探索精准施训模式 - 中国军网",
@@ -111,6 +111,18 @@
             }
         ],
         "pol": [
+            {
+                "title": "Meta 通过追踪员工鼠标来训练 AI，或触犯欧盟隐私相关规定",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-30",
+                "url": "https://www.ithome.com/0/957/609.htm"
+            },
+            {
+                "title": "抢攻亚太地区企业级 AI 市场，OpenAI 与日本云服务商 Data Section 达成战略合作",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-30",
+                "url": "https://www.ithome.com/0/957/550.htm"
+            },
             {
                 "title": "蓝色起源火箭爆炸引发美国太空股重挫",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -130,46 +142,34 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1564086.htm"
             },
             {
-                "title": "匈牙利德布勒森电池厂雨水井冒出绿色液体 引发环保风波",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564084.htm"
-            },
-            {
-                "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-30",
-                "url": "https://36kr.com/p/3831348302358408"
-            },
-            {
                 "title": "加拿大总理卡尼会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-05-30",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mYktEOFg3TUhmb0tTYWlLdFRJU1NpYW5pdk9jOHJaWVVlR1ItZjczeVRMZnBId000SXhUM2hscWsxLUowaTZSX0N5QzJXaUF6Qm04UHRTOWRJWGpweXFoOWtlMnlmVnh5aWhoZTln?oc=5"
             },
             {
-                "title": "2026年5月29日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "王毅同加拿大外长阿南德会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-29",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc04ybmlOOUpCQTk2RWhxU3Bxd1NOSjM4cXc1RkZqT25oaEx4OWE5ZzYyYTRrcEFhSkNkcFZNdGVOWm5HcUFTMGs2TFcyZTB0WWR0RVczTC0yRUw0T0FhcHhQODlucmxkSjZoYzYzdnlLTUFxWVM2UFIyUmxrMFRBX09PTUhVZw?oc=5"
             },
             {
-                "title": "毛宁：扩大非洲对华出口打开了全新的机遇之窗（2026年5月29日） - mfa.gov.cn",
+                "title": "赵乐际对俄罗斯进行正式友好访问并出席中俄议会合作委员会第十一次会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-05-29",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3o5UkhXYUozbHlQS1ptNlNtSVhNVUFCS2pzNnFCQXlFTTRmeEE1N29ZOG5SMUJEZ0wzOHBISnBtcXhDOFNtY3otOHZUOXRWY2pLbHFRRmdFbGJXUjRIT1Y4aE9BQ3BmTW1ZbmVrZlFnOEVNaWsxX0tBLU5qdm1SX3RiQXRuTVprQWM3YnBQQlU?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XT0FqWlctSC1Ja3FFVWRtX2ZBdWp1aE93ZkNNeFhtaWlsYmNrNnc0X3U0VnJhUC1LRktRWVJjQlVteFE5UGZDWTFYRmY3Q0hETXJIUnkzcTBFRXA2RGdrUF9ONko3eVlOOTRR?oc=5"
+            },
+            {
+                "title": "我国成功发射卫星互联网技术试验卫星 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zeG02RFFsY0xvTDdaR3lfQ0lJM09TOWJlR2JLdDI2M3VRR2JYWHU0cWZ3NTZPQndDN0V4WDhCR3ZGQ1RYT0RKWHhFUHhXX1BxdWc?oc=5"
             },
             {
                 "title": "海军“丝路方舟”号医院船起航执行“健康送海疆”任务 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BX2JDYmd1X21RV0pjb3VQT0VpUnA2ekhuWmlqbTI3ZWJYdngxbG9ObEFwWGxMWEtQT3Z4aXRPbXV4QlJQVXg2dVREQkhUcmVGQ3c?oc=5"
-            },
-            {
-                "title": "习近平给中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员的回信 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zYjA3MUlkTW9nSjllclU0eVA5T0I2OTE0VnVnLURqZW90TVgxUUJodHFhMUliWHoxTE42b21SNlR6NnVRY2QtRTdFSTRLQ2llMEE?oc=5"
             },
             {
                 "title": "武警辽宁总队新兵团探索精准施训模式 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-05-31T08:41:06.484957+00:00"
+    "last_updated": "2026-05-31T13:39:21.315210+00:00"
 }
