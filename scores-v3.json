@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "iPhone 18 Pro 或因可变光圈镜头成本大增而再涨价",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564070.htm"
+                "title": "#美国 新规突袭 #北京 被逼入死角",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-05-30",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20260530/2322820.html"
             },
             {
-                "title": "连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线",
+                "title": "华硕天选 7 标准版上架：锐龙 7 H 260 配 RTX 5050/5060，16+512GB 版本 7999 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-30",
+                "url": "https://www.ithome.com/0/957/438.htm"
+            },
+            {
+                "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-29",
-                "url": "https://36kr.com/p/3830545234552452"
+                "date": "2026-05-30",
+                "url": "https://36kr.com/p/3831135917107075"
             },
             {
-                "title": "欧盟：对华贸易不可持续，须更多保护关键产业",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-05-29",
-                "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E4%B8%8D%E5%8F%AF%E6%8C%81%E7%BB%AD%E9%A1%BB%E6%9B%B4%E5%A4%9A%E4%BF%9D%E6%8A%A4%E5%85%B3%E9%94%AE%E4%BA%A7%E4%B8%9A/a-77349679"
+                "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-30",
+                "url": "https://36kr.com/p/3831073348855433"
             },
             {
-                "title": "欧盟：对华贸易不可持续，须更多保护关键产业",
-                "source": "NewsAPI / DW (English)",
+                "title": "非 Win12：微软下周将升级 Win11，携手英伟达开启 PC 新时代",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-29",
-                "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E4%B8%8D%E5%8F%AF%E6%8C%81%E7%BB%AD%E9%A1%BB%E6%9B%B4%E5%A4%9A%E4%BF%9D%E6%8A%A4%E5%85%B3%E9%94%AE%E4%BA%A7%E4%B8%9A/a-77349679"
-            },
-            {
-                "title": "当一家车企开始为智驾兜底，它就不是单纯的车企了",
-                "source": "NewsAPI / Ifanr.com",
-                "date": "2026-05-29",
-                "url": "https://www.ifanr.com/1667523"
+                "url": "https://www.ithome.com/0/957/411.htm"
             }
         ],
         "mil": [
             {
+                "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-30",
+                "url": "https://36kr.com/p/3831135917107075"
+            },
+            {
+                "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-30",
+                "url": "https://36kr.com/p/3831073348855433"
+            },
+            {
+                "title": "戴尔股价暴涨32%创历史最佳单日表现 AI服务器营收飙升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564080.htm"
+            },
+            {
+                "title": "IT早报 0530：10 名车主诉特斯拉 FSD 欺诈案国内开庭；Claude Opus 4.8 被指蒸馏中国 AI；黄仁勋评价华为韬定律；央视曝光某国用 41 种网络武器攻击我高校...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-29",
+                "url": "https://www.ithome.com/0/957/400.htm"
+            },
+            {
                 "title": "报告指台海冲突可能引发美中核升级；卫星图像显示北京扩充核武库",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-05-29",
                 "url": "https://www.voachinese.com/a/study-warns-taiwan-conflict-could-trigger-us-china-nuclear-escalation-as-beijing-expands-arsenal-20260529/8155330.html"
-            },
-            {
-                "title": "海格塞斯将就“美国在印太地区的和平战略”发表讲话；中国防长再次缺席香格里拉对话会",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-05-29",
-                "url": "https://www.voachinese.com/a/hegseth-to-speak-on-u-s-peace-strategy-in-the-indo-pacific-china-s-defense-minister-skips-shangri-la-again-20260529/8155296.html"
-            },
-            {
-                "title": "海格塞斯将就“美国在印太地区的和平战略”发表讲话；中国防长再次缺席香格里拉对话会",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-05-29",
-                "url": "https://www.voachinese.com/a/china-skips-shangri-la-again-20260529/8155296.html"
-            },
-            {
-                "title": "五角大楼推动先进武器计划 应对台海危机(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-29",
-                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099766.html"
-            },
-            {
-                "title": "南京新街口地块精细化更新日志",
-                "source": "NewsAPI / Openstreetmap.org",
-                "date": "2026-05-29",
-                "url": "https://www.openstreetmap.org/user/michaelIsADullGuy/diary/408799"
-            },
-            {
-                "title": "中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2006-03-15",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE0zQzU0V3VZX043ZGF1YXdwZEQtZV9VdjR0WElLdm9keXNaTHRHekVBT25ya01NZThDaHc?oc=5"
             },
             {
                 "title": "加拿大总理卡尼会见王毅 - mfa.gov.cn",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
             },
             {
-                "title": "解放军报评论员：整改整治必须下真功、见实效 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01RENVaEhFQ3lYdE9Gclo2MkU1TWljZGs4a2hHMFNrbXhrUnlDYm94Q2ttQ1htLThfT1FpaEFHMzZSOF9YUVgxYUFTVFg2NlllalE?oc=5"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "解放战争时期的儿童团——烽火中那抹少年红 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQkZvZHFxRGdZQ0J0QzBDQzFVc0pqd3NqZDNlOUFXbjRvZGhLam9LLXpWZ3U2RlZEc1liY1NqODd4WXQ1cDd4UHNrR292T0paOUE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "title": "武警辽宁总队新兵团探索精准施训模式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82X1NRTTA3VElPMzhkTjZzNTNVMWFhSndnZTF0NnpwZ3JPM1pQSE1PR3lqejZYQ0M4WlBIWTRoVGg4d1ZaVVhQcnQ1UXZZcGEzbEE?oc=5"
+            },
+            {
+                "title": "汛期来临，看武警官兵如何锤炼水上救援硬功 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UZGFUUnVzMzU4SnNUSVlUN2I2T2hyMnI3eFNmakp5R1lyb0xPdTk4eGdmbzFvVkczRmVzUFNkdTBOTG93Y1ZjclVFR3AzVjBSY2c?oc=5"
             }
         ],
         "pol": [
             {
+                "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-30",
+                "url": "https://36kr.com/p/3831135917107075"
+            },
+            {
+                "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-30",
+                "url": "https://36kr.com/p/3831073348855433"
+            },
+            {
+                "title": "欧盟将解冻匈牙利164亿欧元欧盟资金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564082.htm"
+            },
+            {
+                "title": "IT早报 0530：10 名车主诉特斯拉 FSD 欺诈案国内开庭；Claude Opus 4.8 被指蒸馏中国 AI；黄仁勋评价华为韬定律；央视曝光某国用 41 种网络武器攻击我高校...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-29",
+                "url": "https://www.ithome.com/0/957/400.htm"
+            },
+            {
                 "title": "报告指台海冲突可能引发美中核升级；卫星图像显示北京扩充核武库",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-05-29",
                 "url": "https://www.voachinese.com/a/study-warns-taiwan-conflict-could-trigger-us-china-nuclear-escalation-as-beijing-expands-arsenal-20260529/8155330.html"
-            },
-            {
-                "title": "刚果及乌干达伊波拉疫情升温 台湾6月2起暂禁两国居民入境 - 8world",
-                "source": "NewsAPI / 8world.com",
-                "date": "2026-05-29",
-                "url": "https://www.8world.com/greater-china/taiwan-bans-congo-uganda-residents-entry-3164996"
-            },
-            {
-                "title": "埃博拉疫情失控？世卫警告病例突破900例(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-29",
-                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099767.html"
-            },
-            {
-                "title": "马斯克言论与IPO文件内容相悖 SpaceX质疑者再添担忧",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564066.htm"
-            },
-            {
-                "title": "中共海外秘密警察站 全球首例定罪案深度调查(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-29",
-                "url": "https://www.secretchina.com/news/gb/2026/05/29/1099631.html"
-            },
-            {
-                "title": "中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2006-03-15",
-                "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE0zQzU0V3VZX043ZGF1YXdwZEQtZV9VdjR0WElLdm9keXNaTHRHekVBT25ya01NZThDaHc?oc=5"
             },
             {
                 "title": "加拿大总理卡尼会见王毅 - mfa.gov.cn",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
             },
             {
-                "title": "解放军报评论员：整改整治必须下真功、见实效 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01RENVaEhFQ3lYdE9Gclo2MkU1TWljZGs4a2hHMFNrbXhrUnlDYm94Q2ttQ1htLThfT1FpaEFHMzZSOF9YUVgxYUFTVFg2NlllalE?oc=5"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "解放战争时期的儿童团——烽火中那抹少年红 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YQkZvZHFxRGdZQ0J0QzBDQzFVc0pqd3NqZDNlOUFXbjRvZGhLam9LLXpWZ3U2RlZEc1liY1NqODd4WXQ1cDd4UHNrR292T0paOUE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "中央组织部从代中央管理党费中划拨7200万元用于支持安徽、广西等6省区市抗灾救灾工作 - 中国军网",
+                "title": "武警辽宁总队新兵团探索精准施训模式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-28",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSGdVdzJ6V3JlSVlqN01jN1RjSUdRNHBPNzR0ZDNLUUFjQnhpejA4b05jSmJyWTdhdkR4T2szNHl4SjN1VjBhMEIzeHA0dWtDN1E?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82X1NRTTA3VElPMzhkTjZzNTNVMWFhSndnZTF0NnpwZ3JPM1pQSE1PR3lqejZYQ0M4WlBIWTRoVGg4d1ZaVVhQcnQ1UXZZcGEzbEE?oc=5"
+            },
+            {
+                "title": "汛期来临，看武警官兵如何锤炼水上救援硬功 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UZGFUUnVzMzU4SnNUSVlUN2I2T2hyMnI3eFNmakp5R1lyb0xPdTk4eGdmbzFvVkczRmVzUFNkdTBOTG93Y1ZjclVFR3AzVjBSY2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-30T19:07:58.052640+00:00"
+    "last_updated": "2026-05-31T03:31:39.277152+00:00"
 }
