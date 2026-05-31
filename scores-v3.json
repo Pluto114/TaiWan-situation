@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "#美国 新规突袭 #北京 被逼入死角",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-05-30",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20260530/2322820.html"
-            },
-            {
-                "title": "华硕天选 7 标准版上架：锐龙 7 H 260 配 RTX 5050/5060，16+512GB 版本 7999 元起",
+                "title": "华为上架 MEDELI C25 Mini 音乐键盘：适用于 MatePad Pro Max，“一台平板就是一支乐队”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/438.htm"
+                "url": "https://www.ithome.com/0/957/513.htm"
             },
             {
-                "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-30",
-                "url": "https://36kr.com/p/3831135917107075"
-            },
-            {
-                "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-30",
-                "url": "https://36kr.com/p/3831073348855433"
-            },
-            {
-                "title": "非 Win12：微软下周将升级 Win11，携手英伟达开启 PC 新时代",
+                "title": "首发 1099 元，中兴星云 PoE 子母路由 1 拖 3 套装今日开售",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-29",
-                "url": "https://www.ithome.com/0/957/411.htm"
+                "date": "2026-05-30",
+                "url": "https://www.ithome.com/0/957/495.htm"
+            },
+            {
+                "title": "蓝色起源火箭爆炸引发美国太空股重挫",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564112.htm"
+            },
+            {
+                "title": "4399 → 2808 元：荣耀 WIN 官方 88VIP 直降，骁龙 8E5 + 10000 mAh+ 内置散热",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-30",
+                "url": "https://www.ithome.com/0/957/482.htm"
+            },
+            {
+                "title": "火箭爆炸致蓝色起源势头逆转 双重打击或引发重大延期",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564100.htm"
             }
         ],
         "mil": [
             {
+                "title": "火箭爆炸致蓝色起源势头逆转 双重打击或引发重大延期",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564100.htm"
+            },
+            {
+                "title": "六位车企负责人深圳集体“开炮” 矛头直指价格战",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564094.htm"
+            },
+            {
+                "title": "外卖大战一周年“后遗症”初显：订单骤降 骑手却暴涨到2000万",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564086.htm"
+            },
+            {
                 "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-30",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-05-30",
                 "url": "https://36kr.com/p/3831073348855433"
-            },
-            {
-                "title": "戴尔股价暴涨32%创历史最佳单日表现 AI服务器营收飙升",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564080.htm"
-            },
-            {
-                "title": "IT早报 0530：10 名车主诉特斯拉 FSD 欺诈案国内开庭；Claude Opus 4.8 被指蒸馏中国 AI；黄仁勋评价华为韬定律；央视曝光某国用 41 种网络武器攻击我高校...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-29",
-                "url": "https://www.ithome.com/0/957/400.htm"
-            },
-            {
-                "title": "报告指台海冲突可能引发美中核升级；卫星图像显示北京扩充核武库",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-05-29",
-                "url": "https://www.voachinese.com/a/study-warns-taiwan-conflict-could-trigger-us-china-nuclear-escalation-as-beijing-expands-arsenal-20260529/8155330.html"
             },
             {
                 "title": "加拿大总理卡尼会见王毅 - mfa.gov.cn",
@@ -86,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "毛宁：扩大非洲对华出口打开了全新的机遇之窗（2026年5月29日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-05-29",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3o5UkhXYUozbHlQS1ptNlNtSVhNVUFCS2pzNnFCQXlFTTRmeEE1N29ZOG5SMUJEZ0wzOHBISnBtcXhDOFNtY3otOHZUOXRWY2pLbHFRRmdFbGJXUjRIT1Y4aE9BQ3BmTW1ZbmVrZlFnOEVNaWsxX0tBLU5qdm1SX3RiQXRuTVprQWM3YnBQQlU?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "海军“丝路方舟”号医院船起航执行“健康送海疆”任务 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BX2JDYmd1X21RV0pjb3VQT0VpUnA2ekhuWmlqbTI3ZWJYdngxbG9ObEFwWGxMWEtQT3Z4aXRPbXV4QlJQVXg2dVREQkhUcmVGQ3c?oc=5"
+            },
+            {
+                "title": "习近平给中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员的回信 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zYjA3MUlkTW9nSjllclU0eVA5T0I2OTE0VnVnLURqZW90TVgxUUJodHFhMUliWHoxTE42b21SNlR6NnVRY2QtRTdFSTRLQ2llMEE?oc=5"
             },
             {
                 "title": "武警辽宁总队新兵团探索精准施训模式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82X1NRTTA3VElPMzhkTjZzNTNVMWFhSndnZTF0NnpwZ3JPM1pQSE1PR3lqejZYQ0M4WlBIWTRoVGg4d1ZaVVhQcnQ1UXZZcGEzbEE?oc=5"
-            },
-            {
-                "title": "汛期来临，看武警官兵如何锤炼水上救援硬功 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UZGFUUnVzMzU4SnNUSVlUN2I2T2hyMnI3eFNmakp5R1lyb0xPdTk4eGdmbzFvVkczRmVzUFNkdTBOTG93Y1ZjclVFR3AzVjBSY2c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-30",
-                "url": "https://36kr.com/p/3831135917107075"
-            },
-            {
-                "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-05-30",
-                "url": "https://36kr.com/p/3831073348855433"
-            },
-            {
-                "title": "欧盟将解冻匈牙利164亿欧元欧盟资金",
+                "title": "蓝色起源火箭爆炸引发美国太空股重挫",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564082.htm"
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564112.htm"
             },
             {
-                "title": "IT早报 0530：10 名车主诉特斯拉 FSD 欺诈案国内开庭；Claude Opus 4.8 被指蒸馏中国 AI；黄仁勋评价华为韬定律；央视曝光某国用 41 种网络武器攻击我高校...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-29",
-                "url": "https://www.ithome.com/0/957/400.htm"
+                "title": "Meta支付900万美元 了结肯塔基州社媒危害诉讼",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564088.htm"
             },
             {
-                "title": "报告指台海冲突可能引发美中核升级；卫星图像显示北京扩充核武库",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-05-29",
-                "url": "https://www.voachinese.com/a/study-warns-taiwan-conflict-could-trigger-us-china-nuclear-escalation-as-beijing-expands-arsenal-20260529/8155330.html"
+                "title": "外卖大战一周年“后遗症”初显：订单骤降 骑手却暴涨到2000万",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564086.htm"
+            },
+            {
+                "title": "匈牙利德布勒森电池厂雨水井冒出绿色液体 引发环保风波",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564084.htm"
+            },
+            {
+                "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-05-30",
+                "url": "https://36kr.com/p/3831348302358408"
             },
             {
                 "title": "加拿大总理卡尼会见王毅 - mfa.gov.cn",
@@ -154,31 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJVDcwZ0tILUZsa25ZVy1zczUtVHV2MEJqcnZWMVJhT0FkTmVpQnlfbWVUUU9SREdmZ0xibG13QXdrV0ZVZUpaQWdXM0lNU3loYkNRdVVOLW9rRjF2cWdFaUpBZ280Q1FRa0FtQUhtaE9YLWwwX0E?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "毛宁：扩大非洲对华出口打开了全新的机遇之窗（2026年5月29日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-05-29",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3o5UkhXYUozbHlQS1ptNlNtSVhNVUFCS2pzNnFCQXlFTTRmeEE1N29ZOG5SMUJEZ0wzOHBISnBtcXhDOFNtY3otOHZUOXRWY2pLbHFRRmdFbGJXUjRIT1Y4aE9BQ3BmTW1ZbmVrZlFnOEVNaWsxX0tBLU5qdm1SX3RiQXRuTVprQWM3YnBQQlU?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "海军“丝路方舟”号医院船起航执行“健康送海疆”任务 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BX2JDYmd1X21RV0pjb3VQT0VpUnA2ekhuWmlqbTI3ZWJYdngxbG9ObEFwWGxMWEtQT3Z4aXRPbXV4QlJQVXg2dVREQkhUcmVGQ3c?oc=5"
+            },
+            {
+                "title": "习近平给中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员的回信 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zYjA3MUlkTW9nSjllclU0eVA5T0I2OTE0VnVnLURqZW90TVgxUUJodHFhMUliWHoxTE42b21SNlR6NnVRY2QtRTdFSTRLQ2llMEE?oc=5"
             },
             {
                 "title": "武警辽宁总队新兵团探索精准施训模式 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82X1NRTTA3VElPMzhkTjZzNTNVMWFhSndnZTF0NnpwZ3JPM1pQSE1PR3lqejZYQ0M4WlBIWTRoVGg4d1ZaVVhQcnQ1UXZZcGEzbEE?oc=5"
-            },
-            {
-                "title": "汛期来临，看武警官兵如何锤炼水上救援硬功 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-05-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UZGFUUnVzMzU4SnNUSVlUN2I2T2hyMnI3eFNmakp5R1lyb0xPdTk4eGdmbzFvVkczRmVzUFNkdTBOTG93Y1ZjclVFR3AzVjBSY2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-05-31T03:31:39.277152+00:00"
+    "last_updated": "2026-05-31T08:41:06.484957+00:00"
 }
