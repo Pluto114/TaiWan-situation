@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "全国外卖、网约车市场严重饱和 月入过万都是骗人的",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564196.htm"
+            },
+            {
+                "title": "2499 → 1498 元：小米智能门锁 4 Pro 天猫直降，隔空刷掌秒开锁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-31",
+                "url": "https://www.ithome.com/0/957/816.htm"
+            },
+            {
+                "title": "消息称尊界 S800 成功后华为在跟国产头部供应商合作，帮助后者发展高端子品牌和子型号产品",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-31",
+                "url": "https://www.ithome.com/0/957/748.htm"
+            },
+            {
                 "title": "爆蔡奇发经济密报 中国经济现系统性危机 习最焦虑这点(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-05-31",
@@ -22,68 +40,50 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-31",
                 "url": "https://www.ithome.com/0/957/738.htm"
-            },
-            {
-                "title": "技嘉确认将推出限定版 INFINITY 系列主板、显卡、机箱与电脑周边产品",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-31",
-                "url": "https://www.ithome.com/0/957/732.htm"
-            },
-            {
-                "title": "球星亚马尔预热 Beats Studio Pro 2 耳机：全新设计，粉色配色",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-31",
-                "url": "https://www.ithome.com/0/957/728.htm"
-            },
-            {
-                "title": "消息称因战略分歧，三星与 OpenAI 定制 AI 芯片研发项目陷入停滞",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/706.htm"
             }
         ],
         "mil": [
             {
-                "title": "IT早报 0531：微软宣布下周携手英伟达开启 PC 新时代；深圳网约车市场已饱和官方发风险提示；苹果 iPhone 18 机模曝光；MiniMax 启动 A 股 IPO 进程...",
+                "title": "日本驳斥中国“新军国主义”指控 反指北京正迅速军事扩张",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-05-31",
+                "url": "https://www.dw.com/zh/%E6%97%A5%E6%9C%AC%E9%A9%B3%E6%96%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%8C%87%E6%8E%A7-%E5%8F%8D%E6%8C%87%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%BF%85%E9%80%9F%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0/a-77362191"
+            },
+            {
+                "title": "2026 电竞世俱杯赛程日历公布：7 月齐聚巴黎，争夺 7500 万美元奖金",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/702.htm"
+                "date": "2026-05-31",
+                "url": "https://www.ithome.com/0/957/812.htm"
             },
             {
-                "title": "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议",
+                "title": "铜川舰公开亮相，052D 型驱逐舰新舰画面曝光",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/697.htm"
+                "date": "2026-05-31",
+                "url": "https://www.ithome.com/0/957/808.htm"
             },
             {
-                "title": "宝马欧洲工厂首次引入人形机器人：直接适配产线 无需大规模改造",
+                "title": "OpenAI官宣退役o3与GPT-4.5",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564138.htm"
+                "date": "2026-05-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564168.htm"
             },
             {
-                "title": "火箭爆炸致蓝色起源势头逆转 双重打击或引发重大延期",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564100.htm"
+                "title": "消息称尊界 S800 成功后华为在跟国产头部供应商合作，帮助后者发展高端子品牌和子型号产品",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-05-31",
+                "url": "https://www.ithome.com/0/957/748.htm"
             },
             {
-                "title": "六位车企负责人深圳集体“开炮” 矛头直指价格战",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564094.htm"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "驻马尔代夫大使孔宪华赴金比杜岛调研参访 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUndDSUdhSFg5Ml9QQ1hQMVo0ekRzaEFoakdmRzMwRkRFN19HbnFLdVpVb3JSMV9tVE9VYmc0ek80R3BQZTRfS2FkdlpUNXljemtFam12LWFsYVFWZHgzRTFFajVVdXZhZnFBRU5CLTNRbjlsVG0xaFRraGlvZTVIeTJSSnQ?oc=5"
             },
             {
-                "title": "涉南海问题立场文件 - mfa.gov.cn",
+                "title": "驻纽约总领事陈立接受《福布斯》专访，宣介中美元首会唔 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2018-05-30",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BZnZXZzBHZFdoNE9PaHdBem81TWZWZmJWREpMWnFyTldRUmR4bFlDWkd0bEhja3llRGlDMXpOSk5INS1hWDZYMGJvNExyVWZCa3NiRXdJaw?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVRtWHdSblk4WjduNXRGVEtZMGFBc2U2a19reEcxdWZXVVQ2V05kcWxvRkZPai02UXk5ZlJ6ejhVLUdLdmFWUGZhYS1hY0NuLVBxV3FSOXVqN0ZkSV9RSGxyVUtoZ3ltOWNhSldPMkZJd1FLQWRHa0FwbzZZRFI4a0U4VDk?oc=5"
             },
             {
                 "title": "赵乐际对俄罗斯进行正式友好访问并出席中俄议会合作委员会第十一次会议 - mfa.gov.cn",
@@ -98,60 +98,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zeG02RFFsY0xvTDdaR3lfQ0lJM09TOWJlR2JLdDI2M3VRR2JYWHU0cWZ3NTZPQndDN0V4WDhCR3ZGQ1RYT0RKWHhFUHhXX1BxdWc?oc=5"
             },
             {
-                "title": "海军“丝路方舟”号医院船起航执行“健康送海疆”任务 - 中国军网",
+                "title": "巡逻在\"左权中路\"上,我读懂了左权将军选择里的那份忠诚信仰 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BX2JDYmd1X21RV0pjb3VQT0VpUnA2ekhuWmlqbTI3ZWJYdngxbG9ObEFwWGxMWEtQT3Z4aXRPbXV4QlJQVXg2dVREQkhUcmVGQ3c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Rkd4M05scWQ5R3kyNmtGQjk3a2QwQ0x4dkFjN2xBLVZTSDFJTC01YkZ1eHRZWFlxRm5xTTFyMFZtV21KV2txYmJqWUp6YXE1OFE?oc=5"
             },
             {
-                "title": "山上涌出爱民泉 - 中国军网",
+                "title": "吹进大山的风 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92aTlsM19NVExOWjNXYlhTUUk0bDM1M2l5VXRuU1Q0d05zQU1idFkzVFUwRW5yYTR3QU9oZ3pxdEVXZUhyMVdpYUtSNGZxeXRYWFE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RSEFWLXFnc3pGVlBqT1g5bURZYkZROF8xbGY5dTl3cjBMWmFWVHhiT1JIMzZNYjIzVWFyOW9PUHFDdmphUnZZQXhjSWtxd1lvM1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+                "title": "全国外卖、网约车市场严重饱和 月入过万都是骗人的",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564196.htm"
+            },
+            {
+                "title": "极石汽车 5 月交付 2052 台：销量同比增长 66%，2026 年目标全球 3 万辆",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-05-31",
-                "url": "https://www.ithome.com/0/957/718.htm"
+                "url": "https://www.ithome.com/0/957/849.htm"
             },
             {
-                "title": "IT早报 0531：微软宣布下周携手英伟达开启 PC 新时代；深圳网约车市场已饱和官方发风险提示；苹果 iPhone 18 机模曝光；MiniMax 启动 A 股 IPO 进程...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/702.htm"
-            },
-            {
-                "title": "神秘粉色Beats耳机现身西班牙球星拉明·亚马尔颈间",
+                "title": "小学生画了撇胡子骗过AI年龄验证 硅谷工程师沉默了",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-05-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564152.htm"
+                "date": "2026-05-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564186.htm"
             },
             {
-                "title": "白帽黑客公开 Windows 零日漏洞，微软强硬回应引争议",
+                "title": "特斯拉FSD全自动驾驶承诺未兑现 车主起诉后获赔1万美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-05-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564184.htm"
+            },
+            {
+                "title": "2499 → 1498 元：小米智能门锁 4 Pro 天猫直降，隔空刷掌秒开锁",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-05-30",
-                "url": "https://www.ithome.com/0/957/697.htm"
+                "date": "2026-05-31",
+                "url": "https://www.ithome.com/0/957/816.htm"
             },
             {
-                "title": "王毅访加会卡尼 时评人：加拿大必须守住底线(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-05-30",
-                "url": "https://www.secretchina.com/news/gb/2026/05/31/1099787.html"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "驻马尔代夫大使孔宪华赴金比杜岛调研参访 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-05-31",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUndDSUdhSFg5Ml9QQ1hQMVo0ekRzaEFoakdmRzMwRkRFN19HbnFLdVpVb3JSMV9tVE9VYmc0ek80R3BQZTRfS2FkdlpUNXljemtFam12LWFsYVFWZHgzRTFFajVVdXZhZnFBRU5CLTNRbjlsVG0xaFRraGlvZTVIeTJSSnQ?oc=5"
             },
             {
-                "title": "涉南海问题立场文件 - mfa.gov.cn",
+                "title": "驻纽约总领事陈立接受《福布斯》专访，宣介中美元首会唔 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2018-05-30",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BZnZXZzBHZFdoNE9PaHdBem81TWZWZmJWREpMWnFyTldRUmR4bFlDWkd0bEhja3llRGlDMXpOSk5INS1hWDZYMGJvNExyVWZCa3NiRXdJaw?oc=5"
+                "date": "2026-05-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVRtWHdSblk4WjduNXRGVEtZMGFBc2U2a19reEcxdWZXVVQ2V05kcWxvRkZPai02UXk5ZlJ6ejhVLUdLdmFWUGZhYS1hY0NuLVBxV3FSOXVqN0ZkSV9RSGxyVUtoZ3ltOWNhSldPMkZJd1FLQWRHa0FwbzZZRFI4a0U4VDk?oc=5"
             },
             {
                 "title": "赵乐际对俄罗斯进行正式友好访问并出席中俄议会合作委员会第十一次会议 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zeG02RFFsY0xvTDdaR3lfQ0lJM09TOWJlR2JLdDI2M3VRR2JYWHU0cWZ3NTZPQndDN0V4WDhCR3ZGQ1RYT0RKWHhFUHhXX1BxdWc?oc=5"
             },
             {
-                "title": "海军“丝路方舟”号医院船起航执行“健康送海疆”任务 - 中国军网",
+                "title": "巡逻在\"左权中路\"上,我读懂了左权将军选择里的那份忠诚信仰 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BX2JDYmd1X21RV0pjb3VQT0VpUnA2ekhuWmlqbTI3ZWJYdngxbG9ObEFwWGxMWEtQT3Z4aXRPbXV4QlJQVXg2dVREQkhUcmVGQ3c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Rkd4M05scWQ5R3kyNmtGQjk3a2QwQ0x4dkFjN2xBLVZTSDFJTC01YkZ1eHRZWFlxRm5xTTFyMFZtV21KV2txYmJqWUp6YXE1OFE?oc=5"
             },
             {
-                "title": "山上涌出爱民泉 - 中国军网",
+                "title": "吹进大山的风 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-05-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92aTlsM19NVExOWjNXYlhTUUk0bDM1M2l5VXRuU1Q0d05zQU1idFkzVFUwRW5yYTR3QU9oZ3pxdEVXZUhyMVdpYUtSNGZxeXRYWFE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RSEFWLXFnc3pGVlBqT1g5bURZYkZROF8xbGY5dTl3cjBMWmFWVHhiT1JIMzZNYjIzVWFyOW9PUHFDdmphUnZZQXhjSWtxd1lvM1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-01T03:43:28.444397+00:00"
+    "last_updated": "2026-06-01T11:26:22.338897+00:00"
 }
