@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "纽约联储研究：远程办公加剧青年失业问题",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564326.htm"
+            },
+            {
                 "title": "智谱：建议 A 股发行并在科创板上市",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-01",
@@ -34,15 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-01",
                 "url": "https://www.ithome.com/0/958/418.htm"
-            },
-            {
-                "title": "德语媒体：中国应该转让技术换取市场准入",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-01",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E5%BA%94%E8%AF%A5%E8%BD%AC%E8%AE%A9%E6%8A%80%E6%9C%AF%E6%8D%A2%E5%8F%96%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5/a-77378325"
             }
         ],
         "mil": [
+            {
+                "title": "传伊朗暂停与美谈判 川普：谈判仍在快速推进(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-01",
+                "url": "https://www.secretchina.com/news/gb/2026/06/02/1099902.html"
+            },
+            {
+                "title": "美军武力回击伊朗挑衅 革命卫队宣称展开报复(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-01",
+                "url": "https://www.secretchina.com/news/gb/2026/06/02/1099893.html"
+            },
             {
                 "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3834354415347337"
             },
             {
-                "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-01",
-                "url": "https://36kr.com/p/3834276149356420"
-            },
-            {
-                "title": "我们有全世界最多的运动鞋，却没有一支值得爱20年的球队",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-01",
-                "url": "https://36kr.com/p/3834297577383553"
-            },
-            {
                 "title": "2026年6月1日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-01",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iUmZxYW40M09jckRETTlxV3hXZF9PS2VjeUxXMFRLcmt6bV9XeklrckJhUHQyUldielJ2dlVHWTliVmhGUlZEeDhWaDRYVkE5elZfTEhDdWY0Um95MVlZemVTTjl4alpVZ251QmFCUWFFZUF3cVE?oc=5"
             },
             {
+                "title": "2026年6月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-02",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZXQtV2ZVY3ZfaXVCQXExdTAwLUpKREtaNjNwSzhmTkNZZmRuYU5OQ2VGRmtlSVhkSm5Kb0V0RGN3T3g3SzlFdkljU3FfN2NFT0owd3JxMzNKbWN2NmdScDgtbldQS0dWVk5EaFJhZWVXTkszbHc?oc=5"
+            },
+            {
                 "title": "林剑：中国圆满完成5月担任联合国安理会轮值主席工作 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-01",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUloMXVmUzJkRXNURDcxY2ZlMTFoUjMzSmNFcS1td0pQV1BNbW5sQ3M1QkV1MXp0YVNUSnBsaHVaQ3pYdEtOTmJWMmtsVk8yb2cwZHNTalNNai1LaHpIM2dmeGQwQ2xpTzZxdUY1ZEV0WVR3NVhpdkZuQjZwaUd6S0ZvNHRxS0lmQ2E1YThyRHY?oc=5"
-            },
-            {
-                "title": "林剑：中方对日本推进同北约合作动向表示严重关切（2026年6月1日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFZfeFRxUHc2MjlxNEd4cktTdGhUeHZKWDZsVm9Pa2dfQ3M1Q3VGLW4xSGZPdXhrMDFMTlkyeVR6Sy1WaWlHRmJsbWxyeXZoWm1BVmFFQ3QzMF9OMU1FUEVOUFp1ZHhuaEZ1blJHSHJiQ0RVYjdpSkowcUF2bkw3ejlXcHhHcDltTndPY2xTamE?oc=5"
             },
             {
                 "title": "当人工智能浪潮席卷军事领域，谋略智慧是否仍有用武之地? - 军网",
@@ -111,6 +111,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "Anthropic已秘密提交美国IPO申请 估值近万亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564328.htm"
+            },
             {
                 "title": "2026 年 5 月汽车销量 / 交付榜出炉：比亚迪销售超 38 万辆位居榜首",
                 "source": "NewsAPI / Ithome.com",
@@ -136,28 +142,22 @@
                 "url": "https://www.dw.com/zh/%E5%AF%B9%E4%B8%AD%E5%9B%BD%E9%87%87%E5%8F%96%E6%9B%B4%E5%BC%BA%E7%A1%AC%E6%8E%AA%E6%96%BD%E6%AC%A7%E5%A7%94%E4%BC%9A%E5%B0%86%E9%A6%96%E5%85%88%E5%AF%BB%E6%B1%82%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E6%94%AF%E6%8C%81/a-77380374"
             },
             {
-                "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-01",
-                "url": "https://36kr.com/p/3834544830721671"
-            },
-            {
                 "title": "2026年6月1日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-01",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iUmZxYW40M09jckRETTlxV3hXZF9PS2VjeUxXMFRLcmt6bV9XeklrckJhUHQyUldielJ2dlVHWTliVmhGUlZEeDhWaDRYVkE5elZfTEhDdWY0Um95MVlZemVTTjl4alpVZ251QmFCUWFFZUF3cVE?oc=5"
             },
             {
+                "title": "2026年6月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-02",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZXQtV2ZVY3ZfaXVCQXExdTAwLUpKREtaNjNwSzhmTkNZZmRuYU5OQ2VGRmtlSVhkSm5Kb0V0RGN3T3g3SzlFdkljU3FfN2NFT0owd3JxMzNKbWN2NmdScDgtbldQS0dWVk5EaFJhZWVXTkszbHc?oc=5"
+            },
+            {
                 "title": "林剑：中国圆满完成5月担任联合国安理会轮值主席工作 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-01",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUloMXVmUzJkRXNURDcxY2ZlMTFoUjMzSmNFcS1td0pQV1BNbW5sQ3M1QkV1MXp0YVNUSnBsaHVaQ3pYdEtOTmJWMmtsVk8yb2cwZHNTalNNai1LaHpIM2dmeGQwQ2xpTzZxdUY1ZEV0WVR3NVhpdkZuQjZwaUd6S0ZvNHRxS0lmQ2E1YThyRHY?oc=5"
-            },
-            {
-                "title": "林剑：中方对日本推进同北约合作动向表示严重关切（2026年6月1日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFZfeFRxUHc2MjlxNEd4cktTdGhUeHZKWDZsVm9Pa2dfQ3M1Q3VGLW4xSGZPdXhrMDFMTlkyeVR6Sy1WaWlHRmJsbWxyeXZoWm1BVmFFQ3QzMF9OMU1FUEVOUFp1ZHhuaEZ1blJHSHJiQ0RVYjdpSkowcUF2bkw3ejlXcHhHcDltTndPY2xTamE?oc=5"
             },
             {
                 "title": "当人工智能浪潮席卷军事领域，谋略智慧是否仍有用武之地? - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-02T16:17:39.688752+00:00"
+    "last_updated": "2026-06-02T20:43:37.092711+00:00"
 }
