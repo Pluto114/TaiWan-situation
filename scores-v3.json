@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "孙正义时隔 26 年再登亚洲首富：身家突破 1000 亿美元大关，软银市值已超越丰田成日本第一",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国两党议员推动立法，限制对华生物技术投资",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/959/007.htm"
+                "url": "https://www.voachinese.com/a/us-lawmakers-seek-to-block-american-investment-in-chinese-biotechnology-20260602/8156532.html"
             },
             {
-                "title": "亏近 16 亿美元，美国俄亥俄州暂停数据中心税收补贴政策",
+                "title": "微软版“龙虾”Scout 发布，深度整合 Outlook、OneDrive 等 365 生态",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/959/002.htm"
+                "url": "https://www.ithome.com/0/959/019.htm"
             },
             {
-                "title": "OPPO Bubble 潮玩自拍屏官宣搭载恒玄 BES2800BP 芯片：6nm 工艺，集成 Wi-Fi 6",
-                "source": "NewsAPI / Ithome.com",
+                "title": "外媒：与军方有关的中国高校寻求英伟达AI芯片(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/999.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/06/03/1099962.html"
             },
             {
-                "title": "华为亮出矿鸿 5 年成绩单：认证设备累计达到 935 款，生态伙伴超过 200 家",
-                "source": "NewsAPI / Ithome.com",
+                "title": "微软推出迷你Surface开发机 用RTX Spark填补高通空缺",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/981.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564446.htm"
             },
             {
-                "title": "摩托罗拉 Edge 2026 手机发布：天玑 7450 芯片，599 美元",
+                "title": "微软发布“开发者优化版”Win11，进一步拥抱 Linux 并推出 WSL 容器",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/980.htm"
+                "url": "https://www.ithome.com/0/959/010.htm"
             }
         ],
         "mil": [
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "谷歌宣布 Android 行业首创虚假来电检测功能，防范 AI 克隆语音冒充熟人诈骗",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-02",
+                "url": "https://www.ithome.com/0/959/020.htm"
+            },
+            {
+                "title": "中国抗疫医疗专家组抵达刚果（金）支援埃博拉防控 - 新华网",
+                "source": "NewsAPI / Xinhua Net",
+                "date": "2026-06-02",
+                "url": "https://app.xinhuanet.com/news/article.html?articleId=20260602468599dd82674e9882235a20a6c72ee3"
+            },
+            {
                 "title": "孙正义时隔 26 年再登亚洲首富：身家突破 1000 亿美元大关，软银市值已超越丰田成日本第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-02",
                 "url": "https://www.dw.com/zh/%E8%8B%B1%E5%9B%BD%E5%A4%96%E7%9B%B8%E8%AE%BF%E5%8D%8E%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%BF%9D%E6%8C%81%E6%8E%A5%E8%A7%A6%E8%80%8C%E9%9D%9E%E4%B8%80%E6%A6%82%E6%8A%B5%E5%88%B6/a-77392150"
-            },
-            {
-                "title": "德语媒体：福山承认对中国的预判是错误的",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-02",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%A6%8F%E5%B1%B1%E6%89%BF%E8%AE%A4%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A2%84%E5%88%A4%E6%98%AF%E9%94%99%E8%AF%AF%E7%9A%84/a-77392127"
-            },
-            {
-                "title": "何时启动内地存量业务整治？富途最新回应",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-02",
-                "url": "https://36kr.com/newsflashes/3836030560761216"
             },
             {
                 "title": "2026年6月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-03T16:42:40.786968+00:00"
+    "last_updated": "2026-06-03T20:52:20.301983+00:00"
 }
