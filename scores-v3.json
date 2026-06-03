@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英特尔高管谈内存涨价：长期来看“总得有所改变”，将继续支持 DDR4 并加速中国、印尼品牌内存认证",
+                "title": "孙正义时隔 26 年再登亚洲首富：身家突破 1000 亿美元大关，软银市值已超越丰田成日本第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/936.htm"
+                "url": "https://www.ithome.com/0/959/007.htm"
             },
             {
-                "title": "研究：中国20年内收购超1.1万德国专利",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-02",
-                "url": "https://www.dw.com/zh/%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%9B%BD20%E5%B9%B4%E5%86%85%E6%94%B6%E8%B4%AD%E8%B6%8511%E4%B8%87%E5%BE%B7%E5%9B%BD%E4%B8%93%E5%88%A9/a-77388117"
-            },
-            {
-                "title": "20 周年致敬之作：华硕 ROG CROSSHAIR 2006 复刻版主板明日开售，LV7 会员优先购",
+                "title": "亏近 16 亿美元，美国俄亥俄州暂停数据中心税收补贴政策",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/875.htm"
+                "url": "https://www.ithome.com/0/959/002.htm"
             },
             {
-                "title": "美团在竞争中看清自己",
-                "source": "NewsAPI / 36kr.com",
+                "title": "OPPO Bubble 潮玩自拍屏官宣搭载恒玄 BES2800BP 芯片：6nm 工艺，集成 Wi-Fi 6",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://36kr.com/p/3835814792492416"
+                "url": "https://www.ithome.com/0/958/999.htm"
             },
             {
-                "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "华为亮出矿鸿 5 年成绩单：认证设备累计达到 935 款，生态伙伴超过 200 家",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://36kr.com/p/3835814391100550"
+                "url": "https://www.ithome.com/0/958/981.htm"
+            },
+            {
+                "title": "摩托罗拉 Edge 2026 手机发布：天玑 7450 芯片，599 美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-02",
+                "url": "https://www.ithome.com/0/958/980.htm"
             }
         ],
         "mil": [
+            {
+                "title": "NASA试验机 X-59 本月将首次突破音障",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564442.htm"
+            },
+            {
+                "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-02",
+                "url": "https://36kr.com/p/3834354708031111"
+            },
+            {
+                "title": "2026 世界杯引入多项 AI 技术：足球内置 500Hz 芯片，每秒采集 500 次数据辅助判罚",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-02",
+                "url": "https://www.ithome.com/0/958/943.htm"
+            },
             {
                 "title": "台湾空军T-34教练机冈山失事 两名资深飞官殉职(组图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,40 +74,22 @@
                 "url": "https://36kr.com/p/3835814391100550"
             },
             {
-                "title": "打赢了复活赛的天涯 还能火几天？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564404.htm"
-            },
-            {
-                "title": "英伟达 CEO 黄仁勋将作客韩国热门综艺节目，本月晚些时候播出",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/655.htm"
-            },
-            {
-                "title": "美中央司令部启动“区域合作”军演 中亚南亚国家参演",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-02",
-                "url": "https://www.secretchina.com/news/gb/2026/06/02/1099926.html"
-            },
-            {
                 "title": "2026年6月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-02",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZXQtV2ZVY3ZfaXVCQXExdTAwLUpKREtaNjNwSzhmTkNZZmRuYU5OQ2VGRmtlSVhkSm5Kb0V0RGN3T3g3SzlFdkljU3FfN2NFT0owd3JxMzNKbWN2NmdScDgtbldQS0dWVk5EaFJhZWVXTkszbHc?oc=5"
             },
             {
-                "title": "外交部发言人回应日本防卫大臣辩解“新型军国主义”指控（2026年6月1日） - mfa.gov.cn",
+                "title": "2026年6月3日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1hzelZRbHZhUEE1MlhjYTg0U0dxZmQzcjdxVl9FNjZqN3NiQUYxNkZnZ252WG16RjhOOVJhb3BzYUFIeTBPWEN6eXQ4MmhFREoxaTdmbnRtY0REbGd1ekI0cU84RlRlZWVLUWVWeVRTd2ZmMTlqU1cyaW5xTUQwMTh4d0dPSGZBYndBZDJvbFc?oc=5"
+                "date": "2026-06-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5YnNGVjN0enZCU0drZTY0Wkl4WXB1aEd3cXRmWHJYV3pWVVZiNnFwUzJsRk5pV2lweDNNQUZoTVR0eERTN3dSRGZDQ21BUnNkUFE4VldTM2drdnpVNWJSXzY1TWpGei1XRjVBbGtqUUdpamhSM0E?oc=5"
             },
             {
-                "title": "林剑：中方对日本推进同北约合作动向表示严重关切（2026年6月1日） - mfa.gov.cn",
+                "title": "毛宁：日本越是遮掩，国际社会越应高度警惕 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFZfeFRxUHc2MjlxNEd4cktTdGhUeHZKWDZsVm9Pa2dfQ3M1Q3VGLW4xSGZPdXhrMDFMTlkyeVR6Sy1WaWlHRmJsbWxyeXZoWm1BVmFFQ3QzMF9OMU1FUEVOUFp1ZHhuaEZ1blJHSHJiQ0RVYjdpSkowcUF2bkw3ejlXcHhHcDltTndPY2xTamE?oc=5"
+                "date": "2026-06-03",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjBfam5EREZHaEc0MTVSZXJaeEtlbzZNd1dScFVhN0drMkl2NUp2cFYybUlCU3lVTTE1dXJOWm03Sm5QTGNqMnQ4NU50T0dtNmtvdFk4R2xXaHFXN0hJLTQ1bzFiN0QwNFRWU0xKQlhMdnZDSUNTUnF0UFdLTnh1a1JuSWZfRXpzRjR5ZWNRZzY?oc=5"
             },
             {
                 "title": "“战地被装超市”开进演训场，为驻训官兵解决被装申领难题 - 军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53b3I0SjdOZThJZVpDY1VoYnJ3VFRJRWFzM2VfN3pRQkZ1dUVkMDhvMXFMX0ZacjlfUGc1dElocV84R1FCVkIwSlhNX01yN01Qb0E?oc=5"
             },
             {
-                "title": "外交部：坚决遏制日本“新型军国主义”成势为患 - 军网",
+                "title": "@一线带兵人，对年轻战士“大胆放手”不是“甩手不管” - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Zb2VId1N1V3pOeU5lMUxtV0hVUUJRQ1hQTEhhUl82cmwtQ2pmT3ZGV0JNVVo4LWZyOWtxbWo2blRsTFR2TkJLTzlB?oc=5"
+                "date": "2026-06-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53VUJkX3gzTVNhdV83UXRZUmtvdVRyVmJPQWZ0VVA5WUVUM2hvTzU1SmYzQlJfZVowand0cXlaUzFybTlSZkZYNUF6cTdscTI4cWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "宇树科技科创板 IPO 审核状态更新为“提交注册”：拟募资 42.02 亿元，冲刺 A 股人形机器人第一股",
+                "title": "孙正义时隔 26 年再登亚洲首富：身家突破 1000 亿美元大关，软银市值已超越丰田成日本第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/902.htm"
+                "url": "https://www.ithome.com/0/959/007.htm"
             },
             {
-                "title": "20 周年致敬之作：华硕 ROG CROSSHAIR 2006 复刻版主板明日开售，LV7 会员优先购",
+                "title": "Meta 青少年内容管控措施将扩大至全球，账号默认开启过滤机制",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/875.htm"
+                "url": "https://www.ithome.com/0/958/997.htm"
             },
             {
-                "title": "美团在竞争中看清自己",
+                "title": "英国外相访华：我们需要与中国保持接触，而非一概抵制",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-02",
+                "url": "https://www.dw.com/zh/%E8%8B%B1%E5%9B%BD%E5%A4%96%E7%9B%B8%E8%AE%BF%E5%8D%8E%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%BF%9D%E6%8C%81%E6%8E%A5%E8%A7%A6%E8%80%8C%E9%9D%9E%E4%B8%80%E6%A6%82%E6%8A%B5%E5%88%B6/a-77392150"
+            },
+            {
+                "title": "德语媒体：福山承认对中国的预判是错误的",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-02",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%A6%8F%E5%B1%B1%E6%89%BF%E8%AE%A4%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A2%84%E5%88%A4%E6%98%AF%E9%94%99%E8%AF%AF%E7%9A%84/a-77392127"
+            },
+            {
+                "title": "何时启动内地存量业务整治？富途最新回应",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-02",
-                "url": "https://36kr.com/p/3835814792492416"
-            },
-            {
-                "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-02",
-                "url": "https://36kr.com/p/3835814391100550"
-            },
-            {
-                "title": "《星球大战：日蚀》被曝开发不顺延期至 2028 年，网易正考虑撤资",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-02",
-                "url": "https://www.ithome.com/0/958/782.htm"
+                "url": "https://36kr.com/newsflashes/3836030560761216"
             },
             {
                 "title": "2026年6月2日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZXQtV2ZVY3ZfaXVCQXExdTAwLUpKREtaNjNwSzhmTkNZZmRuYU5OQ2VGRmtlSVhkSm5Kb0V0RGN3T3g3SzlFdkljU3FfN2NFT0owd3JxMzNKbWN2NmdScDgtbldQS0dWVk5EaFJhZWVXTkszbHc?oc=5"
             },
             {
-                "title": "外交部发言人回应日本防卫大臣辩解“新型军国主义”指控（2026年6月1日） - mfa.gov.cn",
+                "title": "2026年6月3日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1hzelZRbHZhUEE1MlhjYTg0U0dxZmQzcjdxVl9FNjZqN3NiQUYxNkZnZ252WG16RjhOOVJhb3BzYUFIeTBPWEN6eXQ4MmhFREoxaTdmbnRtY0REbGd1ekI0cU84RlRlZWVLUWVWeVRTd2ZmMTlqU1cyaW5xTUQwMTh4d0dPSGZBYndBZDJvbFc?oc=5"
+                "date": "2026-06-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5YnNGVjN0enZCU0drZTY0Wkl4WXB1aEd3cXRmWHJYV3pWVVZiNnFwUzJsRk5pV2lweDNNQUZoTVR0eERTN3dSRGZDQ21BUnNkUFE4VldTM2drdnpVNWJSXzY1TWpGei1XRjVBbGtqUUdpamhSM0E?oc=5"
             },
             {
-                "title": "林剑：中方对日本推进同北约合作动向表示严重关切（2026年6月1日） - mfa.gov.cn",
+                "title": "毛宁：日本越是遮掩，国际社会越应高度警惕 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFZfeFRxUHc2MjlxNEd4cktTdGhUeHZKWDZsVm9Pa2dfQ3M1Q3VGLW4xSGZPdXhrMDFMTlkyeVR6Sy1WaWlHRmJsbWxyeXZoWm1BVmFFQ3QzMF9OMU1FUEVOUFp1ZHhuaEZ1blJHSHJiQ0RVYjdpSkowcUF2bkw3ejlXcHhHcDltTndPY2xTamE?oc=5"
+                "date": "2026-06-03",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjBfam5EREZHaEc0MTVSZXJaeEtlbzZNd1dScFVhN0drMkl2NUp2cFYybUlCU3lVTTE1dXJOWm03Sm5QTGNqMnQ4NU50T0dtNmtvdFk4R2xXaHFXN0hJLTQ1bzFiN0QwNFRWU0xKQlhMdnZDSUNTUnF0UFdLTnh1a1JuSWZfRXpzRjR5ZWNRZzY?oc=5"
             },
             {
                 "title": "“战地被装超市”开进演训场，为驻训官兵解决被装申领难题 - 军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53b3I0SjdOZThJZVpDY1VoYnJ3VFRJRWFzM2VfN3pRQkZ1dUVkMDhvMXFMX0ZacjlfUGc1dElocV84R1FCVkIwSlhNX01yN01Qb0E?oc=5"
             },
             {
-                "title": "外交部：坚决遏制日本“新型军国主义”成势为患 - 军网",
+                "title": "@一线带兵人，对年轻战士“大胆放手”不是“甩手不管” - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-01",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Zb2VId1N1V3pOeU5lMUxtV0hVUUJRQ1hQTEhhUl82cmwtQ2pmT3ZGV0JNVVo4LWZyOWtxbWo2blRsTFR2TkJLTzlB?oc=5"
+                "date": "2026-06-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53VUJkX3gzTVNhdV83UXRZUmtvdVRyVmJPQWZ0VVA5WUVUM2hvTzU1SmYzQlJfZVowand0cXlaUzFybTlSZkZYNUF6cTdscTI4cWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-03T10:52:26.537521+00:00"
+    "last_updated": "2026-06-03T16:42:40.786968+00:00"
 }
