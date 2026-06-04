@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Le Labo 和祖·玛珑最近都首次推出了线香，让经典气味以新的形式萦绕周围",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "美伊在中东再次交火 经合组织下调全球增长预期",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-06-03",
-                "url": "https://www.toodaylab.com/84067"
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%86%8D%E6%AC%A1%E4%BA%A4%E7%81%AB-%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%B8%8B%E8%B0%83%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E9%A2%84%E6%9C%9F/a-77409970"
             },
             {
-                "title": "欧盟法院裁定维持Meta旗下Messenger“守门人”定性",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564558.htm"
-            },
-            {
-                "title": "英特尔至强 6+ 系列“Clearwater Forest”处理器首次支持国密 SM3/SM4 算法：6990E+ 加密性能提升至 6780E 的 15.2 倍",
+                "title": "英特尔：到 2030 年，x86 架构预计将为八成数据中心服务器提供动力",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-03",
-                "url": "https://www.ithome.com/0/959/359.htm"
+                "url": "https://www.ithome.com/0/959/542.htm"
             },
             {
-                "title": "瑞昱推出 PCIe 桥接扩充芯片 RTL9151AS 与端侧 AI 加速芯片 RTD2811",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特朗普政府计划因强迫劳动对60个经济体加征关税",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-06-03",
-                "url": "https://www.ithome.com/0/959/307.htm"
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E5%9B%A0%E5%BC%BA%E8%BF%AB%E5%8A%B3%E5%8A%A8%E5%AF%B960%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E/a-77406826"
             },
             {
-                "title": "欧洲议会因隐私考量改用法国搜索引擎Qwant取代Google",
+                "title": "SK海力士在台北国际电脑展展示HBM4E 48GB 12层堆叠 单颗带宽达4TB/s",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564548.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564562.htm"
+            },
+            {
+                "title": "全球最大私人“凤凰”激光系统点火 助推惯性约束核聚变迈向商业化",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564560.htm"
             }
         ],
         "mil": [
@@ -74,31 +74,31 @@
                 "url": "https://36kr.com/p/3836703946257542"
             },
             {
+                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-04",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
+            },
+            {
+                "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
+            },
+            {
                 "title": "2026年6月3日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-03",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzQxWnF1ZEtwSlZhTEEtTWdHeV9DRUs2YTVLTTM2WkFCQ1gzWFN0ekwySnlycWJhVU9IZklDek1MRno0WG9PVHFTczBvY1o0ZFpWRXM2amd0SjFvUk0yWUoxYlQ0cVo0UHR1UUthNDZDU05ablA1Y0M3NXp5R1ZFOUFGWlgwX1dMTlU0?oc=5"
             },
             {
-                "title": "毛宁：日本越是遮掩，国际社会越应高度警惕 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-03",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjBfam5EREZHaEc0MTVSZXJaeEtlbzZNd1dScFVhN0drMkl2NUp2cFYybUlCU3lVTTE1dXJOWm03Sm5QTGNqMnQ4NU50T0dtNmtvdFk4R2xXaHFXN0hJLTQ1bzFiN0QwNFRWU0xKQlhMdnZDSUNTUnF0UFdLTnh1a1JuSWZfRXpzRjR5ZWNRZzY?oc=5"
-            },
-            {
-                "title": "驻摩尔多瓦大使董志华访问摩公立医院母婴卫生健康科研所 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-02",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFlOQkNBUnFKRjFpeUZ1aE54Nzl5Mm91R1FsejRPM0VCN0oyYjQwWkROVkN1RjVqSVVWeDVZQ281eXJFN0RmbVVheUZaVTc0bTk0S2x3bmJDazQwZ2daWEMtUDdpWlh0a0trVXlJajZ1WjFFcThGMlh1c1hHY3M3MDhJWF8?oc=5"
-            },
-            {
-                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 军网",
+                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERXRMel9xTW5CbEtUZy1WWmNRRnZrNGEteUFvOUVwdlZiSmdhX2NvWW5sRV93ZWg5S05yaS15ZDZxVVprcjlzdXhzNTBsU3ZRN2c?oc=5"
             },
             {
-                "title": "画里有话｜留心那些“不起眼的门” - 军网",
+                "title": "画里有话｜留心那些“不起眼的门” - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVzhvX2V0TG4zVEJfaXA1X1FrTTNrVExEZS1kSGVaekV6bnZBRzIwdGdqSjJESTdHcWUxVFZ2ODFDX0JONzM5ZzRrZnVhNmRLQVE?oc=5"
@@ -111,6 +111,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "英特尔：到 2030 年，x86 架构预计将为八成数据中心服务器提供动力",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-03",
+                "url": "https://www.ithome.com/0/959/542.htm"
+            },
             {
                 "title": "空客A350-1000ULR完成首飞 刷新全球超长航程客机纪录",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -136,10 +142,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1564512.htm"
             },
             {
-                "title": "美国AI军备竞赛遭遇现实瓶颈：6700亿美元投入背后，数据中心难落地",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564508.htm"
+                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-04",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
+            },
+            {
+                "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
             },
             {
                 "title": "2026年6月3日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,25 +160,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzQxWnF1ZEtwSlZhTEEtTWdHeV9DRUs2YTVLTTM2WkFCQ1gzWFN0ekwySnlycWJhVU9IZklDek1MRno0WG9PVHFTczBvY1o0ZFpWRXM2amd0SjFvUk0yWUoxYlQ0cVo0UHR1UUthNDZDU05ablA1Y0M3NXp5R1ZFOUFGWlgwX1dMTlU0?oc=5"
             },
             {
-                "title": "毛宁：日本越是遮掩，国际社会越应高度警惕 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-03",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjBfam5EREZHaEc0MTVSZXJaeEtlbzZNd1dScFVhN0drMkl2NUp2cFYybUlCU3lVTTE1dXJOWm03Sm5QTGNqMnQ4NU50T0dtNmtvdFk4R2xXaHFXN0hJLTQ1bzFiN0QwNFRWU0xKQlhMdnZDSUNTUnF0UFdLTnh1a1JuSWZfRXpzRjR5ZWNRZzY?oc=5"
-            },
-            {
-                "title": "驻摩尔多瓦大使董志华访问摩公立医院母婴卫生健康科研所 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-02",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFlOQkNBUnFKRjFpeUZ1aE54Nzl5Mm91R1FsejRPM0VCN0oyYjQwWkROVkN1RjVqSVVWeDVZQ281eXJFN0RmbVVheUZaVTc0bTk0S2x3bmJDazQwZ2daWEMtUDdpWlh0a0trVXlJajZ1WjFFcThGMlh1c1hHY3M3MDhJWF8?oc=5"
-            },
-            {
-                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 军网",
+                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERXRMel9xTW5CbEtUZy1WWmNRRnZrNGEteUFvOUVwdlZiSmdhX2NvWW5sRV93ZWg5S05yaS15ZDZxVVprcjlzdXhzNTBsU3ZRN2c?oc=5"
             },
             {
-                "title": "画里有话｜留心那些“不起眼的门” - 军网",
+                "title": "画里有话｜留心那些“不起眼的门” - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVzhvX2V0TG4zVEJfaXA1X1FrTTNrVExEZS1kSGVaekV6bnZBRzIwdGdqSjJESTdHcWUxVFZ2ODFDX0JONzM5ZzRrZnVhNmRLQVE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-04T09:51:35.473017+00:00"
+    "last_updated": "2026-06-04T14:52:41.664967+00:00"
 }
