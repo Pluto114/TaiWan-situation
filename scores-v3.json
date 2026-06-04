@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "中国芯片雄心遭遇全球科技高墙 EUV瓶颈难解(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-03",
+                "url": "https://www.secretchina.com/news/gb/2026/06/04/1100025.html"
+            },
+            {
+                "title": "北美自由贸易体系重组 加拿大恐被边缘化(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-03",
+                "url": "https://www.secretchina.com/news/gb/2026/06/04/1099990.html"
+            },
+            {
+                "title": "我国科学家攻克作物花期冷害难题，可挽回超 50% 低温减产损失",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-03",
+                "url": "https://www.ithome.com/0/959/578.htm"
+            },
+            {
+                "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-03",
+                "url": "https://36kr.com/p/3837330582008963"
+            },
+            {
                 "title": "美伊在中东再次交火 经合组织下调全球增长预期",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-03",
                 "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%86%8D%E6%AC%A1%E4%BA%A4%E7%81%AB-%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%B8%8B%E8%B0%83%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E9%A2%84%E6%9C%9F/a-77409970"
-            },
-            {
-                "title": "英特尔：到 2030 年，x86 架构预计将为八成数据中心服务器提供动力",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-03",
-                "url": "https://www.ithome.com/0/959/542.htm"
-            },
-            {
-                "title": "特朗普政府计划因强迫劳动对60个经济体加征关税",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-03",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E5%9B%A0%E5%BC%BA%E8%BF%AB%E5%8A%B3%E5%8A%A8%E5%AF%B960%E4%B8%AA%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E/a-77406826"
-            },
-            {
-                "title": "SK海力士在台北国际电脑展展示HBM4E 48GB 12层堆叠 单颗带宽达4TB/s",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564562.htm"
-            },
-            {
-                "title": "全球最大私人“凤凰”激光系统点火 助推惯性约束核聚变迈向商业化",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564560.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中共与美国交手 绝对不能掉进去的战略陷阱是…(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-03",
+                "url": "https://www.secretchina.com/news/gb/2026/06/04/1100030.html"
+            },
+            {
+                "title": "小唐双面人生 骂中共求庇护 高喊爱国筹军费(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-03",
+                "url": "https://www.secretchina.com/news/gb/2026/06/03/1100016.html"
+            },
             {
                 "title": "美国制裁伊朗最大加密货币交易所 指其协助当局规避制裁",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1564486.htm"
             },
             {
-                "title": "500 天迭代 200 + 版，微信鸿蒙版进化到什么程度了？",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-03",
-                "url": "https://www.ithome.com/0/959/132.htm"
-            },
-            {
-                "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-03",
-                "url": "https://36kr.com/p/3836703946257542"
+                "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
             },
             {
                 "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
@@ -80,72 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
             },
             {
-                "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
-            },
-            {
                 "title": "2026年6月3日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-03",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzQxWnF1ZEtwSlZhTEEtTWdHeV9DRUs2YTVLTTM2WkFCQ1gzWFN0ekwySnlycWJhVU9IZklDek1MRno0WG9PVHFTczBvY1o0ZFpWRXM2amd0SjFvUk0yWUoxYlQ0cVo0UHR1UUthNDZDU05ablA1Y0M3NXp5R1ZFOUFGWlgwX1dMTlU0?oc=5"
             },
             {
-                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 81.cn",
+                "title": "“战地被装超市”开进演训场，为驻训官兵解决被装申领难题 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-03",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LazdJRW15SHQwQnZ5eFlBQWxNUHdGWHRfVXg3UTIzWjN0bXNHa3k4ZjVXQTd2MXU5MlRiNHM0OGZ4VGY5ekx4aXowWVY1T0Y5d3IxSmNrYWFsZXp0T2s1WQ?oc=5"
+            },
+            {
+                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERXRMel9xTW5CbEtUZy1WWmNRRnZrNGEteUFvOUVwdlZiSmdhX2NvWW5sRV93ZWg5S05yaS15ZDZxVVprcjlzdXhzNTBsU3ZRN2c?oc=5"
             },
             {
-                "title": "画里有话｜留心那些“不起眼的门” - 81.cn",
+                "title": "画里有话｜留心那些“不起眼的门” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVzhvX2V0TG4zVEJfaXA1X1FrTTNrVExEZS1kSGVaekV6bnZBRzIwdGdqSjJESTdHcWUxVFZ2ODFDX0JONzM5ZzRrZnVhNmRLQVE?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "英特尔：到 2030 年，x86 架构预计将为八成数据中心服务器提供动力",
-                "source": "NewsAPI / Ithome.com",
+                "title": "北美自由贸易体系重组 加拿大恐被边缘化(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-06-03",
-                "url": "https://www.ithome.com/0/959/542.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/06/04/1099990.html"
             },
             {
-                "title": "空客A350-1000ULR完成首飞 刷新全球超长航程客机纪录",
+                "title": "晨星：SpaceX价值不足其1.75万亿美元IPO目标的一半",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564534.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564582.htm"
             },
             {
-                "title": "AI 谄媚警报：“你绝对正确”让企业 CEO 容易患上“AI 精神病”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-03",
-                "url": "https://www.ithome.com/0/959/269.htm"
-            },
-            {
-                "title": "格罗方德完成对新思科技 ARC 处理器 IP 解决方案业务收购",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-03",
-                "url": "https://www.ithome.com/0/959/268.htm"
-            },
-            {
-                "title": "红杉资本或将收购徕卡相机公司：估值10亿欧元 考虑重新上市",
+                "title": "希音法国再受2250万欧元重罚",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564512.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564580.htm"
             },
             {
-                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
+                "title": "我国科学家找回“丢失”的野生玉米基因，可显著提升其蛋白含量",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-03",
+                "url": "https://www.ithome.com/0/959/577.htm"
+            },
+            {
+                "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-03",
+                "url": "https://36kr.com/p/3837330582008963"
             },
             {
                 "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,31 +148,37 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
             },
             {
+                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-04",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
+            },
+            {
                 "title": "2026年6月3日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-03",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzQxWnF1ZEtwSlZhTEEtTWdHeV9DRUs2YTVLTTM2WkFCQ1gzWFN0ekwySnlycWJhVU9IZklDek1MRno0WG9PVHFTczBvY1o0ZFpWRXM2amd0SjFvUk0yWUoxYlQ0cVo0UHR1UUthNDZDU05ablA1Y0M3NXp5R1ZFOUFGWlgwX1dMTlU0?oc=5"
             },
             {
-                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 81.cn",
+                "title": "“战地被装超市”开进演训场，为驻训官兵解决被装申领难题 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-03",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LazdJRW15SHQwQnZ5eFlBQWxNUHdGWHRfVXg3UTIzWjN0bXNHa3k4ZjVXQTd2MXU5MlRiNHM0OGZ4VGY5ekx4aXowWVY1T0Y5d3IxSmNrYWFsZXp0T2s1WQ?oc=5"
+            },
+            {
+                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERXRMel9xTW5CbEtUZy1WWmNRRnZrNGEteUFvOUVwdlZiSmdhX2NvWW5sRV93ZWg5S05yaS15ZDZxVVprcjlzdXhzNTBsU3ZRN2c?oc=5"
             },
             {
-                "title": "画里有话｜留心那些“不起眼的门” - 81.cn",
+                "title": "画里有话｜留心那些“不起眼的门” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVzhvX2V0TG4zVEJfaXA1X1FrTTNrVExEZS1kSGVaekV6bnZBRzIwdGdqSjJESTdHcWUxVFZ2ODFDX0JONzM5ZzRrZnVhNmRLQVE?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-04T14:52:41.664967+00:00"
+    "last_updated": "2026-06-04T20:01:05.071086+00:00"
 }
