@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米 17T 系列搭载 7000mAh 金沙江电池，迄今为止小米最高含硅量 16%",
+                "title": "全新卫生经济学研究：居家腹透作为起始透析方式兼具临床获益与成本优势",
+                "source": "NewsAPI / GlobeNewswire",
+                "date": "2026-06-05",
+                "url": "https://www.globenewswire.com/news-release/2026/06/05/3307230/0/zh-hans/%E5%85%A8%E6%96%B0%E5%8D%AB%E7%94%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%B1%85%E5%AE%B6%E8%85%B9%E9%80%8F%E4%BD%9C%E4%B8%BA%E8%B5%B7%E5%A7%8B%E9%80%8F%E6%9E%90%E6%96%B9%E5%BC%8F%E5%85%BC%E5%85%B7%E4%B8%B4%E5%BA%8A%E8%8E%B7%E7%9B%8A%E4%B8%8E%E6%88%90%E6%9C%AC%E4%BC%98%E5%8A%BF.html"
+            },
+            {
+                "title": "Token大战中，华为云选择了第三条路｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3840016255126016"
+            },
+            {
+                "title": "中国入境游距离「世界第一」还有多远？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3840001908361472"
+            },
+            {
+                "title": "英伟达黄仁勋：三星、SK 海力士、美光通过认证，有资格供应 HBM4 内存",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-05",
-                "url": "https://www.ithome.com/0/960/256.htm"
+                "url": "https://www.ithome.com/0/960/551.htm"
             },
             {
-                "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "宝马召回超 2000 辆进口摩托车：倒车控制单元密封不良，水汽可能侵入锈蚀内部触点",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-05",
-                "url": "https://36kr.com/p/3839600052898054"
-            },
-            {
-                "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-05",
-                "url": "https://36kr.com/p/3838835333253385"
-            },
-            {
-                "title": "为什么库里没有选择安踏？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-05",
-                "url": "https://36kr.com/p/3836116289877385"
-            },
-            {
-                "title": "今日消费资讯：李洙赫出任 MESSIKA 品牌大使、“Bose 体验周”在杜卡迪百年特展开启",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-06-05",
-                "url": "https://www.toodaylab.com/84068"
+                "url": "https://www.ithome.com/0/960/537.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Token大战中，华为云选择了第三条路｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3840016255126016"
+            },
+            {
+                "title": "雷军：小米机器人团队拿下两大国际赛事冠军，大幅领先第二名",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-05",
+                "url": "https://www.ithome.com/0/960/509.htm"
+            },
             {
                 "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
                 "source": "NewsAPI / 36kr.com",
@@ -62,24 +74,6 @@
                 "url": "https://www.ithome.com/0/960/193.htm"
             },
             {
-                "title": "刚果伊波拉确诊病例已上升到363起 包括62起死亡例 - 8world",
-                "source": "NewsAPI / 8world.com",
-                "date": "2026-06-04",
-                "url": "https://www.8world.com/world/ebola-who-3170766"
-            },
-            {
-                "title": "五眼联盟：中国特工借招聘平台招募线人 中国：恶意诽谤",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-04",
-                "url": "https://www.dw.com/zh/%E4%BA%94%E7%9C%BC%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E7%89%B9%E5%B7%A5%E5%80%9F%E6%8B%9B%E8%81%98%E5%B9%B3%E5%8F%B0%E6%8B%9B%E5%8B%9F%E7%BA%BF%E4%BA%BA-%E4%B8%AD%E5%9B%BD%E6%81%B6%E6%84%8F%E8%AF%BD%E8%B0%A4/a-77424097"
-            },
-            {
-                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
-            },
-            {
                 "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-04",
@@ -89,7 +83,13 @@
                 "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNTJsYVNpdmtPa09EaEdKZXpEMGV6QjFOdGFzVWJoWk9KamhIai0zQ25adF9oX0VFZ3dvRjI1a2lLSUZWU01faDE0MnZRT3VuQUtxVWVweG4?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZUllcE02RlhpOWlfVzZoZGhreUQ3b2I1SGFPRTNOMFByVVFPVFM1clJQVWZRY1VJemZ1NTVtN0xLcHJwSzV1bDZCRzQwcGljcGJPOHRoSHFua1lWUUw3TVF6VQ?oc=5"
+            },
+            {
+                "title": "东部战区新闻发言人就荷兰军舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzV0dPRUlWRmFLTjJXbXN2VFVrTzh3aThEZnJyX0ZjVnBQa3J3NUVObWtlMU1pRWJrS05qcV91ZVNHa0lRSXFRM1lrNFp0dml4eXllalc5ZHpuVzVIam5nLWt4Wk1pQQ?oc=5"
             },
             {
                 "title": "“张超国防班”齐唱《强军战歌》，送给一同奔赴考场的你- 八一视频 - 军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
+                "title": "Token大战中，华为云选择了第三条路｜最前线",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-05",
-                "url": "https://36kr.com/p/3839600052898054"
+                "url": "https://36kr.com/p/3840016255126016"
             },
             {
-                "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+                "title": "中国入境游距离「世界第一」还有多远？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-05",
-                "url": "https://36kr.com/p/3838835333253385"
+                "url": "https://36kr.com/p/3840001908361472"
             },
             {
-                "title": "为什么库里没有选择安踏？",
+                "title": "探店13家，新势力们如何征服50万客群？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-05",
-                "url": "https://36kr.com/p/3836116289877385"
+                "url": "https://36kr.com/p/3839803361741313"
             },
             {
-                "title": "今日消费资讯：李洙赫出任 MESSIKA 品牌大使、“Bose 体验周”在杜卡迪百年特展开启",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "Epic要求最高法院驳回苹果两项上诉请求",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-05",
-                "url": "https://www.toodaylab.com/84068"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564752.htm"
             },
             {
-                "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "传OpenAI推动美国政府持有公司股份 收益向公众分红",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-05",
-                "url": "https://36kr.com/p/3835460873385348"
-            },
-            {
-                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564730.htm"
             },
             {
                 "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -157,7 +151,13 @@
                 "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNTJsYVNpdmtPa09EaEdKZXpEMGV6QjFOdGFzVWJoWk9KamhIai0zQ25adF9oX0VFZ3dvRjI1a2lLSUZWU01faDE0MnZRT3VuQUtxVWVweG4?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZUllcE02RlhpOWlfVzZoZGhreUQ3b2I1SGFPRTNOMFByVVFPVFM1clJQVWZRY1VJemZ1NTVtN0xLcHJwSzV1bDZCRzQwcGljcGJPOHRoSHFua1lWUUw3TVF6VQ?oc=5"
+            },
+            {
+                "title": "东部战区新闻发言人就荷兰军舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzV0dPRUlWRmFLTjJXbXN2VFVrTzh3aThEZnJyX0ZjVnBQa3J3NUVObWtlMU1pRWJrS05qcV91ZVNHa0lRSXFRM1lrNFp0dml4eXllalc5ZHpuVzVIam5nLWt4Wk1pQQ?oc=5"
             },
             {
                 "title": "“张超国防班”齐唱《强军战歌》，送给一同奔赴考场的你- 八一视频 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-06T02:51:13.265326+00:00"
+    "last_updated": "2026-06-06T08:30:13.032363+00:00"
 }
