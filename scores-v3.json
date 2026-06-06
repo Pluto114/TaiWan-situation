@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "IDC 称下半年全球 PC 市场将迎动荡期：短期没有“速效药”，核心问题是缺内存",
+                "title": "小米 17T 系列搭载 7000mAh 金沙江电池，迄今为止小米最高含硅量 16%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-04",
-                "url": "https://www.ithome.com/0/960/180.htm"
+                "date": "2026-06-05",
+                "url": "https://www.ithome.com/0/960/256.htm"
             },
             {
-                "title": "五眼联盟：中国特工借招聘平台招募线人 中国：恶意诽谤",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-04",
-                "url": "https://www.dw.com/zh/%E4%BA%94%E7%9C%BC%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E7%89%B9%E5%B7%A5%E5%80%9F%E6%8B%9B%E8%81%98%E5%B9%B3%E5%8F%B0%E6%8B%9B%E5%8B%9F%E7%BA%BF%E4%BA%BA-%E4%B8%AD%E5%9B%BD%E6%81%B6%E6%84%8F%E8%AF%BD%E8%B0%A4/a-77424097"
+                "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3839600052898054"
             },
             {
-                "title": "访问台湾后 四名新西兰议员被禁止入境中国",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-04",
-                "url": "https://www.dw.com/zh/%E8%AE%BF%E9%97%AE%E5%8F%B0%E6%B9%BE%E5%90%8E-%E5%9B%9B%E5%90%8D%E6%96%B0%E8%A5%BF%E5%85%B0%E8%AE%AE%E5%91%98%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%A5%E5%A2%83%E4%B8%AD%E5%9B%BD/a-77423102"
+                "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3838835333253385"
             },
             {
-                "title": "史上规模最大世界杯开赛在即 卫生部门防控重心不止埃博拉",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564676.htm"
+                "title": "为什么库里没有选择安踏？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3836116289877385"
             },
             {
-                "title": "苹果 2025 年 App Store 生态规模达 1.4 万亿美元较 2019 年增长近三倍，超九成开发者无需支付佣金",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-04",
-                "url": "https://www.ithome.com/0/960/129.htm"
+                "title": "今日消费资讯：李洙赫出任 MESSIKA 品牌大使、“Bose 体验周”在杜卡迪百年特展开启",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-05",
+                "url": "https://www.toodaylab.com/84068"
             }
         ],
         "mil": [
+            {
+                "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3835460873385348"
+            },
+            {
+                "title": "中国信通院：三大运营商“词元产品”服务上架中国算力平台",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-04",
+                "url": "https://www.ithome.com/0/960/199.htm"
+            },
+            {
+                "title": "IT早报 0605：马斯克有望成为首个万亿美元富豪；“苹果输入法你上过学没有”登上热搜；央视揭秘乘用车为何越造越重；微软重押 Win11 原生应用...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-04",
+                "url": "https://www.ithome.com/0/960/193.htm"
+            },
             {
                 "title": "刚果伊波拉确诊病例已上升到363起 包括62起死亡例 - 8world",
                 "source": "NewsAPI / 8world.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.dw.com/zh/%E4%BA%94%E7%9C%BC%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E7%89%B9%E5%B7%A5%E5%80%9F%E6%8B%9B%E8%81%98%E5%B9%B3%E5%8F%B0%E6%8B%9B%E5%8B%9F%E7%BA%BF%E4%BA%BA-%E4%B8%AD%E5%9B%BD%E6%81%B6%E6%84%8F%E8%AF%BD%E8%B0%A4/a-77424097"
             },
             {
-                "title": "史上规模最大世界杯开赛在即 卫生部门防控重心不止埃博拉",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564676.htm"
-            },
-            {
-                "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-04",
-                "url": "https://36kr.com/p/3838702884604421"
-            },
-            {
-                "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-04",
-                "url": "https://36kr.com/p/3838488706370054"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
             },
             {
                 "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -80,22 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
             },
             {
-                "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
-            },
-            {
-                "title": "2026年6月5日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80NmhJVV80THRjbWRBcWotX2pTWXJldXZSa0RLWmVxdXJ1czVSSWdsRVNfN1UyRDlVMXc5R1FiNXNTZnhYYXFOQzlaSmdxcTFRYVhKeE5ZbkZCcm9sNkRlTFJkMmhuZks1OUY2VEtDVkxOWGNhYXc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNTJsYVNpdmtPa09EaEdKZXpEMGV6QjFOdGFzVWJoWk9KamhIai0zQ25adF9oX0VFZ3dvRjI1a2lLSUZWU01faDE0MnZRT3VuQUtxVWVweG4?oc=5"
             },
             {
-                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 军网",
+                "title": "“张超国防班”齐唱《强军战歌》，送给一同奔赴考场的你- 八一视频 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERXRMel9xTW5CbEtUZy1WWmNRRnZrNGEteUFvOUVwdlZiSmdhX2NvWW5sRV93ZWg5S05yaS15ZDZxVVprcjlzdXhzNTBsU3ZRN2c?oc=5"
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUFVMRDhEc2VHTVZ5cVlSV0hycmNmQlhKbnNvSzRodElyTlhSV20wakdVd1dkdEV6R1RGRzlOZDJVRzdVVklCY1dhUkl0SG1nNUJxdmM0a3p5WFJwRHdiak1jczE?oc=5"
             },
             {
                 "title": "李鸿忠会见缅甸外长丁貌瑞 - 军网",
@@ -104,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTb01HYkRhd2xCUU9KTnZseGk4TTF1Wk8wZHZDNmdXSXN2S2s0YmxodWxNR3FfQU5USDNPbXNrXzlsLW9MRk5CM2FRWndQakM4QWc?oc=5"
             },
             {
-                "title": "画里有话｜留心那些“不起眼的门” - 军网",
+                "title": "绿色的小岛，我们的家 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVzhvX2V0TG4zVEJfaXA1X1FrTTNrVExEZS1kSGVaekV6bnZBRzIwdGdqSjJESTdHcWUxVFZ2ODFDX0JONzM5ZzRrZnVhNmRLQVE?oc=5"
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUllaWRCclRqTmE3bmZlLXRmMTVlNThuektiN2pDcVpmdWtwU3Z2SThpN1d3Um5MUlhOUUlHR0lmUUs1bDF2VldVU0V2bUhtM1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "AI大战升级！美国议员警告中共出黑手(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-04",
-                "url": "https://www.secretchina.com/news/gb/2026/06/05/1100067.html"
+                "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3839600052898054"
             },
             {
-                "title": "苹果称2025年App Store生态规模达1.4万亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564682.htm"
+                "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3838835333253385"
             },
             {
-                "title": "慧荣：消费端 NAND 供应紧张持续，2027 年情况只会更糟",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-04",
-                "url": "https://www.ithome.com/0/960/171.htm"
+                "title": "为什么库里没有选择安踏？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3836116289877385"
             },
             {
-                "title": "紧盯黄仁勋访韩动向 一个追踪其行程的网站走红访问量急剧攀升",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564680.htm"
+                "title": "今日消费资讯：李洙赫出任 MESSIKA 品牌大使、“Bose 体验周”在杜卡迪百年特展开启",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-05",
+                "url": "https://www.toodaylab.com/84068"
             },
             {
-                "title": "五眼联盟：中国特工借招聘平台招募线人 中国：恶意诽谤",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-04",
-                "url": "https://www.dw.com/zh/%E4%BA%94%E7%9C%BC%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E7%89%B9%E5%B7%A5%E5%80%9F%E6%8B%9B%E8%81%98%E5%B9%B3%E5%8F%B0%E6%8B%9B%E5%8B%9F%E7%BA%BF%E4%BA%BA-%E4%B8%AD%E5%9B%BD%E6%81%B6%E6%84%8F%E8%AF%BD%E8%B0%A4/a-77424097"
-            },
-            {
-                "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
+                "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-05",
+                "url": "https://36kr.com/p/3835460873385348"
             },
             {
                 "title": "王毅会见下任联合国秘书长候选人巴切莱特 - mfa.gov.cn",
@@ -154,16 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11QmhiVVdsREZwcWtzcll5alZia0ZkN3RRcUY3dTVEeWZiTGduN05udFdqelZYRHpSd2ZCTVd2RlhVNDdYRlBPN1BYbUZyclE0MEhzcnRzQ2w5V2tYYXpBLTA1TUt2NGRjaEdHdkJR?oc=5"
             },
             {
-                "title": "2026年6月5日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "2026年6月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80NmhJVV80THRjbWRBcWotX2pTWXJldXZSa0RLWmVxdXJ1czVSSWdsRVNfN1UyRDlVMXc5R1FiNXNTZnhYYXFOQzlaSmdxcTFRYVhKeE5ZbkZCcm9sNkRlTFJkMmhuZks1OUY2VEtDVkxOWGNhYXc?oc=5"
+                "date": "2026-06-04",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSzJYay1nQnBMZTIyVkxBeER5azZlS2hISjBMWDJEbVRrc0tQY2RVRVVrMmltbU1NeEEtZ1A3am4yMnZtRldkTHJVTDBySGdRTGhFZllTd09MSUpBREMzYjhSSG13aE1BVWJHNk9ZQ3dESTBkM2c?oc=5"
             },
             {
-                "title": "联勤保障部队第九六二医院专设“退役军人诊区” - 军网",
+                "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNTJsYVNpdmtPa09EaEdKZXpEMGV6QjFOdGFzVWJoWk9KamhIai0zQ25adF9oX0VFZ3dvRjI1a2lLSUZWU01faDE0MnZRT3VuQUtxVWVweG4?oc=5"
+            },
+            {
+                "title": "“张超国防班”齐唱《强军战歌》，送给一同奔赴考场的你- 八一视频 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERXRMel9xTW5CbEtUZy1WWmNRRnZrNGEteUFvOUVwdlZiSmdhX2NvWW5sRV93ZWg5S05yaS15ZDZxVVprcjlzdXhzNTBsU3ZRN2c?oc=5"
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUFVMRDhEc2VHTVZ5cVlSV0hycmNmQlhKbnNvSzRodElyTlhSV20wakdVd1dkdEV6R1RGRzlOZDJVRzdVVklCY1dhUkl0SG1nNUJxdmM0a3p5WFJwRHdiak1jczE?oc=5"
             },
             {
                 "title": "李鸿忠会见缅甸外长丁貌瑞 - 军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTb01HYkRhd2xCUU9KTnZseGk4TTF1Wk8wZHZDNmdXSXN2S2s0YmxodWxNR3FfQU5USDNPbXNrXzlsLW9MRk5CM2FRWndQakM4QWc?oc=5"
             },
             {
-                "title": "画里有话｜留心那些“不起眼的门” - 军网",
+                "title": "绿色的小岛，我们的家 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVzhvX2V0TG4zVEJfaXA1X1FrTTNrVExEZS1kSGVaekV6bnZBRzIwdGdqSjJESTdHcWUxVFZ2ODFDX0JONzM5ZzRrZnVhNmRLQVE?oc=5"
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUllaWRCclRqTmE3bmZlLXRmMTVlNThuektiN2pDcVpmdWtwU3Z2SThpN1d3Um5MUlhOUUlHR0lmUUs1bDF2VldVU0V2bUhtM1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-05T19:50:17.581162+00:00"
+    "last_updated": "2026-06-06T02:51:13.265326+00:00"
 }
