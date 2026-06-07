@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Ramp：美国企业 AI 成本飙升，DeepSeek 成为 B2B 市场新宠",
+                "title": "芝奇：AMD EXPO ULL 更适合追求极限性能的用户，X3D 处理器收益相对有限",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/905.htm"
+                "url": "https://www.ithome.com/0/960/970.htm"
             },
             {
-                "title": "2026年第二批医保参照药预沟通论证顺利实施",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-06",
-                "url": "https://36kr.com/newsflashes/3841423767603465"
-            },
-            {
-                "title": "美国芯片股集体下跌，抹去 1.3 万亿美元市值",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/898.htm"
-            },
-            {
-                "title": "美国企业重新给DeepSeek打钱 登顶美国企业新增采购榜",
+                "title": "“廉价”只是传闻 长鑫DDR5内存价格与三星、SK海力士、镁光大致持平",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564844.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564852.htm"
             },
             {
-                "title": "网易《遗忘之海》公测定档 7 月：支持安卓、iOS、PC 互通，已上线苹果 App Store 开启预约",
+                "title": "模组厂商谈长鑫 DDR5 内存：供应端有优势，但价格并不比三大原厂明显便宜",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/891.htm"
+                "url": "https://www.ithome.com/0/960/963.htm"
+            },
+            {
+                "title": "知情人士：美国政府考虑入股人工智能企业",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564850.htm"
+            },
+            {
+                "title": "我国首艘六风帆“混动”滚装船下水，可同时运载 6 架飞机",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-06",
+                "url": "https://www.ithome.com/0/960/934.htm"
             }
         ],
         "mil": [
+            {
+                "title": "首位登 FIA F3 领奖台中国车手诞生：谢咏霖摩纳哥冲刺赛亚军",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-06",
+                "url": "https://www.ithome.com/0/960/959.htm"
+            },
             {
                 "title": "微信给手机AI“开门”了！华为/荣耀/小米要爆发？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,28 +74,22 @@
                 "url": "https://www.voachinese.com/a/house-select-committee-on-china-paid-tribute-to-general-xu-20260605/8157702.html"
             },
             {
-                "title": "Anthropic与白宫修补关系 为万亿美元IPO铺路",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564792.htm"
-            },
-            {
-                "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNTJsYVNpdmtPa09EaEdKZXpEMGV6QjFOdGFzVWJoWk9KamhIai0zQ25adF9oX0VFZ3dvRjI1a2lLSUZWU01faDE0MnZRT3VuQUtxVWVweG4?oc=5"
-            },
-            {
-                "title": "东部战区新闻发言人就荷兰军舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzV0dPRUlWRmFLTjJXbXN2VFVrTzh3aThEZnJyX0ZjVnBQa3J3NUVObWtlMU1pRWJrS05qcV91ZVNHa0lRSXFRM1lrNFp0dml4eXllalc5ZHpuVzVIam5nLWt4Wk1pQQ?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "中华人民共和国和老挝人民民主共和国关于构建新时代全天候中老命运共同体的联合声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-06",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aZS1tLWdxRUhjYmdWZGZSWXZyTE1uSWNOcEtwa0FhWXotTkpvUEFIRUVCQUxsYTY5clZQME85OElrMzdleUVmTTZROFYxYl9vSWkxaldzRTdOWDBmQUE4dUJsQXBGMy02SzNv?oc=5"
+            },
+            {
+                "title": "驻莱索托大使杨晓坤与莱方签署羊毛输华议定书 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHQzRlhTdko2dVRpWmJ0ZHhNMy1lY1diX2JDRFlVcHo2czN0dzdpQU05ZWp3UVNmUm5lTTg3OF9NSGlRRjZYTVduSjdIanBHWU1zSUlJcUZGTUZzWlg1UDhPWmpNU3RvM01mMkxYTTJ4OVVFUWU2X1F2emg5RlF3UF9yWEs?oc=5"
             },
             {
                 "title": "天天学习丨中南海月刊（2026.05） - 军网",
@@ -104,13 +104,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUFVMRDhEc2VHTVZ5cVlSV0hycmNmQlhKbnNvSzRodElyTlhSV20wakdVd1dkdEV6R1RGRzlOZDJVRzdVVklCY1dhUkl0SG1nNUJxdmM0a3p5WFJwRHdiak1jczE?oc=5"
             },
             {
-                "title": "李鸿忠会见缅甸外长丁貌瑞 - 军网",
+                "title": "绿色的小岛，我们的家 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTb01HYkRhd2xCUU9KTnZseGk4TTF1Wk8wZHZDNmdXSXN2S2s0YmxodWxNR3FfQU5USDNPbXNrXzlsLW9MRk5CM2FRWndQakM4QWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUllaWRCclRqTmE3bmZlLXRmMTVlNThuektiN2pDcVpmdWtwU3Z2SThpN1d3Um5MUlhOUUlHR0lmUUs1bDF2VldVU0V2bUhtM1E?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "联合国大学报告：精简 AI 指令中“谢谢”等礼貌用语，可让 ChatGPT 能耗降低 25%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-06",
+                "url": "https://www.ithome.com/0/960/974.htm"
+            },
+            {
+                "title": "我国首艘六风帆“混动”滚装船下水，可同时运载 6 架飞机",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-06",
+                "url": "https://www.ithome.com/0/960/934.htm"
+            },
+            {
+                "title": "特朗普仍考虑与赖清德通话 美促台“更聪明”投资国防",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-06",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E8%80%83%E8%99%91%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E9%80%9A%E8%AF%9D-%E7%BE%8E%E4%BF%83%E5%8F%B0%E6%9B%B4%E8%81%AA%E6%98%8E%E6%8A%95%E8%B5%84%E5%9B%BD%E9%98%B2/a-77444433"
+            },
             {
                 "title": "Ramp：美国企业 AI 成本飙升，DeepSeek 成为 B2B 市场新宠",
                 "source": "NewsAPI / Ithome.com",
@@ -124,40 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1564844.htm"
             },
             {
-                "title": "微信给手机AI“开门”了！华为/荣耀/小米要爆发？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564836.htm"
-            },
-            {
-                "title": "鸿蒙智行智界 V9 今日首批交付，上市 21 天大定突破 18000 台",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/806.htm"
-            },
-            {
-                "title": "中共外交部攻击卢比奥 华人纷纷高喊“感谢美国”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-06",
-                "url": "https://www.secretchina.com/news/gb/2026/06/06/1100141.html"
-            },
-            {
-                "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNTJsYVNpdmtPa09EaEdKZXpEMGV6QjFOdGFzVWJoWk9KamhIai0zQ25adF9oX0VFZ3dvRjI1a2lLSUZWU01faDE0MnZRT3VuQUtxVWVweG4?oc=5"
-            },
-            {
-                "title": "东部战区新闻发言人就荷兰军舰过航台湾海峡发表谈话 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzV0dPRUlWRmFLTjJXbXN2VFVrTzh3aThEZnJyX0ZjVnBQa3J3NUVObWtlMU1pRWJrS05qcV91ZVNHa0lRSXFRM1lrNFp0dml4eXllalc5ZHpuVzVIam5nLWt4Wk1pQQ?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "中华人民共和国和老挝人民民主共和国关于构建新时代全天候中老命运共同体的联合声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-06",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aZS1tLWdxRUhjYmdWZGZSWXZyTE1uSWNOcEtwa0FhWXotTkpvUEFIRUVCQUxsYTY5clZQME85OElrMzdleUVmTTZROFYxYl9vSWkxaldzRTdOWDBmQUE4dUJsQXBGMy02SzNv?oc=5"
+            },
+            {
+                "title": "驻莱索托大使杨晓坤与莱方签署羊毛输华议定书 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-05",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHQzRlhTdko2dVRpWmJ0ZHhNMy1lY1diX2JDRFlVcHo2czN0dzdpQU05ZWp3UVNmUm5lTTg3OF9NSGlRRjZYTVduSjdIanBHWU1zSUlJcUZGTUZzWlg1UDhPWmpNU3RvM01mMkxYTTJ4OVVFUWU2X1F2emg5RlF3UF9yWEs?oc=5"
             },
             {
                 "title": "天天学习丨中南海月刊（2026.05） - 军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUFVMRDhEc2VHTVZ5cVlSV0hycmNmQlhKbnNvSzRodElyTlhSV20wakdVd1dkdEV6R1RGRzlOZDJVRzdVVklCY1dhUkl0SG1nNUJxdmM0a3p5WFJwRHdiak1jczE?oc=5"
             },
             {
-                "title": "李鸿忠会见缅甸外长丁貌瑞 - 军网",
+                "title": "绿色的小岛，我们的家 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTb01HYkRhd2xCUU9KTnZseGk4TTF1Wk8wZHZDNmdXSXN2S2s0YmxodWxNR3FfQU5USDNPbXNrXzlsLW9MRk5CM2FRWndQakM4QWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUllaWRCclRqTmE3bmZlLXRmMTVlNThuektiN2pDcVpmdWtwU3Z2SThpN1d3Um5MUlhOUUlHR0lmUUs1bDF2VldVU0V2bUhtM1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-07T08:52:13.725488+00:00"
+    "last_updated": "2026-06-07T13:46:21.769793+00:00"
 }
