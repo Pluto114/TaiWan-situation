@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "国家外汇局：截至5月末我国外汇储备规模为34422亿美元，升幅0.93%",
-                "source": "NewsAPI / 36kr.com",
+                "title": "京沪高考作文考AI！三大模型同台PK：谁是真正的“作文王者”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-07",
-                "url": "https://36kr.com/newsflashes/3842487443507458"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564902.htm"
             },
             {
-                "title": "韩国投资者持续买入中国硬科技",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-07",
-                "url": "https://36kr.com/newsflashes/3842433670941190"
-            },
-            {
-                "title": "“驼峰”1500H 重载无人机在重庆首飞：最大起飞 1.5 吨、载重 700 公斤",
+                "title": "谷歌 Gemini 语音助理曝漏洞，黑客利用特殊构造通知信息为 AI“下毒”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-07",
-                "url": "https://www.ithome.com/0/961/010.htm"
+                "url": "https://www.ithome.com/0/961/116.htm"
             },
             {
-                "title": "IT早报 0607：字节跳动否认造车传闻；比亚迪腾势 Z 超跑“黑武士”实车曝光；减少礼貌用语可让 AI 能耗降低 25%；曝苹果 iOS 27 将改善 iPhone 17 等机型续航...",
+                "title": "小米 17T 系列手机参数曝光：天玑 8500-Ultra / 天玑 9500 处理器，7000mAh 电池",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/995.htm"
+                "date": "2026-06-07",
+                "url": "https://www.ithome.com/0/961/109.htm"
             },
             {
-                "title": "“不信埃博拉在扩散……为维持生计而工作”刚果金矿村的景象- 阿视亚经济 - 아시아경제",
-                "source": "NewsAPI / Asiae.co.kr",
-                "date": "2026-06-06",
-                "url": "https://www.asiae.co.kr/cn/article/2026060620280463761"
+                "title": "中国冲击波2.0：德国工业将沦为中国的“晚餐”？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-07",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%86%B2%E5%87%BB%E6%B3%A220%E5%BE%B7%E5%9B%BD%E5%B7%A5%E4%B8%9A%E5%B0%86%E6%B2%A6%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%99%9A%E9%A4%90/a-77394232"
+            },
+            {
+                "title": "美媒：中国电动车或在几年内进入美国市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564894.htm"
             }
         ],
         "mil": [
+            {
+                "title": "京沪高考作文考AI！三大模型同台PK：谁是真正的“作文王者”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564902.htm"
+            },
+            {
+                "title": "美媒：中国电动车或在几年内进入美国市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564894.htm"
+            },
             {
                 "title": "IT早报 0607：字节跳动否认造车传闻；比亚迪腾势 Z 超跑“黑武士”实车曝光；减少礼貌用语可让 AI 能耗降低 25%；曝苹果 iOS 27 将改善 iPhone 17 等机型续航...",
                 "source": "NewsAPI / Ithome.com",
@@ -62,22 +74,16 @@
                 "url": "https://www.ithome.com/0/960/959.htm"
             },
             {
-                "title": "微信给手机AI“开门”了！华为/荣耀/小米要爆发？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564836.htm"
-            },
-            {
-                "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-06",
-                "url": "https://36kr.com/p/3840996342073604"
-            },
-            {
                 "title": "习近平在朝鲜媒体发表署名文章 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRWxQaXIzWm5IbjhlcXUxX0ZEWjAteXRuNkhGOHJVekF4SThMdzJDcE5fU2tWbTdmbExhT1FhUm9DZV84WkU2YmxYM1Yyd21Mc1hJcnVqTlA?oc=5"
+            },
+            {
+                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-08",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iSWVPSUM4bDVxb0l0czQxRGxuTVNzWElfcGp4dFVjaVlkM1A4T0RVbTRkVldrOU9rbzR1UmpHQ3A2ek9KdXVwTnZmdS1GUkFMSHNrNFl4eXYtZFpnbS1NNEJIOA?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -86,60 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "韩正会见白俄罗斯第一副总理斯诺普科夫 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRE1qZ0x3M2txR3RUd25yYmhfRWNVaTRHclBzV3J1T1Q2QzY2N0RUTVM1UHc4VVBwRnVpQTVRNXhRZjNKVm1mTE91dzlyaUVtNkpfUElELTdqcEZuYS1wckgtWmRIWERsb2w3VTkwdEY5cEw3TXBZQ2pzREltWi02WHlkYnk0ajQ2d3E0aUpES0ZWZE9NZjJpREdIdVNwQno1MGc?oc=5"
-            },
-            {
                 "title": "天天学习丨中南海月刊（2026.05） - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tS2dXbTdYa3FNWkF0Si1rMzAxNnFRN1NnSTJhTFNWeE81dHU0Q25YVS1keWxZTUszblNmdkZ4ZHZQTG5vZkkybnZ3Q29NaXFzbGc?oc=5"
             },
             {
+                "title": "不出彩不登台、想登台先过硬，点赞随机式分享！ - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oMmt5RFAwYUtnaGZXRkp6VXRTaExuYklFYXRDbTd0Rm1rQTdvWjRmckN6OFhfNXVUTEc3NlRrYlBmdFJUakpXakFaVjQ2SHR1VGJJ?oc=5"
+            },
+            {
                 "title": "第74集团军某旅深入学习贯彻习近平强军思想 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91ZTdlaDdYZ3F0bnlZLTUyQm1LSG1vVHh6RjVSREZpZ09VMkF5WXFaLUl4ZnE4MjhOZWVHeFNvYnUwR1VpMnJfeFRQZGRNYW1veGc?oc=5"
-            },
-            {
-                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-08",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNEpPVEdTRVZhdXhMZzc2M2hoNTdlNV9kQmJmNEV5NjBVVnAzamE4eXZPMnZXTHVJR2hoa1oxV1hZY3ZPRHVFcEh6NA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "创新 Sound Blaster Katana V2X 游戏回音壁曝安全漏洞，15 米内可被劫持",
-                "source": "NewsAPI / Ithome.com",
+                "title": "京沪高考作文考AI！三大模型同台PK：谁是真正的“作文王者”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-07",
-                "url": "https://www.ithome.com/0/961/034.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564902.htm"
             },
             {
-                "title": "智界郭锐透露 V9 超 80% 用户选择 Ultra 高阶版，称首批交付仪式是智界 2.0 时代重要里程碑",
-                "source": "NewsAPI / Ithome.com",
+                "title": "伊朗战火延烧百日 中东邻国忧虑重重",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-06-07",
-                "url": "https://www.ithome.com/0/961/021.htm"
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%88%98%E7%81%AB%E5%BB%B6%E7%83%A7%E7%99%BE%E6%97%A5-%E4%B8%AD%E4%B8%9C%E9%82%BB%E5%9B%BD%E5%BF%A7%E8%99%91%E9%87%8D%E9%87%8D/a-77431802"
             },
             {
-                "title": "喊统一的“华侨”有多少“假动作”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-06",
-                "url": "https://www.secretchina.com/news/gb/2026/06/07/1100168.html"
+                "title": "伊朗战火延烧百日 中东邻国忧虑重重",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-07",
+                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%9C%97%E6%88%98%E7%81%AB%E5%BB%B6%E7%83%A7%E7%99%BE%E6%97%A5-%E4%B8%AD%E4%B8%9C%E9%82%BB%E5%9B%BD%E5%BF%A7%E8%99%91%E9%87%8D%E9%87%8D/a-77431802"
             },
             {
-                "title": "联合国大学报告：精简 AI 指令中“谢谢”等礼貌用语，可让 ChatGPT 能耗降低 25%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/974.htm"
+                "title": "美媒：中国电动车或在几年内进入美国市场",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564894.htm"
             },
             {
-                "title": "我国首艘六风帆“混动”滚装船下水，可同时运载 6 架飞机",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/934.htm"
+                "title": "车规级存储芯片价格暴涨180% 多款新能源车涨价了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1564882.htm"
             },
             {
                 "title": "习近平在朝鲜媒体发表署名文章 - 中华人民共和国国防部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRWxQaXIzWm5IbjhlcXUxX0ZEWjAteXRuNkhGOHJVekF4SThMdzJDcE5fU2tWbTdmbExhT1FhUm9DZV84WkU2YmxYM1Yyd21Mc1hJcnVqTlA?oc=5"
             },
             {
+                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-08",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iSWVPSUM4bDVxb0l0czQxRGxuTVNzWElfcGp4dFVjaVlkM1A4T0RVbTRkVldrOU9rbzR1UmpHQ3A2ek9KdXVwTnZmdS1GUkFMSHNrNFl4eXYtZFpnbS1NNEJIOA?oc=5"
+            },
+            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "韩正会见白俄罗斯第一副总理斯诺普科夫 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRE1qZ0x3M2txR3RUd25yYmhfRWNVaTRHclBzV3J1T1Q2QzY2N0RUTVM1UHc4VVBwRnVpQTVRNXhRZjNKVm1mTE91dzlyaUVtNkpfUElELTdqcEZuYS1wckgtWmRIWERsb2w3VTkwdEY5cEw3TXBZQ2pzREltWi02WHlkYnk0ajQ2d3E0aUpES0ZWZE9NZjJpREdIdVNwQno1MGc?oc=5"
             },
             {
                 "title": "天天学习丨中南海月刊（2026.05） - 军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tS2dXbTdYa3FNWkF0Si1rMzAxNnFRN1NnSTJhTFNWeE81dHU0Q25YVS1keWxZTUszblNmdkZ4ZHZQTG5vZkkybnZ3Q29NaXFzbGc?oc=5"
             },
             {
+                "title": "不出彩不登台、想登台先过硬，点赞随机式分享！ - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oMmt5RFAwYUtnaGZXRkp6VXRTaExuYklFYXRDbTd0Rm1rQTdvWjRmckN6OFhfNXVUTEc3NlRrYlBmdFJUakpXakFaVjQ2SHR1VGJJ?oc=5"
+            },
+            {
                 "title": "第74集团军某旅深入学习贯彻习近平强军思想 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91ZTdlaDdYZ3F0bnlZLTUyQm1LSG1vVHh6RjVSREZpZ09VMkF5WXFaLUl4ZnE4MjhOZWVHeFNvYnUwR1VpMnJfeFRQZGRNYW1veGc?oc=5"
-            },
-            {
-                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-08",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNEpPVEdTRVZhdXhMZzc2M2hoNTdlNV9kQmJmNEV5NjBVVnAzamE4eXZPMnZXTHVJR2hoa1oxV1hZY3ZPRHVFcEh6NA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-08T03:41:20.822680+00:00"
+    "last_updated": "2026-06-08T10:47:05.979937+00:00"
 }
