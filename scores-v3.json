@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "国家外汇局：截至5月末我国外汇储备规模为34422亿美元，升幅0.93%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-07",
+                "url": "https://36kr.com/newsflashes/3842487443507458"
+            },
+            {
+                "title": "韩国投资者持续买入中国硬科技",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-07",
+                "url": "https://36kr.com/newsflashes/3842433670941190"
+            },
+            {
+                "title": "“驼峰”1500H 重载无人机在重庆首飞：最大起飞 1.5 吨、载重 700 公斤",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-07",
+                "url": "https://www.ithome.com/0/961/010.htm"
+            },
+            {
+                "title": "IT早报 0607：字节跳动否认造车传闻；比亚迪腾势 Z 超跑“黑武士”实车曝光；减少礼貌用语可让 AI 能耗降低 25%；曝苹果 iOS 27 将改善 iPhone 17 等机型续航...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-06",
+                "url": "https://www.ithome.com/0/960/995.htm"
+            },
+            {
                 "title": "“不信埃博拉在扩散……为维持生计而工作”刚果金矿村的景象- 阿视亚经济 - 아시아경제",
                 "source": "NewsAPI / Asiae.co.kr",
                 "date": "2026-06-06",
                 "url": "https://www.asiae.co.kr/cn/article/2026060620280463761"
-            },
-            {
-                "title": "芝奇：AMD EXPO ULL 更适合追求极限性能的用户，X3D 处理器收益相对有限",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/970.htm"
-            },
-            {
-                "title": "“廉价”只是传闻 长鑫DDR5内存价格与三星、SK海力士、镁光大致持平",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564852.htm"
-            },
-            {
-                "title": "模组厂商谈长鑫 DDR5 内存：供应端有优势，但价格并不比三大原厂明显便宜",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/963.htm"
-            },
-            {
-                "title": "知情人士：美国政府考虑入股人工智能企业",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564850.htm"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 0607：字节跳动否认造车传闻；比亚迪腾势 Z 超跑“黑武士”实车曝光；减少礼貌用语可让 AI 能耗降低 25%；曝苹果 iOS 27 将改善 iPhone 17 等机型续航...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-06",
+                "url": "https://www.ithome.com/0/960/995.htm"
+            },
             {
                 "title": "《使命召唤：现代战争 4》DMZ 详解：支持 PvPvE、搜打撤与悬赏追杀玩法，10 月 23 日随游戏本体发售",
                 "source": "NewsAPI / Ithome.com",
@@ -68,16 +74,10 @@
                 "url": "https://36kr.com/p/3840996342073604"
             },
             {
-                "title": "IT早报 0606：医保个人账户跨省共济来了；追觅创始人俞浩称将心无旁骛做实业；闻泰科技起诉安世荷兰；美国 Anthropic 呼吁全球 AI 刹车...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-05",
-                "url": "https://www.ithome.com/0/960/763.htm"
-            },
-            {
-                "title": "第一观察 | 推动中朝关系与时俱进取得更大发展 - 中华人民共和国国防部",
+                "title": "习近平在朝鲜媒体发表署名文章 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-06",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JVEI3NllERzFoY2pFYWdZOHJzWFVJSFN1ZXVJUHFzeWY1XzgyVm9EOWFjVEdfSVNKTDhJSktLUXNyVkowSmJjaTBJQ0RzSjdfS0ZUcjRMNVNNWS03X1VDUzlZQnZrdw?oc=5"
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRWxQaXIzWm5IbjhlcXUxX0ZEWjAteXRuNkhGOHJVekF4SThMdzJDcE5fU2tWbTdmbExhT1FhUm9DZV84WkU2YmxYM1Yyd21Mc1hJcnVqTlA?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "中华人民共和国和老挝人民民主共和国关于构建新时代全天候中老命运共同体的联合声明 - mfa.gov.cn",
+                "title": "韩正会见白俄罗斯第一副总理斯诺普科夫 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-06",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aZS1tLWdxRUhjYmdWZGZSWXZyTE1uSWNOcEtwa0FhWXotTkpvUEFIRUVCQUxsYTY5clZQME85OElrMzdleUVmTTZROFYxYl9vSWkxaldzRTdOWDBmQUE4dUJsQXBGMy02SzNv?oc=5"
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRE1qZ0x3M2txR3RUd25yYmhfRWNVaTRHclBzV3J1T1Q2QzY2N0RUTVM1UHc4VVBwRnVpQTVRNXhRZjNKVm1mTE91dzlyaUVtNkpfUElELTdqcEZuYS1wckgtWmRIWERsb2w3VTkwdEY5cEw3TXBZQ2pzREltWi02WHlkYnk0ajQ2d3E0aUpES0ZWZE9NZjJpREdIdVNwQno1MGc?oc=5"
             },
             {
                 "title": "天天学习丨中南海月刊（2026.05） - 军网",
@@ -98,19 +98,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tS2dXbTdYa3FNWkF0Si1rMzAxNnFRN1NnSTJhTFNWeE81dHU0Q25YVS1keWxZTUszblNmdkZ4ZHZQTG5vZkkybnZ3Q29NaXFzbGc?oc=5"
             },
             {
-                "title": "“张超国防班”齐唱《强军战歌》，送给一同奔赴考场的你- 八一视频 - 军网",
+                "title": "第74集团军某旅深入学习贯彻习近平强军思想 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUFVMRDhEc2VHTVZ5cVlSV0hycmNmQlhKbnNvSzRodElyTlhSV20wakdVd1dkdEV6R1RGRzlOZDJVRzdVVklCY1dhUkl0SG1nNUJxdmM0a3p5WFJwRHdiak1jczE?oc=5"
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91ZTdlaDdYZ3F0bnlZLTUyQm1LSG1vVHh6RjVSREZpZ09VMkF5WXFaLUl4ZnE4MjhOZWVHeFNvYnUwR1VpMnJfeFRQZGRNYW1veGc?oc=5"
             },
             {
-                "title": "绿色的小岛，我们的家 - 军网",
+                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUllaWRCclRqTmE3bmZlLXRmMTVlNThuektiN2pDcVpmdWtwU3Z2SThpN1d3Um5MUlhOUUlHR0lmUUs1bDF2VldVU0V2bUhtM1E?oc=5"
+                "date": "2026-06-08",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNEpPVEdTRVZhdXhMZzc2M2hoNTdlNV9kQmJmNEV5NjBVVnAzamE4eXZPMnZXTHVJR2hoa1oxV1hZY3ZPRHVFcEh6NA?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "创新 Sound Blaster Katana V2X 游戏回音壁曝安全漏洞，15 米内可被劫持",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-07",
+                "url": "https://www.ithome.com/0/961/034.htm"
+            },
+            {
+                "title": "智界郭锐透露 V9 超 80% 用户选择 Ultra 高阶版，称首批交付仪式是智界 2.0 时代重要里程碑",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-07",
+                "url": "https://www.ithome.com/0/961/021.htm"
+            },
+            {
+                "title": "喊统一的“华侨”有多少“假动作”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-06",
+                "url": "https://www.secretchina.com/news/gb/2026/06/07/1100168.html"
+            },
             {
                 "title": "联合国大学报告：精简 AI 指令中“谢谢”等礼貌用语，可让 ChatGPT 能耗降低 25%",
                 "source": "NewsAPI / Ithome.com",
@@ -124,28 +142,10 @@
                 "url": "https://www.ithome.com/0/960/934.htm"
             },
             {
-                "title": "特朗普仍考虑与赖清德通话 美促台“更聪明”投资国防",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-06",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E8%80%83%E8%99%91%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E9%80%9A%E8%AF%9D-%E7%BE%8E%E4%BF%83%E5%8F%B0%E6%9B%B4%E8%81%AA%E6%98%8E%E6%8A%95%E8%B5%84%E5%9B%BD%E9%98%B2/a-77444433"
-            },
-            {
-                "title": "Ramp：美国企业 AI 成本飙升，DeepSeek 成为 B2B 市场新宠",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-06",
-                "url": "https://www.ithome.com/0/960/905.htm"
-            },
-            {
-                "title": "美国企业重新给DeepSeek打钱 登顶美国企业新增采购榜",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564844.htm"
-            },
-            {
-                "title": "第一观察 | 推动中朝关系与时俱进取得更大发展 - 中华人民共和国国防部",
+                "title": "习近平在朝鲜媒体发表署名文章 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-06",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JVEI3NllERzFoY2pFYWdZOHJzWFVJSFN1ZXVJUHFzeWY1XzgyVm9EOWFjVEdfSVNKTDhJSktLUXNyVkowSmJjaTBJQ0RzSjdfS0ZUcjRMNVNNWS03X1VDUzlZQnZrdw?oc=5"
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRWxQaXIzWm5IbjhlcXUxX0ZEWjAteXRuNkhGOHJVekF4SThMdzJDcE5fU2tWbTdmbExhT1FhUm9DZV84WkU2YmxYM1Yyd21Mc1hJcnVqTlA?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "中华人民共和国和老挝人民民主共和国关于构建新时代全天候中老命运共同体的联合声明 - mfa.gov.cn",
+                "title": "韩正会见白俄罗斯第一副总理斯诺普科夫 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-06",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aZS1tLWdxRUhjYmdWZGZSWXZyTE1uSWNOcEtwa0FhWXotTkpvUEFIRUVCQUxsYTY5clZQME85OElrMzdleUVmTTZROFYxYl9vSWkxaldzRTdOWDBmQUE4dUJsQXBGMy02SzNv?oc=5"
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRE1qZ0x3M2txR3RUd25yYmhfRWNVaTRHclBzV3J1T1Q2QzY2N0RUTVM1UHc4VVBwRnVpQTVRNXhRZjNKVm1mTE91dzlyaUVtNkpfUElELTdqcEZuYS1wckgtWmRIWERsb2w3VTkwdEY5cEw3TXBZQ2pzREltWi02WHlkYnk0ajQ2d3E0aUpES0ZWZE9NZjJpREdIdVNwQno1MGc?oc=5"
             },
             {
                 "title": "天天学习丨中南海月刊（2026.05） - 军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tS2dXbTdYa3FNWkF0Si1rMzAxNnFRN1NnSTJhTFNWeE81dHU0Q25YVS1keWxZTUszblNmdkZ4ZHZQTG5vZkkybnZ3Q29NaXFzbGc?oc=5"
             },
             {
-                "title": "“张超国防班”齐唱《强军战歌》，送给一同奔赴考场的你- 八一视频 - 军网",
+                "title": "第74集团军某旅深入学习贯彻习近平强军思想 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUFVMRDhEc2VHTVZ5cVlSV0hycmNmQlhKbnNvSzRodElyTlhSV20wakdVd1dkdEV6R1RGRzlOZDJVRzdVVklCY1dhUkl0SG1nNUJxdmM0a3p5WFJwRHdiak1jczE?oc=5"
+                "date": "2026-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91ZTdlaDdYZ3F0bnlZLTUyQm1LSG1vVHh6RjVSREZpZ09VMkF5WXFaLUl4ZnE4MjhOZWVHeFNvYnUwR1VpMnJfeFRQZGRNYW1veGc?oc=5"
             },
             {
-                "title": "绿色的小岛，我们的家 - 军网",
+                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUllaWRCclRqTmE3bmZlLXRmMTVlNThuektiN2pDcVpmdWtwU3Z2SThpN1d3Um5MUlhOUUlHR0lmUUs1bDF2VldVU0V2bUhtM1E?oc=5"
+                "date": "2026-06-08",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNEpPVEdTRVZhdXhMZzc2M2hoNTdlNV9kQmJmNEV5NjBVVnAzamE4eXZPMnZXTHVJR2hoa1oxV1hZY3ZPRHVFcEh6NA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-07T19:18:20.827792+00:00"
+    "last_updated": "2026-06-08T03:41:20.822680+00:00"
 }
