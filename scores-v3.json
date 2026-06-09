@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "苹果新一代 Siri AI 功能今年内同样无法在欧盟和中国上线",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565028.htm"
+            },
+            {
+                "title": "TCL 华星官宣供屏小米 17T 系列手机：最新发光材料与 2D 纯直屏工艺，全系标配莱茵四重护眼认证",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-08",
+                "url": "https://www.ithome.com/0/961/658.htm"
+            },
+            {
+                "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-08",
+                "url": "https://36kr.com/p/3844185422400008"
+            },
+            {
+                "title": "Alphabet委托英特尔生产300万颗自研芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565006.htm"
+            },
+            {
                 "title": "川普对伊强硬政策见效 德黑兰陷入经济与军事双重危机(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-06-08",
                 "url": "https://www.secretchina.com/news/gb/2026/06/08/1100241.html"
-            },
-            {
-                "title": "SpaceX即将创下历史最大IPO 估值将达1.77万亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565002.htm"
-            },
-            {
-                "title": "欧盟推数字主权一揽子计划 加速摆脱对美国技术依赖",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565000.htm"
-            },
-            {
-                "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-08",
-                "url": "https://36kr.com/p/3844559758936582"
-            },
-            {
-                "title": "马斯克即将成为全球首位万亿富豪 一万亿美元到底是什么概念？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564996.htm"
             }
         ],
         "mil": [
+            {
+                "title": "用 AI 猜胜负：Kimi 官宣将公开预测 104 场世界杯赛事，德国队或爆冷夺冠",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-08",
+                "url": "https://www.ithome.com/0/961/634.htm"
+            },
             {
                 "title": "川普对伊强硬政策见效 德黑兰陷入经济与军事双重危机(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,19 +74,13 @@
                 "url": "https://36kr.com/p/3844199957236227"
             },
             {
-                "title": "中外六大AI出战上海高考作文 实测DeepSeek与Gemini夺魁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564960.htm"
-            },
-            {
-                "title": "习近平和彭丽媛参谒中朝友谊塔 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CR1JiaWdxVktENWczdnFvYWxvcGRabWVHY1hzdWtXd0hSaVFRWnNTN29TRnAxcnJuVElCLVFYZXFIRFVPUEpFR3JGWHV0dzd1Vkk4SWhVSkExSU5OLUxLUTRNdWJBWm1kVWZZ?oc=5"
             },
             {
-                "title": "习近平参访朝鲜劳动党中央干部学校 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55ZUhzYWdWUE9OZjBoT1dkVURnaFVkNUpWc01Ld2dGSFlJc0ZGZnNHbXJJbTZza212SmgydkRSdWhOdFdkTHlpd0tOak13Z2pkdU5PWm5kX2hicGFQSFNRVFRmSlpGRFZpSWZv?oc=5"
@@ -92,25 +92,37 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uMmNlbTRxWk5OdDJLb0xZZk9NTndJOHJkMzBEUUV0bjdpUVR5cTVkSGhNckc3WGl0cExVNTg4cllTbkVQYU1SS0c3WFZscUJleU1uei12UDNjVC01VmFGTDNYeUt6MEw4ZEdZ?oc=5"
             },
             {
-                "title": "习近平抵达平壤开始对朝鲜进行国事访问 - 军网",
+                "title": "习近平抵达平壤开始对朝鲜进行国事访问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-08",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kaWR6ZGNvaHFvbVk3Q0VMQVBKVnFGQWdkN25nT2FpRS1SUkZXTHdqU0lzYTJsRThHLTIyT0FFcFpNZGtUdGk5TFJnbw?oc=5"
             },
             {
-                "title": "不出彩不登台、想登台先过硬，点赞随机式分享！ - 军网",
+                "title": "不出彩不登台、想登台先过硬，点赞随机式分享！ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oMmt5RFAwYUtnaGZXRkp6VXRTaExuYklFYXRDbTd0Rm1rQTdvWjRmckN6OFhfNXVUTEc3NlRrYlBmdFJUakpXakFaVjQ2SHR1VGJJ?oc=5"
             },
             {
-                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 军网",
+                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-08",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNEpPVEdTRVZhdXhMZzc2M2hoNTdlNV9kQmJmNEV5NjBVVnAzamE4eXZPMnZXTHVJR2hoa1oxV1hZY3ZPRHVFcEh6NA?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "Alphabet委托英特尔生产300万颗自研芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565006.htm"
+            },
+            {
+                "title": "用 AI 猜胜负：Kimi 官宣将公开预测 104 场世界杯赛事，德国队或爆冷夺冠",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-08",
+                "url": "https://www.ithome.com/0/961/634.htm"
+            },
             {
                 "title": "欧盟推数字主权一揽子计划 加速摆脱对美国技术依赖",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -130,25 +142,13 @@
                 "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E6%9C%9D%E5%90%91%E6%99%AE%E4%BA%AC%E4%BC%A0%E9%80%92%E4%BF%A1%E5%8F%B7/a-77460752"
             },
             {
-                "title": "马斯克即将成为全球首位万亿富豪 一万亿美元到底是什么概念？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1564996.htm"
-            },
-            {
-                "title": "星空顶可收纳：鸿蒙智行尊界 V800 细节曝光，新车有望成为中国首款百万级 MPV",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-08",
-                "url": "https://www.ithome.com/0/961/596.htm"
-            },
-            {
-                "title": "习近平和彭丽媛参谒中朝友谊塔 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CR1JiaWdxVktENWczdnFvYWxvcGRabWVHY1hzdWtXd0hSaVFRWnNTN29TRnAxcnJuVElCLVFYZXFIRFVPUEpFR3JGWHV0dzd1Vkk4SWhVSkExSU5OLUxLUTRNdWJBWm1kVWZZ?oc=5"
             },
             {
-                "title": "习近平参访朝鲜劳动党中央干部学校 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55ZUhzYWdWUE9OZjBoT1dkVURnaFVkNUpWc01Ld2dGSFlJc0ZGZnNHbXJJbTZza212SmgydkRSdWhOdFdkTHlpd0tOak13Z2pkdU5PWm5kX2hicGFQSFNRVFRmSlpGRFZpSWZv?oc=5"
@@ -160,19 +160,19 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uMmNlbTRxWk5OdDJLb0xZZk9NTndJOHJkMzBEUUV0bjdpUVR5cTVkSGhNckc3WGl0cExVNTg4cllTbkVQYU1SS0c3WFZscUJleU1uei12UDNjVC01VmFGTDNYeUt6MEw4ZEdZ?oc=5"
             },
             {
-                "title": "习近平抵达平壤开始对朝鲜进行国事访问 - 军网",
+                "title": "习近平抵达平壤开始对朝鲜进行国事访问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-08",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kaWR6ZGNvaHFvbVk3Q0VMQVBKVnFGQWdkN25nT2FpRS1SUkZXTHdqU0lzYTJsRThHLTIyT0FFcFpNZGtUdGk5TFJnbw?oc=5"
             },
             {
-                "title": "不出彩不登台、想登台先过硬，点赞随机式分享！ - 军网",
+                "title": "不出彩不登台、想登台先过硬，点赞随机式分享！ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oMmt5RFAwYUtnaGZXRkp6VXRTaExuYklFYXRDbTd0Rm1rQTdvWjRmckN6OFhfNXVUTEc3NlRrYlBmdFJUakpXakFaVjQ2SHR1VGJJ?oc=5"
             },
             {
-                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 军网",
+                "title": "习近平抵达平壤 开始对朝鲜进行国事访问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-08",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNEpPVEdTRVZhdXhMZzc2M2hoNTdlNV9kQmJmNEV5NjBVVnAzamE4eXZPMnZXTHVJR2hoa1oxV1hZY3ZPRHVFcEh6NA?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-09T14:43:25.090300+00:00"
+    "last_updated": "2026-06-09T20:03:40.026367+00:00"
 }
