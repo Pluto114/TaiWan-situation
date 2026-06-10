@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美国众议院通过关键矿产法案 强化盟友合作抗衡中国稀土主导地位",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-09",
+                "url": "https://www.voachinese.com/a/house-passes-critical-minerals-bill-to-bolster-alliances-and-reduce-reliance-on-china-20260609/8159024.html"
+            },
+            {
+                "title": "飞利浦北美CEO：人工智能正在提升临床医生的准确性",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565208.htm"
+            },
+            {
+                "title": "研究认为iPhone的普及显著拉低了美国30岁以下女性的生育率",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565204.htm"
+            },
+            {
+                "title": "中国首个海上风电供能水下数据中心在上海投入运行",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565188.htm"
+            },
+            {
                 "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-09",
                 "url": "https://36kr.com/p/3846046471277059"
-            },
-            {
-                "title": "研究：中美若因台湾开战 欧盟或损失2万亿美元",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-09",
-                "url": "https://www.dw.com/zh/%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%BE%8E%E8%8B%A5%E5%9B%A0%E5%8F%B0%E6%B9%BE%E5%BC%80%E6%88%98-%E6%AC%A7%E7%9B%9F%E6%88%96%E6%8D%9F%E5%A4%B12%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83/a-77477159"
-            },
-            {
-                "title": "空客 CEO 纪尧姆傅里：供应链明显改善，对普惠发动机交付速度不满",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/962/108.htm"
-            },
-            {
-                "title": "LLVM / Clang 正式支持国产海光 C86-4G 处理器，覆盖 M4、M6 和 M7 型号",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/962/104.htm"
-            },
-            {
-                "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-09",
-                "url": "https://36kr.com/p/3845899768760580"
             }
         ],
         "mil": [
             {
+                "title": "习近平结束对朝鲜的访问，不提“无核化”；中朝靠拢，美日韩或因此加强三边合作",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-09",
+                "url": "https://www.voachinese.com/a/xi-s-north-korea-visit-signals-wider-challenge-for-us-and-allies-in-asia-pacific-20260609/8158965.html"
+            },
+            {
+                "title": "习近平访问朝鲜结束 金正恩雷霆大火发照片(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-09",
+                "url": "https://www.secretchina.com/news/gb/2026/06/10/1100303.html"
+            },
+            {
+                "title": "台湾实施摧毁中国入侵部队的反登陆重炮实弹演习",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-09",
+                "url": "https://www.voachinese.com/a/taiwan-simulates-destroying-an-invading-chinese-force-in-coastal-drill-20260609/8159012.html"
+            },
+            {
                 "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-09",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-09",
                 "url": "https://36kr.com/p/3845899768760580"
-            },
-            {
-                "title": "曾连续成功押中四届世界杯冠军，EA 预测西班牙今年将二度捧起大力神杯",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/962/033.htm"
-            },
-            {
-                "title": "美国首座私营新一代模块化微堆实现临界运行",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565140.htm"
-            },
-            {
-                "title": "美媒曝光马斯克与美 FCC 主席渊源：“友谊”为 SpaceX 上市铺路",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/961/954.htm"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hRW5SZGVKcGVFUXc3c1hzd0xYNjRkSG50UFQySm81dGZ1YUJBaTNXd3VEVXRGYVpBbkxPMHh3Rkt6bU8yT0lZcjJielF6NXZCSUE?oc=5"
             },
             {
+                "title": "特写：“永恒的历史记忆” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yaS0wVmN6dkZTV19mN0ZFTi1IWEtUUUZPWDlhMGx0TWR3LUp2RFlQc051R0xJa1NEN1M4enZzZV9hbldjbGFvd0pnLVZXSU1PRnc?oc=5"
+            },
+            {
                 "title": "国防部：2026年全军院校计划招收约1.75万名普通高中毕业生 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRVRsVFJ2QlVSRjdCdk42OGRza2xNQzVoVFNGbHZYekRxNzBfUC1yZUNXVXQxWG9kdGZxVFl1dzZfV1JMZ2doSFY2bjVIMFVoaGc?oc=5"
-            },
-            {
-                "title": "一场“没劲”的篮球赛，换来一份走心的文体活动新方案 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92TlhrakhGYVloc2ZvVnplNW9IckVVbWNycnRwNTB3TnAzNWlCZUhIbWtjbG01cm9LVlM4bWJzUTVqdml0d1NkaVRJSl9hcHVXYUE?oc=5"
             }
         ],
         "pol": [
             {
+                "title": "中国专家组同国际机构代表座谈埃博拉防控 - 新华网客户端",
+                "source": "NewsAPI / Xinhua Net",
+                "date": "2026-06-09",
+                "url": "https://app.xinhuanet.com/news/article.html?articleId=20260609f6bd653135e74f84863ed1a8cf75cc80"
+            },
+            {
+                "title": "习近平访问朝鲜结束 金正恩雷霆大火发照片(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-09",
+                "url": "https://www.secretchina.com/news/gb/2026/06/10/1100303.html"
+            },
+            {
+                "title": "研究认为iPhone的普及显著拉低了美国30岁以下女性的生育率",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565204.htm"
+            },
+            {
+                "title": "中国首个海上风电供能水下数据中心在上海投入运行",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565188.htm"
+            },
+            {
                 "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-09",
                 "url": "https://36kr.com/p/3846046471277059"
-            },
-            {
-                "title": "空客 CEO 纪尧姆傅里：供应链明显改善，对普惠发动机交付速度不满",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/962/108.htm"
-            },
-            {
-                "title": "因 CNC 工艺存在瑕疵，Pebble 延迟 Round 2 手表量产计划",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/962/101.htm"
-            },
-            {
-                "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-09",
-                "url": "https://36kr.com/p/3845899768760580"
-            },
-            {
-                "title": "伊圖里爆發伊波拉疫情，已致101人死亡，世衛組織呼籲國際支援| 乌克兰新闻 - mezha.net",
-                "source": "NewsAPI / Mezha.net",
-                "date": "2026-06-09",
-                "url": "https://mezha.net/ch/bukvy/4e7ad75d_ebola_outbreak_kills/"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hRW5SZGVKcGVFUXc3c1hzd0xYNjRkSG50UFQySm81dGZ1YUJBaTNXd3VEVXRGYVpBbkxPMHh3Rkt6bU8yT0lZcjJielF6NXZCSUE?oc=5"
             },
             {
+                "title": "特写：“永恒的历史记忆” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yaS0wVmN6dkZTV19mN0ZFTi1IWEtUUUZPWDlhMGx0TWR3LUp2RFlQc051R0xJa1NEN1M4enZzZV9hbldjbGFvd0pnLVZXSU1PRnc?oc=5"
+            },
+            {
                 "title": "国防部：2026年全军院校计划招收约1.75万名普通高中毕业生 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRVRsVFJ2QlVSRjdCdk42OGRza2xNQzVoVFNGbHZYekRxNzBfUC1yZUNXVXQxWG9kdGZxVFl1dzZfV1JMZ2doSFY2bjVIMFVoaGc?oc=5"
-            },
-            {
-                "title": "一场“没劲”的篮球赛，换来一份走心的文体活动新方案 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92TlhrakhGYVloc2ZvVnplNW9IckVVbWNycnRwNTB3TnAzNWlCZUhIbWtjbG01cm9LVlM4bWJzUTVqdml0d1NkaVRJSl9hcHVXYUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-10T15:26:27.028960+00:00"
+    "last_updated": "2026-06-10T20:26:11.069790+00:00"
 }
