@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "5月中国出口大增 芯片重塑贸易格局？",
+                "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-09",
+                "url": "https://36kr.com/p/3846046471277059"
+            },
+            {
+                "title": "研究：中美若因台湾开战 欧盟或损失2万亿美元",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-09",
-                "url": "https://www.dw.com/zh/5%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E5%A4%A7%E5%A2%9E-%E8%8A%AF%E7%89%87%E9%87%8D%E5%A1%91%E8%B4%B8%E6%98%93%E6%A0%BC%E5%B1%80/a-77470935"
+                "url": "https://www.dw.com/zh/%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%BE%8E%E8%8B%A5%E5%9B%A0%E5%8F%B0%E6%B9%BE%E5%BC%80%E6%88%98-%E6%AC%A7%E7%9B%9F%E6%88%96%E6%8D%9F%E5%A4%B12%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83/a-77477159"
             },
             {
-                "title": "美前防长：台海爆冲突 全球经济冲击将远超荷莫兹海峡(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-09",
-                "url": "https://www.secretchina.com/news/gb/2026/06/09/1100276.html"
-            },
-            {
-                "title": "美国首座私营新一代模块化微堆实现临界运行",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565140.htm"
-            },
-            {
-                "title": "美媒曝光马斯克与美 FCC 主席渊源：“友谊”为 SpaceX 上市铺路",
+                "title": "空客 CEO 纪尧姆傅里：供应链明显改善，对普惠发动机交付速度不满",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/961/954.htm"
+                "url": "https://www.ithome.com/0/962/108.htm"
             },
             {
-                "title": "Meta投1.15亿美元办免费AI基建蓝领培训 毕业包分配",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "LLVM / Clang 正式支持国产海光 C86-4G 处理器，覆盖 M4、M6 和 M7 型号",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565126.htm"
+                "url": "https://www.ithome.com/0/962/104.htm"
+            },
+            {
+                "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-09",
+                "url": "https://36kr.com/p/3845899768760580"
             }
         ],
         "mil": [
+            {
+                "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-09",
+                "url": "https://36kr.com/p/3846046471277059"
+            },
+            {
+                "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-09",
+                "url": "https://36kr.com/p/3845899768760580"
+            },
             {
                 "title": "曾连续成功押中四届世界杯冠军，EA 预测西班牙今年将二度捧起大力神杯",
                 "source": "NewsAPI / Ithome.com",
@@ -62,90 +74,72 @@
                 "url": "https://www.ithome.com/0/961/954.htm"
             },
             {
-                "title": "库克下台前的最后一搏：花钱消灾",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565116.htm"
-            },
-            {
-                "title": "iOS 27更新非常大 可惜我们只能用用调休闹钟",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565112.htm"
-            },
-            {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-09",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CR1JiaWdxVktENWczdnFvYWxvcGRabWVHY1hzdWtXd0hSaVFRWnNTN29TRnAxcnJuVElCLVFYZXFIRFVPUEpFR3JGWHV0dzd1Vkk4SWhVSkExSU5OLUxLUTRNdWJBWm1kVWZZ?oc=5"
-            },
-            {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55ZUhzYWdWUE9OZjBoT1dkVURnaFVkNUpWc01Ld2dGSFlJc0ZGZnNHbXJJbTZza212SmgydkRSdWhOdFdkTHlpd0tOak13Z2pkdU5PWm5kX2hicGFQSFNRVFRmSlpGRFZpSWZv?oc=5"
             },
             {
-                "title": "习近平出席金正恩举行的欢迎宴会 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-08",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yS3NFczBXOVhMUUZLTzFwaU1faER3eXRxbnBzdlh4NHRjUldhMzdabUxkMUdIRVAwRzBkYlkwNGpORDVycXA2VnBORy1kZkJiMXMyam1DeGJLQ24zYjlKTUlLd25Kcl9PZUd3?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "基层“抓建指南”喜结硕果，激发官兵内生动力 - 军网",
+                "title": "驻加拿大使领馆提醒赴加观看国际足联世界杯中国公民安全出行文明观赛 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-10",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ndnJjZEhKUVBVTnhZQXduVWE2UEJfQUZwdy11RzRkdmVWTkt1QnVpS2NlNWdYY0xhbHlTeG5GRmwta1JHcjl0ZGVkbXBYT2lRSFE1UUZxUjl1b2t2c3FlTGZNOXBERm0xZXBRODJBSlZWaFZZWmItN09XNDc?oc=5"
+            },
+            {
+                "title": "基层“抓建指南”喜结硕果，激发官兵内生动力 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hRW5SZGVKcGVFUXc3c1hzd0xYNjRkSG50UFQySm81dGZ1YUJBaTNXd3VEVXRGYVpBbkxPMHh3Rkt6bU8yT0lZcjJielF6NXZCSUE?oc=5"
             },
             {
-                "title": "特写：“永恒的历史记忆” - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yaS0wVmN6dkZTV19mN0ZFTi1IWEtUUUZPWDlhMGx0TWR3LUp2RFlQc051R0xJa1NEN1M4enZzZV9hbldjbGFvd0pnLVZXSU1PRnc?oc=5"
-            },
-            {
-                "title": "国防部：2026年全军院校计划招收约1.75万名普通高中毕业生 - 军网",
+                "title": "国防部：2026年全军院校计划招收约1.75万名普通高中毕业生 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRVRsVFJ2QlVSRjdCdk42OGRza2xNQzVoVFNGbHZYekRxNzBfUC1yZUNXVXQxWG9kdGZxVFl1dzZfV1JMZ2doSFY2bjVIMFVoaGc?oc=5"
+            },
+            {
+                "title": "一场“没劲”的篮球赛，换来一份走心的文体活动新方案 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92TlhrakhGYVloc2ZvVnplNW9IckVVbWNycnRwNTB3TnAzNWlCZUhIbWtjbG01cm9LVlM4bWJzUTVqdml0d1NkaVRJSl9hcHVXYUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
+                "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-09",
-                "url": "https://36kr.com/p/3845645258541319"
+                "url": "https://36kr.com/p/3846046471277059"
             },
             {
-                "title": "美国首座私营新一代模块化微堆实现临界运行",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565140.htm"
-            },
-            {
-                "title": "美媒曝光马斯克与美 FCC 主席渊源：“友谊”为 SpaceX 上市铺路",
+                "title": "空客 CEO 纪尧姆傅里：供应链明显改善，对普惠发动机交付速度不满",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-09",
-                "url": "https://www.ithome.com/0/961/954.htm"
+                "url": "https://www.ithome.com/0/962/108.htm"
             },
             {
-                "title": "SpaceX即将上市 马斯克亮出AI卫星造势：比造星链更容易",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "因 CNC 工艺存在瑕疵，Pebble 延迟 Round 2 手表量产计划",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565122.htm"
+                "url": "https://www.ithome.com/0/962/101.htm"
             },
             {
-                "title": "曾轰动全球的Donut全固态电池被证实造假 实际仅为锂电池",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565120.htm"
+                "url": "https://36kr.com/p/3845899768760580"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "伊圖里爆發伊波拉疫情，已致101人死亡，世衛組織呼籲國際支援| 乌克兰新闻 - mezha.net",
+                "source": "NewsAPI / Mezha.net",
                 "date": "2026-06-09",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CR1JiaWdxVktENWczdnFvYWxvcGRabWVHY1hzdWtXd0hSaVFRWnNTN29TRnAxcnJuVElCLVFYZXFIRFVPUEpFR3JGWHV0dzd1Vkk4SWhVSkExSU5OLUxLUTRNdWJBWm1kVWZZ?oc=5"
+                "url": "https://mezha.net/ch/bukvy/4e7ad75d_ebola_outbreak_kills/"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,31 +148,37 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55ZUhzYWdWUE9OZjBoT1dkVURnaFVkNUpWc01Ld2dGSFlJc0ZGZnNHbXJJbTZza212SmgydkRSdWhOdFdkTHlpd0tOak13Z2pkdU5PWm5kX2hicGFQSFNRVFRmSlpGRFZpSWZv?oc=5"
             },
             {
-                "title": "习近平出席金正恩举行的欢迎宴会 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-08",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yS3NFczBXOVhMUUZLTzFwaU1faER3eXRxbnBzdlh4NHRjUldhMzdabUxkMUdIRVAwRzBkYlkwNGpORDVycXA2VnBORy1kZkJiMXMyam1DeGJLQ24zYjlKTUlLd25Kcl9PZUd3?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "基层“抓建指南”喜结硕果，激发官兵内生动力 - 军网",
+                "title": "驻加拿大使领馆提醒赴加观看国际足联世界杯中国公民安全出行文明观赛 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-10",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ndnJjZEhKUVBVTnhZQXduVWE2UEJfQUZwdy11RzRkdmVWTkt1QnVpS2NlNWdYY0xhbHlTeG5GRmwta1JHcjl0ZGVkbXBYT2lRSFE1UUZxUjl1b2t2c3FlTGZNOXBERm0xZXBRODJBSlZWaFZZWmItN09XNDc?oc=5"
+            },
+            {
+                "title": "基层“抓建指南”喜结硕果，激发官兵内生动力 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hRW5SZGVKcGVFUXc3c1hzd0xYNjRkSG50UFQySm81dGZ1YUJBaTNXd3VEVXRGYVpBbkxPMHh3Rkt6bU8yT0lZcjJielF6NXZCSUE?oc=5"
             },
             {
-                "title": "特写：“永恒的历史记忆” - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yaS0wVmN6dkZTV19mN0ZFTi1IWEtUUUZPWDlhMGx0TWR3LUp2RFlQc051R0xJa1NEN1M4enZzZV9hbldjbGFvd0pnLVZXSU1PRnc?oc=5"
-            },
-            {
-                "title": "国防部：2026年全军院校计划招收约1.75万名普通高中毕业生 - 军网",
+                "title": "国防部：2026年全军院校计划招收约1.75万名普通高中毕业生 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRVRsVFJ2QlVSRjdCdk42OGRza2xNQzVoVFNGbHZYekRxNzBfUC1yZUNXVXQxWG9kdGZxVFl1dzZfV1JMZ2doSFY2bjVIMFVoaGc?oc=5"
+            },
+            {
+                "title": "一场“没劲”的篮球赛，换来一份走心的文体活动新方案 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92TlhrakhGYVloc2ZvVnplNW9IckVVbWNycnRwNTB3TnAzNWlCZUhIbWtjbG01cm9LVlM4bWJzUTVqdml0d1NkaVRJSl9hcHVXYUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-10T09:53:24.217950+00:00"
+    "last_updated": "2026-06-10T15:26:27.028960+00:00"
 }
