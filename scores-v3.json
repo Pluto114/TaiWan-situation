@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "监管机构出台预测市场规则草案 禁止恐怖主义、暗杀相关标的交易",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565338.htm"
+            },
+            {
+                "title": "半数美国人担心家中有人会因AI失业 焦虑情绪显著上升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565334.htm"
+            },
+            {
+                "title": "美伊冲突推高能源价格，5月份通胀率升至4.2%创三年新高",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-10",
+                "url": "https://www.voachinese.com/a/inflation-hits-3-year-high-of-4-2-in-may-as-us-iran-conflict-propels-energy-prices-20260610/8159361.html"
+            },
+            {
+                "title": "最无聊的一届 WWDC 发布会？其实仍然有很多新信息值得我们留意",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-10",
+                "url": "https://www.toodaylab.com/84073"
+            },
+            {
                 "title": "苹果在全球多地下架 Vision Pro 旅行舱（收纳盒），中国官网已断货",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-10",
                 "url": "https://www.ithome.com/0/962/678.htm"
-            },
-            {
-                "title": "OpenAI洽谈租赁俄亥俄州10吉瓦数据中心 英伟达提供资金背书",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565328.htm"
-            },
-            {
-                "title": "德国法院裁定：Google须为AI搜索摘要虚假内容承担直接法律责任",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565314.htm"
-            },
-            {
-                "title": "中国被指加大针对美国AI科技企业的网络间谍活动",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565312.htm"
-            },
-            {
-                "title": "苹果在部分国家停止供应Vision Pro旅行收纳盒",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565310.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美战争部长视察关塔那摩 警告古巴勿挑战美军(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-10",
+                "url": "https://www.secretchina.com/news/gb/2026/06/11/1100356.html"
+            },
+            {
+                "title": "台湾首次试射海马斯火箭系统 强化反登陆作战能力(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-10",
+                "url": "https://www.secretchina.com/news/gb/2026/06/11/1100351.html"
+            },
+            {
+                "title": "最无聊的一届 WWDC 发布会？其实仍然有很多新信息值得我们留意",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-10",
+                "url": "https://www.toodaylab.com/84073"
+            },
             {
                 "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
                 "source": "NewsAPI / 36kr.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.dw.com/zh/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E6%84%9F%E8%B0%A2%E9%87%91%E6%AD%A3%E6%81%A9-%E5%8F%8C%E6%96%B9%E5%BC%BA%E8%B0%83%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C/a-77487869"
             },
             {
-                "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-10",
-                "url": "https://36kr.com/p/3847079661193733"
-            },
-            {
-                "title": "通用汽车押注新型储能电池 瞄准AI数据中心与电网市场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565282.htm"
-            },
-            {
-                "title": "美国海军无人舰艇成功营救迫降的阿帕奇直升机机组",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565274.htm"
-            },
-            {
                 "title": "外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-11",
@@ -92,13 +92,13 @@
                 "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ndnJjZEhKUVBVTnhZQXduVWE2UEJfQUZwdy11RzRkdmVWTkt1QnVpS2NlNWdYY0xhbHlTeG5GRmwta1JHcjl0ZGVkbXBYT2lRSFE1UUZxUjl1b2t2c3FlTGZNOXBERm0xZXBRODJBSlZWaFZZWmItN09XNDc?oc=5"
             },
             {
-                "title": "高清大图！直击武警天津总队野外排爆演练 - 军网",
+                "title": "高清大图！直击武警天津总队野外排爆演练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dndYQW5nTHVrVkpvM25wR0pZOFA3X3NFMHppMXpXbHg0WElTWTZwUjg2QzFHU0xraW5YeUQwMEVTc1FhUlNpeE1MQmJaTkpJc2c?oc=5"
             },
             {
-                "title": "打卡红色地标丨南湖畔的初心之旅，一图漫游“重走一大路” - 军网",
+                "title": "打卡红色地标丨南湖畔的初心之旅，一图漫游“重走一大路” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vaHN3ci1NcTJTUXExSzVTbFZKUGtZR0dXR2JhN2tCaGJLSzZlcWVjVTNGaHZhdWk2cnVsX1oxLVZiZ2JhZk5GakxKMDE?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
+                "title": "网络安全研究人员质疑Anthropic Fable安全护栏过于严格",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565342.htm"
+            },
+            {
+                "title": "美战争部长视察关塔那摩 警告古巴勿挑战美军(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-10",
+                "url": "https://www.secretchina.com/news/gb/2026/06/11/1100356.html"
+            },
+            {
+                "title": "半数美国人担心家中有人会因AI失业 焦虑情绪显著上升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565334.htm"
+            },
+            {
+                "title": "最无聊的一届 WWDC 发布会？其实仍然有很多新信息值得我们留意",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-10",
+                "url": "https://www.toodaylab.com/84073"
+            },
+            {
                 "title": "OpenAI洽谈租赁俄亥俄州10吉瓦数据中心 英伟达提供资金背书",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-10",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1565328.htm"
-            },
-            {
-                "title": "佛州医院借助Palantir提前识别败血症 已挽救逾880人生命",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565318.htm"
-            },
-            {
-                "title": "中国被指加大针对美国AI科技企业的网络间谍活动",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565312.htm"
-            },
-            {
-                "title": "德语媒体：北京不希望朝鲜倒向俄罗斯",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-10",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%8C%97%E4%BA%AC%E4%B8%8D%E5%B8%8C%E6%9C%9B%E6%9C%9D%E9%B2%9C%E5%80%92%E5%90%91%E4%BF%84%E7%BD%97%E6%96%AF/a-77491120"
-            },
-            {
-                "title": "比尔·盖茨将就爱泼斯坦相关事宜接受众议院监督委员会质询",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565302.htm"
             },
             {
                 "title": "外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,13 +160,13 @@
                 "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ndnJjZEhKUVBVTnhZQXduVWE2UEJfQUZwdy11RzRkdmVWTkt1QnVpS2NlNWdYY0xhbHlTeG5GRmwta1JHcjl0ZGVkbXBYT2lRSFE1UUZxUjl1b2t2c3FlTGZNOXBERm0xZXBRODJBSlZWaFZZWmItN09XNDc?oc=5"
             },
             {
-                "title": "高清大图！直击武警天津总队野外排爆演练 - 军网",
+                "title": "高清大图！直击武警天津总队野外排爆演练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dndYQW5nTHVrVkpvM25wR0pZOFA3X3NFMHppMXpXbHg0WElTWTZwUjg2QzFHU0xraW5YeUQwMEVTc1FhUlNpeE1MQmJaTkpJc2c?oc=5"
             },
             {
-                "title": "打卡红色地标丨南湖畔的初心之旅，一图漫游“重走一大路” - 军网",
+                "title": "打卡红色地标丨南湖畔的初心之旅，一图漫游“重走一大路” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vaHN3ci1NcTJTUXExSzVTbFZKUGtZR0dXR2JhN2tCaGJLSzZlcWVjVTNGaHZhdWk2cnVsX1oxLVZiZ2JhZk5GakxKMDE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-11T15:53:48.255005+00:00"
+    "last_updated": "2026-06-11T20:17:00.040583+00:00"
 }
