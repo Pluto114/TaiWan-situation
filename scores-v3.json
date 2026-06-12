@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "酷澎因数据泄露被罚6246.8亿韩元 创下韩国企业罚款纪录",
+                "title": "产能趋紧 Google选定三星合作研发下一代人工智能芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565432.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565450.htm"
             },
             {
-                "title": "消息称 Meta 已完成与 Manus 运营分离：停止数据共享，内网也禁止访问",
+                "title": "发表“涉华谬论”？菲律宾防长遭到北京制裁",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-11",
+                "url": "https://www.dw.com/zh/%E5%8F%91%E8%A1%A8%E6%B6%89%E5%8D%8E%E8%B0%AC%E8%AE%BA%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%98%B2%E9%95%BF%E9%81%AD%E5%88%B0%E5%8C%97%E4%BA%AC%E5%88%B6%E8%A3%81/a-77507052"
+            },
+            {
+                "title": "大众汽车 CEO 奥博穆：计划年底前在德裁员 1.9 万人，2030 年前裁 2.8 万",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-11",
-                "url": "https://www.ithome.com/0/962/969.htm"
+                "url": "https://www.ithome.com/0/963/192.htm"
             },
             {
-                "title": "谷歌 Android 17 强制应用“瘦身”：为每个 App 设定内存使用上限，越界即杀进程且不留堆栈信息",
+                "title": "理想、中汽中心等成立汽车智能底盘先进技术标准研究组，推进线控底盘技术及标准研究",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-11",
-                "url": "https://www.ithome.com/0/962/961.htm"
+                "url": "https://www.ithome.com/0/963/186.htm"
             },
             {
-                "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-11",
-                "url": "https://36kr.com/p/3848476414792709"
-            },
-            {
-                "title": "2499 → 1182 元：小米智能门锁 4 Pro 天猫破冰新低，隔空刷掌秒开锁",
+                "title": "台积电 3nm 月产能增至 17.5 万片仍无法满足 AI 芯片需求，考虑涨价最高 15%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-11",
-                "url": "https://www.ithome.com/0/962/943.htm"
+                "url": "https://www.ithome.com/0/963/182.htm"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-11",
+                "url": "https://36kr.com/p/3848516305605892"
+            },
             {
                 "title": "瑞安航空强制收取“亲子同座费”遭英国监管机构调查",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-11",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1565398.htm"
-            },
-            {
-                "title": "“电梯一吻”亲掉230多亿 黄仁勋的“中国搭子”塌房了？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565364.htm"
             },
             {
                 "title": "外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁_中华人民共和国外交部 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "酷澎因数据泄露被罚6246.8亿韩元 创下韩国企业罚款纪录",
+                "title": "产能趋紧 Google选定三星合作研发下一代人工智能芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565432.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565450.htm"
             },
             {
-                "title": "消息称 Meta 已完成与 Manus 运营分离：停止数据共享，内网也禁止访问",
+                "title": "OpenAI示警：中共利用AI煽动美国民众反对川普政策(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-11",
+                "url": "https://www.secretchina.com/news/gb/2026/06/11/1100393.html"
+            },
+            {
+                "title": "发表“涉华谬论”？菲律宾防长遭到北京制裁",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-11",
+                "url": "https://www.dw.com/zh/%E5%8F%91%E8%A1%A8%E6%B6%89%E5%8D%8E%E8%B0%AC%E8%AE%BA%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%98%B2%E9%95%BF%E9%81%AD%E5%88%B0%E5%8C%97%E4%BA%AC%E5%88%B6%E8%A3%81/a-77507052"
+            },
+            {
+                "title": "上市进入倒计时，消息称 SpaceX IPO 已吸引超 700 亿美元散户订单",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-11",
-                "url": "https://www.ithome.com/0/962/969.htm"
+                "url": "https://www.ithome.com/0/963/191.htm"
             },
             {
-                "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+                "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-11",
-                "url": "https://36kr.com/p/3848476414792709"
-            },
-            {
-                "title": "2499 → 1182 元：小米智能门锁 4 Pro 天猫破冰新低，隔空刷掌秒开锁",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-11",
-                "url": "https://www.ithome.com/0/962/943.htm"
-            },
-            {
-                "title": "喊一声能开机，七彩虹 iGame M16 Origo 游戏本上手体验",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-11",
-                "url": "https://www.ithome.com/0/962/914.htm"
+                "url": "https://36kr.com/p/3848516305605892"
             },
             {
                 "title": "外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-12T10:05:41.291794+00:00"
+    "last_updated": "2026-06-12T14:51:52.488385+00:00"
 }
