@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "AI 养马更省心：Hermes Agent 上线 Profile Builder，5 步配置 AI 智能体",
+                "title": "全球最大 IPO：马斯克 SpaceX 在纳斯达克敲钟上市，成为人类史上首位万亿美元富豪",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-12",
-                "url": "https://www.ithome.com/0/963/493.htm"
+                "url": "https://www.ithome.com/0/963/706.htm"
             },
             {
-                "title": "日产新车研发周期将缩短至原来的一半，社长称要向中国学习",
-                "source": "NewsAPI / Ithome.com",
+                "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-12",
-                "url": "https://www.ithome.com/0/963/486.htm"
+                "url": "https://36kr.com/p/3849942472512769"
             },
             {
-                "title": "乐施会呼吁对马斯克的万亿美元财富征税：足以消除全球极端贫困一年",
+                "title": "Anthropic启动首批数据中心租赁洽谈 寻求谷歌资金担保支持",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565500.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565566.htm"
             },
             {
-                "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
-                "source": "NewsAPI / 36kr.com",
+                "title": "人类史上最大IPO已在眼前 背后是绕不过去的中国供应链",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-12",
-                "url": "https://36kr.com/p/3846798967818752"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565556.htm"
             },
             {
-                "title": "我国件杂货国际物流发展整体稳健",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英伟达向中国客户推销 Vera 处理器：最快 8 月上市，直面英特尔 AMD 激烈竞争",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-12",
-                "url": "https://36kr.com/newsflashes/3849621359121411"
+                "url": "https://www.ithome.com/0/963/676.htm"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-12",
+                "url": "https://36kr.com/p/3849942472512769"
+            },
+            {
+                "title": "三年半年突破10亿月活 ChatGPT成为史上增长最快应用",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565554.htm"
+            },
             {
                 "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
                 "source": "NewsAPI / 36kr.com",
@@ -62,96 +74,72 @@
                 "url": "https://www.ithome.com/0/963/238.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年6月12日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-06-11",
-                "url": "https://www.voachinese.com/a/8155203.html"
-            },
-            {
-                "title": "台湾反对党国民党主席郑丽文会晤美国两党议员强调，国民党重视与美国的军购合作",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-06-11",
-                "url": "https://www.voachinese.com/a/members-of-u-s-congress-met-with-taiwan-opposition-party-chair-cheng-li-wen-to-discuss-defense-issues-20260611/8159834.html"
-            },
-            {
-                "title": "外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqcXc5TURLcEN5Qmo0cHF3ZkU0d1hsQnRhRk9LZlFUM3lzeVlrMHBKX29SZThQYXNQZXBxQllpMTF4ZDBvb3p0TU1ZZ0NwYW9COGQ2RzRqWVZ1NjcydGN1QTExZFNCdWVlRnFWM3hVTlc2Z0ZuaEE?oc=5"
-            },
-            {
-                "title": "2026年6月11日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9weU5GaTlteGdBc0t6R18wR2VyX21WWnRnTnFSclRZMkROR0ptV2haS2E0ZGwyMEZWZHhCUERVZm15V0J1X2VINnpYLXA4cUw4RWVMUUZ2LTVrd2kzVlc1R0FUa0Y5V3IzR3gtQ29MbEVEQjRSclE?oc=5"
-            },
-            {
                 "title": "2026年6月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-12",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zYU5XS1FycEx0X1l4NjdmUE5wcDJzanBCRV9mVTY3VmJMNTZFNW5Tb3dPbUpZcEFNWmFiTEk5RDkzNzk4MUwxWGJBQm9LbWw5OURNR3ozcENOamRHY2Ita2hjVWtKdGw0ZWpCam84TE9HVHhOSmc?oc=5"
             },
             {
-                "title": "我要寻根，寻找那棵扎根冻土的“大松树”的故事 - 中国军网",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "林剑：特奥多罗肆意妄为最终只会损害菲律宾国家和人民的利益 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUEwbmhzcXdHS1FHTzVpeTU1ZnZxaWVheG44dkpvS3ZZX2UxME10UXcyanlfLUQ2Z3M4RmRDN2tXM2p2ck1JZ2xVeHRJUWNJUlRQV0FDS2RaVGNtdW5WTDROajZaS3p4MTNTSzZXWjR5TjdxbTltWkVnVXdVd2tMbTZZbTJocTNhcXBMaVRpalc?oc=5"
+            },
+            {
+                "title": "强军论坛｜“想得对”还要“干得对” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pUkoxdG9vTjYzNWE0MDRVNVlubXcwUTQtNEoxdUFZWkZ3NlpCLXJhbTNBVDJVNXh2dWJBTFZCRHBmQU9QWHNYSmhpdXB5NTVDNlE?oc=5"
+            },
+            {
+                "title": "我要寻根，寻找那棵扎根冻土的“大松树”的故事 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14b1c2U01TNEpldkZyaWJ5RnhJZy1CODg0WVpPbHJUNVYxdHM0Rkhkczd2eXVXY2d5SlhYZmx1bUg2MFAxTm1WWldlckpaalJFQ2c?oc=5"
             },
             {
-                "title": "拾光纪·从细节感悟总书记朝鲜行的“重要里程碑意义” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ya0FjMEJIWGJkeDAyVlhKOEVRWkx2UTFUYWtYS3YxNG8xOW5ibzh1SWJlMHpLdV9qdnpEUUNjT3hiOWZOdWF5dkxTaE1kZXpUcXc?oc=5"
-            },
-            {
-                "title": "高清大图！直击武警天津总队野外排爆演练 - 中国军网",
+                "title": "海军航空兵某团开展下半夜飞行训练 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dndYQW5nTHVrVkpvM25wR0pZOFA3X3NFMHppMXpXbHg0WElTWTZwUjg2QzFHU0xraW5YeUQwMEVTc1FhUlNpeE1MQmJaTkpJc2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZmtBTkU4SmxRb0JHMXVyVGxST0VLQ2x4bnFCT25zOFVVWnlycEo2Szc1TUtvUlZNMURjNEFJNFowbkFMNzN0MFNSUHg1dE5LeEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "在德国骂政治人物，警察会来敲门吗？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-12",
-                "url": "https://www.dw.com/zh/%E5%9C%A8%E5%BE%B7%E5%9B%BD%E9%AA%82%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E8%AD%A6%E5%AF%9F%E4%BC%9A%E6%9D%A5%E6%95%B2%E9%97%A8%E5%90%97/a-77518392"
-            },
-            {
-                "title": "华为联合 UWA 发布业界首个空间影像标准：空间菁彩影像",
+                "title": "全球最大 IPO：马斯克 SpaceX 在纳斯达克敲钟上市，成为人类史上首位万亿美元富豪",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-12",
-                "url": "https://www.ithome.com/0/963/558.htm"
+                "url": "https://www.ithome.com/0/963/706.htm"
             },
             {
-                "title": "甲骨文警告PeopleSoft严重漏洞 黑客已利用入侵逾百家机构",
+                "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-12",
+                "url": "https://36kr.com/p/3849942472512769"
+            },
+            {
+                "title": "英国监管机构警告：亚马逊、eBay仍在售可能致命的假冒手机充电器",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565544.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565572.htm"
             },
             {
-                "title": "AMD CPU包揽亚马逊畅销榜前十五",
+                "title": "人类史上最大IPO已在眼前 背后是绕不过去的中国供应链",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565524.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565556.htm"
             },
             {
-                "title": "美国FDA紧急批准治疗宠物螺旋蝇感染的非处方药物",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "英伟达向中国客户推销 Vera 处理器：最快 8 月上市，直面英特尔 AMD 激烈竞争",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565506.htm"
-            },
-            {
-                "title": "外交部发言人宣布中方对菲律宾国防部长特奥多罗及其亲属实施制裁_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqcXc5TURLcEN5Qmo0cHF3ZkU0d1hsQnRhRk9LZlFUM3lzeVlrMHBKX29SZThQYXNQZXBxQllpMTF4ZDBvb3p0TU1ZZ0NwYW9COGQ2RzRqWVZ1NjcydGN1QTExZFNCdWVlRnFWM3hVTlc2Z0ZuaEE?oc=5"
-            },
-            {
-                "title": "2026年6月11日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9weU5GaTlteGdBc0t6R18wR2VyX21WWnRnTnFSclRZMkROR0ptV2haS2E0ZGwyMEZWZHhCUERVZm15V0J1X2VINnpYLXA4cUw4RWVMUUZ2LTVrd2kzVlc1R0FUa0Y5V3IzR3gtQ29MbEVEQjRSclE?oc=5"
+                "url": "https://www.ithome.com/0/963/676.htm"
             },
             {
                 "title": "2026年6月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,25 +148,37 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zYU5XS1FycEx0X1l4NjdmUE5wcDJzanBCRV9mVTY3VmJMNTZFNW5Tb3dPbUpZcEFNWmFiTEk5RDkzNzk4MUwxWGJBQm9LbWw5OURNR3ozcENOamRHY2Ita2hjVWtKdGw0ZWpCam84TE9HVHhOSmc?oc=5"
             },
             {
-                "title": "我要寻根，寻找那棵扎根冻土的“大松树”的故事 - 中国军网",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "林剑：特奥多罗肆意妄为最终只会损害菲律宾国家和人民的利益 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUEwbmhzcXdHS1FHTzVpeTU1ZnZxaWVheG44dkpvS3ZZX2UxME10UXcyanlfLUQ2Z3M4RmRDN2tXM2p2ck1JZ2xVeHRJUWNJUlRQV0FDS2RaVGNtdW5WTDROajZaS3p4MTNTSzZXWjR5TjdxbTltWkVnVXdVd2tMbTZZbTJocTNhcXBMaVRpalc?oc=5"
+            },
+            {
+                "title": "强军论坛｜“想得对”还要“干得对” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pUkoxdG9vTjYzNWE0MDRVNVlubXcwUTQtNEoxdUFZWkZ3NlpCLXJhbTNBVDJVNXh2dWJBTFZCRHBmQU9QWHNYSmhpdXB5NTVDNlE?oc=5"
+            },
+            {
+                "title": "我要寻根，寻找那棵扎根冻土的“大松树”的故事 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14b1c2U01TNEpldkZyaWJ5RnhJZy1CODg0WVpPbHJUNVYxdHM0Rkhkczd2eXVXY2d5SlhYZmx1bUg2MFAxTm1WWldlckpaalJFQ2c?oc=5"
             },
             {
-                "title": "拾光纪·从细节感悟总书记朝鲜行的“重要里程碑意义” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ya0FjMEJIWGJkeDAyVlhKOEVRWkx2UTFUYWtYS3YxNG8xOW5ibzh1SWJlMHpLdV9qdnpEUUNjT3hiOWZOdWF5dkxTaE1kZXpUcXc?oc=5"
-            },
-            {
-                "title": "高清大图！直击武警天津总队野外排爆演练 - 中国军网",
+                "title": "海军航空兵某团开展下半夜飞行训练 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dndYQW5nTHVrVkpvM25wR0pZOFA3X3NFMHppMXpXbHg0WElTWTZwUjg2QzFHU0xraW5YeUQwMEVTc1FhUlNpeE1MQmJaTkpJc2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZmtBTkU4SmxRb0JHMXVyVGxST0VLQ2x4bnFCT25zOFVVWnlycEo2Szc1TUtvUlZNMURjNEFJNFowbkFMNzN0MFNSUHg1dE5LeEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-13T08:53:37.882510+00:00"
+    "last_updated": "2026-06-13T13:52:36.715336+00:00"
 }
