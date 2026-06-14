@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-13",
+                "url": "https://www.ithome.com/0/963/990.htm"
+            },
+            {
+                "title": "英伟达 RTX PRO 6000 Blackwell 全线涨价，较去年首发价高出 55%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-13",
+                "url": "https://www.ithome.com/0/963/977.htm"
+            },
+            {
                 "title": "上海出事了！百姓没活路了！惨状触目惊心！(视频)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-06-13",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-13",
                 "url": "https://www.ithome.com/0/963/922.htm"
-            },
-            {
-                "title": "阿维塔概念车 VISION XPECTRA 亮相重庆车展：车头立标、对开门",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-13",
-                "url": "https://www.ithome.com/0/963/906.htm"
-            },
-            {
-                "title": "全栈自主：龙芯中科联合牡丹电子发布 3A6000 信创笔记本电脑 Peony-L，内置国产 WAPI 安全芯片政企专供",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-13",
-                "url": "https://www.ithome.com/0/963/904.htm"
             }
         ],
         "mil": [
@@ -80,16 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UkMxem5QRmVtcDJPcEVwOUdWQWRrQnQzcjhzcjJSWlh0OU1aY0c5eHpRekQ4YlBVcTNWX1pfS2YtYWJ6aFJ0N3l4emxuRVBwNmQySW95eVpSdGNPcVVMRXJSY0dGdEpRbkFsRzB0dVJNdw?oc=5"
             },
             {
-                "title": "驻格林纳达大使杨舒访问格卡里亚库 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-12",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHNLQWJFWmUwVktoUzl4YU1lNWFKX21DbGctVmxJZFNWN08xbmNFSGRoTzBFek5NV3hwZjlhUHRSNFI4bXVPODA5S3gtV2lkWFJVQzJtM1pENEsxMmN2X2x6SVVJZmdPUTVlZnQ5SVMyMHVaMHVRLUhPY2lUTFpaSmtWNTQ?oc=5"
-            },
-            {
                 "title": "王毅同蒙古国外长巴特策策格会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-14",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QajRlay1zWGxTWUR6M2xMdjdtQy0yT2h6bE9IM09iZ2c3OUdyNVY4aTE1RExPMDdYbFlkdmtKOEJOMld5a3ZnVFFoQXE3S2dzc2tXVmRlZXlLNWc5aC1uOUY5bjQ5RjdsV1R0bkxB?oc=5"
+            },
+            {
+                "title": "驻蒙特利尔总领事戴玉明出席魁北克商会联合会国际圆桌会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVVXemNQNlJRTkxJemg3VFFYM0dQU3B0M2dhQVB0MS00UE82RjVhZjRFOUJOQ3dZTlZLWHhUaDhGZGZvMlNSaDJjNzBzb0pwTUI0VC1hdDV4M2E3aDZqTk5KY2txeXNtVkdSUEJGZmFUTUpGRjhLYnBfQ2piajJQbm5zdEs?oc=5"
             },
             {
                 "title": "强军论坛｜“想得对”还要“干得对” - 中国军网",
@@ -111,6 +111,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-13",
+                "url": "https://www.ithome.com/0/963/990.htm"
+            },
             {
                 "title": "随笔丨逆行驰援，见证中非风雨同舟 - 新华网客户端",
                 "source": "NewsAPI / Xinhua Net",
@@ -136,28 +142,22 @@
                 "url": "https://www.ithome.com/0/963/904.htm"
             },
             {
-                "title": "小米雷军总结 YU7 八大环节测试直播：原计划 7 个小时，实际测试过程非常顺利只用了 5 个半小时",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-13",
-                "url": "https://www.ithome.com/0/963/898.htm"
-            },
-            {
                 "title": "外交部副部长苗得雨同安哥拉外交部国务秘书门东萨举行磋商 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-13",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UkMxem5QRmVtcDJPcEVwOUdWQWRrQnQzcjhzcjJSWlh0OU1aY0c5eHpRekQ4YlBVcTNWX1pfS2YtYWJ6aFJ0N3l4emxuRVBwNmQySW95eVpSdGNPcVVMRXJSY0dGdEpRbkFsRzB0dVJNdw?oc=5"
             },
             {
-                "title": "驻格林纳达大使杨舒访问格卡里亚库 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-12",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHNLQWJFWmUwVktoUzl4YU1lNWFKX21DbGctVmxJZFNWN08xbmNFSGRoTzBFek5NV3hwZjlhUHRSNFI4bXVPODA5S3gtV2lkWFJVQzJtM1pENEsxMmN2X2x6SVVJZmdPUTVlZnQ5SVMyMHVaMHVRLUhPY2lUTFpaSmtWNTQ?oc=5"
-            },
-            {
                 "title": "王毅同蒙古国外长巴特策策格会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-14",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QajRlay1zWGxTWUR6M2xMdjdtQy0yT2h6bE9IM09iZ2c3OUdyNVY4aTE1RExPMDdYbFlkdmtKOEJOMld5a3ZnVFFoQXE3S2dzc2tXVmRlZXlLNWc5aC1uOUY5bjQ5RjdsV1R0bkxB?oc=5"
+            },
+            {
+                "title": "驻蒙特利尔总领事戴玉明出席魁北克商会联合会国际圆桌会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVVXemNQNlJRTkxJemg3VFFYM0dQU3B0M2dhQVB0MS00UE82RjVhZjRFOUJOQ3dZTlZLWHhUaDhGZGZvMlNSaDJjNzBzb0pwTUI0VC1hdDV4M2E3aDZqTk5KY2txeXNtVkdSUEJGZmFUTUpGRjhLYnBfQ2piajJQbm5zdEs?oc=5"
             },
             {
                 "title": "强军论坛｜“想得对”还要“干得对” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-14T13:56:14.372708+00:00"
+    "last_updated": "2026-06-14T19:21:38.378766+00:00"
 }
