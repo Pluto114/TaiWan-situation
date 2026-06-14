@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "七国集团领导人在全球经济和中东危机之际前往法国",
+                "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-13",
+                "url": "https://36kr.com/p/3850902095336449"
+            },
+            {
+                "title": "IT早报 0613：SpaceX 上市，马斯克成人类首个万亿美元富豪；华为鸿蒙 HarmonyOS 7 发布；《置身钉内》作者再发文；苹果 iPhone 18 Pro Max 机模曝光...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-12",
+                "url": "https://www.ithome.com/0/963/744.htm"
+            },
+            {
+                "title": "美股尾盘走高 SpaceX市值超2.2万亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565604.htm"
+            },
+            {
+                "title": "美议员称AI关乎国家安全须保持领先，并关注高端芯片流向中国",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-06-12",
-                "url": "https://www.voachinese.com/a/g7-leaders-head-for-france-amid-global-economic-and-middle-east-crisis-20260612/8160215.html"
+                "url": "https://www.voachinese.com/a/us-lawmakers-say-ai-is-a-national-security-issue-and-the-us-must-maintain-its-lead-20260612/8160250.html"
             },
             {
-                "title": "马斯克凭借SpaceX历史性IPO成全球首位万亿美元富豪",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国之音中文广播 (2026年6月13日)",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565598.htm"
-            },
-            {
-                "title": "Google Android一核心安全工程师因反对军方合作而选择离职",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565596.htm"
-            },
-            {
-                "title": "美国上诉法院裁定：川普政府可继续征收10%全球基准关税(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-12",
-                "url": "https://www.secretchina.com/news/gb/2026/06/13/1100445.html"
-            },
-            {
-                "title": "德语媒体：对台湾的危险依赖",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-12",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%AF%B9%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%8D%B1%E9%99%A9%E4%BE%9D%E8%B5%96/a-77527767"
+                "url": "https://www.voachinese.com/a/8155524.html"
             }
         ],
         "mil": [
+            {
+                "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-13",
+                "url": "https://36kr.com/p/3850902095336449"
+            },
+            {
+                "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-13",
+                "url": "https://36kr.com/p/3850898430989577"
+            },
+            {
+                "title": "IT早报 0613：SpaceX 上市，马斯克成人类首个万亿美元富豪；华为鸿蒙 HarmonyOS 7 发布；《置身钉内》作者再发文；苹果 iPhone 18 Pro Max 机模曝光...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-12",
+                "url": "https://www.ithome.com/0/963/744.htm"
+            },
+            {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-12",
+                "url": "https://www.voachinese.com/a/8155528.html"
+            },
             {
                 "title": "中国无锡药明康德起诉美国战争部 究竟是否涉军？美国国会早有说法",
                 "source": "NewsAPI / Voachinese.com",
@@ -50,30 +74,6 @@
                 "url": "https://www.voachinese.com/a/is-wuxi-apptec-a-chinese-military-company-congress-has-the-answer-20260612/8160159.html"
             },
             {
-                "title": "Google Android一核心安全工程师因反对军方合作而选择离职",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565596.htm"
-            },
-            {
-                "title": "中国无锡药明康德起诉美国战争部 究竟是否涉军？美国国会早有说法",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-06-12",
-                "url": "https://www.voachinese.com/a/8160159.html"
-            },
-            {
-                "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-12",
-                "url": "https://36kr.com/p/3849942472512769"
-            },
-            {
-                "title": "三年半年突破10亿月活 ChatGPT成为史上增长最快应用",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565554.htm"
-            },
-            {
                 "title": "2026年6月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-12",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pUkoxdG9vTjYzNWE0MDRVNVlubXcwUTQtNEoxdUFZWkZ3NlpCLXJhbTNBVDJVNXh2dWJBTFZCRHBmQU9QWHNYSmhpdXB5NTVDNlE?oc=5"
             },
             {
-                "title": "我要寻根，寻找那棵扎根冻土的“大松树”的故事 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14b1c2U01TNEpldkZyaWJ5RnhJZy1CODg0WVpPbHJUNVYxdHM0Rkhkczd2eXVXY2d5SlhYZmx1bUg2MFAxTm1WWldlckpaalJFQ2c?oc=5"
-            },
-            {
                 "title": "拾光纪·从细节感悟总书记朝鲜行的“重要里程碑意义” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ya0FjMEJIWGJkeDAyVlhKOEVRWkx2UTFUYWtYS3YxNG8xOW5ibzh1SWJlMHpLdV9qdnpEUUNjT3hiOWZOdWF5dkxTaE1kZXpUcXc?oc=5"
+            },
+            {
+                "title": "从“盯着问题看”到“带着感情帮”，这种形式的检查深受基层好评 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nVlgyc0VsSXVnLXdlN3hnc0pjcHk2c3Rrd3lUakZfMEdyRGFzOGxJaXZFU2pSNzFwSE9QSWlOeXBMS2tqUngxMlZjNkg5eVlDT1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "沙盘推演：中、朝、韩、美、台五角关系(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-12",
-                "url": "https://www.secretchina.com/news/gb/2026/06/13/1100447.html"
+                "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-13",
+                "url": "https://36kr.com/p/3850902095336449"
             },
             {
-                "title": "马斯克凭借SpaceX历史性IPO成全球首位万亿美元富豪",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565598.htm"
+                "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-13",
+                "url": "https://36kr.com/p/3850898430989577"
             },
             {
-                "title": "全球首架固态电池载人固定翼电动飞机“Helios Horizon”完成首飞",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565592.htm"
-            },
-            {
-                "title": "高盛总裁沃尔德伦：SpaceX 创纪录 IPO 表明投资者愿为 AI、太空基建买单",
+                "title": "IT早报 0613：SpaceX 上市，马斯克成人类首个万亿美元富豪；华为鸿蒙 HarmonyOS 7 发布；《置身钉内》作者再发文；苹果 iPhone 18 Pro Max 机模曝光...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-12",
-                "url": "https://www.ithome.com/0/963/714.htm"
+                "url": "https://www.ithome.com/0/963/744.htm"
             },
             {
-                "title": "SpaceX正式登陆纳斯达克 马斯克远程敲钟",
+                "title": "美股尾盘走高 SpaceX市值超2.2万亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565586.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565604.htm"
+            },
+            {
+                "title": "美籍缅甸学者赴中国开会 被当局抓捕(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-12",
+                "url": "https://www.secretchina.com/news/gb/2026/06/13/1100459.html"
             },
             {
                 "title": "2026年6月12日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pUkoxdG9vTjYzNWE0MDRVNVlubXcwUTQtNEoxdUFZWkZ3NlpCLXJhbTNBVDJVNXh2dWJBTFZCRHBmQU9QWHNYSmhpdXB5NTVDNlE?oc=5"
             },
             {
-                "title": "我要寻根，寻找那棵扎根冻土的“大松树”的故事 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14b1c2U01TNEpldkZyaWJ5RnhJZy1CODg0WVpPbHJUNVYxdHM0Rkhkczd2eXVXY2d5SlhYZmx1bUg2MFAxTm1WWldlckpaalJFQ2c?oc=5"
-            },
-            {
                 "title": "拾光纪·从细节感悟总书记朝鲜行的“重要里程碑意义” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ya0FjMEJIWGJkeDAyVlhKOEVRWkx2UTFUYWtYS3YxNG8xOW5ibzh1SWJlMHpLdV9qdnpEUUNjT3hiOWZOdWF5dkxTaE1kZXpUcXc?oc=5"
+            },
+            {
+                "title": "从“盯着问题看”到“带着感情帮”，这种形式的检查深受基层好评 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nVlgyc0VsSXVnLXdlN3hnc0pjcHk2c3Rrd3lUakZfMEdyRGFzOGxJaXZFU2pSNzFwSE9QSWlOeXBMS2tqUngxMlZjNkg5eVlDT1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-13T19:20:29.986616+00:00"
+    "last_updated": "2026-06-14T03:42:24.036720+00:00"
 }
