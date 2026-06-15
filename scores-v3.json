@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "传 M6 MacBook Pro 将支持 5G 蜂窝网络",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中国经济大萧条！3亿年轻人失业！惊现最惨一幕！(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-06-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565710.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/06/15/1100543.html"
             },
             {
-                "title": "长安汽车总经理赵非：长安蓝鲸超擎混动已经在量产中，天枢智能也将逐步上车",
+                "title": "传三星将为Galaxy S27 Ultra旗舰机型带来三项关键升级",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565722.htm"
+            },
+            {
+                "title": "韩国政府拟斥资逾3亿美元布局新一代功率半导体",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565720.htm"
+            },
+            {
+                "title": "中国经济大萧条！3亿年轻人失业！惊现最惨一幕！(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-14",
+                "url": "https://www.secretchina.com/news/gb/2026/06/14/1100543.html"
+            },
+            {
+                "title": "继三星之后，消息称 SK 海力士准备向主要客户提供 HBM4E 样品、最早本月发货",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-14",
-                "url": "https://www.ithome.com/0/964/118.htm"
-            },
-            {
-                "title": "五月近四成岗位裁撤被归因AI 连续三个月成美国裁员首要理由",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565706.htm"
-            },
-            {
-                "title": "麦芒 TYH232U 新机入网：预计搭紫光展锐 T820 芯片、配 4950mAh 电池",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-14",
-                "url": "https://www.ithome.com/0/963/737.htm"
-            },
-            {
-                "title": "直播会议现场失控 Meta内部爆发“AI叛乱”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565688.htm"
+                "url": "https://www.ithome.com/0/964/164.htm"
             }
         ],
         "mil": [
+            {
+                "title": "川习会后对台军售仍未拍板 引发印太盟友担忧(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-14",
+                "url": "https://www.secretchina.com/news/gb/2026/06/15/1100557.html"
+            },
+            {
+                "title": "时隔53年尼克斯队再夺NBA总冠军 纽约爆发骚乱(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-14",
+                "url": "https://www.secretchina.com/news/gb/2026/06/14/1100552.html"
+            },
             {
                 "title": "直播会议现场失控 Meta内部爆发“AI叛乱”",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1565680.htm"
             },
             {
-                "title": "Nature：这可能是迄今AI含量最高的一届世界杯",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565674.htm"
-            },
-            {
-                "title": "Anthropic强大新模型为何突遭出口管制？美媒曝光内幕",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565672.htm"
-            },
-            {
                 "title": "今天是上海合作组织成立25周年 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-15",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yT3RaamY0aTRNUmxNMXRuZTJUOVFYcVhUMzg4LV9PRE1SQ2VvV2FmZ2dsVkNLT3lSMEdDRUdDei1UQjkyUlNnc3FHR1Npb3NEV2l0VFN2UUsxVWFwVUFMZGJqSEd5V2w0NGI5R21uR1FEc2dXeDEwYlpHSQ?oc=5"
             },
             {
-                "title": "驻越南大使何炜会见河内市委书记陈德胜 - mfa.gov.cn",
+                "title": "王毅出席上海合作组织成立25周年招待会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-13",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUtCVnlneGdUeW1PS3BIdkoxUV82SmRncVoyaDBEbEhzMFRzQlZESU1GNFhTUDZvdmljekxzUzE5V3VkNzRCX056SGZVNFVhbXBZdktpUHFRVXhzX19sT3VGb3BEWDB0YnJtbXZ6OXdVS0FBTGVIeFNNZ1B3WkdWZE5ZTWUyaTBkNlE?oc=5"
+                "date": "2026-06-15",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoLTF1LTlNaXJpTDNKS25BQ0hRWnFJVkVfUHlmRkx5QlVHVlU5OGV3cFB5cW53QVE1cTJtOWtJaEs3Q1NZT0FvdnZVZFNGcnBBUHBwcjl4dDBacEtOc0xZTG1zd1NHckp6ZVpwWWhB?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -98,19 +98,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "正确政绩观 践行在军营丨仰望焦桐 躬身答卷 - 军网",
+                "title": "正确政绩观 践行在军营丨仰望焦桐 躬身答卷 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnakZzSEpnT2g5OGNwZHNSNzNkMWdCazFnZXNoVHRxMWJaS0pYQ09PODhBanJPWXludlJJVDZkV1lodkNRSXIzQzlTdDJnV1NNUkE?oc=5"
             },
             {
-                "title": "陆军某旅“李向群连”官兵赓续英雄精神 - 军网",
+                "title": "陆军某旅“李向群连”官兵赓续英雄精神 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFUGRqVFNJcTFMXzdadW9BbWRQT3VQNzUtS2F3QlpCX0ZRT3Izd3RlX0lkdlZKN0dzaUNpNHlESGhIcnZsQTh5Y2JiQUlhSkIyeVE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "川习会后对台军售仍未拍板 引发印太盟友担忧(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-14",
+                "url": "https://www.secretchina.com/news/gb/2026/06/15/1100557.html"
+            },
+            {
+                "title": "韩国政府拟斥资逾3亿美元布局新一代功率半导体",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565720.htm"
+            },
             {
                 "title": "墙外文摘：电报群组中国恋童癖的“爱国话语”",
                 "source": "NewsAPI / DW (English)",
@@ -130,18 +142,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1565688.htm"
             },
             {
-                "title": "手搓论文AI率80% 大学生被逼疯",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565686.htm"
-            },
-            {
-                "title": "月薪从2.6万骤降到700 4S店大崩盘：超10万人离场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565678.htm"
-            },
-            {
                 "title": "今天是上海合作组织成立25周年 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-15",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yT3RaamY0aTRNUmxNMXRuZTJUOVFYcVhUMzg4LV9PRE1SQ2VvV2FmZ2dsVkNLT3lSMEdDRUdDei1UQjkyUlNnc3FHR1Npb3NEV2l0VFN2UUsxVWFwVUFMZGJqSEd5V2w0NGI5R21uR1FEc2dXeDEwYlpHSQ?oc=5"
             },
             {
-                "title": "驻越南大使何炜会见河内市委书记陈德胜 - mfa.gov.cn",
+                "title": "王毅出席上海合作组织成立25周年招待会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-13",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUtCVnlneGdUeW1PS3BIdkoxUV82SmRncVoyaDBEbEhzMFRzQlZESU1GNFhTUDZvdmljekxzUzE5V3VkNzRCX056SGZVNFVhbXBZdktpUHFRVXhzX19sT3VGb3BEWDB0YnJtbXZ6OXdVS0FBTGVIeFNNZ1B3WkdWZE5ZTWUyaTBkNlE?oc=5"
+                "date": "2026-06-15",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoLTF1LTlNaXJpTDNKS25BQ0hRWnFJVkVfUHlmRkx5QlVHVlU5OGV3cFB5cW53QVE1cTJtOWtJaEs3Q1NZT0FvdnZVZFNGcnBBUHBwcjl4dDBacEtOc0xZTG1zd1NHckp6ZVpwWWhB?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -166,13 +166,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "正确政绩观 践行在军营丨仰望焦桐 躬身答卷 - 军网",
+                "title": "正确政绩观 践行在军营丨仰望焦桐 躬身答卷 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnakZzSEpnT2g5OGNwZHNSNzNkMWdCazFnZXNoVHRxMWJaS0pYQ09PODhBanJPWXludlJJVDZkV1lodkNRSXIzQzlTdDJnV1NNUkE?oc=5"
             },
             {
-                "title": "陆军某旅“李向群连”官兵赓续英雄精神 - 军网",
+                "title": "陆军某旅“李向群连”官兵赓续英雄精神 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFUGRqVFNJcTFMXzdadW9BbWRQT3VQNzUtS2F3QlpCX0ZRT3Izd3RlX0lkdlZKN0dzaUNpNHlESGhIcnZsQTh5Y2JiQUlhSkIyeVE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-15T11:57:29.784279+00:00"
+    "last_updated": "2026-06-15T17:17:53.837939+00:00"
 }
