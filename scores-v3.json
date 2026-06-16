@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米 REDMI K90 至尊版配置曝光：“骁龙 8E + 最强风冷”硬刚 8E5，搭载 8K+ 大电池",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/300.htm"
-            },
-            {
-                "title": "16G+1T 版 3315 元：荣耀 500 Pro 手机国补后新低，配 8000mAh 大电池",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/295.htm"
-            },
-            {
-                "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+                "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-15",
-                "url": "https://36kr.com/p/3853016586359817"
+                "url": "https://36kr.com/p/3854243718550528"
             },
             {
-                "title": "为什么压力大会睡不好，清华团队新发现登上 Science",
+                "title": "美国政策反转、史无前例管制大模型 为硅谷敲响警钟",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565800.htm"
+            },
+            {
+                "title": "特斯拉：中国智造的 Model Y 成为 2026 年 5 月日本进口车品牌单一车型新车注册量第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/240.htm"
+                "url": "https://www.ithome.com/0/964/427.htm"
             },
             {
-                "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-14",
-                "url": "https://36kr.com/p/3853670570743040"
+                "title": "字节跳动洽谈为AI推理采购天数智芯、百度芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565766.htm"
+            },
+            {
+                "title": "美对Anthropic出口管制 加拿大总理：过度依赖少数模型存在风险",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565756.htm"
             }
         ],
         "mil": [
             {
+                "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-15",
+                "url": "https://36kr.com/p/3854243718550528"
+            },
+            {
+                "title": "分析师用AI写研报搞了个大乌龙 互联网信息该如何排污？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565780.htm"
+            },
+            {
+                "title": "美国防部再次公布涉UFO档案 披露离奇现象",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565764.htm"
+            },
+            {
                 "title": "《哥特王朝 1 重制版》获 IGN 7 分：游戏依旧硬核，但部分设计已不适宜时代",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-15",
@@ -56,34 +74,16 @@
                 "url": "https://36kr.com/p/3853016586359817"
             },
             {
-                "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-15",
-                "url": "https://36kr.com/p/3853252135654660"
-            },
-            {
-                "title": "计算机历史博物馆回顾从德国废弃仓库发掘 2000 余件计算机文物，足足装满了 7 辆卡车",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/208.htm"
-            },
-            {
-                "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-14",
-                "url": "https://36kr.com/p/3853670570743040"
-            },
-            {
                 "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-15",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVSk1PTTN1UUg5WDQ1TktLX0lxVjFMaWpxN0hOcTc3WWUwVndRb1JVdjh3SU1nckREVEwyT1o4Y243X0w3NnRWTVJfbE53Z3R5b3pBQ2JFMFNXLUhCQjdhWDlPVWF1THBXSW1XYklR?oc=5"
             },
             {
-                "title": "2026年6月15日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "国防部新闻发言人陈曦大校 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iUklCckhDT19FOC1EYjNya0w3QWhaalRGYTZMX1IxbHNud3dXc2F6N1FJMzNsdE9NQ1k4OHUyRTExbW10di1ZUHNTb3dwb29kOTNLWGlwU3VfMVdBbnBvRTBlYnY3WG5wemhUbk5Td1YwdXNnMlE?oc=5"
+                "date": "2026-06-16",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZmlSTS10Y2NDakpIOXl0d1BjZnU4bVFpTnBZUGRRYnRocUVlT1RHbFloYXZDWUdVWW9WVWl2STAyUm83ZTNubXFqcEtrYXdWeEVEYXdQUWRrWkVleExCeW1R?oc=5"
             },
             {
                 "title": "习近平党建思想内涵要义 - 中华人民共和国国防部",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sRVdJMWtNaVVTUTZ4QUJRbTlUWmxwRVlUMktmV21McjFQYU54UGhMR1hSTXlMOEg2d2Fub25fY2xyNjBoOXA2R1c0NEprUEZfN0ZDWmxOcTJZNkdjN3NMaXFFdlhQdw?oc=5"
             },
             {
+                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-16",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03MEd3bjNaLVpBRDFPRDRsNzI3X1RJVm9FaWxVT0RYZlg5MS1xTHFIUUxyYUJISkU3eVZyQ2FIaXYxYzFfYklUcTRR?oc=5"
+            },
+            {
+                "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
+            },
+            {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "正确政绩观 践行在军营丨仰望焦桐 躬身答卷 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnakZzSEpnT2g5OGNwZHNSNzNkMWdCazFnZXNoVHRxMWJaS0pYQ09PODhBanJPWXludlJJVDZkV1lodkNRSXIzQzlTdDJnV1NNUkE?oc=5"
-            },
-            {
-                "title": "80余件“传家宝”回到起飞地 承载着珍贵的历史记忆 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5udmZQWHpwQkdhYjMwcEt2bS1JVEdjRTlqUDFPdjJUakZnOENNUmRCT2w1elh1ZDQ4R0lPUmU0QU41ZzM2X0p5RllULWQ2dmdNSWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "《哥特王朝 1 重制版》获 IGN 7 分：游戏依旧硬核，但部分设计已不适宜时代",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/290.htm"
-            },
-            {
-                "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+                "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-15",
-                "url": "https://36kr.com/p/3853016586359817"
+                "url": "https://36kr.com/p/3854243718550528"
             },
             {
-                "title": "网件起诉 TP-Link 虚假宣传是“美国公司”，后者回应称“不准确且歪曲事实”",
+                "title": "美国政策反转、史无前例管制大模型 为硅谷敲响警钟",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565800.htm"
+            },
+            {
+                "title": "英国首相斯塔默宣布要全面禁止16岁以下儿童使用社交媒体",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565798.htm"
+            },
+            {
+                "title": "特斯拉：中国智造的 Model Y 成为 2026 年 5 月日本进口车品牌单一车型新车注册量第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/232.htm"
+                "url": "https://www.ithome.com/0/964/427.htm"
             },
             {
-                "title": "计算机历史博物馆回顾从德国废弃仓库发掘 2000 余件计算机文物，足足装满了 7 辆卡车",
-                "source": "NewsAPI / Ithome.com",
+                "title": "分析师用AI写研报搞了个大乌龙 互联网信息该如何排污？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/208.htm"
-            },
-            {
-                "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-14",
-                "url": "https://36kr.com/p/3853670570743040"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565780.htm"
             },
             {
                 "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
@@ -148,10 +148,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVSk1PTTN1UUg5WDQ1TktLX0lxVjFMaWpxN0hOcTc3WWUwVndRb1JVdjh3SU1nckREVEwyT1o4Y243X0w3NnRWTVJfbE53Z3R5b3pBQ2JFMFNXLUhCQjdhWDlPVWF1THBXSW1XYklR?oc=5"
             },
             {
-                "title": "2026年6月15日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "国防部新闻发言人陈曦大校 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iUklCckhDT19FOC1EYjNya0w3QWhaalRGYTZMX1IxbHNud3dXc2F6N1FJMzNsdE9NQ1k4OHUyRTExbW10di1ZUHNTb3dwb29kOTNLWGlwU3VfMVdBbnBvRTBlYnY3WG5wemhUbk5Td1YwdXNnMlE?oc=5"
+                "date": "2026-06-16",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZmlSTS10Y2NDakpIOXl0d1BjZnU4bVFpTnBZUGRRYnRocUVlT1RHbFloYXZDWUdVWW9WVWl2STAyUm83ZTNubXFqcEtrYXdWeEVEYXdQUWRrWkVleExCeW1R?oc=5"
             },
             {
                 "title": "习近平党建思想内涵要义 - 中华人民共和国国防部",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sRVdJMWtNaVVTUTZ4QUJRbTlUWmxwRVlUMktmV21McjFQYU54UGhMR1hSTXlMOEg2d2Fub25fY2xyNjBoOXA2R1c0NEprUEZfN0ZDWmxOcTJZNkdjN3NMaXFFdlhQdw?oc=5"
             },
             {
+                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-16",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03MEd3bjNaLVpBRDFPRDRsNzI3X1RJVm9FaWxVT0RYZlg5MS1xTHFIUUxyYUJISkU3eVZyQ2FIaXYxYzFfYklUcTRR?oc=5"
+            },
+            {
+                "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
+            },
+            {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "正确政绩观 践行在军营丨仰望焦桐 躬身答卷 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnakZzSEpnT2g5OGNwZHNSNzNkMWdCazFnZXNoVHRxMWJaS0pYQ09PODhBanJPWXludlJJVDZkV1lodkNRSXIzQzlTdDJnV1NNUkE?oc=5"
-            },
-            {
-                "title": "80余件“传家宝”回到起飞地 承载着珍贵的历史记忆 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5udmZQWHpwQkdhYjMwcEt2bS1JVEdjRTlqUDFPdjJUakZnOENNUmRCT2w1elh1ZDQ4R0lPUmU0QU41ZzM2X0p5RllULWQ2dmdNSWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-16T03:45:27.511168+00:00"
+    "last_updated": "2026-06-16T11:05:05.145994+00:00"
 }
