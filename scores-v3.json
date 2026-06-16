@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "如何摆脱在关键矿产问题上对中国的依赖是七国集团领导人峰会关注的议题之一",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-15",
+                "url": "https://www.voachinese.com/a/reducing-dependence-on-chinese-critical-minerals-tops-g7-minerals-agenda-20260615/8161121.html"
+            },
+            {
+                "title": "台湾设联系窗口供中国境内外民众提供相关政经、军事及社会情报",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-15",
+                "url": "https://www.voachinese.com/a/taiwan-launches-website-for-chinese-nationals-to-report-intelligence-20260615/8161086.html"
+            },
+            {
                 "title": "Anthropic将与特朗普政府就Mythos模型争议举行会谈",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-15",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-15",
                 "url": "https://36kr.com/p/3854510160549124"
-            },
-            {
-                "title": "特斯拉被指向欧洲监管机构提供误导性FSD安全数据",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565830.htm"
-            },
-            {
-                "title": "肯德基发力无骨鸡肉、全新饮品子品牌 力争夺回市场份额",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565816.htm"
             }
         ],
         "mil": [
+            {
+                "title": "突发！美国空军B-52轰炸机起飞后坠毁(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-15",
+                "url": "https://www.secretchina.com/news/gb/2026/06/16/1100605.html"
+            },
+            {
+                "title": "台湾设联系窗口供中国境内外民众提供相关政经、军事及社会情报",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-15",
+                "url": "https://www.voachinese.com/a/taiwan-launches-website-for-chinese-nationals-to-report-intelligence-20260615/8161086.html"
+            },
             {
                 "title": "Google称疑似中国黑客一年多来潜伏窃取美加科研机构数据",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-06-15",
                 "url": "https://www.secretchina.com/news/gb/2026/06/15/1100591.html"
-            },
-            {
-                "title": "美伊达成停止冲突临时协议 将重开霍尔木兹海峡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565804.htm"
-            },
-            {
-                "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-15",
-                "url": "https://36kr.com/p/3854243718550528"
             },
             {
                 "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "美驻华使馆罕见一日连推三预警，提醒美国公民去中国旅行的风险",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-15",
+                "url": "https://www.voachinese.com/a/us-house-urges-china-to-release-min-zin-20260615/8161117.html"
+            },
+            {
+                "title": "台湾设联系窗口供中国境内外民众提供相关政经、军事及社会情报",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-15",
+                "url": "https://www.voachinese.com/a/taiwan-launches-website-for-chinese-nationals-to-report-intelligence-20260615/8161086.html"
+            },
+            {
                 "title": "Google称疑似中国黑客一年多来潜伏窃取美加科研机构数据",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-15",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-15",
                 "url": "https://36kr.com/p/3854510160549124"
-            },
-            {
-                "title": "特斯拉被指向欧洲监管机构提供误导性FSD安全数据",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565830.htm"
-            },
-            {
-                "title": "小红书计划本月底前秘密在港递表 估值曾达310亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565808.htm"
             },
             {
                 "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-16T16:45:14.197663+00:00"
+    "last_updated": "2026-06-16T20:46:41.500597+00:00"
 }
