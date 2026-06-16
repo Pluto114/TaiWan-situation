@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+                "title": "Anthropic将与特朗普政府就Mythos模型争议举行会谈",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565840.htm"
+            },
+            {
+                "title": "台积电大幅上调2nm工艺报价或迫使英伟达和苹果转向三星",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565836.htm"
+            },
+            {
+                "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-15",
-                "url": "https://36kr.com/p/3854243718550528"
+                "url": "https://36kr.com/p/3854510160549124"
             },
             {
-                "title": "美国政策反转、史无前例管制大模型 为硅谷敲响警钟",
+                "title": "特斯拉被指向欧洲监管机构提供误导性FSD安全数据",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565800.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565830.htm"
             },
             {
-                "title": "特斯拉：中国智造的 Model Y 成为 2026 年 5 月日本进口车品牌单一车型新车注册量第一",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/427.htm"
-            },
-            {
-                "title": "字节跳动洽谈为AI推理采购天数智芯、百度芯片",
+                "title": "肯德基发力无骨鸡肉、全新饮品子品牌 力争夺回市场份额",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565766.htm"
-            },
-            {
-                "title": "美对Anthropic出口管制 加拿大总理：过度依赖少数模型存在风险",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565756.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565816.htm"
             }
         ],
         "mil": [
             {
+                "title": "Google称疑似中国黑客一年多来潜伏窃取美加科研机构数据",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565846.htm"
+            },
+            {
+                "title": "肯德基发力无骨鸡肉、全新饮品子品牌 力争夺回市场份额",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565816.htm"
+            },
+            {
+                "title": "美伊达成结束冲突框架协议 多国欢迎中东局势降温(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-15",
+                "url": "https://www.secretchina.com/news/gb/2026/06/15/1100591.html"
+            },
+            {
+                "title": "美伊达成停止冲突临时协议 将重开霍尔木兹海峡",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565804.htm"
+            },
+            {
                 "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-15",
                 "url": "https://36kr.com/p/3854243718550528"
-            },
-            {
-                "title": "分析师用AI写研报搞了个大乌龙 互联网信息该如何排污？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565780.htm"
-            },
-            {
-                "title": "美国防部再次公布涉UFO档案 披露离奇现象",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565764.htm"
-            },
-            {
-                "title": "《哥特王朝 1 重制版》获 IGN 7 分：游戏依旧硬核，但部分设计已不适宜时代",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/290.htm"
-            },
-            {
-                "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-15",
-                "url": "https://36kr.com/p/3853016586359817"
             },
             {
                 "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
@@ -92,13 +92,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sRVdJMWtNaVVTUTZ4QUJRbTlUWmxwRVlUMktmV21McjFQYU54UGhMR1hSTXlMOEg2d2Fub25fY2xyNjBoOXA2R1c0NEprUEZfN0ZDWmxOcTJZNkdjN3NMaXFFdlhQdw?oc=5"
             },
             {
-                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 军网",
+                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-16",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03MEd3bjNaLVpBRDFPRDRsNzI3X1RJVm9FaWxVT0RYZlg5MS1xTHFIUUxyYUJISkU3eVZyQ2FIaXYxYzFfYklUcTRR?oc=5"
             },
             {
-                "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
+                "title": "八一锐评丨牢记第一身份是共产党员 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-15",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+                "title": "Google称疑似中国黑客一年多来潜伏窃取美加科研机构数据",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565846.htm"
+            },
+            {
+                "title": "Anthropic将与特朗普政府就Mythos模型争议举行会谈",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565840.htm"
+            },
+            {
+                "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-15",
-                "url": "https://36kr.com/p/3854243718550528"
+                "url": "https://36kr.com/p/3854510160549124"
             },
             {
-                "title": "美国政策反转、史无前例管制大模型 为硅谷敲响警钟",
+                "title": "特斯拉被指向欧洲监管机构提供误导性FSD安全数据",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565800.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565830.htm"
             },
             {
-                "title": "英国首相斯塔默宣布要全面禁止16岁以下儿童使用社交媒体",
+                "title": "小红书计划本月底前秘密在港递表 估值曾达310亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565798.htm"
-            },
-            {
-                "title": "特斯拉：中国智造的 Model Y 成为 2026 年 5 月日本进口车品牌单一车型新车注册量第一",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-15",
-                "url": "https://www.ithome.com/0/964/427.htm"
-            },
-            {
-                "title": "分析师用AI写研报搞了个大乌龙 互联网信息该如何排污？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565780.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565808.htm"
             },
             {
                 "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
@@ -160,13 +160,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sRVdJMWtNaVVTUTZ4QUJRbTlUWmxwRVlUMktmV21McjFQYU54UGhMR1hSTXlMOEg2d2Fub25fY2xyNjBoOXA2R1c0NEprUEZfN0ZDWmxOcTJZNkdjN3NMaXFFdlhQdw?oc=5"
             },
             {
-                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 军网",
+                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-16",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03MEd3bjNaLVpBRDFPRDRsNzI3X1RJVm9FaWxVT0RYZlg5MS1xTHFIUUxyYUJISkU3eVZyQ2FIaXYxYzFfYklUcTRR?oc=5"
             },
             {
-                "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
+                "title": "八一锐评丨牢记第一身份是共产党员 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-15",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-16T11:05:05.145994+00:00"
+    "last_updated": "2026-06-16T16:45:14.197663+00:00"
 }
