@@ -12,38 +12,50 @@
     "news_sources": {
         "econ": [
             {
-                "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
+                "title": "百胜中国12亿美元收购必胜客中国大陆品牌所有权",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565978.htm"
+            },
+            {
+                "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-16",
-                "url": "https://36kr.com/p/3855628692001799"
+                "url": "https://36kr.com/p/3855879311823873"
             },
             {
-                "title": "走私辉达AI芯片被破获 台美携手揪出中国“神秘买家”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-16",
-                "url": "https://www.secretchina.com/news/gb/2026/06/16/1100633.html"
-            },
-            {
-                "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-16",
-                "url": "https://36kr.com/p/3855262364488969"
-            },
-            {
-                "title": "在大疆、影石夹缝中做智能影像生意，这家公司连续五年每年增长50%｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-16",
-                "url": "https://36kr.com/p/3853918856696834"
-            },
-            {
-                "title": "大疆产品经理舒修回应手机厂商加入 Pocket 赛道竞争：最终比拼的不是单一价格",
+                "title": "4699 → 3245 元：荣耀 WIN 手机 16+512G 版新低，骁龙 8E5 + 10000 mAh",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-16",
-                "url": "https://www.ithome.com/0/964/922.htm"
+                "url": "https://www.ithome.com/0/965/085.htm"
+            },
+            {
+                "title": "传iPhone 18标配12GB内存以支持更强Siri 价格预计不做调整",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565956.htm"
+            },
+            {
+                "title": "折叠屏iPhone推迟传闻遭否认：爆料称仍将与iPhone 18同期发布",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565952.htm"
             }
         ],
         "mil": [
             {
+                "title": "腾讯张军：智能体 WorkBuddy 将入职政务系统，全国首个省级政务智能中枢平台「湾擎」上线试运行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-16",
+                "url": "https://www.ithome.com/0/965/103.htm"
+            },
+            {
+                "title": "通用汽车洽谈为洛克希德马丁供应武器零部件",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565944.htm"
+            },
+            {
                 "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-16",
@@ -62,24 +74,6 @@
                 "url": "https://36kr.com/p/3853918856696834"
             },
             {
-                "title": "韩国父母给婴儿开户买三星股票 不再给孩子买房",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565926.htm"
-            },
-            {
-                "title": "美国空军一架B-52轰炸机起飞后不久在加州坠毁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565904.htm"
-            },
-            {
-                "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVSk1PTTN1UUg5WDQ1TktLX0lxVjFMaWpxN0hOcTc3WWUwVndRb1JVdjh3SU1nckREVEwyT1o4Y243X0w3NnRWTVJfbE53Z3R5b3pBQ2JFMFNXLUhCQjdhWDlPVWF1THBXSW1XYklR?oc=5"
-            },
-            {
                 "title": "王毅会见下任联合国秘书长候选人格林斯潘 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-16",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZmlSTS10Y2NDakpIOXl0d1BjZnU4bVFpTnBZUGRRYnRocUVlT1RHbFloYXZDWUdVWW9WVWl2STAyUm83ZTNubXFqcEtrYXdWeEVEYXdQUWRrWkVleExCeW1R?oc=5"
             },
             {
-                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-16",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03MEd3bjNaLVpBRDFPRDRsNzI3X1RJVm9FaWxVT0RYZlg5MS1xTHFIUUxyYUJISkU3eVZyQ2FIaXYxYzFfYklUcTRR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kcVlQNVlTb0tpZUthTnpQMVE3VWZYSDhSWUw5MnZCdldRX2FNV1hQZzBGcjlFNV9JN1pfaXJrd3g5R09UbG90NVE0VXdkMnlaQ3JhVVViR3BOX1EzTUxqcFE3ZG93cTVrRUhNUldoSV9OclFodG1n?oc=5"
             },
             {
                 "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
@@ -108,44 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-16",
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Vd0ZQUWpxZE83aWFBZGp2cXdHSHFkZ0xkQk9JakVxa2xfXzduaUpfVzhKbm5vbzl5VFhFWEVyWEM4SzRLQmV6LWc4MzYzU1F4bEhudTZmTFZFRjY5cy1IQg?oc=5"
+            },
+            {
+                "title": "碾压蒸汽弹射！福建舰电磁弹射到底强在哪里？ - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CUHlzd3UzQUZoNjdXc0RuUDAyTGhmbnF0RV9EaEZieFBSbnBjX2dFSDNJX25fMU1UdFR1VzRHWGJnX0ZoN1FYVlNhekJZWVNZaVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "刘国中将出席“非洲应对埃博拉疫情特别视频峰会” - 海报新闻",
-                "source": "NewsAPI / Dzwww.com",
+                "title": "刚果（金）埃博拉疫情顶峰“近在眼前” 红十字会：或持续一年 - orientaldaily.com.my",
+                "source": "NewsAPI / Orientaldaily.com.my",
                 "date": "2026-06-16",
-                "url": "https://hb.dzwww.com/p/p5bmf8Qrxc.html"
+                "url": "https://www.orientaldaily.com.my/news/international/2026/06/16/826335"
             },
             {
-                "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
+                "title": "百胜中国12亿美元收购必胜客中国大陆品牌所有权",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565978.htm"
+            },
+            {
+                "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-16",
-                "url": "https://36kr.com/p/3855628692001799"
+                "url": "https://36kr.com/p/3855879311823873"
             },
             {
-                "title": "美国歌手奥利弗 · 特里直升机空难离世，年仅 32 岁",
-                "source": "NewsAPI / Ithome.com",
+                "title": "外媒：小红书聘请投行最快下半年在港IPO 私募估值500亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-16",
-                "url": "https://www.ithome.com/0/965/011.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565964.htm"
             },
             {
-                "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
-                "source": "NewsAPI / 36kr.com",
+                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 京报网",
+                "source": "NewsAPI / Bjd.com.cn",
                 "date": "2026-06-16",
-                "url": "https://36kr.com/p/3855262364488969"
-            },
-            {
-                "title": "在大疆、影石夹缝中做智能影像生意，这家公司连续五年每年增长50%｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-16",
-                "url": "https://36kr.com/p/3853918856696834"
-            },
-            {
-                "title": "王毅同尼泊尔外长希西尔会谈 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVSk1PTTN1UUg5WDQ1TktLX0lxVjFMaWpxN0hOcTc3WWUwVndRb1JVdjh3SU1nckREVEwyT1o4Y243X0w3NnRWTVJfbE53Z3R5b3pBQ2JFMFNXLUhCQjdhWDlPVWF1THBXSW1XYklR?oc=5"
+                "url": "https://news.bjd.com.cn/2026/06/16/11810183.shtml"
             },
             {
                 "title": "王毅会见下任联合国秘书长候选人格林斯潘 - mfa.gov.cn",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZmlSTS10Y2NDakpIOXl0d1BjZnU4bVFpTnBZUGRRYnRocUVlT1RHbFloYXZDWUdVWW9WVWl2STAyUm83ZTNubXFqcEtrYXdWeEVEYXdQUWRrWkVleExCeW1R?oc=5"
             },
             {
-                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-16",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03MEd3bjNaLVpBRDFPRDRsNzI3X1RJVm9FaWxVT0RYZlg5MS1xTHFIUUxyYUJISkU3eVZyQ2FIaXYxYzFfYklUcTRR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kcVlQNVlTb0tpZUthTnpQMVE3VWZYSDhSWUw5MnZCdldRX2FNV1hQZzBGcjlFNV9JN1pfaXJrd3g5R09UbG90NVE0VXdkMnlaQ3JhVVViR3BOX1EzTUxqcFE3ZG93cTVrRUhNUldoSV9OclFodG1n?oc=5"
             },
             {
                 "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-16",
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Vd0ZQUWpxZE83aWFBZGp2cXdHSHFkZ0xkQk9JakVxa2xfXzduaUpfVzhKbm5vbzl5VFhFWEVyWEM4SzRLQmV6LWc4MzYzU1F4bEhudTZmTFZFRjY5cy1IQg?oc=5"
+            },
+            {
+                "title": "碾压蒸汽弹射！福建舰电磁弹射到底强在哪里？ - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CUHlzd3UzQUZoNjdXc0RuUDAyTGhmbnF0RV9EaEZieFBSbnBjX2dFSDNJX25fMU1UdFR1VzRHWGJnX0ZoN1FYVlNhekJZWVNZaVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-17T10:49:24.409638+00:00"
+    "last_updated": "2026-06-17T15:18:52.833211+00:00"
 }
