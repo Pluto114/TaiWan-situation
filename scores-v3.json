@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "百胜中国12亿美元收购必胜客中国大陆品牌所有权",
+                "title": "欧盟官员表示，已经证实中国为俄乌战争训练俄罗斯军人，欧洲学者称将对中欧贸易带来重大影响",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-16",
+                "url": "https://www.voachinese.com/a/eu-says-china-trained-russian-troops-to-fight-in-ukraine-war-20260616/8161527.html"
+            },
+            {
+                "title": "上海迪士尼正式庆祝了 10 岁生日，我们用这些数字记录它的过去与现在",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-16",
+                "url": "https://www.toodaylab.com/84080"
+            },
+            {
+                "title": "台积电押注玻璃基板优化CoWoS封装散热表现 但量产仍需时日",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565978.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565994.htm"
             },
             {
-                "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2028年的高端iPhone将首发1.4nm A22 Pro芯片 考虑由台积电与英特尔共同代工",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-16",
-                "url": "https://36kr.com/p/3855879311823873"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565988.htm"
             },
             {
-                "title": "4699 → 3245 元：荣耀 WIN 手机 16+512G 版新低，骁龙 8E5 + 10000 mAh",
+                "title": "朱江明自曝是车圈最早举起芯片的人：零跑 2020 年就已推出“凌芯 01”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-16",
-                "url": "https://www.ithome.com/0/965/085.htm"
-            },
-            {
-                "title": "传iPhone 18标配12GB内存以支持更强Siri 价格预计不做调整",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565956.htm"
-            },
-            {
-                "title": "折叠屏iPhone推迟传闻遭否认：爆料称仍将与iPhone 18同期发布",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565952.htm"
+                "url": "https://www.ithome.com/0/965/131.htm"
             }
         ],
         "mil": [
+            {
+                "title": "谷歌：与中国有关联的黑客组织袭击北美人工智能、网络、医学与国防研究领域机构",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-16",
+                "url": "https://www.voachinese.com/a/google-says-chinese-linked-hackers-targeted-north-american-research-facilities-for-a-year-20260616/8161479.html"
+            },
+            {
+                "title": "SpaceX市值超越微软 跻身美国第四大上市公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1565984.htm"
+            },
             {
                 "title": "腾讯张军：智能体 WorkBuddy 将入职政务系统，全国首个省级政务智能中枢平台「湾擎」上线试运行",
                 "source": "NewsAPI / Ithome.com",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3855628692001799"
             },
             {
-                "title": "美国歌手奥利弗 · 特里直升机空难离世，年仅 32 岁",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-16",
-                "url": "https://www.ithome.com/0/965/011.htm"
-            },
-            {
-                "title": "在大疆、影石夹缝中做智能影像生意，这家公司连续五年每年增长50%｜硬氪专访",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-16",
-                "url": "https://36kr.com/p/3853918856696834"
-            },
-            {
                 "title": "王毅会见下任联合国秘书长候选人格林斯潘 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-16",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZmlSTS10Y2NDakpIOXl0d1BjZnU4bVFpTnBZUGRRYnRocUVlT1RHbFloYXZDWUdVWW9WVWl2STAyUm83ZTNubXFqcEtrYXdWeEVEYXdQUWRrWkVleExCeW1R?oc=5"
             },
             {
-                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "title": "韩正会见美国前运输部长赵小兰 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-16",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kcVlQNVlTb0tpZUthTnpQMVE3VWZYSDhSWUw5MnZCdldRX2FNV1hQZzBGcjlFNV9JN1pfaXJrd3g5R09UbG90NVE0VXdkMnlaQ3JhVVViR3BOX1EzTUxqcFE3ZG93cTVrRUhNUldoSV9OclFodG1n?oc=5"
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PWkZCRmtINkZlbXVSaUxJd2dneXBEQ0NOXzhJSzBHd1pwMUZaR3dMWWlnNEZHQ0tQZk5sd0lUTURra3lJbTJ0eGJGZ1M5cU9QbUllcjJTRm5UQnM4UEx0Vm5EcktDNXd4a2Y4?oc=5"
+            },
+            {
+                "title": "习近平对常态化做好东西部协作工作作出重要指示 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DalFSZURaS3dYamNYd0VveFZWWHp1dThBNkpPcEtGU1FKZlpaYV9tQkRTX1k2NXNpRHNXdTJpeC1NZmxVYlR4dkFZZw?oc=5"
             },
             {
                 "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
@@ -98,19 +104,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
             },
             {
-                "title": "强军微镜头丨看战鹰掠过星空 守护万家灯火 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-16",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Vd0ZQUWpxZE83aWFBZGp2cXdHSHFkZ0xkQk9JakVxa2xfXzduaUpfVzhKbm5vbzl5VFhFWEVyWEM4SzRLQmV6LWc4MzYzU1F4bEhudTZmTFZFRjY5cy1IQg?oc=5"
-            },
-            {
-                "title": "碾压蒸汽弹射！福建舰电磁弹射到底强在哪里？ - 军网",
+                "title": "拾光纪·习近平党建思想内涵要义 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CUHlzd3UzQUZoNjdXc0RuUDAyTGhmbnF0RV9EaEZieFBSbnBjX2dFSDNJX25fMU1UdFR1VzRHWGJnX0ZoN1FYVlNhekJZWVNZaVE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kNDR3QTRPNHIxRlRzcGY2b1ZkZU1qRS16WkdpV3k3eHFpUWN3aTgyUEJzeDVLbmlQR0lJZXdCZFpNakt4Qi1XTmtiU1FIYnItSWc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "刚果民主共和国伊波拉疫情升温 红十字会：或需一年遏制传播 - 8world",
+                "source": "NewsAPI / 8world.com",
+                "date": "2026-06-16",
+                "url": "https://www.8world.com/world/red-cross-says-congo-ebola-epidemic-yet-to-peak-may-last-a-year-3183776"
+            },
+            {
+                "title": "非洲疾控中心警告：剛果埃博拉或成史上最嚴重，數萬接觸者尚未追蹤| 乌克兰新闻 - mezha.net",
+                "source": "NewsAPI / Mezha.net",
+                "date": "2026-06-16",
+                "url": "https://mezha.net/ch/bukvy/f7c02b49_african_cdc_warns/"
+            },
             {
                 "title": "刚果（金）埃博拉疫情顶峰“近在眼前” 红十字会：或持续一年 - orientaldaily.com.my",
                 "source": "NewsAPI / Orientaldaily.com.my",
@@ -130,18 +142,6 @@
                 "url": "https://36kr.com/p/3855879311823873"
             },
             {
-                "title": "外媒：小红书聘请投行最快下半年在港IPO 私募估值500亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565964.htm"
-            },
-            {
-                "title": "刘国中将出席非洲应对埃博拉疫情特别视频峰会 - 京报网",
-                "source": "NewsAPI / Bjd.com.cn",
-                "date": "2026-06-16",
-                "url": "https://news.bjd.com.cn/2026/06/16/11810183.shtml"
-            },
-            {
                 "title": "王毅会见下任联合国秘书长候选人格林斯潘 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-16",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vZmlSTS10Y2NDakpIOXl0d1BjZnU4bVFpTnBZUGRRYnRocUVlT1RHbFloYXZDWUdVWW9WVWl2STAyUm83ZTNubXFqcEtrYXdWeEVEYXdQUWRrWkVleExCeW1R?oc=5"
             },
             {
-                "title": "我国担任保存机关的条约详情 - 中华人民共和国-条约数据库",
+                "title": "韩正会见美国前运输部长赵小兰 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-16",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kcVlQNVlTb0tpZUthTnpQMVE3VWZYSDhSWUw5MnZCdldRX2FNV1hQZzBGcjlFNV9JN1pfaXJrd3g5R09UbG90NVE0VXdkMnlaQ3JhVVViR3BOX1EzTUxqcFE3ZG93cTVrRUhNUldoSV9OclFodG1n?oc=5"
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PWkZCRmtINkZlbXVSaUxJd2dneXBEQ0NOXzhJSzBHd1pwMUZaR3dMWWlnNEZHQ0tQZk5sd0lUTURra3lJbTJ0eGJGZ1M5cU9QbUllcjJTRm5UQnM4UEx0Vm5EcktDNXd4a2Y4?oc=5"
+            },
+            {
+                "title": "习近平对常态化做好东西部协作工作作出重要指示 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DalFSZURaS3dYamNYd0VveFZWWHp1dThBNkpPcEtGU1FKZlpaYV9tQkRTX1k2NXNpRHNXdTJpeC1NZmxVYlR4dkFZZw?oc=5"
             },
             {
                 "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
@@ -166,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
             },
             {
-                "title": "强军微镜头丨看战鹰掠过星空 守护万家灯火 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-16",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Vd0ZQUWpxZE83aWFBZGp2cXdHSHFkZ0xkQk9JakVxa2xfXzduaUpfVzhKbm5vbzl5VFhFWEVyWEM4SzRLQmV6LWc4MzYzU1F4bEhudTZmTFZFRjY5cy1IQg?oc=5"
-            },
-            {
-                "title": "碾压蒸汽弹射！福建舰电磁弹射到底强在哪里？ - 军网",
+                "title": "拾光纪·习近平党建思想内涵要义 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CUHlzd3UzQUZoNjdXc0RuUDAyTGhmbnF0RV9EaEZieFBSbnBjX2dFSDNJX25fMU1UdFR1VzRHWGJnX0ZoN1FYVlNhekJZWVNZaVE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kNDR3QTRPNHIxRlRzcGY2b1ZkZU1qRS16WkdpV3k3eHFpUWN3aTgyUEJzeDVLbmlQR0lJZXdCZFpNakt4Qi1XTmtiU1FIYnItSWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-17T15:18:52.833211+00:00"
+    "last_updated": "2026-06-17T20:08:28.179672+00:00"
 }
