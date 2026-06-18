@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "韩 Fabless 企业济州半导体计划利用 SK 海力士产能制造 LPDDR5 内存",
-                "source": "NewsAPI / Ithome.com",
+                "title": "七国集团峰会发表关键矿产宣言，以遏制中国的市场主导地位",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-06-17",
-                "url": "https://www.ithome.com/0/965/561.htm"
+                "url": "https://www.voachinese.com/a/g7-leaders-vow-to-break-dependence-on-chinese-critical-minerals-20260617/8161848.html"
             },
             {
-                "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
+                "title": "对Anthropic的禁令引发OpenAI等企业担忧 美国或将收紧外籍AI人才监管",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566070.htm"
+            },
+            {
+                "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-17",
-                "url": "https://36kr.com/p/3857011810112521"
+                "url": "https://36kr.com/p/3857175761081348"
             },
             {
-                "title": "美司法部出手相助马斯克：以国家安全为由要求法官驳回对xAI诉讼",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "理想汽车詹锟：除特斯拉 FSD 外，国内没有智驾第一梯队、应正视差距拒绝自我麻痹",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566062.htm"
+                "url": "https://www.ithome.com/0/965/636.htm"
             },
             {
-                "title": "豪掷600亿美元收购Cursor 马斯克打的什么AI算盘？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "罗技首款折叠鼠标 Mobi Fold 发售：15 年使用耐久，到手 575.1 元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566054.htm"
-            },
-            {
-                "title": "美国AI战略的悖论：追求全球主导地位 却用出口管制自我削弱",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566052.htm"
+                "url": "https://www.ithome.com/0/965/634.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中国科研团队在横琴岛发现世界上最小鱼类之一，体长不足 9 毫米",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-17",
+                "url": "https://www.ithome.com/0/965/687.htm"
+            },
+            {
+                "title": "对Anthropic的禁令引发OpenAI等企业担忧 美国或将收紧外籍AI人才监管",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566070.htm"
+            },
             {
                 "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
                 "source": "NewsAPI / 36kr.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-17",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1566040.htm"
-            },
-            {
-                "title": "伊朗料从美伊协议获广泛经济回报 包括立即售油及3000亿美元发展基金",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566038.htm"
-            },
-            {
-                "title": "美国暂缓将中国DeepSeek列入贸易黑名单 逾百家风险企业待公布",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566032.htm"
             },
             {
                 "title": "中华人民共和国和缅甸联邦共和国关于加快构建中缅命运共同体的联合声明 - mfa.gov.cn",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "C罗第六次出征世界杯能否率领葡萄牙首战完胜刚果？世界杯：葡萄牙vs刚果民主共和国葡萄牙国家队公布本期大名单，全队总身价高达10.1亿欧元。中场配置尤为突出，维蒂尼亚和若昂·内维斯刚助巴黎圣日耳曼夺得欧冠，布鲁诺·费尔南德斯则是英超MVP。锋线迎回效 - 新浪网",
+                "source": "NewsAPI / Sina.cn",
+                "date": "2026-06-17",
+                "url": "https://www.sina.cn/news/detail/5310874472678057.html"
+            },
+            {
+                "title": "对Anthropic的禁令引发OpenAI等企业担忧 美国或将收紧外籍AI人才监管",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566070.htm"
+            },
+            {
+                "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-17",
+                "url": "https://36kr.com/p/3857175761081348"
+            },
+            {
                 "title": "马斯克律师向德国电视二台发警告函 记协发声",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-17",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-17",
                 "url": "https://www.dw.com/zh/%E5%8F%B0%E6%B9%BE%E5%AD%A6%E8%80%85%E8%B5%B4%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%8F%82%E4%B8%8E%E6%B5%B7%E6%B4%8B%E5%A4%A7%E4%BC%9A%E5%8F%97%E9%98%BB/a-77586159"
-            },
-            {
-                "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-17",
-                "url": "https://36kr.com/p/3857011810112521"
-            },
-            {
-                "title": "智谱AI开源GLM-5.2：1M上下文专攻长程任务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566060.htm"
-            },
-            {
-                "title": "豪掷600亿美元收购Cursor 马斯克打的什么AI算盘？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566054.htm"
             },
             {
                 "title": "中华人民共和国和缅甸联邦共和国关于加快构建中缅命运共同体的联合声明 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-18T10:15:55.140179+00:00"
+    "last_updated": "2026-06-18T15:16:57.240782+00:00"
 }
