@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "欧盟官员表示，已经证实中国为俄乌战争训练俄罗斯军人，欧洲学者称将对中欧贸易带来重大影响",
+                "title": "G7领导人就东中国海、南中国海、台海局势以及全球贸易失衡等议题发表声明",
                 "source": "NewsAPI / Voachinese.com",
-                "date": "2026-06-16",
-                "url": "https://www.voachinese.com/a/eu-says-china-trained-russian-troops-to-fight-in-ukraine-war-20260616/8161527.html"
+                "date": "2026-06-17",
+                "url": "https://www.voachinese.com/a/g7-statement-addresses-east-china-sea-south-china-sea-taiwan-strait-and-global-imbalances-20260616/8161810.html"
             },
             {
-                "title": "上海迪士尼正式庆祝了 10 岁生日，我们用这些数字记录它的过去与现在",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-06-16",
-                "url": "https://www.toodaylab.com/84080"
+                "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-17",
+                "url": "https://36kr.com/p/3856525981275138"
             },
             {
-                "title": "台积电押注玻璃基板优化CoWoS封装散热表现 但量产仍需时日",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565994.htm"
-            },
-            {
-                "title": "2028年的高端iPhone将首发1.4nm A22 Pro芯片 考虑由台积电与英特尔共同代工",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565988.htm"
-            },
-            {
-                "title": "朱江明自曝是车圈最早举起芯片的人：零跑 2020 年就已推出“凌芯 01”",
+                "title": "XREAL 发布 Aura XR 眼镜，搭载骁龙 Reality Elite 芯片、支持 70 度视场角",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-16",
-                "url": "https://www.ithome.com/0/965/131.htm"
+                "url": "https://www.ithome.com/0/965/154.htm"
+            },
+            {
+                "title": "中国进出口银行前5个月投放外贸领域贷款4900亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-16",
+                "url": "https://36kr.com/newsflashes/3856456435176704"
+            },
+            {
+                "title": "摩根大通：与AI相关的债券发行预计未来数年将保持火热",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-16",
+                "url": "https://36kr.com/newsflashes/3856008609354760"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 0617：曝 DeepSeek 完成超 70 亿美元融资；英伟达员工考公上岸引热议；央视关注三大运营商“新老用户不同权”问题；中国移动官宣对传统通话进行重大升级...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-16",
+                "url": "https://www.ithome.com/0/965/142.htm"
+            },
+            {
+                "title": "美国之音中文广播 (2026年6月17日)",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-16",
+                "url": "https://www.voachinese.com/a/8156768.html"
+            },
             {
                 "title": "谷歌：与中国有关联的黑客组织袭击北美人工智能、网络、医学与国防研究领域机构",
                 "source": "NewsAPI / Voachinese.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.ithome.com/0/965/103.htm"
             },
             {
-                "title": "通用汽车洽谈为洛克希德马丁供应武器零部件",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565944.htm"
-            },
-            {
-                "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-16",
-                "url": "https://36kr.com/p/3855628692001799"
-            },
-            {
                 "title": "王毅会见下任联合国秘书长候选人格林斯潘 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-16",
@@ -98,10 +98,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DalFSZURaS3dYamNYd0VveFZWWHp1dThBNkpPcEtGU1FKZlpaYV9tQkRTX1k2NXNpRHNXdTJpeC1NZmxVYlR4dkFZZw?oc=5"
             },
             {
-                "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
+                "title": "为先进战斗力提供强大武器装备支撑 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwbXhuTmpFWm1xMXlvQjl2UHVMT3htTzc5NTlkQjc0Q2hQX0JPejVYVlhRQjZPbzRqbjhMMzBXQXdHeHQwUllUSXNzdkd2aXo4X0E?oc=5"
             },
             {
                 "title": "拾光纪·习近平党建思想内涵要义 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "刚果民主共和国伊波拉疫情升温 红十字会：或需一年遏制传播 - 8world",
-                "source": "NewsAPI / 8world.com",
-                "date": "2026-06-16",
-                "url": "https://www.8world.com/world/red-cross-says-congo-ebola-epidemic-yet-to-peak-may-last-a-year-3183776"
+                "title": "荣耀林林展示 Earbuds 5e 半入耳式降噪耳机，支持 LHDC",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-17",
+                "url": "https://www.ithome.com/0/965/286.htm"
             },
             {
-                "title": "非洲疾控中心警告：剛果埃博拉或成史上最嚴重，數萬接觸者尚未追蹤| 乌克兰新闻 - mezha.net",
-                "source": "NewsAPI / Mezha.net",
-                "date": "2026-06-16",
-                "url": "https://mezha.net/ch/bukvy/f7c02b49_african_cdc_warns/"
+                "title": "欧盟警告：中国过剩产能正席卷欧洲(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-17",
+                "url": "https://www.secretchina.com/news/gb/2026/06/17/1100666.html"
             },
             {
-                "title": "刚果（金）埃博拉疫情顶峰“近在眼前” 红十字会：或持续一年 - orientaldaily.com.my",
-                "source": "NewsAPI / Orientaldaily.com.my",
-                "date": "2026-06-16",
-                "url": "https://www.orientaldaily.com.my/news/international/2026/06/16/826335"
-            },
-            {
-                "title": "百胜中国12亿美元收购必胜客中国大陆品牌所有权",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1565978.htm"
-            },
-            {
-                "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
+                "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
                 "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-17",
+                "url": "https://36kr.com/p/3856525981275138"
+            },
+            {
+                "title": "XREAL 发布 Aura XR 眼镜，搭载骁龙 Reality Elite 芯片、支持 70 度视场角",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-16",
-                "url": "https://36kr.com/p/3855879311823873"
+                "url": "https://www.ithome.com/0/965/154.htm"
+            },
+            {
+                "title": "IT早报 0617：曝 DeepSeek 完成超 70 亿美元融资；英伟达员工考公上岸引热议；央视关注三大运营商“新老用户不同权”问题；中国移动官宣对传统通话进行重大升级...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-16",
+                "url": "https://www.ithome.com/0/965/142.htm"
             },
             {
                 "title": "王毅会见下任联合国秘书长候选人格林斯潘 - mfa.gov.cn",
@@ -166,10 +166,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DalFSZURaS3dYamNYd0VveFZWWHp1dThBNkpPcEtGU1FKZlpaYV9tQkRTX1k2NXNpRHNXdTJpeC1NZmxVYlR4dkFZZw?oc=5"
             },
             {
-                "title": "八一锐评丨牢记第一身份是共产党员 - 军网",
+                "title": "为先进战斗力提供强大武器装备支撑 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaWdjQThNaF94V1ZTbm80UnFYaTludzhYZnpGZXVvSzdpaW4xZjZfMTU5U2ppSnZZQ3dBRmdRcmROTnAxUENrb1pMNUtZTXplN0E?oc=5"
+                "date": "2026-06-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwbXhuTmpFWm1xMXlvQjl2UHVMT3htTzc5NTlkQjc0Q2hQX0JPejVYVlhRQjZPbzRqbjhMMzBXQXdHeHQwUllUSXNzdkd2aXo4X0E?oc=5"
             },
             {
                 "title": "拾光纪·习近平党建思想内涵要义 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-17T20:08:28.179672+00:00"
+    "last_updated": "2026-06-18T03:37:55.582190+00:00"
 }
