@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
+                "title": "老派盗版生意仍难逃法网：英国男子刻录并出售盗版光盘获缓刑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566294.htm"
+            },
+            {
+                "title": "2D 材料晶体管告别实验室：imec 联手台积电、ASML 实现 50nm 栅距 300mm 晶圆验证",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-19",
+                "url": "https://www.ithome.com/0/966/443.htm"
+            },
+            {
+                "title": "两党参议员致函美财长，敦促果断处理中国操纵汇率问题",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-19",
+                "url": "https://www.voachinese.com/a/senators-warren-and-scott-send-bipartisan-letter-urging-trump-administration-to-address-china-s-currency-manipulation-20260619/8162645.html"
+            },
+            {
                 "title": "阿斯麦：从未向中国出口极紫外光刻机或部件",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-19",
                 "url": "https://www.dw.com/zh/%E9%98%BF%E6%96%AF%E9%BA%A6%E4%BB%8E%E6%9C%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E6%9E%81%E7%B4%AB%E5%A4%96%E5%85%89%E5%88%BB%E6%9C%BA%E6%88%96%E9%83%A8%E4%BB%B6/a-77629355"
             },
             {
-                "title": "每天近十亿逆差压顶 欧盟拟推\"欧版301条款\"反制中国补贴",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-19",
-                "url": "https://www.dw.com/zh/%E6%AF%8F%E5%A4%A9%E8%BF%91%E5%8D%81%E4%BA%BF%E9%80%86%E5%B7%AE%E5%8E%8B%E9%A1%B6-%E6%AC%A7%E7%9B%9F%E6%8B%9F%E6%8E%A8%E6%AC%A7%E7%89%88301%E6%9D%A1%E6%AC%BE%E5%8F%8D%E5%88%B6%E4%B8%AD%E5%9B%BD%E8%A1%A5%E8%B4%B4/a-77626428"
-            },
-            {
                 "title": "欧盟峰会对华政策：继续对话、研究有效的制衡工具",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-19",
                 "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E5%B3%B0%E4%BC%9A%E5%AF%B9%E5%8D%8E%E6%94%BF%E7%AD%96%E7%BB%A7%E7%BB%AD%E5%AF%B9%E8%AF%9D%E7%A0%94%E7%A9%B6%E6%9C%89%E6%95%88%E7%9A%84%E5%88%B6%E8%A1%A1%E5%B7%A5%E5%85%B7/a-77626428"
-            },
-            {
-                "title": "美国怀疑ASML顶级光刻机流入中国 荷兰巨头坚称“不可能”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566270.htm"
-            },
-            {
-                "title": "苹果“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，标准版 A21 延续 N2 工艺",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/368.htm"
             }
         ],
         "mil": [
@@ -74,22 +74,28 @@
                 "url": "https://www.secretchina.com/news/gb/2026/06/19/1100767.html"
             },
             {
-                "title": "外交部发言人就韩国外交部官员完整公开重申中韩建交联合公报涉台表述答记者问 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-18",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11UlRPY21rNlFFNTFzNXRseGFrM1BtSDFXemFZa2NZRG5DMV91WGhYbkxvUFNGdkZ5b2VuRlh1UHB3VV9sUVVWUWt1eGZfeTRQUlVFYms1bFE4RHUyRTZld2ZUeVF3Z3JOdWlwcUlwWFV3Y3FBRUE?oc=5"
-            },
-            {
-                "title": "外交部亚洲司司长同韩方举行工作磋商_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3JiRkVEd19pdE1CQXdRU3k4UHRxUlFZYkR5RHJTX1dnTXBGcDV6cEdBd1NqRzZTWWZUWHNKVk1zNnFvaHJWeTRKRHI3WWdxS1ZLeGtaNk1GOHplQ3gtN1VFTld6UnBsZ2tHZXBVVzgxNnpkbS1sM00zY2YyTmdRSml2U08?oc=5"
-            },
-            {
                 "title": "外交部副部长苗得雨同赞比亚外交部常秘甘德森举行中赞外交部政治磋商 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OVmNoT1NRRVV5UnRuWXRKX1Vnb0Y1QkphOXc1Mm1SUWcwbE1jTVdyb0ZEVG9iN05wODZRRUhoMC1SM2lPWFV4bG50a2tGRWZoc0p0UlJZc3FRdVFkUHc1QVZvaEFnTWtCQi1sNXY1ZWNrdw?oc=5"
+            },
+            {
+                "title": "南海问题 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2018-05-29",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
+            },
+            {
+                "title": "清风正气歌丨永远跟党走 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-18",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9INXJNR21USlRFd1hCN0NiUTdtREN2eDQweC1sV0o2ZmVzVkVCZ3BKa0J6c2hFdFBiNG5mZDd2MWwxeTU1clJUWmQ5RGgtYXliRkpIbVNMZXc?oc=5"
+            },
+            {
+                "title": "图片 - 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-19",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFKanRFSGxnbjdZNFUzdEMzVmdxSU90QThhNUZqbHJ6c2dKaGJmc3FzRTJWWVg2aEd6bkpIS3BMQ25tZFNCdGYtclQ3SUJfNXRucDltaGFaVEw3WENpY2RWVlJXcDFHejJvWkJ3V21OTU5uQjNBQmtsb1JEQllET2thVGptZk9tRXB0SVdTRlJQY056ZXdKb2pWcEZjalhiMU5uNER4YkU5SnB1cGhUWVpR?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -102,62 +108,62 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HbFZ5MUQ1aU9NXzZ1VTJGUkxHbUtwWnNRY3FrSmc3bUVJTG5yLWpfdnBjYTJ0RVJpLWhma1BMU25ocm5MZTc2NUxzTUozUDljM1E?oc=5"
-            },
-            {
-                "title": "时政微视频丨家国总关情 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcF9NS3YyLXVwVWVoMVlGU1NZcHZYeWdpOW9Kc1VuUUJZR0RiNllPV2VCdDZoTXRFdlc3OW10S1paS0VZWGpZQ1c4eFNZX3o2RFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
+                "title": "特朗普政府停止拆除海洋观测网络计划",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566298.htm"
+            },
+            {
+                "title": "特斯拉Cybercab关键参数曝光 自动驾驶前景仍存疑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566288.htm"
+            },
+            {
+                "title": "Google公布Android应用侧载新规时间表",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566286.htm"
+            },
+            {
+                "title": "涉嫌夸大初代车型自动驾驶能力，美国造车新势力 Rivian 遭车主集体起诉",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/423.htm"
+                "url": "https://www.ithome.com/0/966/437.htm"
             },
             {
-                "title": "麻省理工学院新研究：过度依赖聊天机器人或削弱批判思维",
-                "source": "NewsAPI / Ithome.com",
+                "title": "知情人士：Momenta拟在香港IPO筹资10亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/414.htm"
-            },
-            {
-                "title": "台湾驻美代表强调需要军购进行防御",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-19",
-                "url": "https://www.dw.com/zh/%E5%8F%B0%E6%B9%BE%E9%A9%BB%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%BC%BA%E8%B0%83%E9%9C%80%E8%A6%81%E5%86%9B%E8%B4%AD%E8%BF%9B%E8%A1%8C%E9%98%B2%E5%BE%A1/a-77627612"
-            },
-            {
-                "title": "台湾设“中国民众联系窗口” 国台办跳脚警告自家公民(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-19",
-                "url": "https://www.secretchina.com/news/gb/2026/06/19/1100824.html"
-            },
-            {
-                "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-19",
-                "url": "https://36kr.com/p/3859926114161665"
-            },
-            {
-                "title": "外交部发言人就韩国外交部官员完整公开重申中韩建交联合公报涉台表述答记者问 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-18",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11UlRPY21rNlFFNTFzNXRseGFrM1BtSDFXemFZa2NZRG5DMV91WGhYbkxvUFNGdkZ5b2VuRlh1UHB3VV9sUVVWUWt1eGZfeTRQUlVFYms1bFE4RHUyRTZld2ZUeVF3Z3JOdWlwcUlwWFV3Y3FBRUE?oc=5"
-            },
-            {
-                "title": "外交部亚洲司司长同韩方举行工作磋商_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3JiRkVEd19pdE1CQXdRU3k4UHRxUlFZYkR5RHJTX1dnTXBGcDV6cEdBd1NqRzZTWWZUWHNKVk1zNnFvaHJWeTRKRHI3WWdxS1ZLeGtaNk1GOHplQ3gtN1VFTld6UnBsZ2tHZXBVVzgxNnpkbS1sM00zY2YyTmdRSml2U08?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566276.htm"
             },
             {
                 "title": "外交部副部长苗得雨同赞比亚外交部常秘甘德森举行中赞外交部政治磋商 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OVmNoT1NRRVV5UnRuWXRKX1Vnb0Y1QkphOXc1Mm1SUWcwbE1jTVdyb0ZEVG9iN05wODZRRUhoMC1SM2lPWFV4bG50a2tGRWZoc0p0UlJZc3FRdVFkUHc1QVZvaEFnTWtCQi1sNXY1ZWNrdw?oc=5"
+            },
+            {
+                "title": "南海问题 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2018-05-29",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
+            },
+            {
+                "title": "清风正气歌丨永远跟党走 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-18",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9INXJNR21USlRFd1hCN0NiUTdtREN2eDQweC1sV0o2ZmVzVkVCZ3BKa0J6c2hFdFBiNG5mZDd2MWwxeTU1clJUWmQ5RGgtYXliRkpIbVNMZXc?oc=5"
+            },
+            {
+                "title": "图片 - 解放军报 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-19",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFKanRFSGxnbjdZNFUzdEMzVmdxSU90QThhNUZqbHJ6c2dKaGJmc3FzRTJWWVg2aEd6bkpIS3BMQ25tZFNCdGYtclQ3SUJfNXRucDltaGFaVEw3WENpY2RWVlJXcDFHejJvWkJ3V21OTU5uQjNBQmtsb1JEQllET2thVGptZk9tRXB0SVdTRlJQY056ZXdKb2pWcEZjalhiMU5uNER4YkU5SnB1cGhUWVpR?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HbFZ5MUQ1aU9NXzZ1VTJGUkxHbUtwWnNRY3FrSmc3bUVJTG5yLWpfdnBjYTJ0RVJpLWhma1BMU25ocm5MZTc2NUxzTUozUDljM1E?oc=5"
-            },
-            {
-                "title": "时政微视频丨家国总关情 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcF9NS3YyLXVwVWVoMVlGU1NZcHZYeWdpOW9Kc1VuUUJZR0RiNllPV2VCdDZoTXRFdlc3OW10S1paS0VZWGpZQ1c4eFNZX3o2RFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-20T13:55:50.397182+00:00"
+    "last_updated": "2026-06-20T19:20:47.016647+00:00"
 }
