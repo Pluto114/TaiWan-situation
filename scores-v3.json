@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "内存危机波及GPU市场 AMD RX 9000系列计划涨价10-15%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566336.htm"
-            },
-            {
-                "title": "AI 账单飙升？Netflix 工程师开源项目 Headroom 爆火，号称可节省 60%-95% 词元消耗量",
+                "title": "纽约大学金融学教授达摩达兰警告：AI 泡沫破裂后果恐比互联网泡沫更严重",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-20",
-                "url": "https://www.ithome.com/0/966/527.htm"
+                "url": "https://www.ithome.com/0/966/555.htm"
             },
             {
-                "title": "我国量子通信新突破：潘建伟团队构建芯片化量子通信网络，突破 540km 光纤传输距离",
+                "title": "育碧联合创始人 Claude Guillemot 飞机失事，享年 69 岁",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-20",
-                "url": "https://www.ithome.com/0/966/525.htm"
+                "url": "https://www.ithome.com/0/966/552.htm"
             },
             {
-                "title": "环保账单量化：全球最富 10% 消费群体每年“欠”地球 1.7 至 5.7 万亿美元",
+                "title": "乌克兰拟大量采购台湾无人机零件(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-20",
+                "url": "https://www.secretchina.com/news/gb/2026/06/20/1100830.html"
+            },
+            {
+                "title": "调查显示：美国成年人年均订阅支出 1332 美元，未使用服务年均浪费 252 美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-20",
-                "url": "https://www.ithome.com/0/966/524.htm"
+                "url": "https://www.ithome.com/0/966/547.htm"
             },
             {
-                "title": "连苹果都要涨价 为何特朗普政府难解内存荒危机？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "腾达推出 AX3000 立式小泰山路由器：4 千兆网口，首发 159 元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566318.htm"
+                "url": "https://www.ithome.com/0/966/544.htm"
             }
         ],
         "mil": [
+            {
+                "title": "育碧联合创始人 Claude Guillemot 飞机失事，享年 69 岁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-20",
+                "url": "https://www.ithome.com/0/966/552.htm"
+            },
+            {
+                "title": "卖7.9元手机壳被索赔38万元？荣耀被曝密集起诉手机壳小店“商标侵权”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566344.htm"
+            },
             {
                 "title": "美国一州拟禁止开车戴智能眼镜：首次罚款75美元、再犯翻倍",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://www.ithome.com/0/966/423.htm"
             },
             {
-                "title": "GPD BOX 迷你主机发布：英特尔酷睿 Ultra 7 356H 版 8400 元，X7 358H 版 8900 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/353.htm"
-            },
-            {
-                "title": "IT早报 0619：宁德时代利润超 7 家车企总和登热搜第一；我国首部 L3/L4 自动驾驶强制性国标公示；DeepSeek 识图模式正式上线；曝阿里将推“千问输入法”...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-18",
-                "url": "https://www.ithome.com/0/966/292.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,25 +92,43 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
             },
             {
-                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 中国军网",
+                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBONnNQTVBELVVsVHhQN21JNFdWVjVLZGtpU0U1cjhiSWR4NjhMbFA3R3E5V2h0b0NDNzlYbzhiRlFSbTVtX1ItOF9jOTRvVGlPX2c?oc=5"
             },
             {
-                "title": "图片 - 解放军报 - 中国军网",
+                "title": "图片 - 解放军报 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFKanRFSGxnbjdZNFUzdEMzVmdxSU90QThhNUZqbHJ6c2dKaGJmc3FzRTJWWVg2aEd6bkpIS3BMQ25tZFNCdGYtclQ3SUJfNXRucDltaGFaVEw3WENpY2RWVlJXcDFHejJvWkJ3V21OTU5uQjNBQmtsb1JEQllET2thVGptZk9tRXB0SVdTRlJQY056ZXdKb2pWcEZjalhiMU5uNER4YkU5SnB1cGhUWVpR?oc=5"
             },
             {
-                "title": "中外人士在塞热议中国绿色转型与前沿科技 - 中国军网",
+                "title": "中外人士在塞热议中国绿色转型与前沿科技 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00MUlpZHoyekV6MzNiZUc0Q2lobDlVbU9tbTcwaXE3Q1dnR2MwSHh2ZWNUdjd5M2RGeVh1UW9LcGFjRy1FUW1zTmJ3UUlKSk5Pbnc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "HUMAN MADE 要收购 UNDERCOVER 了，NIGO 要做那个给“日潮”兜底的人",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-20",
+                "url": "https://www.toodaylab.com/84085"
+            },
+            {
+                "title": "纽约大学金融学教授达摩达兰警告：AI 泡沫破裂后果恐比互联网泡沫更严重",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-20",
+                "url": "https://www.ithome.com/0/966/555.htm"
+            },
+            {
+                "title": "卖7.9元手机壳被索赔38万元？荣耀被曝密集起诉手机壳小店“商标侵权”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566344.htm"
+            },
             {
                 "title": "中国科学家提出“AI 语言”：人类难懂但模型能懂，文本压缩至 27.9% 仍保留 99.5% 语义",
                 "source": "NewsAPI / Ithome.com",
@@ -124,24 +142,6 @@
                 "url": "https://www.ithome.com/0/966/525.htm"
             },
             {
-                "title": "特朗普不认为Anthropic对美国安全构成威胁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566306.htm"
-            },
-            {
-                "title": "世卫：刚果共和国伊波拉疫情还在迅速蔓延 - 8world",
-                "source": "NewsAPI / 8world.com",
-                "date": "2026-06-20",
-                "url": "https://www.8world.com/world/ebola-spreading-fast-in-dr-congo-3187531"
-            },
-            {
-                "title": "索尼商业战略文件删除“PC 多平台战略”表述，再次证明 SIE 未来第一方单机 3A 游戏将全面回归 PS 独占",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-20",
-                "url": "https://www.ithome.com/0/966/473.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -160,19 +160,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
             },
             {
-                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 中国军网",
+                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBONnNQTVBELVVsVHhQN21JNFdWVjVLZGtpU0U1cjhiSWR4NjhMbFA3R3E5V2h0b0NDNzlYbzhiRlFSbTVtX1ItOF9jOTRvVGlPX2c?oc=5"
             },
             {
-                "title": "图片 - 解放军报 - 中国军网",
+                "title": "图片 - 解放军报 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFKanRFSGxnbjdZNFUzdEMzVmdxSU90QThhNUZqbHJ6c2dKaGJmc3FzRTJWWVg2aEd6bkpIS3BMQ25tZFNCdGYtclQ3SUJfNXRucDltaGFaVEw3WENpY2RWVlJXcDFHejJvWkJ3V21OTU5uQjNBQmtsb1JEQllET2thVGptZk9tRXB0SVdTRlJQY056ZXdKb2pWcEZjalhiMU5uNER4YkU5SnB1cGhUWVpR?oc=5"
             },
             {
-                "title": "中外人士在塞热议中国绿色转型与前沿科技 - 中国军网",
+                "title": "中外人士在塞热议中国绿色转型与前沿科技 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00MUlpZHoyekV6MzNiZUc0Q2lobDlVbU9tbTcwaXE3Q1dnR2MwSHh2ZWNUdjd5M2RGeVh1UW9LcGFjRy1FUW1zTmJ3UUlKSk5Pbnc?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-21T09:44:30.186364+00:00"
+    "last_updated": "2026-06-21T14:03:10.931320+00:00"
 }
