@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "神韵6月下旬重返多伦多 加拿大各界守护艺术自由(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-20",
-                "url": "https://www.secretchina.com/news/gb/2026/06/20/1100856.html"
-            },
-            {
-                "title": "苹果印度 iPhone 零件工厂被控废水污染农田：井水 TDS 超标 1 倍，作物枯萎",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/457.htm"
-            },
-            {
-                "title": "IT早报 0620：苹果 iPhone 18 Pro 起价恐涨 18.2%；专家回应铁路 12306 显示无票上车却见空座；曝比亚迪推子品牌自负盈亏；小米明确米家空调全系 10 年免费加氟...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/453.htm"
-            },
-            {
-                "title": "老派盗版生意仍难逃法网：英国男子刻录并出售盗版光盘获缓刑",
+                "title": "内存危机波及GPU市场 AMD RX 9000系列计划涨价10-15%",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566294.htm"
+                "date": "2026-06-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566336.htm"
             },
             {
-                "title": "2D 材料晶体管告别实验室：imec 联手台积电、ASML 实现 50nm 栅距 300mm 晶圆验证",
+                "title": "AI 账单飙升？Netflix 工程师开源项目 Headroom 爆火，号称可节省 60%-95% 词元消耗量",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/443.htm"
+                "date": "2026-06-20",
+                "url": "https://www.ithome.com/0/966/527.htm"
+            },
+            {
+                "title": "我国量子通信新突破：潘建伟团队构建芯片化量子通信网络，突破 540km 光纤传输距离",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-20",
+                "url": "https://www.ithome.com/0/966/525.htm"
+            },
+            {
+                "title": "环保账单量化：全球最富 10% 消费群体每年“欠”地球 1.7 至 5.7 万亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-20",
+                "url": "https://www.ithome.com/0/966/524.htm"
+            },
+            {
+                "title": "连苹果都要涨价 为何特朗普政府难解内存荒危机？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566318.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国一州拟禁止开车戴智能眼镜：首次罚款75美元、再犯翻倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566334.htm"
+            },
             {
                 "title": "IT早报 0620：苹果 iPhone 18 Pro 起价恐涨 18.2%；专家回应铁路 12306 显示无票上车却见空座；曝比亚迪推子品牌自负盈亏；小米明确米家空调全系 10 年免费加氟...",
                 "source": "NewsAPI / Ithome.com",
@@ -68,22 +74,16 @@
                 "url": "https://www.ithome.com/0/966/292.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年6月19日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-06-18",
-                "url": "https://www.voachinese.com/a/8157622.html"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部副部长苗得雨同赞比亚外交部常秘甘德森举行中赞外交部政治磋商 - mfa.gov.cn",
+                "title": "奥地利外长赖辛格将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OVmNoT1NRRVV5UnRuWXRKX1Vnb0Y1QkphOXc1Mm1SUWcwbE1jTVdyb0ZEVG9iN05wODZRRUhoMC1SM2lPWFV4bG50a2tGRWZoc0p0UlJZc3FRdVFkUHc1QVZvaEFnTWtCQi1sNXY1ZWNrdw?oc=5"
+                "date": "2026-06-21",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUt6ZVZGbkdseG5FTXZub3U1Qy1mRGRqSnBVcjcxQjJQLVNBQ091OTFuN2g3dVduMm9zUF91TE1pa3FDejRvUGttMW5VUzFkN0R5WUx6NXpoaWJPeVRJTGM2c3RXMlQycjlPQkZCU0FzZzVxSG0tVzRNd3NWeHhYS2gwMXRhekNwT2c?oc=5"
             },
             {
                 "title": "南海问题 - mfa.gov.cn",
@@ -92,25 +92,49 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
             },
             {
-                "title": "图片 - 解放军报 - 军网",
+                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBONnNQTVBELVVsVHhQN21JNFdWVjVLZGtpU0U1cjhiSWR4NjhMbFA3R3E5V2h0b0NDNzlYbzhiRlFSbTVtX1ItOF9jOTRvVGlPX2c?oc=5"
+            },
+            {
+                "title": "图片 - 解放军报 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFKanRFSGxnbjdZNFUzdEMzVmdxSU90QThhNUZqbHJ6c2dKaGJmc3FzRTJWWVg2aEd6bkpIS3BMQ25tZFNCdGYtclQ3SUJfNXRucDltaGFaVEw3WENpY2RWVlJXcDFHejJvWkJ3V21OTU5uQjNBQmtsb1JEQllET2thVGptZk9tRXB0SVdTRlJQY056ZXdKb2pWcEZjalhiMU5uNER4YkU5SnB1cGhUWVpR?oc=5"
             },
             {
-                "title": "龙舟竞渡，端午安康！大国重器集结，你能截到全部吗？ - 军网",
+                "title": "中外人士在塞热议中国绿色转型与前沿科技 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HbFZ5MUQ1aU9NXzZ1VTJGUkxHbUtwWnNRY3FrSmc3bUVJTG5yLWpfdnBjYTJ0RVJpLWhma1BMU25ocm5MZTc2NUxzTUozUDljM1E?oc=5"
-            },
-            {
-                "title": "时政微视频丨家国总关情 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcF9NS3YyLXVwVWVoMVlGU1NZcHZYeWdpOW9Kc1VuUUJZR0RiNllPV2VCdDZoTXRFdlc3OW10S1paS0VZWGpZQ1c4eFNZX3o2RFE?oc=5"
+                "date": "2026-06-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00MUlpZHoyekV6MzNiZUc0Q2lobDlVbU9tbTcwaXE3Q1dnR2MwSHh2ZWNUdjd5M2RGeVh1UW9LcGFjRy1FUW1zTmJ3UUlKSk5Pbnc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "中国科学家提出“AI 语言”：人类难懂但模型能懂，文本压缩至 27.9% 仍保留 99.5% 语义",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-20",
+                "url": "https://www.ithome.com/0/966/529.htm"
+            },
+            {
+                "title": "我国量子通信新突破：潘建伟团队构建芯片化量子通信网络，突破 540km 光纤传输距离",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-20",
+                "url": "https://www.ithome.com/0/966/525.htm"
+            },
+            {
+                "title": "特朗普不认为Anthropic对美国安全构成威胁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566306.htm"
+            },
+            {
+                "title": "世卫：刚果共和国伊波拉疫情还在迅速蔓延 - 8world",
+                "source": "NewsAPI / 8world.com",
+                "date": "2026-06-20",
+                "url": "https://www.8world.com/world/ebola-spreading-fast-in-dr-congo-3187531"
+            },
             {
                 "title": "索尼商业战略文件删除“PC 多平台战略”表述，再次证明 SIE 未来第一方单机 3A 游戏将全面回归 PS 独占",
                 "source": "NewsAPI / Ithome.com",
@@ -118,40 +142,16 @@
                 "url": "https://www.ithome.com/0/966/473.htm"
             },
             {
-                "title": "苹果印度 iPhone 零件工厂被控废水污染农田：井水 TDS 超标 1 倍，作物枯萎",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/457.htm"
-            },
-            {
-                "title": "IT早报 0620：苹果 iPhone 18 Pro 起价恐涨 18.2%；专家回应铁路 12306 显示无票上车却见空座；曝比亚迪推子品牌自负盈亏；小米明确米家空调全系 10 年免费加氟...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-19",
-                "url": "https://www.ithome.com/0/966/453.htm"
-            },
-            {
-                "title": "特朗普政府停止拆除海洋观测网络计划",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566298.htm"
-            },
-            {
-                "title": "特斯拉Cybercab关键参数曝光 自动驾驶前景仍存疑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566288.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部副部长苗得雨同赞比亚外交部常秘甘德森举行中赞外交部政治磋商 - mfa.gov.cn",
+                "title": "奥地利外长赖辛格将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OVmNoT1NRRVV5UnRuWXRKX1Vnb0Y1QkphOXc1Mm1SUWcwbE1jTVdyb0ZEVG9iN05wODZRRUhoMC1SM2lPWFV4bG50a2tGRWZoc0p0UlJZc3FRdVFkUHc1QVZvaEFnTWtCQi1sNXY1ZWNrdw?oc=5"
+                "date": "2026-06-21",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUt6ZVZGbkdseG5FTXZub3U1Qy1mRGRqSnBVcjcxQjJQLVNBQ091OTFuN2g3dVduMm9zUF91TE1pa3FDejRvUGttMW5VUzFkN0R5WUx6NXpoaWJPeVRJTGM2c3RXMlQycjlPQkZCU0FzZzVxSG0tVzRNd3NWeHhYS2gwMXRhekNwT2c?oc=5"
             },
             {
                 "title": "南海问题 - mfa.gov.cn",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
             },
             {
-                "title": "图片 - 解放军报 - 军网",
+                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBONnNQTVBELVVsVHhQN21JNFdWVjVLZGtpU0U1cjhiSWR4NjhMbFA3R3E5V2h0b0NDNzlYbzhiRlFSbTVtX1ItOF9jOTRvVGlPX2c?oc=5"
+            },
+            {
+                "title": "图片 - 解放军报 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-19",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFKanRFSGxnbjdZNFUzdEMzVmdxSU90QThhNUZqbHJ6c2dKaGJmc3FzRTJWWVg2aEd6bkpIS3BMQ25tZFNCdGYtclQ3SUJfNXRucDltaGFaVEw3WENpY2RWVlJXcDFHejJvWkJ3V21OTU5uQjNBQmtsb1JEQllET2thVGptZk9tRXB0SVdTRlJQY056ZXdKb2pWcEZjalhiMU5uNER4YkU5SnB1cGhUWVpR?oc=5"
             },
             {
-                "title": "龙舟竞渡，端午安康！大国重器集结，你能截到全部吗？ - 军网",
+                "title": "中外人士在塞热议中国绿色转型与前沿科技 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HbFZ5MUQ1aU9NXzZ1VTJGUkxHbUtwWnNRY3FrSmc3bUVJTG5yLWpfdnBjYTJ0RVJpLWhma1BMU25ocm5MZTc2NUxzTUozUDljM1E?oc=5"
-            },
-            {
-                "title": "时政微视频丨家国总关情 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcF9NS3YyLXVwVWVoMVlGU1NZcHZYeWdpOW9Kc1VuUUJZR0RiNllPV2VCdDZoTXRFdlc3OW10S1paS0VZWGpZQ1c4eFNZX3o2RFE?oc=5"
+                "date": "2026-06-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00MUlpZHoyekV6MzNiZUc0Q2lobDlVbU9tbTcwaXE3Q1dnR2MwSHh2ZWNUdjd5M2RGeVh1UW9LcGFjRy1FUW1zTmJ3UUlKSk5Pbnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-21T03:53:38.751799+00:00"
+    "last_updated": "2026-06-21T09:44:30.186364+00:00"
 }
