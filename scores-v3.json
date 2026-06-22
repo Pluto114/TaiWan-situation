@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美国与伊朗在瑞士开始就永久和平协议进行谈判",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566424.htm"
+            },
+            {
+                "title": "我国高比能全固态电池关键材料研究取得进展：1C 倍率可稳定循环 350 次，容量保持率达 84.2%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-21",
+                "url": "https://www.ithome.com/0/966/733.htm"
+            },
+            {
+                "title": "供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-21",
+                "url": "https://www.ithome.com/0/966/724.htm"
+            },
+            {
+                "title": "墙外文摘：机器人正在击垮习近平？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-21",
+                "url": "https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%9C%A8%E5%87%BB%E5%9E%AE%E4%B9%A0%E8%BF%91%E5%B9%B3/a-77646053"
+            },
+            {
                 "title": "五个CEO在讲台上，没人敢说“会好起来”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-21",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1566398.htm"
-            },
-            {
-                "title": "华米 Amazfit Balance 3 智能手表发售：3000 尼特 AMOLED 面板、至高 21 天续航，2499 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-21",
-                "url": "https://www.ithome.com/0/966/646.htm"
-            },
-            {
-                "title": "NASA 启动史无前例太空救援，拯救即将坠落的 Swift 空间天文台",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-21",
-                "url": "https://www.ithome.com/0/966/626.htm"
-            },
-            {
-                "title": "消息称育碧正加快《刺客信条： Hexe》开发进度，游戏发售时间提前至明年 6 月",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-21",
-                "url": "https://www.ithome.com/0/966/606.htm"
-            },
-            {
-                "title": "马斯克行权特斯拉 2018 年薪酬方案，账面收益高达 1160 亿美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-21",
-                "url": "https://www.ithome.com/0/966/595.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国与伊朗在瑞士开始就永久和平协议进行谈判",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566424.htm"
+            },
             {
                 "title": "空客发布U145全自主货运直升机 将座舱位置改装为货舱",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://www.ithome.com/0/966/626.htm"
             },
             {
-                "title": "微软 Xbox Handheld 标识现身，或为自研掌机铺路",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-20",
-                "url": "https://www.ithome.com/0/966/593.htm"
-            },
-            {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
@@ -92,25 +92,37 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDhRUVhiWnhFQkZTQnMxUkF0RzlpSzVEUWl4dUMybU92LWx4LVhkU1l1ekdnWXJlZ0M3VWZuaXZxMEc1X05pX092aU53anFDZ0ZyY2dvdjE5UjFWRml3T3hISk1oek02VExMT250dGRQc2Q2OGNOWEIyV2dtUEFwSWl0eWJ1Z05pT1ZFRlZ2MjE?oc=5"
             },
             {
-                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 军网",
+                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTjQ4eFRYREJPUFgxaS0tRHpQOGc1UHhwT3dyR1V1V3huZG5TSXZwbk1mX05OX1hWbFpadlltRW5KblFzNDB3WUlSQjNpWHZad0E?oc=5"
+            },
+            {
+                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBONnNQTVBELVVsVHhQN21JNFdWVjVLZGtpU0U1cjhiSWR4NjhMbFA3R3E5V2h0b0NDNzlYbzhiRlFSbTVtX1ItOF9jOTRvVGlPX2c?oc=5"
             },
             {
-                "title": "习近平强党兴党的故事｜让“红船精神”永放光芒 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sbkxaaG1Cal9SVlZKT2FIRTNHeWJBeUdIRjBRaXFuMXJBV0trODQtWlpXWXJ1Q28wTDJKb3g0amV0UGpSLThkMGNiVG4zR2R5N2c?oc=5"
-            },
-            {
-                "title": "中国海军舰艇编队将访问俄罗斯 - 军网",
+                "title": "外交部：中方将继续为非洲国家提供力所能及抗疫支持 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnLXk1Q0g5MzB1d2p3UlNCa05ncllWMy1sYmFMdW9mUnBYTlJzcDF3bmpESGFFVmtCc2dlU091MVI4RG5zSE9SbGlEcktLTHMxLVE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwcUZPWG5NUVhSdjJ6WUxhMzAzVXl0eDN5Y3ZybTlva1ZKVUhlbGdGMldTc092RWpUVlJ1Y2hJdzNMNUZ5eHM3Zkp3?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "美国与伊朗在瑞士开始就永久和平协议进行谈判",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566424.htm"
+            },
+            {
+                "title": "欧洲持续热浪，气温逼近40摄氏度",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566422.htm"
+            },
             {
                 "title": "五个CEO在讲台上，没人敢说“会好起来”",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -130,18 +142,6 @@
                 "url": "https://www.ithome.com/0/966/626.htm"
             },
             {
-                "title": "特斯拉撞入美国得州一民宅致 76 岁女性身亡，司机称事发时开启了 Autopilot",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-21",
-                "url": "https://www.ithome.com/0/966/610.htm"
-            },
-            {
-                "title": "消息称特斯拉 Model Y L 北美上市时间已敲定，8 月或 9 月推出",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-21",
-                "url": "https://www.ithome.com/0/966/602.htm"
-            },
-            {
                 "title": "中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2005-09-24",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDhRUVhiWnhFQkZTQnMxUkF0RzlpSzVEUWl4dUMybU92LWx4LVhkU1l1ekdnWXJlZ0M3VWZuaXZxMEc1X05pX092aU53anFDZ0ZyY2dvdjE5UjFWRml3T3hISk1oek02VExMT250dGRQc2Q2OGNOWEIyV2dtUEFwSWl0eWJ1Z05pT1ZFRlZ2MjE?oc=5"
             },
             {
-                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 军网",
+                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTjQ4eFRYREJPUFgxaS0tRHpQOGc1UHhwT3dyR1V1V3huZG5TSXZwbk1mX05OX1hWbFpadlltRW5KblFzNDB3WUlSQjNpWHZad0E?oc=5"
+            },
+            {
+                "title": "从“绕道走”到“主动迎”，感受机关干部作风之变带来的新风正气 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBONnNQTVBELVVsVHhQN21JNFdWVjVLZGtpU0U1cjhiSWR4NjhMbFA3R3E5V2h0b0NDNzlYbzhiRlFSbTVtX1ItOF9jOTRvVGlPX2c?oc=5"
             },
             {
-                "title": "习近平强党兴党的故事｜让“红船精神”永放光芒 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sbkxaaG1Cal9SVlZKT2FIRTNHeWJBeUdIRjBRaXFuMXJBV0trODQtWlpXWXJ1Q28wTDJKb3g0amV0UGpSLThkMGNiVG4zR2R5N2c?oc=5"
-            },
-            {
-                "title": "中国海军舰艇编队将访问俄罗斯 - 军网",
+                "title": "外交部：中方将继续为非洲国家提供力所能及抗疫支持 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnLXk1Q0g5MzB1d2p3UlNCa05ncllWMy1sYmFMdW9mUnBYTlJzcDF3bmpESGFFVmtCc2dlU091MVI4RG5zSE9SbGlEcktLTHMxLVE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwcUZPWG5NUVhSdjJ6WUxhMzAzVXl0eDN5Y3ZybTlva1ZKVUhlbGdGMldTc092RWpUVlJ1Y2hJdzNMNUZ5eHM3Zkp3?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-22T11:47:22.737111+00:00"
+    "last_updated": "2026-06-22T16:50:07.542171+00:00"
 }
