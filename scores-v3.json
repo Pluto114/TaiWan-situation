@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "V 社公布 Steam Machine 主机售价：起步 1049 美元，现开放预约登记",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-22",
+                "url": "https://www.ithome.com/0/967/240.htm"
+            },
+            {
                 "title": "\"中国式\"经济改革：古巴人怎么说？",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-22",
@@ -34,12 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-22",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1566502.htm"
-            },
-            {
-                "title": "优必选发布人形机器人 Walker C1：可实现人机共舞，面向商用服务场景",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-22",
-                "url": "https://www.ithome.com/0/967/191.htm"
             }
         ],
         "mil": [
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "【CDT报告汇】“警察暴力，牢头狱霸，无法见律师和非人道待遇”：从2009年“躲猫猫案”到现在，中国看守所问题依旧（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-06-22",
+                "url": "https://chinadigitaltimes.net/chinese/728456.html"
+            },
+            {
                 "title": "十年回顾：中资收购德企是福是祸？",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-22",
@@ -134,12 +140,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-06-22",
                 "url": "https://www.secretchina.com/news/gb/2026/06/22/1100960.html"
-            },
-            {
-                "title": "第 12 万台蔚来 ES8 交付，官方称连续 6 个月大型 SUV 及 40 万级车型销冠",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-22",
-                "url": "https://www.ithome.com/0/967/061.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-23T14:41:39.326343+00:00"
+    "last_updated": "2026-06-23T19:58:16.597791+00:00"
 }
