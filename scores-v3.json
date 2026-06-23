@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "今年股价涨超340% SK海力士超越三星电子成韩国市值最高公司",
+                "title": "\"中国式\"经济改革：古巴人怎么说？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-22",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9%E5%8F%A4%E5%B7%B4%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%B4/a-77661580"
+            },
+            {
+                "title": "中国移动牵头完成 3GPP“6G 场景和技术需求”标准研究项目，为技术路线、网络架构等划定基线",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-22",
+                "url": "https://www.ithome.com/0/967/206.htm"
+            },
+            {
+                "title": "美国战争部标红188家中国“军民融合企业“，中国反击制裁56家美国企业",
+                "source": "NewsAPI / Ctocio.com",
+                "date": "2026-06-22",
+                "url": "https://www.ctocio.com/ccnews/41859.html"
+            },
+            {
+                "title": "前美联储主席格林斯潘逝世 享年100岁",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566486.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566502.htm"
             },
             {
-                "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
-                "source": "NewsAPI / 36kr.com",
+                "title": "优必选发布人形机器人 Walker C1：可实现人机共舞，面向商用服务场景",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-22",
-                "url": "https://36kr.com/p/3864065855706120"
-            },
-            {
-                "title": "“千帆星座”建设与运营主体垣信卫星启动新一轮融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-22",
-                "url": "https://36kr.com/newsflashes/3864068382053636"
-            },
-            {
-                "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-22",
-                "url": "https://36kr.com/p/3864054145209602"
-            },
-            {
-                "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-22",
-                "url": "https://36kr.com/p/3864033017549832"
+                "url": "https://www.ithome.com/0/967/191.htm"
             }
         ],
         "mil": [
@@ -92,25 +92,43 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWjZjSko3SzgyMmhQWmJlLW9hbVRuX1pSNmhYOU1seVFubVRpQU9GaEFKQTBvbjN0SXVDY1VwSkhaWVdWTl9UUUtvYjJmakhkQndzMVY4YXVIcG9XZGYyRGJkeHQtNDg2SmtlUWhmck9LTUVsb1I0?oc=5"
             },
             {
-                "title": "中国海军83舰编队抵达俄罗斯进行友好访问 - 军网",
+                "title": "中国海军83舰编队抵达俄罗斯进行友好访问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEZmdUeXhSa1BrVGVUaDFrZ09tX2stVDd0c2c3S09KUlkyNXowQTlGS0I3WmJVUGlfREh4TFVmSDFlRFU1ZUV6YmhWRGFKa2FSZUE?oc=5"
             },
             {
-                "title": "编队出击！直击空军某部下半夜飞行训练 - 军网",
+                "title": "编队出击！直击空军某部下半夜飞行训练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QektISFpzRmNXVzZvX01FQXV2dWR0dlJKdU1ZUVI5Vk94N1NBMjVfRFJubUVoUEdtUUlDamUwcVplaF9nSzVhTGpDXzlFZ0J6OEE?oc=5"
             },
             {
-                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 军网",
+                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTjQ4eFRYREJPUFgxaS0tRHpQOGc1UHhwT3dyR1V1V3huZG5TSXZwbk1mX05OX1hWbFpadlltRW5KblFzNDB3WUlSQjNpWHZad0E?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "十年回顾：中资收购德企是福是祸？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-22",
+                "url": "https://www.dw.com/zh/%E5%8D%81%E5%B9%B4%E5%9B%9E%E9%A1%BE%E4%B8%AD%E8%B5%84%E6%94%B6%E8%B4%AD%E5%BE%B7%E4%BC%81%E6%98%AF%E7%A6%8F%E6%98%AF%E7%A5%B8/a-77655221"
+            },
+            {
+                "title": "48 位中国 iOS 应用开发者联名举报苹果，要求兑现“全球最低费率”承诺、开放外链支付",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-22",
+                "url": "https://www.ithome.com/0/967/167.htm"
+            },
+            {
+                "title": "韩企拿下苹果OLED独家订单 中国供应链上再遇挫折",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566494.htm"
+            },
             {
                 "title": "澳专家：中共统战天网遍全球 台湾应建“全球公共数据库”反制(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-22",
                 "url": "https://www.ithome.com/0/967/061.htm"
-            },
-            {
-                "title": "埃博拉病例超过1000例 一线医护人员无意识感染凸显防控弱点",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566484.htm"
-            },
-            {
-                "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-22",
-                "url": "https://36kr.com/p/3864054145209602"
-            },
-            {
-                "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-22",
-                "url": "https://36kr.com/p/3864002982286342"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,19 +160,19 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWjZjSko3SzgyMmhQWmJlLW9hbVRuX1pSNmhYOU1seVFubVRpQU9GaEFKQTBvbjN0SXVDY1VwSkhaWVdWTl9UUUtvYjJmakhkQndzMVY4YXVIcG9XZGYyRGJkeHQtNDg2SmtlUWhmck9LTUVsb1I0?oc=5"
             },
             {
-                "title": "中国海军83舰编队抵达俄罗斯进行友好访问 - 军网",
+                "title": "中国海军83舰编队抵达俄罗斯进行友好访问 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEZmdUeXhSa1BrVGVUaDFrZ09tX2stVDd0c2c3S09KUlkyNXowQTlGS0I3WmJVUGlfREh4TFVmSDFlRFU1ZUV6YmhWRGFKa2FSZUE?oc=5"
             },
             {
-                "title": "编队出击！直击空军某部下半夜飞行训练 - 军网",
+                "title": "编队出击！直击空军某部下半夜飞行训练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QektISFpzRmNXVzZvX01FQXV2dWR0dlJKdU1ZUVI5Vk94N1NBMjVfRFJubUVoUEdtUUlDamUwcVplaF9nSzVhTGpDXzlFZ0J6OEE?oc=5"
             },
             {
-                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 军网",
+                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTjQ4eFRYREJPUFgxaS0tRHpQOGc1UHhwT3dyR1V1V3huZG5TSXZwbk1mX05OX1hWbFpadlltRW5KblFzNDB3WUlSQjNpWHZad0E?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-23T09:33:34.645037+00:00"
+    "last_updated": "2026-06-23T14:41:39.326343+00:00"
 }
