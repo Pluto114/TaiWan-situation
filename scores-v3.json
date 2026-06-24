@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "党媒连发三文吹公私合营 舆论炸锅 习要压垮中国经济(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-23",
+                "url": "https://www.secretchina.com/news/gb/2026/06/24/1101030.html"
+            },
+            {
+                "title": "领克 07GT 时间限量版官图公布：超跑版内外饰颜色，6 月 29 日全球首秀",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-23",
+                "url": "https://www.ithome.com/0/967/693.htm"
+            },
+            {
                 "title": "国内最大车规芯片测试中心在临港投产，年检测能力达 300 亿至 500 亿颗",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-23",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-23",
                 "url": "https://www.ithome.com/0/967/636.htm"
-            },
-            {
-                "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865630193030145"
-            },
-            {
-                "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865565708752134"
             }
         ],
         "mil": [
@@ -74,6 +74,12 @@
                 "url": "https://36kr.com/p/3865565708752134"
             },
             {
+                "title": "王毅会见俄罗斯联邦安全会议秘书绍伊古 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-23",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lTkJYUF96dHNxZW1fRnhwVDRfZGlXaVZ3c3B2VHpCS0ZIN1MxZG1fb2FuQXE4REpvclRuU1RoUjJsQktwX0xZNDdadXlUWGlXTGI1bUxaZWpJNnR1MVVTYTJWRlNHSjhjeW1Cc0R3?oc=5"
+            },
+            {
                 "title": "李强出席2026年夏季达沃斯论坛开幕式并致辞 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-24",
@@ -86,31 +92,37 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWjZjSko3SzgyMmhQWmJlLW9hbVRuX1pSNmhYOU1seVFubVRpQU9GaEFKQTBvbjN0SXVDY1VwSkhaWVdWTl9UUUtvYjJmakhkQndzMVY4YXVIcG9XZGYyRGJkeHQtNDg2SmtlUWhmck9LTUVsb1I0?oc=5"
             },
             {
-                "title": "郭嘉昆：开放的中国，处处是机遇 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-23",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2kwcWFKM2RmUzdaRU55Mkw1UTdzb0R5RjFtVEJrSkRhbF9PTzdBckpOeFl0MEh0NFVTczFveVoybVpMYjI0RTJaWlhMYUk0LUgzSGxrdGNKc2U3d0V3bi04eE9hVHVQSjZQYUpMVW5wdkcwZnF0RU0xZFpvS0VOdnpwX3l6MnhoRElLejROdTE?oc=5"
-            },
-            {
                 "title": "编队出击！直击空军某部下半夜飞行训练 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QektISFpzRmNXVzZvX01FQXV2dWR0dlJKdU1ZUVI5Vk94N1NBMjVfRFJubUVoUEdtUUlDamUwcVplaF9nSzVhTGpDXzlFZ0J6OEE?oc=5"
             },
             {
+                "title": "中方呼吁乌克兰危机当事方努力推动局势降温 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZUxOZE9ZVXQ1anZuNmItQTBTdnVmOUdaNjdhWk1OVTVST1QxazFhRFBiNHRRaDFtREFhWlo2bzNOUWpzTkRxeWtvT2xYSUNmUHc?oc=5"
+            },
+            {
                 "title": "空军某部组织飞行训练 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkJzMGJmd3dZbzFMTHF1WjJzdWJaSHJUbzRsMkZSOXhEa3U4SnFRUWo4SzZMSUlhZU9vZVBEeDZfdzFJRXotOFZVWDVybU9EcFE?oc=5"
-            },
-            {
-                "title": "世界目光中的长征 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEM1ZJSC1ZQ0U3RUg0djJ1cy1TZ1BIeGNob1cwUG14X1BHTExxM01LTmNjY2hrZGgwZVM2UTU3V3M0czgtSzhUTkRvLUtlOUptNGc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "盛雪：斯塔默下台能否让英国重回文明的进程(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-23",
+                "url": "https://www.secretchina.com/news/gb/2026/06/24/1101033.html"
+            },
+            {
+                "title": "Meta发布新款智能眼镜 起售价299美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566622.htm"
+            },
             {
                 "title": "避开 FDA 审批：美国公司 Minicircle 拟在巴哈马或巴拿马推出“未经测试”的 Klotho 可注射长寿基因疗法",
                 "source": "NewsAPI / Ithome.com",
@@ -130,16 +142,10 @@
                 "url": "https://www.ithome.com/0/967/663.htm"
             },
             {
-                "title": "国内最大车规芯片测试中心在临港投产，年检测能力达 300 亿至 500 亿颗",
-                "source": "NewsAPI / Ithome.com",
+                "title": "王毅会见俄罗斯联邦安全会议秘书绍伊古 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-23",
-                "url": "https://www.ithome.com/0/967/655.htm"
-            },
-            {
-                "title": "英国出资6000万英镑建设开源AI实验室 意在削弱美国科技巨头主导地位",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566620.htm"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lTkJYUF96dHNxZW1fRnhwVDRfZGlXaVZ3c3B2VHpCS0ZIN1MxZG1fb2FuQXE4REpvclRuU1RoUjJsQktwX0xZNDdadXlUWGlXTGI1bUxaZWpJNnR1MVVTYTJWRlNHSjhjeW1Cc0R3?oc=5"
             },
             {
                 "title": "李强出席2026年夏季达沃斯论坛开幕式并致辞 - mfa.gov.cn",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWjZjSko3SzgyMmhQWmJlLW9hbVRuX1pSNmhYOU1seVFubVRpQU9GaEFKQTBvbjN0SXVDY1VwSkhaWVdWTl9UUUtvYjJmakhkQndzMVY4YXVIcG9XZGYyRGJkeHQtNDg2SmtlUWhmck9LTUVsb1I0?oc=5"
             },
             {
-                "title": "郭嘉昆：开放的中国，处处是机遇 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-23",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2kwcWFKM2RmUzdaRU55Mkw1UTdzb0R5RjFtVEJrSkRhbF9PTzdBckpOeFl0MEh0NFVTczFveVoybVpMYjI0RTJaWlhMYUk0LUgzSGxrdGNKc2U3d0V3bi04eE9hVHVQSjZQYUpMVW5wdkcwZnF0RU0xZFpvS0VOdnpwX3l6MnhoRElLejROdTE?oc=5"
-            },
-            {
                 "title": "编队出击！直击空军某部下半夜飞行训练 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QektISFpzRmNXVzZvX01FQXV2dWR0dlJKdU1ZUVI5Vk94N1NBMjVfRFJubUVoUEdtUUlDamUwcVplaF9nSzVhTGpDXzlFZ0J6OEE?oc=5"
             },
             {
+                "title": "中方呼吁乌克兰危机当事方努力推动局势降温 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZUxOZE9ZVXQ1anZuNmItQTBTdnVmOUdaNjdhWk1OVTVST1QxazFhRFBiNHRRaDFtREFhWlo2bzNOUWpzTkRxeWtvT2xYSUNmUHc?oc=5"
+            },
+            {
                 "title": "空军某部组织飞行训练 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkJzMGJmd3dZbzFMTHF1WjJzdWJaSHJUbzRsMkZSOXhEa3U4SnFRUWo4SzZMSUlhZU9vZVBEeDZfdzFJRXotOFZVWDVybU9EcFE?oc=5"
-            },
-            {
-                "title": "世界目光中的长征 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEM1ZJSC1ZQ0U3RUg0djJ1cy1TZ1BIeGNob1cwUG14X1BHTExxM01LTmNjY2hrZGgwZVM2UTU3V3M0czgtSzhUTkRvLUtlOUptNGc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-24T14:23:47.563236+00:00"
+    "last_updated": "2026-06-24T19:41:55.477738+00:00"
 }
