@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "年轻人追求零负债 折射中国经济焦虑(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "苹果面临 30 亿英镑 iCloud 集体诉讼：获准于 2028 年 10 月正式开庭，4000 万英国用户自动纳入索赔",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-23",
-                "url": "https://www.secretchina.com/news/gb/2026/06/23/1100996.html"
+                "url": "https://www.ithome.com/0/967/563.htm"
             },
             {
-                "title": "公约通过难改现状 中国零工组织权持续缺位(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-23",
-                "url": "https://www.secretchina.com/news/gb/2026/06/23/1100994.html"
-            },
-            {
-                "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+                "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865136165344516"
+                "url": "https://36kr.com/p/3865523201692931"
             },
             {
-                "title": "秋声 | 四川生物科技IPO上演过山车，暗盘从暴涨95%到破发",
+                "title": "氪星晚报｜索尼集团计划近三十年来首次发行美元债券；甲骨文上财年裁员约2.1万；豆包发布2.1 Pro模型",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865070004212994"
+                "url": "https://36kr.com/p/3865513055540481"
             },
             {
-                "title": "特朗普政府加码量子战略 设定2028年科研级量子计算机突破目标",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IDC：韩国 2026Q1 折叠屏智能手机出货 19 万部，同比实现三位数增长",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566568.htm"
+                "url": "https://www.ithome.com/0/967/523.htm"
+            },
+            {
+                "title": "瞄准中低端定位，消息称印度可穿戴产品厂商 Fire-Boltt 将进军智能手机市场",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-23",
+                "url": "https://www.ithome.com/0/967/520.htm"
             }
         ],
         "mil": [
             {
+                "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-23",
+                "url": "https://36kr.com/p/3865523201692931"
+            },
+            {
+                "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-23",
+                "url": "https://36kr.com/p/3865480064504835"
+            },
+            {
+                "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-23",
+                "url": "https://36kr.com/p/3865226824389892"
+            },
+            {
                 "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-23",
@@ -54,30 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-23",
                 "url": "https://36kr.com/p/3865125383443463"
-            },
-            {
-                "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865001641006081"
-            },
-            {
-                "title": "IT早报 0623：亿咖通拟 18 亿收购 Flyme；48 位中国开发者联名举报苹果；小米 YU7 GT 创首个纽北自动驾驶纪录；博主称导航 APP 开屏摇一摇广告影响行车安全...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-22",
-                "url": "https://www.ithome.com/0/967/249.htm"
-            },
-            {
-                "title": "美国政府据称因NSA机密系统被破解而紧急封杀Anthropic最新AI模型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566542.htm"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年6月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWjZjSko3SzgyMmhQWmJlLW9hbVRuX1pSNmhYOU1seVFubVRpQU9GaEFKQTBvbjN0SXVDY1VwSkhaWVdWTl9UUUtvYjJmakhkQndzMVY4YXVIcG9XZGYyRGJkeHQtNDg2SmtlUWhmck9LTUVsb1I0?oc=5"
             },
             {
-                "title": "中国海军83舰编队抵达俄罗斯进行友好访问 - 军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "郭嘉昆：开放的中国，处处是机遇 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEZmdUeXhSa1BrVGVUaDFrZ09tX2stVDd0c2c3S09KUlkyNXowQTlGS0I3WmJVUGlfREh4TFVmSDFlRFU1ZUV6YmhWRGFKa2FSZUE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2kwcWFKM2RmUzdaRU55Mkw1UTdzb0R5RjFtVEJrSkRhbF9PTzdBckpOeFl0MEh0NFVTczFveVoybVpMYjI0RTJaWlhMYUk0LUgzSGxrdGNKc2U3d0V3bi04eE9hVHVQSjZQYUpMVW5wdkcwZnF0RU0xZFpvS0VOdnpwX3l6MnhoRElLejROdTE?oc=5"
             },
             {
                 "title": "编队出击！直击空军某部下半夜飞行训练 - 军网",
@@ -104,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QektISFpzRmNXVzZvX01FQXV2dWR0dlJKdU1ZUVI5Vk94N1NBMjVfRFJubUVoUEdtUUlDamUwcVplaF9nSzVhTGpDXzlFZ0J6OEE?oc=5"
             },
             {
-                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 军网",
+                "title": "中方呼吁乌克兰危机当事方努力推动局势降温 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZUxOZE9ZVXQ1anZuNmItQTBTdnVmOUdaNjdhWk1OVTVST1QxazFhRFBiNHRRaDFtREFhWlo2bzNOUWpzTkRxeWtvT2xYSUNmUHc?oc=5"
+            },
+            {
+                "title": "世界目光中的长征 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTjQ4eFRYREJPUFgxaS0tRHpQOGc1UHhwT3dyR1V1V3huZG5TSXZwbk1mX05OX1hWbFpadlltRW5KblFzNDB3WUlSQjNpWHZad0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEM1ZJSC1ZQ0U3RUg0djJ1cy1TZ1BIeGNob1cwUG14X1BHTExxM01LTmNjY2hrZGgwZVM2UTU3V3M0czgtSzhUTkRvLUtlOUptNGc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "特斯拉驳斥辅助驾驶致死事故 马斯克：完全说不通",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "苹果面临 30 亿英镑 iCloud 集体诉讼：获准于 2028 年 10 月正式开庭，4000 万英国用户自动纳入索赔",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566592.htm"
+                "url": "https://www.ithome.com/0/967/563.htm"
             },
             {
-                "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+                "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865136165344516"
+                "url": "https://36kr.com/p/3865523201692931"
             },
             {
-                "title": "36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端",
+                "title": "氪星晚报｜索尼集团计划近三十年来首次发行美元债券；甲骨文上财年裁员约2.1万；豆包发布2.1 Pro模型",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865125383443463"
+                "url": "https://36kr.com/p/3865513055540481"
             },
             {
-                "title": "政府采购法迎来修订",
+                "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-23",
-                "url": "https://36kr.com/newsflashes/3865090641351683"
+                "url": "https://36kr.com/p/3865480064504835"
             },
             {
-                "title": "秋声 | 四川生物科技IPO上演过山车，暗盘从暴涨95%到破发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "游戏行业投资降温：曝腾讯考虑对日本多家工作室撤资，白金工作室与 From Software 不受影响",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-23",
-                "url": "https://36kr.com/p/3865070004212994"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "url": "https://www.ithome.com/0/967/493.htm"
             },
             {
                 "title": "2026年6月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWjZjSko3SzgyMmhQWmJlLW9hbVRuX1pSNmhYOU1seVFubVRpQU9GaEFKQTBvbjN0SXVDY1VwSkhaWVdWTl9UUUtvYjJmakhkQndzMVY4YXVIcG9XZGYyRGJkeHQtNDg2SmtlUWhmck9LTUVsb1I0?oc=5"
             },
             {
-                "title": "中国海军83舰编队抵达俄罗斯进行友好访问 - 军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "郭嘉昆：开放的中国，处处是机遇 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEZmdUeXhSa1BrVGVUaDFrZ09tX2stVDd0c2c3S09KUlkyNXowQTlGS0I3WmJVUGlfREh4TFVmSDFlRFU1ZUV6YmhWRGFKa2FSZUE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2kwcWFKM2RmUzdaRU55Mkw1UTdzb0R5RjFtVEJrSkRhbF9PTzdBckpOeFl0MEh0NFVTczFveVoybVpMYjI0RTJaWlhMYUk0LUgzSGxrdGNKc2U3d0V3bi04eE9hVHVQSjZQYUpMVW5wdkcwZnF0RU0xZFpvS0VOdnpwX3l6MnhoRElLejROdTE?oc=5"
             },
             {
                 "title": "编队出击！直击空军某部下半夜飞行训练 - 军网",
@@ -172,13 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QektISFpzRmNXVzZvX01FQXV2dWR0dlJKdU1ZUVI5Vk94N1NBMjVfRFJubUVoUEdtUUlDamUwcVplaF9nSzVhTGpDXzlFZ0J6OEE?oc=5"
             },
             {
-                "title": "李鸿忠在学习贯彻实施民族团结进步促进法座谈会上强调以民族团结进步促进法的高质量实施保障和推动民族工作高质量发展 - 军网",
+                "title": "中方呼吁乌克兰危机当事方努力推动局势降温 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZUxOZE9ZVXQ1anZuNmItQTBTdnVmOUdaNjdhWk1OVTVST1QxazFhRFBiNHRRaDFtREFhWlo2bzNOUWpzTkRxeWtvT2xYSUNmUHc?oc=5"
+            },
+            {
+                "title": "世界目光中的长征 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTjQ4eFRYREJPUFgxaS0tRHpQOGc1UHhwT3dyR1V1V3huZG5TSXZwbk1mX05OX1hWbFpadlltRW5KblFzNDB3WUlSQjNpWHZad0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEM1ZJSC1ZQ0U3RUg0djJ1cy1TZ1BIeGNob1cwUG14X1BHTExxM01LTmNjY2hrZGgwZVM2UTU3V3M0czgtSzhUTkRvLUtlOUptNGc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-24T02:55:31.073085+00:00"
+    "last_updated": "2026-06-24T09:22:42.562721+00:00"
 }
