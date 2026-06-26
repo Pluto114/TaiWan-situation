@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "川普连续公布美伊协议细节 涉及航运、贸易及冻结资金(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-24",
-                "url": "https://www.secretchina.com/news/gb/2026/06/25/1101079.html"
+                "title": "秋声 | 紫鸟浏览器冲港股IPO，两个草根逆袭的暴利故事",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-25",
+                "url": "https://36kr.com/p/3868019442881537"
             },
             {
-                "title": "IGN 盘点《GTA 6》22 个潜在玩法细节：钓鱼、“车房宝物”、维赛迪庄园……",
+                "title": "苹果副总裁埃迪 · 库称已酝酿推进《F1：狂飙飞车》电影续集",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-24",
-                "url": "https://www.ithome.com/0/968/219.htm"
+                "date": "2026-06-25",
+                "url": "https://www.ithome.com/0/968/297.htm"
             },
             {
-                "title": "苹果与英特尔的芯片合作在战略上合乎逻辑 但距离量产还有数年之遥",
+                "title": "中科海光C86-5G曝光：128核512线程瞄准至强 中国服务器芯片加速去依赖",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566686.htm"
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566756.htm"
             },
             {
-                "title": "对标 Anthropic Mythos：360 周鸿祎发布 AI 安全两大核心“倚天屠龙”仪天阵 + 图龙锋",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-24",
-                "url": "https://www.ithome.com/0/968/197.htm"
-            },
-            {
-                "title": "存储芯片巨头SK海力士拟赴美上市募资290亿美元",
+                "title": "美国政府希望在2028年之前拥有一台可用的量子计算机",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566682.htm"
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566748.htm"
+            },
+            {
+                "title": "欧洲数字欧元又向前迈进了一步 旨在取代美国支付体系",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566746.htm"
             }
         ],
         "mil": [
             {
-                "title": "IGN 盘点《GTA 6》22 个潜在玩法细节：钓鱼、“车房宝物”、维赛迪庄园……",
+                "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-25",
+                "url": "https://36kr.com/p/3866562600227847"
+            },
+            {
+                "title": "比亚迪副总李柯：要用人形机器人卖车 自主研发但也不排除外购",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566702.htm"
+            },
+            {
+                "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566700.htm"
+            },
+            {
+                "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-25",
+                "url": "https://36kr.com/p/3867827741086728"
+            },
+            {
+                "title": "IT早报 0625：包月 68 元起豆包专业版正式收费；曝某厂在研发 14000mAh 电池新机； 2299 元起小米首款 NAS 官宣；理想汽车 CEO 李想力挺增程系统...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-24",
-                "url": "https://www.ithome.com/0/968/219.htm"
+                "url": "https://www.ithome.com/0/968/227.htm"
             },
             {
-                "title": "对标 Anthropic Mythos：360 周鸿祎发布 AI 安全两大核心“倚天屠龙”仪天阵 + 图龙锋",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-24",
-                "url": "https://www.ithome.com/0/968/197.htm"
-            },
-            {
-                "title": "荒地上的万亿存储赌局：长鑫、合肥与一群人的十年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566664.htm"
-            },
-            {
-                "title": "一笔未公开巨款如何串起甲骨文、派拉蒙与白宫？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566660.htm"
-            },
-            {
-                "title": "刚果伊波拉确诊病例破千 累计267人病亡 - 8world",
-                "source": "NewsAPI / 8world.com",
-                "date": "2026-06-24",
-                "url": "https://www.8world.com/world/dr-congo-ebola-3191956"
+                "title": "2026年6月国防部例行记者会文字实录 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKcEJXUVp6YnRQNHZsSVpwbzF0cGY2ZVZ0MGExZ2dMWUxhTEhMdnA5MEsxWGNWSmVCT3RUbkJDYUNQa21TMWtUbHRYRmJkSmstcWctQzhMbDRRdw?oc=5"
             },
             {
                 "title": "李强出席2026年夏季达沃斯论坛开幕式并致辞 - mfa.gov.cn",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEFWcDNVa0d6d2NqajlaaHRJSXRqSC1JOV92aG03UGlSRThiVXFrTlVWcHZMTkw4M3BXSExDaVMxWUxmYXRpWWRrTFgtb2ttb0d3Z1hkM1hBNmdyLXBUVFJSUmJWbVNWdHI0N29tY1N2ZmRFdXZpOHlJcHNZOGh4RExsVE1FMFRSeGRGLUs5Qmw?oc=5"
             },
             {
-                "title": "李强在第十七届夏季达沃斯论坛开幕式上的致辞（全文） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-24",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanB4Wkd3dFZfTEUyM01EcW1PZUJEN2hGRnJOeGJMY2ZpZnhrZnl5cWowcDI1YWdIakx5RjBLMTRFZTZ3VG1uOGRudm5ZWWJaYmF3TWxDM3o4akpiWlM2Skl6VC1UYWxWRkoyLTh3NF9VN21FVFJuemJtanFac2lmM0hzb3ZjU2FuZzhtVw?oc=5"
+                "title": "时政微纪录丨沃野田畴绘新景——习近平总书记赴山东德州考察纪实 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OelkyaG1sa1ZOSlBzWWV4bjc0M2RxSFdNY3pnYWMzRVo2ZjFtZ3NxVHZHZkhCQ3VmLW0zbExzRzVDQ2hNcWM0Ym83U3VleTZVMmc?oc=5"
+            },
+            {
+                "title": "作家走军营丨路，在脚下延伸 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xWXNVLVVVRFNqVnpZNERMMGRRUzRJcXNRVnV6YV9uS2JfaERjT1NlX19JVU9pazNYLXIwNWFiQU1aRU5sdDBIRXlkdU5vazIweWc?oc=5"
             },
             {
                 "title": "近距离观看自动步枪射击- 八一视频 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-25",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TN1JkU25uZFpKT2hQYTRGUE1zRnVsWkZzZ3BreGt5Z0hpUVlnQnI1YkxkQ1ZYd180Mm16X3VMNzRfQWVYelFOZ0RB?oc=5"
-            },
-            {
-                "title": "空军某部组织飞行训练 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkJzMGJmd3dZbzFMTHF1WjJzdWJaSHJUbzRsMkZSOXhEa3U4SnFRUWo4SzZMSUlhZU9vZVBEeDZfdzFJRXotOFZVWDVybU9EcFE?oc=5"
-            },
-            {
-                "title": "退役军人彭初一家五代接力守护芦花会议会址 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16dVhKWFBqUWtSd25YQmQ1amFSY2VXdmoxYjdpT2ZhTFhVUmdleWluM21GMXlSMUZxX3FCU0VFNnE5VFE5TzZBY253d2ZXTGozZXc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美英法德驻台机构对中国最近在台湾东部海域进行“执法”行动表达关切",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-06-24",
-                "url": "https://www.voachinese.com/a/us-uk-france-germany-expressed-concern-about-chinese-activities-off-eastern-taiwan-20260624/8164425.html"
+                "title": "秋声 | 紫鸟浏览器冲港股IPO，两个草根逆袭的暴利故事",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-25",
+                "url": "https://36kr.com/p/3868019442881537"
             },
             {
-                "title": "IGN 盘点《GTA 6》22 个潜在玩法细节：钓鱼、“车房宝物”、维赛迪庄园……",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-24",
-                "url": "https://www.ithome.com/0/968/219.htm"
-            },
-            {
-                "title": "分析师称《GTA 6》没有实体光盘对销量影响不大：玩家会接受的",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-24",
-                "url": "https://www.ithome.com/0/968/213.htm"
-            },
-            {
-                "title": "对标 Anthropic Mythos：360 周鸿祎发布 AI 安全两大核心“倚天屠龙”仪天阵 + 图龙锋",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-24",
-                "url": "https://www.ithome.com/0/968/197.htm"
-            },
-            {
-                "title": "存储芯片巨头SK海力士拟赴美上市募资290亿美元",
+                "title": "中科海光C86-5G曝光：128核512线程瞄准至强 中国服务器芯片加速去依赖",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566682.htm"
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566756.htm"
+            },
+            {
+                "title": "佛州众议员卢娜被指借助 Claude 起草国防法案摘要",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566752.htm"
+            },
+            {
+                "title": "亚马逊Zoox发布新一代Robotaxi 加速美国市场扩张布局",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566718.htm"
+            },
+            {
+                "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-25",
+                "url": "https://36kr.com/p/3866562600227847"
+            },
+            {
+                "title": "2026年6月国防部例行记者会文字实录 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKcEJXUVp6YnRQNHZsSVpwbzF0cGY2ZVZ0MGExZ2dMWUxhTEhMdnA5MEsxWGNWSmVCT3RUbkJDYUNQa21TMWtUbHRYRmJkSmstcWctQzhMbDRRdw?oc=5"
             },
             {
                 "title": "李强出席2026年夏季达沃斯论坛开幕式并致辞 - mfa.gov.cn",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEFWcDNVa0d6d2NqajlaaHRJSXRqSC1JOV92aG03UGlSRThiVXFrTlVWcHZMTkw4M3BXSExDaVMxWUxmYXRpWWRrTFgtb2ttb0d3Z1hkM1hBNmdyLXBUVFJSUmJWbVNWdHI0N29tY1N2ZmRFdXZpOHlJcHNZOGh4RExsVE1FMFRSeGRGLUs5Qmw?oc=5"
             },
             {
-                "title": "李强在第十七届夏季达沃斯论坛开幕式上的致辞（全文） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-24",
-                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanB4Wkd3dFZfTEUyM01EcW1PZUJEN2hGRnJOeGJMY2ZpZnhrZnl5cWowcDI1YWdIakx5RjBLMTRFZTZ3VG1uOGRudm5ZWWJaYmF3TWxDM3o4akpiWlM2Skl6VC1UYWxWRkoyLTh3NF9VN21FVFJuemJtanFac2lmM0hzb3ZjU2FuZzhtVw?oc=5"
+                "title": "时政微纪录丨沃野田畴绘新景——习近平总书记赴山东德州考察纪实 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OelkyaG1sa1ZOSlBzWWV4bjc0M2RxSFdNY3pnYWMzRVo2ZjFtZ3NxVHZHZkhCQ3VmLW0zbExzRzVDQ2hNcWM0Ym83U3VleTZVMmc?oc=5"
+            },
+            {
+                "title": "作家走军营丨路，在脚下延伸 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xWXNVLVVVRFNqVnpZNERMMGRRUzRJcXNRVnV6YV9uS2JfaERjT1NlX19JVU9pazNYLXIwNWFiQU1aRU5sdDBIRXlkdU5vazIweWc?oc=5"
             },
             {
                 "title": "近距离观看自动步枪射击- 八一视频 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-25",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TN1JkU25uZFpKT2hQYTRGUE1zRnVsWkZzZ3BreGt5Z0hpUVlnQnI1YkxkQ1ZYd180Mm16X3VMNzRfQWVYelFOZ0RB?oc=5"
-            },
-            {
-                "title": "空军某部组织飞行训练 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkJzMGJmd3dZbzFMTHF1WjJzdWJaSHJUbzRsMkZSOXhEa3U4SnFRUWo4SzZMSUlhZU9vZVBEeDZfdzFJRXotOFZVWDVybU9EcFE?oc=5"
-            },
-            {
-                "title": "退役军人彭初一家五代接力守护芦花会议会址 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16dVhKWFBqUWtSd25YQmQ1amFSY2VXdmoxYjdpT2ZhTFhVUmdleWluM21GMXlSMUZxX3FCU0VFNnE5VFE5TzZBY253d2ZXTGozZXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-25T19:55:45.838235+00:00"
+    "last_updated": "2026-06-26T03:24:25.181821+00:00"
 }
