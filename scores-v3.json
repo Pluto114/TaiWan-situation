@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "openEuler 24.03 LTS SP4 发布：弹性内存、64K 内核、AI 图编译器全面升级",
+                "title": "高端 Z990 主板将提供三组 8pin CPU 供电接口，英特尔 Nova Lake 双芯型号 PL2 功耗可达 474W",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/240.htm"
+                "url": "https://www.ithome.com/0/969/267.htm"
             },
             {
-                "title": "报道称大众汽车计划裁员10万人并关闭部分汽车工厂",
+                "title": "龙芯中科公布 16 核服务器芯片 3C3000，通用计算性能对标 3C5000",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-26",
+                "url": "https://www.ithome.com/0/969/263.htm"
+            },
+            {
+                "title": "苹果涨价后在美推出 MacBook Neo 等官方翻新机型，价格持平新机原价",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-26",
+                "url": "https://www.ithome.com/0/969/257.htm"
+            },
+            {
+                "title": "苹果Mac、Pad涨价 亚洲果链几乎全线遭殃 立讯精密逼近跌停",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566954.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566964.htm"
             },
             {
-                "title": "ROG 枪神10 Plus 超竞版游戏本体验：18 寸全能巨屏 + 320W 极致性能",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苹果多款产品二手市场同步涨价 晚买一天多花2000元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/237.htm"
-            },
-            {
-                "title": "20.99 万元起启境 GT7 猎装轿跑正式上市：首批搭载华为 ADS 5 智驾",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/236.htm"
-            },
-            {
-                "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-26",
-                "url": "https://36kr.com/p/3869884559332356"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566962.htm"
             }
         ],
         "mil": [
+            {
+                "title": "德语媒体：黄文轩–香港最后的自由书商",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-26",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E9%BB%84%E6%96%87%E8%BD%A9%E9%A6%99%E6%B8%AF%E6%9C%80%E5%90%8E%E7%9A%84%E8%87%AA%E7%94%B1%E4%B9%A6%E5%95%86/a-77726522"
+            },
+            {
+                "title": "德语媒体：黄文萱–香港最后的自由书商",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-26",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E9%BB%84%E6%96%87%E8%90%B1%E9%A6%99%E6%B8%AF%E6%9C%80%E5%90%8E%E7%9A%84%E8%87%AA%E7%94%B1%E4%B9%A6%E5%95%86/a-77726522"
+            },
             {
                 "title": "澳大利亚未成年人社交媒体禁令效果有限 研究称八成未满16岁仍在使用社交平台",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,34 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/06/26/1101148.html"
             },
             {
-                "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-26",
-                "url": "https://36kr.com/p/3869474592363528"
-            },
-            {
-                "title": "特朗普下周将首次搭乘卡塔尔赠予的过渡版空军一号出行",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566918.htm"
-            },
-            {
                 "title": "郭嘉昆：“中国机遇2.0”的多维图景正在展开 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWU1QMlhsTkNPRUNoQmVjT2JNQ01WdmctT092Ui1aQnlMUmhGTUR5OG4tQTV5SHVOcXJrbXZwNTFmZzhUbThjM0t1RVVHNk1CMTlRbUtod2hfQ05uQUFaQ2RVaFRDc2dlenJYa05mNG1DdWE5Z0hGSm5tNVlBWThkeDBxWFpPZklXWi14VmtiZzA?oc=5"
             },
             {
-                "title": "驻巴哈马大使严家蓉会见巴商会主席一行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQei1yS0gzdTBETGpINk44c3hSRzhHTm9OZ2t4SG1ZZkFOMHJOWkJFU1FHYTBHWlNUUGcya0dCUXFneExDeHNOaWREcG9GcHd4QV9PYU5Vb0JRQVdXVUhrVHY5VDlCT0VXb1RHU1NoWjJIWDBHTmg2OEFqU2hBSDdPV29NT2c?oc=5"
-            },
-            {
                 "title": "外交部部长助理刘彬出席白俄罗斯独立日招待会— 中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVhFMEhkV1RjeUFqSFBhcDBVNW5MUGxNX2I1SVFOcE9IRTVfdDZIR1hsUGY4Zlc2NjB0ZG1pa09xenBBU3F5X3VlZjZWSVA3OElJbVFsUF9EU3NuNE1ZSGxFQ2Y0cDNzcV8tMGlsLWpTQQ?oc=5"
+            },
+            {
+                "title": "驻厄瓜多尔大使孙向阳出席使馆举办的中国书画家包林星作品展开幕式 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-26",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nYzdEM2h0b3ZlSGF0NV9ZT0dsNkdCTTZwWkRDdHJhREZfSmxtWVRLLThjcVBkOEFKNC04cnRRVzlyRF96NmlfazIyM0Nxc1QzRHZKbndFa1NZdVhycm5Hem1feXpGX09jU1M3WnFhWk9XaTJtNzUwcU1KSQ?oc=5"
             },
             {
                 "title": "作家走军营丨路，在脚下延伸 - 军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "两个大老板如何搞砸中国足球(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-26",
+                "url": "https://www.secretchina.com/news/gb/2026/06/27/1101174.html"
+            },
+            {
+                "title": "移民诈骗花样翻新 纽约州发布防骗指南(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-26",
+                "url": "https://www.secretchina.com/news/gb/2026/06/27/1101167.html"
+            },
+            {
+                "title": "苹果多款产品二手市场同步涨价 晚买一天多花2000元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566962.htm"
+            },
+            {
                 "title": "openEuler 24.03 LTS SP4 发布：弹性内存、64K 内核、AI 图编译器全面升级",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-26",
@@ -124,40 +142,22 @@
                 "url": "https://www.ithome.com/0/969/237.htm"
             },
             {
-                "title": "20.99 万元起启境 GT7 猎装轿跑正式上市：首批搭载华为 ADS 5 智驾",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/236.htm"
-            },
-            {
-                "title": "澳大利亚未成年人社交媒体禁令效果有限 研究称八成未满16岁仍在使用社交平台",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566946.htm"
-            },
-            {
-                "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-26",
-                "url": "https://36kr.com/p/3869884559332356"
-            },
-            {
                 "title": "郭嘉昆：“中国机遇2.0”的多维图景正在展开 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWU1QMlhsTkNPRUNoQmVjT2JNQ01WdmctT092Ui1aQnlMUmhGTUR5OG4tQTV5SHVOcXJrbXZwNTFmZzhUbThjM0t1RVVHNk1CMTlRbUtod2hfQ05uQUFaQ2RVaFRDc2dlenJYa05mNG1DdWE5Z0hGSm5tNVlBWThkeDBxWFpPZklXWi14VmtiZzA?oc=5"
             },
             {
-                "title": "驻巴哈马大使严家蓉会见巴商会主席一行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-25",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQei1yS0gzdTBETGpINk44c3hSRzhHTm9OZ2t4SG1ZZkFOMHJOWkJFU1FHYTBHWlNUUGcya0dCUXFneExDeHNOaWREcG9GcHd4QV9PYU5Vb0JRQVdXVUhrVHY5VDlCT0VXb1RHU1NoWjJIWDBHTmg2OEFqU2hBSDdPV29NT2c?oc=5"
-            },
-            {
                 "title": "外交部部长助理刘彬出席白俄罗斯独立日招待会— 中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVhFMEhkV1RjeUFqSFBhcDBVNW5MUGxNX2I1SVFOcE9IRTVfdDZIR1hsUGY4Zlc2NjB0ZG1pa09xenBBU3F5X3VlZjZWSVA3OElJbVFsUF9EU3NuNE1ZSGxFQ2Y0cDNzcV8tMGlsLWpTQQ?oc=5"
+            },
+            {
+                "title": "驻厄瓜多尔大使孙向阳出席使馆举办的中国书画家包林星作品展开幕式 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-26",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nYzdEM2h0b3ZlSGF0NV9ZT0dsNkdCTTZwWkRDdHJhREZfSmxtWVRLLThjcVBkOEFKNC04cnRRVzlyRF96NmlfazIyM0Nxc1QzRHZKbndFa1NZdVhycm5Hem1feXpGX09jU1M3WnFhWk9XaTJtNzUwcU1KSQ?oc=5"
             },
             {
                 "title": "作家走军营丨路，在脚下延伸 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-27T13:26:23.615848+00:00"
+    "last_updated": "2026-06-27T19:15:37.506348+00:00"
 }
