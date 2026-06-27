@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "被 AI“坑”过后，福特主动请回 350 名老工程师重新打磨质量",
+                "title": "openEuler 24.03 LTS SP4 发布：弹性内存、64K 内核、AI 图编译器全面升级",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/075.htm"
+                "url": "https://www.ithome.com/0/969/240.htm"
             },
             {
-                "title": "我国自研 AEE25 航空电动发动机下线交付，扭矩密度创国内 200 千瓦级纪录",
-                "source": "NewsAPI / Ithome.com",
+                "title": "报道称大众汽车计划裁员10万人并关闭部分汽车工厂",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/015.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566954.htm"
             },
             {
-                "title": "消息称 SK 海力士有望时隔多年重启韩国本土 NAND 闪存晶圆厂建设",
+                "title": "ROG 枪神10 Plus 超竞版游戏本体验：18 寸全能巨屏 + 320W 极致性能",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/012.htm"
+                "url": "https://www.ithome.com/0/969/237.htm"
             },
             {
-                "title": "2026 开放原子开源生态大会在北京亦庄开幕，电鸿等项目完成捐赠签约",
+                "title": "20.99 万元起启境 GT7 猎装轿跑正式上市：首批搭载华为 ADS 5 智驾",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/007.htm"
+                "url": "https://www.ithome.com/0/969/236.htm"
             },
             {
-                "title": "Omdia：到 2035 年，89% 的汽车通信模块将采用 5G 技术",
-                "source": "NewsAPI / Ithome.com",
+                "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/968/862.htm"
+                "url": "https://36kr.com/p/3869884559332356"
             }
         ],
         "mil": [
+            {
+                "title": "澳大利亚未成年人社交媒体禁令效果有限 研究称八成未满16岁仍在使用社交平台",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566946.htm"
+            },
+            {
+                "title": "AMD FSR 4.1在RDNA 3显卡上的性能相较FSR 3.1出现明显回落",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566942.htm"
+            },
             {
                 "title": "韩国瑜访团会美战争部与白宫官员 美方重申对台承诺不变(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,24 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1566918.htm"
             },
             {
-                "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-26",
-                "url": "https://36kr.com/p/3869378164397313"
-            },
-            {
-                "title": "2026 电竞世俱杯 7 月开赛：DOTA2 项目分组出炉，XG、VG 出战",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/968/746.htm"
-            },
-            {
-                "title": "2026年6月国防部例行记者会文字实录 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-25",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKcEJXUVp6YnRQNHZsSVpwbzF0cGY2ZVZ0MGExZ2dMWUxhTEhMdnA5MEsxWGNWSmVCT3RUbkJDYUNQa21TMWtUbHRYRmJkSmstcWctQzhMbDRRdw?oc=5"
-            },
-            {
                 "title": "郭嘉昆：“中国机遇2.0”的多维图景正在展开 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQei1yS0gzdTBETGpINk44c3hSRzhHTm9OZ2t4SG1ZZkFOMHJOWkJFU1FHYTBHWlNUUGcya0dCUXFneExDeHNOaWREcG9GcHd4QV9PYU5Vb0JRQVdXVUhrVHY5VDlCT0VXb1RHU1NoWjJIWDBHTmg2OEFqU2hBSDdPV29NT2c?oc=5"
             },
             {
-                "title": "时政微纪录丨沃野田畴绘新景——习近平总书记赴山东德州考察纪实 - 军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "外交部部长助理刘彬出席白俄罗斯独立日招待会— 中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OelkyaG1sa1ZOSlBzWWV4bjc0M2RxSFdNY3pnYWMzRVo2ZjFtZ3NxVHZHZkhCQ3VmLW0zbExzRzVDQ2hNcWM0Ym83U3VleTZVMmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVhFMEhkV1RjeUFqSFBhcDBVNW5MUGxNX2I1SVFOcE9IRTVfdDZIR1hsUGY4Zlc2NjB0ZG1pa09xenBBU3F5X3VlZjZWSVA3OElJbVFsUF9EU3NuNE1ZSGxFQ2Y0cDNzcV8tMGlsLWpTQQ?oc=5"
             },
             {
                 "title": "作家走军营丨路，在脚下延伸 - 军网",
@@ -108,44 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4eXAyYzdKUTZMbzBCbHNOU3N6OFlEdUFSUlZrMkVWWXc4TW1oT0ZSWTBPT1ZFNzJDcUZjaE0xVXJlcXh2WlZxSFl2U014aGNmSVE?oc=5"
+            },
+            {
+                "title": "政务服务窗口变身“征兵宣传岗” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd0NjakVCSGpPS1Y5T2paU3RLenZKTlo1RFl4c05wUEJYcUxpWWtfX25BUnI2dHRYdG9ZcHV3NXpDNTlhR3ExTnE2ZFRlcWdvX3c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "被 AI“坑”过后，福特主动请回 350 名老工程师重新打磨质量",
+                "title": "openEuler 24.03 LTS SP4 发布：弹性内存、64K 内核、AI 图编译器全面升级",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/075.htm"
+                "url": "https://www.ithome.com/0/969/240.htm"
             },
             {
-                "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
+                "title": "ROG 枪神10 Plus 超竞版游戏本体验：18 寸全能巨屏 + 320W 极致性能",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-26",
+                "url": "https://www.ithome.com/0/969/237.htm"
+            },
+            {
+                "title": "20.99 万元起启境 GT7 猎装轿跑正式上市：首批搭载华为 ADS 5 智驾",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-26",
+                "url": "https://www.ithome.com/0/969/236.htm"
+            },
+            {
+                "title": "澳大利亚未成年人社交媒体禁令效果有限 研究称八成未满16岁仍在使用社交平台",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566946.htm"
+            },
+            {
+                "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-06-26",
-                "url": "https://36kr.com/p/3869474592363528"
-            },
-            {
-                "title": "特朗普 T1 手机开放销售，结算页需额外支付 41.75 美元的“设备税”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/968/868.htm"
-            },
-            {
-                "title": "中国信通院联合华为云等 22 家单位，筹备成立 AIIA 词元（Token）服务工作组",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/968/814.htm"
-            },
-            {
-                "title": "TD Cowen 称马斯克 SpaceX 可能斥 3200 亿美元收购美国第三大运营商 T-Mobile",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/968/801.htm"
-            },
-            {
-                "title": "2026年6月国防部例行记者会文字实录 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-25",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKcEJXUVp6YnRQNHZsSVpwbzF0cGY2ZVZ0MGExZ2dMWUxhTEhMdnA5MEsxWGNWSmVCT3RUbkJDYUNQa21TMWtUbHRYRmJkSmstcWctQzhMbDRRdw?oc=5"
+                "url": "https://36kr.com/p/3869884559332356"
             },
             {
                 "title": "郭嘉昆：“中国机遇2.0”的多维图景正在展开 - mfa.gov.cn",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQei1yS0gzdTBETGpINk44c3hSRzhHTm9OZ2t4SG1ZZkFOMHJOWkJFU1FHYTBHWlNUUGcya0dCUXFneExDeHNOaWREcG9GcHd4QV9PYU5Vb0JRQVdXVUhrVHY5VDlCT0VXb1RHU1NoWjJIWDBHTmg2OEFqU2hBSDdPV29NT2c?oc=5"
             },
             {
-                "title": "时政微纪录丨沃野田畴绘新景——习近平总书记赴山东德州考察纪实 - 军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "外交部部长助理刘彬出席白俄罗斯独立日招待会— 中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OelkyaG1sa1ZOSlBzWWV4bjc0M2RxSFdNY3pnYWMzRVo2ZjFtZ3NxVHZHZkhCQ3VmLW0zbExzRzVDQ2hNcWM0Ym83U3VleTZVMmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVhFMEhkV1RjeUFqSFBhcDBVNW5MUGxNX2I1SVFOcE9IRTVfdDZIR1hsUGY4Zlc2NjB0ZG1pa09xenBBU3F5X3VlZjZWSVA3OElJbVFsUF9EU3NuNE1ZSGxFQ2Y0cDNzcV8tMGlsLWpTQQ?oc=5"
             },
             {
                 "title": "作家走军营丨路，在脚下延伸 - 军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4eXAyYzdKUTZMbzBCbHNOU3N6OFlEdUFSUlZrMkVWWXc4TW1oT0ZSWTBPT1ZFNzJDcUZjaE0xVXJlcXh2WlZxSFl2U014aGNmSVE?oc=5"
+            },
+            {
+                "title": "政务服务窗口变身“征兵宣传岗” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd0NjakVCSGpPS1Y5T2paU3RLenZKTlo1RFl4c05wUEJYcUxpWWtfX25BUnI2dHRYdG9ZcHV3NXpDNTlhR3ExTnE2ZFRlcWdvX3c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-27T08:31:59.826444+00:00"
+    "last_updated": "2026-06-27T13:26:23.615848+00:00"
 }
