@@ -12,42 +12,60 @@
     "news_sources": {
         "econ": [
             {
-                "title": "高端 Z990 主板将提供三组 8pin CPU 供电接口，英特尔 Nova Lake 双芯型号 PL2 功耗可达 474W",
+                "title": "国家统计局：电子行业利润 1-5 月增长 103.9%，AI 驱动高端算力 / 存储芯片需求爆发",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/267.htm"
+                "date": "2026-06-27",
+                "url": "https://www.ithome.com/0/969/311.htm"
             },
             {
-                "title": "龙芯中科公布 16 核服务器芯片 3C3000，通用计算性能对标 3C5000",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/263.htm"
+                "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-27",
+                "url": "https://36kr.com/p/3869740772316162"
             },
             {
-                "title": "苹果涨价后在美推出 MacBook Neo 等官方翻新机型，价格持平新机原价",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/257.htm"
-            },
-            {
-                "title": "苹果Mac、Pad涨价 亚洲果链几乎全线遭殃 立讯精密逼近跌停",
+                "title": "美国称对伊朗目标发动打击 以回应此前船只遇袭",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566964.htm"
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567010.htm"
             },
             {
-                "title": "苹果多款产品二手市场同步涨价 晚买一天多花2000元",
+                "title": "特朗普威胁对美国企业征收数字服务税的国家加征100%关税",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566962.htm"
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567004.htm"
+            },
+            {
+                "title": "Meta游说加州议会 寻求在“危害儿童”诉讼中减免高额罚金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567002.htm"
             }
         ],
         "mil": [
             {
-                "title": "德语媒体：黄文轩–香港最后的自由书商",
-                "source": "NewsAPI / DW (English)",
+                "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-27",
+                "url": "https://36kr.com/p/3869740772316162"
+            },
+            {
+                "title": "美国称对伊朗目标发动打击 以回应此前船只遇袭",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567010.htm"
+            },
+            {
+                "title": "德约科维奇“转行”私募股权 出任General Atlantic全球战略顾问",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566994.htm"
+            },
+            {
+                "title": "IT早报 0627：王兴称美团成立至今个人一股没卖；GPT-5.6 系列登场；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-26",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E9%BB%84%E6%96%87%E8%BD%A9%E9%A6%99%E6%B8%AF%E6%9C%80%E5%90%8E%E7%9A%84%E8%87%AA%E7%94%B1%E4%B9%A6%E5%95%86/a-77726522"
+                "url": "https://www.ithome.com/0/969/278.htm"
             },
             {
                 "title": "德语媒体：黄文萱–香港最后的自由书商",
@@ -56,22 +74,16 @@
                 "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E9%BB%84%E6%96%87%E8%90%B1%E9%A6%99%E6%B8%AF%E6%9C%80%E5%90%8E%E7%9A%84%E8%87%AA%E7%94%B1%E4%B9%A6%E5%95%86/a-77726522"
             },
             {
-                "title": "澳大利亚未成年人社交媒体禁令效果有限 研究称八成未满16岁仍在使用社交平台",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "习近平会见孟加拉国总理塔里克 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566946.htm"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTX0lVUmFCNVJkU1RTdFNrSXdMblpRSFNBWUNPLTRTSXczRmZLbGJMYzRLZ011bHdRRGtrSDd0OG9YX1piaXNLUHlydmIxdlNmSklGVXpuX3dobTNvaTByRUV4bGpBd0NiQ1FB?oc=5"
             },
             {
-                "title": "AMD FSR 4.1在RDNA 3显卡上的性能相较FSR 3.1出现明显回落",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566942.htm"
-            },
-            {
-                "title": "韩国瑜访团会美战争部与白宫官员 美方重申对台承诺不变(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-26",
-                "url": "https://www.secretchina.com/news/gb/2026/06/26/1101148.html"
+                "title": "中俄两军组织实施第11次联合空中战略巡航 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-27",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wblh4bHU2dGc1aXhRRlZRcFM4SGVDRkE2Mk5SU2k0aXcyZGliU2Y0bDRRVVVta3A5d1dFd0lPbnA0dlkxb1pGdUtpbnQtOWczMVhPc3ViUE4?oc=5"
             },
             {
                 "title": "郭嘉昆：“中国机遇2.0”的多维图景正在展开 - mfa.gov.cn",
@@ -80,66 +92,66 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWU1QMlhsTkNPRUNoQmVjT2JNQ01WdmctT092Ui1aQnlMUmhGTUR5OG4tQTV5SHVOcXJrbXZwNTFmZzhUbThjM0t1RVVHNk1CMTlRbUtod2hfQ05uQUFaQ2RVaFRDc2dlenJYa05mNG1DdWE5Z0hGSm5tNVlBWThkeDBxWFpPZklXWi14VmtiZzA?oc=5"
             },
             {
-                "title": "外交部部长助理刘彬出席白俄罗斯独立日招待会— 中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVhFMEhkV1RjeUFqSFBhcDBVNW5MUGxNX2I1SVFOcE9IRTVfdDZIR1hsUGY4Zlc2NjB0ZG1pa09xenBBU3F5X3VlZjZWSVA3OElJbVFsUF9EU3NuNE1ZSGxFQ2Y0cDNzcV8tMGlsLWpTQQ?oc=5"
-            },
-            {
-                "title": "驻厄瓜多尔大使孙向阳出席使馆举办的中国书画家包林星作品展开幕式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nYzdEM2h0b3ZlSGF0NV9ZT0dsNkdCTTZwWkRDdHJhREZfSmxtWVRLLThjcVBkOEFKNC04cnRRVzlyRF96NmlfazIyM0Nxc1QzRHZKbndFa1NZdVhycm5Hem1feXpGX09jU1M3WnFhWk9XaTJtNzUwcU1KSQ?oc=5"
-            },
-            {
-                "title": "作家走军营丨路，在脚下延伸 - 军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xWXNVLVVVRFNqVnpZNERMMGRRUzRJcXNRVnV6YV9uS2JfaERjT1NlX19JVU9pazNYLXIwNWFiQU1aRU5sdDBIRXlkdU5vazIweWc?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "习近平总书记关切事｜碱滩生沃野 - 军网",
+                "title": "总书记讲述的党史故事｜一脉清风 永葆本色 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN1JLckpmZGszTGJNcklUdWdwSVBwV3Q0NzMyT3hmdVllUUd1dTZoRmRZUmhIR3huNjBiWmVoc0NxQ1hsX2dxcWFDVFZWNElMUFE?oc=5"
+            },
+            {
+                "title": "以红色文物为切入点，勾勒出苏区时期法治发展的轨迹 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4eXAyYzdKUTZMbzBCbHNOU3N6OFlEdUFSUlZrMkVWWXc4TW1oT0ZSWTBPT1ZFNzJDcUZjaE0xVXJlcXh2WlZxSFl2U014aGNmSVE?oc=5"
-            },
-            {
-                "title": "政务服务窗口变身“征兵宣传岗” - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd0NjakVCSGpPS1Y5T2paU3RLenZKTlo1RFl4c05wUEJYcUxpWWtfX25BUnI2dHRYdG9ZcHV3NXpDNTlhR3ExTnE2ZFRlcWdvX3c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84SW5BUmtfZFdzdHF6d1owVjRfQTVhTjVKT0V2VE9ZdEFaZVJyLXFBMXRnUGtmbnFvWVJVUUVBbjYtS01QSGlCUS1Ib2JZejIxSlE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "两个大老板如何搞砸中国足球(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-26",
-                "url": "https://www.secretchina.com/news/gb/2026/06/27/1101174.html"
+                "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-27",
+                "url": "https://36kr.com/p/3869740772316162"
             },
             {
-                "title": "移民诈骗花样翻新 纽约州发布防骗指南(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-06-26",
-                "url": "https://www.secretchina.com/news/gb/2026/06/27/1101167.html"
-            },
-            {
-                "title": "苹果多款产品二手市场同步涨价 晚买一天多花2000元",
+                "title": "Meta游说加州议会 寻求在“危害儿童”诉讼中减免高额罚金",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1566962.htm"
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567002.htm"
             },
             {
-                "title": "openEuler 24.03 LTS SP4 发布：弹性内存、64K 内核、AI 图编译器全面升级",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/240.htm"
+                "title": "俄黑客被指主导捷豹路虎25亿美元网络攻击",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566996.htm"
             },
             {
-                "title": "ROG 枪神10 Plus 超竞版游戏本体验：18 寸全能巨屏 + 320W 极致性能",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德约科维奇“转行”私募股权 出任General Atlantic全球战略顾问",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1566994.htm"
+            },
+            {
+                "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-27",
+                "url": "https://36kr.com/p/3870720040588295"
+            },
+            {
+                "title": "习近平会见孟加拉国总理塔里克 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-26",
-                "url": "https://www.ithome.com/0/969/237.htm"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTX0lVUmFCNVJkU1RTdFNrSXdMblpRSFNBWUNPLTRTSXczRmZLbGJMYzRLZ011bHdRRGtrSDd0OG9YX1piaXNLUHlydmIxdlNmSklGVXpuX3dobTNvaTByRUV4bGpBd0NiQ1FB?oc=5"
+            },
+            {
+                "title": "中俄两军组织实施第11次联合空中战略巡航 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-27",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wblh4bHU2dGc1aXhRRlZRcFM4SGVDRkE2Mk5SU2k0aXcyZGliU2Y0bDRRVVVta3A5d1dFd0lPbnA0dlkxb1pGdUtpbnQtOWczMVhPc3ViUE4?oc=5"
             },
             {
                 "title": "郭嘉昆：“中国机遇2.0”的多维图景正在展开 - mfa.gov.cn",
@@ -148,37 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWU1QMlhsTkNPRUNoQmVjT2JNQ01WdmctT092Ui1aQnlMUmhGTUR5OG4tQTV5SHVOcXJrbXZwNTFmZzhUbThjM0t1RVVHNk1CMTlRbUtod2hfQ05uQUFaQ2RVaFRDc2dlenJYa05mNG1DdWE5Z0hGSm5tNVlBWThkeDBxWFpPZklXWi14VmtiZzA?oc=5"
             },
             {
-                "title": "外交部部长助理刘彬出席白俄罗斯独立日招待会— 中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVhFMEhkV1RjeUFqSFBhcDBVNW5MUGxNX2I1SVFOcE9IRTVfdDZIR1hsUGY4Zlc2NjB0ZG1pa09xenBBU3F5X3VlZjZWSVA3OElJbVFsUF9EU3NuNE1ZSGxFQ2Y0cDNzcV8tMGlsLWpTQQ?oc=5"
-            },
-            {
-                "title": "驻厄瓜多尔大使孙向阳出席使馆举办的中国书画家包林星作品展开幕式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nYzdEM2h0b3ZlSGF0NV9ZT0dsNkdCTTZwWkRDdHJhREZfSmxtWVRLLThjcVBkOEFKNC04cnRRVzlyRF96NmlfazIyM0Nxc1QzRHZKbndFa1NZdVhycm5Hem1feXpGX09jU1M3WnFhWk9XaTJtNzUwcU1KSQ?oc=5"
-            },
-            {
-                "title": "作家走军营丨路，在脚下延伸 - 军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xWXNVLVVVRFNqVnpZNERMMGRRUzRJcXNRVnV6YV9uS2JfaERjT1NlX19JVU9pazNYLXIwNWFiQU1aRU5sdDBIRXlkdU5vazIweWc?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             },
             {
-                "title": "习近平总书记关切事｜碱滩生沃野 - 军网",
+                "title": "总书记讲述的党史故事｜一脉清风 永葆本色 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN1JLckpmZGszTGJNcklUdWdwSVBwV3Q0NzMyT3hmdVllUUd1dTZoRmRZUmhIR3huNjBiWmVoc0NxQ1hsX2dxcWFDVFZWNElMUFE?oc=5"
+            },
+            {
+                "title": "以红色文物为切入点，勾勒出苏区时期法治发展的轨迹 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4eXAyYzdKUTZMbzBCbHNOU3N6OFlEdUFSUlZrMkVWWXc4TW1oT0ZSWTBPT1ZFNzJDcUZjaE0xVXJlcXh2WlZxSFl2U014aGNmSVE?oc=5"
-            },
-            {
-                "title": "政务服务窗口变身“征兵宣传岗” - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd0NjakVCSGpPS1Y5T2paU3RLenZKTlo1RFl4c05wUEJYcUxpWWtfX25BUnI2dHRYdG9ZcHV3NXpDNTlhR3ExTnE2ZFRlcWdvX3c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84SW5BUmtfZFdzdHF6d1owVjRfQTVhTjVKT0V2VE9ZdEFaZVJyLXFBMXRnUGtmbnFvWVJVUUVBbjYtS01QSGlCUS1Ib2JZejIxSlE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-27T19:15:37.506348+00:00"
+    "last_updated": "2026-06-28T03:31:42.185219+00:00"
 }
