@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "华硕灵耀 14 双屏 2026 将酷睿 Ultra X9 388H 替换为 378H，22499 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-27",
+                "url": "https://www.ithome.com/0/969/510.htm"
+            },
+            {
                 "title": "西安交通大学研发新型钽合金：2000℃ 下拉伸屈服强度提高一倍，成果登《自然》",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-27",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-27",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567040.htm"
-            },
-            {
-                "title": "GPT-5.6来了：旗舰版碾压GPT-5.5 价格却没涨",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567024.htm"
             }
         ],
         "mil": [
+            {
+                "title": "BBC关闭最古老长波广播服务",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567048.htm"
+            },
             {
                 "title": "2026 年美加墨世界杯进行中，各大时尚品牌如何“参赛”？",
                 "source": "NewsAPI / Toodaylab.com",
@@ -68,28 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567020.htm"
             },
             {
-                "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-27",
-                "url": "https://36kr.com/p/3869740772316162"
-            },
-            {
                 "title": "中俄两军组织实施第11次联合空中战略巡航 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-27",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wblh4bHU2dGc1aXhRRlZRcFM4SGVDRkE2Mk5SU2k0aXcyZGliU2Y0bDRRVVVta3A5d1dFd0lPbnA0dlkxb1pGdUtpbnQtOWczMVhPc3ViUE4?oc=5"
             },
             {
-                "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托 - mfa.gov.cn",
+                "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Mk1QNTNheG1oa1NkYXJqbUw2OFFGc3BpYTFTM1NiQk8xM2JFRjJqbzFyU3VoZDBqamJhTThIamg2NlF5UWNQaTdMVFBhVmNtVUdvdDNtY3JWb1g0cWNVWmlFT2hTRFJzNXdFbTZ5eERBcGJsOGxEdVpBQQ?oc=5"
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
-                "title": "李强会见柬埔寨人民党主席、参议院主席洪森 - mfa.gov.cn",
+                "title": "南海问题 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmRjN2pwMEhpLXlzMkVTZ1daN3hkTlZUZzlobDY2VHdkVkJpdE84Q21tR2oyaVhtV0t3bTFxbW44cFYzQkVMWFZvUUFfUVFoSkRnMHNiMFBsdlJnTDJmRDE4YldvendhOVU0MWp3NzV0R0ViUHdxc1kwaTVQQVM5QVVhWnBNa3NNcXBmRndR?oc=5"
+                "date": "2018-05-29",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
             },
             {
                 "title": "总书记讲述的党史故事｜一脉清风 永葆本色 - 军网",
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "地表最强AI Mythos 5局部解禁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567062.htm"
+            },
+            {
+                "title": "澳大利亚收紧针对儿童的社交媒体禁令 将科技公司可能面临的处罚金额提高一倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567058.htm"
+            },
+            {
                 "title": "特斯拉就首例 FSD 行人致命事故达成和解，NHTSA 调查持续深入",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-27",
@@ -130,34 +142,22 @@
                 "url": "https://www.ithome.com/0/969/466.htm"
             },
             {
-                "title": "中国全国人大终止15人代表资格 马兴瑞徐学强等军政高官在列",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-27",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%BB%88%E6%AD%A215%E4%BA%BA%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC-%E9%A9%AC%E5%85%B4%E7%91%9E%E5%BE%90%E5%AD%A6%E5%BC%BA%E7%AD%89%E5%86%9B%E6%94%BF%E9%AB%98%E5%AE%98%E5%9C%A8%E5%88%97/a-77733148"
-            },
-            {
-                "title": "在亚洲大陆最南端寄一张明信片 · 新加坡圣淘沙",
-                "source": "NewsAPI / Mylovelybluesky.com",
-                "date": "2026-06-27",
-                "url": "https://mylovelybluesky.com/travel/singapore/singapore-attractions/the-southernmost-point-of-continental-asia/"
-            },
-            {
                 "title": "中俄两军组织实施第11次联合空中战略巡航 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-27",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wblh4bHU2dGc1aXhRRlZRcFM4SGVDRkE2Mk5SU2k0aXcyZGliU2Y0bDRRVVVta3A5d1dFd0lPbnA0dlkxb1pGdUtpbnQtOWczMVhPc3ViUE4?oc=5"
             },
             {
-                "title": "王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托 - mfa.gov.cn",
+                "title": "中国地图 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Mk1QNTNheG1oa1NkYXJqbUw2OFFGc3BpYTFTM1NiQk8xM2JFRjJqbzFyU3VoZDBqamJhTThIamg2NlF5UWNQaTdMVFBhVmNtVUdvdDNtY3JWb1g0cWNVWmlFT2hTRFJzNXdFbTZ5eERBcGJsOGxEdVpBQQ?oc=5"
+                "date": "2024-05-03",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNDlTX0xEa1NnVG1RWEM4MHZRQlRqWElzcnVrNXFKOUNqeHNlRzBfd05BOURsWW9FMFI2am0yaTh2OGhGTlZtQWs5YzJZSTNiN21DNHRHeU01QlA1U2N2b1RR?oc=5"
             },
             {
-                "title": "李强会见柬埔寨人民党主席、参议院主席洪森 - mfa.gov.cn",
+                "title": "南海问题 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-26",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmRjN2pwMEhpLXlzMkVTZ1daN3hkTlZUZzlobDY2VHdkVkJpdE84Q21tR2oyaVhtV0t3bTFxbW44cFYzQkVMWFZvUUFfUVFoSkRnMHNiMFBsdlJnTDJmRDE4YldvendhOVU0MWp3NzV0R0ViUHdxc1kwaTVQQVM5QVVhWnBNa3NNcXBmRndR?oc=5"
+                "date": "2018-05-29",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RUUcyVC1yTWNTSkpxN3hLVFQyc0Z1T19BWEVsNXZJaUxsbFV2RUlkb0hRd2NCWE5nOElhS2Jhd212aGR0WUJmWnhR?oc=5"
             },
             {
                 "title": "总书记讲述的党史故事｜一脉清风 永葆本色 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-28T13:39:51.532006+00:00"
+    "last_updated": "2026-06-28T19:14:16.583585+00:00"
 }
