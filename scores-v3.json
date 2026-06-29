@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "华硕灵耀 14 双屏 2026 将酷睿 Ultra X9 388H 替换为 378H，22499 元",
+                "title": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-27",
-                "url": "https://www.ithome.com/0/969/510.htm"
+                "date": "2026-06-28",
+                "url": "https://www.ithome.com/0/969/570.htm"
             },
             {
-                "title": "西安交通大学研发新型钽合金：2000℃ 下拉伸屈服强度提高一倍，成果登《自然》",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-27",
-                "url": "https://www.ithome.com/0/969/466.htm"
-            },
-            {
-                "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-27",
-                "url": "https://36kr.com/newsflashes/3871131045876995"
-            },
-            {
-                "title": "华硕推出 ROG 八爪鱼 7 路由器 20 周年限定版：双万兆网口 + 13000Mbps 无线速率，首发 4899 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-27",
-                "url": "https://www.ithome.com/0/969/359.htm"
-            },
-            {
-                "title": "苹果被迫游说特朗普政府放行长鑫存储芯片",
+                "title": "iPad、Xbox接连涨价 折射出存储芯片短缺之痛",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567040.htm"
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567094.htm"
+            },
+            {
+                "title": "NVIDIA 16针连接器问题在RTX 5090上持续出现",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567088.htm"
+            },
+            {
+                "title": "杰富瑞警告：存储器价格今年三季度涨幅或达 50% 四季度再涨 40%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567086.htm"
+            },
+            {
+                "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-28",
+                "url": "https://36kr.com/p/3867976058803459"
             }
         ],
         "mil": [
+            {
+                "title": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-28",
+                "url": "https://www.ithome.com/0/969/570.htm"
+            },
             {
                 "title": "BBC关闭最古老长波广播服务",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567040.htm"
             },
             {
-                "title": "富士电机两名员工从中国走私稀土至日本被抓",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567020.htm"
-            },
-            {
                 "title": "中俄两军组织实施第11次联合空中战略巡航 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-27",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN1JLckpmZGszTGJNcklUdWdwSVBwV3Q0NzMyT3hmdVllUUd1dTZoRmRZUmhIR3huNjBiWmVoc0NxQ1hsX2dxcWFDVFZWNElMUFE?oc=5"
             },
             {
+                "title": "眺望党旗山：我们的队伍向太阳 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JRFFWcTlXTDRPOTJYMi1nZWFZR21CcXQzVEZUSVRRamU3aFpxYklhcFh5V3BhUjN3OVZGWVNEMzJTWkJFV0wtNy1uMFlsQ0loS1E?oc=5"
+            },
+            {
                 "title": "魂牵梦萦甘巴拉 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-28",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTVnRnTXp6MU9GY1U2cXBWZ3J2X2ZSSFk0bC1DTERTMFlTSDFZVmM4bkdkUVZkbW1wLWlrZkJsU3VWXzBCZmhTZUFsaFk?oc=5"
-            },
-            {
-                "title": "专访丨中国光伏和储能发展对全球能源转型意义重大——访欧洲太阳能展主办方负责人埃尔泽塞尔 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZ2pFaEFDbjRoSFlrdHphQ1BEMmtfZngxbnIySmphRWRaX3NscDNxd2tvUG1GZjhUREVqdU1JWU1BSi1NZDRyVUFickN5LW5PM2c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "地表最强AI Mythos 5局部解禁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567062.htm"
-            },
-            {
-                "title": "澳大利亚收紧针对儿童的社交媒体禁令 将科技公司可能面临的处罚金额提高一倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567058.htm"
-            },
-            {
-                "title": "特斯拉就首例 FSD 行人致命事故达成和解，NHTSA 调查持续深入",
+                "title": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-27",
-                "url": "https://www.ithome.com/0/969/484.htm"
+                "date": "2026-06-28",
+                "url": "https://www.ithome.com/0/969/570.htm"
             },
             {
-                "title": "2026 年美加墨世界杯进行中，各大时尚品牌如何“参赛”？",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-06-27",
-                "url": "https://www.toodaylab.com/84095"
+                "title": "iPad、Xbox接连涨价 折射出存储芯片短缺之痛",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567094.htm"
             },
             {
-                "title": "西安交通大学研发新型钽合金：2000℃ 下拉伸屈服强度提高一倍，成果登《自然》",
+                "title": "杰富瑞警告：存储器价格今年三季度涨幅或达 50% 四季度再涨 40%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567086.htm"
+            },
+            {
+                "title": "亚洲AI创企借美国出口禁令力推“类Mythos”安全模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567080.htm"
+            },
+            {
+                "title": "特斯拉公布 2026 年二季度分析师交付预期：超 40.6 万辆，环比增 12%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-27",
-                "url": "https://www.ithome.com/0/969/466.htm"
+                "date": "2026-06-28",
+                "url": "https://www.ithome.com/0/969/547.htm"
             },
             {
                 "title": "中俄两军组织实施第11次联合空中战略巡航 - 中华人民共和国国防部",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN1JLckpmZGszTGJNcklUdWdwSVBwV3Q0NzMyT3hmdVllUUd1dTZoRmRZUmhIR3huNjBiWmVoc0NxQ1hsX2dxcWFDVFZWNElMUFE?oc=5"
             },
             {
+                "title": "眺望党旗山：我们的队伍向太阳 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JRFFWcTlXTDRPOTJYMi1nZWFZR21CcXQzVEZUSVRRamU3aFpxYklhcFh5V3BhUjN3OVZGWVNEMzJTWkJFV0wtNy1uMFlsQ0loS1E?oc=5"
+            },
+            {
                 "title": "魂牵梦萦甘巴拉 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-28",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTVnRnTXp6MU9GY1U2cXBWZ3J2X2ZSSFk0bC1DTERTMFlTSDFZVmM4bkdkUVZkbW1wLWlrZkJsU3VWXzBCZmhTZUFsaFk?oc=5"
-            },
-            {
-                "title": "专访丨中国光伏和储能发展对全球能源转型意义重大——访欧洲太阳能展主办方负责人埃尔泽塞尔 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZ2pFaEFDbjRoSFlrdHphQ1BEMmtfZngxbnIySmphRWRaX3NscDNxd2tvUG1GZjhUREVqdU1JWU1BSi1NZDRyVUFickN5LW5PM2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-28T19:14:16.583585+00:00"
+    "last_updated": "2026-06-29T03:36:17.309997+00:00"
 }
