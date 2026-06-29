@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "内存短缺对苹果和微软造成冲击 但对小型企业而言堪称“生存危机”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567140.htm"
+            },
+            {
+                "title": "摆脱中共稀土卡脖子 日本启动海底稀土大战(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-28",
+                "url": "https://www.secretchina.com/news/gb/2026/06/28/1101249.html"
+            },
+            {
                 "title": "苹果 MacBook Pro 经销商被曝擅自向已付款订单加价",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-28",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-28",
                 "url": "https://www.ithome.com/0/969/594.htm"
-            },
-            {
-                "title": "比亚迪王传福与地平线 CEO 余凯会面，双方有望在智驾领域深度合作",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-28",
-                "url": "https://www.ithome.com/0/969/591.htm"
-            },
-            {
-                "title": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-28",
-                "url": "https://www.ithome.com/0/969/570.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美伊战火升级！伊朗袭美军基地 川普撂重话(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-28",
+                "url": "https://www.secretchina.com/news/gb/2026/06/28/1101250.html"
+            },
+            {
+                "title": "应对美国高端 AI 限制，奥地利推动欧盟引入 Anthropic 落地运营",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-28",
+                "url": "https://www.ithome.com/0/969/719.htm"
+            },
             {
                 "title": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
                 "source": "NewsAPI / Ithome.com",
@@ -62,16 +74,16 @@
                 "url": "https://www.toodaylab.com/84095"
             },
             {
-                "title": "谅解备忘录后首度交火 美伊停火面临严峻考验",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-06-27",
-                "url": "https://www.dw.com/zh/%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%90%8E%E9%A6%96%E5%BA%A6%E4%BA%A4%E7%81%AB-%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E9%9D%A2%E4%B8%B4%E4%B8%A5%E5%B3%BB%E8%80%83%E9%AA%8C/a-77733625"
+                "title": "郭嘉昆：中方将继续向委内瑞拉提供救灾援助 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-29",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdi00ek1nTDVRbUlTbGpuVDA0c2pWM1Mxd3V1ZU1EOGFvTHUyYWE3djJycVNqNU81Z2FwZjRHMHc2MFh4M1hneFljcEx5OXpnNWg5N09vMzFrT0p2VDhENWE3bHA0eEk1OEMzNlVLRlRNQ096alV0Yk5XNDRCVFBzT2xoeTViMEdSSU8xT0hRaEI?oc=5"
             },
             {
-                "title": "苹果被迫游说特朗普政府放行长鑫存储芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567040.htm"
+                "title": "王毅会见下任联合国秘书长候选人萨勒 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-29",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BNDJJTTZtUGVCVVJEcEI0OUlpaHVKeGhVVmhrb1NGNjlsZVk4Y09mUHhXOXJoS3B2bF9HZklfcHZzLVVWcHdWekhQQ0F5SFB3c0tHeFMyNnB3R3VLQlRxVm9SOVgtY2U4THpyMWhn?oc=5"
             },
             {
                 "title": "驻吉尔吉斯斯坦大使刘江平出席上海合作组织妇女论坛文化活动开幕式 - mfa.gov.cn",
@@ -80,22 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnRDdHU1R1JIVnNvcXhsYVpZNzdQNTBESDMyWEpZVzJ5NHdFNFYyX3c4ZnJPOUZ2N0ZuUlluejdUWGI1aVRlV01jcGJtUWhJSnJ1b2ljYWtEUEdWUU1xVFUxakpVQzBuVlIyZEdXT2p3Zk9qYTdhNV9pZjZPN2VyaDdhd3E?oc=5"
             },
             {
-                "title": "驻津巴布韦大使周鼎会见津巴布韦维多利亚瀑布市市长莫约 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-28",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTN5SFBVMENJOUdtekctNFUyelF5dGFWMkV3Zkt2Y3lwYzUwaFlaMGxRWmtVODdyME55TlZWNzkxRk9rWnJmbjJKRVJCT2xyZjhYeFdOZ2p6bDR6SkdFRGluZXNQRDVoMzdrRjY2cXRwcnAtNTEyekpoVTVfNWppa1paZTE?oc=5"
-            },
-            {
-                "title": "沙特外交大臣费萨尔将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTJWNnd2NHRBQ2dTczQ3MUpKTGFORTlLbUVUcW5DYndKRWVZNHM1OEUtTlBOZVlwdThpWVpWZVVQcXFZS3laOElKbzZINHlsV3lQb2RmSjdlSGVqaW0yaGswR0N0U25KNkRTWDd0LVVIOGVTNlBRY1kyanRnNHBrbmlCYlFWemtteFE?oc=5"
-            },
-            {
-                "title": "总书记讲述的党史故事｜一脉清风 永葆本色 - 军网",
+                "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN1JLckpmZGszTGJNcklUdWdwSVBwV3Q0NzMyT3hmdVllUUd1dTZoRmRZUmhIR3huNjBiWmVoc0NxQ1hsX2dxcWFDVFZWNElMUFE?oc=5"
+                "date": "2026-06-29",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UZ0JBeTFBb1I1eW1QbFNkSGtlRWdYSUN3U1Y0ell3eDhlOGRVc0EwUVNaVGRzYUVkYkNrWV9wanVIUjR3NDJ3c0FaQ3M?oc=5"
             },
             {
                 "title": "眺望党旗山：我们的队伍向太阳 - 军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "内存短缺对苹果和微软造成冲击 但对小型企业而言堪称“生存危机”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567140.htm"
+            },
+            {
+                "title": "检方在洛杉矶山火案中使用ChatGPT聊天记录作证 然而未能打动陪审团",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567136.htm"
+            },
+            {
+                "title": "美伊战火升级！伊朗袭美军基地 川普撂重话(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-06-28",
+                "url": "https://www.secretchina.com/news/gb/2026/06/28/1101250.html"
+            },
+            {
                 "title": "苹果 MacBook Pro 经销商被曝擅自向已付款订单加价",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-28",
@@ -124,22 +142,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567118.htm"
             },
             {
-                "title": "中国三条世界级高性能碳纤维生产线集中投产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567116.htm"
+                "title": "郭嘉昆：中方将继续向委内瑞拉提供救灾援助 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-29",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdi00ek1nTDVRbUlTbGpuVDA0c2pWM1Mxd3V1ZU1EOGFvTHUyYWE3djJycVNqNU81Z2FwZjRHMHc2MFh4M1hneFljcEx5OXpnNWg5N09vMzFrT0p2VDhENWE3bHA0eEk1OEMzNlVLRlRNQ096alV0Yk5XNDRCVFBzT2xoeTViMEdSSU8xT0hRaEI?oc=5"
             },
             {
-                "title": "腾讯小范围内测 TenPay Go，面向境外人士来华支付",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-28",
-                "url": "https://www.ithome.com/0/969/592.htm"
-            },
-            {
-                "title": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-28",
-                "url": "https://www.ithome.com/0/969/570.htm"
+                "title": "王毅会见下任联合国秘书长候选人萨勒 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-29",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BNDJJTTZtUGVCVVJEcEI0OUlpaHVKeGhVVmhrb1NGNjlsZVk4Y09mUHhXOXJoS3B2bF9HZklfcHZzLVVWcHdWekhQQ0F5SFB3c0tHeFMyNnB3R3VLQlRxVm9SOVgtY2U4THpyMWhn?oc=5"
             },
             {
                 "title": "驻吉尔吉斯斯坦大使刘江平出席上海合作组织妇女论坛文化活动开幕式 - mfa.gov.cn",
@@ -148,22 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnRDdHU1R1JIVnNvcXhsYVpZNzdQNTBESDMyWEpZVzJ5NHdFNFYyX3c4ZnJPOUZ2N0ZuUlluejdUWGI1aVRlV01jcGJtUWhJSnJ1b2ljYWtEUEdWUU1xVFUxakpVQzBuVlIyZEdXT2p3Zk9qYTdhNV9pZjZPN2VyaDdhd3E?oc=5"
             },
             {
-                "title": "驻津巴布韦大使周鼎会见津巴布韦维多利亚瀑布市市长莫约 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-28",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTN5SFBVMENJOUdtekctNFUyelF5dGFWMkV3Zkt2Y3lwYzUwaFlaMGxRWmtVODdyME55TlZWNzkxRk9rWnJmbjJKRVJCT2xyZjhYeFdOZ2p6bDR6SkdFRGluZXNQRDVoMzdrRjY2cXRwcnAtNTEyekpoVTVfNWppa1paZTE?oc=5"
-            },
-            {
-                "title": "沙特外交大臣费萨尔将访华 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTJWNnd2NHRBQ2dTczQ3MUpKTGFORTlLbUVUcW5DYndKRWVZNHM1OEUtTlBOZVlwdThpWVpWZVVQcXFZS3laOElKbzZINHlsV3lQb2RmSjdlSGVqaW0yaGswR0N0U25KNkRTWDd0LVVIOGVTNlBRY1kyanRnNHBrbmlCYlFWemtteFE?oc=5"
-            },
-            {
-                "title": "总书记讲述的党史故事｜一脉清风 永葆本色 - 军网",
+                "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN1JLckpmZGszTGJNcklUdWdwSVBwV3Q0NzMyT3hmdVllUUd1dTZoRmRZUmhIR3huNjBiWmVoc0NxQ1hsX2dxcWFDVFZWNElMUFE?oc=5"
+                "date": "2026-06-29",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UZ0JBeTFBb1I1eW1QbFNkSGtlRWdYSUN3U1Y0ell3eDhlOGRVc0EwUVNaVGRzYUVkYkNrWV9wanVIUjR3NDJ3c0FaQ3M?oc=5"
             },
             {
                 "title": "眺望党旗山：我们的队伍向太阳 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-29T10:50:57.161979+00:00"
+    "last_updated": "2026-06-29T15:40:32.867714+00:00"
 }
