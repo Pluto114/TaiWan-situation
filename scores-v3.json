@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "高温红色预警热浪正成为欧洲新常态 投资者纷纷布局相关机遇",
+                "title": "澳大利亚、瓦努阿图签协议 禁建外国军事基地",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-29",
+                "url": "https://www.dw.com/zh/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%93%A6%E5%8A%AA%E9%98%BF%E5%9B%BE%E7%AD%BE%E5%8D%8F%E8%AE%AE-%E7%A6%81%E5%BB%BA%E5%A4%96%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0/a-77757177"
+            },
+            {
+                "title": "数十起夹伤事故，暴露电吸门安全隐忧",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567218.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567236.htm"
             },
             {
-                "title": "苹果或于9月8日发布iPhone 18 Pro系列及首款折叠屏iPhone Ultra",
+                "title": "全球十大广告平台中国企业占据五席",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567214.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567232.htm"
             },
             {
-                "title": "大众与上汽新设合营企业公示，内部人士称与奥迪创新技术中心项目有关、未来主要赋能 AUDI 品牌",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-29",
-                "url": "https://www.ithome.com/0/970/056.htm"
-            },
-            {
-                "title": "每周鞋报：匡威 Chuck 70 X 重磅亮相，几个联名鞋款都各有看点",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-06-29",
-                "url": "https://www.toodaylab.com/84098"
-            },
-            {
-                "title": "消息称腾讯与长鑫存储签署200多亿元内存芯片供应协议",
+                "title": "百度旗下昆仑芯要求IPO投资者采购其芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567202.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567228.htm"
+            },
+            {
+                "title": "烧光5000亿后，京东方开始给股民赚钱",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-29",
+                "url": "https://36kr.com/p/3874045136720899"
             }
         ],
         "mil": [
+            {
+                "title": "澳大利亚、瓦努阿图签协议 禁建外国军事基地",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-29",
+                "url": "https://www.dw.com/zh/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%93%A6%E5%8A%AA%E9%98%BF%E5%9B%BE%E7%AD%BE%E5%8D%8F%E8%AE%AE-%E7%A6%81%E5%BB%BA%E5%A4%96%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0/a-77757177"
+            },
             {
                 "title": "我国运-20 运输机最新网宣片出现“小六”彩蛋，军事评论员傅前哨称可能是正在研发的六代机",
                 "source": "NewsAPI / Ithome.com",
@@ -68,10 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/06/29/1101271.html"
             },
             {
-                "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-29",
-                "url": "https://36kr.com/p/3873681978840071"
+                "title": "王毅将访问丹麦、瑞典、芬兰、挪威 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDNXeWVibEhpSGVYMnZsVEo3a0pqaHljckxndENuclFYN1RseUpYMENxS2dpNXNEczZfZVlnVVNSWVFUQXFJay1EZnVmT3NRSk9neklNTVRXUHFZODlXQlMzZ1dQRUhpRkg0aG1GbkhpMTRXajFib3cwbjRtd01yS3hjWUI?oc=5"
             },
             {
                 "title": "郭嘉昆：中方将继续向委内瑞拉提供救灾援助 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-29",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU5NSndhUzJGbHVwV1Fhd0FleVUtOVd4dl9xY3VMNlJYLWlwdXNNQUlJRjk0T3hsbzBtNlNCa3ZheXhZT2VxaTB3WV9naDJYSkRwTkpoeG9mSzRiV3Zzei1zMGVtM3lUVk1DMTFERUdONzk4UGhERS1fMVJyVzVwdE9TM1g?oc=5"
-            },
-            {
-                "title": "韩正会见沙特外交大臣费萨尔 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdVRLWlpWMjZudFBON29KYmFlUUVOQzBwRjFNS2RZNWlrQ3N3MjFxSEZtdGxodm5XeUZtZWEtdDh5dzdhbnRQc2Y4TE5CNlMxQlh1dXgtc2h5TTFpakNnbDZEYnVUc3dqcVpF?oc=5"
             },
             {
                 "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "高温红色预警热浪正成为欧洲新常态 投资者纷纷布局相关机遇",
+                "title": "数十起夹伤事故，暴露电吸门安全隐忧",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567218.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567236.htm"
             },
             {
-                "title": "大众与上汽新设合营企业公示，内部人士称与奥迪创新技术中心项目有关、未来主要赋能 AUDI 品牌",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-29",
-                "url": "https://www.ithome.com/0/970/056.htm"
-            },
-            {
-                "title": "每周鞋报：匡威 Chuck 70 X 重磅亮相，几个联名鞋款都各有看点",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-06-29",
-                "url": "https://www.toodaylab.com/84098"
-            },
-            {
-                "title": "腾讯将推出独立支付App？公司最新回应：面向境外来华人员",
+                "title": "全球十大广告平台中国企业占据五席",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567204.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567232.htm"
             },
             {
-                "title": "消息称腾讯与长鑫存储签署200多亿元内存芯片供应协议",
+                "title": "百度旗下昆仑芯要求IPO投资者采购其芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567202.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567228.htm"
+            },
+            {
+                "title": "传Phone 18e继续配备60Hz显示屏 ProMotion仍为高端机型专属",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567222.htm"
+            },
+            {
+                "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-29",
+                "url": "https://36kr.com/p/3873626425332743"
+            },
+            {
+                "title": "王毅将访问丹麦、瑞典、芬兰、挪威 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-06-30",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDNXeWVibEhpSGVYMnZsVEo3a0pqaHljckxndENuclFYN1RseUpYMENxS2dpNXNEczZfZVlnVVNSWVFUQXFJay1EZnVmT3NRSk9neklNTVRXUHFZODlXQlMzZ1dQRUhpRkg0aG1GbkhpMTRXajFib3cwbjRtd01yS3hjWUI?oc=5"
             },
             {
                 "title": "郭嘉昆：中方将继续向委内瑞拉提供救灾援助 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-29",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU5NSndhUzJGbHVwV1Fhd0FleVUtOVd4dl9xY3VMNlJYLWlwdXNNQUlJRjk0T3hsbzBtNlNCa3ZheXhZT2VxaTB3WV9naDJYSkRwTkpoeG9mSzRiV3Zzei1zMGVtM3lUVk1DMTFERUdONzk4UGhERS1fMVJyVzVwdE9TM1g?oc=5"
-            },
-            {
-                "title": "韩正会见沙特外交大臣费萨尔 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdVRLWlpWMjZudFBON29KYmFlUUVOQzBwRjFNS2RZNWlrQ3N3MjFxSEZtdGxodm5XeUZtZWEtdDh5dzdhbnRQc2Y4TE5CNlMxQlh1dXgtc2h5TTFpakNnbDZEYnVUc3dqcVpF?oc=5"
             },
             {
                 "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-06-30T09:28:21.148442+00:00"
+    "last_updated": "2026-06-30T14:12:06.135335+00:00"
 }
