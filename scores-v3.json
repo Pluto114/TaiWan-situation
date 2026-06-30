@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "澳大利亚与瓦努阿图签署安全协定，外界解读旨在抗衡中国的地缘扩张",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-29",
+                "url": "https://www.voachinese.com/a/australia-and-vanuatu-sign-security-deal-20260629/8166066.html"
+            },
+            {
+                "title": "中国将更多日本实体列入出口管制名单，东京斥措施“绝不能容许”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-29",
+                "url": "https://www.voachinese.com/a/china-expands-export-restrictions-on-japanese-defense-firms-citing-tokyo-s-military-buildup-20260629/8166009.html"
+            },
+            {
+                "title": "美众议员跨党推出法案，旨在阻止中国通过租用美国云计算服务获取先进AI芯片",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-06-29",
+                "url": "https://www.voachinese.com/a/law-makers-introduced-bipartisan-bill-to-close-loophole-in-advanced-ai-chip-export-controls-20260629/8166013.html"
+            },
+            {
                 "title": "澳大利亚、瓦努阿图签协议 禁建外国军事基地",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-06-29",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-29",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567236.htm"
-            },
-            {
-                "title": "全球十大广告平台中国企业占据五席",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567232.htm"
-            },
-            {
-                "title": "百度旗下昆仑芯要求IPO投资者采购其芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567228.htm"
-            },
-            {
-                "title": "烧光5000亿后，京东方开始给股民赚钱",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-29",
-                "url": "https://36kr.com/p/3874045136720899"
             }
         ],
         "mil": [
@@ -92,22 +92,22 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU5NSndhUzJGbHVwV1Fhd0FleVUtOVd4dl9xY3VMNlJYLWlwdXNNQUlJRjk0T3hsbzBtNlNCa3ZheXhZT2VxaTB3WV9naDJYSkRwTkpoeG9mSzRiV3Zzei1zMGVtM3lUVk1DMTFERUdONzk4UGhERS1fMVJyVzVwdE9TM1g?oc=5"
             },
             {
+                "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkSGo5X1NheWtPdHJ1MlBGZ0ppZzdoNnJuTkUxdkp2cWVPT2h2NW5WTjMxVEdhR2JmNFdfNmdIalNIcHIyYUFWTEJPY2tWWjhnbHc?oc=5"
+            },
+            {
+                "title": "同志，这一棒，由我们来接续！ - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-30",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNUIxaHpQenhTMnZhLXdiM01SbFR2Q2dTMkpiMmlJNmtVSHZrc0dXLXJITnVUZWw2TWFNSllsQVI0dTBEMXVSdDZwcXo?oc=5"
+            },
+            {
                 "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-29",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UZ0JBeTFBb1I1eW1QbFNkSGtlRWdYSUN3U1Y0ell3eDhlOGRVc0EwUVNaVGRzYUVkYkNrWV9wanVIUjR3NDJ3c0FaQ3M?oc=5"
-            },
-            {
-                "title": "国防科技大学空天科学学院党委以“服务备战打仗清单”牵引为战育人 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LWmN3R2ZNSjU1TkdWN1kzYkhfQW5SY1BUeFNrWFVtRE52dW1pTDFVUDQ1cjZsQzlueWlGcnJMRkhKZm0yS1Rpa1hnWE5BMWxySVE?oc=5"
-            },
-            {
-                "title": "CFL-120中型坦克：“小身板”也有重火力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ta2p2N2dXYkR5cU9SMGxHckFYcVRPRDRNaTVQSUZoUEd0cXhhQUhQY2NPcEtCaklWekRZcl8wbVFrc1RQcGRySEFLV2w2eUcxUUE?oc=5"
             }
         ],
         "pol": [
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU5NSndhUzJGbHVwV1Fhd0FleVUtOVd4dl9xY3VMNlJYLWlwdXNNQUlJRjk0T3hsbzBtNlNCa3ZheXhZT2VxaTB3WV9naDJYSkRwTkpoeG9mSzRiV3Zzei1zMGVtM3lUVk1DMTFERUdONzk4UGhERS1fMVJyVzVwdE9TM1g?oc=5"
             },
             {
+                "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkSGo5X1NheWtPdHJ1MlBGZ0ppZzdoNnJuTkUxdkp2cWVPT2h2NW5WTjMxVEdhR2JmNFdfNmdIalNIcHIyYUFWTEJPY2tWWjhnbHc?oc=5"
+            },
+            {
+                "title": "同志，这一棒，由我们来接续！ - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-06-30",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNUIxaHpQenhTMnZhLXdiM01SbFR2Q2dTMkpiMmlJNmtVSHZrc0dXLXJITnVUZWw2TWFNSllsQVI0dTBEMXVSdDZwcXo?oc=5"
+            },
+            {
                 "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-06-29",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UZ0JBeTFBb1I1eW1QbFNkSGtlRWdYSUN3U1Y0ell3eDhlOGRVc0EwUVNaVGRzYUVkYkNrWV9wanVIUjR3NDJ3c0FaQ3M?oc=5"
-            },
-            {
-                "title": "国防科技大学空天科学学院党委以“服务备战打仗清单”牵引为战育人 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LWmN3R2ZNSjU1TkdWN1kzYkhfQW5SY1BUeFNrWFVtRE52dW1pTDFVUDQ1cjZsQzlueWlGcnJMRkhKZm0yS1Rpa1hnWE5BMWxySVE?oc=5"
-            },
-            {
-                "title": "CFL-120中型坦克：“小身板”也有重火力 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ta2p2N2dXYkR5cU9SMGxHckFYcVRPRDRNaTVQSUZoUEd0cXhhQUhQY2NPcEtCaklWekRZcl8wbVFrc1RQcGRySEFLV2w2eUcxUUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-06-30T14:12:06.135335+00:00"
+    "last_updated": "2026-06-30T19:50:41.094019+00:00"
 }
