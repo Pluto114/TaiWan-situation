@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星重启1.4nm商业化进程 有望助力苹果加速推进下一代制程节点",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567348.htm"
-            },
-            {
-                "title": "日元汇率跌至40年新低",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567344.htm"
-            },
-            {
-                "title": "DeepSeek V4将正式上线 高峰时段API价格翻倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567336.htm"
-            },
-            {
-                "title": "Unity 今日起关停中国大陆及港澳地区绝大部分全球游戏服务，仅保留广告、内购及身份认证",
+                "title": "号称“德国制造”：Punkt. MC03 手机发售，天玑 7300 芯片、AphyOS 系统主打隐私",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/500.htm"
+                "url": "https://www.ithome.com/0/970/764.htm"
             },
             {
-                "title": "华硕 ROG 八爪鱼 7 路由器 20 周年限定版开售：双万兆网口 + 13000Mbps 无线速率，首发国补价 4899.6 元",
+                "title": "塔塔数据泄露事件曝光苹果iPhone 18 Pro供应商名单、零部件信息及真机照片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567364.htm"
+            },
+            {
+                "title": "继苹果之后再失三星订单 传京东方Galaxy S27 OLED合作告吹",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567362.htm"
+            },
+            {
+                "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-30",
+                "url": "https://36kr.com/p/3873626697470985"
+            },
+            {
+                "title": "英伟达在华启动机器人人才招聘，聚焦具身智能等四大方向",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/490.htm"
+                "url": "https://www.ithome.com/0/970/732.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国议员调查两家有在华业务的生物医药公司",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-06-30",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E8%B0%83%E6%9F%A5%E4%B8%A4%E5%AE%B6%E6%9C%89%E5%9C%A8%E5%8D%8E%E4%B8%9A%E5%8A%A1%E7%9A%84%E7%94%9F%E7%89%A9%E5%8C%BB%E8%8D%AF%E5%85%AC%E5%8F%B8/a-77774250"
+            },
+            {
+                "title": "英伟达在华启动机器人人才招聘，聚焦具身智能等四大方向",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-30",
+                "url": "https://www.ithome.com/0/970/732.htm"
+            },
             {
                 "title": "消息称顽皮狗曾计划将初代《神秘海域》搬上索尼 PS5，后因成本问题改为重制《最后生还者：第一部》",
                 "source": "NewsAPI / Ithome.com",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3875120747942913"
             },
             {
-                "title": "两位车主率原厂量产版小米 SU7 Ultra 征战纽北跑出 7 分 09 秒，雷军致谢",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/374.htm"
-            },
-            {
-                "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-30",
-                "url": "https://36kr.com/p/3875047283659777"
-            },
-            {
                 "title": "王毅将访问丹麦、瑞典、芬兰、挪威 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-30",
@@ -90,27 +90,27 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkSGo5X1NheWtPdHJ1MlBGZ0ppZzdoNnJuTkUxdkp2cWVPT2h2NW5WTjMxVEdhR2JmNFdfNmdIalNIcHIyYUFWTEJPY2tWWjhnbHc?oc=5"
-            },
-            {
-                "title": "同志，这一棒，由我们来接续！ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNUIxaHpQenhTMnZhLXdiM01SbFR2Q2dTMkpiMmlJNmtVSHZrc0dXLXJITnVUZWw2TWFNSllsQVI0dTBEMXVSdDZwcXo?oc=5"
-            },
-            {
-                "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UZ0JBeTFBb1I1eW1QbFNkSGtlRWdYSUN3U1Y0ell3eDhlOGRVc0EwUVNaVGRzYUVkYkNrWV9wanVIUjR3NDJ3c0FaQ3M?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "英国监管机构推动苹果放宽 App Store 支付与 NFC 使用限制",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567358.htm"
+            },
+            {
+                "title": "苹果疑似加大打击力度 iPhone 18 Pro泄露测试视频在社交平台迅速消失",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567356.htm"
+            },
+            {
+                "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-30",
+                "url": "https://36kr.com/p/3873626697470985"
+            },
             {
                 "title": "11.98~99 万元，优必选全尺寸超仿生人形机器人优世界 U1 系列发布",
                 "source": "NewsAPI / Ithome.com",
@@ -124,24 +124,6 @@
                 "url": "https://www.ithome.com/0/970/584.htm"
             },
             {
-                "title": "日元汇率跌至40年新低",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567344.htm"
-            },
-            {
-                "title": "DeepSeek V4将正式上线 高峰时段API价格翻倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567336.htm"
-            },
-            {
-                "title": "微软 Teams 个人版将于 7 月 28 日起在中国大陆正式停用",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/559.htm"
-            },
-            {
                 "title": "王毅将访问丹麦、瑞典、芬兰、挪威 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-30",
@@ -158,27 +140,9 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkSGo5X1NheWtPdHJ1MlBGZ0ppZzdoNnJuTkUxdkp2cWVPT2h2NW5WTjMxVEdhR2JmNFdfNmdIalNIcHIyYUFWTEJPY2tWWjhnbHc?oc=5"
-            },
-            {
-                "title": "同志，这一棒，由我们来接续！ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNUIxaHpQenhTMnZhLXdiM01SbFR2Q2dTMkpiMmlJNmtVSHZrc0dXLXJITnVUZWw2TWFNSllsQVI0dTBEMXVSdDZwcXo?oc=5"
-            },
-            {
-                "title": "党旗领航 奋斗强军丨将忠诚书写在祖国蓝天 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UZ0JBeTFBb1I1eW1QbFNkSGtlRWdYSUN3U1Y0ell3eDhlOGRVc0EwUVNaVGRzYUVkYkNrWV9wanVIUjR3NDJ3c0FaQ3M?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-01T09:39:46.276812+00:00"
+    "last_updated": "2026-07-01T14:28:08.864353+00:00"
 }
