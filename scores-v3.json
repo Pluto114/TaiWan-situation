@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-30",
-                "url": "https://36kr.com/p/3875047283659777"
-            },
-            {
-                "title": "2025 年我国网络表演行业市场整体营收达 2213.6 亿元，同比增长 4.1%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/369.htm"
-            },
-            {
-                "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/320.htm"
-            },
-            {
-                "title": "夏普7.9英寸新屏幕组件泄露 Switch2或将迎来首次改款",
+                "title": "三星重启1.4nm商业化进程 有望助力苹果加速推进下一代制程节点",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567314.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567348.htm"
             },
             {
-                "title": "中国贸促会：超5成受访中资企业看好欧盟",
-                "source": "NewsAPI / 36kr.com",
+                "title": "日元汇率跌至40年新低",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-30",
-                "url": "https://36kr.com/newsflashes/3875047227642886"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567344.htm"
+            },
+            {
+                "title": "DeepSeek V4将正式上线 高峰时段API价格翻倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-06-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567336.htm"
+            },
+            {
+                "title": "Unity 今日起关停中国大陆及港澳地区绝大部分全球游戏服务，仅保留广告、内购及身份认证",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-30",
+                "url": "https://www.ithome.com/0/970/500.htm"
+            },
+            {
+                "title": "华硕 ROG 八爪鱼 7 路由器 20 周年限定版开售：双万兆网口 + 13000Mbps 无线速率，首发国补价 4899.6 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-30",
+                "url": "https://www.ithome.com/0/970/490.htm"
             }
         ],
         "mil": [
+            {
+                "title": "消息称顽皮狗曾计划将初代《神秘海域》搬上索尼 PS5，后因成本问题改为重制《最后生还者：第一部》",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-30",
+                "url": "https://www.ithome.com/0/970/569.htm"
+            },
+            {
+                "title": "第 37 届台湾金曲奖揭晓，A-Lin 主持备受好评，蔡依林和张震岳成为大赢家",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-06-30",
+                "url": "https://www.toodaylab.com/84099"
+            },
+            {
+                "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-06-30",
+                "url": "https://36kr.com/p/3875120747942913"
+            },
             {
                 "title": "两位车主率原厂量产版小米 SU7 Ultra 征战纽北跑出 7 分 09 秒，雷军致谢",
                 "source": "NewsAPI / Ithome.com",
@@ -56,40 +74,22 @@
                 "url": "https://36kr.com/p/3875047283659777"
             },
             {
-                "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-30",
-                "url": "https://36kr.com/p/3875059110221064"
-            },
-            {
-                "title": "FAA：捷蓝航空航班在接近肯尼迪机场时撞上无人机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-06-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567302.htm"
-            },
-            {
-                "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-30",
-                "url": "https://36kr.com/p/3874911939482880"
-            },
-            {
                 "title": "王毅将访问丹麦、瑞典、芬兰、挪威 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-06-30",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDNXeWVibEhpSGVYMnZsVEo3a0pqaHljckxndENuclFYN1RseUpYMENxS2dpNXNEczZfZVlnVVNSWVFUQXFJay1EZnVmT3NRSk9neklNTVRXUHFZODlXQlMzZ1dQRUhpRkg0aG1GbkhpMTRXajFib3cwbjRtd01yS3hjWUI?oc=5"
             },
             {
-                "title": "郭嘉昆：中方将继续向委内瑞拉提供救灾援助 - mfa.gov.cn",
+                "title": "习近平为“七一勋章”获得者颁授勋章 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdi00ek1nTDVRbUlTbGpuVDA0c2pWM1Mxd3V1ZU1EOGFvTHUyYWE3djJycVNqNU81Z2FwZjRHMHc2MFh4M1hneFljcEx5OXpnNWg5N09vMzFrT0p2VDhENWE3bHA0eEk1OEMzNlVLRlRNQ096alV0Yk5XNDRCVFBzT2xoeTViMEdSSU8xT0hRaEI?oc=5"
+                "date": "2026-07-01",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CY09QMUlWUnBhaW1jZ01KUWpnd1kzYkhpVXZOcG5lZkp5QmVUaHVreXEyTXNPTlJHMFBnYWFqT0NvT2g0Wjkza0puek9QR1pOby02c1hsNnE?oc=5"
             },
             {
-                "title": "驻坦桑尼亚大使陈明健会见联合国资本发展基金执行主任顾明达 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU5NSndhUzJGbHVwV1Fhd0FleVUtOVd4dl9xY3VMNlJYLWlwdXNNQUlJRjk0T3hsbzBtNlNCa3ZheXhZT2VxaTB3WV9naDJYSkRwTkpoeG9mSzRiV3Zzei1zMGVtM3lUVk1DMTFERUdONzk4UGhERS1fMVJyVzVwdE9TM1g?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-06-30",
-                "url": "https://36kr.com/p/3875047283659777"
-            },
-            {
-                "title": "2025 年我国网络表演行业市场整体营收达 2213.6 亿元，同比增长 4.1%",
+                "title": "11.98~99 万元，优必选全尺寸超仿生人形机器人优世界 U1 系列发布",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/369.htm"
+                "url": "https://www.ithome.com/0/970/624.htm"
             },
             {
-                "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
+                "title": "特斯拉内华达超级工厂电池频发失窃，近半年遭至少 11 次有组织盗抢",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-06-30",
-                "url": "https://www.ithome.com/0/970/320.htm"
+                "url": "https://www.ithome.com/0/970/584.htm"
             },
             {
-                "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
-                "source": "NewsAPI / 36kr.com",
+                "title": "日元汇率跌至40年新低",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-30",
-                "url": "https://36kr.com/p/3875059110221064"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567344.htm"
             },
             {
-                "title": "中国贸促会：超5成受访中资企业看好欧盟",
-                "source": "NewsAPI / 36kr.com",
+                "title": "DeepSeek V4将正式上线 高峰时段API价格翻倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-06-30",
-                "url": "https://36kr.com/newsflashes/3875047227642886"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567336.htm"
+            },
+            {
+                "title": "微软 Teams 个人版将于 7 月 28 日起在中国大陆正式停用",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-06-30",
+                "url": "https://www.ithome.com/0/970/559.htm"
             },
             {
                 "title": "王毅将访问丹麦、瑞典、芬兰、挪威 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDNXeWVibEhpSGVYMnZsVEo3a0pqaHljckxndENuclFYN1RseUpYMENxS2dpNXNEczZfZVlnVVNSWVFUQXFJay1EZnVmT3NRSk9neklNTVRXUHFZODlXQlMzZ1dQRUhpRkg0aG1GbkhpMTRXajFib3cwbjRtd01yS3hjWUI?oc=5"
             },
             {
-                "title": "郭嘉昆：中方将继续向委内瑞拉提供救灾援助 - mfa.gov.cn",
+                "title": "习近平为“七一勋章”获得者颁授勋章 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdi00ek1nTDVRbUlTbGpuVDA0c2pWM1Mxd3V1ZU1EOGFvTHUyYWE3djJycVNqNU81Z2FwZjRHMHc2MFh4M1hneFljcEx5OXpnNWg5N09vMzFrT0p2VDhENWE3bHA0eEk1OEMzNlVLRlRNQ096alV0Yk5XNDRCVFBzT2xoeTViMEdSSU8xT0hRaEI?oc=5"
+                "date": "2026-07-01",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CY09QMUlWUnBhaW1jZ01KUWpnd1kzYkhpVXZOcG5lZkp5QmVUaHVreXEyTXNPTlJHMFBnYWFqT0NvT2g0Wjkza0puek9QR1pOby02c1hsNnE?oc=5"
             },
             {
-                "title": "驻坦桑尼亚大使陈明健会见联合国资本发展基金执行主任顾明达 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-06-29",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU5NSndhUzJGbHVwV1Fhd0FleVUtOVd4dl9xY3VMNlJYLWlwdXNNQUlJRjk0T3hsbzBtNlNCa3ZheXhZT2VxaTB3WV9naDJYSkRwTkpoeG9mSzRiV3Zzei1zMGVtM3lUVk1DMTFERUdONzk4UGhERS1fMVJyVzVwdE9TM1g?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-01T03:32:05.539878+00:00"
+    "last_updated": "2026-07-01T09:39:46.276812+00:00"
 }
