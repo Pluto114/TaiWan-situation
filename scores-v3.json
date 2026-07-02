@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "川普打破中共稀土垄断 美军首开放基地建厂(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-01",
+                "url": "https://www.secretchina.com/news/gb/2026/07/02/1101417.html"
+            },
+            {
+                "title": "研究：苹果 iPhone 普及与美国生育率下滑存在关联",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-01",
+                "url": "https://www.ithome.com/0/971/375.htm"
+            },
+            {
+                "title": "美国出生公民权之争未完结 最高法院留下立法讨论空间(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-01",
+                "url": "https://www.secretchina.com/news/gb/2026/07/01/1101409.html"
+            },
+            {
                 "title": "清华大学前教授遭学生当场举报 课堂上警察上门(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-01",
@@ -22,27 +40,15 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-01",
                 "url": "https://www.ithome.com/0/971/357.htm"
-            },
-            {
-                "title": "德宪法保护局：德国是中国最重要的情报收集目标之一",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-01",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%AE%AA%E6%B3%95%E4%BF%9D%E6%8A%A4%E5%B1%80%E5%BE%B7%E5%9B%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%83%85%E6%8A%A5%E6%94%B6%E9%9B%86%E7%9B%AE%E6%A0%87%E4%B9%8B%E4%B8%80/a-77788075"
-            },
-            {
-                "title": "AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-01",
-                "url": "https://36kr.com/p/3877043321237504"
-            },
-            {
-                "title": "硬氪首发 | 全尺寸全重量国内率先首飞，北航系全倾转eVTOL企业再获数千万融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-01",
-                "url": "https://36kr.com/p/3877039462150409"
             }
         ],
         "mil": [
+            {
+                "title": "川普打破中共稀土垄断 美军首开放基地建厂(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-01",
+                "url": "https://www.secretchina.com/news/gb/2026/07/02/1101417.html"
+            },
             {
                 "title": "德宪法保护局：德国是中国最重要的情报收集目标之一",
                 "source": "NewsAPI / DW (English)",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/3877035735740673"
             },
             {
-                "title": "搭上“国产平替”东风 85后教授半年赚了1200亿",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567506.htm"
-            },
-            {
                 "title": "王毅同美国国务卿鲁比奥通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-01",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkSGo5X1NheWtPdHJ1MlBGZ0ppZzdoNnJuTkUxdkp2cWVPT2h2NW5WTjMxVEdhR2JmNFdfNmdIalNIcHIyYUFWTEJPY2tWWjhnbHc?oc=5"
-            },
-            {
                 "title": "Aviation regiment conducts combat training - Bilingual - 中国军网（英文版） - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-01",
@@ -108,9 +102,27 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
+                "title": "甘肃省静宁县人武部开展红色主题党日活动 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qeWdoLW8tX2llbkFYb0lVY3p5VEp2NEw2UU1BbVloeDZpRFQtSDdSR1RwMGN5VG5jX040WlFXRmhOTzdXTU9mbENIalNMMThfQVE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "谷歌 AI 智能体 Gemini Spark 登陆苹果 Mac，可实时追踪资讯动态",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-01",
+                "url": "https://www.ithome.com/0/971/382.htm"
+            },
+            {
+                "title": "中视新科动漫股份有限公司多项资产被拍卖，包含“新科娘少女形象”等作品著作权",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-01",
+                "url": "https://www.ithome.com/0/971/376.htm"
+            },
             {
                 "title": "比亚迪势将再次超越特斯拉 成为全球纯电动汽车销量冠军",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -130,18 +142,6 @@
                 "url": "https://36kr.com/p/3877047915475200"
             },
             {
-                "title": "AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-01",
-                "url": "https://36kr.com/p/3877043321237504"
-            },
-            {
-                "title": "硬氪首发 | 全尺寸全重量国内率先首飞，北航系全倾转eVTOL企业再获数千万融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-01",
-                "url": "https://36kr.com/p/3877039462150409"
-            },
-            {
                 "title": "王毅同美国国务卿鲁比奥通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-01",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "人民日报任仲平文章：把握历史主动 实现伟大复兴——写在中国共产党成立105周年之际 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-06-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkSGo5X1NheWtPdHJ1MlBGZ0ppZzdoNnJuTkUxdkp2cWVPT2h2NW5WTjMxVEdhR2JmNFdfNmdIalNIcHIyYUFWTEJPY2tWWjhnbHc?oc=5"
-            },
-            {
                 "title": "Aviation regiment conducts combat training - Bilingual - 中国军网（英文版） - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-01",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
+                "title": "甘肃省静宁县人武部开展红色主题党日活动 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qeWdoLW8tX2llbkFYb0lVY3p5VEp2NEw2UU1BbVloeDZpRFQtSDdSR1RwMGN5VG5jX040WlFXRmhOTzdXTU9mbENIalNMMThfQVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-02T13:52:13.487776+00:00"
+    "last_updated": "2026-07-02T19:19:28.321812+00:00"
 }
