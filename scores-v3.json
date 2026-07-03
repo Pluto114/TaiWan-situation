@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-02",
-                "url": "https://36kr.com/p/3877863381741577"
-            },
-            {
-                "title": "苹果供应链最严重的一次泄露 泄的不是新iPhone长什么样",
+                "title": "苹果据悉拟未来一年内推出至少5款iPhone新机型",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567560.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567618.htm"
             },
             {
-                "title": "三星押注量子计算与人工智能 加速光刻工艺追赶台积电",
+                "title": "PlayStation 新游将告别实体光盘，玩家炸锅、媒体“打脸”索尼、B 社借机“营销”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-02",
+                "url": "https://www.ithome.com/0/971/614.htm"
+            },
+            {
+                "title": "三星与SK海力士启动逾8700亿美元韩国超大晶圆厂与AI数据中心投资计划",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567554.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567614.htm"
             },
             {
-                "title": "中信证券：液冷产业进入订单与业绩兑现阶段，建议把握三条主线机会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 车色全释出：灵感 / 限定双系列，定位豪华科技全地形 SUV",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-02",
-                "url": "https://36kr.com/newsflashes/3877779458158599"
+                "url": "https://www.ithome.com/0/971/606.htm"
             },
             {
-                "title": "软银重启以OpenAI股权作抵押的百亿美元贷款谈判 向银行让步",
+                "title": "东航宣布宽体机航班上网全部免费",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567548.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567600.htm"
             }
         ],
         "mil": [
+            {
+                "title": "PlayStation 新游将告别实体光盘，玩家炸锅、媒体“打脸”索尼、B 社借机“营销”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-02",
+                "url": "https://www.ithome.com/0/971/614.htm"
+            },
+            {
+                "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-02",
+                "url": "https://36kr.com/p/3878131056701447"
+            },
             {
                 "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3877746956611847"
             },
             {
-                "title": "苹果寻求从长鑫与长江存储采购内存芯片 缓解全球缺货压力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567528.htm"
-            },
-            {
-                "title": "消息：俄罗斯最高层批准赴华秘密受训(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-01",
-                "url": "https://www.secretchina.com/news/gb/2026/07/02/1101423.html"
-            },
-            {
                 "title": "王毅同美国国务卿鲁比奥通电话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-01",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "郭嘉昆：中国共产党领导的社会主义中国愿同各国共同构建人类命运共同体 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-07-01",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV08tQXdKQ0dsb08yaG1lNERfcXFyZUFjQmZ0T1NNMldjakFEVmUwSVplYjZrRHFmUW1TSjBMZUt5T29JYndsb2VXRVdBVGFNdW4ta2kxQl9BdFBCM1RVb1NHYW1BNU5IWXZkUmhLVGZxZWZ3Ni1mb0JDQWFab0d6SURMc0VqdExkdXlRNzhBd3Y?oc=5"
             },
             {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
@@ -98,10 +98,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PcHo3Rm45TEZiUWJYRUcyUjRXUVlzcENfQlZmSEFLRUdDcTF2OUhwamtiekgwQjB2ZkhfM3VuSmhmWU5zOXBsMjMyTFA0bzA5VUE?oc=5"
             },
             {
-                "title": "Aviation regiment conducts combat training - Bilingual - 中国军网（英文版） - China Military Online",
+                "title": "一见·这位县委书记，总书记为何心中常念 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UUVJkcGJoalAtY0d3LUk4b3BxS1FIQVVBLU9YMTFCZXZ6cUdxZEJZNk1uLXNaUm5pMlVRT1BCVGFydFk4NXlINlpXYUdDS0NfTEpOcFR0OWlGVE1qTkE?oc=5"
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             },
             {
                 "title": "甘肃省静宁县人武部开展红色主题党日活动 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "特斯拉 Semi 电动卡车首次发生致命事故，追尾导致两人身亡",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/452.htm"
-            },
-            {
-                "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
+                "title": "享道被困16%的“高德税”",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-02",
-                "url": "https://36kr.com/p/3877863381741577"
+                "url": "https://36kr.com/p/3878254740549638"
             },
             {
-                "title": "消息称快手可灵 AI 将完成 30 亿美元融资：投后估值 180 亿美元，腾讯参投",
+                "title": "PlayStation 新游将告别实体光盘，玩家炸锅、媒体“打脸”索尼、B 社借机“营销”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/440.htm"
+                "url": "https://www.ithome.com/0/971/614.htm"
             },
             {
-                "title": "苹果供应链最严重的一次泄露 泄的不是新iPhone长什么样",
+                "title": "多数美国人支持禁止16岁以下未成年人使用社交媒体",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567560.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567612.htm"
             },
             {
-                "title": "阿里巴巴及其美国支付机构同意支付6亿美元了结美国非法药品销售调查",
+                "title": "博主实地探访法拉第未来厂房：早已人去楼空",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567550.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567602.htm"
+            },
+            {
+                "title": "美团内部全面限用豆包大模型 此前曾限用阿里云Qwen",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567598.htm"
             },
             {
                 "title": "王毅同美国国务卿鲁比奥通电话 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "郭嘉昆：中国共产党领导的社会主义中国愿同各国共同构建人类命运共同体 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-07-01",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV08tQXdKQ0dsb08yaG1lNERfcXFyZUFjQmZ0T1NNMldjakFEVmUwSVplYjZrRHFmUW1TSjBMZUt5T29JYndsb2VXRVdBVGFNdW4ta2kxQl9BdFBCM1RVb1NHYW1BNU5IWXZkUmhLVGZxZWZ3Ni1mb0JDQWFab0d6SURMc0VqdExkdXlRNzhBd3Y?oc=5"
             },
             {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
@@ -166,10 +166,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PcHo3Rm45TEZiUWJYRUcyUjRXUVlzcENfQlZmSEFLRUdDcTF2OUhwamtiekgwQjB2ZkhfM3VuSmhmWU5zOXBsMjMyTFA0bzA5VUE?oc=5"
             },
             {
-                "title": "Aviation regiment conducts combat training - Bilingual - 中国军网（英文版） - China Military Online",
+                "title": "一见·这位县委书记，总书记为何心中常念 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UUVJkcGJoalAtY0d3LUk4b3BxS1FIQVVBLU9YMTFCZXZ6cUdxZEJZNk1uLXNaUm5pMlVRT1BCVGFydFk4NXlINlpXYUdDS0NfTEpOcFR0OWlGVE1qTkE?oc=5"
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             },
             {
                 "title": "甘肃省静宁县人武部开展红色主题党日活动 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-03T02:40:05.460602+00:00"
+    "last_updated": "2026-07-03T08:57:21.667801+00:00"
 }
