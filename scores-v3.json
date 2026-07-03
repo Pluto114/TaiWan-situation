@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "苹果据悉拟未来一年内推出至少5款iPhone新机型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567618.htm"
-            },
-            {
-                "title": "PlayStation 新游将告别实体光盘，玩家炸锅、媒体“打脸”索尼、B 社借机“营销”",
+                "title": "王雪红：HTC 已成功转型为 AI、XR 内容平台，将于今年第三季度推出新 AI 应用内容",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/614.htm"
+                "url": "https://www.ithome.com/0/971/916.htm"
             },
             {
-                "title": "三星与SK海力士启动逾8700亿美元韩国超大晶圆厂与AI数据中心投资计划",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567614.htm"
-            },
-            {
-                "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 车色全释出：灵感 / 限定双系列，定位豪华科技全地形 SUV",
+                "title": "微软宣布斥资 25 亿美元成立新公司，助力企业落地人工智能技术",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/606.htm"
+                "url": "https://www.ithome.com/0/971/911.htm"
             },
             {
-                "title": "东航宣布宽体机航班上网全部免费",
+                "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-02",
+                "url": "https://36kr.com/p/3878522627518471"
+            },
+            {
+                "title": "微软Defender漏洞被证实与勒索软件攻击相关",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567600.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567648.htm"
+            },
+            {
+                "title": "亚马逊低轨卫星网络进入关键节点 有能力点亮“星链”对手",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567646.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国拟推翻1973年超音速客机内陆禁飞令 FAA启动噪声标准重写",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567622.htm"
+            },
             {
                 "title": "PlayStation 新游将告别实体光盘，玩家炸锅、媒体“打脸”索尼、B 社借机“营销”",
                 "source": "NewsAPI / Ithome.com",
@@ -68,30 +74,6 @@
                 "url": "https://36kr.com/p/3877112973733895"
             },
             {
-                "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-02",
-                "url": "https://36kr.com/p/3877746956611847"
-            },
-            {
-                "title": "王毅同美国国务卿鲁比奥通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BTUh0a1hBQ2U2RW1mSVk3MEE5WGdZcUZkN1JKblRtYWlmOGtOb0xSSlFUcmgwd2tSaHc2RHFNM0czdWFDRlQtZ0NYNFJ2NFZVRFYwQVhZMVBCby1PZGp2NzNGeS1paHQwdFMyUlVR?oc=5"
-            },
-            {
-                "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-02",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
-            },
-            {
-                "title": "郭嘉昆：中国共产党领导的社会主义中国愿同各国共同构建人类命运共同体 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV08tQXdKQ0dsb08yaG1lNERfcXFyZUFjQmZ0T1NNMldjakFEVmUwSVplYjZrRHFmUW1TSjBMZUt5T29JYndsb2VXRVdBVGFNdW4ta2kxQl9BdFBCM1RVb1NHYW1BNU5IWXZkUmhLVGZxZWZ3Ni1mb0JDQWFab0d6SURMc0VqdExkdXlRNzhBd3Y?oc=5"
-            },
-            {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-02",
@@ -104,60 +86,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             },
             {
-                "title": "甘肃省静宁县人武部开展红色主题党日活动 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qeWdoLW8tX2llbkFYb0lVY3p5VEp2NEw2UU1BbVloeDZpRFQtSDdSR1RwMGN5VG5jX040WlFXRmhOTzdXTU9mbENIalNMMThfQVE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "享道被困16%的“高德税”",
+                "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-02",
-                "url": "https://36kr.com/p/3878254740549638"
+                "url": "https://36kr.com/p/3878522627518471"
             },
             {
-                "title": "PlayStation 新游将告别实体光盘，玩家炸锅、媒体“打脸”索尼、B 社借机“营销”",
+                "title": "微软Defender漏洞被证实与勒索软件攻击相关",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567648.htm"
+            },
+            {
+                "title": "AI大厂，正在互相设防",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567628.htm"
+            },
+            {
+                "title": "何小鹏：小鹏 MONA M03 累计交付量突破 28 万台",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/614.htm"
+                "url": "https://www.ithome.com/0/971/880.htm"
             },
             {
-                "title": "多数美国人支持禁止16岁以下未成年人使用社交媒体",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "考虑出售杜卡迪、推动兰博基尼上市？大众集团回应",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567612.htm"
-            },
-            {
-                "title": "博主实地探访法拉第未来厂房：早已人去楼空",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567602.htm"
-            },
-            {
-                "title": "美团内部全面限用豆包大模型 此前曾限用阿里云Qwen",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567598.htm"
-            },
-            {
-                "title": "王毅同美国国务卿鲁比奥通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BTUh0a1hBQ2U2RW1mSVk3MEE5WGdZcUZkN1JKblRtYWlmOGtOb0xSSlFUcmgwd2tSaHc2RHFNM0czdWFDRlQtZ0NYNFJ2NFZVRFYwQVhZMVBCby1PZGp2NzNGeS1paHQwdFMyUlVR?oc=5"
-            },
-            {
-                "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-02",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
-            },
-            {
-                "title": "郭嘉昆：中国共产党领导的社会主义中国愿同各国共同构建人类命运共同体 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV08tQXdKQ0dsb08yaG1lNERfcXFyZUFjQmZ0T1NNMldjakFEVmUwSVplYjZrRHFmUW1TSjBMZUt5T29JYndsb2VXRVdBVGFNdW4ta2kxQl9BdFBCM1RVb1NHYW1BNU5IWXZkUmhLVGZxZWZ3Ni1mb0JDQWFab0d6SURMc0VqdExkdXlRNzhBd3Y?oc=5"
+                "url": "https://www.ithome.com/0/971/830.htm"
             },
             {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
@@ -172,13 +136,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             },
             {
-                "title": "甘肃省静宁县人武部开展红色主题党日活动 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qeWdoLW8tX2llbkFYb0lVY3p5VEp2NEw2UU1BbVloeDZpRFQtSDdSR1RwMGN5VG5jX040WlFXRmhOTzdXTU9mbENIalNMMThfQVE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-03T08:57:21.667801+00:00"
+    "last_updated": "2026-07-03T13:56:07.601653+00:00"
 }
