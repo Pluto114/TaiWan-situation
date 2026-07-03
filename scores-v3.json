@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "小鹏汽车：MONA L03 预售订单量打破小鹏所有车型同期小订纪录",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-02",
+                "url": "https://www.ithome.com/0/971/947.htm"
+            },
+            {
+                "title": "苹果降级即将发布的iPhone 18 Pro的1TB和2TB版本的NAND闪存",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567652.htm"
+            },
+            {
+                "title": "知情人士：Anthropic正与三星洽谈定制AI芯片代工合作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567650.htm"
+            },
+            {
+                "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-02",
+                "url": "https://36kr.com/p/3878550357946625"
+            },
+            {
                 "title": "王雪红：HTC 已成功转型为 AI、XR 内容平台，将于今年第三季度推出新 AI 应用内容",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-02",
                 "url": "https://www.ithome.com/0/971/916.htm"
-            },
-            {
-                "title": "微软宣布斥资 25 亿美元成立新公司，助力企业落地人工智能技术",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/911.htm"
-            },
-            {
-                "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-02",
-                "url": "https://36kr.com/p/3878522627518471"
-            },
-            {
-                "title": "微软Defender漏洞被证实与勒索软件攻击相关",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567648.htm"
-            },
-            {
-                "title": "亚马逊低轨卫星网络进入关键节点 有能力点亮“星链”对手",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567646.htm"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-02",
+                "url": "https://36kr.com/p/3878550357946625"
+            },
             {
                 "title": "美国拟推翻1973年超音速客机内陆禁飞令 FAA启动噪声标准重写",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,10 +74,22 @@
                 "url": "https://36kr.com/p/3877863381741577"
             },
             {
-                "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
-                "source": "NewsAPI / 36kr.com",
+                "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-02",
-                "url": "https://36kr.com/p/3877112973733895"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
+            },
+            {
+                "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5YlFPa0ljRm82Uy1WSHpzZ2V0STFqN0hOcXpPZHp3MW84SExnUHdCaUVXbEJvMlMxNHAzS3RtMmZxYnI5c3BDWmQ0clBrRk9vZEdNREdpLTg4dw?oc=5"
+            },
+            {
+                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVFZubjJZZXJFdUQ2UklqOG5weVktd1RlU05DY3lTSEQtMUxiNnZjR3IwVHd5djhoazBmc256V01WVXhCUlZnQi1NQ3dzRmV2MWQzazRTZVotUGJ5UDFSNm5hcw?oc=5"
             },
             {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
@@ -94,34 +112,52 @@
         ],
         "pol": [
             {
+                "title": "中共建党105年的国家恐怖主义末路狂奔(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-02",
+                "url": "https://www.secretchina.com/news/gb/2026/07/03/1101454.html"
+            },
+            {
+                "title": "苹果降级即将发布的iPhone 18 Pro的1TB和2TB版本的NAND闪存",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567652.htm"
+            },
+            {
+                "title": "知情人士：Anthropic正与三星洽谈定制AI芯片代工合作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567650.htm"
+            },
+            {
+                "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-02",
+                "url": "https://36kr.com/p/3878550357946625"
+            },
+            {
                 "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-02",
                 "url": "https://36kr.com/p/3878522627518471"
             },
             {
-                "title": "微软Defender漏洞被证实与勒索软件攻击相关",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567648.htm"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
             },
             {
-                "title": "AI大厂，正在互相设防",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567628.htm"
+                "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5YlFPa0ljRm82Uy1WSHpzZ2V0STFqN0hOcXpPZHp3MW84SExnUHdCaUVXbEJvMlMxNHAzS3RtMmZxYnI5c3BDWmQ0clBrRk9vZEdNREdpLTg4dw?oc=5"
             },
             {
-                "title": "何小鹏：小鹏 MONA M03 累计交付量突破 28 万台",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/880.htm"
-            },
-            {
-                "title": "考虑出售杜卡迪、推动兰博基尼上市？大众集团回应",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-02",
-                "url": "https://www.ithome.com/0/971/830.htm"
+                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVFZubjJZZXJFdUQ2UklqOG5weVktd1RlU05DY3lTSEQtMUxiNnZjR3IwVHd5djhoazBmc256V01WVXhCUlZnQi1NQ3dzRmV2MWQzazRTZVotUGJ5UDFSNm5hcw?oc=5"
             },
             {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
@@ -144,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-03T13:56:07.601653+00:00"
+    "last_updated": "2026-07-03T19:15:37.117057+00:00"
 }
