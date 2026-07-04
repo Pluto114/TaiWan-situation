@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "阿里巴巴内部宣布反向禁用Claude 全员卸载Anthropic相关产品",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567736.htm"
-            },
-            {
-                "title": "汪滔：Meta 下一代 AI 模型“西瓜”已追上 GPT-5.5",
+                "title": "索尼加速“去光盘化”：奥地利工厂 300 名员工转产微透镜",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/120.htm"
+                "url": "https://www.ithome.com/0/972/432.htm"
             },
             {
-                "title": "苹果 iPhone 18 Pro Max 电池首曝：5187mAh 容量，欣旺达生产",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/045.htm"
-            },
-            {
-                "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+                "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-03",
-                "url": "https://36kr.com/p/3877990989819909"
+                "url": "https://36kr.com/p/3879807100023040"
             },
             {
-                "title": "特朗普坚称其巨额加密货币收入“没有任何不妥”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567700.htm"
+                "url": "https://36kr.com/p/3879814941437956"
+            },
+            {
+                "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-03",
+                "url": "https://36kr.com/p/3879796756754694"
+            },
+            {
+                "title": "紫光同创发布国内首款自主产权亿门级高端 FPGA 产品，采用 FinFET 工艺",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-03",
+                "url": "https://www.ithome.com/0/972/407.htm"
             }
         ],
         "mil": [
+            {
+                "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-03",
+                "url": "https://36kr.com/p/3879807100023040"
+            },
+            {
+                "title": "《英雄联盟》2026 MSI 淘汰赛首日：G2 逆转 TES 创造正赛首个让二追三历史，HLE 横扫 TSW 晋级",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-03",
+                "url": "https://www.ithome.com/0/972/422.htm"
+            },
             {
                 "title": "阿里巴巴内部宣布反向禁用Claude 全员卸载Anthropic相关产品",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-03",
                 "url": "https://36kr.com/p/3879158039834629"
-            },
-            {
-                "title": "美国建国250周年 史密森尼博物馆表彰西班牙军事领袖",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-02",
-                "url": "https://www.voachinese.com/a/smithsonian-museum-honors-spanish-military-leader-ahead-of-america-s-250th-anniversary-20260702/8167354.html"
-            },
-            {
-                "title": "美太空军首度携手私营航天力量 商业宇航员或将执行军事轨道飞行任务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567678.htm"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "宣传宁德时代实装孚能：奔驰韩国 EQE 被指“偷换电池”，53 名车主集体维权",
+                "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-03",
+                "url": "https://36kr.com/p/3879807100023040"
+            },
+            {
+                "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-03",
+                "url": "https://36kr.com/p/3879814941437956"
+            },
+            {
+                "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-03",
+                "url": "https://36kr.com/p/3879796756754694"
+            },
+            {
+                "title": "2025 年诺贝尔化学奖得主奥马尔 · 亚吉全职加盟清华大学",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/324.htm"
+                "url": "https://www.ithome.com/0/972/362.htm"
             },
             {
-                "title": "阿里巴巴内部宣布反向禁用Claude 全员卸载Anthropic相关产品",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567736.htm"
-            },
-            {
-                "title": "何小鹏：小鹏 GX 本月产能将提升 10%，Q4 有望冲击细分市场销量前三",
+                "title": "乘联分会称 6 月全国乘用车市场零售 165.1 万辆同比下降 21%，世界杯成低迷原因之一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/136.htm"
-            },
-            {
-                "title": "从敌人到盟友 揭秘贝佐斯与特朗普关系转变",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567712.htm"
-            },
-            {
-                "title": "远景动力 46120 大圆柱电池规模化量产：供应宝马多款新世代车型，iX5 首搭",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/116.htm"
+                "url": "https://www.ithome.com/0/972/335.htm"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-04T08:32:11.378059+00:00"
+    "last_updated": "2026-07-04T13:17:38.122212+00:00"
 }
