@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "阿里巴巴内部宣布反向禁用Claude 全员卸载Anthropic相关产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567736.htm"
+            },
+            {
+                "title": "汪滔：Meta 下一代 AI 模型“西瓜”已追上 GPT-5.5",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-03",
+                "url": "https://www.ithome.com/0/972/120.htm"
+            },
+            {
+                "title": "苹果 iPhone 18 Pro Max 电池首曝：5187mAh 容量，欣旺达生产",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-03",
+                "url": "https://www.ithome.com/0/972/045.htm"
+            },
+            {
                 "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-03",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-03",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567700.htm"
-            },
-            {
-                "title": "索尼奥地利光盘工厂“转岗” 为微透镜业务做准备",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567698.htm"
-            },
-            {
-                "title": "何小鹏：期望 MONA L03 是小鹏全球销量最大的一款车，明年大部分国家和区域逐步开通 VLA",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/971/991.htm"
-            },
-            {
-                "title": "英飞凌启用全球最大功率半导体与模拟 / 混合信号芯片晶圆厂",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/971/983.htm"
             }
         ],
         "mil": [
+            {
+                "title": "阿里巴巴内部宣布反向禁用Claude 全员卸载Anthropic相关产品",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567736.htm"
+            },
+            {
+                "title": "从敌人到盟友 揭秘贝佐斯与特朗普关系转变",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567712.htm"
+            },
             {
                 "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
                 "source": "NewsAPI / 36kr.com",
@@ -62,24 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567678.htm"
             },
             {
-                "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-02",
-                "url": "https://36kr.com/p/3878550357946625"
-            },
-            {
-                "title": "美国拟推翻1973年超音速客机内陆禁飞令 FAA启动噪声标准重写",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567622.htm"
-            },
-            {
-                "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-02",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
-            },
-            {
                 "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-03",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVFZubjJZZXJFdUQ2UklqOG5weVktd1RlU05DY3lTSEQtMUxiNnZjR3IwVHd5djhoazBmc256V01WVXhCUlZnQi1NQ3dzRmV2MWQzazRTZVotUGJ5UDFSNm5hcw?oc=5"
             },
             {
+                "title": "外交部发言人介绍纳米比亚总统恩代特瓦访华有关安排和中方期待_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2pxaHpsbDE2T20xeHNIeHRWOG5HODlwZ04yWE1BY2xvdUpoNDhENTlSQXp5N1dqQ2dNQlhIYkEwVFI5N0R2OWRSZktMTEtKUTVqdnAtVFBaTUdIck1ZOURnVVdrWmdnNFBKS3lidTg0Rmw0UzlEVGtQcXY0bWo3MzMtTGRWQjgzbG1HQ0ZTSWY?oc=5"
+            },
+            {
                 "title": "强军论坛丨抓战备工作应细化“颗粒度” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRWhMd1JELWhQQklFYXlpM3c1TEVFOEtLMnBkVkI0enhFd2pQdHN0UzE5MjZrNjQ3Mm5CbVV6VEY5Yy1VcFJ6Um5uSnAxblpSVGc?oc=5"
             },
             {
+                "title": "人民日报评论员：优秀特质，中国共产党为什么能的关键密码——论学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX1Z3SkJzNS1rQ2RjX3lPdHBtV2M1Y1g1RGJxWkRGX01xTmJjc0FVWFVITFlhOTBneXNyeS1qSXRIeU9rZmNVQWx2eFZmTUludXc?oc=5"
+            },
+            {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PcHo3Rm45TEZiUWJYRUcyUjRXUVlzcENfQlZmSEFLRUdDcTF2OUhwamtiekgwQjB2ZkhfM3VuSmhmWU5zOXBsMjMyTFA0bzA5VUE?oc=5"
-            },
-            {
-                "title": "一见·这位县委书记，总书记为何心中常念 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-03",
-                "url": "https://36kr.com/p/3877990989819909"
-            },
-            {
-                "title": "特朗普坚称其巨额加密货币收入“没有任何不妥”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567700.htm"
-            },
-            {
-                "title": "曝特斯拉紧急限流 AI 开支：员工每周使用费封顶 200 美元，xAI 测试版除外",
+                "title": "宣传宁德时代实装孚能：奔驰韩国 EQE 被指“偷换电池”，53 名车主集体维权",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/001.htm"
+                "url": "https://www.ithome.com/0/972/324.htm"
             },
             {
-                "title": "何小鹏：期望 MONA L03 是小鹏全球销量最大的一款车，明年大部分国家和区域逐步开通 VLA",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/971/991.htm"
-            },
-            {
-                "title": "特斯拉交付超预期7.4万辆，股价却跌出一年最大跌幅",
+                "title": "阿里巴巴内部宣布反向禁用Claude 全员卸载Anthropic相关产品",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567694.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567736.htm"
             },
             {
-                "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-02",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJDbTBoM1ZNeW5DVGlselBUdERHXzV4elRQR2pqTkxXNHM4bzBwazdtS1U2RmZGRFM0UTdYMV9BZjFDUEJjTldtaVhDZmJxWGg2dV9hQm94Zm5MYWZaMTdHRm8yVUZWTUdUX2FKQnY0bVV4T1MxSjhldHJ4ZV9BcDFWTmk2cTlCbWc?oc=5"
+                "title": "何小鹏：小鹏 GX 本月产能将提升 10%，Q4 有望冲击细分市场销量前三",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-03",
+                "url": "https://www.ithome.com/0/972/136.htm"
+            },
+            {
+                "title": "从敌人到盟友 揭秘贝佐斯与特朗普关系转变",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567712.htm"
+            },
+            {
+                "title": "远景动力 46120 大圆柱电池规模化量产：供应宝马多款新世代车型，iX5 首搭",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-03",
+                "url": "https://www.ithome.com/0/972/116.htm"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVFZubjJZZXJFdUQ2UklqOG5weVktd1RlU05DY3lTSEQtMUxiNnZjR3IwVHd5djhoazBmc256V01WVXhCUlZnQi1NQ3dzRmV2MWQzazRTZVotUGJ5UDFSNm5hcw?oc=5"
             },
             {
+                "title": "外交部发言人介绍纳米比亚总统恩代特瓦访华有关安排和中方期待_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2pxaHpsbDE2T20xeHNIeHRWOG5HODlwZ04yWE1BY2xvdUpoNDhENTlSQXp5N1dqQ2dNQlhIYkEwVFI5N0R2OWRSZktMTEtKUTVqdnAtVFBaTUdIck1ZOURnVVdrWmdnNFBKS3lidTg0Rmw0UzlEVGtQcXY0bWo3MzMtTGRWQjgzbG1HQ0ZTSWY?oc=5"
+            },
+            {
                 "title": "强军论坛丨抓战备工作应细化“颗粒度” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRWhMd1JELWhQQklFYXlpM3c1TEVFOEtLMnBkVkI0enhFd2pQdHN0UzE5MjZrNjQ3Mm5CbVV6VEY5Yy1VcFJ6Um5uSnAxblpSVGc?oc=5"
             },
             {
+                "title": "人民日报评论员：优秀特质，中国共产党为什么能的关键密码——论学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX1Z3SkJzNS1rQ2RjX3lPdHBtV2M1Y1g1RGJxWkRGX01xTmJjc0FVWFVITFlhOTBneXNyeS1qSXRIeU9rZmNVQWx2eFZmTUludXc?oc=5"
+            },
+            {
                 "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PcHo3Rm45TEZiUWJYRUcyUjRXUVlzcENfQlZmSEFLRUdDcTF2OUhwamtiekgwQjB2ZkhfM3VuSmhmWU5zOXBsMjMyTFA0bzA5VUE?oc=5"
-            },
-            {
-                "title": "一见·这位县委书记，总书记为何心中常念 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-04T02:36:36.049579+00:00"
+    "last_updated": "2026-07-04T08:32:11.378059+00:00"
 }
