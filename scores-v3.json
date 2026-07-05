@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "Deepseek调价居然和电有关 算电协同到底是怎么个“协同”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567818.htm"
+            },
+            {
+                "title": "Linux 7.2-rc2 合入 RISC-V 关键调整：默认 CPU 核心数从 64 提升至 256",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-04",
+                "url": "https://www.ithome.com/0/972/623.htm"
+            },
+            {
                 "title": "乘联分会崔东树：1-5 月中国海外市场自主品牌汽车销量 196 万台，同比增长 60%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-04",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-07-04",
                 "url": "https://www.toodaylab.com/84104"
-            },
-            {
-                "title": "消息称微软 Xbox 旗下工作室下周迎来重大调整，多家工作室命运如何？",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-04",
-                "url": "https://www.ithome.com/0/972/557.htm"
-            },
-            {
-                "title": "iPhone 18 Pro泄密影响恶劣 印度政府机构调查塔塔",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567806.htm"
             }
         ],
         "mil": [
@@ -74,22 +74,22 @@
                 "url": "https://36kr.com/p/3879807100023040"
             },
             {
-                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVFZubjJZZXJFdUQ2UklqOG5weVktd1RlU05DY3lTSEQtMUxiNnZjR3IwVHd5djhoazBmc256V01WVXhCUlZnQi1NQ3dzRmV2MWQzazRTZVotUGJ5UDFSNm5hcw?oc=5"
+                "date": "2026-07-04",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GaDhmMUltQmhTT2RxTXozTlpIMFNSTzJBc205ak1XYW9QNzRrLV9PbUdjQlBnd1FWakdsWEpneWtTTFdJczEyRGF0ZHNLMlVLbUJyS082Q1RZcnJlOThTWUd4dnlxTG96UGFndW5R?oc=5"
             },
             {
-                "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
+                "title": "瑞典首相克里斯特松会见王毅 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5YlFPa0ljRm82Uy1WSHpzZ2V0STFqN0hOcXpPZHp3MW84SExnUHdCaUVXbEJvMlMxNHAzS3RtMmZxYnI5c3BDWmQ0clBrRk9vZEdNREdpLTg4dw?oc=5"
+                "date": "2026-07-04",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2N0ZWZ2a1dibVNqeWJYVnU0cEJUY0Y1ZTNIdmFOdXp2eEZRZnB4RmktYnRwaEduRW9xY1NrMjRjWDItU1BLM0d4Rm9VUjl5TWo2VmtoRktKZ0VrUGMxemwzbXVuejllQS1BTm9jc01YMW9FbXlObUM3NkVqRFpGWg?oc=5"
             },
             {
-                "title": "外交部发言人介绍纳米比亚总统恩代特瓦访华有关安排和中方期待_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2pxaHpsbDE2T20xeHNIeHRWOG5HODlwZ04yWE1BY2xvdUpoNDhENTlSQXp5N1dqQ2dNQlhIYkEwVFI5N0R2OWRSZktMTEtKUTVqdnAtVFBaTUdIck1ZOURnVVdrWmdnNFBKS3lidTg0Rmw0UzlEVGtQcXY0bWo3MzMtTGRWQjgzbG1HQ0ZTSWY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0NDRXJfbjVDTThZSEF5UEkyQzdQd0taRkk5aW5JYWlrejdXWTE3RUdQR3o0RnI2S0xTdlVtWFpLTW9fMnp1d0R1T3dNRmxJdlFmWFl6Zl9EYkgybkJJUzJmcnNETmR5NkgzMm1NMEo4dXI3SDFZRjBrRmFLeGFvVFZNdVlLbW80?oc=5"
             },
             {
                 "title": "强军论坛丨抓战备工作应细化“颗粒度” - 中国军网",
@@ -98,10 +98,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRWhMd1JELWhQQklFYXlpM3c1TEVFOEtLMnBkVkI0enhFd2pQdHN0UzE5MjZrNjQ3Mm5CbVV6VEY5Yy1VcFJ6Um5uSnAxblpSVGc?oc=5"
             },
             {
-                "title": "人民日报评论员：优秀特质，中国共产党为什么能的关键密码——论学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话 - 中国军网",
+                "title": "舰耀香江 寸心报国——海军舰艇编队面向港澳市民开放见闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX1Z3SkJzNS1rQ2RjX3lPdHBtV2M1Y1g1RGJxWkRGX01xTmJjc0FVWFVITFlhOTBneXNyeS1qSXRIeU9rZmNVQWx2eFZmTUludXc?oc=5"
+                "date": "2026-07-05",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
             },
             {
                 "title": "行动能力强大的大一统国家，中国持续增长的隐藏前提 - 中国军网",
@@ -111,6 +111,18 @@
             }
         ],
         "pol": [
+            {
+                "title": "Deepseek调价居然和电有关 算电协同到底是怎么个“协同”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567818.htm"
+            },
+            {
+                "title": "疑中国训练俄军 德外交部紧急约谈中国大使",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-04",
+                "url": "https://www.dw.com/zh/%E7%96%91%E4%B8%AD%E5%9B%BD%E8%AE%AD%E7%BB%83%E4%BF%84%E5%86%9B-%E5%BE%B7%E5%A4%96%E4%BA%A4%E9%83%A8%E7%B4%A7%E6%80%A5%E7%BA%A6%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF/a-77831099"
+            },
             {
                 "title": "台湾外交部将设驻凤凰城办事处 深化台美伙伴关系(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -130,34 +142,22 @@
                 "url": "https://www.ithome.com/0/972/515.htm"
             },
             {
-                "title": "阿里 Qoder 企业版全球发布：支持 Credits 资源池化计费、灵活订阅管理",
-                "source": "NewsAPI / Ithome.com",
+                "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-04",
-                "url": "https://www.ithome.com/0/972/491.htm"
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GaDhmMUltQmhTT2RxTXozTlpIMFNSTzJBc205ak1XYW9QNzRrLV9PbUdjQlBnd1FWakdsWEpneWtTTFdJczEyRGF0ZHNLMlVLbUJyS082Q1RZcnJlOThTWUd4dnlxTG96UGFndW5R?oc=5"
             },
             {
-                "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-                "source": "NewsAPI / 36kr.com",
+                "title": "瑞典首相克里斯特松会见王毅 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-04",
-                "url": "https://36kr.com/p/3880629882679301"
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2N0ZWZ2a1dibVNqeWJYVnU0cEJUY0Y1ZTNIdmFOdXp2eEZRZnB4RmktYnRwaEduRW9xY1NrMjRjWDItU1BLM0d4Rm9VUjl5TWo2VmtoRktKZ0VrUGMxemwzbXVuejllQS1BTm9jc01YMW9FbXlObUM3NkVqRFpGWg?oc=5"
             },
             {
-                "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺 - 中华人民共和国国防部",
+                "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HVFZubjJZZXJFdUQ2UklqOG5weVktd1RlU05DY3lTSEQtMUxiNnZjR3IwVHd5djhoazBmc256V01WVXhCUlZnQi1NQ3dzRmV2MWQzazRTZVotUGJ5UDFSNm5hcw?oc=5"
-            },
-            {
-                "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5YlFPa0ljRm82Uy1WSHpzZ2V0STFqN0hOcXpPZHp3MW84SExnUHdCaUVXbEJvMlMxNHAzS3RtMmZxYnI5c3BDWmQ0clBrRk9vZEdNREdpLTg4dw?oc=5"
-            },
-            {
-                "title": "外交部发言人介绍纳米比亚总统恩代特瓦访华有关安排和中方期待_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2pxaHpsbDE2T20xeHNIeHRWOG5HODlwZ04yWE1BY2xvdUpoNDhENTlSQXp5N1dqQ2dNQlhIYkEwVFI5N0R2OWRSZktMTEtKUTVqdnAtVFBaTUdIck1ZOURnVVdrWmdnNFBKS3lidTg0Rmw0UzlEVGtQcXY0bWo3MzMtTGRWQjgzbG1HQ0ZTSWY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0NDRXJfbjVDTThZSEF5UEkyQzdQd0taRkk5aW5JYWlrejdXWTE3RUdQR3o0RnI2S0xTdlVtWFpLTW9fMnp1d0R1T3dNRmxJdlFmWFl6Zl9EYkgybkJJUzJmcnNETmR5NkgzMm1NMEo4dXI3SDFZRjBrRmFLeGFvVFZNdVlLbW80?oc=5"
             },
             {
                 "title": "强军论坛丨抓战备工作应细化“颗粒度” - 中国军网",
@@ -166,10 +166,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRWhMd1JELWhQQklFYXlpM3c1TEVFOEtLMnBkVkI0enhFd2pQdHN0UzE5MjZrNjQ3Mm5CbVV6VEY5Yy1VcFJ6Um5uSnAxblpSVGc?oc=5"
             },
             {
-                "title": "人民日报评论员：优秀特质，中国共产党为什么能的关键密码——论学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话 - 中国军网",
+                "title": "舰耀香江 寸心报国——海军舰艇编队面向港澳市民开放见闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX1Z3SkJzNS1rQ2RjX3lPdHBtV2M1Y1g1RGJxWkRGX01xTmJjc0FVWFVITFlhOTBneXNyeS1qSXRIeU9rZmNVQWx2eFZmTUludXc?oc=5"
+                "date": "2026-07-05",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
             },
             {
                 "title": "行动能力强大的大一统国家，中国持续增长的隐藏前提 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-05T08:48:03.052547+00:00"
+    "last_updated": "2026-07-05T13:24:15.733683+00:00"
 }
