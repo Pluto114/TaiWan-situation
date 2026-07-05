@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "千元手机明年或许买不到了",
+                "title": "三季度专项债发行或加码",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-04",
+                "url": "https://36kr.com/newsflashes/3880650844221446"
+            },
+            {
+                "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-04",
+                "url": "https://36kr.com/p/3880629882679301"
+            },
+            {
+                "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-04",
+                "url": "https://36kr.com/p/3879991356157952"
+            },
+            {
+                "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567752.htm"
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567792.htm"
             },
             {
-                "title": "三星拿下Meta巨额ASIC订单 积压订单冲刺50万亿韩元",
+                "title": "英特尔代工苹果A20处理器传闻被否定 可信爆料者痛批原始消息源为“吹牛”",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567748.htm"
-            },
-            {
-                "title": "特斯拉第二季度交付量超预期 股价逆势大跌7.49%创一年来最大单日跌幅",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567740.htm"
-            },
-            {
-                "title": "市场监管总局发布多项宇航领域国家标准：明确星箭接口设计，为我国大规模低轨星座建设提供支撑",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/442.htm"
-            },
-            {
-                "title": "索尼加速“去光盘化”：奥地利工厂 300 名员工转产微透镜",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/432.htm"
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567782.htm"
             }
         ],
         "mil": [
+            {
+                "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-04",
+                "url": "https://36kr.com/p/3880629882679301"
+            },
+            {
+                "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567792.htm"
+            },
+            {
+                "title": "美国两党国会议员购买SpaceX股票交易记录首度曝光",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567784.htm"
+            },
+            {
+                "title": "美国之音中文广播 (2026年7月4日)",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-03",
+                "url": "https://www.voachinese.com/a/8162907.html"
+            },
             {
                 "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
                 "source": "NewsAPI / 36kr.com",
@@ -50,30 +74,6 @@
                 "url": "https://36kr.com/p/3879807100023040"
             },
             {
-                "title": "《英雄联盟》2026 MSI 淘汰赛首日：G2 逆转 TES 创造正赛首个让二追三历史，HLE 横扫 TSW 晋级",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/422.htm"
-            },
-            {
-                "title": "阿里巴巴内部宣布反向禁用Claude 全员卸载Anthropic相关产品",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567736.htm"
-            },
-            {
-                "title": "从敌人到盟友 揭秘贝佐斯与特朗普关系转变",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567712.htm"
-            },
-            {
-                "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-03",
-                "url": "https://36kr.com/p/3879158039834629"
-            },
-            {
                 "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-03",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX1Z3SkJzNS1rQ2RjX3lPdHBtV2M1Y1g1RGJxWkRGX01xTmJjc0FVWFVITFlhOTBneXNyeS1qSXRIeU9rZmNVQWx2eFZmTUludXc?oc=5"
             },
             {
-                "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
+                "title": "一见·这位县委书记，总书记为何心中常念 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PcHo3Rm45TEZiUWJYRUcyUjRXUVlzcENfQlZmSEFLRUdDcTF2OUhwamtiekgwQjB2ZkhfM3VuSmhmWU5zOXBsMjMyTFA0bzA5VUE?oc=5"
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "卢比奥国务卿同中国外长王毅通话强调建立公平对等关系",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-03",
-                "url": "https://www.voachinese.com/a/rubio-stresses-fair-reciprocal-ties-in-call-with-china-s-wang-yi-20260703/8167672.html"
-            },
-            {
-                "title": "明年起部分新能源车将被征收车船税",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567746.htm"
-            },
-            {
-                "title": "特斯拉第二季度交付量超预期 股价逆势大跌7.49%创一年来最大单日跌幅",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567740.htm"
-            },
-            {
-                "title": "美方警告：俄罗斯或对波兰发动“试探性打击”测试北约反应(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-03",
-                "url": "https://www.secretchina.com/news/gb/2026/07/03/1101507.html"
-            },
-            {
-                "title": "市场监管总局发布多项宇航领域国家标准：明确星箭接口设计，为我国大规模低轨星座建设提供支撑",
+                "title": "阿里 Qoder 企业版全球发布：支持 Credits 资源池化计费、灵活订阅管理",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-03",
-                "url": "https://www.ithome.com/0/972/442.htm"
+                "date": "2026-07-04",
+                "url": "https://www.ithome.com/0/972/491.htm"
+            },
+            {
+                "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-04",
+                "url": "https://36kr.com/p/3880629882679301"
+            },
+            {
+                "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-04",
+                "url": "https://36kr.com/p/3879991356157952"
+            },
+            {
+                "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567792.htm"
+            },
+            {
+                "title": "美国两党国会议员购买SpaceX股票交易记录首度曝光",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567784.htm"
             },
             {
                 "title": "中央军委举行晋升上将军衔仪式 - 中华人民共和国国防部",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX1Z3SkJzNS1rQ2RjX3lPdHBtV2M1Y1g1RGJxWkRGX01xTmJjc0FVWFVITFlhOTBneXNyeS1qSXRIeU9rZmNVQWx2eFZmTUludXc?oc=5"
             },
             {
-                "title": "胶东大地，多了一头以雷为啸、威震敌胆的“山野猛虎” - 中国军网",
+                "title": "一见·这位县委书记，总书记为何心中常念 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PcHo3Rm45TEZiUWJYRUcyUjRXUVlzcENfQlZmSEFLRUdDcTF2OUhwamtiekgwQjB2ZkhfM3VuSmhmWU5zOXBsMjMyTFA0bzA5VUE?oc=5"
+                "date": "2026-07-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uODVZandidGFwMS1iSFFhbjdRWk1Qc2xwT3hpVGszY3Roc2lJMi1BdkVXcTFGaWY5bmZZdVVhLWktb2NYTTM0VUVaZUdwUTFud1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-04T19:06:13.479788+00:00"
+    "last_updated": "2026-07-05T02:47:00.498896+00:00"
 }
