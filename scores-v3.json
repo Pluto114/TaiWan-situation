@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "菜鸟国内供应链业务并入阿里电商",
+                "title": "匈牙利变天 中国电池企业遭遇环保急刹车",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567912.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567920.htm"
             },
             {
-                "title": "数字欧元：既抵御美国式动荡，又避免中国式监管",
+                "title": "平均车龄仅1.8年 新能源车主换车为啥这么勤快",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567918.htm"
+            },
+            {
+                "title": "解码中国：“贸易再平衡”行动",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-07-05",
-                "url": "https://www.dw.com/zh/%E6%95%B0%E5%AD%97%E6%AC%A7%E5%85%83%E6%97%A2%E6%8A%B5%E5%BE%A1%E7%BE%8E%E5%9B%BD%E5%BC%8F%E5%8A%A8%E8%8D%A1%E5%8F%88%E9%81%BF%E5%85%8D%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%9B%91%E7%AE%A1/a-77787405"
+                "url": "https://www.dw.com/zh/%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E5%86%8D%E5%B9%B3%E8%A1%A1%E8%A1%8C%E5%8A%A8/a-77836878"
             },
             {
-                "title": "苹果采购国产内存不太容易 向三星等施压谈判才是真",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "解码中国：“贸易再平衡”行动",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567906.htm"
+                "url": "https://www.dw.com/zh/%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E5%86%8D%E5%B9%B3%E8%A1%A1%E8%A1%8C%E5%8A%A8/a-77836878"
             },
             {
-                "title": "全国百强汽车经销商内部通知曝光：亏损板块7月经理级以上全部0工资",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "解码中国：中欧“贸易再平衡”行动",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567904.htm"
-            },
-            {
-                "title": "印度政府对Telegram下达15天整改通知 要求对盗版频道采取行动",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567898.htm"
+                "url": "https://www.dw.com/zh/%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E4%B8%AD%E6%AC%A7%E8%B4%B8%E6%98%93%E5%86%8D%E5%B9%B3%E8%A1%A1%E8%A1%8C%E5%8A%A8/a-77836878"
             }
         ],
         "mil": [
+            {
+                "title": "清华大学火神队卫冕机器人足球世界杯 RoboCup 2026 Large 组冠军",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-05",
+                "url": "https://www.ithome.com/0/972/836.htm"
+            },
             {
                 "title": "日本从废旧空调中提取稀土材料",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/3882364132077577"
             },
             {
-                "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-05",
-                "url": "https://36kr.com/p/3882361033322755"
-            },
-            {
                 "title": "中俄“海上联合-2026”联合演习兵力集结完毕 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-05",
@@ -98,19 +98,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYMl9udkJtNzBWd2d3RjZoZjNlQXlLZFFLNUdCV1hrMVNQUHhxX2Y0VVd4c2hYRUNJcHR6NHdTS2JRcnRoSTA3WDBFdmFNWjZMMnV3TmN2ZndHUQ?oc=5"
             },
             {
+                "title": "Air force troops conduct long-endurance flight training - Bilingual - 中国军网（英文版） - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRHVrZzkxdS1QbHZkZ19OSXI2cW5zYXhMSjZyS0EycEpEVFhUNEM2YXZZa0cxa3pZbDcwTW8tNWhrczZ6M1dRY0xGUk5Kb3dxeG1xeHZTLUVNaDFmTkE?oc=5"
+            },
+            {
                 "title": "“从根本上改变了中国人民的前途命运”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之一 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSC1UQ0p0TDlpeGNRVGZ5WmZCallvd1RCVEdFeF9acmloWmlSbjVUTEtSY2NTYVIxQ0tDVWp3a3l0MTVMbkhPWjBfRUpZRE1JQmc?oc=5"
-            },
-            {
-                "title": "舰耀香江 寸心报国——海军舰艇编队面向港澳市民开放见闻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-05",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-05",
+                "url": "https://www.ithome.com/0/972/859.htm"
+            },
+            {
+                "title": "匈牙利变天 中国电池企业遭遇环保急刹车",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567920.htm"
+            },
             {
                 "title": "菜鸟国内供应链业务并入阿里电商",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -130,18 +142,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567898.htm"
             },
             {
-                "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-05",
-                "url": "https://36kr.com/p/3882365879005186"
-            },
-            {
-                "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-05",
-                "url": "https://36kr.com/p/3882364132077577"
-            },
-            {
                 "title": "中俄“海上联合-2026”联合演习兵力集结完毕 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-05",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYMl9udkJtNzBWd2d3RjZoZjNlQXlLZFFLNUdCV1hrMVNQUHhxX2Y0VVd4c2hYRUNJcHR6NHdTS2JRcnRoSTA3WDBFdmFNWjZMMnV3TmN2ZndHUQ?oc=5"
             },
             {
+                "title": "Air force troops conduct long-endurance flight training - Bilingual - 中国军网（英文版） - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRHVrZzkxdS1QbHZkZ19OSXI2cW5zYXhMSjZyS0EycEpEVFhUNEM2YXZZa0cxa3pZbDcwTW8tNWhrczZ6M1dRY0xGUk5Kb3dxeG1xeHZTLUVNaDFmTkE?oc=5"
+            },
+            {
                 "title": "“从根本上改变了中国人民的前途命运”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之一 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSC1UQ0p0TDlpeGNRVGZ5WmZCallvd1RCVEdFeF9acmloWmlSbjVUTEtSY2NTYVIxQ0tDVWp3a3l0MTVMbkhPWjBfRUpZRE1JQmc?oc=5"
-            },
-            {
-                "title": "舰耀香江 寸心报国——海军舰艇编队面向港澳市民开放见闻 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-05",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-06T10:12:27.983446+00:00"
+    "last_updated": "2026-07-06T15:24:40.569407+00:00"
 }
