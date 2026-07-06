@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Deepseek调价居然和电有关 算电协同到底是怎么个“协同”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567818.htm"
-            },
-            {
-                "title": "Linux 7.2-rc2 合入 RISC-V 关键调整：默认 CPU 核心数从 64 提升至 256",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-04",
-                "url": "https://www.ithome.com/0/972/623.htm"
-            },
-            {
-                "title": "乘联分会崔东树：1-5 月中国海外市场自主品牌汽车销量 196 万台，同比增长 60%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-04",
-                "url": "https://www.ithome.com/0/972/598.htm"
-            },
-            {
-                "title": "业内首个AI-eSIM产业协同平台成立",
+                "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-04",
-                "url": "https://36kr.com/newsflashes/3880945005228038"
+                "date": "2026-07-05",
+                "url": "https://36kr.com/newsflashes/3882063262068998"
             },
             {
-                "title": "时隔近 50 年，鬼冢虎即将重新开启独立运营，但它并没有和 ASICS 分家",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-07-04",
-                "url": "https://www.toodaylab.com/84104"
+                "title": "俄罗斯缺油加剧 民众抢购中国电动车",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567868.htm"
+            },
+            {
+                "title": "苹果A20 Pro或采用96位LPDDR6 内存 打破13年传统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567864.htm"
+            },
+            {
+                "title": "美国三座微型核反应堆先后实现临界 数据中心密切关注潜在供电新方案",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567860.htm"
+            },
+            {
+                "title": "联想美国在售笔记本用上长江存储SSD",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567840.htm"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 0705：史上最大苹果 iPhone 18 Pro Max 电池首曝；宇树科技陈立称关节电机核心技术全部自研；华为“韬定律”V2 版本发布；三星 DRAM 拟涨价 20%...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-04",
+                "url": "https://www.ithome.com/0/972/684.htm"
+            },
             {
                 "title": "有动作有剧情，今年上半年看的新剧里，有这 6 部可以推荐给大家",
                 "source": "NewsAPI / Toodaylab.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1567784.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年7月4日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-03",
-                "url": "https://www.voachinese.com/a/8162907.html"
-            },
-            {
                 "title": "中俄两军将举行“海上联合-2026”联合演习和海上联合巡航 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-05",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSC1UQ0p0TDlpeGNRVGZ5WmZCallvd1RCVEdFeF9acmloWmlSbjVUTEtSY2NTYVIxQ0tDVWp3a3l0MTVMbkhPWjBfRUpZRE1JQmc?oc=5"
             },
             {
-                "title": "强军论坛丨抓战备工作应细化“颗粒度” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRWhMd1JELWhQQklFYXlpM3c1TEVFOEtLMnBkVkI0enhFd2pQdHN0UzE5MjZrNjQ3Mm5CbVV6VEY5Yy1VcFJ6Um5uSnAxblpSVGc?oc=5"
-            },
-            {
                 "title": "舰耀香江 寸心报国——海军舰艇编队面向港澳市民开放见闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-05",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "有动作有剧情，今年上半年看的新剧里，有这 6 部可以推荐给大家",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-07-04",
-                "url": "https://www.toodaylab.com/84105"
+                "title": "氢内燃机成燃料电池低成本替代方案，川崎重工、丰田布局多元氢能装备",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-05",
+                "url": "https://www.ithome.com/0/972/702.htm"
             },
             {
-                "title": "Deepseek调价居然和电有关 算电协同到底是怎么个“协同”？",
+                "title": "美国能源部被曝已删除约6000个与能源节约相关的网页",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567818.htm"
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567866.htm"
             },
             {
-                "title": "疑中国训练俄军 德外交部紧急约谈中国大使",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-04",
-                "url": "https://www.dw.com/zh/%E7%96%91%E4%B8%AD%E5%9B%BD%E8%AE%AD%E7%BB%83%E4%BF%84%E5%86%9B-%E5%BE%B7%E5%A4%96%E4%BA%A4%E9%83%A8%E7%B4%A7%E6%80%A5%E7%BA%A6%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF/a-77831099"
-            },
-            {
-                "title": "台湾外交部将设驻凤凰城办事处 深化台美伙伴关系(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-04",
-                "url": "https://www.secretchina.com/news/gb/2026/07/04/1101532.html"
-            },
-            {
-                "title": "iPhone 18 Pro泄密影响恶劣 印度政府机构调查塔塔",
+                "title": "美国三座微型核反应堆先后实现临界 数据中心密切关注潜在供电新方案",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567806.htm"
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567860.htm"
+            },
+            {
+                "title": "Google新广告整活 设想开国先贤用AI重写《独立宣言》",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567858.htm"
+            },
+            {
+                "title": "世界杯推动预测市场交易量飙升至历史新高",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567838.htm"
             },
             {
                 "title": "中俄两军将举行“海上联合-2026”联合演习和海上联合巡航 - 中华人民共和国国防部",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSC1UQ0p0TDlpeGNRVGZ5WmZCallvd1RCVEdFeF9acmloWmlSbjVUTEtSY2NTYVIxQ0tDVWp3a3l0MTVMbkhPWjBfRUpZRE1JQmc?oc=5"
             },
             {
-                "title": "强军论坛丨抓战备工作应细化“颗粒度” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRWhMd1JELWhQQklFYXlpM3c1TEVFOEtLMnBkVkI0enhFd2pQdHN0UzE5MjZrNjQ3Mm5CbVV6VEY5Yy1VcFJ6Um5uSnAxblpSVGc?oc=5"
-            },
-            {
                 "title": "舰耀香江 寸心报国——海军舰艇编队面向港澳市民开放见闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-05",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
+            },
+            {
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-05T19:12:25.214275+00:00"
+    "last_updated": "2026-07-06T02:53:35.892965+00:00"
 }
