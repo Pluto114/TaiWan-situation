@@ -12,66 +12,78 @@
     "news_sources": {
         "econ": [
             {
-                "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-05",
-                "url": "https://36kr.com/newsflashes/3882063262068998"
-            },
-            {
-                "title": "俄罗斯缺油加剧 民众抢购中国电动车",
+                "title": "菜鸟国内供应链业务并入阿里电商",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567868.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567912.htm"
             },
             {
-                "title": "苹果A20 Pro或采用96位LPDDR6 内存 打破13年传统",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "数字欧元：既抵御美国式动荡，又避免中国式监管",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567864.htm"
+                "url": "https://www.dw.com/zh/%E6%95%B0%E5%AD%97%E6%AC%A7%E5%85%83%E6%97%A2%E6%8A%B5%E5%BE%A1%E7%BE%8E%E5%9B%BD%E5%BC%8F%E5%8A%A8%E8%8D%A1%E5%8F%88%E9%81%BF%E5%85%8D%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%9B%91%E7%AE%A1/a-77787405"
             },
             {
-                "title": "美国三座微型核反应堆先后实现临界 数据中心密切关注潜在供电新方案",
+                "title": "苹果采购国产内存不太容易 向三星等施压谈判才是真",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567860.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567906.htm"
             },
             {
-                "title": "联想美国在售笔记本用上长江存储SSD",
+                "title": "全国百强汽车经销商内部通知曝光：亏损板块7月经理级以上全部0工资",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567840.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567904.htm"
+            },
+            {
+                "title": "印度政府对Telegram下达15天整改通知 要求对盗版频道采取行动",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567898.htm"
             }
         ],
         "mil": [
             {
-                "title": "IT早报 0705：史上最大苹果 iPhone 18 Pro Max 电池首曝；宇树科技陈立称关节电机核心技术全部自研；华为“韬定律”V2 版本发布；三星 DRAM 拟涨价 20%...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-04",
-                "url": "https://www.ithome.com/0/972/684.htm"
+                "title": "日本从废旧空调中提取稀土材料",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567910.htm"
             },
             {
-                "title": "有动作有剧情，今年上半年看的新剧里，有这 6 部可以推荐给大家",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-07-04",
-                "url": "https://www.toodaylab.com/84105"
+                "title": "全国百强汽车经销商内部通知曝光：亏损板块7月经理级以上全部0工资",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567904.htm"
             },
             {
-                "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+                "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-04",
-                "url": "https://36kr.com/p/3880629882679301"
+                "date": "2026-07-05",
+                "url": "https://36kr.com/p/3882365879005186"
             },
             {
-                "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567792.htm"
+                "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-05",
+                "url": "https://36kr.com/p/3882364132077577"
             },
             {
-                "title": "美国两党国会议员购买SpaceX股票交易记录首度曝光",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567784.htm"
+                "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-05",
+                "url": "https://36kr.com/p/3882361033322755"
+            },
+            {
+                "title": "中俄“海上联合-2026”联合演习兵力集结完毕 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-05",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ndXM0Ny1QeEZUUU9lSEpQZV9OOWVQUE40eUtjWFhGZnRYYktSOGpSZExQSkZNd212NmdzY0E5Z0F6WUNyTnlvTTNMMGNINWlidFp1OXhxSWk?oc=5"
+            },
+            {
+                "title": "中国海军成功组织潜射战略导弹试射 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5USFFKTmRtVlFNaWczYU1GTDNIQWlRbDdpSUtWYlRmV2dsb0ZrdzFzcEo4aXM2NXdya2JFY1cxUzNEZUxHdDMtaHNFc3JYZzZrZGpzU1A4S1Y?oc=5"
             },
             {
                 "title": "中俄两军将举行“海上联合-2026”联合演习和海上联合巡航 - 中华人民共和国国防部",
@@ -80,16 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56M1VkR2h4aEx2RnI1Tm1SWEs1cnNYeVV1bVhDODMyTTkwY2NSeXV0ZG1MOTZ3a3ZsRV9jUUFsUm5aUnZmNVh2VzQzT2hXYVBKdDVCNVh4c1M?oc=5"
             },
             {
-                "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-04",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GaDhmMUltQmhTT2RxTXozTlpIMFNSTzJBc205ak1XYW9QNzRrLV9PbUdjQlBnd1FWakdsWEpneWtTTFdJczEyRGF0ZHNLMlVLbUJyS082Q1RZcnJlOThTWUd4dnlxTG96UGFndW5R?oc=5"
-            },
-            {
-                "title": "瑞典首相克里斯特松会见王毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-04",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2N0ZWZ2a1dibVNqeWJYVnU0cEJUY0Y1ZTNIdmFOdXp2eEZRZnB4RmktYnRwaEduRW9xY1NrMjRjWDItU1BLM0d4Rm9VUjl5TWo2VmtoRktKZ0VrUGMxemwzbXVuejllQS1BTm9jc01YMW9FbXlObUM3NkVqRFpGWg?oc=5"
+                "title": "公示联勤保障部队2025年专业技能类文职人员公开招考第一批拟录用对象名单——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYMl9udkJtNzBWd2d3RjZoZjNlQXlLZFFLNUdCV1hrMVNQUHhxX2Y0VVd4c2hYRUNJcHR6NHdTS2JRcnRoSTA3WDBFdmFNWjZMMnV3TmN2ZndHUQ?oc=5"
             },
             {
                 "title": "“从根本上改变了中国人民的前途命运”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之一 - 中国军网",
@@ -102,44 +108,50 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-05",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "氢内燃机成燃料电池低成本替代方案，川崎重工、丰田布局多元氢能装备",
+                "title": "菜鸟国内供应链业务并入阿里电商",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567912.htm"
+            },
+            {
+                "title": "苹果 iPhone 17 Pro Max 手机被封入“美国建国 250 周年纪念时间胶囊”，计划 2276 年开启待后人查看",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-05",
-                "url": "https://www.ithome.com/0/972/702.htm"
+                "url": "https://www.ithome.com/0/972/770.htm"
             },
             {
-                "title": "美国能源部被曝已删除约6000个与能源节约相关的网页",
+                "title": "印度政府对Telegram下达15天整改通知 要求对盗版频道采取行动",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567866.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1567898.htm"
             },
             {
-                "title": "美国三座微型核反应堆先后实现临界 数据中心密切关注潜在供电新方案",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567860.htm"
+                "url": "https://36kr.com/p/3882365879005186"
             },
             {
-                "title": "Google新广告整活 设想开国先贤用AI重写《独立宣言》",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567858.htm"
+                "url": "https://36kr.com/p/3882364132077577"
             },
             {
-                "title": "世界杯推动预测市场交易量飙升至历史新高",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中俄“海上联合-2026”联合演习兵力集结完毕 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567838.htm"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ndXM0Ny1QeEZUUU9lSEpQZV9OOWVQUE40eUtjWFhGZnRYYktSOGpSZExQSkZNd212NmdzY0E5Z0F6WUNyTnlvTTNMMGNINWlidFp1OXhxSWk?oc=5"
+            },
+            {
+                "title": "中国海军成功组织潜射战略导弹试射 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5USFFKTmRtVlFNaWczYU1GTDNIQWlRbDdpSUtWYlRmV2dsb0ZrdzFzcEo4aXM2NXdya2JFY1cxUzNEZUxHdDMtaHNFc3JYZzZrZGpzU1A4S1Y?oc=5"
             },
             {
                 "title": "中俄两军将举行“海上联合-2026”联合演习和海上联合巡航 - 中华人民共和国国防部",
@@ -148,16 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56M1VkR2h4aEx2RnI1Tm1SWEs1cnNYeVV1bVhDODMyTTkwY2NSeXV0ZG1MOTZ3a3ZsRV9jUUFsUm5aUnZmNVh2VzQzT2hXYVBKdDVCNVh4c1M?oc=5"
             },
             {
-                "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-04",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GaDhmMUltQmhTT2RxTXozTlpIMFNSTzJBc205ak1XYW9QNzRrLV9PbUdjQlBnd1FWakdsWEpneWtTTFdJczEyRGF0ZHNLMlVLbUJyS082Q1RZcnJlOThTWUd4dnlxTG96UGFndW5R?oc=5"
-            },
-            {
-                "title": "瑞典首相克里斯特松会见王毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-04",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2N0ZWZ2a1dibVNqeWJYVnU0cEJUY0Y1ZTNIdmFOdXp2eEZRZnB4RmktYnRwaEduRW9xY1NrMjRjWDItU1BLM0d4Rm9VUjl5TWo2VmtoRktKZ0VrUGMxemwzbXVuejllQS1BTm9jc01YMW9FbXlObUM3NkVqRFpGWg?oc=5"
+                "title": "公示联勤保障部队2025年专业技能类文职人员公开招考第一批拟录用对象名单——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYMl9udkJtNzBWd2d3RjZoZjNlQXlLZFFLNUdCV1hrMVNQUHhxX2Y0VVd4c2hYRUNJcHR6NHdTS2JRcnRoSTA3WDBFdmFNWjZMMnV3TmN2ZndHUQ?oc=5"
             },
             {
                 "title": "“从根本上改变了中国人民的前途命运”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之一 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-05",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByVU9ueW1BZWNLVUhwSFllWm9sWGw5c1ppY1Z4MFZCY3l6ZzBSQ19DOGxEWHFTSjdiRGVCaEVGak0zX2dmUWFDNjlqMy0?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-06T02:53:35.892965+00:00"
+    "last_updated": "2026-07-06T10:12:27.983446+00:00"
 }
