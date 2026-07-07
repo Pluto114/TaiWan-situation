@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-06",
-                "url": "https://36kr.com/p/3883591654895873"
-            },
-            {
-                "title": "消息称保时捷考虑在德国再裁员 4000 人",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-06",
-                "url": "https://www.ithome.com/0/973/086.htm"
-            },
-            {
-                "title": "消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-06",
-                "url": "https://www.ithome.com/0/973/049.htm"
-            },
-            {
-                "title": "iPhone Ultra本月开始大规模量产 供应链急招工人：月薪7500元包吃住",
+                "title": "韩国SK海力士拟在美募资逾280亿美元 借全球AI浪潮加速扩张",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568002.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568046.htm"
             },
             {
-                "title": "美国科技巨头态度突变：AI“吞噬就业”论调为何降温？",
+                "title": "微软宣布裁员4800人 Xbox与商业销售部门大受影响",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568000.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568044.htm"
+            },
+            {
+                "title": "一位工程师自行为MacBook Pro升级8TB存储 但代价高昂过程坎坷",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568042.htm"
+            },
+            {
+                "title": "苹果与博通将芯片供应合作延长至2031年",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568032.htm"
+            },
+            {
+                "title": "最新认证文件已提前泄露iPhone 18 Pro与Pro Max的电池容量",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568030.htm"
             }
         ],
         "mil": [
+            {
+                "title": "战火蔓延至民用设施 现代战争正模糊企业与国家安全边界",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568028.htm"
+            },
+            {
+                "title": "微软 Xbox 业务计划裁员 3200 人，剥离至少 4 个游戏工作室",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-06",
+                "url": "https://www.ithome.com/0/973/279.htm"
+            },
             {
                 "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
                 "source": "NewsAPI / 36kr.com",
@@ -62,16 +74,10 @@
                 "url": "https://36kr.com/p/3883456791163138"
             },
             {
-                "title": "字节跳动与阿里巴巴暂停拟人化AI代理功能 应对新规落地",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1567948.htm"
-            },
-            {
-                "title": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-06",
-                "url": "https://36kr.com/p/3883400536453381"
+                "title": "王毅同挪威外交大臣艾德会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-07",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MEpUdERfMVlaMm5rUExCZXZ3QUpnYmZJbDFIbUxMR05NeGk5QTBOcU9RNGZLU0QtbEtOUDNGYUpGekRFY1J6STRhNjB4OXBKOHg2OVJIaXFPQmQxTDdKblZWdVptWWV1bVhfYVF3?oc=5"
             },
             {
                 "title": "中国海军成功组织潜射战略导弹试射 - 中华人民共和国国防部",
@@ -86,31 +92,43 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGZnWTRDcUdTVHdyXzFVWXR2NWl6UVZMcnhhLWk1NmZoTWd5bzJVRHhGdnppZ2FOODFmMk1jRzNMY1FBanJ3d1E4cGotZTNMX3FoZXZaNE80aTN1Y2ZOV0tfeHJVS2w1aGt2Slh3cWV1T2o0UGlLb3dOdnVqdjhYOGt1eWJNYThiZFpsRVRnY3M?oc=5"
             },
             {
-                "title": "李 谦 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTZMYzk4Z3VJb0tZSlQzUVp3dTBXbFJ3Z0dsWkJSSi10NEJLTFlxUjRqSjNqVFZWUEp6MFNQN1hIeGhsQmVMZEo0ZnRsMmJSMDJacm03QXZyWWFGcGw3bUlHWHVYLUtyQ0RUc012WTNEdlN5MzhDTFlMV0F0ZnowazBudGU0OTN1S0gxSWJB?oc=5"
-            },
-            {
-                "title": "公示联勤保障部队2025年专业技能类文职人员公开招考第一批拟录用对象名单——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYMl9udkJtNzBWd2d3RjZoZjNlQXlLZFFLNUdCV1hrMVNQUHhxX2Y0VVd4c2hYRUNJcHR6NHdTS2JRcnRoSTA3WDBFdmFNWjZMMnV3TmN2ZndHUQ?oc=5"
-            },
-            {
                 "title": "Air force troops conduct long-endurance flight training - Bilingual - 中国军网（英文版） - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-06",
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRHVrZzkxdS1QbHZkZ19OSXI2cW5zYXhMSjZyS0EycEpEVFhUNEM2YXZZa0cxa3pZbDcwTW8tNWhrczZ6M1dRY0xGUk5Kb3dxeG1xeHZTLUVNaDFmTkE?oc=5"
             },
             {
-                "title": "“从根本上改变了中国人民的前途命运”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之一 - 中国军网",
+                "title": "第一观察 | 深刻领悟“基层是党的执政之基、力量之源” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSC1UQ0p0TDlpeGNRVGZ5WmZCallvd1RCVEdFeF9acmloWmlSbjVUTEtSY2NTYVIxQ0tDVWp3a3l0MTVMbkhPWjBfRUpZRE1JQmc?oc=5"
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EVDlfdXkyS2Q5ZFFJS3RWOThVQUpwd0VtOE5iSF9aU2tkVThuUWxxanFvLXZUREJrblNkei1rTURtSl8zUGo0eG9Ba3ZQaXNFUUE?oc=5"
+            },
+            {
+                "title": "高压氧疗面面观 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJMkZ1dUZLMmtsR3Q4c0lnMExaRWhTNG1HbndjTW9POGV1eEU3T2lyV0dkRzFsbGt2QWxPQWE4aUZKS0RWd09nS0lyWTFaYlRCRUE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "韩国SK海力士拟在美募资逾280亿美元 借全球AI浪潮加速扩张",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568046.htm"
+            },
+            {
+                "title": "战火蔓延至民用设施 现代战争正模糊企业与国家安全边界",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568028.htm"
+            },
+            {
+                "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-06",
+                "url": "https://36kr.com/p/3884024701874183"
+            },
             {
                 "title": "【袁红冰热点】习近平中共105讲话尽显习极度焦虑和亢奋叠加状态(视频)",
                 "source": "NewsAPI / Secretchina.com",
@@ -124,22 +142,10 @@
                 "url": "https://36kr.com/p/3883591654895873"
             },
             {
-                "title": "“铜锣湾书店”店长林荣基病逝 无国界记者促瑞典救桂民海(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-06",
-                "url": "https://www.secretchina.com/news/gb/2026/07/06/1101611.html"
-            },
-            {
-                "title": "消息称保时捷考虑在德国再裁员 4000 人",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-06",
-                "url": "https://www.ithome.com/0/973/086.htm"
-            },
-            {
-                "title": "Instagram出现涉儿童虐待相关广告 引发印度政府强烈不满",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568008.htm"
+                "title": "王毅同挪威外交大臣艾德会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-07",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MEpUdERfMVlaMm5rUExCZXZ3QUpnYmZJbDFIbUxMR05NeGk5QTBOcU9RNGZLU0QtbEtOUDNGYUpGekRFY1J6STRhNjB4OXBKOHg2OVJIaXFPQmQxTDdKblZWdVptWWV1bVhfYVF3?oc=5"
             },
             {
                 "title": "中国海军成功组织潜射战略导弹试射 - 中华人民共和国国防部",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGZnWTRDcUdTVHdyXzFVWXR2NWl6UVZMcnhhLWk1NmZoTWd5bzJVRHhGdnppZ2FOODFmMk1jRzNMY1FBanJ3d1E4cGotZTNMX3FoZXZaNE80aTN1Y2ZOV0tfeHJVS2w1aGt2Slh3cWV1T2o0UGlLb3dOdnVqdjhYOGt1eWJNYThiZFpsRVRnY3M?oc=5"
             },
             {
-                "title": "李 谦 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTZMYzk4Z3VJb0tZSlQzUVp3dTBXbFJ3Z0dsWkJSSi10NEJLTFlxUjRqSjNqVFZWUEp6MFNQN1hIeGhsQmVMZEo0ZnRsMmJSMDJacm03QXZyWWFGcGw3bUlHWHVYLUtyQ0RUc012WTNEdlN5MzhDTFlMV0F0ZnowazBudGU0OTN1S0gxSWJB?oc=5"
-            },
-            {
-                "title": "公示联勤保障部队2025年专业技能类文职人员公开招考第一批拟录用对象名单——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYMl9udkJtNzBWd2d3RjZoZjNlQXlLZFFLNUdCV1hrMVNQUHhxX2Y0VVd4c2hYRUNJcHR6NHdTS2JRcnRoSTA3WDBFdmFNWjZMMnV3TmN2ZndHUQ?oc=5"
-            },
-            {
                 "title": "Air force troops conduct long-endurance flight training - Bilingual - 中国军网（英文版） - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-06",
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRHVrZzkxdS1QbHZkZ19OSXI2cW5zYXhMSjZyS0EycEpEVFhUNEM2YXZZa0cxa3pZbDcwTW8tNWhrczZ6M1dRY0xGUk5Kb3dxeG1xeHZTLUVNaDFmTkE?oc=5"
             },
             {
-                "title": "“从根本上改变了中国人民的前途命运”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之一 - 中国军网",
+                "title": "第一观察 | 深刻领悟“基层是党的执政之基、力量之源” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSC1UQ0p0TDlpeGNRVGZ5WmZCallvd1RCVEdFeF9acmloWmlSbjVUTEtSY2NTYVIxQ0tDVWp3a3l0MTVMbkhPWjBfRUpZRE1JQmc?oc=5"
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EVDlfdXkyS2Q5ZFFJS3RWOThVQUpwd0VtOE5iSF9aU2tkVThuUWxxanFvLXZUREJrblNkei1rTURtSl8zUGo0eG9Ba3ZQaXNFUUE?oc=5"
+            },
+            {
+                "title": "高压氧疗面面观 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJMkZ1dUZLMmtsR3Q4c0lnMExaRWhTNG1HbndjTW9POGV1eEU3T2lyV0dkRzFsbGt2QWxPQWE4aUZKS0RWd09nS0lyWTFaYlRCRUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-07T09:35:23.284014+00:00"
+    "last_updated": "2026-07-07T14:25:18.218346+00:00"
 }
