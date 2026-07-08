@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国返校购物提前 家庭精打细算抢折扣(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-06",
-                "url": "https://www.secretchina.com/news/gb/2026/07/07/1101631.html"
+                "title": "英特尔为追赶台积电三星被曝拟推 14A“魔改”工艺 14A2，引入“双面供电”技术应对 21nm M0 互连挑战",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-07",
+                "url": "https://www.ithome.com/0/973/348.htm"
             },
             {
-                "title": "澳大利亚与斐济签署共同防御条约",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-06",
-                "url": "https://www.voachinese.com/a/australia-and-fiji-signed-a-mutual-defense-treaty-20260706/8168654.html"
+                "title": "国内量产装车首款，比亚迪半导体 BMS AFE 芯片出货破亿颗",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-07",
+                "url": "https://www.ithome.com/0/973/345.htm"
             },
             {
-                "title": "韩国内存市场再现涨价潮：三星DDR4价格一月内飙升19% 涨幅超DDR5",
+                "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-07",
+                "url": "https://36kr.com/p/3884289424437511"
+            },
+            {
+                "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-07",
+                "url": "https://36kr.com/p/3884831072514309"
+            },
+            {
+                "title": "别担心被AI抢饭碗了 老板算完账可能发现你更划算",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568066.htm"
-            },
-            {
-                "title": "英特尔拟推双面供电14A Gen2工艺 迎战台积电与三星1.4纳米攻势",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568062.htm"
-            },
-            {
-                "title": "电动汽车电池行驶数十万英里后 性能超出预期",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568060.htm"
+                "date": "2026-07-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568112.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-07",
+                "url": "https://36kr.com/p/3884831072514309"
+            },
+            {
+                "title": "Z世代迷上老式胶片摄影 拒绝被P图算法摆布",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568102.htm"
+            },
             {
                 "title": "战火蔓延至民用设施 现代战争正模糊企业与国家安全边界",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-06",
                 "url": "https://36kr.com/p/3883591654895873"
-            },
-            {
-                "title": "上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-06",
-                "url": "https://36kr.com/p/3883708118921480"
-            },
-            {
-                "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-06",
-                "url": "https://36kr.com/p/3883456791163138"
             },
             {
                 "title": "王毅同挪威外交大臣艾德会谈 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "时间胶囊封存 iPhone 17 Pro Max 2276年再开启",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568074.htm"
-            },
-            {
-                "title": "国产独立生存建造游戏《By My Side》登陆 Steam：国区售价 59 元，带忠犬荒野求生",
+                "title": "小米 MiMo-V2.5-ASR 全链路语音模型听觉基座上线，定价 0.5 元 / 小时",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-06",
-                "url": "https://www.ithome.com/0/973/281.htm"
+                "date": "2026-07-07",
+                "url": "https://www.ithome.com/0/973/369.htm"
             },
             {
-                "title": "电动汽车电池行驶数十万英里后 性能超出预期",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568060.htm"
+                "title": "Anthropic 与 TeraWulf 签署 20 年数据中心租赁长约，总价值 190 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-07",
+                "url": "https://www.ithome.com/0/973/347.htm"
             },
             {
-                "title": "韩国SK海力士拟在美募资逾280亿美元 借全球AI浪潮加速扩张",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568046.htm"
+                "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-07",
+                "url": "https://36kr.com/p/3884289424437511"
             },
             {
-                "title": "战火蔓延至民用设施 现代战争正模糊企业与国家安全边界",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568028.htm"
+                "title": "一副墨镜骗过特斯拉：加拿大女子开 FSD 百公里时速睡正酣，车后座还有两个孩子",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-07",
+                "url": "https://www.ithome.com/0/973/333.htm"
+            },
+            {
+                "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-07",
+                "url": "https://36kr.com/p/3884831072514309"
             },
             {
                 "title": "王毅同挪威外交大臣艾德会谈 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-07T19:50:22.708942+00:00"
+    "last_updated": "2026-07-08T02:25:38.338045+00:00"
 }
