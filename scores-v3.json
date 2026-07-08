@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英特尔为追赶台积电三星被曝拟推 14A“魔改”工艺 14A2，引入“双面供电”技术应对 21nm M0 互连挑战",
+                "title": "消息称美机构采用 Anthropic Mythos 模型对政府软件开展安全审计，已排查出大量安全漏洞",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-07",
-                "url": "https://www.ithome.com/0/973/348.htm"
+                "url": "https://www.ithome.com/0/973/600.htm"
             },
             {
-                "title": "国内量产装车首款，比亚迪半导体 BMS AFE 芯片出货破亿颗",
+                "title": "揭秘字节 Seedance：中国第一台大模型印钞机启动了 | 深氪",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-07",
+                "url": "https://36kr.com/p/3885177884078083"
+            },
+            {
+                "title": "曝某厂子系 7 英寸 2K 直屏 + 天玑 9 芯片新机暂定 1 月前后登场，预计是小米 REDMI Turbo 6 Max",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-07",
-                "url": "https://www.ithome.com/0/973/345.htm"
+                "url": "https://www.ithome.com/0/973/556.htm"
             },
             {
-                "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-07",
-                "url": "https://36kr.com/p/3884289424437511"
-            },
-            {
-                "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-07",
-                "url": "https://36kr.com/p/3884831072514309"
-            },
-            {
-                "title": "别担心被AI抢饭碗了 老板算完账可能发现你更划算",
+                "title": "Meta称四州索赔高达1.4万亿美元 美国青少年安全案将于8月开审",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568112.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568158.htm"
+            },
+            {
+                "title": "Counterpoint：618 期间中国智能手机销量同比下滑 13%，华为成唯一增长品牌",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-07",
+                "url": "https://www.ithome.com/0/973/490.htm"
             }
         ],
         "mil": [
+            {
+                "title": "揭秘字节 Seedance：中国第一台大模型印钞机启动了 | 深氪",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-07",
+                "url": "https://36kr.com/p/3885177884078083"
+            },
             {
                 "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
                 "source": "NewsAPI / 36kr.com",
@@ -68,28 +74,22 @@
                 "url": "https://www.ithome.com/0/973/279.htm"
             },
             {
-                "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-06",
-                "url": "https://36kr.com/p/3883591654895873"
-            },
-            {
                 "title": "王毅同挪威外交大臣艾德会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-07",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MEpUdERfMVlaMm5rUExCZXZ3QUpnYmZJbDFIbUxMR05NeGk5QTBOcU9RNGZLU0QtbEtOUDNGYUpGekRFY1J6STRhNjB4OXBKOHg2OVJIaXFPQmQxTDdKblZWdVptWWV1bVhfYVF3?oc=5"
             },
             {
+                "title": "2026年7月7日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-07",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40a25hOFJHcWhvYXpOYU5lYVNJZHlOaEt0TjRENEUtSHo4dDE2ZDFhdEdrSVBtV1YwcEpPM0ZjSmlwMW9xN2JFYm01R3ZDdzVCSkhnR1NvcGF6bG1jeEJ1YjNwamVVdl9mYnhxd25SX3g5ZlcyVFE?oc=5"
+            },
+            {
                 "title": "2026年7月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-06",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTlONlgtSTdwRlNTRS00TTkxWDZGbjA5bGJfR2tVa0xoak5IN3hOTktfb3JBRTlsZ1lWR1Q1Z0ZOSUx1OUdzM3J6NXNJNkdoT1MtaEZqR3hWeERxQk1ZdFJOWFNDOVZLNlNQMFlqRS1velhhRzFZbDY5TTd3QTBSUmxrd1R0eFBWOE9v?oc=5"
-            },
-            {
-                "title": "中国海军成功组织潜射战略导弹试射 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5USFFKTmRtVlFNaWczYU1GTDNIQWlRbDdpSUtWYlRmV2dsb0ZrdzFzcEo4aXM2NXdya2JFY1cxUzNEZUxHdDMtaHNFc3JYZzZrZGpzU1A4S1Y?oc=5"
             },
             {
                 "title": "Air force troops conduct long-endurance flight training - Bilingual - 中国军网（英文版） - China Military Online",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "小米 MiMo-V2.5-ASR 全链路语音模型听觉基座上线，定价 0.5 元 / 小时",
+                "title": "消息称美机构采用 Anthropic Mythos 模型对政府软件开展安全审计，已排查出大量安全漏洞",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-07",
-                "url": "https://www.ithome.com/0/973/369.htm"
+                "url": "https://www.ithome.com/0/973/600.htm"
             },
             {
-                "title": "Anthropic 与 TeraWulf 签署 20 年数据中心租赁长约，总价值 190 亿美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-07",
-                "url": "https://www.ithome.com/0/973/347.htm"
-            },
-            {
-                "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+                "title": "揭秘字节 Seedance：中国第一台大模型印钞机启动了 | 深氪",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-07",
-                "url": "https://36kr.com/p/3884289424437511"
+                "url": "https://36kr.com/p/3885177884078083"
             },
             {
-                "title": "一副墨镜骗过特斯拉：加拿大女子开 FSD 百公里时速睡正酣，车后座还有两个孩子",
+                "title": "报告揭露澳大利亚青少年社交媒体禁令漏洞：年龄核验第一步就失效，禁令形同虚设",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-07",
-                "url": "https://www.ithome.com/0/973/333.htm"
+                "url": "https://www.ithome.com/0/973/572.htm"
             },
             {
-                "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+                "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-07",
-                "url": "https://36kr.com/p/3884831072514309"
+                "url": "https://36kr.com/p/3885061350617350"
+            },
+            {
+                "title": "Meta称四州索赔高达1.4万亿美元 美国青少年安全案将于8月开审",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568158.htm"
             },
             {
                 "title": "王毅同挪威外交大臣艾德会谈 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MEpUdERfMVlaMm5rUExCZXZ3QUpnYmZJbDFIbUxMR05NeGk5QTBOcU9RNGZLU0QtbEtOUDNGYUpGekRFY1J6STRhNjB4OXBKOHg2OVJIaXFPQmQxTDdKblZWdVptWWV1bVhfYVF3?oc=5"
             },
             {
+                "title": "2026年7月7日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-07",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40a25hOFJHcWhvYXpOYU5lYVNJZHlOaEt0TjRENEUtSHo4dDE2ZDFhdEdrSVBtV1YwcEpPM0ZjSmlwMW9xN2JFYm01R3ZDdzVCSkhnR1NvcGF6bG1jeEJ1YjNwamVVdl9mYnhxd25SX3g5ZlcyVFE?oc=5"
+            },
+            {
                 "title": "2026年7月6日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-06",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTlONlgtSTdwRlNTRS00TTkxWDZGbjA5bGJfR2tVa0xoak5IN3hOTktfb3JBRTlsZ1lWR1Q1Z0ZOSUx1OUdzM3J6NXNJNkdoT1MtaEZqR3hWeERxQk1ZdFJOWFNDOVZLNlNQMFlqRS1velhhRzFZbDY5TTd3QTBSUmxrd1R0eFBWOE9v?oc=5"
-            },
-            {
-                "title": "中国海军成功组织潜射战略导弹试射 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5USFFKTmRtVlFNaWczYU1GTDNIQWlRbDdpSUtWYlRmV2dsb0ZrdzFzcEo4aXM2NXdya2JFY1cxUzNEZUxHdDMtaHNFc3JYZzZrZGpzU1A4S1Y?oc=5"
             },
             {
                 "title": "Air force troops conduct long-endurance flight training - Bilingual - 中国军网（英文版） - China Military Online",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-08T02:25:38.338045+00:00"
+    "last_updated": "2026-07-08T08:22:15.585492+00:00"
 }
