@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "路透：从制造基地到科技前沿 中国成西方车企创新引擎",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568266.htm"
-            },
-            {
-                "title": "主播自制家用 RISC-V GPU：环形布局、8192 核心、2161W 功耗",
+                "title": "小米 REDMI Note 17 Pro 新配色「晴空蓝」外观公布：细腻渐变 + 微雾质感，7 月 14 日发布",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/973/871.htm"
+                "url": "https://www.ithome.com/0/974/160.htm"
             },
             {
-                "title": "保时捷首度公开薪酬：近 4 成员工年入超 10 万欧元，前 CEO 奥博穆 190 万欧元",
+                "title": "AI 芯片竞合并存：NVIDIA 牵手 d-Matrix 打造混合算力基础设施",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/973/859.htm"
+                "url": "https://www.ithome.com/0/974/122.htm"
             },
             {
-                "title": "安森美将出售两座芯片制造工厂，分别位于菲律宾和美国",
+                "title": "20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/973/856.htm"
+                "url": "https://www.ithome.com/0/974/115.htm"
             },
             {
-                "title": "小米 REDMI Note 17 系列手机发布定档 7 月 14 日，外观正式公开",
+                "title": "乘联分会：6 月全国乘用车市场零售 160.2 万辆，同比下降 23.2%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/973/851.htm"
+                "url": "https://www.ithome.com/0/974/105.htm"
+            },
+            {
+                "title": "地产AI进入落地战，深度智联又甩出一张牌",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-08",
+                "url": "https://36kr.com/p/3886709249241349"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-08",
+                "url": "https://36kr.com/p/3886678879727880"
+            },
+            {
+                "title": "租界是耻辱吗？被中共教科书掩盖的七个真相(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-08",
+                "url": "https://www.secretchina.com/news/gb/2026/07/08/1101695.html"
+            },
             {
                 "title": "中共潜射洲际导弹引国际反弹 美日澳菲齐声谴责(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3886238403129353"
             },
             {
-                "title": "IT早报 0708：华为回应乾崑智驾断网后数据仍滚动上涨；曝 Deepseek 正自研 AI 芯片；小米增程车上市节奏曝光；微软 Win11 26H2 七大升级前瞻...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-07",
-                "url": "https://www.ithome.com/0/973/824.htm"
-            },
-            {
-                "title": "前西安市委书记方红卫被双开 爆涉习家族利益(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-07",
-                "url": "https://www.secretchina.com/news/gb/2026/07/08/1101692.html"
-            },
-            {
                 "title": "2026年7月7日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-07",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40a25hOFJHcWhvYXpOYU5lYVNJZHlOaEt0TjRENEUtSHo4dDE2ZDFhdEdrSVBtV1YwcEpPM0ZjSmlwMW9xN2JFYm01R3ZDdzVCSkhnR1NvcGF6bG1jeEJ1YjNwamVVdl9mYnhxd25SX3g5ZlcyVFE?oc=5"
             },
             {
+                "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-08",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
+            },
+            {
                 "title": "外交部发言人介绍王毅外长访问北欧四国情况_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-07",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVJIU01fNGRkLXZTNEQzRnVjV3lSdVlnakd1aE82M0lVb3Jja2VBWlZ2TDR0MWZGb3FCcUw5ZHQ1dmNyU1lUaFFxS0gyd2NlV09mNEFCTnRjMFBsMFFLMU1kT1BuUDZXeE16UUtSUXNWWDVWaUo2dmpWNS00aG9Ia0lwNnlBUGJkb2Iw?oc=5"
-            },
-            {
-                "title": "驻坦桑尼亚大使陈明健出席侨界举办的庆祝中国共产党成立105周年歌咏汇演 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnEtaE13ZTB0eUF5MGljOFR2YUt0X3pWV2VGU1AxSm5FMk9QcnQ2b0hfNHJTaXBkdHdyaUd5TGFKdS10aGhEWW8zUUlRSVF5M0Z4cmt1M2ZsQ3g0WVhtTUpDT0RwMmVFeGpmdTFiNWh0UlVISU1CUEF6NVYxYjVLLWRBMDM?oc=5"
             },
             {
                 "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQkJ6UkhaanJBcmVwTkVWTW94VEJpay0xMmdHbXU0Mld6V1BzNHhVV2hfSnBGeWp5VTBYVTZ0cW54TmZoZElFQUdYcEt5bXdjaWc?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "牢记初心使命 奋进复兴征程｜河北唐山：多元产业夯实万亿城市根基 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-07-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zSVM2Wi00M25QRFFVcmdWdVlxVVltUFVQc1FjeWsweDFyYkxpYjlhYVgyM2VmMnlJYk9GX21FMHMxQkNRcXBaNWhVM1dmaTNEcEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "前华为天才少年李博杰吐槽 DeepSeek 面试后遭投资人“反怼”：被指拿钱失联，称其为“最没契约精神的创始人”",
+                "title": "OpenAI 招聘投资银行专家，年薪最高 20.5 万美元外加股权",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/973/883.htm"
+                "url": "https://www.ithome.com/0/974/152.htm"
             },
             {
-                "title": "索尼官宣 PS 光盘停产后：CEO 十时裕树减持 56.5% 持股套现 473 万美元，CSO 亦套现 52 万美元",
+                "title": "地产AI进入落地战，深度智联又甩出一张牌",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-08",
+                "url": "https://36kr.com/p/3886709249241349"
+            },
+            {
+                "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-08",
+                "url": "https://36kr.com/p/3886678879727880"
+            },
+            {
+                "title": "工信部发布风险提示：Claude Code 存在安全后门，可能泄露用户敏感信息",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/973/874.htm"
+                "url": "https://www.ithome.com/0/974/001.htm"
             },
             {
-                "title": "腾讯企鹅岛遭遇暴雨 打工人调侃在电梯见到水帘洞",
+                "title": "深圳理工大学拟逐步取消大学英语必修课设置",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568270.htm"
-            },
-            {
-                "title": "路透：从制造基地到科技前沿 中国成西方车企创新引擎",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568266.htm"
-            },
-            {
-                "title": "保时捷首度公开薪酬：近 4 成员工年入超 10 万欧元，前 CEO 奥博穆 190 万欧元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/973/859.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568276.htm"
             },
             {
                 "title": "2026年7月7日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40a25hOFJHcWhvYXpOYU5lYVNJZHlOaEt0TjRENEUtSHo4dDE2ZDFhdEdrSVBtV1YwcEpPM0ZjSmlwMW9xN2JFYm01R3ZDdzVCSkhnR1NvcGF6bG1jeEJ1YjNwamVVdl9mYnhxd25SX3g5ZlcyVFE?oc=5"
             },
             {
+                "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-08",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
+            },
+            {
                 "title": "外交部发言人介绍王毅外长访问北欧四国情况_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-07",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVJIU01fNGRkLXZTNEQzRnVjV3lSdVlnakd1aE82M0lVb3Jja2VBWlZ2TDR0MWZGb3FCcUw5ZHQ1dmNyU1lUaFFxS0gyd2NlV09mNEFCTnRjMFBsMFFLMU1kT1BuUDZXeE16UUtSUXNWWDVWaUo2dmpWNS00aG9Ia0lwNnlBUGJkb2Iw?oc=5"
-            },
-            {
-                "title": "驻坦桑尼亚大使陈明健出席侨界举办的庆祝中国共产党成立105周年歌咏汇演 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnEtaE13ZTB0eUF5MGljOFR2YUt0X3pWV2VGU1AxSm5FMk9QcnQ2b0hfNHJTaXBkdHdyaUd5TGFKdS10aGhEWW8zUUlRSVF5M0Z4cmt1M2ZsQ3g0WVhtTUpDT0RwMmVFeGpmdTFiNWh0UlVISU1CUEF6NVYxYjVLLWRBMDM?oc=5"
             },
             {
                 "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQkJ6UkhaanJBcmVwTkVWTW94VEJpay0xMmdHbXU0Mld6V1BzNHhVV2hfSnBGeWp5VTBYVTZ0cW54TmZoZElFQUdYcEt5bXdjaWc?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "牢记初心使命 奋进复兴征程｜河北唐山：多元产业夯实万亿城市根基 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-07-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zSVM2Wi00M25QRFFVcmdWdVlxVVltUFVQc1FjeWsweDFyYkxpYjlhYVgyM2VmMnlJYk9GX21FMHMxQkNRcXBaNWhVM1dmaTNEcEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-09T02:40:01.607155+00:00"
+    "last_updated": "2026-07-09T09:32:59.233446+00:00"
 }
