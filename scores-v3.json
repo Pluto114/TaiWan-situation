@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米 REDMI Note 17 Pro 新配色「晴空蓝」外观公布：细腻渐变 + 微雾质感，7 月 14 日发布",
+                "title": "大疆推出 DJI AP100 无人机降落伞：适配 Matrice 400，售价 7488 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/974/160.htm"
+                "url": "https://www.ithome.com/0/974/259.htm"
             },
             {
-                "title": "AI 芯片竞合并存：NVIDIA 牵手 d-Matrix 打造混合算力基础设施",
-                "source": "NewsAPI / Ithome.com",
+                "title": "全球400美元以下智能手机将大幅萎缩 全年出货量预计下滑22%",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/974/122.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568342.htm"
             },
             {
-                "title": "20+ 构型泛化、多自由度支持，蚂蚁灵波开源新一代具身基座模型 LingBot-VLA 2.0",
-                "source": "NewsAPI / Ithome.com",
+                "title": "研究：美国若对中国造船舶征收港口费 德国可能受益",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/974/115.htm"
+                "url": "https://www.dw.com/zh/%E7%A0%94%E7%A9%B6%E7%BE%8E%E5%9B%BD%E8%8B%A5%E5%AF%B9%E4%B8%AD%E5%9B%BD%E9%80%A0%E8%88%B9%E8%88%B6%E5%BE%81%E6%94%B6%E6%B8%AF%E5%8F%A3%E8%B4%B9-%E5%BE%B7%E5%9B%BD%E5%8F%AF%E8%83%BD%E5%8F%97%E7%9B%8A/a-77878816"
             },
             {
-                "title": "乘联分会：6 月全国乘用车市场零售 160.2 万辆，同比下降 23.2%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "硬件玩家自制GPU 用6.4万颗 RISC-V芯片拼出一块显卡",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/974/105.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568340.htm"
             },
             {
-                "title": "地产AI进入落地战，深度智联又甩出一张牌",
-                "source": "NewsAPI / 36kr.com",
+                "title": "苹果终止更便宜版Vision Pro显示屏的开发 三星将于九月关停相关项目",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-08",
-                "url": "https://36kr.com/p/3886709249241349"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568336.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Anthropic危机降温 OpenAI或将面临更严苛监管考验",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568316.htm"
+            },
+            {
+                "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-08",
+                "url": "https://36kr.com/p/3886574096265481"
+            },
             {
                 "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,28 @@
                 "url": "https://www.secretchina.com/news/gb/2026/07/08/1101701.html"
             },
             {
-                "title": "菲亚特进军美国新动作：小巧可爱纯电代步车 售价约1.4万美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568238.htm"
-            },
-            {
-                "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-08",
-                "url": "https://36kr.com/p/3886238403129353"
-            },
-            {
-                "title": "2026年7月7日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40a25hOFJHcWhvYXpOYU5lYVNJZHlOaEt0TjRENEUtSHo4dDE2ZDFhdEdrSVBtV1YwcEpPM0ZjSmlwMW9xN2JFYm01R3ZDdzVCSkhnR1NvcGF6bG1jeEJ1YjNwamVVdl9mYnhxd25SX3g5ZlcyVFE?oc=5"
-            },
-            {
                 "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-08",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
             },
             {
-                "title": "外交部发言人介绍王毅外长访问北欧四国情况_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "毛宁：鼓岭故事跨越百年焕发新的生机 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVJIU01fNGRkLXZTNEQzRnVjV3lSdVlnakd1aE82M0lVb3Jja2VBWlZ2TDR0MWZGb3FCcUw5ZHQ1dmNyU1lUaFFxS0gyd2NlV09mNEFCTnRjMFBsMFFLMU1kT1BuUDZXeE16UUtSUXNWWDVWaUo2dmpWNS00aG9Ia0lwNnlBUGJkb2Iw?oc=5"
+                "date": "2026-07-08",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWJyY2ZNNDdfSW5nM1dDSDllSUlaQjRmWHczS2VtRHo1Vmkzb0RXcXota1paM0hpcGRTMHNCWlNRT3JTNHItOTdKSllCdTVFMEt2Wkt4bkxEZTVQRFVUV2I4Tk9iOWNNMmprNGZxSVZSSDdOX1hlWHRDY3NCRHhwLUJkR3dSUFI1Z1JNWGdxcjg?oc=5"
+            },
+            {
+                "title": "朝鲜内阁总理朴泰成将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzh2VERscnNGZXkwZlJWV1I1azdhV3hDd2pqb0d3cy1tU0gtRTU4Z001bE84WGdPUDk2a2hWMnBfbW9pMmFmaWFmYlNoMmlMWWRvOGg0Q1RKMGVzR3FZRk1BTXVTMlRuaUdhajNOMHAwS3MtMllCNkZtUEYzeUNzSUQ0bEc?oc=5"
+            },
+            {
+                "title": "胜利的方向丨两份绝密军档，揭开“长征第一渡”背后的秘密 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TMnpUeEZ2UEtBenpMZVpNckJTTXdXdHJqakRHOGo2RDBScDB4dFdSNGtiNnZ4d2ZWeFBXWFRPVHZmemthN01zbzc2eHhwZFFHR3c?oc=5"
             },
             {
                 "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
@@ -102,50 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQkJ6UkhaanJBcmVwTkVWTW94VEJpay0xMmdHbXU0Mld6V1BzNHhVV2hfSnBGeWp5VTBYVTZ0cW54TmZoZElFQUdYcEt5bXdjaWc?oc=5"
-            },
-            {
-                "title": "牢记初心使命 奋进复兴征程｜河北唐山：多元产业夯实万亿城市根基 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zSVM2Wi00M25QRFFVcmdWdVlxVVltUFVQc1FjeWsweDFyYkxpYjlhYVgyM2VmMnlJYk9GX21FMHMxQkNRcXBaNWhVM1dmaTNEcEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "OpenAI 招聘投资银行专家，年薪最高 20.5 万美元外加股权",
+                "title": "大疆推出 DJI AP100 无人机降落伞：适配 Matrice 400，售价 7488 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/974/152.htm"
+                "url": "https://www.ithome.com/0/974/259.htm"
             },
             {
-                "title": "地产AI进入落地战，深度智联又甩出一张牌",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-08",
-                "url": "https://36kr.com/p/3886709249241349"
-            },
-            {
-                "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-08",
-                "url": "https://36kr.com/p/3886678879727880"
-            },
-            {
-                "title": "工信部发布风险提示：Claude Code 存在安全后门，可能泄露用户敏感信息",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-08",
-                "url": "https://www.ithome.com/0/974/001.htm"
-            },
-            {
-                "title": "深圳理工大学拟逐步取消大学英语必修课设置",
+                "title": "#7月大促#华纳云服务器限时2折 8核16G香港CN2低至166元/月",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568276.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568334.htm"
             },
             {
-                "title": "2026年7月7日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40a25hOFJHcWhvYXpOYU5lYVNJZHlOaEt0TjRENEUtSHo4dDE2ZDFhdEdrSVBtV1YwcEpPM0ZjSmlwMW9xN2JFYm01R3ZDdzVCSkhnR1NvcGF6bG1jeEJ1YjNwamVVdl9mYnhxd25SX3g5ZlcyVFE?oc=5"
+                "title": "Anthropic危机降温 OpenAI或将面临更严苛监管考验",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568316.htm"
+            },
+            {
+                "title": "貿易団体、9月後半に訪中調整 河野洋平氏後任に岩屋前外相",
+                "source": "NewsAPI / Www.2nn.jp",
+                "date": "2026-07-08",
+                "url": "https://www.2nn.jp/newsplus/1783510034/"
+            },
+            {
+                "title": "立陶宛新任总理：将与中国外交关系正常化",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-08",
+                "url": "https://www.dw.com/zh/%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E4%BB%BB%E6%80%BB%E7%90%86%E5%B0%86%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB%E6%AD%A3%E5%B8%B8%E5%8C%96/a-77875933"
             },
             {
                 "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
             },
             {
-                "title": "外交部发言人介绍王毅外长访问北欧四国情况_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "毛宁：鼓岭故事跨越百年焕发新的生机 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVJIU01fNGRkLXZTNEQzRnVjV3lSdVlnakd1aE82M0lVb3Jja2VBWlZ2TDR0MWZGb3FCcUw5ZHQ1dmNyU1lUaFFxS0gyd2NlV09mNEFCTnRjMFBsMFFLMU1kT1BuUDZXeE16UUtSUXNWWDVWaUo2dmpWNS00aG9Ia0lwNnlBUGJkb2Iw?oc=5"
+                "date": "2026-07-08",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWJyY2ZNNDdfSW5nM1dDSDllSUlaQjRmWHczS2VtRHo1Vmkzb0RXcXota1paM0hpcGRTMHNCWlNRT3JTNHItOTdKSllCdTVFMEt2Wkt4bkxEZTVQRFVUV2I4Tk9iOWNNMmprNGZxSVZSSDdOX1hlWHRDY3NCRHhwLUJkR3dSUFI1Z1JNWGdxcjg?oc=5"
+            },
+            {
+                "title": "朝鲜内阁总理朴泰成将访华 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzh2VERscnNGZXkwZlJWV1I1azdhV3hDd2pqb0d3cy1tU0gtRTU4Z001bE84WGdPUDk2a2hWMnBfbW9pMmFmaWFmYlNoMmlMWWRvOGg0Q1RKMGVzR3FZRk1BTXVTMlRuaUdhajNOMHAwS3MtMllCNkZtUEYzeUNzSUQ0bEc?oc=5"
+            },
+            {
+                "title": "胜利的方向丨两份绝密军档，揭开“长征第一渡”背后的秘密 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TMnpUeEZ2UEtBenpMZVpNckJTTXdXdHJqakRHOGo2RDBScDB4dFdSNGtiNnZ4d2ZWeFBXWFRPVHZmemthN01zbzc2eHhwZFFHR3c?oc=5"
             },
             {
                 "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQkJ6UkhaanJBcmVwTkVWTW94VEJpay0xMmdHbXU0Mld6V1BzNHhVV2hfSnBGeWp5VTBYVTZ0cW54TmZoZElFQUdYcEt5bXdjaWc?oc=5"
-            },
-            {
-                "title": "牢记初心使命 奋进复兴征程｜河北唐山：多元产业夯实万亿城市根基 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zSVM2Wi00M25QRFFVcmdWdVlxVVltUFVQc1FjeWsweDFyYkxpYjlhYVgyM2VmMnlJYk9GX21FMHMxQkNRcXBaNWhVM1dmaTNEcEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-09T09:32:59.233446+00:00"
+    "last_updated": "2026-07-09T14:51:02.429588+00:00"
 }
