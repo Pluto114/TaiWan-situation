@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "港股年内最大IPO破发 年赚160亿的立讯精密依旧缺钱",
+                "title": "英伟达新一代Rubin Ultra机架成本预计飙升至2100万美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568442.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568472.htm"
             },
             {
-                "title": "美国邮政陷入严重财务危机 日常邮资迎来五年内第八次上调",
+                "title": "传iPhone 18 Pro Max机身将更厚重 或因其配备超大容量电池",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568438.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568462.htm"
             },
             {
-                "title": "日本清水建设计划在工地引入 AI 人形机器人，缓解劳动力短缺问题",
+                "title": "调查：亚马逊搜索结果中被推荐的 U 盘，约 20% 被消费者质疑容量造假",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/656.htm"
+                "url": "https://www.ithome.com/0/974/763.htm"
             },
             {
-                "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
-                "source": "NewsAPI / 36kr.com",
+                "title": "乌克兰远程无人机攻势重创俄能源基础设施 北约拟斥资400亿美元调整防御投资方向",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://36kr.com/p/3888180493318921"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568456.htm"
             },
             {
-                "title": "消息称大众汽车拟启动其史上最大规模重组：裁员 10 万人并关闭四座德国工厂",
-                "source": "NewsAPI / Ithome.com",
+                "title": "SpaceX与AI公司排队造富 一个行业意外先被新贵们带火了",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/567.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568450.htm"
             }
         ],
         "mil": [
+            {
+                "title": "乌克兰远程无人机攻势重创俄能源基础设施 北约拟斥资400亿美元调整防御投资方向",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568456.htm"
+            },
+            {
+                "title": "美光宣布加快美国晶圆厂投资，2035 年总投资额将提高至 2500 亿美元以上",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-09",
+                "url": "https://www.ithome.com/0/974/756.htm"
+            },
+            {
+                "title": "2026·Under36丨绕过旧答案的一代人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-09",
+                "url": "https://36kr.com/p/3888279614274048"
+            },
             {
                 "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
                 "source": "NewsAPI / 36kr.com",
@@ -56,24 +74,6 @@
                 "url": "https://36kr.com/p/3887939410492168"
             },
             {
-                "title": "万代南梦宫《刀剑神域》新作《艾恩葛朗特回荡新声》发售：Steam 国区 268 元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/327.htm"
-            },
-            {
-                "title": "育碧《刺客信条 : 黑旗 记忆重置》正式发售：Steam 国区 248 元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/324.htm"
-            },
-            {
-                "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-09",
-                "url": "https://36kr.com/p/3887659913083392"
-            },
-            {
                 "title": "朝鲜内阁总理朴泰成将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-09",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeEh4WmZFZnlZdEpqbkZ1NGRqMmJOZmx6SlREY0FtVzV1WVJJbHYtZllrdHk3Q19RYThhRXUzTFBvSEVOenpMRXBaY3EwMVBsSzdYLUJFdW5YQzlhdFBVcldfUHRzZThnWVM5RjREN2NYWGNNZ0E?oc=5"
             },
             {
-                "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "毛宁：“中国挤压”不符合事实 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
-            },
-            {
-                "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GeERWVWo1THBZMmxqN3EydXI5b1BPV1NvWmdMV3g0VTM0b0NKY1ZvbkV5N21QSGtnVFlwanpkWHhjX2JzMUNadVdoQWFBOEVSdUE?oc=5"
+                "date": "2026-07-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGQxWkdUR0ZDVXJEWDd3WUdXMEpENlM3LTcyOVBpSFhPZ19vR09aY3pFTVh4RDhKZG82UW5YSG96WWRaYVVLc3JTc2x4OVpEZ3ZCOF9jdmNlMDRSQXJTbzhlTHFYWTZXUklwT0hxY1dEN3dZV0JENVBIajZfbGdqVzR1X1Q4NFR4a1lXU0prTGQ?oc=5"
             },
             {
                 "title": "潞田战斗：红六军团结合战场实际灵活用兵 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBa2dyZlNfc204QjJTTXVUUXRTN0hFcU9GMkR2ZzMzejRKSTFESS05REVSQ0k1MURMeFRZMEFMMk1uWE5uUTh2Yk5pQjFkRXRxaWc?oc=5"
+            },
+            {
+                "title": "解放军和武警部队官兵全力奋战防汛救灾一线- 八一视频 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1OUp3SWY1TXF3MF82b3ZOMThhT3ZSYktBS1NqbjdjYmF6dlpkRHVkSllxc2h6cDhRN1Y5OUFvaDZkbHFjZDRRZEYzVQ?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "港股年内最大IPO破发 年赚160亿的立讯精密依旧缺钱",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568442.htm"
-            },
-            {
-                "title": "美国邮政陷入严重财务危机 日常邮资迎来五年内第八次上调",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568438.htm"
-            },
-            {
-                "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-09",
-                "url": "https://36kr.com/p/3888180493318921"
-            },
-            {
-                "title": "“年货游戏”《EA SPORTS College Football 27》发售：Steam 国区 348 元起，IGN 7 分“平平无奇”",
+                "title": "调查：亚马逊搜索结果中被推荐的 U 盘，约 20% 被消费者质疑容量造假",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/590.htm"
+                "url": "https://www.ithome.com/0/974/763.htm"
             },
             {
-                "title": "小孩的英语辅导",
-                "source": "NewsAPI / Codingnow.com",
+                "title": "乌克兰远程无人机攻势重创俄能源基础设施 北约拟斥资400亿美元调整防御投资方向",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://blog.codingnow.com/2026/07/learning_english.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568456.htm"
+            },
+            {
+                "title": "美光宣布加快美国晶圆厂投资，2035 年总投资额将提高至 2500 亿美元以上",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-09",
+                "url": "https://www.ithome.com/0/974/756.htm"
+            },
+            {
+                "title": "新款凯迪拉克 CT5 安全测试表现不佳，IIHS 四项测试获“差评”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-09",
+                "url": "https://www.ithome.com/0/974/736.htm"
+            },
+            {
+                "title": "基于比亚迪腾势 B8 打造，迪拜警方推出第二代 Ghiath 智能巡逻车",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-09",
+                "url": "https://www.ithome.com/0/974/732.htm"
             },
             {
                 "title": "朝鲜内阁总理朴泰成将访华 - mfa.gov.cn",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeEh4WmZFZnlZdEpqbkZ1NGRqMmJOZmx6SlREY0FtVzV1WVJJbHYtZllrdHk3Q19RYThhRXUzTFBvSEVOenpMRXBaY3EwMVBsSzdYLUJFdW5YQzlhdFBVcldfUHRzZThnWVM5RjREN2NYWGNNZ0E?oc=5"
             },
             {
-                "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "毛宁：“中国挤压”不符合事实 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
-            },
-            {
-                "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GeERWVWo1THBZMmxqN3EydXI5b1BPV1NvWmdMV3g0VTM0b0NKY1ZvbkV5N21QSGtnVFlwanpkWHhjX2JzMUNadVdoQWFBOEVSdUE?oc=5"
+                "date": "2026-07-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGQxWkdUR0ZDVXJEWDd3WUdXMEpENlM3LTcyOVBpSFhPZ19vR09aY3pFTVh4RDhKZG82UW5YSG96WWRaYVVLc3JTc2x4OVpEZ3ZCOF9jdmNlMDRSQXJTbzhlTHFYWTZXUklwT0hxY1dEN3dZV0JENVBIajZfbGdqVzR1X1Q4NFR4a1lXU0prTGQ?oc=5"
             },
             {
                 "title": "潞田战斗：红六军团结合战场实际灵活用兵 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBa2dyZlNfc204QjJTTXVUUXRTN0hFcU9GMkR2ZzMzejRKSTFESS05REVSQ0k1MURMeFRZMEFMMk1uWE5uUTh2Yk5pQjFkRXRxaWc?oc=5"
+            },
+            {
+                "title": "解放军和武警部队官兵全力奋战防汛救灾一线- 八一视频 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1OUp3SWY1TXF3MF82b3ZOMThhT3ZSYktBS1NqbjdjYmF6dlpkRHVkSllxc2h6cDhRN1Y5OUFvaDZkbHFjZDRRZEYzVQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-10T09:29:06.679032+00:00"
+    "last_updated": "2026-07-10T14:16:18.588886+00:00"
 }
