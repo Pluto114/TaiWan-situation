@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "淡马锡宣布加码 AI 投资：计划五年内将占比从 6% 提升至 15%，重点布局半导体、基础模型等五大方向",
-                "source": "NewsAPI / Ithome.com",
+                "title": "港股年内最大IPO破发 年赚160亿的立讯精密依旧缺钱",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/358.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568442.htm"
             },
             {
-                "title": "小鹏汽车 Robotaxi 内测第一单完成，CEO 何小鹏“首吃螃蟹”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国邮政陷入严重财务危机 日常邮资迎来五年内第八次上调",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/353.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568438.htm"
             },
             {
-                "title": "小米推出米家洗衣机 Pro 超电解智投 滚筒 10kg 新品，首发 2699 元",
+                "title": "日本清水建设计划在工地引入 AI 人形机器人，缓解劳动力短缺问题",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/345.htm"
+                "url": "https://www.ithome.com/0/974/656.htm"
             },
             {
-                "title": "IDC：PC 大盘微降 6.1%，“一人公司”正逆势贡献 160 万台新需求",
-                "source": "NewsAPI / Ithome.com",
+                "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/331.htm"
+                "url": "https://36kr.com/p/3888180493318921"
             },
             {
-                "title": "Omdia：存储成本飙升，400 美元以下全球智能手机市场将下滑 22%",
+                "title": "消息称大众汽车拟启动其史上最大规模重组：裁员 10 万人并关闭四座德国工厂",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-09",
-                "url": "https://www.ithome.com/0/974/330.htm"
+                "url": "https://www.ithome.com/0/974/567.htm"
             }
         ],
         "mil": [
+            {
+                "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-09",
+                "url": "https://36kr.com/p/3888180493318921"
+            },
+            {
+                "title": "中国鱼子酱，占领头等舱",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-09",
+                "url": "https://36kr.com/p/3887939410492168"
+            },
             {
                 "title": "万代南梦宫《刀剑神域》新作《艾恩葛朗特回荡新声》发售：Steam 国区 268 元起",
                 "source": "NewsAPI / Ithome.com",
@@ -62,40 +74,22 @@
                 "url": "https://36kr.com/p/3887659913083392"
             },
             {
-                "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-09",
-                "url": "https://36kr.com/p/3887648675133960"
-            },
-            {
-                "title": "苹果传测试长鑫内存 纾困涨价危机却难治本",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568362.htm"
-            },
-            {
                 "title": "朝鲜内阁总理朴泰成将访华 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-09",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzh2VERscnNGZXkwZlJWV1I1azdhV3hDd2pqb0d3cy1tU0gtRTU4Z001bE84WGdPUDk2a2hWMnBfbW9pMmFmaWFmYlNoMmlMWWRvOGg0Q1RKMGVzR3FZRk1BTXVTMlRuaUdhajNOMHAwS3MtMllCNkZtUEYzeUNzSUQ0bEc?oc=5"
             },
             {
+                "title": "2026年7月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeEh4WmZFZnlZdEpqbkZ1NGRqMmJOZmx6SlREY0FtVzV1WVJJbHYtZllrdHk3Q19RYThhRXUzTFBvSEVOenpMRXBaY3EwMVBsSzdYLUJFdW5YQzlhdFBVcldfUHRzZThnWVM5RjREN2NYWGNNZ0E?oc=5"
+            },
+            {
                 "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-08",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
-            },
-            {
-                "title": "毛宁：鼓岭故事跨越百年焕发新的生机 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWJyY2ZNNDdfSW5nM1dDSDllSUlaQjRmWHczS2VtRHo1Vmkzb0RXcXota1paM0hpcGRTMHNCWlNRT3JTNHItOTdKSllCdTVFMEt2Wkt4bkxEZTVQRFVUV2I4Tk9iOWNNMmprNGZxSVZSSDdOX1hlWHRDY3NCRHhwLUJkR3dSUFI1Z1JNWGdxcjg?oc=5"
-            },
-            {
-                "title": "胜利的方向丨两份绝密军档，揭开“长征第一渡”背后的秘密 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TMnpUeEZ2UEtBenpMZVpNckJTTXdXdHJqakRHOGo2RDBScDB4dFdSNGtiNnZ4d2ZWeFBXWFRPVHZmemthN01zbzc2eHhwZFFHR3c?oc=5"
             },
             {
                 "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQkJ6UkhaanJBcmVwTkVWTW94VEJpay0xMmdHbXU0Mld6V1BzNHhVV2hfSnBGeWp5VTBYVTZ0cW54TmZoZElFQUdYcEt5bXdjaWc?oc=5"
+            },
+            {
+                "title": "NK细胞联合髓系细胞开启肿瘤治疗新篇章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBa2dyZlNfc204QjJTTXVUUXRTN0hFcU9GMkR2ZzMzejRKSTFESS05REVSQ0k1MURMeFRZMEFMMk1uWE5uUTh2Yk5pQjFkRXRxaWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-09",
-                "url": "https://36kr.com/p/3887726503688968"
-            },
-            {
-                "title": "今日消费资讯：星巴克推出 2026 软雪星冰乐系列、KENZO 2026 秋冬系列上市",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-07-09",
-                "url": "https://www.toodaylab.com/84109"
-            },
-            {
-                "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-09",
-                "url": "https://36kr.com/p/3887659913083392"
-            },
-            {
-                "title": "法官批准马斯克与美证监会150万美元和解协议 但仍有严重保留",
+                "title": "港股年内最大IPO破发 年赚160亿的立讯精密依旧缺钱",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568394.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568442.htm"
             },
             {
-                "title": "中国或部分放宽对英伟达H200芯片的自设禁令 头部企业有望获批限量采购",
+                "title": "美国邮政陷入严重财务危机 日常邮资迎来五年内第八次上调",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568390.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568438.htm"
+            },
+            {
+                "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-09",
+                "url": "https://36kr.com/p/3888180493318921"
+            },
+            {
+                "title": "“年货游戏”《EA SPORTS College Football 27》发售：Steam 国区 348 元起，IGN 7 分“平平无奇”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-09",
+                "url": "https://www.ithome.com/0/974/590.htm"
+            },
+            {
+                "title": "小孩的英语辅导",
+                "source": "NewsAPI / Codingnow.com",
+                "date": "2026-07-09",
+                "url": "https://blog.codingnow.com/2026/07/learning_english.html"
             },
             {
                 "title": "朝鲜内阁总理朴泰成将访华 - mfa.gov.cn",
@@ -148,22 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzh2VERscnNGZXkwZlJWV1I1azdhV3hDd2pqb0d3cy1tU0gtRTU4Z001bE84WGdPUDk2a2hWMnBfbW9pMmFmaWFmYlNoMmlMWWRvOGg0Q1RKMGVzR3FZRk1BTXVTMlRuaUdhajNOMHAwS3MtMllCNkZtUEYzeUNzSUQ0bEc?oc=5"
             },
             {
+                "title": "2026年7月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeEh4WmZFZnlZdEpqbkZ1NGRqMmJOZmx6SlREY0FtVzV1WVJJbHYtZllrdHk3Q19RYThhRXUzTFBvSEVOenpMRXBaY3EwMVBsSzdYLUJFdW5YQzlhdFBVcldfUHRzZThnWVM5RjREN2NYWGNNZ0E?oc=5"
+            },
+            {
                 "title": "2026年7月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-08",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bWR6bmFDaGlsaXUtOHlSaHhGc20wS0g1bW1NQzdtTUlJOThVTXVTdm9kcmh2TktDWlZnWUQ0QmdSaTEta1o4TVRxTEtxRmhoVHhheEptM29uUnFoVW91aVpManlJRnpKZ0Jta3JON3J2cHJHbVE?oc=5"
-            },
-            {
-                "title": "毛宁：鼓岭故事跨越百年焕发新的生机 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWJyY2ZNNDdfSW5nM1dDSDllSUlaQjRmWHczS2VtRHo1Vmkzb0RXcXota1paM0hpcGRTMHNCWlNRT3JTNHItOTdKSllCdTVFMEt2Wkt4bkxEZTVQRFVUV2I4Tk9iOWNNMmprNGZxSVZSSDdOX1hlWHRDY3NCRHhwLUJkR3dSUFI1Z1JNWGdxcjg?oc=5"
-            },
-            {
-                "title": "胜利的方向丨两份绝密军档，揭开“长征第一渡”背后的秘密 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TMnpUeEZ2UEtBenpMZVpNckJTTXdXdHJqakRHOGo2RDBScDB4dFdSNGtiNnZ4d2ZWeFBXWFRPVHZmemthN01zbzc2eHhwZFFHR3c?oc=5"
             },
             {
                 "title": "中国科协第十一次全国代表大会举行第二次全体会议 蔡奇到会祝贺并代表党中央致词 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-09",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQkJ6UkhaanJBcmVwTkVWTW94VEJpay0xMmdHbXU0Mld6V1BzNHhVV2hfSnBGeWp5VTBYVTZ0cW54TmZoZElFQUdYcEt5bXdjaWc?oc=5"
+            },
+            {
+                "title": "NK细胞联合髓系细胞开启肿瘤治疗新篇章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBa2dyZlNfc204QjJTTXVUUXRTN0hFcU9GMkR2ZzMzejRKSTFESS05REVSQ0k1MURMeFRZMEFMMk1uWE5uUTh2Yk5pQjFkRXRxaWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-10T02:42:51.830584+00:00"
+    "last_updated": "2026-07-10T09:29:06.679032+00:00"
 }
