@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-10",
-                "url": "https://36kr.com/p/3889524008303363"
-            },
-            {
-                "title": "消息称腾讯考虑入股 Manus，或成为其第一大股东",
+                "title": "1099 元骁途 S7 Pro Max 运动相机上市，首发海思自研 1/1.28 英寸 5000 万像素 RYYB 传感器",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/053.htm"
+                "url": "https://www.ithome.com/0/975/339.htm"
             },
             {
-                "title": "消息称华为 MateBook Fold 折叠 PC 新品下半年登场，麒麟 X9 系芯片",
+                "title": "三星 Galaxy Z Fold8 系列美版价格泄露：Ultra 版 2099 美元起，涨价 100 美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/048.htm"
+                "url": "https://www.ithome.com/0/975/338.htm"
             },
             {
-                "title": "我国首个：中科曙光官宣全国产 10 万卡 AI 超集群“曙光 8000（登峰）”落成",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美光将在美国本土投入2500亿美元发展制造 已启动纽约DRAM超级工厂建设",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/974/966.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568600.htm"
             },
             {
-                "title": "微软 XBOX CEO 夏尔马前脚大规模裁员，后脚就出任美联储“就业和生产力”顾问",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苹果首款折叠手机白色版机模亮相 折痕有点明显",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/974/931.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568586.htm"
+            },
+            {
+                "title": "SpaceX公布太空移民新规划：拟于2026年底前启动发射 特斯拉机器人将成首批“居民”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568578.htm"
             }
         ],
         "mil": [
+            {
+                "title": "长平观察：习近平还能攻打台湾吗？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-10",
+                "url": "https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%98%E8%83%BD%E6%94%BB%E6%89%93%E5%8F%B0%E6%B9%BE%E5%90%97/a-77906406"
+            },
+            {
+                "title": "大众计划砍掉半数车型、压缩产能以削减成本",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568574.htm"
+            },
+            {
+                "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-10",
+                "url": "https://36kr.com/p/3889551814916614"
+            },
             {
                 "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
                 "source": "NewsAPI / 36kr.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.ithome.com/0/974/795.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年7月10日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-09",
-                "url": "https://www.voachinese.com/a/8165098.html"
-            },
-            {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-09",
-                "url": "https://www.voachinese.com/a/8165105.html"
-            },
-            {
-                "title": "菲律宾海警首度参与环太军演；舰长接受VOA专访回顾中国自家舰船相撞事件",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-09",
-                "url": "https://www.voachinese.com/a/philippine-coast-guard-joins-rimpac-for-first-time-captain-reflects-on-south-china-sea-collision-20260709/8169953.html"
-            },
-            {
                 "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-11",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tRGhDZjMxMDlpSFQ1THJ3NXZuQ0JTSmNCVHhKRThqZEQxUG5aRjlzZncxemtodkxFZS05UnFWZktOOVhIRDlVcXNDZU1rQTlRdUhnV1BqTzlXQzhkMTJwX1BIcUdHUmVobjk4?oc=5"
             },
             {
-                "title": "2026年7月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-09",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeEh4WmZFZnlZdEpqbkZ1NGRqMmJOZmx6SlREY0FtVzV1WVJJbHYtZllrdHk3Q19RYThhRXUzTFBvSEVOenpMRXBaY3EwMVBsSzdYLUJFdW5YQzlhdFBVcldfUHRzZThnWVM5RjREN2NYWGNNZ0E?oc=5"
-            },
-            {
                 "title": "毛宁：“中国挤压”不符合事实 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-10",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGQxWkdUR0ZDVXJEWDd3WUdXMEpENlM3LTcyOVBpSFhPZ19vR09aY3pFTVh4RDhKZG82UW5YSG96WWRaYVVLc3JTc2x4OVpEZ3ZCOF9jdmNlMDRSQXJTbzhlTHFYWTZXUklwT0hxY1dEN3dZV0JENVBIajZfbGdqVzR1X1Q4NFR4a1lXU0prTGQ?oc=5"
+            },
+            {
+                "title": "毛宁：“南海仲裁案”所谓“裁决”和“南海行为准则”毫无关系（2026年7月10日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWC1CTzU3Wng1djVqMjVrejhERXc3WWlGOEJDWWoza0pNVlhWNVZZOGROUURzVWpkVEN5bnhVOVFmTmF2eTA2VEM3ejR1OFRqdHZwREw1UTdZemRNRXVBNEl6QzQ2S19vbkdrS0syMHU1T0ZGYVFWVUZqTk1XOWhmbHFSZERYN2hHM2o2ZGNpUnU?oc=5"
             },
             {
                 "title": "一见·防汛救灾，总书记时时放心不下 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "消息称腾讯考虑入股 Manus，或成为其第一大股东",
+                "title": "欧盟要求Meta整改Instagram和Facebook成瘾功能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568596.htm"
+            },
+            {
+                "title": "华为 SVC 再获 GlobalData 全满分评价，蝉联 IMS 话音核心网独家领导者",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/053.htm"
+                "url": "https://www.ithome.com/0/975/333.htm"
             },
             {
-                "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
-                "source": "NewsAPI / 36kr.com",
+                "title": "波音737 MAX 7型客机有望于本月底获美联邦航空局适航认证",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-10",
-                "url": "https://36kr.com/p/3888284244720131"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568576.htm"
             },
             {
-                "title": "征战“绿色地狱”，比亚迪腾势 Z 赛道版超跑将赴纽北赛道冲击纪录",
+                "title": "特朗普 T1 手机被指外观“廉价塑料感”，官方免费赠送充电器 + 保护壳补偿首发用户",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/974/921.htm"
+                "url": "https://www.ithome.com/0/975/324.htm"
             },
             {
-                "title": "零跑今年上半年在意大利上牌 24269 台同比大增 1448.8%，纯电拿下市占率第一",
-                "source": "NewsAPI / Ithome.com",
+                "title": "大众计划砍掉半数车型、压缩产能以削减成本",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/974/892.htm"
-            },
-            {
-                "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-10",
-                "url": "https://36kr.com/p/3889141540370949"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568574.htm"
             },
             {
                 "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tRGhDZjMxMDlpSFQ1THJ3NXZuQ0JTSmNCVHhKRThqZEQxUG5aRjlzZncxemtodkxFZS05UnFWZktOOVhIRDlVcXNDZU1rQTlRdUhnV1BqTzlXQzhkMTJwX1BIcUdHUmVobjk4?oc=5"
             },
             {
-                "title": "2026年7月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-09",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeEh4WmZFZnlZdEpqbkZ1NGRqMmJOZmx6SlREY0FtVzV1WVJJbHYtZllrdHk3Q19RYThhRXUzTFBvSEVOenpMRXBaY3EwMVBsSzdYLUJFdW5YQzlhdFBVcldfUHRzZThnWVM5RjREN2NYWGNNZ0E?oc=5"
-            },
-            {
                 "title": "毛宁：“中国挤压”不符合事实 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-10",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGQxWkdUR0ZDVXJEWDd3WUdXMEpENlM3LTcyOVBpSFhPZ19vR09aY3pFTVh4RDhKZG82UW5YSG96WWRaYVVLc3JTc2x4OVpEZ3ZCOF9jdmNlMDRSQXJTbzhlTHFYWTZXUklwT0hxY1dEN3dZV0JENVBIajZfbGdqVzR1X1Q4NFR4a1lXU0prTGQ?oc=5"
+            },
+            {
+                "title": "毛宁：“南海仲裁案”所谓“裁决”和“南海行为准则”毫无关系（2026年7月10日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWC1CTzU3Wng1djVqMjVrejhERXc3WWlGOEJDWWoza0pNVlhWNVZZOGROUURzVWpkVEN5bnhVOVFmTmF2eTA2VEM3ejR1OFRqdHZwREw1UTdZemRNRXVBNEl6QzQ2S19vbkdrS0syMHU1T0ZGYVFWVUZqTk1XOWhmbHFSZERYN2hHM2o2ZGNpUnU?oc=5"
             },
             {
                 "title": "一见·防汛救灾，总书记时时放心不下 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-11T07:49:48.758960+00:00"
+    "last_updated": "2026-07-11T13:11:14.772423+00:00"
 }
