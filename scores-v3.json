@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "知情人士回应“腾讯考虑入股 Manus”：预计股权变更完成后，腾讯方面仍只是持有少数股份的外部股东",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/622.htm"
+            },
+            {
+                "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/620.htm"
+            },
+            {
                 "title": "独家 | 智谱 CEO唐杰发内部信：「GLM 时刻」和万亿俱乐部之后，什么是更重要的事",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-11",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-11",
                 "url": "https://www.ithome.com/0/975/475.htm"
-            },
-            {
-                "title": "雷神推出 JQ25F320L 电竞显示器：24.5 英寸 2K 320Hz，限时到手 1399 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/450.htm"
-            },
-            {
-                "title": "SK海力士完成创纪录美国上市 AI能打破芯片行业盛衰周期？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568664.htm"
             }
         ],
         "mil": [
+            {
+                "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/620.htm"
+            },
+            {
+                "title": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-11",
+                "url": "https://www.voachinese.com/a/us-military-demonstrates-latest-3d-printing-and-unmanned-vehicle-technologies-20260711/8170621.html"
+            },
             {
                 "title": "独家 | 智谱 CEO唐杰发内部信：「GLM 时刻」和万亿俱乐部之后，什么是更重要的事",
                 "source": "NewsAPI / 36kr.com",
@@ -62,16 +74,10 @@
                 "url": "https://36kr.com/p/3890553690192384"
             },
             {
-                "title": "航司与云巨头疯狂争抢燃气轮机 核心零部件仅少数企业能造",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568646.htm"
-            },
-            {
-                "title": "独家卫星图像曝光伊朗或在重建多处核设施",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568640.htm"
+                "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MLTd3WjdCTTFuenMwdHkzR0dVdElGN0lQVmtyRms1QUhoTGRlYXh0VTVLWlFKR285WVhRblhfMTFIajhBUktseUUtNnNmNVJhd1BuMnpmUnl5U3hEY0gxemxuaWhGOWpGNFNrWFM1WkU1Zw?oc=5"
             },
             {
                 "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
@@ -86,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qTVllbnBRX0dtVmJQazhGU09Dby1WUDUyS1RLTFVUSTBFbU5vTFFNdnJPbi1qR0EzSTI1RWNyMDVEcnRtOFNJQTBHaUttaU90REU3bldVYi1TNndwRC1KMmx3QzJHaWhZTzBqVW1PamFla011dWc?oc=5"
-            },
-            {
                 "title": "如何识别隐性疲劳？学会简单实用疲劳自测方法 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-11",
@@ -104,13 +104,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YXRqNnJNZ1hwdGRNOVBCbV9ESmYzV2NlRndCUVM3aVE4T2o1dWZGSzVwUE9SaWhULWZSNkNIUlVOQzVYOU9JYkNuSHoxc3JsbHc?oc=5"
             },
             {
-                "title": "《军报每天读》20260712 - 中国军网",
+                "title": "联播+｜跨越600年 扬帆再远航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50cFdCQ25ycGVGVmVnSVNCNUhyZS1MVVVDRFNnMkVoNWhGazVGTGJfTXZTNXZ2bGpzaERpbUxya1ZjWjJPUEtfN2QyUWxxRFVnNXU5Sw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YU5reF9pQXQ1S2dIRHFiTjFObEFNN0VaNTZLb2Y3YXlXYy1Lb0pOS1FKeWRBSm9jNERySGwtT0ktM2pFelRqdjduVVFkTTNfb3c?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "知情人士回应“腾讯考虑入股 Manus”：预计股权变更完成后，腾讯方面仍只是持有少数股份的外部股东",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/622.htm"
+            },
+            {
+                "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/620.htm"
+            },
             {
                 "title": "独家 | 智谱 CEO唐杰发内部信：「GLM 时刻」和万亿俱乐部之后，什么是更重要的事",
                 "source": "NewsAPI / 36kr.com",
@@ -130,16 +142,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/07/11/1101859.html"
             },
             {
-                "title": "研究报告：中国电力技术创新位居全球首位",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-11",
-                "url": "https://36kr.com/newsflashes/3890965044869637"
-            },
-            {
-                "title": "美国政府施压：苹果最终同意让英特尔代工部分 iPhone、Mac 芯片，成功换取半导体关税豁免",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/475.htm"
+                "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MLTd3WjdCTTFuenMwdHkzR0dVdElGN0lQVmtyRms1QUhoTGRlYXh0VTVLWlFKR285WVhRblhfMTFIajhBUktseUUtNnNmNVJhd1BuMnpmUnl5U3hEY0gxemxuaWhGOWpGNFNrWFM1WkU1Zw?oc=5"
             },
             {
                 "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
@@ -154,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qTVllbnBRX0dtVmJQazhGU09Dby1WUDUyS1RLTFVUSTBFbU5vTFFNdnJPbi1qR0EzSTI1RWNyMDVEcnRtOFNJQTBHaUttaU90REU3bldVYi1TNndwRC1KMmx3QzJHaWhZTzBqVW1PamFla011dWc?oc=5"
-            },
-            {
                 "title": "如何识别隐性疲劳？学会简单实用疲劳自测方法 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-11",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YXRqNnJNZ1hwdGRNOVBCbV9ESmYzV2NlRndCUVM3aVE4T2o1dWZGSzVwUE9SaWhULWZSNkNIUlVOQzVYOU9JYkNuSHoxc3JsbHc?oc=5"
             },
             {
-                "title": "《军报每天读》20260712 - 中国军网",
+                "title": "联播+｜跨越600年 扬帆再远航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50cFdCQ25ycGVGVmVnSVNCNUhyZS1MVVVDRFNnMkVoNWhGazVGTGJfTXZTNXZ2bGpzaERpbUxya1ZjWjJPUEtfN2QyUWxxRFVnNXU5Sw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YU5reF9pQXQ1S2dIRHFiTjFObEFNN0VaNTZLb2Y3YXlXYy1Lb0pOS1FKeWRBSm9jNERySGwtT0ktM2pFelRqdjduVVFkTTNfb3c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-12T13:12:50.555307+00:00"
+    "last_updated": "2026-07-12T19:00:38.730719+00:00"
 }
