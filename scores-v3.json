@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "募资 265 亿美元超阿里创外企赴美 IPO 纪录：SK 海力士 ADR 预示开盘价 180 美元，首日涨超 20%",
+                "title": "市场发行热度大幅升温，熊猫债存量规模首超5000亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-11",
+                "url": "https://36kr.com/newsflashes/3890587699198473"
+            },
+            {
+                "title": "AI 内存 V-Die 方案亮相：侧立放置 DRAM 吞吐 540 tokens/s，较 HBM4 高 82.43%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/362.htm"
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/397.htm"
             },
             {
-                "title": "德语媒体：中国才是结束俄乌战争的关键",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-10",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E6%89%8D%E6%98%AF%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%9A%84%E5%85%B3%E9%94%AE/a-77909103"
+                "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-11",
+                "url": "https://36kr.com/p/3890553690192384"
             },
             {
-                "title": "德语媒体：中国才是结束俄乌战争的关键",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-10",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E6%89%8D%E6%98%AF%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%9A%84%E5%85%B3%E9%94%AE/a-77909103"
-            },
-            {
-                "title": "比亚迪储能斩获全球最大单一储能采购合同，为阿联酋 11.275GWh 光储项目提供解决方案",
+                "title": "B 社工会证实将举行 Xbox 裁员抗议活动：“我们不会默默消失”",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/351.htm"
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/384.htm"
             },
             {
-                "title": "1099 元骁途 S7 Pro Max 运动相机上市，首发海思自研 1/1.28 英寸 5000 万像素 RYYB 传感器",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/339.htm"
+                "title": "大众汽车拟削减半数车型并压缩产能，应对全球竞争压力",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568654.htm"
             }
         ],
         "mil": [
             {
-                "title": "马斯克Starlink成为目标？调查称中俄文件提出卫星网络应对方案(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-10",
-                "url": "https://www.secretchina.com/news/gb/2026/07/10/1101835.html"
+                "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-11",
+                "url": "https://36kr.com/p/3890553690192384"
             },
             {
-                "title": "德语媒体：中国才是结束俄乌战争的关键",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-10",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E6%89%8D%E6%98%AF%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%9A%84%E5%85%B3%E9%94%AE/a-77909103"
-            },
-            {
-                "title": "德语媒体：中国才是结束俄乌战争的关键",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-10",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E6%89%8D%E6%98%AF%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%9A%84%E5%85%B3%E9%94%AE/a-77909103"
-            },
-            {
-                "title": "长平观察：习近平还能攻打台湾吗？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-10",
-                "url": "https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%98%E8%83%BD%E6%94%BB%E6%89%93%E5%8F%B0%E6%B9%BE%E5%90%97/a-77906406"
-            },
-            {
-                "title": "大众计划砍掉半数车型、压缩产能以削减成本",
+                "title": "航司与云巨头疯狂争抢燃气轮机 核心零部件仅少数企业能造",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568574.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568646.htm"
+            },
+            {
+                "title": "独家卫星图像曝光伊朗或在重建多处核设施",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568640.htm"
+            },
+            {
+                "title": "IT早报 0711：税务部门曝光 7 起网红网店偷税案件；美团回应多业务线集中裁员；中国可复用火箭时代开启；小米澎程首款 SUV 命名 SkyNomad N90...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-10",
+                "url": "https://www.ithome.com/0/975/377.htm"
+            },
+            {
+                "title": "美放宽对阿联酋出口管制 允许免签引进英伟达AI芯片及军用设备",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568634.htm"
             },
             {
                 "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
@@ -92,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjJuUzczTHFRTkEwejZWMjFBQUlneEN2cGtseUxvT0tvcWQ0QXJhTl9fSHlQN2RjcVAwcF9WWm5Ib01ZWkNFRlRhMGE4Y0JLSlRpNTZUWlhicDFtVmZtTW82SjhycUJJWmpFLXJfbFU4dkFRS3lESnRzbV81bDg1SDdjbGxObmtwU3VJ?oc=5"
             },
             {
-                "title": "一见·防汛救灾，总书记时时放心不下 - 中国军网",
+                "title": "解放军报评论员：共同努力推动科技事业欣欣向荣 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZY25PNnJfSXBUTEM3dmxfVHBvR0RnZnpNVm15eHZNMXBqWVptRWlFdjMzRkI2d185NWdySDExUU9URUJFemNpcG44X0xqekFDNlE?oc=5"
+                "date": "2026-07-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YXRqNnJNZ1hwdGRNOVBCbV9ESmYzV2NlRndCUVM3aVE4T2o1dWZGSzVwUE9SaWhULWZSNkNIUlVOQzVYOU9JYkNuSHoxc3JsbHc?oc=5"
             },
             {
                 "title": "国务院安委会对福建泉州“7·9”重大火灾查处挂牌督办 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "募资 265 亿美元超阿里创外企赴美 IPO 纪录：SK 海力士 ADR 预示开盘价 180 美元，首日涨超 20%",
+                "title": "AI 内存 V-Die 方案亮相：侧立放置 DRAM 吞吐 540 tokens/s，较 HBM4 高 82.43%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/397.htm"
+            },
+            {
+                "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-11",
+                "url": "https://36kr.com/p/3890553690192384"
+            },
+            {
+                "title": "美FCC重拳打击“白手套” 彻查八家涉嫌借壳规避无人机禁令的大疆壳公司",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568652.htm"
+            },
+            {
+                "title": "PC市场前景堪忧 根源在于存储芯片供应危机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568648.htm"
+            },
+            {
+                "title": "IT早报 0711：税务部门曝光 7 起网红网店偷税案件；美团回应多业务线集中裁员；中国可复用火箭时代开启；小米澎程首款 SUV 命名 SkyNomad N90...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/362.htm"
-            },
-            {
-                "title": "瑞安航空飞机因窗户脱落紧急迫降",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568608.htm"
-            },
-            {
-                "title": "欧盟要求Meta整改Instagram和Facebook成瘾功能",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568596.htm"
-            },
-            {
-                "title": "华为 SVC 再获 GlobalData 全满分评价，蝉联 IMS 话音核心网独家领导者",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-10",
-                "url": "https://www.ithome.com/0/975/333.htm"
-            },
-            {
-                "title": "波音737 MAX 7型客机有望于本月底获美联邦航空局适航认证",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568576.htm"
+                "url": "https://www.ithome.com/0/975/377.htm"
             },
             {
                 "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
@@ -160,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjJuUzczTHFRTkEwejZWMjFBQUlneEN2cGtseUxvT0tvcWQ0QXJhTl9fSHlQN2RjcVAwcF9WWm5Ib01ZWkNFRlRhMGE4Y0JLSlRpNTZUWlhicDFtVmZtTW82SjhycUJJWmpFLXJfbFU4dkFRS3lESnRzbV81bDg1SDdjbGxObmtwU3VJ?oc=5"
             },
             {
-                "title": "一见·防汛救灾，总书记时时放心不下 - 中国军网",
+                "title": "解放军报评论员：共同努力推动科技事业欣欣向荣 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZY25PNnJfSXBUTEM3dmxfVHBvR0RnZnpNVm15eHZNMXBqWVptRWlFdjMzRkI2d185NWdySDExUU9URUJFemNpcG44X0xqekFDNlE?oc=5"
+                "date": "2026-07-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YXRqNnJNZ1hwdGRNOVBCbV9ESmYzV2NlRndCUVM3aVE4T2o1dWZGSzVwUE9SaWhULWZSNkNIUlVOQzVYOU9JYkNuSHoxc3JsbHc?oc=5"
             },
             {
                 "title": "国务院安委会对福建泉州“7·9”重大火灾查处挂牌督办 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-11T18:57:11.735794+00:00"
+    "last_updated": "2026-07-12T02:27:41.203158+00:00"
 }
