@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "特斯拉披露 Cybercab 更多细节：全新超高效动力总成、4680 电池、低压电气架构等",
+                "title": "AI 策略模拟游戏《圣旨模拟器：一统天下》登陆 Steam，国区售价 42 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/661.htm"
+                "url": "https://www.ithome.com/0/975/626.htm"
             },
             {
-                "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+                "title": "腾讯重仓一个IPO",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-12",
-                "url": "https://36kr.com/p/3892027841362694"
+                "url": "https://36kr.com/p/3892352153942530"
             },
             {
-                "title": "IT早报 0712：丰田日产本田上半年在华销量均下滑；小米澎程 N90 MAX 实车曝光；马斯克称要让 SpaceX 价值超过地球；SK 海力士 CEO 称明年迎最严重内存短缺...",
+                "title": "消失的150亿美元，有下文了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-12",
+                "url": "https://36kr.com/p/3892321158773251"
+            },
+            {
+                "title": "一根登山杖撬动10亿元大市场，超级赛道迎万亿元商机",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-12",
+                "url": "https://36kr.com/newsflashes/3892127609780743"
+            },
+            {
+                "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/635.htm"
-            },
-            {
-                "title": "华为寻求多方力量筹建DRAM晶圆厂 力图突破存储芯片供应链瓶颈",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568706.htm"
-            },
-            {
-                "title": "Google反对在欧洲推行网站屏蔽措施 并担忧美国立法阻碍互联网基础架构",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568700.htm"
+                "date": "2026-07-12",
+                "url": "https://www.ithome.com/0/975/666.htm"
             }
         ],
         "mil": [
+            {
+                "title": "AI 策略模拟游戏《圣旨模拟器：一统天下》登陆 Steam，国区售价 42 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-12",
+                "url": "https://www.ithome.com/0/975/626.htm"
+            },
+            {
+                "title": "腾讯重仓一个IPO",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-12",
+                "url": "https://36kr.com/p/3892352153942530"
+            },
+            {
+                "title": "中国在太平洋的核威慑能力有多大？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-12",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E6%A0%B8%E5%A8%81%E6%85%91%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7/a-77877394"
+            },
             {
                 "title": "英国皇家海军成功完成“纽安”打击无人机首次海上弹射起飞测试",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,34 +74,16 @@
                 "url": "https://www.secretchina.com/news/gb/2026/07/12/1101883.html"
             },
             {
-                "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/620.htm"
-            },
-            {
-                "title": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-11",
-                "url": "https://www.voachinese.com/a/us-military-demonstrates-latest-3d-printing-and-unmanned-vehicle-technologies-20260711/8170621.html"
-            },
-            {
-                "title": "独家 | 智谱 CEO唐杰发内部信：「GLM 时刻」和万亿俱乐部之后，什么是更重要的事",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-11",
-                "url": "https://36kr.com/p/3891132709206784"
-            },
-            {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-12",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MLTd3WjdCTTFuenMwdHkzR0dVdElGN0lQVmtyRms1QUhoTGRlYXh0VTVLWlFKR285WVhRblhfMTFIajhBUktseUUtNnNmNVJhd1BuMnpmUnl5U3hEY0gxemxuaWhGOWpGNFNrWFM1WkU1Zw?oc=5"
             },
             {
-                "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
+                "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-11",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tRGhDZjMxMDlpSFQ1THJ3NXZuQ0JTSmNCVHhKRThqZEQxUG5aRjlzZncxemtodkxFZS05UnFWZktOOVhIRDlVcXNDZU1rQTlRdUhnV1BqTzlXQzhkMTJwX1BIcUdHUmVobjk4?oc=5"
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qTVllbnBRX0dtVmJQazhGU09Dby1WUDUyS1RLTFVUSTBFbU5vTFFNdnJPbi1qR0EzSTI1RWNyMDVEcnRtOFNJQTBHaUttaU90REU3bldVYi1TNndwRC1KMmx3QzJHaWhZTzBqVW1PamFla011dWc?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+                "title": "全新奔驰纯电 GLC 晖银版、星铂版年底前上市，预售 29.99 万元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-12",
+                "url": "https://www.ithome.com/0/975/754.htm"
+            },
+            {
+                "title": "AI 策略模拟游戏《圣旨模拟器：一统天下》登陆 Steam，国区售价 42 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-12",
+                "url": "https://www.ithome.com/0/975/626.htm"
+            },
+            {
+                "title": "腾讯重仓一个IPO",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-12",
-                "url": "https://36kr.com/p/3892027841362694"
+                "url": "https://36kr.com/p/3892352153942530"
             },
             {
-                "title": "腾讯洽购Manus？知情人士：腾讯仍将保留少数股东地位",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "xAI 正式改名叫 SpaceXAI 了，SpaceX 也不再只是那个“火箭公司”",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-07-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568710.htm"
+                "url": "https://www.toodaylab.com/84116"
             },
             {
-                "title": "微软回应 Xbox 裁员争议：并非用外籍员工取代美国员工",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/640.htm"
-            },
-            {
-                "title": "IT早报 0712：丰田日产本田上半年在华销量均下滑；小米澎程 N90 MAX 实车曝光；马斯克称要让 SpaceX 价值超过地球；SK 海力士 CEO 称明年迎最严重内存短缺...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/635.htm"
-            },
-            {
-                "title": "华为寻求多方力量筹建DRAM晶圆厂 力图突破存储芯片供应链瓶颈",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568706.htm"
+                "title": "消失的150亿美元，有下文了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-12",
+                "url": "https://36kr.com/p/3892321158773251"
             },
             {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
@@ -148,10 +148,10 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MLTd3WjdCTTFuenMwdHkzR0dVdElGN0lQVmtyRms1QUhoTGRlYXh0VTVLWlFKR285WVhRblhfMTFIajhBUktseUUtNnNmNVJhd1BuMnpmUnl5U3hEY0gxemxuaWhGOWpGNFNrWFM1WkU1Zw?oc=5"
             },
             {
-                "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电 - mfa.gov.cn",
+                "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-11",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tRGhDZjMxMDlpSFQ1THJ3NXZuQ0JTSmNCVHhKRThqZEQxUG5aRjlzZncxemtodkxFZS05UnFWZktOOVhIRDlVcXNDZU1rQTlRdUhnV1BqTzlXQzhkMTJwX1BIcUdHUmVobjk4?oc=5"
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qTVllbnBRX0dtVmJQazhGU09Dby1WUDUyS1RLTFVUSTBFbU5vTFFNdnJPbi1qR0EzSTI1RWNyMDVEcnRtOFNJQTBHaUttaU90REU3bldVYi1TNndwRC1KMmx3QzJHaWhZTzBqVW1PamFla011dWc?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-13T02:29:16.316867+00:00"
+    "last_updated": "2026-07-13T09:19:34.894501+00:00"
 }
