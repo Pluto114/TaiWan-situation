@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "知情人士回应“腾讯考虑入股 Manus”：预计股权变更完成后，腾讯方面仍只是持有少数股份的外部股东",
+                "title": "特斯拉披露 Cybercab 更多细节：全新超高效动力总成、4680 电池、低压电气架构等",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/622.htm"
+                "date": "2026-07-12",
+                "url": "https://www.ithome.com/0/975/661.htm"
             },
             {
-                "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/620.htm"
-            },
-            {
-                "title": "独家 | 智谱 CEO唐杰发内部信：「GLM 时刻」和万亿俱乐部之后，什么是更重要的事",
+                "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-11",
-                "url": "https://36kr.com/p/3891132709206784"
+                "date": "2026-07-12",
+                "url": "https://36kr.com/p/3892027841362694"
             },
             {
-                "title": "单价 3000 万美元的“死神”扛不住了，美国启动廉价无人机蜂群计划招标",
+                "title": "IT早报 0712：丰田日产本田上半年在华销量均下滑；小米澎程 N90 MAX 实车曝光；马斯克称要让 SpaceX 价值超过地球；SK 海力士 CEO 称明年迎最严重内存短缺...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/550.htm"
+                "url": "https://www.ithome.com/0/975/635.htm"
             },
             {
-                "title": "美国政府施压：苹果最终同意让英特尔代工部分 iPhone、Mac 芯片，成功换取半导体关税豁免",
-                "source": "NewsAPI / Ithome.com",
+                "title": "华为寻求多方力量筹建DRAM晶圆厂 力图突破存储芯片供应链瓶颈",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/475.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568706.htm"
+            },
+            {
+                "title": "Google反对在欧洲推行网站屏蔽措施 并担忧美国立法阻碍互联网基础架构",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568700.htm"
             }
         ],
         "mil": [
+            {
+                "title": "英国皇家海军成功完成“纽安”打击无人机首次海上弹射起飞测试",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568692.htm"
+            },
+            {
+                "title": "乌克兰战争：无人机持续切断俄能源 现代战争规则正在改写(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-11",
+                "url": "https://www.secretchina.com/news/gb/2026/07/12/1101883.html"
+            },
             {
                 "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
                 "source": "NewsAPI / Ithome.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-11",
                 "url": "https://36kr.com/p/3891132709206784"
-            },
-            {
-                "title": "单价 3000 万美元的“死神”扛不住了，美国启动廉价无人机蜂群计划招标",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/550.htm"
-            },
-            {
-                "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-11",
-                "url": "https://36kr.com/p/3890553690192384"
             },
             {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "知情人士回应“腾讯考虑入股 Manus”：预计股权变更完成后，腾讯方面仍只是持有少数股份的外部股东",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/622.htm"
-            },
-            {
-                "title": "智谱创始人唐杰发内部信：开启 Touch High 摸高计划，继续聚焦于 AGI 研究、而不是短期商业变现",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-11",
-                "url": "https://www.ithome.com/0/975/620.htm"
-            },
-            {
-                "title": "独家 | 智谱 CEO唐杰发内部信：「GLM 时刻」和万亿俱乐部之后，什么是更重要的事",
+                "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-11",
-                "url": "https://36kr.com/p/3891132709206784"
+                "date": "2026-07-12",
+                "url": "https://36kr.com/p/3892027841362694"
             },
             {
-                "title": "众泰汽车被证监会立案调查 已连续7年亏损共计250亿",
+                "title": "腾讯洽购Manus？知情人士：腾讯仍将保留少数股东地位",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568710.htm"
+            },
+            {
+                "title": "微软回应 Xbox 裁员争议：并非用外籍员工取代美国员工",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/640.htm"
+            },
+            {
+                "title": "IT早报 0712：丰田日产本田上半年在华销量均下滑；小米澎程 N90 MAX 实车曝光；马斯克称要让 SpaceX 价值超过地球；SK 海力士 CEO 称明年迎最严重内存短缺...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-11",
+                "url": "https://www.ithome.com/0/975/635.htm"
+            },
+            {
+                "title": "华为寻求多方力量筹建DRAM晶圆厂 力图突破存储芯片供应链瓶颈",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568672.htm"
-            },
-            {
-                "title": "欧洲国会幕僚团访台 吴志中：台欧深化合作、捍卫民主价值(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-11",
-                "url": "https://www.secretchina.com/news/gb/2026/07/11/1101859.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568706.htm"
             },
             {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-12T19:00:38.730719+00:00"
+    "last_updated": "2026-07-13T02:29:16.316867+00:00"
 }
