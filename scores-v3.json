@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "七二零：毁与再生的交战(组图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-12",
+                "url": "https://www.secretchina.com/news/gb/2026/07/12/1101908.html"
+            },
+            {
                 "title": "墙外文摘：摆脱中国市场迷思 台湾经济反而更好",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-07-12",
@@ -34,12 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-12",
                 "url": "https://www.ithome.com/0/975/767.htm"
-            },
-            {
-                "title": "国产人生模拟游戏《人生记事簿：Life Memoirs》登陆 Steam，国区售价 14.4 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/672.htm"
             }
         ],
         "mil": [
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "美国31州暴发寄生虫疫情 千余人感染(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-12",
+                "url": "https://www.secretchina.com/news/gb/2026/07/13/1101915.html"
+            },
+            {
+                "title": "崔天凯、耿爽访美目的曝光 中美互过招 美前官员警告(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-12",
+                "url": "https://www.secretchina.com/news/gb/2026/07/12/1101910.html"
+            },
+            {
                 "title": "台积电无法满足CoWoS需求 先进封装订单外溢至英特尔及本土竞争对手",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-12",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-12",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1568716.htm"
-            },
-            {
-                "title": "BW2026 七彩虹探展：清新夏日蓝白风格，全系硬件亮相",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/760.htm"
-            },
-            {
-                "title": "“背后空无一人”的LV，这次中国人彻底不买账了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-12",
-                "url": "https://36kr.com/p/3892442708032264"
             },
             {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-13T14:29:48.997390+00:00"
+    "last_updated": "2026-07-13T19:19:18.758702+00:00"
 }
