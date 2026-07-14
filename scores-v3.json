@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "七二零：毁与再生的交战(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-12",
-                "url": "https://www.secretchina.com/news/gb/2026/07/12/1101908.html"
-            },
-            {
-                "title": "墙外文摘：摆脱中国市场迷思 台湾经济反而更好",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-12",
-                "url": "https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E6%91%86%E8%84%B1%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E8%BF%B7%E6%80%9D-%E5%8F%B0%E6%B9%BE%E7%BB%8F%E6%B5%8E%E5%8F%8D%E8%80%8C%E6%9B%B4%E5%A5%BD/a-77924082"
-            },
-            {
-                "title": "台积电无法满足CoWoS需求 先进封装订单外溢至英特尔及本土竞争对手",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568736.htm"
-            },
-            {
-                "title": "美国消费信贷自2024年以来首次下降",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-12",
-                "url": "https://36kr.com/newsflashes/3892555378407942"
-            },
-            {
-                "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
+                "title": "小鹏 MONA L03 将于 7 月 16 日慕尼黑全球上市，同步公布物理 AI 新进展",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/767.htm"
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/871.htm"
+            },
+            {
+                "title": "华泰证券港股策略：持有前期高沽空、具有分散价值及盈利改善品种",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-13",
+                "url": "https://36kr.com/newsflashes/3893359393126912"
+            },
+            {
+                "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/865.htm"
+            },
+            {
+                "title": "穆迪：韩国央行预期的加息可能是紧缩周期的开始",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-13",
+                "url": "https://36kr.com/newsflashes/3893318332643848"
+            },
+            {
+                "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-13",
+                "url": "https://36kr.com/p/3890940898867712"
             }
         ],
         "mil": [
+            {
+                "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/865.htm"
+            },
+            {
+                "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-12",
+                "url": "https://36kr.com/p/3893305996442118"
+            },
+            {
+                "title": "IT早报 0713：央视曝家电测评造假链条；金山 WPS 宣布已改善 C 盘占用；GPT-5.6 一小时破解 50 年难题；电力部门回应多起台风期间涉电谣言...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-12",
+                "url": "https://www.ithome.com/0/975/843.htm"
+            },
+            {
+                "title": "科技行业裁员浪潮加剧 多数美国劳动者支持设立人工智能财富基金",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568738.htm"
+            },
             {
                 "title": "AI 策略模拟游戏《圣旨模拟器：一统天下》登陆 Steam，国区售价 42 元",
                 "source": "NewsAPI / Ithome.com",
@@ -50,30 +74,6 @@
                 "url": "https://www.ithome.com/0/975/626.htm"
             },
             {
-                "title": "腾讯重仓一个IPO",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-12",
-                "url": "https://36kr.com/p/3892352153942530"
-            },
-            {
-                "title": "中国在太平洋的核威慑能力有多大？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-12",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E6%A0%B8%E5%A8%81%E6%85%91%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7/a-77877394"
-            },
-            {
-                "title": "英国皇家海军成功完成“纽安”打击无人机首次海上弹射起飞测试",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568692.htm"
-            },
-            {
-                "title": "乌克兰战争：无人机持续切断俄能源 现代战争规则正在改写(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-11",
-                "url": "https://www.secretchina.com/news/gb/2026/07/12/1101883.html"
-            },
-            {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-12",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CUUttZDFVRG1GX19JSWVRa2Vfa1dsZi1Yd0l4TENZcWxHNXYtVTJKbWRJT2ZUTkZVUnVMZTJzMXJiWkdzbktuMkNlb3l6RFFuRFBOUGpMbUFqM181TGtJLWhieFpQX01nanhR?oc=5"
             },
             {
-                "title": "如何识别隐性疲劳？学会简单实用疲劳自测方法 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cWlnR2ROWnFYYnh0a19Wb3lqNFBJelNYQWVGYVpiSTB3eVF2SkdpQ05fQWV3WlZSRHRjQjZSdlRpcGFaZVFuUHk4Q3pxVkE0a0E?oc=5"
-            },
-            {
                 "title": "国务院印发《国民健康“十五五”规划》 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUWtYNDRjUFJwZjBMZXdTNFA1M3JNRnFvd2czejNQUTRfb0ZBaURPNXpJOFFoa1hfaEFoX1V3NlkwVWdfUkRIejV5V0RFcGRjcXc?oc=5"
             },
             {
-                "title": "解放军报评论员：共同努力推动科技事业欣欣向荣 - 中国军网",
+                "title": "联播+｜跨越600年 扬帆再远航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YXRqNnJNZ1hwdGRNOVBCbV9ESmYzV2NlRndCUVM3aVE4T2o1dWZGSzVwUE9SaWhULWZSNkNIUlVOQzVYOU9JYkNuSHoxc3JsbHc?oc=5"
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YU5reF9pQXQ1S2dIRHFiTjFObEFNN0VaNTZLb2Y3YXlXYy1Lb0pOS1FKeWRBSm9jNERySGwtT0ktM2pFelRqdjduVVFkTTNfb3c?oc=5"
+            },
+            {
+                "title": "@党员干部，要立身守正、秉公用权就要不因私情废公义 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZG0yalhZMFdPa3d2b25HdjNiUkdnUzBOTExXZklrVWxDVi16dWZsV2lyb3o2VUtzYkhrSEFKSWRIWmtHT0RJaDM5ajB1eHU3Q2c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美国31州暴发寄生虫疫情 千余人感染(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-12",
-                "url": "https://www.secretchina.com/news/gb/2026/07/13/1101915.html"
+                "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/865.htm"
             },
             {
-                "title": "崔天凯、耿爽访美目的曝光 中美互过招 美前官员警告(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-12",
-                "url": "https://www.secretchina.com/news/gb/2026/07/12/1101910.html"
+                "title": "2025 年爱尔兰数据中心耗电量占全国 23%，逼近居民用电总量",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/861.htm"
             },
             {
-                "title": "台积电无法满足CoWoS需求 先进封装订单外溢至英特尔及本土竞争对手",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568736.htm"
+                "title": "玩家给好评后仍能退款，独立开发者炮轰 Steam 两小时退款政策",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/854.htm"
             },
             {
-                "title": "IDC 数据：2026 年第二季度全球 PC 出货量同比下降 4.9% 至 6820 万台，连续九个季度增长后首次下滑",
+                "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-12",
+                "url": "https://36kr.com/p/3893305996442118"
+            },
+            {
+                "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/761.htm"
-            },
-            {
-                "title": "美国AI数据中心建设热潮挤占农业资源 引发多地农牧民强烈担忧与抗议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568716.htm"
+                "url": "https://www.ithome.com/0/975/850.htm"
             },
             {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CUUttZDFVRG1GX19JSWVRa2Vfa1dsZi1Yd0l4TENZcWxHNXYtVTJKbWRJT2ZUTkZVUnVMZTJzMXJiWkdzbktuMkNlb3l6RFFuRFBOUGpMbUFqM181TGtJLWhieFpQX01nanhR?oc=5"
             },
             {
-                "title": "如何识别隐性疲劳？学会简单实用疲劳自测方法 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cWlnR2ROWnFYYnh0a19Wb3lqNFBJelNYQWVGYVpiSTB3eVF2SkdpQ05fQWV3WlZSRHRjQjZSdlRpcGFaZVFuUHk4Q3pxVkE0a0E?oc=5"
-            },
-            {
                 "title": "国务院印发《国民健康“十五五”规划》 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUWtYNDRjUFJwZjBMZXdTNFA1M3JNRnFvd2czejNQUTRfb0ZBaURPNXpJOFFoa1hfaEFoX1V3NlkwVWdfUkRIejV5V0RFcGRjcXc?oc=5"
             },
             {
-                "title": "解放军报评论员：共同努力推动科技事业欣欣向荣 - 中国军网",
+                "title": "联播+｜跨越600年 扬帆再远航 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YXRqNnJNZ1hwdGRNOVBCbV9ESmYzV2NlRndCUVM3aVE4T2o1dWZGSzVwUE9SaWhULWZSNkNIUlVOQzVYOU9JYkNuSHoxc3JsbHc?oc=5"
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YU5reF9pQXQ1S2dIRHFiTjFObEFNN0VaNTZLb2Y3YXlXYy1Lb0pOS1FKeWRBSm9jNERySGwtT0ktM2pFelRqdjduVVFkTTNfb3c?oc=5"
+            },
+            {
+                "title": "@党员干部，要立身守正、秉公用权就要不因私情废公义 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZG0yalhZMFdPa3d2b25HdjNiUkdnUzBOTExXZklrVWxDVi16dWZsV2lyb3o2VUtzYkhrSEFKSWRIWmtHT0RJaDM5ajB1eHU3Q2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-13T19:19:18.758702+00:00"
+    "last_updated": "2026-07-14T02:09:01.945923+00:00"
 }
