@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小鹏 MONA L03 将于 7 月 16 日慕尼黑全球上市，同步公布物理 AI 新进展",
+                "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-13",
-                "url": "https://www.ithome.com/0/975/871.htm"
+                "url": "https://www.ithome.com/0/976/012.htm"
             },
             {
-                "title": "华泰证券港股策略：持有前期高沽空、具有分散价值及盈利改善品种",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-13",
-                "url": "https://36kr.com/newsflashes/3893359393126912"
-            },
-            {
-                "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+                "title": "消息称三星已完成特斯拉 AI5 芯片流片，将采用 2 纳米工艺在得州工厂量产",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-13",
-                "url": "https://www.ithome.com/0/975/865.htm"
+                "url": "https://www.ithome.com/0/975/956.htm"
             },
             {
-                "title": "穆迪：韩国央行预期的加息可能是紧缩周期的开始",
-                "source": "NewsAPI / 36kr.com",
+                "title": "除习不除党终究一场空 “红二代”最后通牒习8月下台(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-13",
-                "url": "https://36kr.com/newsflashes/3893318332643848"
+                "url": "https://www.secretchina.com/news/gb/2026/07/13/1101928.html"
             },
             {
-                "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
+                "title": "谷歌抢苹果首发？曝 Tensor G6 芯片将率先用上台积电 2nm 工艺",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/909.htm"
+            },
+            {
+                "title": "lululemon「割不动」中国人了",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-13",
-                "url": "https://36kr.com/p/3890940898867712"
+                "url": "https://36kr.com/p/3893430641703429"
             }
         ],
         "mil": [
             {
+                "title": "最高 320 公里续航、电动侧滑门，比亚迪纯电 K-Car“海獭” Racco 月底登陆日本",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-13",
+                "url": "https://www.ithome.com/0/975/949.htm"
+            },
+            {
+                "title": "lululemon「割不动」中国人了",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-13",
+                "url": "https://36kr.com/p/3893430641703429"
+            },
+            {
+                "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-13",
+                "url": "https://36kr.com/p/3893445208717826"
+            },
+            {
                 "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-13",
@@ -56,22 +74,10 @@
                 "url": "https://36kr.com/p/3893305996442118"
             },
             {
-                "title": "IT早报 0713：央视曝家电测评造假链条；金山 WPS 宣布已改善 C 盘占用；GPT-5.6 一小时破解 50 年难题；电力部门回应多起台风期间涉电谣言...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/843.htm"
-            },
-            {
-                "title": "科技行业裁员浪潮加剧 多数美国劳动者支持设立人工智能财富基金",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568738.htm"
-            },
-            {
-                "title": "AI 策略模拟游戏《圣旨模拟器：一统天下》登陆 Steam，国区售价 42 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/626.htm"
+                "title": "2026年7月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-13",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oXzVMbTlPaUVkM21fXzFtNjFKR1oxbXp6SEtsRnU3eTFCNEhtOXRuMUl2M3NlclRjN011QVdJR0VzQUVfQzNOYUZMaFlRUnhjYXQ5VjZqWG1Jci05MTJTbW5UZnZSQnhNQTJmZ1ZHNGpZMnVqZUE?oc=5"
             },
             {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
@@ -83,13 +89,7 @@
                 "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qTVllbnBRX0dtVmJQazhGU09Dby1WUDUyS1RLTFVUSTBFbU5vTFFNdnJPbi1qR0EzSTI1RWNyMDVEcnRtOFNJQTBHaUttaU90REU3bldVYi1TNndwRC1KMmx3QzJHaWhZTzBqVW1PamFla011dWc?oc=5"
-            },
-            {
-                "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CUUttZDFVRG1GX19JSWVRa2Vfa1dsZi1Yd0l4TENZcWxHNXYtVTJKbWRJT2ZUTkZVUnVMZTJzMXJiWkdzbktuMkNlb3l6RFFuRFBOUGpMbUFqM181TGtJLWhieFpQX01nanhR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40T09FS0hPZFVOa1pXRW03S09EMGM3c0daQjdQRTlDNl9teEwzUi1wZ2Y0Q2RfakZqbi1ZTktVNUlfOG10cDJxdzhYZTBHWnBYM0h1TUJRaFZ3ajZheUowV2JkUW1WR0UyeDNqUkFqeGpJcnU3M25LamdnSHY?oc=5"
             },
             {
                 "title": "国务院印发《国民健康“十五五”规划》 - 中国军网",
@@ -98,48 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUWtYNDRjUFJwZjBMZXdTNFA1M3JNRnFvd2czejNQUTRfb0ZBaURPNXpJOFFoa1hfaEFoX1V3NlkwVWdfUkRIejV5V0RFcGRjcXc?oc=5"
             },
             {
-                "title": "联播+｜跨越600年 扬帆再远航 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YU5reF9pQXQ1S2dIRHFiTjFObEFNN0VaNTZLb2Y3YXlXYy1Lb0pOS1FKeWRBSm9jNERySGwtT0ktM2pFelRqdjduVVFkTTNfb3c?oc=5"
-            },
-            {
                 "title": "@党员干部，要立身守正、秉公用权就要不因私情废公义 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZG0yalhZMFdPa3d2b25HdjNiUkdnUzBOTExXZklrVWxDVi16dWZsV2lyb3o2VUtzYkhrSEFKSWRIWmtHT0RJaDM5ajB1eHU3Q2c?oc=5"
+            },
+            {
+                "title": "画里有话丨保持“终场前”的警觉 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZSTJfVEVsZ1VJWkM2ZGUtQ0lrakl1Yzc2cHhydW9PLTV2cUZ2aVMwTERUVkVmYVNMS0JUbkRVZk1TeGNVcEZNZ2k3Q21vZmwwSVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+                "title": "微软 CEO 纳德拉批评 AI 模型公司“双标”：一边主张“合理使用”数据，一边限制他人蒸馏",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-13",
-                "url": "https://www.ithome.com/0/975/865.htm"
+                "url": "https://www.ithome.com/0/975/986.htm"
             },
             {
-                "title": "2025 年爱尔兰数据中心耗电量占全国 23%，逼近居民用电总量",
+                "title": "消息称三星已完成特斯拉 AI5 芯片流片，将采用 2 纳米工艺在得州工厂量产",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-13",
-                "url": "https://www.ithome.com/0/975/861.htm"
+                "url": "https://www.ithome.com/0/975/956.htm"
             },
             {
-                "title": "玩家给好评后仍能退款，独立开发者炮轰 Steam 两小时退款政策",
-                "source": "NewsAPI / Ithome.com",
+                "title": "除习不除党终究一场空 “红二代”最后通牒习8月下台(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-13",
-                "url": "https://www.ithome.com/0/975/854.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/13/1101928.html"
             },
             {
-                "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
+                "title": "lululemon「割不动」中国人了",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-12",
-                "url": "https://36kr.com/p/3893305996442118"
+                "date": "2026-07-13",
+                "url": "https://36kr.com/p/3893430641703429"
             },
             {
-                "title": "芯片板块剧烈波动，业内多位高管称 AI 需求依然强劲",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-12",
-                "url": "https://www.ithome.com/0/975/850.htm"
+                "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-13",
+                "url": "https://36kr.com/p/3879780282495236"
+            },
+            {
+                "title": "2026年7月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-13",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oXzVMbTlPaUVkM21fXzFtNjFKR1oxbXp6SEtsRnU3eTFCNEhtOXRuMUl2M3NlclRjN011QVdJR0VzQUVfQzNOYUZMaFlRUnhjYXQ5VjZqWG1Jci05MTJTbW5UZnZSQnhNQTJmZ1ZHNGpZMnVqZUE?oc=5"
             },
             {
                 "title": "中华人民共和国外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明 - mfa.gov.cn",
@@ -151,13 +157,7 @@
                 "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qTVllbnBRX0dtVmJQazhGU09Dby1WUDUyS1RLTFVUSTBFbU5vTFFNdnJPbi1qR0EzSTI1RWNyMDVEcnRtOFNJQTBHaUttaU90REU3bldVYi1TNndwRC1KMmx3QzJHaWhZTzBqVW1PamFla011dWc?oc=5"
-            },
-            {
-                "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CUUttZDFVRG1GX19JSWVRa2Vfa1dsZi1Yd0l4TENZcWxHNXYtVTJKbWRJT2ZUTkZVUnVMZTJzMXJiWkdzbktuMkNlb3l6RFFuRFBOUGpMbUFqM181TGtJLWhieFpQX01nanhR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40T09FS0hPZFVOa1pXRW03S09EMGM3c0daQjdQRTlDNl9teEwzUi1wZ2Y0Q2RfakZqbi1ZTktVNUlfOG10cDJxdzhYZTBHWnBYM0h1TUJRaFZ3ajZheUowV2JkUW1WR0UyeDNqUkFqeGpJcnU3M25LamdnSHY?oc=5"
             },
             {
                 "title": "国务院印发《国民健康“十五五”规划》 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUWtYNDRjUFJwZjBMZXdTNFA1M3JNRnFvd2czejNQUTRfb0ZBaURPNXpJOFFoa1hfaEFoX1V3NlkwVWdfUkRIejV5V0RFcGRjcXc?oc=5"
             },
             {
-                "title": "联播+｜跨越600年 扬帆再远航 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YU5reF9pQXQ1S2dIRHFiTjFObEFNN0VaNTZLb2Y3YXlXYy1Lb0pOS1FKeWRBSm9jNERySGwtT0ktM2pFelRqdjduVVFkTTNfb3c?oc=5"
-            },
-            {
                 "title": "@党员干部，要立身守正、秉公用权就要不因私情废公义 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZG0yalhZMFdPa3d2b25HdjNiUkdnUzBOTExXZklrVWxDVi16dWZsV2lyb3o2VUtzYkhrSEFKSWRIWmtHT0RJaDM5ajB1eHU3Q2c?oc=5"
+            },
+            {
+                "title": "画里有话丨保持“终场前”的警觉 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-13",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZSTJfVEVsZ1VJWkM2ZGUtQ0lrakl1Yzc2cHhydW9PLTV2cUZ2aVMwTERUVkVmYVNMS0JUbkRVZk1TeGNVcEZNZ2k3Q21vZmwwSVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-14T02:09:01.945923+00:00"
+    "last_updated": "2026-07-14T07:57:40.320339+00:00"
 }
