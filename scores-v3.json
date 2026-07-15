@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "停售实体光盘引争议，墨西哥议员拟向反垄断机构投诉索尼",
+                "title": "科创板史上第二大 IPO：长鑫科技确定发行价 8.66 元 / 股，7 月 16 日启动申购",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/556.htm"
+                "url": "https://www.ithome.com/0/976/731.htm"
             },
             {
-                "title": "“eVTOL 第一股”亿航智能回应裁员传闻：基于 AI 提效背景优化低绩效岗位，核心骨干团队保持稳定",
+                "title": "中俄能源合作难有突破 双方各怀盘算利益分歧浮现(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-14",
+                "url": "https://www.secretchina.com/news/gb/2026/07/14/1102000.html"
+            },
+            {
+                "title": "美国铁路旅行升温 越来越多人改搭火车度假(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-14",
+                "url": "https://www.secretchina.com/news/gb/2026/07/14/1101997.html"
+            },
+            {
+                "title": "欧盟批准 6.59 亿欧元德国国家援助，用于支持四座半导体设施建设",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/530.htm"
+                "url": "https://www.ithome.com/0/976/709.htm"
             },
             {
-                "title": "三星电子据悉初步探讨发行美国存托凭证的可能性",
+                "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-14",
-                "url": "https://36kr.com/newsflashes/3895165690526982"
-            },
-            {
-                "title": "Omdia：京东方有望向苹果 2027 年 iPad Air 、2028 年 MacBook Pro 供应 OLED",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/455.htm"
-            },
-            {
-                "title": "17999 元联想 YOGA AI 迷你主机高配版上市：英特尔酷睿 Ultra X7 358H 处理器，64GB 内存 +1TB SSD",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/450.htm"
+                "url": "https://36kr.com/p/3895322613185543"
             }
         ],
         "mil": [
             {
+                "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-14",
+                "url": "https://36kr.com/p/3895322613185543"
+            },
+            {
+                "title": "BiliBili World 2026“英特尔全明星”探展，IT之家带你围观琳琅新品",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-14",
+                "url": "https://www.ithome.com/0/976/592.htm"
+            },
+            {
+                "title": "美军首次使用无人艇执行攻击任务 伊朗境内目标受袭",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568880.htm"
+            },
+            {
                 "title": "刚果伊波拉疫情扩散 美国禁公民直飞返美 - 8world",
                 "source": "NewsAPI / 8world.com",
                 "date": "2026-07-14",
@@ -54,30 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-14",
                 "url": "https://www.ithome.com/0/976/452.htm"
-            },
-            {
-                "title": "胡峥楠：小米汽车 4 款产品 4 年投入 2684 台测试车，路测总里程超 3551 万公里",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/438.htm"
-            },
-            {
-                "title": "台湾真正的战略考验(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-14",
-                "url": "https://www.secretchina.com/news/gb/2026/07/14/1101976.html"
-            },
-            {
-                "title": "瑞典初创公司推出高性能拦截无人机 以高性价比应对低空威胁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568860.htm"
-            },
-            {
-                "title": "2026年7月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-13",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oXzVMbTlPaUVkM21fXzFtNjFKR1oxbXp6SEtsRnU3eTFCNEhtOXRuMUl2M3NlclRjN011QVdJR0VzQUVfQzNOYUZMaFlRUnhjYXQ5VjZqWG1Jci05MTJTbW5UZnZSQnhNQTJmZ1ZHNGpZMnVqZUE?oc=5"
             },
             {
                 "title": "王毅同哈萨克斯坦外长科舍尔巴耶夫会谈 - mfa.gov.cn",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "国务院印发《国民健康“十五五”规划》 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUWtYNDRjUFJwZjBMZXdTNFA1M3JNRnFvd2czejNQUTRfb0ZBaURPNXpJOFFoa1hfaEFoX1V3NlkwVWdfUkRIejV5V0RFcGRjcXc?oc=5"
+                "title": "2026年7月14日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN3R4NGJLOTRidF9mSm1jakh2QVA1YzBZbmxPN251MGQ0T1F3N2p1V3pwNWdfSG9FdndjSFZpUTE2U1R0Y2FvWmptYS1JaDUxa2VYRm1tVjc4ejNPS2Z0clpUMDhHRU5zZ0Vsc2ZSUHhZbHBvdUE?oc=5"
             },
             {
                 "title": "国际社会期待习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - 中国军网",
@@ -108,9 +102,39 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
+                "title": "《求是》杂志发表习近平总书记重要文章《在庆祝中国共产党成立105周年大会上的讲话》 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-15",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMN1djcW0wMlNxVTVpQTBORzA3RFJ5enFfZFFDRjg2RkZWYmpySFN5Rk9adUlNdlRDZ3lrdkxfLVQ4UFVYeUVDS2V5cw?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "技术官僚落马 中央政治局委员马兴瑞被双开",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-14",
+                "url": "https://www.dw.com/zh/%E6%8A%80%E6%9C%AF%E5%AE%98%E5%83%9A%E8%90%BD%E9%A9%AC-%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E5%8F%8C%E5%BC%80/a-77950866"
+            },
+            {
+                "title": "欧盟批准 6.59 亿欧元德国国家援助，用于支持四座半导体设施建设",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-14",
+                "url": "https://www.ithome.com/0/976/709.htm"
+            },
+            {
+                "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-14",
+                "url": "https://36kr.com/p/3895322613185543"
+            },
+            {
+                "title": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-14",
+                "url": "https://36kr.com/p/3895355856403456"
+            },
             {
                 "title": "停售实体光盘引争议，墨西哥议员拟向反垄断机构投诉索尼",
                 "source": "NewsAPI / Ithome.com",
@@ -118,36 +142,6 @@
                 "url": "https://www.ithome.com/0/976/556.htm"
             },
             {
-                "title": "“eVTOL 第一股”亿航智能回应裁员传闻：基于 AI 提效背景优化低绩效岗位，核心骨干团队保持稳定",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/530.htm"
-            },
-            {
-                "title": "刚果伊波拉疫情扩散 美国禁公民直飞返美 - 8world",
-                "source": "NewsAPI / 8world.com",
-                "date": "2026-07-14",
-                "url": "https://www.8world.com/world/us-to-block-citizens-in-congo-from-immediate-travel-home-3216631"
-            },
-            {
-                "title": "2026 年菲尔兹奖提前泄露：北大校友王虹、邓煜或双双封神",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/452.htm"
-            },
-            {
-                "title": "FAA 结束星舰事故调查，SpaceX 计划 7 月 17 日实施第 13 次试飞",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/447.htm"
-            },
-            {
-                "title": "2026年7月13日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-13",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oXzVMbTlPaUVkM21fXzFtNjFKR1oxbXp6SEtsRnU3eTFCNEhtOXRuMUl2M3NlclRjN011QVdJR0VzQUVfQzNOYUZMaFlRUnhjYXQ5VjZqWG1Jci05MTJTbW5UZnZSQnhNQTJmZ1ZHNGpZMnVqZUE?oc=5"
-            },
-            {
                 "title": "王毅同哈萨克斯坦外长科舍尔巴耶夫会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-13",
@@ -160,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "国务院印发《国民健康“十五五”规划》 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yUWtYNDRjUFJwZjBMZXdTNFA1M3JNRnFvd2czejNQUTRfb0ZBaURPNXpJOFFoa1hfaEFoX1V3NlkwVWdfUkRIejV5V0RFcGRjcXc?oc=5"
+                "title": "2026年7月14日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN3R4NGJLOTRidF9mSm1jakh2QVA1YzBZbmxPN251MGQ0T1F3N2p1V3pwNWdfSG9FdndjSFZpUTE2U1R0Y2FvWmptYS1JaDUxa2VYRm1tVjc4ejNPS2Z0clpUMDhHRU5zZ0Vsc2ZSUHhZbHBvdUE?oc=5"
             },
             {
                 "title": "国际社会期待习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+            },
+            {
+                "title": "《求是》杂志发表习近平总书记重要文章《在庆祝中国共产党成立105周年大会上的讲话》 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-15",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMN1djcW0wMlNxVTVpQTBORzA3RFJ5enFfZFFDRjg2RkZWYmpySFN5Rk9adUlNdlRDZ3lrdkxfLVQ4UFVYeUVDS2V5cw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-15T08:02:58.893419+00:00"
+    "last_updated": "2026-07-15T13:37:03.775524+00:00"
 }
