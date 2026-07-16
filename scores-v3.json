@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中信证券：继续全面看好国产算力产业链",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/newsflashes/3896189224781440"
-            },
-            {
-                "title": "调查显示驾驶辅助系统滥用成交通安全最大隐患",
+                "title": "消息称华为今年将生产6000万部智能手机 将出货量提高超20%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568992.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569008.htm"
             },
             {
-                "title": "AI算力需求吸走客户 IBM市值蒸发4600亿：CEO公开信说了什么？",
+                "title": "比亚迪副总裁李柯：没有美国市场 公司销量也能超越丰田",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568990.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569006.htm"
             },
             {
-                "title": "中信证券：休闲出海方兴未艾，聚焦“三消”与“二合”赛道",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/newsflashes/3896171530717059"
-            },
-            {
-                "title": "美国造车新势力 Lucid 否认“破产”传闻：我们的流动资金好着呢",
+                "title": "出版商与作者集体起诉谷歌，指控其盗用版权内容训练 Gemini AI",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/976/797.htm"
+                "url": "https://www.ithome.com/0/977/050.htm"
+            },
+            {
+                "title": "央行：加大逆周期和跨周期调节力度，巩固拓展经济稳中向好势头",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-15",
+                "url": "https://36kr.com/newsflashes/3896572389344898"
+            },
+            {
+                "title": "国家统计局：我国平均每天生产芯片超过 15 亿块",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-15",
+                "url": "https://www.ithome.com/0/977/023.htm"
             }
         ],
         "mil": [
+            {
+                "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-15",
+                "url": "https://36kr.com/p/3889213745543687"
+            },
+            {
+                "title": "IBM 股价大跌，CEO 克里希纳向投资者解释业绩未达预期原因",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-15",
+                "url": "https://www.ithome.com/0/976/867.htm"
+            },
             {
                 "title": "AI算力需求吸走客户 IBM市值蒸发4600亿：CEO公开信说了什么？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,34 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1568954.htm"
             },
             {
-                "title": "IT早报 0715：曝 DeepSeek 最快今年申请 IPO；IBM 股价创 1987 年来最大单日跌幅；苏州首创配送自动排除骑手等红灯时间；华为 5G 手机全球回归...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-14",
-                "url": "https://www.ithome.com/0/976/779.htm"
-            },
-            {
-                "title": "美军新一轮空袭伊朗 川普：下周打击将更猛烈(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-14",
-                "url": "https://www.secretchina.com/news/gb/2026/07/15/1102020.html"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "2026年7月14日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-14",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN3R4NGJLOTRidF9mSm1jakh2QVA1YzBZbmxPN251MGQ0T1F3N2p1V3pwNWdfSG9FdndjSFZpUTE2U1R0Y2FvWmptYS1JaDUxa2VYRm1tVjc4ejNPS2Z0clpUMDhHRU5zZ0Vsc2ZSUHhZbHBvdUE?oc=5"
-            },
-            {
                 "title": "林剑：美方应立即停止对古巴的封锁和胁迫施压（2026年7月15日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-15",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1IzbU9lOWVKbTRsXzN3RkNZT2hUTWh2RzNUV0lhWnp6TGpDYTZqX1FVRXM2amRXbElMLUg5ejhKM3RPdzk0d1RKSFNwMTFQSEc4SzY3eUtFU2tlOG5KX0pXdTVGZ1JJYm95NkYxV2hTbkJobndfbVlnQXJXbzA3VktJVW5TTVZoa0d1akF6ekY?oc=5"
+            },
+            {
+                "title": "林剑：中方不接受、不承认“裁决”，正是以实际行动维护国际法治和国际海洋秩序（2026年7月14日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-14",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODRNM3hoOGRDRmVlMjRpVkRnS1l5SXlUQ1BBMjVqVXhmaW9xNkw3OHk4UWk4ZkZQSDdSamFLTEtCdlhGRXlsMGJQakV0eUE4aXpsckJvNkVqSTktSnBSQzFRdmVPV3RCNW9tV3pMOE41YWdYV2dtNUdYZEZCQ1ljeU5OemdtOXJaY3Fv?oc=5"
+            },
+            {
+                "title": "驻黑山大使陈绪峰出席中国式现代化宣介会暨庆祝建军99周年招待会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-15",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHhNaTEwdDZQTFkyYWRRQmVPMjZaSzhtQjlLM21weXg3R3FhTFlRbEpCMkZPdkJHaXBEZk5leXljWk1pc2JfUW5MWGJrT09DdkFGS08zYWdSRDM0X0hnYTRzMzYySjN4T25LcXNka0VMWWI1YWFLYUlpQnFtZWxHZDZEczI?oc=5"
             },
             {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/976/812.htm"
-            },
-            {
-                "title": "AI算力需求吸走客户 IBM市值蒸发4600亿：CEO公开信说了什么？",
+                "title": "比亚迪副总裁李柯：没有美国市场 公司销量也能超越丰田",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568990.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569006.htm"
             },
             {
-                "title": "美国造车新势力 Lucid 否认“破产”传闻：我们的流动资金好着呢",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/976/797.htm"
-            },
-            {
-                "title": "巴菲特年度捐赠名单剔除盖茨基金会 计划到2034年捐出剩余财富",
+                "title": "“加油站海洛因”泛滥引发公共卫生危机 拟被DEA列为一级管制药物",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1568986.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1568998.htm"
             },
             {
-                "title": "SK 海力士美股 ADR 单日暴涨 27.29% 创新高，较韩股溢价超 50%",
+                "title": "Mozilla 抨击微软：Win11 26H2 备份策略增加 Firefox 浏览器用户留存压力",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/976/794.htm"
+                "url": "https://www.ithome.com/0/976/954.htm"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "title": "优衣库再失一枚棋子",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-15",
+                "url": "https://36kr.com/p/3885699885445122"
             },
             {
-                "title": "2026年7月14日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-14",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN3R4NGJLOTRidF9mSm1jakh2QVA1YzBZbmxPN251MGQ0T1F3N2p1V3pwNWdfSG9FdndjSFZpUTE2U1R0Y2FvWmptYS1JaDUxa2VYRm1tVjc4ejNPS2Z0clpUMDhHRU5zZ0Vsc2ZSUHhZbHBvdUE?oc=5"
+                "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-15",
+                "url": "https://36kr.com/p/3889213745543687"
             },
             {
                 "title": "林剑：美方应立即停止对古巴的封锁和胁迫施压（2026年7月15日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-15",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1IzbU9lOWVKbTRsXzN3RkNZT2hUTWh2RzNUV0lhWnp6TGpDYTZqX1FVRXM2amRXbElMLUg5ejhKM3RPdzk0d1RKSFNwMTFQSEc4SzY3eUtFU2tlOG5KX0pXdTVGZ1JJYm95NkYxV2hTbkJobndfbVlnQXJXbzA3VktJVW5TTVZoa0d1akF6ekY?oc=5"
+            },
+            {
+                "title": "林剑：中方不接受、不承认“裁决”，正是以实际行动维护国际法治和国际海洋秩序（2026年7月14日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-14",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODRNM3hoOGRDRmVlMjRpVkRnS1l5SXlUQ1BBMjVqVXhmaW9xNkw3OHk4UWk4ZkZQSDdSamFLTEtCdlhGRXlsMGJQakV0eUE4aXpsckJvNkVqSTktSnBSQzFRdmVPV3RCNW9tV3pMOE41YWdYV2dtNUdYZEZCQ1ljeU5OemdtOXJaY3Fv?oc=5"
+            },
+            {
+                "title": "驻黑山大使陈绪峰出席中国式现代化宣介会暨庆祝建军99周年招待会 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-15",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHhNaTEwdDZQTFkyYWRRQmVPMjZaSzhtQjlLM21weXg3R3FhTFlRbEpCMkZPdkJHaXBEZk5leXljWk1pc2JfUW5MWGJrT09DdkFGS08zYWdSRDM0X0hnYTRzMzYySjN4T25LcXNka0VMWWI1YWFLYUlpQnFtZWxHZDZEczI?oc=5"
             },
             {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-16T02:20:39.655554+00:00"
+    "last_updated": "2026-07-16T08:07:04.475442+00:00"
 }
