@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美国拟祭100%关税 剑指买俄能源国家 川普表态支持(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-15",
+                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102064.html"
+            },
+            {
+                "title": "美国官员：中国规避出口管制手法多样，商务部拟大幅增加执法预算",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-15",
+                "url": "https://www.voachinese.com/a/us-seeking-more-funding-to-target-china-on-export-control-of-us-technologies-20260715/8171827.html"
+            },
+            {
                 "title": "美国财政部首次制裁VPN服务提供商及其管理人员 重拳打击勒索软件幕后帮凶",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-15",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-15",
                 "url": "https://www.ithome.com/0/977/215.htm"
-            },
-            {
-                "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/p/3896830362601351"
-            },
-            {
-                "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/p/3896563671222147"
             }
         ],
         "mil": [
+            {
+                "title": "美军轰炸伊朗大通布岛 削弱攻击霍峡商船能力(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-15",
+                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102062.html"
+            },
+            {
+                "title": "美国加紧对伊朗的打击行动，对伊朗港口的封锁生效",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-15",
+                "url": "https://www.voachinese.com/a/us-intensifies-strikes-in-iran-as-port-blockade-takes-effect-20260715/8172088.html"
+            },
             {
                 "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
                 "source": "NewsAPI / 36kr.com",
@@ -62,22 +74,16 @@
                 "url": "https://36kr.com/p/3896639400183687"
             },
             {
-                "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/p/3889213745543687"
-            },
-            {
-                "title": "IBM 股价大跌，CEO 克里希纳向投资者解释业绩未达预期原因",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/976/867.htm"
-            },
-            {
                 "title": "2026年7月15日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-15",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wYWlZckpyb3N5dy1vang5UFdoUTF4TzRkMG91UEFfZ0pKNnJsMXpoWHBoTk5jTHNubzhmREpZSnZLOEJjQUlzZ3M5OWc5Um1nQ1BKekxRVTNrZHpuemdzLWV6WU91SVpvam5tWXpURDk0NkxDWHc?oc=5"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "林剑：美方应立即停止对古巴的封锁和胁迫施压（2026年7月15日） - mfa.gov.cn",
@@ -86,60 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1IzbU9lOWVKbTRsXzN3RkNZT2hUTWh2RzNUV0lhWnp6TGpDYTZqX1FVRXM2amRXbElMLUg5ejhKM3RPdzk0d1RKSFNwMTFQSEc4SzY3eUtFU2tlOG5KX0pXdTVGZ1JJYm95NkYxV2hTbkJobndfbVlnQXJXbzA3VktJVW5TTVZoa0d1akF6ekY?oc=5"
             },
             {
-                "title": "林剑：让智能时代的红利更多惠及发展中国家，促进人类社会的发展繁荣（2026年7月16日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzZiYTBUX2NGcUhhVkxtckRZbmFHbVlacVFCcDVGMENtUUNEMGp4UGRuU2tRYXA1Z05UYTAzZmtnM251UjZWQmR3VE9uWlh2YWMzMElFX3hETW9ob2d5c0V4RkFiWVY5MktucGNFX1Z3LWFxdWtLQXNBS21GNjc1TjlmYzVIOXBaREhwLTFFaGM?oc=5"
-            },
-            {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-15",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXQXppYnUyX0dPTmpNTVpBTzVKRVVTNXpFVVBPR2lNTUpxREY0Qzh4c2d3QldQVTM1c1ZRN1pJZXl5RHI2azgtNUhBa0poSjc0SFE?oc=5"
             },
             {
+                "title": "近镜头｜人民的小事就是我们的大事 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JeVgydktjckl3WHpaMkVyNENYT0pvZy1YMDRvYjEtdVQzc0h0MzlSbWplN2lKLVVWVi1KWkhCUThwN1NhNEdDZE9GcWRQZGJLWFE?oc=5"
+            },
+            {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "《求是》杂志发表习近平总书记重要文章《在庆祝中国共产党成立105周年大会上的讲话》 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-15",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMN1djcW0wMlNxVTVpQTBORzA3RFJ5enFfZFFDRjg2RkZWYmpySFN5Rk9adUlNdlRDZ3lrdkxfLVQ4UFVYeUVDS2V5cw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "热浪席卷欧洲 民众轻信社交媒体“冰箱降温法”导致大量手机因受潮损坏送修",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569050.htm"
-            },
-            {
-                "title": "美国财政部首次制裁VPN服务提供商及其管理人员 重拳打击勒索软件幕后帮凶",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569048.htm"
-            },
-            {
-                "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/p/3896563671222147"
-            },
-            {
-                "title": "反制中共恶法 学者吁台湾立专法、通过境外代理人应对(图)",
+                "title": "在任中共政治局委员马兴瑞为什么被双开(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-15",
-                "url": "https://www.secretchina.com/news/gb/2026/07/15/1102040.html"
+                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102058.html"
             },
             {
-                "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
-                "source": "NewsAPI / 36kr.com",
+                "title": "刚果民主共和国伊波拉疫情恶化 累计逾2000病例754人死亡 - 8world",
+                "source": "NewsAPI / 8world.com",
                 "date": "2026-07-15",
-                "url": "https://36kr.com/p/3896755010963333"
+                "url": "https://www.8world.com/world/ebola-3218576"
+            },
+            {
+                "title": "实验室带你过周末：2026.7.18 - 7.19 上海篇",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-07-15",
+                "url": "https://www.toodaylab.com/84120"
+            },
+            {
+                "title": "美国官员：中国规避出口管制手法多样，商务部拟大幅增加执法预算",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-15",
+                "url": "https://www.voachinese.com/a/us-seeking-more-funding-to-target-china-on-export-control-of-us-technologies-20260715/8171827.html"
+            },
+            {
+                "title": "人形机器人公司逐际动力完成近 2 亿美元 Pre-IPO 轮融资，重点用于大小脑融合技术的突破和产品化",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-15",
+                "url": "https://www.ithome.com/0/977/234.htm"
             },
             {
                 "title": "2026年7月15日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wYWlZckpyb3N5dy1vang5UFdoUTF4TzRkMG91UEFfZ0pKNnJsMXpoWHBoTk5jTHNubzhmREpZSnZLOEJjQUlzZ3M5OWc5Um1nQ1BKekxRVTNrZHpuemdzLWV6WU91SVpvam5tWXpURDk0NkxDWHc?oc=5"
             },
             {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
                 "title": "林剑：美方应立即停止对古巴的封锁和胁迫施压（2026年7月15日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-15",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1IzbU9lOWVKbTRsXzN3RkNZT2hUTWh2RzNUV0lhWnp6TGpDYTZqX1FVRXM2amRXbElMLUg5ejhKM3RPdzk0d1RKSFNwMTFQSEc4SzY3eUtFU2tlOG5KX0pXdTVGZ1JJYm95NkYxV2hTbkJobndfbVlnQXJXbzA3VktJVW5TTVZoa0d1akF6ekY?oc=5"
-            },
-            {
-                "title": "林剑：让智能时代的红利更多惠及发展中国家，促进人类社会的发展繁荣（2026年7月16日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzZiYTBUX2NGcUhhVkxtckRZbmFHbVlacVFCcDVGMENtUUNEMGp4UGRuU2tRYXA1Z05UYTAzZmtnM251UjZWQmR3VE9uWlh2YWMzMElFX3hETW9ob2d5c0V4RkFiWVY5MktucGNFX1Z3LWFxdWtLQXNBS21GNjc1TjlmYzVIOXBaREhwLTFFaGM?oc=5"
             },
             {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXQXppYnUyX0dPTmpNTVpBTzVKRVVTNXpFVVBPR2lNTUpxREY0Qzh4c2d3QldQVTM1c1ZRN1pJZXl5RHI2azgtNUhBa0poSjc0SFE?oc=5"
             },
             {
+                "title": "近镜头｜人民的小事就是我们的大事 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JeVgydktjckl3WHpaMkVyNENYT0pvZy1YMDRvYjEtdVQzc0h0MzlSbWplN2lKLVVWVi1KWkhCUThwN1NhNEdDZE9GcWRQZGJLWFE?oc=5"
+            },
+            {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
-            },
-            {
-                "title": "《求是》杂志发表习近平总书记重要文章《在庆祝中国共产党成立105周年大会上的讲话》 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-15",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMN1djcW0wMlNxVTVpQTBORzA3RFJ5enFfZFFDRjg2RkZWYmpySFN5Rk9adUlNdlRDZ3lrdkxfLVQ4UFVYeUVDS2V5cw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-16T13:42:51.229533+00:00"
+    "last_updated": "2026-07-16T19:04:24.042521+00:00"
 }
