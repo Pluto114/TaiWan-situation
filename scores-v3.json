@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国拟祭100%关税 剑指买俄能源国家 川普表态支持(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-15",
-                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102064.html"
+                "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-16",
+                "url": "https://36kr.com/p/3896586337978244"
             },
             {
-                "title": "美国官员：中国规避出口管制手法多样，商务部拟大幅增加执法预算",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-15",
-                "url": "https://www.voachinese.com/a/us-seeking-more-funding-to-target-china-on-export-control-of-us-technologies-20260715/8171827.html"
+                "title": "涉嫌“串通价格”：澜起科技、瑞萨电子、Rambus 内存接口芯片三强遭韩国调查，三家合计全球市场份额超 93%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/301.htm"
             },
             {
-                "title": "美国财政部首次制裁VPN服务提供商及其管理人员 重拳打击勒索软件幕后帮凶",
+                "title": "还特斯拉清白：NTSB 确认美国得州车祸中驾驶员电门踩到 100%，FSD 没有控制权",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/296.htm"
+            },
+            {
+                "title": "Google与Epic撤销和解协议 第三方Android应用商店下周将在美上线",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569048.htm"
+                "date": "2026-07-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569104.htm"
             },
             {
-                "title": "订单太多忙不过来，消息称三星电子拟将谷歌 TPU I/O 芯片后端设计工作外包",
+                "title": "苹果和 OpenAI 商业纠纷细节：2 封关键邮件、13 分钟间隔与 1 次姓名混淆",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/977/224.htm"
-            },
-            {
-                "title": "华为：引望作为中国专家组核心成员深度参与联合国自动驾驶法规 ADS GTR 制定",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/977/215.htm"
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/291.htm"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-15",
+                "url": "https://36kr.com/p/3897553391978371"
+            },
+            {
+                "title": "【半月刊】反共菁英的美国梦：从越南难民到美军统帅(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-15",
+                "url": "https://www.secretchina.com/news/gb/2026/07/16/1100780.html"
+            },
+            {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-15",
+                "url": "https://www.voachinese.com/a/8167152.html"
+            },
+            {
+                "title": "美国会两党呼吁加强科研安全，防止联邦科研资金流向中国军工机构",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-15",
+                "url": "https://www.voachinese.com/a/bipartisan-lawmakers-seek-stronger-research-security-measures-to-prevent-china-s-military-access-to-federally-funded-research-20260715/8172174.html"
+            },
             {
                 "title": "美军轰炸伊朗大通布岛 削弱攻击霍峡商船能力(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -50,28 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/07/16/1102062.html"
             },
             {
-                "title": "美国加紧对伊朗的打击行动，对伊朗港口的封锁生效",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-15",
-                "url": "https://www.voachinese.com/a/us-intensifies-strikes-in-iran-as-port-blockade-takes-effect-20260715/8172088.html"
-            },
-            {
-                "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/p/3896563671222147"
-            },
-            {
-                "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/p/3896755010963333"
-            },
-            {
-                "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-15",
-                "url": "https://36kr.com/p/3896639400183687"
+                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
             },
             {
                 "title": "2026年7月15日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -86,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "林剑：美方应立即停止对古巴的封锁和胁迫施压（2026年7月15日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-15",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1IzbU9lOWVKbTRsXzN3RkNZT2hUTWh2RzNUV0lhWnp6TGpDYTZqX1FVRXM2amRXbElMLUg5ejhKM3RPdzk0d1RKSFNwMTFQSEc4SzY3eUtFU2tlOG5KX0pXdTVGZ1JJYm95NkYxV2hTbkJobndfbVlnQXJXbzA3VktJVW5TTVZoa0d1akF6ekY?oc=5"
+                "title": "云南省曲靖市麒麟区人武部组织民兵开展防汛训练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVEgyU3Y1aTg2dHBFMlBKeFNyUjFrekVPX1ZvUHlhWkg0YTZqNTNqZnNubDFnNW1vNG9DM2xDS09XOUxCVHpUVGpIdHdoYTlmOU9mb3dBdDdnRC10YU1xVA?oc=5"
             },
             {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
@@ -98,48 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXQXppYnUyX0dPTmpNTVpBTzVKRVVTNXpFVVBPR2lNTUpxREY0Qzh4c2d3QldQVTM1c1ZRN1pJZXl5RHI2azgtNUhBa0poSjc0SFE?oc=5"
             },
             {
-                "title": "近镜头｜人民的小事就是我们的大事 - 中国军网",
+                "title": "湖北省博物馆馆藏睡虎地秦简《为吏之道》—— 古简铭训 官品镜鉴 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JeVgydktjckl3WHpaMkVyNENYT0pvZy1YMDRvYjEtdVQzc0h0MzlSbWplN2lKLVVWVi1KWkhCUThwN1NhNEdDZE9GcWRQZGJLWFE?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hMnhNUnpJLWFDYnZWWldLRjVGSDZ4RTBQVWVVS1FiY2FGOGd6WGE3ZVBhcDFPbDZud1JwZUFqY3EyZm1iNERXeXlqbkZtVHEteGc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "在任中共政治局委员马兴瑞为什么被双开(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-15",
-                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102058.html"
+                "title": "大厂医疗AI战，开始“卷”减重",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-16",
+                "url": "https://36kr.com/p/3896639942592134"
             },
             {
-                "title": "刚果民主共和国伊波拉疫情恶化 累计逾2000病例754人死亡 - 8world",
-                "source": "NewsAPI / 8world.com",
-                "date": "2026-07-15",
-                "url": "https://www.8world.com/world/ebola-3218576"
+                "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-16",
+                "url": "https://36kr.com/p/3896586337978244"
             },
             {
-                "title": "实验室带你过周末：2026.7.18 - 7.19 上海篇",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-07-15",
-                "url": "https://www.toodaylab.com/84120"
-            },
-            {
-                "title": "美国官员：中国规避出口管制手法多样，商务部拟大幅增加执法预算",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-15",
-                "url": "https://www.voachinese.com/a/us-seeking-more-funding-to-target-china-on-export-control-of-us-technologies-20260715/8171827.html"
-            },
-            {
-                "title": "人形机器人公司逐际动力完成近 2 亿美元 Pre-IPO 轮融资，重点用于大小脑融合技术的突破和产品化",
+                "title": "涉嫌“串通价格”：澜起科技、瑞萨电子、Rambus 内存接口芯片三强遭韩国调查，三家合计全球市场份额超 93%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-15",
-                "url": "https://www.ithome.com/0/977/234.htm"
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/301.htm"
+            },
+            {
+                "title": "还特斯拉清白：NTSB 确认美国得州车祸中驾驶员电门踩到 100%，FSD 没有控制权",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/296.htm"
+            },
+            {
+                "title": "Google与Epic撤销和解协议 第三方Android应用商店下周将在美上线",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569104.htm"
+            },
+            {
+                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
             },
             {
                 "title": "2026年7月15日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "林剑：美方应立即停止对古巴的封锁和胁迫施压（2026年7月15日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-15",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1IzbU9lOWVKbTRsXzN3RkNZT2hUTWh2RzNUV0lhWnp6TGpDYTZqX1FVRXM2amRXbElMLUg5ejhKM3RPdzk0d1RKSFNwMTFQSEc4SzY3eUtFU2tlOG5KX0pXdTVGZ1JJYm95NkYxV2hTbkJobndfbVlnQXJXbzA3VktJVW5TTVZoa0d1akF6ekY?oc=5"
+                "title": "云南省曲靖市麒麟区人武部组织民兵开展防汛训练 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVEgyU3Y1aTg2dHBFMlBKeFNyUjFrekVPX1ZvUHlhWkg0YTZqNTNqZnNubDFnNW1vNG9DM2xDS09XOUxCVHpUVGpIdHdoYTlmOU9mb3dBdDdnRC10YU1xVA?oc=5"
             },
             {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
@@ -166,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXQXppYnUyX0dPTmpNTVpBTzVKRVVTNXpFVVBPR2lNTUpxREY0Qzh4c2d3QldQVTM1c1ZRN1pJZXl5RHI2azgtNUhBa0poSjc0SFE?oc=5"
             },
             {
-                "title": "近镜头｜人民的小事就是我们的大事 - 中国军网",
+                "title": "湖北省博物馆馆藏睡虎地秦简《为吏之道》—— 古简铭训 官品镜鉴 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JeVgydktjckl3WHpaMkVyNENYT0pvZy1YMDRvYjEtdVQzc0h0MzlSbWplN2lKLVVWVi1KWkhCUThwN1NhNEdDZE9GcWRQZGJLWFE?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hMnhNUnpJLWFDYnZWWldLRjVGSDZ4RTBQVWVVS1FiY2FGOGd6WGE3ZVBhcDFPbDZud1JwZUFqY3EyZm1iNERXeXlqbkZtVHEteGc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-16T19:04:24.042521+00:00"
+    "last_updated": "2026-07-17T02:23:40.520593+00:00"
 }
