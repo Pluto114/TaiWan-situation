@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "眼镜巨头 EssilorLuxottica 收购法国 XR 初创公司 Lynx，后者混合现实头显 Lynx-R2 项目未来去向成谜",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/529.htm"
+            },
+            {
+                "title": "华为 MateBook Fold 非凡大师限时优惠 2500 元：国补后 19999 元起，MatePad Edge 至高优惠 1000 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/462.htm"
+            },
+            {
+                "title": "华为 nova 15 系列悄然涨价：全系上调 300 元，现价 2999 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/456.htm"
+            },
+            {
+                "title": "美国 ITC 对三星电子、谷歌、英伟达、博通等七家公司启动 337 调查",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-16",
+                "url": "https://www.ithome.com/0/977/420.htm"
+            },
+            {
                 "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-16",
                 "url": "https://36kr.com/p/3896586337978244"
-            },
-            {
-                "title": "涉嫌“串通价格”：澜起科技、瑞萨电子、Rambus 内存接口芯片三强遭韩国调查，三家合计全球市场份额超 93%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-16",
-                "url": "https://www.ithome.com/0/977/301.htm"
-            },
-            {
-                "title": "还特斯拉清白：NTSB 确认美国得州车祸中驾驶员电门踩到 100%，FSD 没有控制权",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-16",
-                "url": "https://www.ithome.com/0/977/296.htm"
-            },
-            {
-                "title": "Google与Epic撤销和解协议 第三方Android应用商店下周将在美上线",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569104.htm"
-            },
-            {
-                "title": "苹果和 OpenAI 商业纠纷细节：2 封关键邮件、13 分钟间隔与 1 次姓名混淆",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-16",
-                "url": "https://www.ithome.com/0/977/291.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国空军“忠诚僚机”无人机成功完成首次实弹导弹发射",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569108.htm"
+            },
             {
                 "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
                 "source": "NewsAPI / 36kr.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.voachinese.com/a/bipartisan-lawmakers-seek-stronger-research-security-measures-to-prevent-china-s-military-access-to-federally-funded-research-20260715/8172174.html"
             },
             {
-                "title": "美军轰炸伊朗大通布岛 削弱攻击霍峡商船能力(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-15",
-                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102062.html"
-            },
-            {
                 "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-16",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wYWlZckpyb3N5dy1vang5UFdoUTF4TzRkMG91UEFfZ0pKNnJsMXpoWHBoTk5jTHNubzhmREpZSnZLOEJjQUlzZ3M5OWc5Um1nQ1BKekxRVTNrZHpuemdzLWV6WU91SVpvam5tWXpURDk0NkxDWHc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-07-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUk5lS0t5NG5jOEl5dDYtWXVyVVpwWTJRZmZDS2YxcEp3MDdnVlN2ZWFKVVJfR0w0MVItbWFnMl9Ta28tT01jdWR5OFF1bllxMVpDWkxFc3dvalNjY19oV19jaFZKeHJnWDNR?oc=5"
             },
             {
                 "title": "云南省曲靖市麒麟区人武部组织民兵开展防汛训练 - 中国军网",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVEgyU3Y1aTg2dHBFMlBKeFNyUjFrekVPX1ZvUHlhWkg0YTZqNTNqZnNubDFnNW1vNG9DM2xDS09XOUxCVHpUVGpIdHdoYTlmOU9mb3dBdDdnRC10YU1xVA?oc=5"
             },
             {
+                "title": "CCG conducts emergency transfer of seriously ill infant - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5odVJHQ21JT1FDSXNEZmxjMFNfdGRqT2pRMHZ5b2xnU2J4Sm9lUDhCLXRYV1BvX0V1d3RicVFXWlVEMHlkNmJnc1BOM2poX05Vb0sxLWEwRGhubWlvNnc?oc=5"
+            },
+            {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-15",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXQXppYnUyX0dPTmpNTVpBTzVKRVVTNXpFVVBPR2lNTUpxREY0Qzh4c2d3QldQVTM1c1ZRN1pJZXl5RHI2azgtNUhBa0poSjc0SFE?oc=5"
-            },
-            {
-                "title": "湖北省博物馆馆藏睡虎地秦简《为吏之道》—— 古简铭训 官品镜鉴 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hMnhNUnpJLWFDYnZWWldLRjVGSDZ4RTBQVWVVS1FiY2FGOGd6WGE3ZVBhcDFPbDZud1JwZUFqY3EyZm1iNERXeXlqbkZtVHEteGc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "大厂医疗AI战，开始“卷”减重",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-16",
-                "url": "https://36kr.com/p/3896639942592134"
-            },
-            {
-                "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-16",
-                "url": "https://36kr.com/p/3896586337978244"
-            },
-            {
-                "title": "涉嫌“串通价格”：澜起科技、瑞萨电子、Rambus 内存接口芯片三强遭韩国调查，三家合计全球市场份额超 93%",
+                "title": "眼镜巨头 EssilorLuxottica 收购法国 XR 初创公司 Lynx，后者混合现实头显 Lynx-R2 项目未来去向成谜",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-16",
-                "url": "https://www.ithome.com/0/977/301.htm"
+                "url": "https://www.ithome.com/0/977/529.htm"
             },
             {
-                "title": "还特斯拉清白：NTSB 确认美国得州车祸中驾驶员电门踩到 100%，FSD 没有控制权",
+                "title": "习近平访上海如临大敌 传高楼住户被勒令关窗上锁(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-16",
+                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102081.html"
+            },
+            {
+                "title": "强台八威“有眼”会转弯 剑指红朝 灭共而来？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-16",
+                "url": "https://www.secretchina.com/news/gb/2026/07/16/1102078.html"
+            },
+            {
+                "title": "美光 1γ LPDDR5X 新增 6GB、12GB、24GB 非二进制容量，最高 10.7Gbps",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-16",
-                "url": "https://www.ithome.com/0/977/296.htm"
+                "url": "https://www.ithome.com/0/977/449.htm"
             },
             {
-                "title": "Google与Epic撤销和解协议 第三方Android应用商店下周将在美上线",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "121.8 万元宝马 7 系熠影臻藏版发售：全球限量 700 台",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569104.htm"
+                "url": "https://www.ithome.com/0/977/444.htm"
             },
             {
                 "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wYWlZckpyb3N5dy1vang5UFdoUTF4TzRkMG91UEFfZ0pKNnJsMXpoWHBoTk5jTHNubzhmREpZSnZLOEJjQUlzZ3M5OWc5Um1nQ1BKekxRVTNrZHpuemdzLWV6WU91SVpvam5tWXpURDk0NkxDWHc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-07-17",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUk5lS0t5NG5jOEl5dDYtWXVyVVpwWTJRZmZDS2YxcEp3MDdnVlN2ZWFKVVJfR0w0MVItbWFnMl9Ta28tT01jdWR5OFF1bllxMVpDWkxFc3dvalNjY19oV19jaFZKeHJnWDNR?oc=5"
             },
             {
                 "title": "云南省曲靖市麒麟区人武部组织民兵开展防汛训练 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVEgyU3Y1aTg2dHBFMlBKeFNyUjFrekVPX1ZvUHlhWkg0YTZqNTNqZnNubDFnNW1vNG9DM2xDS09XOUxCVHpUVGpIdHdoYTlmOU9mb3dBdDdnRC10YU1xVA?oc=5"
             },
             {
+                "title": "CCG conducts emergency transfer of seriously ill infant - China Military Online",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5odVJHQ21JT1FDSXNEZmxjMFNfdGRqT2pRMHZ5b2xnU2J4Sm9lUDhCLXRYV1BvX0V1d3RicVFXWlVEMHlkNmJnc1BOM2poX05Vb0sxLWEwRGhubWlvNnc?oc=5"
+            },
+            {
                 "title": "守住“趣”的底色，让努力的“微光”汇成战斗力提升的“星河” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-15",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXQXppYnUyX0dPTmpNTVpBTzVKRVVTNXpFVVBPR2lNTUpxREY0Qzh4c2d3QldQVTM1c1ZRN1pJZXl5RHI2azgtNUhBa0poSjc0SFE?oc=5"
-            },
-            {
-                "title": "湖北省博物馆馆藏睡虎地秦简《为吏之道》—— 古简铭训 官品镜鉴 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hMnhNUnpJLWFDYnZWWldLRjVGSDZ4RTBQVWVVS1FiY2FGOGd6WGE3ZVBhcDFPbDZud1JwZUFqY3EyZm1iNERXeXlqbkZtVHEteGc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-17T02:23:40.520593+00:00"
+    "last_updated": "2026-07-17T08:03:54.806934+00:00"
 }
