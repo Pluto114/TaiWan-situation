@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "九号 Fz5 电动自行车上市：48V 30Ah 锂电池 + 12 寸无刷电机，首发价 5999 元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/078.htm"
+                "url": "https://36kr.com/p/3896564485572489"
             },
             {
-                "title": "比亚迪大唐盛世版车型下线，官方指导价 30.99 万元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/050.htm"
-            },
-            {
-                "title": "镇馆之宝：我国首个全国产 10 万卡 AI 超集群“曙光 8000（登峰）”亮相 WAIC 2026",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/037.htm"
-            },
-            {
-                "title": "上海海思：采用 GPMI 芯片的电视出货量已接近百万台，国内头部品牌几乎全部商用",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/011.htm"
-            },
-            {
-                "title": "韩国执法机构对中国芯片制造商澜起科技发起反垄断调查",
+                "title": "三星移动部门或将遭遇史上首次季度亏损",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569254.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569284.htm"
+            },
+            {
+                "title": "美国向韩国施压：提议分享三星、SK 海力士“超额利润”，主张“美企大量采购应获分成”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/978/285.htm"
+            },
+            {
+                "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/978/277.htm"
+            },
+            {
+                "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-17",
+                "url": "https://36kr.com/p/3899556701128578"
             }
         ],
         "mil": [
+            {
+                "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-17",
+                "url": "https://36kr.com/p/3896564485572489"
+            },
+            {
+                "title": "美军锁喉伊朗交通命脉 港口桥梁铁路连续遇袭(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-17",
+                "url": "https://www.secretchina.com/news/gb/2026/07/17/1102139.html"
+            },
+            {
+                "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-17",
+                "url": "https://36kr.com/p/3899597215745664"
+            },
             {
                 "title": "印度本土芯片梦受挫：塔塔首座晶圆厂只能用90纳米老旧工艺",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,24 +74,6 @@
                 "url": "https://36kr.com/p/3899081603483525"
             },
             {
-                "title": "阿斯顿 · 马丁与《使命召唤》联动推出专属战斗载具，但暂无量产计划",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/977/863.htm"
-            },
-            {
-                "title": "SpaceX造富让对手眼红 蓝色起源推新激励计划但含罕见竞业限制",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569230.htm"
-            },
-            {
-                "title": "8点1氪丨长鑫科技网上发行初步中签率为0.40995452%；特朗普头像将被印上硬币，面值1美元；多家NFC鲜榨果汁生产车间被曝无水果",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-17",
-                "url": "https://36kr.com/p/3898973942007684"
-            },
-            {
                 "title": "2026年7月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-16",
@@ -98,10 +98,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96dXc1UGF6REtkc3pZa3JqWXR4dE5DTUxrVnFGOTNZS2FhaFFycTI0bEJvRG13c1FRTVVEYUkzMmR6NVFaaG8tQnVIbW43Mzk0Q011a2prT0dUSURUaU9rag?oc=5"
             },
             {
-                "title": "CCG conducts emergency transfer of seriously ill infant - China Military Online",
+                "title": "云南省曲靖市麒麟区人武部组织民兵开展防汛训练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5odVJHQ21JT1FDSXNEZmxjMFNfdGRqT2pRMHZ5b2xnU2J4Sm9lUDhCLXRYV1BvX0V1d3RicVFXWlVEMHlkNmJnc1BOM2poX05Vb0sxLWEwRGhubWlvNnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVEgyU3Y1aTg2dHBFMlBKeFNyUjFrekVPX1ZvUHlhWkg0YTZqNTNqZnNubDFnNW1vNG9DM2xDS09XOUxCVHpUVGpIdHdoYTlmOU9mb3dBdDdnRC10YU1xVA?oc=5"
             },
             {
                 "title": "视频丨习近平会见泰国总理：中方始终是泰方可信赖、可依靠的战略合作伙伴 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "量产车 W16 引擎的绝唱：布加迪最后一台 Mistral 完成生产",
-                "source": "NewsAPI / Ithome.com",
+                "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/076.htm"
+                "url": "https://36kr.com/p/3896564485572489"
             },
             {
-                "title": "小米 SU7 碰撞测试博主高某被判刑一年八个月，罚款 10 万元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国收紧多类签证规定 中国记者和留学生首当其冲",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/032.htm"
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E6%94%B6%E7%B4%A7%E5%A4%9A%E7%B1%BB%E7%AD%BE%E8%AF%81%E8%A7%84%E5%AE%9A-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E5%92%8C%E7%95%99%E5%AD%A6%E7%94%9F%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2/a-78009008"
             },
             {
-                "title": "日本芯片制造商铠侠股价大跌 市值较峰值缩水一半",
+                "title": "国标修改电车试验里程：和油车一样要满3万公里，不再减半",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569236.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569288.htm"
             },
             {
-                "title": "微软CEO批评Anthropic对Fable模型的内容管控过于严苛",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569234.htm"
-            },
-            {
-                "title": "金山办公 CEO 章庆元：订阅与 Token 计费长期并存，AI 办公商业模式将更灵活",
+                "title": "OpenAI 奥尔特曼调侃 Anthropic 最新广告：我还以为这是讽刺短片",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/977/946.htm"
+                "url": "https://www.ithome.com/0/978/290.htm"
+            },
+            {
+                "title": "北京街头遭逼问“是不是中国人” 台女演员喊“我是台湾人”进派出所(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-17",
+                "url": "https://www.secretchina.com/news/gb/2026/07/17/1102136.html"
             },
             {
                 "title": "2026年7月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -166,10 +166,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96dXc1UGF6REtkc3pZa3JqWXR4dE5DTUxrVnFGOTNZS2FhaFFycTI0bEJvRG13c1FRTVVEYUkzMmR6NVFaaG8tQnVIbW43Mzk0Q011a2prT0dUSURUaU9rag?oc=5"
             },
             {
-                "title": "CCG conducts emergency transfer of seriously ill infant - China Military Online",
+                "title": "云南省曲靖市麒麟区人武部组织民兵开展防汛训练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5odVJHQ21JT1FDSXNEZmxjMFNfdGRqT2pRMHZ5b2xnU2J4Sm9lUDhCLXRYV1BvX0V1d3RicVFXWlVEMHlkNmJnc1BOM2poX05Vb0sxLWEwRGhubWlvNnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVEgyU3Y1aTg2dHBFMlBKeFNyUjFrekVPX1ZvUHlhWkg0YTZqNTNqZnNubDFnNW1vNG9DM2xDS09XOUxCVHpUVGpIdHdoYTlmOU9mb3dBdDdnRC10YU1xVA?oc=5"
             },
             {
                 "title": "视频丨习近平会见泰国总理：中方始终是泰方可信赖、可依靠的战略合作伙伴 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-18T07:43:39.433859+00:00"
+    "last_updated": "2026-07-18T13:06:41.960729+00:00"
 }
