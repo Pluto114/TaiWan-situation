@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-17",
-                "url": "https://36kr.com/p/3899057634363266"
-            },
-            {
-                "title": "自研氢能催化剂关键材料，稳定性提升50%，「铂氢科技」完成数千万元Pre-A轮融资 | 36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-17",
-                "url": "https://36kr.com/p/3899040301876868"
-            },
-            {
-                "title": "三星 Galaxy Watch9 系列、Watch Ultra2 智能手表规格曝光",
+                "title": "九号 Fz5 电动自行车上市：48V 30Ah 锂电池 + 12 寸无刷电机，首发价 5999 元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/977/866.htm"
+                "url": "https://www.ithome.com/0/978/078.htm"
             },
             {
-                "title": "华泰证券：当前化工行业结构性机会凸显",
-                "source": "NewsAPI / 36kr.com",
+                "title": "比亚迪大唐盛世版车型下线，官方指导价 30.99 万元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-17",
-                "url": "https://36kr.com/newsflashes/3898974526326658"
+                "url": "https://www.ithome.com/0/978/050.htm"
             },
             {
-                "title": "SpaceX星舰V3二次发射在引擎点火后紧急叫停",
+                "title": "镇馆之宝：我国首个全国产 10 万卡 AI 超集群“曙光 8000（登峰）”亮相 WAIC 2026",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/978/037.htm"
+            },
+            {
+                "title": "上海海思：采用 GPMI 芯片的电视出货量已接近百万台，国内头部品牌几乎全部商用",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/978/011.htm"
+            },
+            {
+                "title": "韩国执法机构对中国芯片制造商澜起科技发起反垄断调查",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569224.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569254.htm"
             }
         ],
         "mil": [
+            {
+                "title": "印度本土芯片梦受挫：塔塔首座晶圆厂只能用90纳米老旧工艺",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569242.htm"
+            },
             {
                 "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
                 "source": "NewsAPI / 36kr.com",
@@ -68,28 +74,22 @@
                 "url": "https://36kr.com/p/3898973942007684"
             },
             {
-                "title": "美国国会或因国家安全担忧禁止苹果采购中国存储芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569192.htm"
-            },
-            {
                 "title": "2026年7月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-16",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydTV6S2k3cHhqbXJfajMzbFhNYm5uSTlFZVF5LV9KQmQ4NE9tamtxVU5PQTRqNzdybVFXMlMzaFlaRHM5ZHJQampFWkZtS1VTbF8tVVdMYVhNU25Eel9qVkx3NjREVXVidEVVTGZ0cDhBcU5LZmc?oc=5"
             },
             {
-                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
-            },
-            {
                 "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-17",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUk5lS0t5NG5jOEl5dDYtWXVyVVpwWTJRZmZDS2YxcEp3MDdnVlN2ZWFKVVJfR0w0MVItbWFnMl9Ta28tT01jdWR5OFF1bllxMVpDWkxFc3dvalNjY19oV19jaFZKeHJnWDNR?oc=5"
+            },
+            {
+                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
             },
             {
                 "title": "山河无言，见证一群军人的默默坚守 - 中国军网",
@@ -108,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-17",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzanQyRFRkN19PRTV1VFI3T09tcVpocmZUbXVhc25PU2xHVDRJMmt0eUdDVzBkazBnRzl6V2RnMzVDeS0xZHhrNGMwTW9rSEVRUGc?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
-                "source": "NewsAPI / 36kr.com",
+                "title": "量产车 W16 引擎的绝唱：布加迪最后一台 Mistral 完成生产",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-17",
-                "url": "https://36kr.com/p/3899081603483525"
+                "url": "https://www.ithome.com/0/978/076.htm"
             },
             {
-                "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
-                "source": "NewsAPI / 36kr.com",
+                "title": "小米 SU7 碰撞测试博主高某被判刑一年八个月，罚款 10 万元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-17",
-                "url": "https://36kr.com/p/3899057634363266"
+                "url": "https://www.ithome.com/0/978/032.htm"
             },
             {
-                "title": "8点1氪丨长鑫科技网上发行初步中签率为0.40995452%；特朗普头像将被印上硬币，面值1美元；多家NFC鲜榨果汁生产车间被曝无水果",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-17",
-                "url": "https://36kr.com/p/3898973942007684"
-            },
-            {
-                "title": "租车暗藏AI监控摄像头 驾驶员隐私保护引发舆论热议",
+                "title": "日本芯片制造商铠侠股价大跌 市值较峰值缩水一半",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569210.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569236.htm"
             },
             {
-                "title": "可口可乐旗下超滤奶品牌 fairlife 遭遇黑客攻击，全美生产运营暂停",
+                "title": "微软CEO批评Anthropic对Fable模型的内容管控过于严苛",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569234.htm"
+            },
+            {
+                "title": "金山办公 CEO 章庆元：订阅与 Token 计费长期并存，AI 办公商业模式将更灵活",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-16",
-                "url": "https://www.ithome.com/0/977/843.htm"
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/977/946.htm"
             },
             {
                 "title": "2026年7月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydTV6S2k3cHhqbXJfajMzbFhNYm5uSTlFZVF5LV9KQmQ4NE9tamtxVU5PQTRqNzdybVFXMlMzaFlaRHM5ZHJQampFWkZtS1VTbF8tVVdMYVhNU25Eel9qVkx3NjREVXVidEVVTGZ0cDhBcU5LZmc?oc=5"
             },
             {
-                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
-            },
-            {
                 "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-17",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUk5lS0t5NG5jOEl5dDYtWXVyVVpwWTJRZmZDS2YxcEp3MDdnVlN2ZWFKVVJfR0w0MVItbWFnMl9Ta28tT01jdWR5OFF1bllxMVpDWkxFc3dvalNjY19oV19jaFZKeHJnWDNR?oc=5"
+            },
+            {
+                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
             },
             {
                 "title": "山河无言，见证一群军人的默默坚守 - 中国军网",
@@ -182,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-17",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzanQyRFRkN19PRTV1VFI3T09tcVpocmZUbXVhc25PU2xHVDRJMmt0eUdDVzBkazBnRzl6V2RnMzVDeS0xZHhrNGMwTW9rSEVRUGc?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-18T02:07:49.307148+00:00"
+    "last_updated": "2026-07-18T07:43:39.433859+00:00"
 }
