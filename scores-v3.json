@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "苹果重夺全球市值最高企业宝座 超越英伟达",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569300.htm"
+            },
+            {
+                "title": "史上最大杠杆收购迎转机：沙特 PIF 牵头财 550 亿美元收购 EA，欧盟反补贴审查预计 7 月底放行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/978/315.htm"
+            },
+            {
+                "title": "苹果联想戴尔惠普优先拿货，曝长鑫存储 DRAM 订单已排至 2027 年底",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/978/303.htm"
+            },
+            {
                 "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-17",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-17",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1569284.htm"
-            },
-            {
-                "title": "美国向韩国施压：提议分享三星、SK 海力士“超额利润”，主张“美企大量采购应获分成”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/285.htm"
-            },
-            {
-                "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/277.htm"
-            },
-            {
-                "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-17",
-                "url": "https://36kr.com/p/3899556701128578"
             }
         ],
         "mil": [
+            {
+                "title": "纽约上东区军团菌疫情扩大：多栋大楼检测阳性(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-17",
+                "url": "https://www.secretchina.com/news/gb/2026/07/18/1102152.html"
+            },
+            {
+                "title": "伊朗袭击致油轮受损、一名儿童受伤，美军打击伊朗政权的军事基础设施",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-17",
+                "url": "https://www.voachinese.com/a/oil-tanker-hit-child-injured-in-iranian-attacks-as-us-military-targets-regime-s-military-infrastructure-20260717/8172937.html"
+            },
             {
                 "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
                 "source": "NewsAPI / 36kr.com",
@@ -62,34 +74,22 @@
                 "url": "https://36kr.com/p/3899597215745664"
             },
             {
-                "title": "印度本土芯片梦受挫：塔塔首座晶圆厂只能用90纳米老旧工艺",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569242.htm"
-            },
-            {
-                "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-17",
-                "url": "https://36kr.com/p/3899081603483525"
-            },
-            {
-                "title": "2026年7月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydTV6S2k3cHhqbXJfajMzbFhNYm5uSTlFZVF5LV9KQmQ4NE9tamtxVU5PQTRqNzdybVFXMlMzaFlaRHM5ZHJQampFWkZtS1VTbF8tVVdMYVhNU25Eel9qVkx3NjREVXVidEVVTGZ0cDhBcU5LZmc?oc=5"
-            },
-            {
                 "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-17",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUk5lS0t5NG5jOEl5dDYtWXVyVVpwWTJRZmZDS2YxcEp3MDdnVlN2ZWFKVVJfR0w0MVItbWFnMl9Ta28tT01jdWR5OFF1bllxMVpDWkxFc3dvalNjY19oV19jaFZKeHJnWDNR?oc=5"
             },
             {
-                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "2026年7月17日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-17",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGktYlBxTzZtcUJlY2pfbV9LSzgycWhhQjh3bHFYeE1qcXdlekVabFBGcVY3d0FYaWRMWU1VRXFDcF8wUzFhdFVZcUk1bUhqMWh3SnhtOEdBdFpob1hTTEZMRDRxWFBRa19yaE53R0c3TmJWcF8xdWhDV1BXNFJHNTgtaFlhbEFiUS13?oc=5"
             },
             {
                 "title": "山河无言，见证一群军人的默默坚守 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
-                "source": "NewsAPI / 36kr.com",
+                "title": "野火烟雾将有害空气从美国中西部带到了东海岸",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-07-17",
-                "url": "https://36kr.com/p/3896564485572489"
+                "url": "https://www.voachinese.com/a/wildfire-smoke-brings-unhealthy-air-from-us-midwest-to-east-coast-20260717/8173002.html"
             },
             {
-                "title": "美国收紧多类签证规定 中国记者和留学生首当其冲",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-17",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E6%94%B6%E7%B4%A7%E5%A4%9A%E7%B1%BB%E7%AD%BE%E8%AF%81%E8%A7%84%E5%AE%9A-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E5%92%8C%E7%95%99%E5%AD%A6%E7%94%9F%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2/a-78009008"
-            },
-            {
-                "title": "国标修改电车试验里程：和油车一样要满3万公里，不再减半",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569288.htm"
-            },
-            {
-                "title": "OpenAI 奥尔特曼调侃 Anthropic 最新广告：我还以为这是讽刺短片",
+                "title": "微软 2026 款 Surface Laptop 证明：8GB 内存难以满足 Win11 需求，日常使用多次卡顿",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-17",
-                "url": "https://www.ithome.com/0/978/290.htm"
+                "url": "https://www.ithome.com/0/978/321.htm"
             },
             {
-                "title": "北京街头遭逼问“是不是中国人” 台女演员喊“我是台湾人”进派出所(图)",
+                "title": "亚马逊旗下Zoox自动驾驶出租车软件召回 车辆无法识别浓烟并驶入烟雾区域",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569304.htm"
+            },
+            {
+                "title": "史上最大杠杆收购迎转机：沙特 PIF 牵头财 550 亿美元收购 EA，欧盟反补贴审查预计 7 月底放行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-17",
+                "url": "https://www.ithome.com/0/978/315.htm"
+            },
+            {
+                "title": "卢比奥亚洲行聚焦川普与习近平9月峰会(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-17",
-                "url": "https://www.secretchina.com/news/gb/2026/07/17/1102136.html"
-            },
-            {
-                "title": "2026年7月16日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydTV6S2k3cHhqbXJfajMzbFhNYm5uSTlFZVF5LV9KQmQ4NE9tamtxVU5PQTRqNzdybVFXMlMzaFlaRHM5ZHJQampFWkZtS1VTbF8tVVdMYVhNU25Eel9qVkx3NjREVXVidEVVTGZ0cDhBcU5LZmc?oc=5"
+                "url": "https://www.secretchina.com/news/gb/2026/07/17/1102146.html"
             },
             {
                 "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文） - mfa.gov.cn",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUk5lS0t5NG5jOEl5dDYtWXVyVVpwWTJRZmZDS2YxcEp3MDdnVlN2ZWFKVVJfR0w0MVItbWFnMl9Ta28tT01jdWR5OFF1bllxMVpDWkxFc3dvalNjY19oV19jaFZKeHJnWDNR?oc=5"
             },
             {
-                "title": "成立世界人工智能合作组织协定签署仪式在上海举行 - mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-16",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "2026年7月17日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-17",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGktYlBxTzZtcUJlY2pfbV9LSzgycWhhQjh3bHFYeE1qcXdlekVabFBGcVY3d0FYaWRMWU1VRXFDcF8wUzFhdFVZcUk1bUhqMWh3SnhtOEdBdFpob1hTTEZMRDRxWFBRa19yaE53R0c3TmJWcF8xdWhDV1BXNFJHNTgtaFlhbEFiUS13?oc=5"
             },
             {
                 "title": "山河无言，见证一群军人的默默坚守 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-18T13:06:41.960729+00:00"
+    "last_updated": "2026-07-18T18:58:45.971554+00:00"
 }
