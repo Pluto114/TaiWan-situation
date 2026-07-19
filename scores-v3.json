@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "摩尔线程联合创始人王东：推理市场没有“万能芯片”，而是解决方案的组合",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-18",
+                "url": "https://www.ithome.com/0/978/597.htm"
+            },
+            {
+                "title": "印度民营航天新突破：首枚自研轨道火箭维克拉姆-1 号发射成功",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-18",
+                "url": "https://www.ithome.com/0/978/596.htm"
+            },
+            {
                 "title": "香港国安法触发“紧急状态”6年后 美国决定不再延长",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-07-18",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-18",
                 "url": "https://www.ithome.com/0/978/529.htm"
-            },
-            {
-                "title": "消息称月之暗面 Kimi 已通知投资者调整公司架构，有望最快 6 个月内赴港上市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-18",
-                "url": "https://www.ithome.com/0/978/527.htm"
-            },
-            {
-                "title": "特朗普帖文“优先访问权”拟售每月10万美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569386.htm"
             }
         ],
         "mil": [
+            {
+                "title": "大卫·拜恩说音乐不只源于天才的灵感，而是一整套的运行逻辑 #每周一书",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-07-18",
+                "url": "https://www.toodaylab.com/84125"
+            },
+            {
+                "title": "2026 电竞世俱杯 DOTA2 半决赛：中国 VG 战队 0-2 不敌 BB，无缘决赛",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-18",
+                "url": "https://www.ithome.com/0/978/585.htm"
+            },
             {
                 "title": "英国青少年评价拟议的“17 岁夜间社媒宵禁”：能自己关闭，那就没意义了",
                 "source": "NewsAPI / Ithome.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.ithome.com/0/978/336.htm"
             },
             {
-                "title": "美议员致函美证交会主席，呼吁限制美国资本流入中国军事企业",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-17",
-                "url": "https://www.voachinese.com/a/us-lawmakers-call-on-sec-to-restrict-capital-flows-to-chinese-military-companies-20260717/8173047.html"
-            },
-            {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-17",
-                "url": "https://www.voachinese.com/a/8167937.html"
-            },
-            {
-                "title": "2026年7月17日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-17",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxa2RnZnluTEJQRnpYN2llWG9CcDFNbjdiblgtNktnT0ctRWc1TGh2VE5NUU85QmZZNHd1ekhXTUJORWM1UzFiSzk2YjlNNExsazJqOUJBWXhDVTB4UGhXRXhESG94YXFBbXN2NTFJYml2YW1hdk9oT3lGdw?oc=5"
-            },
-            {
-                "title": "驻非盟使团团长蒋烽大使会见多哥常驻非盟代表团临时代办 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-17",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTlsYjBVaWVhdGJIX2RGUE10dEFoUDV6OTljUVVySE5qNk5WZWRRdjNBN19pRGxvT29iM0k0b0R5TktIVWs3NEMyMThmZDlPZk01eEk1NFZqRm5GMWtBTHZ0ZWRzNF9aX0VMTmVlSWtGSmNaQnVqSUpFdDFXM0dvc2piT3k?oc=5"
-            },
-            {
                 "title": "王毅会见莱索托外交大臣陶 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-18",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSU1oOVp6M2hHUXNGcTFNSm1pYVdOSGdDb1dZLVJDNDV6bEN5M25Bc0JTM2pnMWFMMzcxdmRuU1BxNmFJSF9BNjd1UUpSWnptc3BINjUzbVZtRURBNVNvZXRRU1ViZXJPczZ6Y1dWSDNvZWh5NjJLTUpybFFiM2pmVHhwY0lZbnZ2b05NWnFn?oc=5"
+            },
+            {
+                "title": "王毅会见多米尼克外长亨德森 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-18",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObzVhaGIzb1BhNFRuWkpLNDhLRktOdEpCZHdwcGo1QzcwbmlOelZ4QlJDaGR4TFRGUmNVek0xMUpPdEpqUzNnOUFDQ21wUnBfQUNWTE96NGx5anoxemlCelJPeEVvdzVGbjNfX1JNYW95MzBCRVJrYml2NWxrS1BKOQ?oc=5"
+            },
+            {
+                "title": "王毅会见印尼经济统筹部长艾尔朗加 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-18",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1JvcFlzTWh2eS1fdEFyT0p1N3dpZU5qNUxpcEtKV2dHWjlsTEhxZkx3RXRadXRJZllaMF9Ick16YTlZUnRpMWN4SFVKY2JrSUZJSnV5aG5Xc1JHVkVrenBBTE1BMXZwOHpEOExNNmlsVnBmWVhicnh6YkVia2xyZklzX0lwNldP?oc=5"
             },
             {
                 "title": "山河无言，见证一群军人的默默坚守 - 中国军网",
@@ -98,19 +98,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96dXc1UGF6REtkc3pZa3JqWXR4dE5DTUxrVnFGOTNZS2FhaFFycTI0bEJvRG13c1FRTVVEYUkzMmR6NVFaaG8tQnVIbW43Mzk0Q011a2prT0dUSURUaU9rag?oc=5"
             },
             {
-                "title": "视频丨习近平会见泰国总理：中方始终是泰方可信赖、可依靠的战略合作伙伴 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzanQyRFRkN19PRTV1VFI3T09tcVpocmZUbXVhc25PU2xHVDRJMmt0eUdDVzBkazBnRzl6V2RnMzVDeS0xZHhrNGMwTW9rSEVRUGc?oc=5"
-            },
-            {
                 "title": "《军报每天读》20260719 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-19",
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SDZHZDJvOXJLRWxlYmx0VFFkX19vUXpldkhnSFI4VUhHUEFHVHJaSXN1Q2FlUmZWVEFEZUFlakFKMHYtRUtsOUFEdXBkMlNsQXB6Rg?oc=5"
+            },
+            {
+                "title": "军人和军队相关人员医疗待遇保障常见问题解决办法出台 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10LWE5NnFVQjZ3aUVUZjh0LVJZd2lJNHlHQXdWaGpiaDMyaldkUmx3R2FpVjRieGxOWUg0ZnlMbEpFSkJla210Tmk1ZFczQkxHZEE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "白宫解密文件：中共锁定美高层邮箱，利用社媒与科技公司煽动动乱(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-18",
+                "url": "https://www.secretchina.com/news/gb/2026/07/18/1102202.html"
+            },
+            {
+                "title": "摩尔线程联合创始人王东：推理市场没有“万能芯片”，而是解决方案的组合",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-18",
+                "url": "https://www.ithome.com/0/978/597.htm"
+            },
             {
                 "title": "高文院士 WAIC 2026 发言：中国算力网第一阶段已完成 70%，全面落地或需二十年",
                 "source": "NewsAPI / Ithome.com",
@@ -130,34 +142,22 @@
                 "url": "https://www.ithome.com/0/978/532.htm"
             },
             {
-                "title": "台湾驻巴纽代表处突“被宣布”关闭 原因曝光(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-07-18",
-                "url": "https://www.secretchina.com/news/gb/2026/07/18/1102194.html"
-            },
-            {
-                "title": "比肩阿基米德与托勒密？科学家发现 1300 年前数学公式，首次破译八世纪玛雅天文学家-数学家署名",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-18",
-                "url": "https://www.ithome.com/0/978/513.htm"
-            },
-            {
-                "title": "2026年7月17日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-17",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxa2RnZnluTEJQRnpYN2llWG9CcDFNbjdiblgtNktnT0ctRWc1TGh2VE5NUU85QmZZNHd1ekhXTUJORWM1UzFiSzk2YjlNNExsazJqOUJBWXhDVTB4UGhXRXhESG94YXFBbXN2NTFJYml2YW1hdk9oT3lGdw?oc=5"
-            },
-            {
-                "title": "驻非盟使团团长蒋烽大使会见多哥常驻非盟代表团临时代办 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-17",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTlsYjBVaWVhdGJIX2RGUE10dEFoUDV6OTljUVVySE5qNk5WZWRRdjNBN19pRGxvT29iM0k0b0R5TktIVWs3NEMyMThmZDlPZk01eEk1NFZqRm5GMWtBTHZ0ZWRzNF9aX0VMTmVlSWtGSmNaQnVqSUpFdDFXM0dvc2piT3k?oc=5"
-            },
-            {
                 "title": "王毅会见莱索托外交大臣陶 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-18",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSU1oOVp6M2hHUXNGcTFNSm1pYVdOSGdDb1dZLVJDNDV6bEN5M25Bc0JTM2pnMWFMMzcxdmRuU1BxNmFJSF9BNjd1UUpSWnptc3BINjUzbVZtRURBNVNvZXRRU1ViZXJPczZ6Y1dWSDNvZWh5NjJLTUpybFFiM2pmVHhwY0lZbnZ2b05NWnFn?oc=5"
+            },
+            {
+                "title": "王毅会见多米尼克外长亨德森 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-18",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObzVhaGIzb1BhNFRuWkpLNDhLRktOdEpCZHdwcGo1QzcwbmlOelZ4QlJDaGR4TFRGUmNVek0xMUpPdEpqUzNnOUFDQ21wUnBfQUNWTE96NGx5anoxemlCelJPeEVvdzVGbjNfX1JNYW95MzBCRVJrYml2NWxrS1BKOQ?oc=5"
+            },
+            {
+                "title": "王毅会见印尼经济统筹部长艾尔朗加 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-18",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1JvcFlzTWh2eS1fdEFyT0p1N3dpZU5qNUxpcEtKV2dHWjlsTEhxZkx3RXRadXRJZllaMF9Ick16YTlZUnRpMWN4SFVKY2JrSUZJSnV5aG5Xc1JHVkVrenBBTE1BMXZwOHpEOExNNmlsVnBmWVhicnh6YkVia2xyZklzX0lwNldP?oc=5"
             },
             {
                 "title": "山河无言，见证一群军人的默默坚守 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96dXc1UGF6REtkc3pZa3JqWXR4dE5DTUxrVnFGOTNZS2FhaFFycTI0bEJvRG13c1FRTVVEYUkzMmR6NVFaaG8tQnVIbW43Mzk0Q011a2prT0dUSURUaU9rag?oc=5"
             },
             {
-                "title": "视频丨习近平会见泰国总理：中方始终是泰方可信赖、可依靠的战略合作伙伴 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-17",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzanQyRFRkN19PRTV1VFI3T09tcVpocmZUbXVhc25PU2xHVDRJMmt0eUdDVzBkazBnRzl6V2RnMzVDeS0xZHhrNGMwTW9rSEVRUGc?oc=5"
-            },
-            {
                 "title": "《军报每天读》20260719 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-19",
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SDZHZDJvOXJLRWxlYmx0VFFkX19vUXpldkhnSFI4VUhHUEFHVHJaSXN1Q2FlUmZWVEFEZUFlakFKMHYtRUtsOUFEdXBkMlNsQXB6Rg?oc=5"
+            },
+            {
+                "title": "军人和军队相关人员医疗待遇保障常见问题解决办法出台 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10LWE5NnFVQjZ3aUVUZjh0LVJZd2lJNHlHQXdWaGpiaDMyaldkUmx3R2FpVjRieGxOWUg0ZnlMbEpFSkJla210Tmk1ZFczQkxHZEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-19T13:10:23.658576+00:00"
+    "last_updated": "2026-07-19T19:01:18.447722+00:00"
 }
