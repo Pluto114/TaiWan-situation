@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "TEMU指控SHEIN滥用市场支配地位 迫使供应商签署排他性协议",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569464.htm"
+            },
+            {
                 "title": "乘联分会崔东树：2026 年上半年中国汽车出口 918 亿美元，同比增长 54%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-19",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-19",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1569458.htm"
-            },
-            {
-                "title": "人工智能技术渗入美司法体系 引发办案效率与司法公正双重担忧",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569456.htm"
             }
         ],
         "mil": [
+            {
+                "title": "短短一个月 SpaceX市值已较峰值蒸发1万亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569462.htm"
+            },
             {
                 "title": "《冲就完事模拟器 2》星球大战 IP 联名游戏 DLC 上架 Steam，国区售价 39 元",
                 "source": "NewsAPI / Ithome.com",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-19",
                 "url": "https://www.ithome.com/0/978/670.htm"
-            },
-            {
-                "title": "英国皇家海军完成全球首次无人艇空投测试",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569438.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "开发者在多款 Steam 游戏中藏匿木马被捕，最高面临 10 年刑期",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-19",
+                "url": "https://www.ithome.com/0/978/802.htm"
+            },
+            {
                 "title": "先办牌照再造车，央视曝光非标电动车黑灰产链条",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-19",
@@ -134,12 +140,6 @@
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-19",
                 "url": "https://www.secretchina.com/news/gb/2026/07/19/1102221.html"
-            },
-            {
-                "title": "中国机器人，现在有多疯狂？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569432.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-20T13:58:21.704533+00:00"
+    "last_updated": "2026-07-20T19:39:48.001402+00:00"
 }
