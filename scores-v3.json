@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "乘联分会崔东树：2026 年上半年中国汽车出口 918 亿美元，同比增长 54%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-19",
+                "url": "https://www.ithome.com/0/978/787.htm"
+            },
+            {
                 "title": "月之暗面总裁张予彤：Kimi K3 发布次日 ARR 创下历史最大单日增幅",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-19",
@@ -34,12 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-19",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1569456.htm"
-            },
-            {
-                "title": "美国防部拟斥资数十亿美元向SpaceX采购AI算力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569454.htm"
             }
         ],
         "mil": [
@@ -74,28 +74,28 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1569438.htm"
             },
             {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "外交部发言人介绍2026世界人工智能大会暨人工智能全球治理高级别会议成果和亮点 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-20",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOE16Q3hFRktOV3N5SW4yMXZMd3REWDE4SUstejl1NGxWM1JHU19lX1o1czdHS1liM0IzcUI5Rl9oN0hNTGxMVmRsMlJER25URjdGaHJWSlVpUmJ1enExNHBBVVlxNUFyLTNSMHE0Q0s5dFJ1Z0s3NzAtRWlkamlJdHFSWE1rZ0h5cUdlemhfR2o?oc=5"
+            },
+            {
                 "title": "驻米兰总领事张承刚出席第十五届欧洲华文传媒论坛 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-19",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW93SS1mWmJRbk43MlRNdVo3VVA4VVdIZFBSb05hbV9lTUc0TzhwblR4Q0sxaVU3NXpPZmlZdTZhOEhKM1lBaGVNbU5NQ29hU0xfRmpYVm1janVNalA2VktkTFNTNzRJVUNYeXZER0NKM21MbVJLRlJPbjZBbXlraWh3Mkk?oc=5"
             },
             {
-                "title": "驻巴基斯坦大使姜再冬和巴总理夏巴兹出席中巴医药企业间投资会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEZXVlFybkpTV1NPT2JxUWUzbnZINXFNY25CX0RNVE9reHI5dlRvcFZONnRaWjlNd3ptN2UxUXhBeDVPNG1tNEhKbFE0dUJkVWJrREdfREVyMGVXSV8yYURhZ2VET0k3ckVRc0oyZ3dWTUxGT3Y1V2cySWZLcjBfSE5SM1g?oc=5"
-            },
-            {
-                "title": "驻约翰内斯堡总领事潘庆江出席向领区中学捐赠水箱仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGFxLWxCNlFSZFM1Qk1fNjEwM3lacWVTdXZpcFhJMk1XSDlsNnNHYTN0ZGFFcHJxN3RXY3ZSVHBxR3ZGNGhtWWlOYnN0WC1pNEhIb0NsQ19LeVNkeVZyS0pENFFCUGxla3JiSE5MZW5VdWROQnpWd3YwcUlrTkg0cHFHWHk?oc=5"
-            },
-            {
-                "title": "《军报每天读》20260719 - 中国军网",
+                "title": "习言道｜人工智能向何处去？习近平强调八个字 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-19",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SDZHZDJvOXJLRWxlYmx0VFFkX19vUXpldkhnSFI4VUhHUEFHVHJaSXN1Q2FlUmZWVEFEZUFlakFKMHYtRUtsOUFEdXBkMlNsQXB6Rg?oc=5"
+                "date": "2026-07-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NV0pYamxnekFacXZNOXQ0Z1hvSEpHVUszNExXZHNuZW5wODN5UFhIXzcwMUdVNkJ2VjdTRFdpVzItT0hyR1JEczhESWt0b3ZqNGc?oc=5"
             },
             {
                 "title": "云南省开展边境地区拥军优属专项行动 - 中国军网",
@@ -111,6 +111,18 @@
             }
         ],
         "pol": [
+            {
+                "title": "先办牌照再造车，央视曝光非标电动车黑灰产链条",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-19",
+                "url": "https://www.ithome.com/0/978/795.htm"
+            },
+            {
+                "title": "世界人工智能合作组织未来将重点开展三方面工作",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-19",
+                "url": "https://36kr.com/newsflashes/3902324507281026"
+            },
             {
                 "title": "Claude杀入全美教室：一周干49小时的老师终于等来免费AI助教",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -130,16 +142,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1569432.htm"
             },
             {
-                "title": "特斯拉因大灯过亮在美国召回近 2 万辆 Model 3/Y，这次无法 OTA 修复",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-19",
-                "url": "https://www.ithome.com/0/978/652.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "“反电”斗士，丰田章男",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569430.htm"
+                "title": "外交部发言人介绍2026世界人工智能大会暨人工智能全球治理高级别会议成果和亮点 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-20",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOE16Q3hFRktOV3N5SW4yMXZMd3REWDE4SUstejl1NGxWM1JHU19lX1o1czdHS1liM0IzcUI5Rl9oN0hNTGxMVmRsMlJER25URjdGaHJWSlVpUmJ1enExNHBBVVlxNUFyLTNSMHE0Q0s5dFJ1Z0s3NzAtRWlkamlJdHFSWE1rZ0h5cUdlemhfR2o?oc=5"
             },
             {
                 "title": "驻米兰总领事张承刚出席第十五届欧洲华文传媒论坛 - mfa.gov.cn",
@@ -148,22 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW93SS1mWmJRbk43MlRNdVo3VVA4VVdIZFBSb05hbV9lTUc0TzhwblR4Q0sxaVU3NXpPZmlZdTZhOEhKM1lBaGVNbU5NQ29hU0xfRmpYVm1janVNalA2VktkTFNTNzRJVUNYeXZER0NKM21MbVJLRlJPbjZBbXlraWh3Mkk?oc=5"
             },
             {
-                "title": "驻巴基斯坦大使姜再冬和巴总理夏巴兹出席中巴医药企业间投资会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEZXVlFybkpTV1NPT2JxUWUzbnZINXFNY25CX0RNVE9reHI5dlRvcFZONnRaWjlNd3ptN2UxUXhBeDVPNG1tNEhKbFE0dUJkVWJrREdfREVyMGVXSV8yYURhZ2VET0k3ckVRc0oyZ3dWTUxGT3Y1V2cySWZLcjBfSE5SM1g?oc=5"
-            },
-            {
-                "title": "驻约翰内斯堡总领事潘庆江出席向领区中学捐赠水箱仪式 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGFxLWxCNlFSZFM1Qk1fNjEwM3lacWVTdXZpcFhJMk1XSDlsNnNHYTN0ZGFFcHJxN3RXY3ZSVHBxR3ZGNGhtWWlOYnN0WC1pNEhIb0NsQ19LeVNkeVZyS0pENFFCUGxla3JiSE5MZW5VdWROQnpWd3YwcUlrTkg0cHFHWHk?oc=5"
-            },
-            {
-                "title": "《军报每天读》20260719 - 中国军网",
+                "title": "习言道｜人工智能向何处去？习近平强调八个字 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-19",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SDZHZDJvOXJLRWxlYmx0VFFkX19vUXpldkhnSFI4VUhHUEFHVHJaSXN1Q2FlUmZWVEFEZUFlakFKMHYtRUtsOUFEdXBkMlNsQXB6Rg?oc=5"
+                "date": "2026-07-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NV0pYamxnekFacXZNOXQ0Z1hvSEpHVUszNExXZHNuZW5wODN5UFhIXzcwMUdVNkJ2VjdTRFdpVzItT0hyR1JEczhESWt0b3ZqNGc?oc=5"
             },
             {
                 "title": "云南省开展边境地区拥军优属专项行动 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-20T08:51:48.580533+00:00"
+    "last_updated": "2026-07-20T13:58:21.704533+00:00"
 }
