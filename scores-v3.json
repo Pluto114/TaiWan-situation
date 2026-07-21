@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "《塞尔达传说：王国之泪》公布前，任天堂美国内部知情者不足 10 人",
+                "title": "三星重组其美国消费电子业务并裁减数百名当地员工",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569608.htm"
+            },
+            {
+                "title": "微软将在 Azure 云服务上部署 AMD Helios 机架系统，用于 AI 推理",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/979/088.htm"
+                "url": "https://www.ithome.com/0/979/235.htm"
             },
             {
-                "title": "Hugging Face遭攻击取证受阻 只能靠国产GLM 5.2救场？",
+                "title": "中国AI力量崛起：Moonshot与阿里巴巴同推前沿模型 直面硅谷竞争",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569576.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569588.htm"
             },
             {
-                "title": "全新一代 smart 精灵 #1 官图发布：搭千里浩瀚 H5 高阶驾驶辅助系统、15.4 英寸 2.5K 中控",
+                "title": "阿里云发布轻量应用服务器“智能体专用型实例”：2 亿 Token 包月活动价 262.5 元 / 月",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/979/029.htm"
+                "url": "https://www.ithome.com/0/979/212.htm"
             },
             {
-                "title": "为降低高昂返修成本 波音公司悄然拆解首批777X客机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569572.htm"
-            },
-            {
-                "title": "英伟达深化与日本合作 布局“主权人工智能”与工业机器人网络",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569570.htm"
+                "url": "https://36kr.com/p/3903710346790535"
             }
         ],
         "mil": [
+            {
+                "title": "菲律宾指责中方殴打菲海军人员 中方回应称“歪曲事实”",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-20",
+                "url": "https://www.dw.com/zh/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%87%E8%B4%A3%E4%B8%AD%E6%96%B9%E6%AE%B4%E6%89%93%E8%8F%B2%E6%B5%B7%E5%86%9B%E4%BA%BA%E5%91%98-%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A7%B0%E6%AD%AA%E6%9B%B2%E4%BA%8B%E5%AE%9E/a-78036745"
+            },
+            {
+                "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-20",
+                "url": "https://36kr.com/p/3903739699005058"
+            },
+            {
+                "title": "奥迪 A2 E-Tron 原型车无伪装谍照曝光：纯电动力，今秋发布",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-20",
+                "url": "https://www.ithome.com/0/979/101.htm"
+            },
             {
                 "title": "国产大飞机 C919 累计交付 41 架，安全飞行时长突破 13 万小时",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-20",
                 "url": "https://36kr.com/p/3902007640459145"
-            },
-            {
-                "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-20",
-                "url": "https://36kr.com/p/3899612612494976"
-            },
-            {
-                "title": "EWC26 第二周：DK 问鼎《英雄联盟》，PVISION《DOTA2》夺冠",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/978/834.htm"
-            },
-            {
-                "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-20",
-                "url": "https://36kr.com/p/3903220264404608"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "特朗普政府拟推动联合国签署“言论自由宣言” 意在挑战欧盟科技监管",
+                "title": "库存告急 洛克希德马丁计划推出平价爱国者导弹用于补充储备",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569578.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569598.htm"
             },
             {
-                "title": "Hugging Face遭攻击取证受阻 只能靠国产GLM 5.2救场？",
+                "title": "研究：AI 会削弱人类批判性思维，降低人们说“我不知道”的意愿",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-20",
+                "url": "https://www.ithome.com/0/979/222.htm"
+            },
+            {
+                "title": "中国AI力量崛起：Moonshot与阿里巴巴同推前沿模型 直面硅谷竞争",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569576.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569588.htm"
             },
             {
-                "title": "匈牙利总理彼得·马扎尔宣布启动对前外长西雅尔托的调查",
+                "title": "全球速卖通AliExpress因销售违规产品被欧盟重罚5.5亿欧元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569558.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569586.htm"
             },
             {
-                "title": "DeepSeek真实估值浮出水面？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "波音：预计全球航空公司未来 20 年将需要近 44000 架新飞机",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569556.htm"
-            },
-            {
-                "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-20",
-                "url": "https://36kr.com/p/3902068392658566"
+                "url": "https://www.ithome.com/0/979/216.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-21T08:22:22.070464+00:00"
+    "last_updated": "2026-07-21T13:41:15.733310+00:00"
 }
