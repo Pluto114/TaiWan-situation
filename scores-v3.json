@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "台积电CFO回应马斯克、英特尔竞争：不会给对手任何机会",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569518.htm"
-            },
-            {
-                "title": "从300元到1000元 华强北内存暴涨下的消费电子困局",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569514.htm"
-            },
-            {
-                "title": "台积电正加速推进亚利桑那州工厂建设",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569512.htm"
-            },
-            {
-                "title": "鸿海首度夺下 SpaceX AI 服务器代工订单，总价高达 520 亿美元",
+                "title": "《塞尔达传说：王国之泪》公布前，任天堂美国内部知情者不足 10 人",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/978/843.htm"
+                "url": "https://www.ithome.com/0/979/088.htm"
             },
             {
-                "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Hugging Face遭攻击取证受阻 只能靠国产GLM 5.2救场？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-20",
-                "url": "https://36kr.com/p/3901396207584902"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569576.htm"
+            },
+            {
+                "title": "全新一代 smart 精灵 #1 官图发布：搭千里浩瀚 H5 高阶驾驶辅助系统、15.4 英寸 2.5K 中控",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-20",
+                "url": "https://www.ithome.com/0/979/029.htm"
+            },
+            {
+                "title": "为降低高昂返修成本 波音公司悄然拆解首批777X客机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569572.htm"
+            },
+            {
+                "title": "英伟达深化与日本合作 布局“主权人工智能”与工业机器人网络",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569570.htm"
             }
         ],
         "mil": [
+            {
+                "title": "国产大飞机 C919 累计交付 41 架，安全飞行时长突破 13 万小时",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-20",
+                "url": "https://www.ithome.com/0/978/906.htm"
+            },
             {
                 "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
                 "source": "NewsAPI / 36kr.com",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-20",
                 "url": "https://36kr.com/p/3903220264404608"
-            },
-            {
-                "title": "IT早报 0720：华为靳玉志称“境”和“界”是互补关系；；比亚迪大汉实车曝光；彭博社称 Kimi K3 打破美 AI 领先中国认知；央视曝非标电动车黑灰产链条...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-19",
-                "url": "https://www.ithome.com/0/978/821.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "把 256 张 GPU 变成一台计算机：摩尔线程 MTT C256 超节点亮相 WAIC 2026",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特朗普政府拟推动联合国签署“言论自由宣言” 意在挑战欧盟科技监管",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/978/856.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569578.htm"
             },
             {
-                "title": "鸿海首度夺下 SpaceX AI 服务器代工订单，总价高达 520 亿美元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Hugging Face遭攻击取证受阻 只能靠国产GLM 5.2救场？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/978/843.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569576.htm"
             },
             {
-                "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+                "title": "匈牙利总理彼得·马扎尔宣布启动对前外长西雅尔托的调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569558.htm"
+            },
+            {
+                "title": "DeepSeek真实估值浮出水面？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569556.htm"
+            },
+            {
+                "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-20",
-                "url": "https://36kr.com/p/3901396207584902"
-            },
-            {
-                "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-20",
-                "url": "https://36kr.com/p/3902007640459145"
-            },
-            {
-                "title": "被总台曝光后，浙江台州将全面启动电动自行车质量安全专项整治",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/978/835.htm"
+                "url": "https://36kr.com/p/3902068392658566"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-21T02:23:39.493848+00:00"
+    "last_updated": "2026-07-21T08:22:22.070464+00:00"
 }
