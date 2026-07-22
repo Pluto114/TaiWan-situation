@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "荣耀亲选 HONOR Life 5G 随身 WiFi 上市：搭载华为海思芯片、5000mAh 电池，售价 199 元",
+                "title": "微软与法国 AI 企业 Mistral 达成协议，斥资数十亿美元在欧洲建设算力基础设施",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-21",
-                "url": "https://www.ithome.com/0/979/593.htm"
+                "url": "https://www.ithome.com/0/979/773.htm"
             },
             {
-                "title": "特斯拉重启 HW3 车型 FSD v14 Lite 推送，新增多项功能缩小与新款车型差距",
+                "title": "北京越野泰钽 700 豪华越野 SUV 发布：首批搭载华为乾崑智驾 ADS 5，预售价 29.98 万元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-21",
-                "url": "https://www.ithome.com/0/979/522.htm"
+                "url": "https://www.ithome.com/0/979/771.htm"
             },
             {
-                "title": "AI 浪潮推动全球半导体需求，韩国 7 月前 20 天出口额同比增 62.9% 创新高",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-21",
-                "url": "https://www.ithome.com/0/979/497.htm"
-            },
-            {
-                "title": "2026 年《财富》中国 500 强排行榜揭晓：国家电网稳居榜首，腾讯成最赚钱互联网企业",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-21",
-                "url": "https://www.ithome.com/0/979/457.htm"
-            },
-            {
-                "title": "Kimi崛起触发监管升温 美国酝酿封堵中国模型",
+                "title": "伊朗宣称袭击巴林境内亚马逊数据基础设施",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569706.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569736.htm"
+            },
+            {
+                "title": "华硕 ROG Pelta Core 破风标准版耳机发售：50mm 镀钛振膜单元，499 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/751.htm"
+            },
+            {
+                "title": "报告称NAND闪存短缺问题将于2027年彻底解决",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569730.htm"
             }
         ],
         "mil": [
+            {
+                "title": "微软与法国 AI 企业 Mistral 达成协议，斥资数十亿美元在欧洲建设算力基础设施",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/773.htm"
+            },
+            {
+                "title": "伊朗宣称袭击巴林境内亚马逊数据基础设施",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569736.htm"
+            },
+            {
+                "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-21",
+                "url": "https://36kr.com/p/3905169127114368"
+            },
             {
                 "title": "用字节 Seedance 2.0 生成，《第九区》导演发布其首部 AI 短片《阴兵》",
                 "source": "NewsAPI / Ithome.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.ithome.com/0/979/458.htm"
             },
             {
-                "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2026年7月21日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-21",
-                "url": "https://36kr.com/p/3904783876982405"
-            },
-            {
-                "title": "Archer与Anduril联手推出国防与商业两用自主飞行器平台",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569654.htm"
-            },
-            {
-                "title": "8点1氪丨美国将对加拿大部分产品加征50%关税；任泽平回应会员炒股亏损千万；韩国今年人均GDP有望达3.9万美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-20",
-                "url": "https://36kr.com/p/3904632333862535"
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQUxmbmNqQk1jdWZ4NUxhUUp0QnV2Y1BabGtVZUFTZFN4bmtQZ05sdFgwWHFUYWpwNU5qVVEteXFWSjUtV1B4QmNRdGlIZUUxZ3NSc0xDSjdxQ2FCdUpiTUkxaVE4RjRucklidGdKSnVkV1kxcU9MaXpFMVpYcVA0bktxenYySS02OHc4?oc=5"
             },
             {
                 "title": "王毅会见东盟秘书长高金洪 - mfa.gov.cn",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJbl94dWNGOWN2OVFmbWR3b1hONXpucE0wVTdPeEl1a2ozSEZuOEdJdEpFRnhVLUpBek1penlDZDdyQmlGSEJLQWxxclhfdjVoQkh6SkxvSWI3NGowcDduTTBKaTl4ZFJ2MGxvMWRn?oc=5"
             },
             {
-                "title": "林剑：日本执政当局切莫在核问题上一意孤行、逆流而动（2026年7月20日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-20",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWNlbDVZMU1VUHNNNlI0OThGejdxU2d1b2xWZUJUM1F3NWZ0WDlVRlc3VmxUYlB3eTVGUHkxY2I4UDR0ZElKME8zVGZzNlJhUHZIQU9aeU9CWk1iTzYwUjc3T2tvUlNXbS10Z0d1Nnc5c09EbDFSMDFqWEhVUVc3Vk9WeUFaVGlidFNn?oc=5"
-            },
-            {
                 "title": "倡导和衷共济 完善全球治理——携手构建公正合理的全球人工智能治理体系述评之四 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TDQ5d2pYc2lLWkNVdEQySUp5TDFrT1oxM01NMnNMREs4MS1ZSkpNUU1BNVRZZW9GZVRCbTVtOEs0bjdjR0t3VUI3RGpkYkVMMHc?oc=5"
             },
             {
+                "title": "以一抓到底的韧劲切实把“不够”补够 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nNXlDdzRVbzBrTjlsYjlES3d1OXZWTXliX2g1WGFsaVgtVzJFOV9MWHZtVlo4NGNESjlibGduMzVsTXJvc21paWZLWnRPODJSeEE?oc=5"
+            },
+            {
                 "title": "外交部：日本当局妄图挑战战后国际秩序野心昭然若揭 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-21",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zUmlEQ09XNmFaaDJSSEZDWnNtQmhMangtUXFvU0ttMXVfeUM0b3VEQXZrM0RlSloyenRkNUxmZTNKQ1JUZWNoa0pn?oc=5"
-            },
-            {
-                "title": "学习卡•长征百问（9）丨长征途中牺牲的最高级别指挥员是谁？ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kUVdWNDlmc1ZDd1p3Vmh4SkMwdW1SUGduSmhGUlNpeVVxdjBhcnp1bm9mUVR4R01sUWUtTUxRckF2MGRYUGxncUp6QkxXX3NpWFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "阿里千问发布 Qwen-Image-3.0 图像生成基础模型：落字成画，字字如印",
+                "title": "北京越野泰钽 700 豪华越野 SUV 发布：首批搭载华为乾崑智驾 ADS 5，预售价 29.98 万元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-21",
-                "url": "https://www.ithome.com/0/979/530.htm"
+                "url": "https://www.ithome.com/0/979/771.htm"
             },
             {
-                "title": "Momenta Robotaxi 获深圳智能网联汽车道路测试许可",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-21",
-                "url": "https://www.ithome.com/0/979/458.htm"
-            },
-            {
-                "title": "2026 年《财富》中国 500 强排行榜揭晓：国家电网稳居榜首，腾讯成最赚钱互联网企业",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-21",
-                "url": "https://www.ithome.com/0/979/457.htm"
-            },
-            {
-                "title": "AI已开始抢走社交媒体带货博主的副业生意",
+                "title": "耗资超20亿美元 美国首项核电推进火星任务计划2028年底发射",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569708.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569738.htm"
             },
             {
-                "title": "Kimi崛起触发监管升温 美国酝酿封堵中国模型",
+                "title": "特斯拉现金流或现两年多来首次净流出，AI 投入考验市场信心",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/769.htm"
+            },
+            {
+                "title": "伊朗宣称袭击巴林境内亚马逊数据基础设施",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569706.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569736.htm"
+            },
+            {
+                "title": "茅台涨了100元，白酒还欠3000亿",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-21",
+                "url": "https://36kr.com/p/3905234473158279"
+            },
+            {
+                "title": "2026年7月21日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-21",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQUxmbmNqQk1jdWZ4NUxhUUp0QnV2Y1BabGtVZUFTZFN4bmtQZ05sdFgwWHFUYWpwNU5qVVEteXFWSjUtV1B4QmNRdGlIZUUxZ3NSc0xDSjdxQ2FCdUpiTUkxaVE4RjRucklidGdKSnVkV1kxcU9MaXpFMVpYcVA0bktxenYySS02OHc4?oc=5"
             },
             {
                 "title": "王毅会见东盟秘书长高金洪 - mfa.gov.cn",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJbl94dWNGOWN2OVFmbWR3b1hONXpucE0wVTdPeEl1a2ozSEZuOEdJdEpFRnhVLUpBek1penlDZDdyQmlGSEJLQWxxclhfdjVoQkh6SkxvSWI3NGowcDduTTBKaTl4ZFJ2MGxvMWRn?oc=5"
             },
             {
-                "title": "林剑：日本执政当局切莫在核问题上一意孤行、逆流而动（2026年7月20日） - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-20",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWNlbDVZMU1VUHNNNlI0OThGejdxU2d1b2xWZUJUM1F3NWZ0WDlVRlc3VmxUYlB3eTVGUHkxY2I4UDR0ZElKME8zVGZzNlJhUHZIQU9aeU9CWk1iTzYwUjc3T2tvUlNXbS10Z0d1Nnc5c09EbDFSMDFqWEhVUVc3Vk9WeUFaVGlidFNn?oc=5"
-            },
-            {
                 "title": "倡导和衷共济 完善全球治理——携手构建公正合理的全球人工智能治理体系述评之四 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TDQ5d2pYc2lLWkNVdEQySUp5TDFrT1oxM01NMnNMREs4MS1ZSkpNUU1BNVRZZW9GZVRCbTVtOEs0bjdjR0t3VUI3RGpkYkVMMHc?oc=5"
             },
             {
+                "title": "以一抓到底的韧劲切实把“不够”补够 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nNXlDdzRVbzBrTjlsYjlES3d1OXZWTXliX2g1WGFsaVgtVzJFOV9MWHZtVlo4NGNESjlibGduMzVsTXJvc21paWZLWnRPODJSeEE?oc=5"
+            },
+            {
                 "title": "外交部：日本当局妄图挑战战后国际秩序野心昭然若揭 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-21",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zUmlEQ09XNmFaaDJSSEZDWnNtQmhMangtUXFvU0ttMXVfeUM0b3VEQXZrM0RlSloyenRkNUxmZTNKQ1JUZWNoa0pn?oc=5"
-            },
-            {
-                "title": "学习卡•长征百问（9）丨长征途中牺牲的最高级别指挥员是谁？ - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kUVdWNDlmc1ZDd1p3Vmh4SkMwdW1SUGduSmhGUlNpeVVxdjBhcnp1bm9mUVR4R01sUWUtTUxRckF2MGRYUGxncUp6QkxXX3NpWFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-22T08:22:40.729754+00:00"
+    "last_updated": "2026-07-22T13:44:06.005315+00:00"
 }
