@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星重组其美国消费电子业务并裁减数百名当地员工",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569608.htm"
-            },
-            {
-                "title": "微软将在 Azure 云服务上部署 AMD Helios 机架系统，用于 AI 推理",
+                "title": "人社部、蜜雪冰城都有“假官网”，中央网信办举报中心上半年转交处置仿冒假冒网站 759 个",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/979/235.htm"
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/329.htm"
             },
             {
-                "title": "中国AI力量崛起：Moonshot与阿里巴巴同推前沿模型 直面硅谷竞争",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569588.htm"
-            },
-            {
-                "title": "阿里云发布轻量应用服务器“智能体专用型实例”：2 亿 Token 包月活动价 262.5 元 / 月",
+                "title": "特斯拉面临 2.43 亿美元赔偿，法院认定 2019 年 Autopilot 致死案件判决有效",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/979/212.htm"
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/309.htm"
             },
             {
-                "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+                "title": "英新首相上任首日与川普通话 聚焦贸易、中东与安全(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-21",
+                "url": "https://www.secretchina.com/news/gb/2026/07/21/1102306.html"
+            },
+            {
+                "title": "加拿大总理回应美加征关税：单边贸易行动的最新举措",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-20",
-                "url": "https://36kr.com/p/3903710346790535"
+                "date": "2026-07-21",
+                "url": "https://36kr.com/newsflashes/3904696511497864"
+            },
+            {
+                "title": "中国的信访制度：告状要先让被告盖章(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-21",
+                "url": "https://www.secretchina.com/news/gb/2026/07/21/1102305.html"
             }
         ],
         "mil": [
+            {
+                "title": "Archer与Anduril联手推出国防与商业两用自主飞行器平台",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569654.htm"
+            },
+            {
+                "title": "8点1氪丨美国将对加拿大部分产品加征50%关税；任泽平回应会员炒股亏损千万；韩国今年人均GDP有望达3.9万美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-20",
+                "url": "https://36kr.com/p/3904632333862535"
+            },
+            {
+                "title": "IT早报 0721：市监总局推动平台企业降低佣金；曝荣耀 Robot Phone 1TB 版价格 15999 元左右；OpenAI 高管批 Kimi K3 开源；售价 3W+ 张雪预告首款电摩...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-20",
+                "url": "https://www.ithome.com/0/979/278.htm"
+            },
             {
                 "title": "伊朗学者：中共把伊朗当战术工具 借冲突牵制美国(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.voachinese.com/a/spain-triumphs-in-2026-world-cup-final-20260720/8173960.html"
             },
             {
-                "title": "菲中在南中国海有争议岛礁再度发生对抗，马尼拉指责中国海警棍击菲海军人员头部",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-07-20",
-                "url": "https://www.voachinese.com/a/in-latest-confrontation-over-a-disputed-south-china-sea-reef-manila-accused-chinese-coast-guard-of-striking-its-navy-personnel-20260720/8173944.html"
-            },
-            {
-                "title": "菲律宾指责中方殴打菲海军人员 中方回应称“歪曲事实”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-20",
-                "url": "https://www.dw.com/zh/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%87%E8%B4%A3%E4%B8%AD%E6%96%B9%E6%AE%B4%E6%89%93%E8%8F%B2%E6%B5%B7%E5%86%9B%E4%BA%BA%E5%91%98-%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A7%B0%E6%AD%AA%E6%9B%B2%E4%BA%8B%E5%AE%9E/a-78036745"
-            },
-            {
-                "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-20",
-                "url": "https://36kr.com/p/3903739699005058"
-            },
-            {
-                "title": "2026年7月21日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XVlRDOGRBbWZpeVBqamhiODMwdVlDNGdxVnczZHdFekxuY01CN093VVNMaElMSDlxcEhHMDNpbjV2c1F2OUtyLXRhcWlsQzhOS2ptNl81eUE1QzNDLUJBcU50cjhZYzhtNDFYME8yNFFleEM5T3c?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "关于老挝中立的宣言的议定书 - 中华人民共和国-条约数据库",
+                "title": "林剑：菲方应立即停止滋事挑衅和不实炒作（2026年7月21日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Bc2NFRS1TM2RaY1R0ZTNEazJuQVd2WHlVVEloR3hBUHB2WWdlYXVjNkw1UTlKSGZoWklnVjlDMGpGckdZUzRuQTNJdWhJaWp4RnlQbEUwaV9QdHNHem4wZTlyMEFpdjFtWTRLcEc2WS1BenlZa0FV?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUTdZUkluUTFsZURVMjVTOE1NMnI0NXJaRGV3MmpLWjIzU0oybVdjeks2TWRNSmVlYjlHM0JSNXdWbnRXTDZVWUhGT2NBRFF0WGp4LUQzMGZMZXBEVzRoNHpGVUVhY2NKa3BVcE5UcGR0QkpZd056UGYzMlJZR191SmtvUW9FVy1nMENsMTkwdFo?oc=5"
+            },
+            {
+                "title": "林剑：日本执政当局切莫在核问题上一意孤行、逆流而动（2026年7月20日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-20",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUtJcDAwa1NkU1VRWG5hd2JobjBidGh5RmFIQVpyQmM2QUhVck1kNHhlZ053ejE4WWhsWTh0aURMdXhxQ1ZyX3VtMEVaUEstbHVpYU9zMmJiWE1DdjNXcjBUS3ZSUlF0bkRIVTF5amdxVHh3NUlybDZNTVVJTi1HMFVjNjdLODJsMnkwNzZ0TVk?oc=5"
             },
             {
                 "title": "海军某防救支队开展援潜救生训练，大洋深处架设“生命通道” - 中国军网",
@@ -98,54 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTXZ3cl9WTkZnaDNDejV5ZkE0UVNQRWtqMFNKOTBqOUE5S0ZwMkNkdzMzM053aENzR21CVHRSdVpsbDdHX0c0NjJFYXpMS0NMYVpIQXZsWjMtY1Rob2REbw?oc=5"
             },
             {
+                "title": "倡导和衷共济 完善全球治理——携手构建公正合理的全球人工智能治理体系述评之四 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TDQ5d2pYc2lLWkNVdEQySUp5TDFrT1oxM01NMnNMREs4MS1ZSkpNUU1BNVRZZW9GZVRCbTVtOEs0bjdjR0t3VUI3RGpkYkVMMHc?oc=5"
+            },
+            {
                 "title": "习言道｜人工智能向何处去？习近平强调八个字 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NV0pYamxnekFacXZNOXQ0Z1hvSEpHVUszNExXZHNuZW5wODN5UFhIXzcwMUdVNkJ2VjdTRFdpVzItT0hyR1JEczhESWt0b3ZqNGc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "库存告急 洛克希德马丁计划推出平价爱国者导弹用于补充储备",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569598.htm"
-            },
-            {
-                "title": "研究：AI 会削弱人类批判性思维，降低人们说“我不知道”的意愿",
+                "title": "人社部、蜜雪冰城都有“假官网”，中央网信办举报中心上半年转交处置仿冒假冒网站 759 个",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/979/222.htm"
-            },
-            {
-                "title": "中国AI力量崛起：Moonshot与阿里巴巴同推前沿模型 直面硅谷竞争",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569588.htm"
-            },
-            {
-                "title": "全球速卖通AliExpress因销售违规产品被欧盟重罚5.5亿欧元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569586.htm"
-            },
-            {
-                "title": "波音：预计全球航空公司未来 20 年将需要近 44000 架新飞机",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-20",
-                "url": "https://www.ithome.com/0/979/216.htm"
-            },
-            {
-                "title": "2026年7月21日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XVlRDOGRBbWZpeVBqamhiODMwdVlDNGdxVnczZHdFekxuY01CN093VVNMaElMSDlxcEhHMDNpbjV2c1F2OUtyLXRhcWlsQzhOS2ptNl81eUE1QzNDLUJBcU50cjhZYzhtNDFYME8yNFFleEM5T3c?oc=5"
+                "url": "https://www.ithome.com/0/979/329.htm"
+            },
+            {
+                "title": "德国保险业研究：电动汽车单踏板模式存在误操作风险，75 岁以上老司机更容易犯错",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/314.htm"
+            },
+            {
+                "title": "中国这波“学术打假”背后的不寻常(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-21",
+                "url": "https://www.secretchina.com/news/gb/2026/07/21/1102307.html"
+            },
+            {
+                "title": "特斯拉面临 2.43 亿美元赔偿，法院认定 2019 年 Autopilot 致死案件判决有效",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/309.htm"
+            },
+            {
+                "title": "三星电子宣布将设立机器人部门，加速研发和商业化",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-21",
+                "url": "https://www.ithome.com/0/979/306.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "关于老挝中立的宣言的议定书 - 中华人民共和国-条约数据库",
+                "title": "林剑：菲方应立即停止滋事挑衅和不实炒作（2026年7月21日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Bc2NFRS1TM2RaY1R0ZTNEazJuQVd2WHlVVEloR3hBUHB2WWdlYXVjNkw1UTlKSGZoWklnVjlDMGpGckdZUzRuQTNJdWhJaWp4RnlQbEUwaV9QdHNHem4wZTlyMEFpdjFtWTRLcEc2WS1BenlZa0FV?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUTdZUkluUTFsZURVMjVTOE1NMnI0NXJaRGV3MmpLWjIzU0oybVdjeks2TWRNSmVlYjlHM0JSNXdWbnRXTDZVWUhGT2NBRFF0WGp4LUQzMGZMZXBEVzRoNHpGVUVhY2NKa3BVcE5UcGR0QkpZd056UGYzMlJZR191SmtvUW9FVy1nMENsMTkwdFo?oc=5"
+            },
+            {
+                "title": "林剑：日本执政当局切莫在核问题上一意孤行、逆流而动（2026年7月20日） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-20",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUtJcDAwa1NkU1VRWG5hd2JobjBidGh5RmFIQVpyQmM2QUhVck1kNHhlZ053ejE4WWhsWTh0aURMdXhxQ1ZyX3VtMEVaUEstbHVpYU9zMmJiWE1DdjNXcjBUS3ZSUlF0bkRIVTF5amdxVHh3NUlybDZNTVVJTi1HMFVjNjdLODJsMnkwNzZ0TVk?oc=5"
             },
             {
                 "title": "海军某防救支队开展援潜救生训练，大洋深处架设“生命通道” - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTXZ3cl9WTkZnaDNDejV5ZkE0UVNQRWtqMFNKOTBqOUE5S0ZwMkNkdzMzM053aENzR21CVHRSdVpsbDdHX0c0NjJFYXpMS0NMYVpIQXZsWjMtY1Rob2REbw?oc=5"
             },
             {
+                "title": "倡导和衷共济 完善全球治理——携手构建公正合理的全球人工智能治理体系述评之四 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TDQ5d2pYc2lLWkNVdEQySUp5TDFrT1oxM01NMnNMREs4MS1ZSkpNUU1BNVRZZW9GZVRCbTVtOEs0bjdjR0t3VUI3RGpkYkVMMHc?oc=5"
+            },
+            {
                 "title": "习言道｜人工智能向何处去？习近平强调八个字 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NV0pYamxnekFacXZNOXQ0Z1hvSEpHVUszNExXZHNuZW5wODN5UFhIXzcwMUdVNkJ2VjdTRFdpVzItT0hyR1JEczhESWt0b3ZqNGc?oc=5"
-            },
-            {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-21T19:15:45.398064+00:00"
+    "last_updated": "2026-07-22T02:22:30.776219+00:00"
 }
