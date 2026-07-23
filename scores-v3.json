@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星 Galaxy Z Fold8 Ultra 折叠屏手机发布，起售价 14999 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/315.htm"
-            },
-            {
-                "title": "三星 Galaxy Z Fold8 折叠屏手机发布：全新机身形态，起售价 12999 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/314.htm"
-            },
-            {
-                "title": "全球首艘配备光伏发电系统万车级汽车运输船交付：设 14 层汽车甲板，可全球无限航区航行",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/296.htm"
-            },
-            {
-                "title": "英伟达黄仁勋：美国无需害怕中国开源 AI 模型，应警惕国内“封禁”呼声",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/294.htm"
-            },
-            {
-                "title": "黄仁勋认为美国完全无需畏惧中国开源人工智能模型",
+                "title": "美国国会议员敦促特朗普对欧盟数字市场法案展开调查",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569882.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569904.htm"
+            },
+            {
+                "title": "智利的摆钟困境：为什么改革越多，共识越少？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-22",
+                "url": "https://www.ftchinese.com/story/001110378"
+            },
+            {
+                "title": "清晰法案：国会山、华尔街与Web 3.0的权力博弈",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-22",
+                "url": "https://www.ftchinese.com/story/001110388"
+            },
+            {
+                "title": "赣锋重返盈利高地 锂价回落考验自有矿成色",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-22",
+                "url": "https://www.ftchinese.com/story/001110409"
+            },
+            {
+                "title": "真实故事从哪里来：普利策传记奖得主凯•伯德与他的人物世界",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-22",
+                "url": "https://www.ftchinese.com/story/001110403"
             }
         ],
         "mil": [
+            {
+                "title": "智利的摆钟困境：为什么改革越多，共识越少？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-22",
+                "url": "https://www.ftchinese.com/story/001110378"
+            },
             {
                 "title": "中共打“川习会”牌 施压华府力阻对台军售(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/3906526848144515"
             },
             {
-                "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-22",
-                "url": "https://36kr.com/p/3906606931907971"
-            },
-            {
                 "title": "附加证明书 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-03-29",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUzRpWXJkRHoxZEdTVmZhRXFVMlVoaWxZVk55MW9qbDBvTGU4RUZIS1d4bUpzU29DYzE2c0JKVDR0UVM4YjRQUEJFZXJZU0FYb2NwNTdETFhsdEFWQ1JYcDd3X2tUZEg0akNuX21FaUI2M1YyLXNBX1N4TWhWNUU3YktKSWRDX2RKMkMwTmxMaC0?oc=5"
             },
             {
-                "title": "倡导和衷共济 完善全球治理——携手构建公正合理的全球人工智能治理体系述评之四 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TDQ5d2pYc2lLWkNVdEQySUp5TDFrT1oxM01NMnNMREs4MS1ZSkpNUU1BNVRZZW9GZVRCbTVtOEs0bjdjR0t3VUI3RGpkYkVMMHc?oc=5"
-            },
-            {
                 "title": "《向前·向前》开播倒计时3天 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-22",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nNXlDdzRVbzBrTjlsYjlES3d1OXZWTXliX2g1WGFsaVgtVzJFOV9MWHZtVlo4NGNESjlibGduMzVsTXJvc21paWZLWnRPODJSeEE?oc=5"
+            },
+            {
+                "title": "答卷•盛世华章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-22",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "全球首艘配备光伏发电系统万车级汽车运输船交付：设 14 层汽车甲板，可全球无限航区航行",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国国会议员敦促特朗普对欧盟数字市场法案展开调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/296.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569904.htm"
             },
             {
-                "title": "英伟达黄仁勋：美国无需害怕中国开源 AI 模型，应警惕国内“封禁”呼声",
-                "source": "NewsAPI / Ithome.com",
+                "title": "OpenAI推出全新企业级软件“Presence”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/294.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1569902.htm"
             },
             {
-                "title": "分析师：索尼放弃游戏实体光盘，二手游戏市场或走向消亡",
-                "source": "NewsAPI / Ithome.com",
+                "title": "南海冲突骤然升级：中菲罕见“互召大使”，外交对抗蔓延至东盟外长会议(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/283.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/23/1102399.html"
             },
             {
-                "title": "16 岁少年造出仿生海龟机器人，AI 识别微塑料准确率达 94%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "智利的摆钟困境：为什么改革越多，共识越少？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/247.htm"
+                "url": "https://www.ftchinese.com/story/001110378"
             },
             {
-                "title": "这届世界杯花钱最狠的人，不懂球丨2026世界杯消费报告",
-                "source": "NewsAPI / 36kr.com",
+                "title": "数据资产的价值，只能由市场发掘",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-22",
-                "url": "https://36kr.com/p/3906526848144515"
+                "url": "https://www.ftchinese.com/story/001110313"
             },
             {
                 "title": "附加证明书 - 中国领事服务网",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUzRpWXJkRHoxZEdTVmZhRXFVMlVoaWxZVk55MW9qbDBvTGU4RUZIS1d4bUpzU29DYzE2c0JKVDR0UVM4YjRQUEJFZXJZU0FYb2NwNTdETFhsdEFWQ1JYcDd3X2tUZEg0akNuX21FaUI2M1YyLXNBX1N4TWhWNUU3YktKSWRDX2RKMkMwTmxMaC0?oc=5"
             },
             {
-                "title": "倡导和衷共济 完善全球治理——携手构建公正合理的全球人工智能治理体系述评之四 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TDQ5d2pYc2lLWkNVdEQySUp5TDFrT1oxM01NMnNMREs4MS1ZSkpNUU1BNVRZZW9GZVRCbTVtOEs0bjdjR0t3VUI3RGpkYkVMMHc?oc=5"
-            },
-            {
                 "title": "《向前·向前》开播倒计时3天 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-22",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nNXlDdzRVbzBrTjlsYjlES3d1OXZWTXliX2g1WGFsaVgtVzJFOV9MWHZtVlo4NGNESjlibGduMzVsTXJvc21paWZLWnRPODJSeEE?oc=5"
+            },
+            {
+                "title": "答卷•盛世华章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-22",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-23T13:49:11.943733+00:00"
+    "last_updated": "2026-07-23T19:10:05.140471+00:00"
 }
