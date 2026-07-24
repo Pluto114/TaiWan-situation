@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英伟达向美国海军研究生院捐赠 GB300 超算，系美军首次部署其最先进 AI 服务器",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/675.htm"
-            },
-            {
-                "title": "胡锡进：杨植麟、梁文锋别去美国",
+                "title": "据报Intel、AMD与中国AI企业锁定年度CPU供货协议 价格大涨40%",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570000.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570038.htm"
             },
             {
-                "title": "皮查伊驳斥谷歌 AI 落后论调，透露 Gemini 4 将近乎按月迭代",
+                "title": "Anthropic 首席经济学家：短期内 AI 不会取代大量工作岗位",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/653.htm"
+                "url": "https://www.ithome.com/0/980/838.htm"
             },
             {
-                "title": "Alphabet 上调 2026 全年资本支出指引至 1950~2050 亿美元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "俄罗斯“亚马逊级”零售巨头野莓沦为乌克兰打击目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/647.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570030.htm"
             },
             {
-                "title": "北京现代艾尼氪 V 车型将于 9 月正式上市：溜背式造型设计、号称为中国用户量身定制",
+                "title": "因违反《数字市场法》，欧盟对谷歌处以 8.9 亿欧元罚款",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/635.htm"
+                "url": "https://www.ithome.com/0/980/793.htm"
+            },
+            {
+                "title": "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-23",
+                "url": "https://36kr.com/p/3908051015488640"
             }
         ],
         "mil": [
+            {
+                "title": "俄罗斯“亚马逊级”零售巨头野莓沦为乌克兰打击目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570030.htm"
+            },
+            {
+                "title": "“活摘器官被强制拉上飞机”？宁波直升机强拽孩子升空飞离(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-23",
+                "url": "https://www.secretchina.com/news/gb/2026/07/23/1102445.html"
+            },
+            {
+                "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-23",
+                "url": "https://36kr.com/p/3908027308823684"
+            },
             {
                 "title": "英伟达向美国海军研究生院捐赠 GB300 超算，系美军首次部署其最先进 AI 服务器",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-23",
                 "url": "https://36kr.com/p/3907676111983745"
-            },
-            {
-                "title": "美军新型“牛蛙”AI武器塔可追踪锁定人类 官方称主打反无人机功能",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569944.htm"
-            },
-            {
-                "title": "8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-22",
-                "url": "https://36kr.com/p/3907461333144711"
-            },
-            {
-                "title": "IT早报 0723：小红书回应 IPO 因前员工举报而受阻传闻；苹果 iPhone 18 Pro 系列已量产；曝 BBA 主力车型今年集体降价；消息称华为现在还处于回血状态...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-22",
-                "url": "https://www.ithome.com/0/980/359.htm"
             },
             {
                 "title": "王毅会见英国外交大臣米利班德 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "胡锡进：杨植麟、梁文锋别去美国",
+                "title": "Google上市以来首次录得负自由现金流 AI基础设施巨额投入引发阵痛",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570000.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570040.htm"
             },
             {
-                "title": "OpenAI模型自主发起网络攻击 美国两党呼吁强制AI安全测试",
+                "title": "曝小红书正私下联系员工和解 陈浩：拒绝线下面谈",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1569998.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570032.htm"
             },
             {
-                "title": "皮查伊驳斥谷歌 AI 落后论调，透露 Gemini 4 将近乎按月迭代",
+                "title": "Anthropic 首席经济学家：短期内 AI 不会取代大量工作岗位",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/653.htm"
+                "url": "https://www.ithome.com/0/980/838.htm"
             },
             {
-                "title": "Alphabet 上调 2026 全年资本支出指引至 1950~2050 亿美元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "俄罗斯“亚马逊级”零售巨头野莓沦为乌克兰打击目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/647.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570030.htm"
             },
             {
-                "title": "曾指控 Meta“令人成瘾”的 15 岁原告撤诉，律师称其希望努力恢复正常生活",
+                "title": "瑞士铁路巨头 Stadler 遭黑客组织 Everest 入侵，公司严正拒绝支付赎金",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/614.htm"
+                "url": "https://www.ithome.com/0/980/825.htm"
             },
             {
                 "title": "王毅会见英国外交大臣米利班德 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-24T08:21:46.837439+00:00"
+    "last_updated": "2026-07-24T13:36:31.280499+00:00"
 }
