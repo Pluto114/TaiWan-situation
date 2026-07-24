@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "据报Intel、AMD与中国AI企业锁定年度CPU供货协议 价格大涨40%",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国官员指控中国“月之暗面”窃取Anthropic模型，并称其获取受限英伟达芯片",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570038.htm"
+                "url": "https://www.voachinese.com/a/us-officials-accuse-china-s-moonshot-ai-of-stealing-from-anthropic-model-using-restricted-nvidia-chips-20260723/8175282.html"
             },
             {
-                "title": "Anthropic 首席经济学家：短期内 AI 不会取代大量工作岗位",
+                "title": "AMD 展示最强 AI 加速器 MI455X：台积电 2nm 工艺、3200 亿晶体管、432GB HBM4",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/838.htm"
+                "url": "https://www.ithome.com/0/980/873.htm"
             },
             {
-                "title": "俄罗斯“亚马逊级”零售巨头野莓沦为乌克兰打击目标",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570030.htm"
-            },
-            {
-                "title": "因违反《数字市场法》，欧盟对谷歌处以 8.9 亿欧元罚款",
+                "title": "AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/793.htm"
+                "url": "https://www.ithome.com/0/980/872.htm"
             },
             {
-                "title": "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英伟达携手Lunar Outpost 将把芯片送上月球",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-23",
-                "url": "https://36kr.com/p/3908051015488640"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570042.htm"
+            },
+            {
+                "title": "告别我的专栏作家生涯",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-23",
+                "url": "https://www.ftchinese.com/story/001110419"
             }
         ],
         "mil": [
+            {
+                "title": "特朗普称沙特民用核协议附带先决条件",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-23",
+                "url": "https://www.ftchinese.com/story/001110418"
+            },
+            {
+                "title": "我在泰晤士河训练赛龙舟的日子",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-23",
+                "url": "https://www.ftchinese.com/story/001110408"
+            },
+            {
+                "title": "Steam 国产新游《红色史诗》Demo 上架，2026 年第四季度推出正式版",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-23",
+                "url": "https://www.ithome.com/0/980/374.htm"
+            },
             {
                 "title": "俄罗斯“亚马逊级”零售巨头野莓沦为乌克兰打击目标",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,24 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/07/23/1102445.html"
             },
             {
-                "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-23",
-                "url": "https://36kr.com/p/3908027308823684"
-            },
-            {
-                "title": "英伟达向美国海军研究生院捐赠 GB300 超算，系美军首次部署其最先进 AI 服务器",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/675.htm"
-            },
-            {
-                "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-23",
-                "url": "https://36kr.com/p/3907676111983745"
-            },
-            {
                 "title": "王毅会见英国外交大臣米利班德 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-23",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55RFJXaVBvNDhJYUpUTEllZS1neU9BZXprLUhYOTdOOWFudTNZelJ3R0dMdXRLaUdvMWFNWE84VUYtV1VWQWdMbS0xSjNXVEZQemc?oc=5"
             },
             {
+                "title": "劈波斩浪雷霆出击- 八一视频 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-24",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FcncyY3lIbEIySWpLNGQ1OU1naDl3MExlWXV6RTdVTlAxOHBWb3RYbGJLNEhqZHlzTW9WNWpQZGo2YzM3M0V5M0pR?oc=5"
+            },
+            {
                 "title": "山东省日照市提升学校国防教育质效 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRmJrbXRNTzZQZmN1NzlxOWdkaWEzdFlfdVdmLW0tdGNOa3VmRTRtam9yRWIxMXN6alBwb1VFcTBGNEFfWGlicUlubFlGdkY3QXc?oc=5"
-            },
-            {
-                "title": "答卷•盛世华章 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-22",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "Google上市以来首次录得负自由现金流 AI基础设施巨额投入引发阵痛",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "金明日牧师VOA专访揭获释内幕：我获释时中国没有提条件，也没有交易",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570040.htm"
+                "url": "https://www.voachinese.com/a/exclusive-interview-with-pastor-ezra-jin-07232026/8175264.html"
             },
             {
-                "title": "曝小红书正私下联系员工和解 陈浩：拒绝线下面谈",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中共政权垮台之日 是台湾法理独立之时(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570032.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/24/1102455.html"
             },
             {
-                "title": "Anthropic 首席经济学家：短期内 AI 不会取代大量工作岗位",
-                "source": "NewsAPI / Ithome.com",
+                "title": "告别我的专栏作家生涯",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/838.htm"
+                "url": "https://www.ftchinese.com/story/001110419"
             },
             {
-                "title": "俄罗斯“亚马逊级”零售巨头野莓沦为乌克兰打击目标",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "英国新首相伯纳姆的“流浪汉算盘”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570030.htm"
+                "url": "https://www.ftchinese.com/story/001110422"
             },
             {
-                "title": "瑞士铁路巨头 Stadler 遭黑客组织 Everest 入侵，公司严正拒绝支付赎金",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特朗普称沙特民用核协议附带先决条件",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-23",
-                "url": "https://www.ithome.com/0/980/825.htm"
+                "url": "https://www.ftchinese.com/story/001110418"
             },
             {
                 "title": "王毅会见英国外交大臣米利班德 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55RFJXaVBvNDhJYUpUTEllZS1neU9BZXprLUhYOTdOOWFudTNZelJ3R0dMdXRLaUdvMWFNWE84VUYtV1VWQWdMbS0xSjNXVEZQemc?oc=5"
             },
             {
+                "title": "劈波斩浪雷霆出击- 八一视频 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-24",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FcncyY3lIbEIySWpLNGQ1OU1naDl3MExlWXV6RTdVTlAxOHBWb3RYbGJLNEhqZHlzTW9WNWpQZGo2YzM3M0V5M0pR?oc=5"
+            },
+            {
                 "title": "山东省日照市提升学校国防教育质效 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRmJrbXRNTzZQZmN1NzlxOWdkaWEzdFlfdVdmLW0tdGNOa3VmRTRtam9yRWIxMXN6alBwb1VFcTBGNEFfWGlicUlubFlGdkY3QXc?oc=5"
-            },
-            {
-                "title": "答卷•盛世华章 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-22",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-24T13:36:31.280499+00:00"
+    "last_updated": "2026-07-24T19:19:48.551397+00:00"
 }
