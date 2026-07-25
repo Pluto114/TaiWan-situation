@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "马斯克呼吁AI公司携手合作自我审查安全问题 为此可暂时放下与奥特曼个人恩怨",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570124.htm"
-            },
-            {
-                "title": "2299 元 OPPO K15 今日开售：天玑 7360 SUPER + 主动散热风扇，8000mAh 电池",
+                "title": "消息称字节跳动与长鑫存储签署为期五年、价值超 70 亿美元的内存采购协议",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-24",
-                "url": "https://www.ithome.com/0/980/938.htm"
+                "url": "https://www.ithome.com/0/981/172.htm"
             },
             {
-                "title": "AMD发布全球首款2nm GPU和CPU 联手史上最大芯片 还给机器人造了颗芯",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "宇树科技 CEO 王兴兴登上《时代》杂志封面，近 2.7 米高的 GD01 载人机甲几乎占满画面",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570112.htm"
+                "url": "https://www.ithome.com/0/981/153.htm"
             },
             {
-                "title": "一个月撞207起创纪录 特斯拉自动驾驶事故超2021年全年 细节全涂黑",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "捷豹路虎召回 7.6 万辆进口路虎揽胜、路虎发现汽车：可能导致驾驶员安全气囊无法正常展开",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570104.htm"
+                "url": "https://www.ithome.com/0/981/151.htm"
             },
             {
-                "title": "继黄仁勋后 AMD首席执行官苏姿丰表态支持开源AI模型",
+                "title": "黄仁勋：台湾拯救了美国半导体产业",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570102.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570142.htm"
+            },
+            {
+                "title": "美媒关注中国电动车露营热：酒店失宠，高科技SUV变身车轮上的卧室",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570138.htm"
             }
         ],
         "mil": [
+            {
+                "title": "宇树科技 CEO 王兴兴登上《时代》杂志封面，近 2.7 米高的 GD01 载人机甲几乎占满画面",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-24",
+                "url": "https://www.ithome.com/0/981/153.htm"
+            },
+            {
+                "title": "美媒关注中国电动车露营热：酒店失宠，高科技SUV变身车轮上的卧室",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570138.htm"
+            },
+            {
+                "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-24",
+                "url": "https://36kr.com/p/3909033052722310"
+            },
             {
                 "title": "Google 旗舰大模型难产背后：军方合作引员工不满 内部感叹“已落后”",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,28 @@
                 "url": "https://www.ithome.com/0/980/922.htm"
             },
             {
-                "title": "谷歌旗舰大模型难产背后：军方合作引员工不满，内部感叹“已落后”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-24",
-                "url": "https://www.ithome.com/0/980/911.htm"
-            },
-            {
-                "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
-                "source": "NewsAPI / Ruanyifeng.com",
-                "date": "2026-07-24",
-                "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html"
-            },
-            {
-                "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-24",
-                "url": "https://36kr.com/p/3908881985901959"
-            },
-            {
-                "title": "王毅会见英国外交大臣米利班德 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRm9mRFVWSHJDQlg2cElPWExWcHBBejFNV1JreWRoZHZZQlJEdmlsOFFwOHZLc1NSSU0tOVVPMlp0UUJXOVp5ckY2aG5UN0tXUGxXdHVJZ1JkLXhZRTNJZU8zNFBhVE5SM25lLVB3?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "附加证明书 - 中国领事服务网",
+                "title": "林剑：将科技经贸问题政治化、工具化只会干扰全球人工智能发展（2026年7月23日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-03-29",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUTFELXBVRW53Znc1ODZkUzA3Z3ZWYTRUa3BLNGZ6Vi1CdzlZYWJtTG82dS0xUVFRQVNMN2dobVFManF0aGQxZGlaOA?oc=5"
+                "date": "2026-07-23",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHJIeHZKYVpSMGxCWVZ4VjhWcEkxZHhuYTlBV1pUS2NCVkpUZHBTenpGWkhabHRVN3ozQmtrSzR6WWxGX1BIOHFNanlkRExNVnExN3ZBOEY4VlZiUXRraldFSEVaQmNfYUd6d1ZMMXhpb0k4T200M1FwN29JejRpUFdYeVlTWEtRcDgxOG8zcmM?oc=5"
+            },
+            {
+                "title": "王沪宁会见捷克众议长冈村富夫 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-23",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iMzJjZUZvcDZDUU9KV21OTjNoYVg1TGdCY0VrV1FNS1AyV0IyVE1LbnNsXzBCVVNOOTdEOVlsM1NFUEE5a2dMaXAwem9qNk5XcC1ITmZaSFQ0OXZkR1NKNGlvVjZic3d0T2FB?oc=5"
+            },
+            {
+                "title": "海军航空大学某团组织战斗搜救训练见闻:崖壁之上 援兵天降 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zTmlCS2J4eDRkME5QNVRFeXhRdlJsRlRWSHJ6bmdjWW9GRnI1elVJMVJBRGg1SGh6cUxRTkVKbXhPRXdPd3huM0JYdDVHeXBzUGc?oc=5"
             },
             {
                 "title": "敢于承认“我不懂”，才能把“不懂”变成“真知” - 中国军网",
@@ -102,50 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-24",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FcncyY3lIbEIySWpLNGQ1OU1naDl3MExlWXV6RTdVTlAxOHBWb3RYbGJLNEhqZHlzTW9WNWpQZGo2YzM3M0V5M0pR?oc=5"
-            },
-            {
-                "title": "山东省日照市提升学校国防教育质效 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRmJrbXRNTzZQZmN1NzlxOWdkaWEzdFlfdVdmLW0tdGNOa3VmRTRtam9yRWIxMXN6alBwb1VFcTBGNEFfWGlicUlubFlGdkY3QXc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "马斯克呼吁AI公司携手合作自我审查安全问题 为此可暂时放下与奥特曼个人恩怨",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "捷豹路虎召回 7.6 万辆进口路虎揽胜、路虎发现汽车：可能导致驾驶员安全气囊无法正常展开",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570124.htm"
+                "url": "https://www.ithome.com/0/981/151.htm"
             },
             {
-                "title": "AMD发布全球首款2nm GPU和CPU 联手史上最大芯片 还给机器人造了颗芯",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "腾讯混元大语言模型和多模态团队合并，统一由姚顺雨管理",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570112.htm"
+                "url": "https://www.ithome.com/0/981/121.htm"
             },
             {
-                "title": "一个月撞207起创纪录 特斯拉自动驾驶事故超2021年全年 细节全涂黑",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "大众集团今年上半年归母净利润 25.74 亿欧元，同比下降 35.73%",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570104.htm"
+                "url": "https://www.ithome.com/0/981/109.htm"
             },
             {
-                "title": "继黄仁勋后 AMD首席执行官苏姿丰表态支持开源AI模型",
+                "title": "美媒关注中国电动车露营热：酒店失宠，高科技SUV变身车轮上的卧室",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570102.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570138.htm"
             },
             {
-                "title": "特斯拉等隐形按压设计引发安全担忧 美监管机构拟制定车载门把手新规",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570080.htm"
-            },
-            {
-                "title": "王毅会见英国外交大臣米利班德 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRm9mRFVWSHJDQlg2cElPWExWcHBBejFNV1JreWRoZHZZQlJEdmlsOFFwOHZLc1NSSU0tOVVPMlp0UUJXOVp5ckY2aG5UN0tXUGxXdHVJZ1JkLXhZRTNJZU8zNFBhVE5SM25lLVB3?oc=5"
+                "url": "https://36kr.com/p/3909084356433025"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,10 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "附加证明书 - 中国领事服务网",
+                "title": "林剑：将科技经贸问题政治化、工具化只会干扰全球人工智能发展（2026年7月23日） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-03-29",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUTFELXBVRW53Znc1ODZkUzA3Z3ZWYTRUa3BLNGZ6Vi1CdzlZYWJtTG82dS0xUVFRQVNMN2dobVFManF0aGQxZGlaOA?oc=5"
+                "date": "2026-07-23",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHJIeHZKYVpSMGxCWVZ4VjhWcEkxZHhuYTlBV1pUS2NCVkpUZHBTenpGWkhabHRVN3ozQmtrSzR6WWxGX1BIOHFNanlkRExNVnExN3ZBOEY4VlZiUXRraldFSEVaQmNfYUd6d1ZMMXhpb0k4T200M1FwN29JejRpUFdYeVlTWEtRcDgxOG8zcmM?oc=5"
+            },
+            {
+                "title": "王沪宁会见捷克众议长冈村富夫 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-23",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iMzJjZUZvcDZDUU9KV21OTjNoYVg1TGdCY0VrV1FNS1AyV0IyVE1LbnNsXzBCVVNOOTdEOVlsM1NFUEE5a2dMaXAwem9qNk5XcC1ITmZaSFQ0OXZkR1NKNGlvVjZic3d0T2FB?oc=5"
+            },
+            {
+                "title": "海军航空大学某团组织战斗搜救训练见闻:崖壁之上 援兵天降 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zTmlCS2J4eDRkME5QNVRFeXhRdlJsRlRWSHJ6bmdjWW9GRnI1elVJMVJBRGg1SGh6cUxRTkVKbXhPRXdPd3huM0JYdDVHeXBzUGc?oc=5"
             },
             {
                 "title": "敢于承认“我不懂”，才能把“不懂”变成“真知” - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-24",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FcncyY3lIbEIySWpLNGQ1OU1naDl3MExlWXV6RTdVTlAxOHBWb3RYbGJLNEhqZHlzTW9WNWpQZGo2YzM3M0V5M0pR?oc=5"
-            },
-            {
-                "title": "山东省日照市提升学校国防教育质效 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRmJrbXRNTzZQZmN1NzlxOWdkaWEzdFlfdVdmLW0tdGNOa3VmRTRtam9yRWIxMXN6alBwb1VFcTBGNEFfWGlicUlubFlGdkY3QXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-25T02:23:26.886304+00:00"
+    "last_updated": "2026-07-25T08:01:31.661925+00:00"
 }
