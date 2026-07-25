@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "格科微：收到国际知名手机品牌订单，供应 0.64 微米 5000 万像素图像传感器",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美制裁伊朗金融大亨及规避制裁网络 欧盟同步出手(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-24",
-                "url": "https://www.ithome.com/0/981/369.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/25/1102507.html"
             },
             {
-                "title": "印度要求下架杰克·多西主导的去中心化离线通信应用Bitchat",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中国火箭回收技术的虚实(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570186.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/25/1102505.html"
             },
             {
-                "title": "利益分歧引发内部摩擦 长鑫存储被曝曾将华为驻场工程师驱逐出研发基地",
+                "title": "美国电力需求暴涨 电网扩建成本同步飙升",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570176.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570212.htm"
             },
             {
-                "title": "长鑫服务器DDR5内存单价超越三星 产能冲刺每月60万片",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "卢比奥对中日关系感到担忧，因为中国似乎特别针对日本",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570184.htm"
+                "url": "https://www.voachinese.com/a/rubio-says-us-concerned-about-worsening-japan-china-ties-20260724/8175690.html"
             },
             {
-                "title": "女子边充边玩手机致全身烧伤 法院判卖家赔付63万元",
+                "title": "美科技巨头联名发声：警惕对开源权重AI模型的“过早限制”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570174.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570210.htm"
             }
         ],
         "mil": [
+            {
+                "title": "特朗普总统：俄罗斯和中国承诺不向伊朗出售武器",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-24",
+                "url": "https://www.voachinese.com/a/president-trump-russia-china-pledge-not-to-sell-weapons-to-iran-20260724/8175712.html"
+            },
             {
                 "title": "文革历史重演！习近平遭遇强烈反弹(视频)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,28 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1570164.htm"
             },
             {
-                "title": "你的下一位面试官，可能不是人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-24",
-                "url": "https://36kr.com/p/3909499179767169"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部副部长苗得雨出席埃及国庆招待会 - mfa.gov.cn",
+                "title": "武警第一机动总队某支队开展山林地捕歼战斗训练 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tdHN5MXZaMlFORnV5YU40bVh1VmlDeEJNSzl6VG83SFBBaHRZdGZLMnhFOFdwd1ZsQXRQZ2h3ck1pX09mMlViM0o0V1ltMEF4NmdreEMyRUNjN011ZHRxOGppOXFOX3VkYy0tVlQ0S1ljQQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnc3lfTy0zUlhSQ05mQlU2ZV9vNmk5dHJIbFdlaTlFU05wMUUtblljRHVKXzVfOTlQbEI1dFFkb3Z2UDIwQlkxT2dEUHg4VmRfNzBzeEpPVTI?oc=5"
             },
             {
-                "title": "赵乐际同捷克众议长冈村富夫会谈 - mfa.gov.cn",
+                "title": "搜索结果页面 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGU1R1a2Y2bFF6UWhreHBESmthQjRXMnF5d3A0Q3hPOWREczFfME9DRXlTRlVqRGtXQm9jLUVsanJsMzAyM3paZGVzM1EyVnpKLTJwaW9zRVp2YUdJSHREbjFRN1ZFSDhScjhV?oc=5"
+                "date": "2026-07-25",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdU9UQl9BUUdOLXZ5SDNTQlAyUFJoQ2FDTE5fcG9PZk94TXBIUG9uZElXaGNYRk1NOWtTMjVsWDRVV1pXWXhGazFLZjZ3VUVrdFdrZUhsdlhabGt5U3RpbFNQTDY4N19MWVZ1NDg0STRPNVJDYzZQeGlQUGtHYmk4TldVOW1sTGxha2pfaWNhaHk5aTJCSHBoVG12cTg1cnVWcEE?oc=5"
             },
             {
                 "title": "海军航空大学某团组织战斗搜救训练见闻:崖壁之上 援兵天降 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "印度要求下架杰克·多西主导的去中心化离线通信应用Bitchat",
+                "title": "特朗普总统：俄罗斯和中国承诺不向伊朗出售武器",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-24",
+                "url": "https://www.voachinese.com/a/president-trump-russia-china-pledge-not-to-sell-weapons-to-iran-20260724/8175712.html"
+            },
+            {
+                "title": "实验室带你过周末：2026.7.25 - 7.26 成都篇",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-07-24",
+                "url": "https://www.toodaylab.com/84137"
+            },
+            {
+                "title": "美国电力需求暴涨 电网扩建成本同步飙升",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570186.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570212.htm"
             },
             {
-                "title": "欧盟警告TikTok：未成年人安全保护不应设为“可选项”",
+                "title": "美科技巨头联名发声：警惕对开源权重AI模型的“过早限制”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570180.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570210.htm"
             },
             {
-                "title": "两个海峡、两条战线：美伊冲突正在改变全球能源格局(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "360首任董秘发文讨要2600万元股票激励 称给周鸿祎发微信反被拉黑",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-24",
-                "url": "https://www.secretchina.com/news/gb/2026/07/24/1102489.html"
-            },
-            {
-                "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-24",
-                "url": "https://36kr.com/p/3909160840451465"
-            },
-            {
-                "title": "你的下一位面试官，可能不是人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-24",
-                "url": "https://36kr.com/p/3909499179767169"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570206.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部副部长苗得雨出席埃及国庆招待会 - mfa.gov.cn",
+                "title": "武警第一机动总队某支队开展山林地捕歼战斗训练 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tdHN5MXZaMlFORnV5YU40bVh1VmlDeEJNSzl6VG83SFBBaHRZdGZLMnhFOFdwd1ZsQXRQZ2h3ck1pX09mMlViM0o0V1ltMEF4NmdreEMyRUNjN011ZHRxOGppOXFOX3VkYy0tVlQ0S1ljQQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnc3lfTy0zUlhSQ05mQlU2ZV9vNmk5dHJIbFdlaTlFU05wMUUtblljRHVKXzVfOTlQbEI1dFFkb3Z2UDIwQlkxT2dEUHg4VmRfNzBzeEpPVTI?oc=5"
             },
             {
-                "title": "赵乐际同捷克众议长冈村富夫会谈 - mfa.gov.cn",
+                "title": "搜索结果页面 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGU1R1a2Y2bFF6UWhreHBESmthQjRXMnF5d3A0Q3hPOWREczFfME9DRXlTRlVqRGtXQm9jLUVsanJsMzAyM3paZGVzM1EyVnpKLTJwaW9zRVp2YUdJSHREbjFRN1ZFSDhScjhV?oc=5"
+                "date": "2026-07-25",
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdU9UQl9BUUdOLXZ5SDNTQlAyUFJoQ2FDTE5fcG9PZk94TXBIUG9uZElXaGNYRk1NOWtTMjVsWDRVV1pXWXhGazFLZjZ3VUVrdFdrZUhsdlhabGt5U3RpbFNQTDY4N19MWVZ1NDg0STRPNVJDYzZQeGlQUGtHYmk4TldVOW1sTGxha2pfaWNhaHk5aTJCSHBoVG12cTg1cnVWcEE?oc=5"
             },
             {
                 "title": "海军航空大学某团组织战斗搜救训练见闻:崖壁之上 援兵天降 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-25T13:17:25.530839+00:00"
+    "last_updated": "2026-07-25T19:02:06.622762+00:00"
 }
