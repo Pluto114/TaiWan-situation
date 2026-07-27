@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中企接管大众工厂？德国汽车业的尴尬时刻",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-07-25",
-                "url": "https://www.ftchinese.com/story/001110431"
-            },
-            {
-                "title": "厄尔尼诺与燃油危机：渔民生活的双重威胁",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-07-25",
-                "url": "https://www.ftchinese.com/story/001110430"
-            },
-            {
-                "title": "特朗普新关税生效数小时后即遭起诉 专家称其可能无法维持",
+                "title": "OpenAI公开支持开放权重 却被曝推动限制中国模型",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570312.htm"
+                "date": "2026-07-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570360.htm"
             },
             {
-                "title": "2025 年我国服务机器人产量达 1858.1 万套，同比增长 16.1%",
+                "title": "因担忧准确性问题，欧美多所高校停用 AI 检测工具",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-25",
-                "url": "https://www.ithome.com/0/981/599.htm"
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/635.htm"
             },
             {
-                "title": "三星拿下2000亿美元大单 将向博通供应芯片",
+                "title": "苹果拟推出首款防水iPad 全新iPad mini或于今年10月亮相",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570302.htm"
+                "date": "2026-07-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570346.htm"
+            },
+            {
+                "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-26",
+                "url": "https://36kr.com/p/3911162147640456"
+            },
+            {
+                "title": "马斯克反思从政经历：过于投入政治，陷得太深了",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/628.htm"
             }
         ],
         "mil": [
+            {
+                "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-26",
+                "url": "https://36kr.com/p/3911162147640456"
+            },
+            {
+                "title": "准确率存疑 欧美多家知名高校纷纷弃用AI检测工具",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570332.htm"
+            },
+            {
+                "title": "马斯克：SpaceX 将在下一次飞行中尝试用发射塔捕获星舰",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-25",
+                "url": "https://www.ithome.com/0/981/610.htm"
+            },
             {
                 "title": "厄尔尼诺与燃油危机：渔民生活的双重威胁",
                 "source": "NewsAPI / Ftchinese.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/07/25/1102485.html"
             },
             {
-                "title": "摩根士丹利分析师：若 SpaceX 股价跌至 100 美元，就预示其 AI 业务无价值",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-25",
-                "url": "https://www.ithome.com/0/981/473.htm"
-            },
-            {
-                "title": "想要开车去欧洲 我劝你先给车企打个电话",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570264.htm"
-            },
-            {
-                "title": "杨紫琼《银翼杀手 2099》首支预告片公开，明年登陆亚马逊 Prime Video",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-25",
-                "url": "https://www.ithome.com/0/981/440.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,16 +92,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82cmdlbG15ZmYzVDJRMHh0WDBqUldHOE5ERmlIajByZEJRZTFwYWdYd01lR2NCQjlZOFZMRTZWX3FVRm56cE9DY2lnRlJnY1hJN1dEOU95QkZhY2w3ZUFYN25ELVpiUQ?oc=5"
             },
             {
-                "title": "海军航空大学某团组织战斗搜救训练见闻:崖壁之上 援兵天降 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zTmlCS2J4eDRkME5QNVRFeXhRdlJsRlRWSHJ6bmdjWW9GRnI1elVJMVJBRGg1SGh6cUxRTkVKbXhPRXdPd3huM0JYdDVHeXBzUGc?oc=5"
-            },
-            {
                 "title": "聆听一堂跨越时光的思政课，军校学员在“思想碰撞”中积蓄奋进力量 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xR1lsMmtZUXhROVVyZHBNU24yNVpOQ3RZbXFGNFdjNnFqRmxQWExpSFdIRGhzZTFwUS1rQXFHcTdlQUdZMmJQbjE1alRLQlJqVHc?oc=5"
+            },
+            {
+                "title": "唐山大地震幸存者田金芳的拥军故事：一顶军帽 半世追寻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HTW4zZlZDMTFPaW1Pa2dqR0ZjZ0d5bXZLdXVJaXZBeThHOEUwRXExdUVJMmxaaXRSZzM0QldQR1ZVa0s4UDdKZ3Q2RDM0bU9wYkE?oc=5"
             },
             {
                 "title": "Choppers lift up for live-fire training - China Military Online",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "中企接管大众工厂？德国汽车业的尴尬时刻",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-07-25",
-                "url": "https://www.ftchinese.com/story/001110431"
+                "title": "因担忧准确性问题，欧美多所高校停用 AI 检测工具",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/635.htm"
             },
             {
-                "title": "厄尔尼诺与燃油危机：渔民生活的双重威胁",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-07-25",
-                "url": "https://www.ftchinese.com/story/001110430"
+                "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-26",
+                "url": "https://36kr.com/p/3911162147640456"
             },
             {
-                "title": "特朗普新关税生效数小时后即遭起诉 专家称其可能无法维持",
+                "title": "马斯克反思从政经历：过于投入政治，陷得太深了",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/628.htm"
+            },
+            {
+                "title": "长江存储正在满足国内需求 中国云服务商绕过模组厂直接采购",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570312.htm"
+                "date": "2026-07-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570340.htm"
             },
             {
-                "title": "复旦、上海交大上“黑名单”？美国扩大对华科研审查",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-25",
-                "url": "https://www.dw.com/zh/%E5%A4%8D%E6%97%A6%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%B8%8A%E9%BB%91%E5%90%8D%E5%8D%95%E7%BE%8E%E5%9B%BD%E6%89%A9%E5%A4%A7%E5%AF%B9%E5%8D%8E%E7%A7%91%E7%A0%94%E5%AE%A1%E6%9F%A5/a-78113419"
-            },
-            {
-                "title": "苹果CEO库克游说特朗普使用中国芯片 遭美光强烈反对",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570298.htm"
+                "title": "特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/621.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,16 +160,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82cmdlbG15ZmYzVDJRMHh0WDBqUldHOE5ERmlIajByZEJRZTFwYWdYd01lR2NCQjlZOFZMRTZWX3FVRm56cE9DY2lnRlJnY1hJN1dEOU95QkZhY2w3ZUFYN25ELVpiUQ?oc=5"
             },
             {
-                "title": "海军航空大学某团组织战斗搜救训练见闻:崖壁之上 援兵天降 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zTmlCS2J4eDRkME5QNVRFeXhRdlJsRlRWSHJ6bmdjWW9GRnI1elVJMVJBRGg1SGh6cUxRTkVKbXhPRXdPd3huM0JYdDVHeXBzUGc?oc=5"
-            },
-            {
                 "title": "聆听一堂跨越时光的思政课，军校学员在“思想碰撞”中积蓄奋进力量 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xR1lsMmtZUXhROVVyZHBNU24yNVpOQ3RZbXFGNFdjNnFqRmxQWExpSFdIRGhzZTFwUS1rQXFHcTdlQUdZMmJQbjE1alRLQlJqVHc?oc=5"
+            },
+            {
+                "title": "唐山大地震幸存者田金芳的拥军故事：一顶军帽 半世追寻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HTW4zZlZDMTFPaW1Pa2dqR0ZjZ0d5bXZLdXVJaXZBeThHOEUwRXExdUVJMmxaaXRSZzM0QldQR1ZVa0s4UDdKZ3Q2RDM0bU9wYkE?oc=5"
             },
             {
                 "title": "Choppers lift up for live-fire training - China Military Online",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-26T19:05:21.830969+00:00"
+    "last_updated": "2026-07-27T02:37:07.805356+00:00"
 }
