@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "蔡司半导体制造技术在德国总部扩建 2.5 万平方米，办公楼本月启用",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/805.htm"
+            },
+            {
+                "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/797.htm"
+            },
+            {
                 "title": "马斯克：中国很有可能在某个时候成为AI领域的领导者",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-26",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-07-26",
                 "url": "https://www.dw.com/zh/%E8%B4%A2%E5%AF%8C%E5%9C%A8%E5%A2%9E%E9%95%BF%E7%BB%8F%E6%B5%8E%E6%B2%A1%E8%B7%9F%E4%B8%8A%E9%BA%A6%E8%82%AF%E9%94%A1%E6%96%B0%E6%8A%A5%E5%91%8A%E6%8F%AD%E7%A4%BA%E7%9A%84%E8%AE%AF%E6%81%AF/a-78104025"
-            },
-            {
-                "title": "微电影《返航日》官宣 7 月 27 日上映，采用荣耀 Robot Phone 完成一镜到底视觉叙事",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-26",
-                "url": "https://www.ithome.com/0/981/701.htm"
-            },
-            {
-                "title": "OpenAI游说美国限制中国开源模型 黄仁勋马斯克公开反对",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570368.htm"
             }
         ],
         "mil": [
@@ -112,6 +112,18 @@
         ],
         "pol": [
             {
+                "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/797.htm"
+            },
+            {
+                "title": "跨境电商 SHEIN 希音通过港交所上市聆讯",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-26",
+                "url": "https://www.ithome.com/0/981/785.htm"
+            },
+            {
                 "title": "马斯克：中国很有可能在某个时候成为AI领域的领导者",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-26",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-26",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1570368.htm"
-            },
-            {
-                "title": "IIHS 研究：Waymo 自动驾驶出租车事故率比人类驾驶员低 68%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-26",
-                "url": "https://www.ithome.com/0/981/673.htm"
-            },
-            {
-                "title": "因担忧准确性问题，欧美多所高校停用 AI 检测工具",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-26",
-                "url": "https://www.ithome.com/0/981/635.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-27T09:43:25.866787+00:00"
+    "last_updated": "2026-07-27T14:25:36.343523+00:00"
 }
