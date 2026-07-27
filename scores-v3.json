@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "英伟达锁定SK海力士内存供应 作为5000亿美元AI交易的一部分",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570398.htm"
+            },
+            {
+                "title": "默茨能否让德国经济重振旗鼓？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-26",
+                "url": "https://www.ftchinese.com/story/001110441"
+            },
+            {
                 "title": "蔡司半导体制造技术在德国总部扩建 2.5 万平方米，办公楼本月启用",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-26",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-26",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1570382.htm"
-            },
-            {
-                "title": "消息称下一代三星 Galaxy Z TriFold 三折叠手机将于明年推出，备货量有望增加",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-26",
-                "url": "https://www.ithome.com/0/981/767.htm"
-            },
-            {
-                "title": "财富在增长，经济没跟上？麦肯锡新报告揭示的讯息",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-26",
-                "url": "https://www.dw.com/zh/%E8%B4%A2%E5%AF%8C%E5%9C%A8%E5%A2%9E%E9%95%BF%E7%BB%8F%E6%B5%8E%E6%B2%A1%E8%B7%9F%E4%B8%8A%E9%BA%A6%E8%82%AF%E9%94%A1%E6%96%B0%E6%8A%A5%E5%91%8A%E6%8F%AD%E7%A4%BA%E7%9A%84%E8%AE%AF%E6%81%AF/a-78104025"
             }
         ],
         "mil": [
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "英伟达锁定SK海力士内存供应 作为5000亿美元AI交易的一部分",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570398.htm"
+            },
+            {
+                "title": "从硅谷到华盛顿，科技界突然痴迷于AI中的一个概念：蒸馏",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570396.htm"
+            },
+            {
+                "title": "默茨能否让德国经济重振旗鼓？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-26",
+                "url": "https://www.ftchinese.com/story/001110441"
+            },
+            {
                 "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-26",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-26",
                 "url": "https://www.ithome.com/0/981/785.htm"
-            },
-            {
-                "title": "马斯克：中国很有可能在某个时候成为AI领域的领导者",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570382.htm"
-            },
-            {
-                "title": "中国基因编辑试验致6岁女童死亡事件 上海交大发布说明",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-26",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E8%87%B46%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6-%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E/a-78110734"
-            },
-            {
-                "title": "OpenAI游说美国限制中国开源模型 黄仁勋马斯克公开反对",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570368.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-27T14:25:36.343523+00:00"
+    "last_updated": "2026-07-27T19:21:58.856794+00:00"
 }
