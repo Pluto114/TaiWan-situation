@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-27",
-                "url": "https://36kr.com/p/3912369056240772"
-            },
-            {
-                "title": "宇瞻预警：DRAM、企业级 SSD 供需失衡将至少持续到明年上半年",
+                "title": "加州最大 AI 数据中心开发商索要河水遭拒，将供水机构告上法庭",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/982/104.htm"
+                "url": "https://www.ithome.com/0/982/244.htm"
             },
             {
-                "title": "长鑫科技科IPO首日市值超3.28万亿 阿里浮盈超1564亿元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570488.htm"
-            },
-            {
-                "title": "全新一代宝马 X5 国产版官图发布：燃油和纯电可选，2027 年上市",
+                "title": "保时捷计划在 2035 年前，再裁员 5000 人",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/982/085.htm"
+                "url": "https://www.ithome.com/0/982/243.htm"
             },
             {
-                "title": "外交部：今年上半年，中非贸易亮点纷呈",
-                "source": "NewsAPI / 36kr.com",
+                "title": "挣脱印度后 孟加拉国与中国启动经济产业园项目",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-07-27",
-                "url": "https://36kr.com/newsflashes/3913591974466945"
+                "url": "https://www.dw.com/zh/%E6%8C%A3%E8%84%B1%E5%8D%B0%E5%BA%A6%E5%90%8E-%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%AF%E5%8A%A8%E7%BB%8F%E6%B5%8E%E4%BA%A7%E4%B8%9A%E5%9B%AD%E9%A1%B9%E7%9B%AE/a-78131130"
+            },
+            {
+                "title": "拒绝印度后 孟加拉国与中国启动经济产业园项目",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-27",
+                "url": "https://www.dw.com/zh/%E6%8B%92%E7%BB%9D%E5%8D%B0%E5%BA%A6%E5%90%8E-%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%90%AF%E5%8A%A8%E7%BB%8F%E6%B5%8E%E4%BA%A7%E4%B8%9A%E5%9B%AD%E9%A1%B9%E7%9B%AE/a-78131130"
+            },
+            {
+                "title": "韩国企业引入海外 AI 模型遇成本难题，三星等巨头实施 Token 配额制",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-27",
+                "url": "https://www.ithome.com/0/982/241.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美军弹药库存告急：五角大楼加速扩军工产能(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-27",
+                "url": "https://www.secretchina.com/news/gb/2026/07/27/1102618.html"
+            },
             {
                 "title": "【袁红冰热点】独家内幕：中共当下正培训伊革命卫队、准备实施切断霍尔木兹海峡电缆！(视频)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,10 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1570332.htm"
             },
             {
-                "title": "马斯克：SpaceX 将在下一次飞行中尝试用发射塔捕获星舰",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-25",
-                "url": "https://www.ithome.com/0/981/610.htm"
+                "title": "中央军委后勤保障部等六部门通告，严禁此类销售活动！ - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-28",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RdHp5NUZVWFpRcGQxUjBUV25MZUdpMEVfMThZbDVsLUhNbVVGaHF1Rlh0LTVlN21TNFdWaTlOQXdCMXhpRlFIT05xNURIY0k5cDIzdnVJZE9KTVBoaVI0eG82dHhEUQ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -86,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "75640部队72分队党支部：坚强堡垒矗立濠江之畔 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-27",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTnR5LS1oNFFpdHBCZWZydzhULVpPak1PTHUtSVBxWnVnMkxZOFZCQXp1ajY1a2dORVpsVko3M3FuSC1vR1EtbDdueXozZHZxRHVQY0hkblo0ZWZ5RUtfMjg0WXVxSlk?oc=5"
-            },
-            {
                 "title": "唐山大地震幸存者田金芳的拥军故事：一顶军帽 半世追寻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-27",
@@ -104,42 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLU5WRUdfQjRsVktTc1d5eWpyUmJUcHB2VFlKOENuOXFUQ2ZlR0ZZc1JrbGhMVnY0V2RnSmVFUmNTMjlvNGx1cUhOYw?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "外交部回应强闯中国使馆的村田晃大被起诉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-07-28",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlbjZWY3BRUEwyY0ZEVzN4cFJ2QkUtWXpUOWtVbHhnYTZxTmVqck04Y3FQbDhrRUR4dVp5Z2thZ3dHQjVLNDZFTGh3?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "长鑫科技科IPO首日市值超3.28万亿 阿里浮盈超1564亿元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570488.htm"
-            },
-            {
-                "title": "全新一代宝马 X5 国产版官图发布：燃油和纯电可选，2027 年上市",
+                "title": "国家能源局：1—6 月全国电力市场交易电量 36848 亿千瓦时，同比增长 24.2%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/982/085.htm"
+                "url": "https://www.ithome.com/0/982/245.htm"
             },
             {
-                "title": "外交部：今年上半年，中非贸易亮点纷呈",
+                "title": "加州最大 AI 数据中心开发商索要河水遭拒，将供水机构告上法庭",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-27",
+                "url": "https://www.ithome.com/0/982/244.htm"
+            },
+            {
+                "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-27",
-                "url": "https://36kr.com/newsflashes/3913591974466945"
+                "url": "https://36kr.com/p/3913320648971395"
             },
             {
-                "title": "FSD 连续行驶 2 万英里全程无接管，特斯拉车主达成新纪录",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国智库分析台湾总合外交 提6建议(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/982/042.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/27/1102613.html"
             },
             {
-                "title": "荣耀手表 6 Plus 张雪机车联名款开售：专属机车模式，国补到手价 1359.15 元",
+                "title": "无人驾驶出租车乱停车？Waymo 在奥斯汀产生近万美元停车罚款",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/982/035.htm"
+                "url": "https://www.ithome.com/0/982/215.htm"
+            },
+            {
+                "title": "中央军委后勤保障部等六部门通告，严禁此类销售活动！ - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-28",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RdHp5NUZVWFpRcGQxUjBUV25MZUdpMEVfMThZbDVsLUhNbVVGaHF1Rlh0LTVlN21TNFdWaTlOQXdCMXhpRlFIT05xNURIY0k5cDIzdnVJZE9KTVBoaVI0eG82dHhEUQ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "75640部队72分队党支部：坚强堡垒矗立濠江之畔 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-27",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTnR5LS1oNFFpdHBCZWZydzhULVpPak1PTHUtSVBxWnVnMkxZOFZCQXp1ajY1a2dORVpsVko3M3FuSC1vR1EtbDdueXozZHZxRHVQY0hkblo0ZWZ5RUtfMjg0WXVxSlk?oc=5"
-            },
-            {
                 "title": "唐山大地震幸存者田金芳的拥军故事：一顶军帽 半世追寻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-27",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLU5WRUdfQjRsVktTc1d5eWpyUmJUcHB2VFlKOENuOXFUQ2ZlR0ZZc1JrbGhMVnY0V2RnSmVFUmNTMjlvNGx1cUhOYw?oc=5"
             },
             {
-                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
+                "title": "外交部回应强闯中国使馆的村田晃大被起诉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
+                "date": "2026-07-28",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlbjZWY3BRUEwyY0ZEVzN4cFJ2QkUtWXpUOWtVbHhnYTZxTmVqck04Y3FQbDhrRUR4dVp5Z2thZ3dHQjVLNDZFTGh3?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-28T08:27:49.570311+00:00"
+    "last_updated": "2026-07-28T13:58:04.852521+00:00"
 }
