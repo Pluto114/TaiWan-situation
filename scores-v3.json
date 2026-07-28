@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "长鑫科技开盘大涨超471%，成A股“一哥”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570436.htm"
-            },
-            {
-                "title": "A 股今年规模最大 IPO 之一：长鑫科技上市，开盘大涨超 471%、市值突破 3 万亿元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/981/845.htm"
-            },
-            {
-                "title": "“超级英雄”光环散去，纳德拉AI豪赌为何反成微软“绞索”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570430.htm"
-            },
-            {
-                "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+                "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-27",
-                "url": "https://36kr.com/p/3910655616521348"
+                "url": "https://36kr.com/p/3912369056240772"
             },
             {
-                "title": "vivo X300 E 手机今启预售：第五代骁龙 8 旗舰芯片、蔡司超级长焦，4799 元起",
+                "title": "宇瞻预警：DRAM、企业级 SSD 供需失衡将至少持续到明年上半年",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/981/838.htm"
+                "url": "https://www.ithome.com/0/982/104.htm"
+            },
+            {
+                "title": "长鑫科技科IPO首日市值超3.28万亿 阿里浮盈超1564亿元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570488.htm"
+            },
+            {
+                "title": "全新一代宝马 X5 国产版官图发布：燃油和纯电可选，2027 年上市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-27",
+                "url": "https://www.ithome.com/0/982/085.htm"
+            },
+            {
+                "title": "外交部：今年上半年，中非贸易亮点纷呈",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-27",
+                "url": "https://36kr.com/newsflashes/3913591974466945"
             }
         ],
         "mil": [
+            {
+                "title": "【袁红冰热点】独家内幕：中共当下正培训伊革命卫队、准备实施切断霍尔木兹海峡电缆！(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-27",
+                "url": "https://www.secretchina.com/news/gb/2026/07/27/1102604.html"
+            },
             {
                 "title": "IIHS 研究：Waymo 自动驾驶出租车事故率比人类驾驶员低 68%",
                 "source": "NewsAPI / Ithome.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.ithome.com/0/981/610.htm"
             },
             {
-                "title": "厄尔尼诺与燃油危机：渔民生活的双重威胁",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-07-25",
-                "url": "https://www.ftchinese.com/story/001110430"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "清风正气歌丨志在伟业不在官 - 中华人民共和国国防部",
+                "title": "75640部队72分队党支部：坚强堡垒矗立濠江之畔 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-27",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFX3UtZG42c1Z3a3F4OXBRTDdOSGRTX2xjY01NSi1zV1o5RWprMEFueU5DbXpiX0wwRHM1cFpMa3NDQk96NkJCYURPTFBJb0lBVVFzX0NtMVVpVy1KblJpRW05WHZFVVk?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTnR5LS1oNFFpdHBCZWZydzhULVpPak1PTHUtSVBxWnVnMkxZOFZCQXp1ajY1a2dORVpsVko3M3FuSC1vR1EtbDdueXozZHZxRHVQY0hkblo0ZWZ5RUtfMjg0WXVxSlk?oc=5"
             },
             {
                 "title": "唐山大地震幸存者田金芳的拥军故事：一顶军帽 半世追寻 - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLU5WRUdfQjRsVktTc1d5eWpyUmJUcHB2VFlKOENuOXFUQ2ZlR0ZZc1JrbGhMVnY0V2RnSmVFUmNTMjlvNGx1cUhOYw?oc=5"
             },
             {
-                "title": "铁甲怒吼！陆军第82集团军某旅坦克分队开展战斗射击考核 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bWNpWmFQN0Ytc0VuRk1DZU1WbVRnTUwyUUJZMEJnN2d5RGVmQk9VZ0VuQWdqVUxvZkFoRF9BeElsdHQzN1ZKUXpyUTlManlIT0E?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "长鑫科技开盘大涨超471%，成A股“一哥”",
+                "title": "长鑫科技科IPO首日市值超3.28万亿 阿里浮盈超1564亿元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570436.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570488.htm"
             },
             {
-                "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-27",
-                "url": "https://36kr.com/p/3910655616521348"
-            },
-            {
-                "title": "AI巨头高价抢购LPDDR内存削弱了苹果长期以来的采购议价优势",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570412.htm"
-            },
-            {
-                "title": "英伟达拟为OpenAI提供2500亿美元担保 助其打造全球最大数据中心",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570408.htm"
-            },
-            {
-                "title": "DC 新剧《绿灯军团》正式预告发布：“最伟大的绿灯侠”哈尔 · 乔丹回归，HBO Max 今年 8 月开播",
+                "title": "全新一代宝马 X5 国产版官图发布：燃油和纯电可选，2027 年上市",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-27",
-                "url": "https://www.ithome.com/0/981/823.htm"
+                "url": "https://www.ithome.com/0/982/085.htm"
+            },
+            {
+                "title": "外交部：今年上半年，中非贸易亮点纷呈",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-27",
+                "url": "https://36kr.com/newsflashes/3913591974466945"
+            },
+            {
+                "title": "FSD 连续行驶 2 万英里全程无接管，特斯拉车主达成新纪录",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-27",
+                "url": "https://www.ithome.com/0/982/042.htm"
+            },
+            {
+                "title": "荣耀手表 6 Plus 张雪机车联名款开售：专属机车模式，国补到手价 1359.15 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-27",
+                "url": "https://www.ithome.com/0/982/035.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "清风正气歌丨志在伟业不在官 - 中华人民共和国国防部",
+                "title": "75640部队72分队党支部：坚强堡垒矗立濠江之畔 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-27",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFX3UtZG42c1Z3a3F4OXBRTDdOSGRTX2xjY01NSi1zV1o5RWprMEFueU5DbXpiX0wwRHM1cFpMa3NDQk96NkJCYURPTFBJb0lBVVFzX0NtMVVpVy1KblJpRW05WHZFVVk?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTnR5LS1oNFFpdHBCZWZydzhULVpPak1PTHUtSVBxWnVnMkxZOFZCQXp1ajY1a2dORVpsVko3M3FuSC1vR1EtbDdueXozZHZxRHVQY0hkblo0ZWZ5RUtfMjg0WXVxSlk?oc=5"
             },
             {
                 "title": "唐山大地震幸存者田金芳的拥军故事：一顶军帽 半世追寻 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLU5WRUdfQjRsVktTc1d5eWpyUmJUcHB2VFlKOENuOXFUQ2ZlR0ZZc1JrbGhMVnY0V2RnSmVFUmNTMjlvNGx1cUhOYw?oc=5"
             },
             {
-                "title": "铁甲怒吼！陆军第82集团军某旅坦克分队开展战斗射击考核 - 中国军网",
+                "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bWNpWmFQN0Ytc0VuRk1DZU1WbVRnTUwyUUJZMEJnN2d5RGVmQk9VZ0VuQWdqVUxvZkFoRF9BeElsdHQzN1ZKUXpyUTlManlIT0E?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQTRuQUxXZl9UdzhiVmp3cTFTNEVjWk1MUHVuMWM3c1R1ZW1oVFl4U0RaaTFPZlNIUFpQcVdsdzZKdlRxZTZmbmZxc3lsSHZ6YkdsYlZR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-28T02:11:38.131243+00:00"
+    "last_updated": "2026-07-28T08:27:49.570311+00:00"
 }
