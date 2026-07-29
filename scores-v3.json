@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "国家发改委：中欧班列架起中欧经贸快车道，国产空调15天左右直达欧洲",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2026 年《财富》世界 500 强排行榜揭晓：亚马逊终结沃尔玛 12 年领跑纪录，谷歌母公司全球利润第一",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-28",
-                "url": "https://36kr.com/newsflashes/3914682618451331"
+                "url": "https://www.ithome.com/0/982/623.htm"
             },
             {
-                "title": "上半年税务部门累计征收税费收入16.7万亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Unity 中国发布团结引擎 2.0：底层架构全面重构，支持主机平台，深度整合 AI",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-28",
-                "url": "https://36kr.com/newsflashes/3914673612772485"
+                "url": "https://www.ithome.com/0/982/616.htm"
             },
             {
-                "title": "特朗普政府建逾20国6G联盟 意在应对中国在下一代通信领域的影响力",
+                "title": "Windows/Office授权许可证能否转卖二手？微软在英国寻求最高法上诉",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570602.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570658.htm"
             },
             {
-                "title": "携程被罚51.79亿 但其他平台也不冤",
+                "title": "希音上市，受益的为什么将是国内供应链？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570600.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570650.htm"
             },
             {
-                "title": "法国、西班牙遭遇野火肆虐 将迎来新一轮极端高温",
+                "title": "特朗普施压卫生与公众服务部长削减儿童疫苗 科学与政治博弈持续",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570590.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570648.htm"
             }
         ],
         "mil": [
+            {
+                "title": "2026 年《财富》世界 500 强排行榜揭晓：亚马逊终结沃尔玛 12 年领跑纪录，谷歌母公司全球利润第一",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-28",
+                "url": "https://www.ithome.com/0/982/623.htm"
+            },
+            {
+                "title": "曝华为 9 月有两场发布会：Mate XT2 三折叠手机上旬先发，Mate 90 系列年度旗舰下旬登场",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-28",
+                "url": "https://www.ithome.com/0/982/530.htm"
+            },
+            {
+                "title": "半日主力资金加仓银行股，抛售电子、通信股",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-28",
+                "url": "https://36kr.com/newsflashes/3914758594909569"
+            },
+            {
+                "title": "重估老铺黄金",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-28",
+                "url": "https://36kr.com/p/3914752931976583"
+            },
             {
                 "title": "网传“雷军打新长鑫科技狂赚 7 亿”，小米董事长特别助理徐洁云回应“看个乐呵别当真”",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-28",
                 "url": "https://www.ithome.com/0/982/327.htm"
-            },
-            {
-                "title": "法国、西班牙遭遇野火肆虐 将迎来新一轮极端高温",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570590.htm"
-            },
-            {
-                "title": "阿里押注长鑫 76 亿搏出近 1700 亿，小米雷军打新长鑫浮盈 7 亿",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-28",
-                "url": "https://www.ithome.com/0/982/314.htm"
-            },
-            {
-                "title": "Anthropic CEO撰文重申安全立场并提出三大监管诉求",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570570.htm"
-            },
-            {
-                "title": "Antares获4.7亿美元用于美军基地核反应堆研发",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570546.htm"
             },
             {
                 "title": "中央军委后勤保障部等六部门通告，严禁此类销售活动！ - 中华人民共和国国防部",
@@ -86,22 +86,22 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "领导人重要讲话 - 中华人民共和国外交部",
+                "title": "75640部队72分队党支部：坚强堡垒矗立濠江之畔 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
-            },
-            {
-                "title": "习近平同巴西总统卢拉通电话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-27",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLU5WRUdfQjRsVktTc1d5eWpyUmJUcHB2VFlKOENuOXFUQ2ZlR0ZZc1JrbGhMVnY0V2RnSmVFUmNTMjlvNGx1cUhOYw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTnR5LS1oNFFpdHBCZWZydzhULVpPak1PTHUtSVBxWnVnMkxZOFZCQXp1ajY1a2dORVpsVko3M3FuSC1vR1EtbDdueXozZHZxRHVQY0hkblo0ZWZ5RUtfMjg0WXVxSlk?oc=5"
             },
             {
                 "title": "外交部回应强闯中国使馆的村田晃大被起诉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-28",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlbjZWY3BRUEwyY0ZEVzN4cFJ2QkUtWXpUOWtVbHhnYTZxTmVqck04Y3FQbDhrRUR4dVp5Z2thZ3dHQjVLNDZFTGh3?oc=5"
+            },
+            {
+                "title": "理论纵横丨驾驭好人工智能这匹千里马 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Qjhlby1ISVlpbUh2d011TVpCOEFYR056b1Vmc3RTQjFhSmtJNk9vaTg0ZjhVNzZmNWt2NE5YVDB2dm1TZmxtb0ZpdmcyXzl6U3c?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "美版iPhone突发大规模宕机 手机状态栏惊现SOS",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "2026 年《财富》世界 500 强排行榜揭晓：亚马逊终结沃尔玛 12 年领跑纪录，谷歌母公司全球利润第一",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570612.htm"
+                "url": "https://www.ithome.com/0/982/623.htm"
             },
             {
-                "title": "特朗普政府建逾20国6G联盟 意在应对中国在下一代通信领域的影响力",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "Unity 中国发布团结引擎 2.0：底层架构全面重构，支持主机平台，深度整合 AI",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570602.htm"
+                "url": "https://www.ithome.com/0/982/616.htm"
             },
             {
-                "title": "携程被罚51.79亿 但其他平台也不冤",
+                "title": "希音上市，受益的为什么将是国内供应链？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570600.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570650.htm"
             },
             {
-                "title": "AI安全风波持续发酵 奥特曼和黄仁勋将赴国会山与民主党参议员会面",
+                "title": "特朗普施压卫生与公众服务部长削减儿童疫苗 科学与政治博弈持续",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570582.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570648.htm"
             },
             {
-                "title": "马斯克说十年后钱将不再重要 硅谷风投大佬回应",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "特斯拉起诉零部件供应商索要 Cybertruck 生产设备，称生产面临停摆风险",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570574.htm"
+                "url": "https://www.ithome.com/0/982/589.htm"
             },
             {
                 "title": "中央军委后勤保障部等六部门通告，严禁此类销售活动！ - 中华人民共和国国防部",
@@ -154,22 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "领导人重要讲话 - 中华人民共和国外交部",
+                "title": "75640部队72分队党支部：坚强堡垒矗立濠江之畔 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2025-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
-            },
-            {
-                "title": "习近平同巴西总统卢拉通电话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-27",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLU5WRUdfQjRsVktTc1d5eWpyUmJUcHB2VFlKOENuOXFUQ2ZlR0ZZc1JrbGhMVnY0V2RnSmVFUmNTMjlvNGx1cUhOYw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTnR5LS1oNFFpdHBCZWZydzhULVpPak1PTHUtSVBxWnVnMkxZOFZCQXp1ajY1a2dORVpsVko3M3FuSC1vR1EtbDdueXozZHZxRHVQY0hkblo0ZWZ5RUtfMjg0WXVxSlk?oc=5"
             },
             {
                 "title": "外交部回应强闯中国使馆的村田晃大被起诉 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-28",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlbjZWY3BRUEwyY0ZEVzN4cFJ2QkUtWXpUOWtVbHhnYTZxTmVqck04Y3FQbDhrRUR4dVp5Z2thZ3dHQjVLNDZFTGh3?oc=5"
+            },
+            {
+                "title": "理论纵横丨驾驭好人工智能这匹千里马 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Qjhlby1ISVlpbUh2d011TVpCOEFYR056b1Vmc3RTQjFhSmtJNk9vaTg0ZjhVNzZmNWt2NE5YVDB2dm1TZmxtb0ZpdmcyXzl6U3c?oc=5"
             },
             {
                 "title": "您的位置： 通知公告 - 中国人民解放军专业技术人才网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-29T02:21:53.952831+00:00"
+    "last_updated": "2026-07-29T08:34:22.213610+00:00"
 }
