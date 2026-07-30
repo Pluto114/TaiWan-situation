@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "链上金融的“大航海时代”，从资产上链到一站式金融基础设施",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-29",
+                "url": "https://www.ftchinese.com/story/001110448"
+            },
+            {
+                "title": "极端天气频发，保险还能够做什么？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-29",
+                "url": "https://www.ftchinese.com/story/001110471"
+            },
+            {
+                "title": "长鑫上市，AI硬件开始进入“中国周期”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-29",
+                "url": "https://www.ftchinese.com/story/001110465"
+            },
+            {
+                "title": "北京反驳“中国产能过剩” 西方会买账吗？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-29",
+                "url": "https://www.dw.com/zh/%E5%8C%97%E4%BA%AC%E5%8F%8D%E9%A9%B3%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9-%E8%A5%BF%E6%96%B9%E4%BC%9A%E4%B9%B0%E8%B4%A6%E5%90%97/a-78162831"
+            },
+            {
                 "title": "美商用无人艇拍到中国军舰在菲海域活动",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-07-29",
                 "url": "https://www.dw.com/zh/%E7%BE%8E%E5%95%86%E7%94%A8%E6%97%A0%E4%BA%BA%E8%89%87%E6%8B%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%9C%A8%E8%8F%B2%E6%B5%B7%E5%9F%9F%E6%B4%BB%E5%8A%A8/a-78162858"
-            },
-            {
-                "title": "陀飞轮诞生 225 周年，作为它的发明者，宝玑如何为陀飞轮庆生？",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-07-29",
-                "url": "https://www.toodaylab.com/84143"
-            },
-            {
-                "title": "弃用激光雷达，沃尔沃向挪威 EX90/ES90 车主进行赔偿",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-29",
-                "url": "https://www.ithome.com/0/983/308.htm"
-            },
-            {
-                "title": "华为押注玻璃基板寻求AI芯片差异化 力争提前一年量产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570840.htm"
-            },
-            {
-                "title": "SK海力士称AI需求没有见顶 但未回应中国内存厂商产能威胁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570826.htm"
             }
         ],
         "mil": [
+            {
+                "title": "五角大楼官员：目前的美中军事关系是近年来最为稳固的",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-29",
+                "url": "https://www.voachinese.com/a/pentagon-official-us-china-military-relationship-is-stronger-than-it-has-been-in-years-20260729/8180435.html"
+            },
+            {
+                "title": "大地震来了 她看见10月中国惊变(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-29",
+                "url": "https://www.secretchina.com/news/gb/2026/07/29/1102714.html"
+            },
+            {
+                "title": "美军中东司令警告：士兵手机视频或助伊朗定位基地(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-29",
+                "url": "https://www.secretchina.com/news/gb/2026/07/29/1102712.html"
+            },
             {
                 "title": "消息称中国市场需求强劲，法拉利首款纯电车型 Luce 提前完成年度销售目标",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-29",
                 "url": "https://www.ithome.com/0/983/284.htm"
-            },
-            {
-                "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-29",
-                "url": "https://36kr.com/p/3916187215408776"
-            },
-            {
-                "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-29",
-                "url": "https://36kr.com/p/3916202023660929"
-            },
-            {
-                "title": "黄仁勋再驳AI失业论：AI取代的是任务，不是工作",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570762.htm"
             },
             {
                 "title": "中央宣传部授予王戟同志“时代楷模”称号 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "消息称中国市场需求强劲，法拉利首款纯电车型 Luce 提前完成年度销售目标",
-                "source": "NewsAPI / Ithome.com",
+                "title": "伊朗对驻约旦美军发动突袭，国际油价飙升，股市重挫",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-07-29",
-                "url": "https://www.ithome.com/0/983/325.htm"
+                "url": "https://www.voachinese.com/a/international-oil-prices-rise-stocks-tumble-as-iran-launches-surprise-strike-on-us-forces-in-jordan-20260729/8180445.html"
             },
             {
-                "title": "弃用激光雷达，沃尔沃向挪威 EX90/ES90 车主进行赔偿",
-                "source": "NewsAPI / Ithome.com",
+                "title": "链上金融的“大航海时代”，从资产上链到一站式金融基础设施",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-29",
-                "url": "https://www.ithome.com/0/983/308.htm"
+                "url": "https://www.ftchinese.com/story/001110448"
             },
             {
-                "title": "华为押注玻璃基板寻求AI芯片差异化 力争提前一年量产",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "极端天气频发，保险还能够做什么？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570840.htm"
+                "url": "https://www.ftchinese.com/story/001110471"
             },
             {
-                "title": "台积电日本工厂震后逐步恢复生产",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "长鑫上市，AI硬件开始进入“中国周期”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570822.htm"
+                "url": "https://www.ftchinese.com/story/001110465"
             },
             {
-                "title": "美国三州将试点校园无人机防御系统，最快 15 秒响应枪击",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美军中东司令警告：士兵手机视频或助伊朗定位基地(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-29",
-                "url": "https://www.ithome.com/0/983/284.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/29/1102712.html"
             },
             {
                 "title": "中央宣传部授予王戟同志“时代楷模”称号 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-30T13:51:09.789695+00:00"
+    "last_updated": "2026-07-30T19:20:15.711460+00:00"
 }
