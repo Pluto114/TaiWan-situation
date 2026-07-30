@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "刚被削了一波的电车 又被新政策针对了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "SK 海力士创季度营业利润新高但仍不及预期，股价大跌近 10%",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570768.htm"
+                "url": "https://www.ithome.com/0/983/141.htm"
             },
             {
-                "title": "苹果市值首次触及5万亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "阻挡救护车、消防车，美国自动驾驶出租车面临新一轮监管审查",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570764.htm"
+                "url": "https://www.ithome.com/0/983/108.htm"
             },
             {
-                "title": "AI热潮下韩国青少年不再拼高考 转向半导体技校",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570748.htm"
-            },
-            {
-                "title": "上半年全国社会物流总额超180万亿元",
+                "title": "国家邮政局：“人工智能+”赋能邮政，无人机无人车加速落地",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-29",
-                "url": "https://36kr.com/newsflashes/3916020850323079"
+                "url": "https://36kr.com/newsflashes/3916392126918277"
             },
             {
-                "title": "美国FCC发布外国机器人及逆变器进口禁令 重点关注中国制造",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "AI 重塑亚洲航空货运格局，取代跨境电商成为增长新引擎",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570732.htm"
+                "url": "https://www.ithome.com/0/983/091.htm"
+            },
+            {
+                "title": "国内首颗 OLED 显示触控一体化芯片量产：集创北方自研，加速国产替代",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-29",
+                "url": "https://www.ithome.com/0/983/032.htm"
             }
         ],
         "mil": [
+            {
+                "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-29",
+                "url": "https://36kr.com/p/3916202023660929"
+            },
             {
                 "title": "黄仁勋再驳AI失业论：AI取代的是任务，不是工作",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,28 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1570732.htm"
             },
             {
-                "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-28",
-                "url": "https://36kr.com/p/3915953688604296"
-            },
-            {
                 "title": "中央宣传部授予王戟同志“时代楷模”称号 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-29",
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRkxCRkhmeENpUl84c2pRUFNTTjRNRnRJbGYyNTVPZ2N4YXFyc2UwZG1ZZzZvcVd2b2tTVFlWa09wV19SMlc4WENOTWIzbUYxS09BaUsyWk80UWpuQktXNlNGNVlYeGM?oc=5"
             },
             {
-                "title": "中央军委后勤保障部等六部门通告，严禁此类销售活动！ - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-28",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RdHp5NUZVWFpRcGQxUjBUV25MZUdpMEVfMThZbDVsLUhNbVVGaHF1Rlh0LTVlN21TNFdWaTlOQXdCMXhpRlFIT05xNURIY0k5cDIzdnVJZE9KTVBoaVI0eG82dHhEUQ?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "近期活动日程 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-07-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mQk1LR3ZrTnNpcmRyX0NRY3o2QUhkT294enJEQ2hoTzZRZjNSLWVfajBVM1p3WGVqUUlVa1Vxcm81STBEa1NCNHJRNEc?oc=5"
             },
             {
                 "title": "外交部批日本右翼势力借助新型技术向舆论“投毒” - 中国军网",
@@ -108,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Qjhlby1ISVlpbUh2d011TVpCOEFYR056b1Vmc3RTQjFhSmtJNk9vaTg0ZjhVNzZmNWt2NE5YVDB2dm1TZmxtb0ZpdmcyXzl6U3c?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "哈啰、青桔、美团集体涨价，共享单车为什么越骑越贵？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570770.htm"
-            },
-            {
-                "title": "刚被削了一波的电车 又被新政策针对了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570768.htm"
-            },
-            {
-                "title": "奥迪终于有了三排座旗舰 SUV：全新 Q9 正式亮相，8.9 万美元起",
+                "title": "阻挡救护车、消防车，美国自动驾驶出租车面临新一轮监管审查",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-29",
-                "url": "https://www.ithome.com/0/982/837.htm"
+                "url": "https://www.ithome.com/0/983/108.htm"
             },
             {
-                "title": "马斯克的“微信梦”迈出关键一步 世界首富撒钱推广电子钱包业务",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中国企业首次，Momenta 获德国全境 L4 级自动驾驶测试许可",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570756.htm"
+                "url": "https://www.ithome.com/0/983/103.htm"
             },
             {
-                "title": "美国网友遭遇共享单车刺客 骑不到两小时收费373元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "国家邮政局：到2030年，邮政行业寄递业务量将达2900亿件",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570752.htm"
+                "url": "https://36kr.com/newsflashes/3916391031516544"
+            },
+            {
+                "title": "AI 重塑亚洲航空货运格局，取代跨境电商成为增长新引擎",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-29",
+                "url": "https://www.ithome.com/0/983/091.htm"
+            },
+            {
+                "title": "消息称蚂蚁数科正筹备 Pre-IPO 轮融资，OceanBase 同步启动 A 轮拟募资 20 亿至 30 亿元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-29",
+                "url": "https://www.ithome.com/0/983/059.htm"
             },
             {
                 "title": "中央宣传部授予王戟同志“时代楷模”称号 - 中华人民共和国国防部",
@@ -154,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRkxCRkhmeENpUl84c2pRUFNTTjRNRnRJbGYyNTVPZ2N4YXFyc2UwZG1ZZzZvcVd2b2tTVFlWa09wV19SMlc4WENOTWIzbUYxS09BaUsyWk80UWpuQktXNlNGNVlYeGM?oc=5"
             },
             {
-                "title": "中央军委后勤保障部等六部门通告，严禁此类销售活动！ - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-28",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RdHp5NUZVWFpRcGQxUjBUV25MZUdpMEVfMThZbDVsLUhNbVVGaHF1Rlh0LTVlN21TNFdWaTlOQXdCMXhpRlFIT05xNURIY0k5cDIzdnVJZE9KTVBoaVI0eG82dHhEUQ?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "近期活动日程 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-07-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mQk1LR3ZrTnNpcmRyX0NRY3o2QUhkT294enJEQ2hoTzZRZjNSLWVfajBVM1p3WGVqUUlVa1Vxcm81STBEa1NCNHJRNEc?oc=5"
             },
             {
                 "title": "外交部批日本右翼势力借助新型技术向舆论“投毒” - 中国军网",
@@ -182,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Qjhlby1ISVlpbUh2d011TVpCOEFYR056b1Vmc3RTQjFhSmtJNk9vaTg0ZjhVNzZmNWt2NE5YVDB2dm1TZmxtb0ZpdmcyXzl6U3c?oc=5"
-            },
-            {
-                "title": "海事法规 - 上海海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2019-06-07",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-07-30T02:03:50.852816+00:00"
+    "last_updated": "2026-07-30T08:19:46.016850+00:00"
 }
