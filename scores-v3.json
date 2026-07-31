@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "希音：一家时尚品牌包裹下的科技公司",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI存储芯片独撑三星电子二季度营利增超千倍 市值仍比峰值跌去四成",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://36kr.com/p/3917513813650824"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570968.htm"
             },
             {
-                "title": "高通：ASIC 业务已启动晶圆生产，2026 年 12 月季度开始创造收入",
+                "title": "营收净利双超预期 微软第四财季业绩证实人工智能投入转化成效",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570966.htm"
+            },
+            {
+                "title": "纳芯微发布国产首款霍尔双码道游标算法磁编码器芯片，支持高精度角度检测",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/424.htm"
+                "url": "https://www.ithome.com/0/983/659.htm"
             },
             {
-                "title": "商务部新闻发言人就美国联邦通信委员会将外国电力逆变器和先进机器人设备列入“覆盖清单”事答记者问",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-30",
-                "url": "https://36kr.com/newsflashes/3917475931958921"
-            },
-            {
-                "title": "RTX50系列国内渠道全线价格大幅上调 5080新价被曝1.2万起",
+                "title": "传ChatGPT、Roblox将遭欧盟“最严监管” 超大型在线平台身份恐带来巨大合规压力",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570912.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570952.htm"
             },
             {
-                "title": "英特尔在先进封装领域取得突破性进展 攻克超大型芯片封装难题",
+                "title": "AI把创业门槛降到最低：美国一人公司爆发，中国开源模型成重要推手",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570904.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570948.htm"
             }
         ],
         "mil": [
+            {
+                "title": "小米澎程未发先炒：黄牛万元叫卖“F码” 自称内部人员可优先提车",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570946.htm"
+            },
+            {
+                "title": "多名美国参议员联名施压苹果 要求放弃采用中国制造存储芯片计划",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570938.htm"
+            },
             {
                 "title": "隐瞒17年解放军军旅与党籍 入境美国被捕(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,24 +74,6 @@
                 "url": "http://www.geekpark.net/news/368160"
             },
             {
-                "title": "美国政府对进口机器人发布禁令 Roombas等扫地机器人也未能幸免",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570884.htm"
-            },
-            {
-                "title": "Apex Recordhunter 成为世界上速度最快的电动无人机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570882.htm"
-            },
-            {
-                "title": "中央宣传部授予王戟同志“时代楷模”称号 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-29",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRkxCRkhmeENpUl84c2pRUFNTTjRNRnRJbGYyNTVPZ2N4YXFyc2UwZG1ZZzZvcVd2b2tTVFlWa09wV19SMlc4WENOTWIzbUYxS09BaUsyWk80UWpuQktXNlNGNVlYeGM?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,19 +86,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Edm44M1FxdUloWDlpMjJwM011a1ZLQ1FxZkdjbi1OYV9JOE54ZVFKRlZ4VEZuWC1id0NSNWJ5T3B4Qm9BTHBiMEpjWFZOaGxoRW93YUFHMDA?oc=5"
             },
             {
+                "title": "就当前经济形势和下半年经济工作中共中央召开党外人士座谈会习近平主持并发表重要讲话李强通报有关情况王沪宁蔡奇丁薛祥出席 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-30",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ejNCeGNXbDA1V2Foa3c4VmhyRW1pTkFoanUtY0wyUkVkNjV0d2lva0ZHMXRrdGpVNXRONjB3UExsYW5RYWdlQ0hzVTFvZUNZb2M1MXRrMEs?oc=5"
+            },
+            {
                 "title": "王戟的微笑- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-30",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QZVY1WnpWLUFqOTJZN0RGeHZrZlBlR19UMDBmemhsWTE0RkltNFoxSnl0LU9SakRnYXRfZnFaYWREeERiYjl5akl3?oc=5"
             },
             {
-                "title": "外交部批日本右翼势力借助新型技术向舆论“投毒” - 中国军网",
+                "title": "外交部批日本右翼势力借助新型技术向舆论“投毒” - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-29",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JM0pYQXRJcXg0eDREdi13Y3lSV1RnM0pwZEZBMEZKYVY3SUVhUVRwQndrOVA1Z2NuTXJDbHlOem04eFgtbXhDUVh3?oc=5"
             },
             {
-                "title": "刚果（金）总统出席中企承建水厂启用仪式 - 中国军网",
+                "title": "刚果（金）总统出席中企承建水厂启用仪式 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQlNIaUEzcVhwR0xwdXhNaVpLc0duU0t5LTJ1enFFZzhIUUNRdzA4eU5KMXhTWENHeHBHMFMya2pNWmgxYm9oeUxVd2hxdzhsMFE?oc=5"
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "希音：一家时尚品牌包裹下的科技公司",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-30",
-                "url": "https://36kr.com/p/3917513813650824"
-            },
-            {
-                "title": "商务部新闻发言人就美国联邦通信委员会将外国电力逆变器和先进机器人设备列入“覆盖清单”事答记者问",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-30",
-                "url": "https://36kr.com/newsflashes/3917475931958921"
-            },
-            {
-                "title": "车主吐槽特斯拉FSD被救护车吓到急刹：路口绿灯猛踩刹车 座上午饭被甩飞",
+                "title": "AI存储芯片独撑三星电子二季度营利增超千倍 市值仍比峰值跌去四成",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570926.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570968.htm"
             },
             {
-                "title": "GrapheneOS回应用户遭美司法部起诉事件 称瞬间清空手机的系统完全合法",
+                "title": "SE《歧路旅人》初代 / 二代游戏 Steam 价格永降并开启新史低促销，到手价 59.4 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-30",
+                "url": "https://www.ithome.com/0/983/654.htm"
+            },
+            {
+                "title": "报道称普华永道《转型治理》报告有 84% 概率完全由 AI 生成",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-30",
+                "url": "https://www.ithome.com/0/983/605.htm"
+            },
+            {
+                "title": "传ChatGPT、Roblox将遭欧盟“最严监管” 超大型在线平台身份恐带来巨大合规压力",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570900.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570952.htm"
             },
             {
-                "title": "Telegram创始人杜罗夫被俄指控“协助恐怖主义” 其在社交平台晒竖中指照强势反击",
+                "title": "小米澎程未发先炒：黄牛万元叫卖“F码” 自称内部人员可优先提车",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570898.htm"
-            },
-            {
-                "title": "中央宣传部授予王戟同志“时代楷模”称号 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-29",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRkxCRkhmeENpUl84c2pRUFNTTjRNRnRJbGYyNTVPZ2N4YXFyc2UwZG1ZZzZvcVd2b2tTVFlWa09wV19SMlc4WENOTWIzbUYxS09BaUsyWk80UWpuQktXNlNGNVlYeGM?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1570946.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,19 +154,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Edm44M1FxdUloWDlpMjJwM011a1ZLQ1FxZkdjbi1OYV9JOE54ZVFKRlZ4VEZuWC1id0NSNWJ5T3B4Qm9BTHBiMEpjWFZOaGxoRW93YUFHMDA?oc=5"
             },
             {
+                "title": "就当前经济形势和下半年经济工作中共中央召开党外人士座谈会习近平主持并发表重要讲话李强通报有关情况王沪宁蔡奇丁薛祥出席 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-07-30",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ejNCeGNXbDA1V2Foa3c4VmhyRW1pTkFoanUtY0wyUkVkNjV0d2lva0ZHMXRrdGpVNXRONjB3UExsYW5RYWdlQ0hzVTFvZUNZb2M1MXRrMEs?oc=5"
+            },
+            {
                 "title": "王戟的微笑- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-30",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QZVY1WnpWLUFqOTJZN0RGeHZrZlBlR19UMDBmemhsWTE0RkltNFoxSnl0LU9SakRnYXRfZnFaYWREeERiYjl5akl3?oc=5"
             },
             {
-                "title": "外交部批日本右翼势力借助新型技术向舆论“投毒” - 中国军网",
+                "title": "外交部批日本右翼势力借助新型技术向舆论“投毒” - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-29",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JM0pYQXRJcXg0eDREdi13Y3lSV1RnM0pwZEZBMEZKYVY3SUVhUVRwQndrOVA1Z2NuTXJDbHlOem04eFgtbXhDUVh3?oc=5"
             },
             {
-                "title": "刚果（金）总统出席中企承建水厂启用仪式 - 中国军网",
+                "title": "刚果（金）总统出席中企承建水厂启用仪式 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-07-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jQlNIaUEzcVhwR0xwdXhNaVpLc0duU0t5LTJ1enFFZzhIUUNRdzA4eU5KMXhTWENHeHBHMFMya2pNWmgxYm9oeUxVd2hxdzhsMFE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-31T02:30:47.982349+00:00"
+    "last_updated": "2026-07-31T08:44:13.044825+00:00"
 }
