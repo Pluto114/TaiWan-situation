@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
-                "source": "NewsAPI / 36kr.com",
+                "title": "OpenAI 硬件路线图曝光：第一台硬件没有屏幕，手机 2027 上半年量产",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-07-30",
-                "url": "https://36kr.com/p/3917972674735747"
+                "url": "http://www.geekpark.net/news/368198"
             },
             {
-                "title": "研究：亚马逊、沃尔玛 AI 可识别“美国制造”虚假标签，却不予以标记",
-                "source": "NewsAPI / Ithome.com",
+                "title": "台积电研发AI芯片封装技术 对标英特尔展开抗衡",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/879.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571004.htm"
             },
             {
-                "title": "三星高管暗示 Galaxy S26 FE 手机将至，有望亮相 2026 年 IFA 展会",
-                "source": "NewsAPI / Ithome.com",
+                "title": "英国新首相吹起改革风，钱从哪里来？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/870.htm"
+                "url": "https://www.ftchinese.com/story/001110487"
             },
             {
-                "title": "IBM 宣布已进入“量子优势”时代，结果可验证",
-                "source": "NewsAPI / Ithome.com",
+                "title": "制度与技术结构变迁：人文价值正在成为新技术时代的重要力量",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/841.htm"
+                "url": "https://www.ftchinese.com/story/001110486"
             },
             {
-                "title": "欧盟计划投资 100 亿欧元建设 7 座 AI 超级工厂，发力追赶中美",
-                "source": "NewsAPI / Ithome.com",
+                "title": "回望玛丽莲•梦露：七十年前，她演出了现代婚恋的拧巴",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/814.htm"
+                "url": "https://www.ftchinese.com/story/001110473"
             }
         ],
         "mil": [
             {
-                "title": "即时战略游戏《英雄连 3：最终防线》大型 DLC 发售，首发特惠 91.8 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "报道称伊朗将获得中国肩射防空导弹，特朗普总统表示若有此事，他会“相当失望”",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/354.htm"
+                "url": "https://www.voachinese.com/a/report-says-iran-is-set-to-acquire-chinese-missiles-president-trump-stated-that-he-would-be-quite-disappointed-20260730/8180859.html"
             },
             {
-                "title": "携程回应“1.5 万元机票天价退票费全额退还”：非平台破例优待，将升级风险提示机制",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/798.htm"
-            },
-            {
-                "title": "美国，封杀了中国扫地机",
+                "title": "顶配预售价 30 万元，小米澎程不当「红米汽车」",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-07-30",
-                "url": "http://www.geekpark.net/news/368187"
+                "url": "http://www.geekpark.net/news/368196"
             },
             {
-                "title": "小米澎程未发先炒：黄牛万元叫卖“F码” 自称内部人员可优先提车",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "盖•里奇的乡村庄园：若没有做导演，他最想成为一名猎场管理员",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570946.htm"
+                "url": "https://www.ftchinese.com/story/001110480"
             },
             {
-                "title": "多名美国参议员联名施压苹果 要求放弃采用中国制造存储芯片计划",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "制度与技术结构变迁：人文价值正在成为新技术时代的重要力量",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1570938.htm"
+                "url": "https://www.ftchinese.com/story/001110486"
+            },
+            {
+                "title": "苏格兰之雨",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-07-30",
+                "url": "https://www.ftchinese.com/story/001110472"
             },
             {
                 "title": "中央军委主席习近平签署通令 给1名个人记功 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
-                "source": "NewsAPI / 36kr.com",
+                "title": "OpenAI 硬件路线图曝光：第一台硬件没有屏幕，手机 2027 上半年量产",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-07-30",
-                "url": "https://36kr.com/p/3917972674735747"
+                "url": "http://www.geekpark.net/news/368198"
             },
             {
-                "title": "研究显示：AI 聊天机器人实施情感诈骗的能力已超越人类",
-                "source": "NewsAPI / Ithome.com",
+                "title": "顶配预售价 30 万元，小米澎程不当「红米汽车」",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/865.htm"
+                "url": "http://www.geekpark.net/news/368196"
             },
             {
-                "title": "欧盟计划投资 100 亿欧元建设 7 座 AI 超级工厂，发力追赶中美",
-                "source": "NewsAPI / Ithome.com",
+                "title": "老外买RTX 5070 Ti却开出矿泉水 幸好全程录像留证",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/814.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571010.htm"
             },
             {
-                "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
-                "source": "NewsAPI / 36kr.com",
+                "title": "苹果公司将捐款支援欧洲南部山火救援",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-30",
-                "url": "https://36kr.com/p/3917984470576769"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571002.htm"
             },
             {
-                "title": "OpenAI CEO 奥尔特曼：过度依赖 AI 或致人类认知能力衰退",
-                "source": "NewsAPI / Ithome.com",
+                "title": "英国新首相吹起改革风，钱从哪里来？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/812.htm"
+                "url": "https://www.ftchinese.com/story/001110487"
             },
             {
                 "title": "中央军委主席习近平签署通令 给1名个人记功 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-07-31T13:57:10.988287+00:00"
+    "last_updated": "2026-07-31T19:19:34.305223+00:00"
 }
