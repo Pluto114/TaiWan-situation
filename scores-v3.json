@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "毛利率 50.1%：苹果 2026 财年第 3 财季关税退款带来 2% 正向影响",
+                "title": "法律战交锋：法官称美国政府封杀 Anthropic 缺乏事实依据且违宪",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/983/954.htm"
+                "url": "https://www.ithome.com/0/984/234.htm"
             },
             {
-                "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "受美股科技板块反弹提振 韩国股市创下历史最大单日涨幅",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-31",
-                "url": "https://36kr.com/p/3917874427555457"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571122.htm"
             },
             {
-                "title": "最后一次以 CEO 身份参会，苹果库克 2026 财年第 3 财季发言文字记录",
+                "title": "格科推出全场景高动态 50MP 手机图像传感器 GC50B5：1/1.56 英寸大底，支持 4K 120fps 及 DCG HDR",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/983/945.htm"
+                "url": "https://www.ithome.com/0/984/203.htm"
             },
             {
-                "title": "小米 REDMI K100 Pro 系列“满分旗舰”手机官宣，8 月 11 日发布",
+                "title": "腾讯混元：科研智能体 Hyra 攻克加法组合学 50 年未解难题",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/983/940.htm"
+                "url": "https://www.ithome.com/0/984/201.htm"
             },
             {
-                "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
-                "source": "NewsAPI / Ruanyifeng.com",
+                "title": "比亚迪进入英国 3 年累销达成 10 万辆，今年上半年贡献近 3.8 万辆",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-31",
-                "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html"
+                "url": "https://www.ithome.com/0/984/156.htm"
             }
         ],
         "mil": [
+            {
+                "title": "法律战交锋：法官称美国政府封杀 Anthropic 缺乏事实依据且违宪",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-31",
+                "url": "https://www.ithome.com/0/984/234.htm"
+            },
             {
                 "title": "余承东说到做到，华为盘古 openPangu-2.0-Pro 模型及技术报告开源上线",
                 "source": "NewsAPI / Ithome.com",
@@ -68,31 +74,25 @@
                 "url": "https://36kr.com/p/3918776472022402"
             },
             {
-                "title": "IT早报 0731：GPT-5.6 Luna 降价 80%；苹果第三财季净利润同比增长 27%；携程回应 1.5 万元机票全额退还；小米澎程 N90 Max 预售价 29.99 万元起...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/917.htm"
-            },
-            {
                 "title": "中央军委主席习近平签署通令 给1名个人记功 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-31",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pZmJJdFc0MmxZX0NCek1HUURIMGt4TUt0UDJkcUt5TkFybGp4bDJUcmhIVjM1Z091LXJ6OTFyYUVQOWxWbkIyQjQxMGdHc2lJRUhzWkQ0ZXk?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "【双语】国防部：菲方非法图谋不可能得逞 - 中华人民共和国国防部",
+                "title": "强军论坛丨新征程上，八一军旗在召唤 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-30",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Edm44M1FxdUloWDlpMjJwM011a1ZLQ1FxZkdjbi1OYV9JOE54ZVFKRlZ4VEZuWC1id0NSNWJ5T3B4Qm9BTHBiMEpjWFZOaGxoRW93YUFHMDA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jcHFwN3d4YVNQd09tZmVpZEQ2ZkQ5Ul9XTGh5T3h1RXY0MHVLbUFNZVJsTUc4cG45ZVNXUm8zZG03V3BZbjZSUlJGczVnWUZJUEdjYjc1c1k?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
+                "title": "您的位置： 在线调查 - 81rc.81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
             },
             {
-                "title": "中国第16批赴南苏丹（瓦乌）维和医疗分队组织学军史、忆传统系列活动 - 中国军网",
+                "title": "《黄岩岛国家级自然保护区管理办法》发布 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCN2JDaHZpXzRoTnQyWFFFSzlhQkJ6OGNVVDlqZ2h6SER3WkUzNWt2UHJubTlYX3d4WWFXd1AxM3I5MlZlbXUxWElkNGl3d0lZb3c?oc=5"
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMVVVM1JoRWEweXRBYWJMR0dCQi1VZm5MOXA5Y0Z0NWZscWNDTHdxQTVsVE95QTg2VllQclFFNXhkbFJ2dVVqTUY1WGJ6TkpsNmc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-31",
-                "url": "https://36kr.com/p/3917874427555457"
-            },
-            {
-                "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-31",
-                "url": "https://36kr.com/p/3918250549931394"
-            },
-            {
-                "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
-                "source": "NewsAPI / Ruanyifeng.com",
-                "date": "2026-07-31",
-                "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html"
-            },
-            {
-                "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-30",
-                "url": "https://36kr.com/p/3918776472022402"
-            },
-            {
-                "title": "IT早报 0731：GPT-5.6 Luna 降价 80%；苹果第三财季净利润同比增长 27%；携程回应 1.5 万元机票全额退还；小米澎程 N90 Max 预售价 29.99 万元起...",
+                "title": "法律战交锋：法官称美国政府封杀 Anthropic 缺乏事实依据且违宪",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-30",
-                "url": "https://www.ithome.com/0/983/917.htm"
+                "date": "2026-07-31",
+                "url": "https://www.ithome.com/0/984/234.htm"
+            },
+            {
+                "title": "受美股科技板块反弹提振 韩国股市创下历史最大单日涨幅",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571122.htm"
+            },
+            {
+                "title": "四部门联合发布22条措施 健全金融机构治理",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-31",
+                "url": "https://36kr.com/newsflashes/3919266501881220"
+            },
+            {
+                "title": "调查揭中共培训美国共产党骨干 渗透工运媒体",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-31",
+                "url": "https://www.secretchina.com/news/gb/2026/07/31/1102782.html"
+            },
+            {
+                "title": "你们转身，中国就能转型！(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-31",
+                "url": "https://www.secretchina.com/news/gb/2026/07/31/1102784.html"
             },
             {
                 "title": "中央军委主席习近平签署通令 给1名个人记功 - 中华人民共和国国防部",
@@ -148,19 +148,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pZmJJdFc0MmxZX0NCek1HUURIMGt4TUt0UDJkcUt5TkFybGp4bDJUcmhIVjM1Z091LXJ6OTFyYUVQOWxWbkIyQjQxMGdHc2lJRUhzWkQ0ZXk?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "【双语】国防部：菲方非法图谋不可能得逞 - 中华人民共和国国防部",
+                "title": "强军论坛丨新征程上，八一军旗在召唤 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-07-30",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Edm44M1FxdUloWDlpMjJwM011a1ZLQ1FxZkdjbi1OYV9JOE54ZVFKRlZ4VEZuWC1id0NSNWJ5T3B4Qm9BTHBiMEpjWFZOaGxoRW93YUFHMDA?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jcHFwN3d4YVNQd09tZmVpZEQ2ZkQ5Ul9XTGh5T3h1RXY0MHVLbUFNZVJsTUc4cG45ZVNXUm8zZG03V3BZbjZSUlJGczVnWUZJUEdjYjc1c1k?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
+                "title": "您的位置： 在线调查 - 81rc.81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
             },
             {
-                "title": "中国第16批赴南苏丹（瓦乌）维和医疗分队组织学军史、忆传统系列活动 - 中国军网",
+                "title": "《黄岩岛国家级自然保护区管理办法》发布 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCN2JDaHZpXzRoTnQyWFFFSzlhQkJ6OGNVVDlqZ2h6SER3WkUzNWt2UHJubTlYX3d4WWFXd1AxM3I5MlZlbXUxWElkNGl3d0lZb3c?oc=5"
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMVVVM1JoRWEweXRBYWJMR0dCQi1VZm5MOXA5Y0Z0NWZscWNDTHdxQTVsVE95QTg2VllQclFFNXhkbFJ2dVVqTUY1WGJ6TkpsNmc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-01T02:30:43.225414+00:00"
+    "last_updated": "2026-08-01T08:14:13.967909+00:00"
 }
