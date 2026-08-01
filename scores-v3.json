@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+                "title": "美参院两党议员致函苹果，要求承诺拒用中国制造的内存芯片",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-31",
+                "url": "https://www.voachinese.com/a/bipartisan-senators-warn-apple-not-to-buy-memory-chips-from-chinese-companies-20260731/8181273.html"
+            },
+            {
+                "title": "SpaceX宣布将在一年内彻底拆除xAI位于孟菲斯拖车上的的天然气涡轮机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571176.htm"
+            },
+            {
+                "title": "美国制裁与伊朗马汉航空有关联的中国、印度和俄罗斯实体",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-31",
+                "url": "https://www.voachinese.com/a/us-sanctions-chinese-indian-and-russian-entities-linked-to-iran-s-mahan-air-20260731/8181216.html"
+            },
+            {
+                "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-31",
-                "url": "https://36kr.com/newsflashes/3919556554305154"
+                "url": "https://36kr.com/p/3919386961177985"
             },
             {
-                "title": "动力太强不适应：美国一女子首次驾驶 Model Y 撞入理发店后决定起诉特斯拉，索赔超 1000 万美元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "通过“模型蒸馏”绕过芯片限制：路透社披露中共军方科研机构AI研究图景(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/366.htm"
-            },
-            {
-                "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/365.htm"
-            },
-            {
-                "title": "AMD计划自8月起上调旗下Radeon显卡价格",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571156.htm"
-            },
-            {
-                "title": "中国首条全流程自主光刻胶产线正式投产",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571154.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/07/31/1102822.html"
             }
         ],
         "mil": [
+            {
+                "title": "澎程系列来了，它体现了小米汽车对“智能可变大空间 SUV”的最新理解",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-07-31",
+                "url": "https://www.toodaylab.com/84145"
+            },
+            {
+                "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-31",
+                "url": "https://36kr.com/p/3919386961177985"
+            },
+            {
+                "title": "通过“模型蒸馏”绕过芯片限制：路透社披露中共军方科研机构AI研究图景(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-31",
+                "url": "https://www.secretchina.com/news/gb/2026/07/31/1102822.html"
+            },
             {
                 "title": "八一建军节前夕 习近平强调枪杆子永远听党指挥",
                 "source": "NewsAPI / DW (English)",
@@ -54,27 +72,27 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-31",
                 "url": "https://36kr.com/p/3910776673064073"
-            },
-            {
-                "title": "中国军方研究员被曝利用美AI模型训练国防系统",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571138.htm"
-            },
-            {
-                "title": "法律战交锋：法官称美国政府封杀 Anthropic 缺乏事实依据且违宪",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/234.htm"
-            },
-            {
-                "title": "余承东说到做到，华为盘古 openPangu-2.0-Pro 模型及技术报告开源上线",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/983/966.htm"
             }
         ],
         "pol": [
+            {
+                "title": "美众院外委会亚太小组主席：全力助台抗中，盼台湾尽快通过无人机预算",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-07-31",
+                "url": "https://www.voachinese.com/a/bipartisan-congressional-delegation-urges-taiwan-to-pass-drone-legislation-asap-in-meeting-with-president-lai-20260731/8181286.html"
+            },
+            {
+                "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-31",
+                "url": "https://36kr.com/p/3919386961177985"
+            },
+            {
+                "title": "马斯克拟豪掷1亿美元助共和党冲刺中期选举(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-07-31",
+                "url": "https://www.secretchina.com/news/gb/2026/07/31/1102814.html"
+            },
             {
                 "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
                 "source": "NewsAPI / 36kr.com",
@@ -86,27 +104,9 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-31",
                 "url": "https://www.ithome.com/0/984/365.htm"
-            },
-            {
-                "title": "八一建军节前夕 习近平强调枪杆子永远听党指挥",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-07-31",
-                "url": "https://www.dw.com/zh/%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82%E5%89%8D%E5%A4%95-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E6%9E%AA%E6%9D%86%E5%AD%90%E6%B0%B8%E8%BF%9C%E5%90%AC%E5%85%9A%E6%8C%87%E6%8C%A5/a-78189178"
-            },
-            {
-                "title": "外卖骑手“等灯停表”苏州上线 后续将在全国20城落地试点",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571152.htm"
-            },
-            {
-                "title": "黑鲨手机宣布停止售后服务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571148.htm"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-01T13:13:02.001484+00:00"
+    "last_updated": "2026-08-01T19:04:08.796538+00:00"
 }
