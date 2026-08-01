@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "法律战交锋：法官称美国政府封杀 Anthropic 缺乏事实依据且违宪",
-                "source": "NewsAPI / Ithome.com",
+                "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/234.htm"
+                "url": "https://36kr.com/newsflashes/3919556554305154"
             },
             {
-                "title": "受美股科技板块反弹提振 韩国股市创下历史最大单日涨幅",
+                "title": "动力太强不适应：美国一女子首次驾驶 Model Y 撞入理发店后决定起诉特斯拉，索赔超 1000 万美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-31",
+                "url": "https://www.ithome.com/0/984/366.htm"
+            },
+            {
+                "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-07-31",
+                "url": "https://www.ithome.com/0/984/365.htm"
+            },
+            {
+                "title": "AMD计划自8月起上调旗下Radeon显卡价格",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571122.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571156.htm"
             },
             {
-                "title": "格科推出全场景高动态 50MP 手机图像传感器 GC50B5：1/1.56 英寸大底，支持 4K 120fps 及 DCG HDR",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国首条全流程自主光刻胶产线正式投产",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/203.htm"
-            },
-            {
-                "title": "腾讯混元：科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/201.htm"
-            },
-            {
-                "title": "比亚迪进入英国 3 年累销达成 10 万辆，今年上半年贡献近 3.8 万辆",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/156.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571154.htm"
             }
         ],
         "mil": [
+            {
+                "title": "八一建军节前夕 习近平强调枪杆子永远听党指挥",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-07-31",
+                "url": "https://www.dw.com/zh/%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82%E5%89%8D%E5%A4%95-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E6%9E%AA%E6%9D%86%E5%AD%90%E6%B0%B8%E8%BF%9C%E5%90%AC%E5%85%9A%E6%8C%87%E6%8C%A5/a-78189178"
+            },
+            {
+                "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-07-31",
+                "url": "https://36kr.com/p/3910776673064073"
+            },
+            {
+                "title": "中国军方研究员被曝利用美AI模型训练国防系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-07-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571138.htm"
+            },
             {
                 "title": "法律战交锋：法官称美国政府封杀 Anthropic 缺乏事实依据且违宪",
                 "source": "NewsAPI / Ithome.com",
@@ -54,131 +72,41 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-31",
                 "url": "https://www.ithome.com/0/983/966.htm"
-            },
-            {
-                "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-31",
-                "url": "https://36kr.com/p/3917874427555457"
-            },
-            {
-                "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-31",
-                "url": "https://36kr.com/p/3918250549931394"
-            },
-            {
-                "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-07-30",
-                "url": "https://36kr.com/p/3918776472022402"
-            },
-            {
-                "title": "中央军委主席习近平签署通令 给1名个人记功 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pZmJJdFc0MmxZX0NCek1HUURIMGt4TUt0UDJkcUt5TkFybGp4bDJUcmhIVjM1Z091LXJ6OTFyYUVQOWxWbkIyQjQxMGdHc2lJRUhzWkQ0ZXk?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "强军论坛丨新征程上，八一军旗在召唤 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-30",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jcHFwN3d4YVNQd09tZmVpZEQ2ZkQ5Ul9XTGh5T3h1RXY0MHVLbUFNZVJsTUc4cG45ZVNXUm8zZG03V3BZbjZSUlJGczVnWUZJUEdjYjc1c1k?oc=5"
-            },
-            {
-                "title": "您的位置： 在线调查 - 81rc.81.cn",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
-            },
-            {
-                "title": "解放军报社论：坚持和加强党对军队的绝对领导 高质量推进国防和军队现代化 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
-            },
-            {
-                "title": "《黄岩岛国家级自然保护区管理办法》发布 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMVVVM1JoRWEweXRBYWJMR0dCQi1VZm5MOXA5Y0Z0NWZscWNDTHdxQTVsVE95QTg2VllQclFFNXhkbFJ2dVVqTUY1WGJ6TkpsNmc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "法律战交锋：法官称美国政府封杀 Anthropic 缺乏事实依据且违宪",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-07-31",
-                "url": "https://www.ithome.com/0/984/234.htm"
-            },
-            {
-                "title": "受美股科技板块反弹提振 韩国股市创下历史最大单日涨幅",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-07-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571122.htm"
-            },
-            {
-                "title": "四部门联合发布22条措施 健全金融机构治理",
+                "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-07-31",
-                "url": "https://36kr.com/newsflashes/3919266501881220"
+                "url": "https://36kr.com/newsflashes/3919556554305154"
             },
             {
-                "title": "调查揭中共培训美国共产党骨干 渗透工运媒体",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-07-31",
-                "url": "https://www.secretchina.com/news/gb/2026/07/31/1102782.html"
+                "url": "https://www.ithome.com/0/984/365.htm"
             },
             {
-                "title": "你们转身，中国就能转型！(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "八一建军节前夕 习近平强调枪杆子永远听党指挥",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-07-31",
-                "url": "https://www.secretchina.com/news/gb/2026/07/31/1102784.html"
+                "url": "https://www.dw.com/zh/%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82%E5%89%8D%E5%A4%95-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E6%9E%AA%E6%9D%86%E5%AD%90%E6%B0%B8%E8%BF%9C%E5%90%AC%E5%85%9A%E6%8C%87%E6%8C%A5/a-78189178"
             },
             {
-                "title": "中央军委主席习近平签署通令 给1名个人记功 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "外卖骑手“等灯停表”苏州上线 后续将在全国20城落地试点",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pZmJJdFc0MmxZX0NCek1HUURIMGt4TUt0UDJkcUt5TkFybGp4bDJUcmhIVjM1Z091LXJ6OTFyYUVQOWxWbkIyQjQxMGdHc2lJRUhzWkQ0ZXk?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571152.htm"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "强军论坛丨新征程上，八一军旗在召唤 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-07-30",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jcHFwN3d4YVNQd09tZmVpZEQ2ZkQ5Ul9XTGh5T3h1RXY0MHVLbUFNZVJsTUc4cG45ZVNXUm8zZG03V3BZbjZSUlJGczVnWUZJUEdjYjc1c1k?oc=5"
-            },
-            {
-                "title": "您的位置： 在线调查 - 81rc.81.cn",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
-            },
-            {
-                "title": "解放军报社论：坚持和加强党对军队的绝对领导 高质量推进国防和军队现代化 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "黑鲨手机宣布停止售后服务",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
-            },
-            {
-                "title": "《黄岩岛国家级自然保护区管理办法》发布 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMVVVM1JoRWEweXRBYWJMR0dCQi1VZm5MOXA5Y0Z0NWZscWNDTHdxQTVsVE95QTg2VllQclFFNXhkbFJ2dVVqTUY1WGJ6TkpsNmc?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571148.htm"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-01T08:14:13.967909+00:00"
+    "last_updated": "2026-08-01T13:13:02.001484+00:00"
 }
