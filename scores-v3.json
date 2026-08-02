@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "马斯克刚刚关注了 DeepSeek 的 X 账号",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-01",
+                "url": "https://www.ithome.com/0/984/620.htm"
+            },
+            {
+                "title": "OpenAI新模型Astra传闻升温 长时程Agent或成AI资本市场新叙事",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571254.htm"
+            },
+            {
+                "title": "REDMI K100 Pro Max 官宣小米首款 185Hz 电竞屏，旗舰触控芯片",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-01",
+                "url": "https://www.ithome.com/0/984/574.htm"
+            },
+            {
                 "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-01",
@@ -22,27 +40,27 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-01",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1571252.htm"
-            },
-            {
-                "title": "中国—乌兹别克斯坦AEO互认安排正式实施",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-01",
-                "url": "https://36kr.com/newsflashes/3920416879062662"
-            },
-            {
-                "title": "消息称亚马逊已完成对OpenAI的500亿美元注资",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571248.htm"
-            },
-            {
-                "title": "互联网流量，崩塌了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571246.htm"
             }
         ],
         "mil": [
+            {
+                "title": "与菲律宾拉锯 中国在南海争议岛礁军演",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-01",
+                "url": "https://www.dw.com/zh/%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8B%89%E9%94%AF-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE%E5%B2%9B%E7%A4%81%E5%86%9B%E6%BC%94/a-78202297"
+            },
+            {
+                "title": "与菲律宾拉锯 中国在南海争议岛礁军演",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-01",
+                "url": "https://www.dw.com/zh/%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8B%89%E9%94%AF-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE%E5%B2%9B%E7%A4%81%E5%86%9B%E6%BC%94/a-78202297"
+            },
+            {
+                "title": "中共建军99周年 中国防长：坚定挫败台独",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-01",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%85%B1%E5%BB%BA%E5%86%9B99%E5%91%A8%E5%B9%B4-%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E5%9D%9A%E5%AE%9A%E6%8C%AB%E8%B4%A5%E5%8F%B0%E7%8B%AC/a-78201190"
+            },
             {
                 "title": "互联网流量，崩塌了",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,25 +74,61 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1571234.htm"
             },
             {
-                "title": "美国多州自来水设施遭网络攻击 部分系统运行与监测功能瘫痪",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571220.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "钧声丨中方加强黄岩岛管控合法合理 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-01",
-                "url": "http://www.geekpark.net/news/368270"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DN29kLWswLUJtZkJqUE45LWtwOTE5aE1vZF8tSWRKV0RKYmcxOXEwaHNPY1BodHFkdGVxNW9TSTRtcjAzTzNaMHFhU0o4TVNfTzJqb3JYTV8?oc=5"
             },
             {
-                "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
-                "source": "NewsAPI / 36kr.com",
+                "title": "“智鹰”暗夜巡海空！海军航空兵某团组织无人机夜间侦察训练 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-01",
-                "url": "https://36kr.com/p/3920241240419720"
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dm1XNmdSQ3VOcnJQekF2ZTQ4QnJ4cHpfU3d4eWFzTjAwNkYwa2t0Z25SNGlnNjcxZ0NDTU1VMEtWZUpEVThDQTVQMEliWV9uY2NVR1lWbEVHNFBm?oc=5"
+            },
+            {
+                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
+            },
+            {
+                "title": "“鲲鹏”托举凌云志——空军出动运-二〇运送新录取飞行学员报到侧记 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdDJzLVpaY3pGMHVyb2h4THFWV29ZbXRJdTNvc0hfSUk4Nlpyd1NkNGdYTlZzbkgyYXlpQXZpTFdCX1dpOVFtYTFIYUsxUFdtRGc?oc=5"
+            },
+            {
+                "title": "解放军报社论：坚持和加强党对军队的绝对领导 高质量推进国防和军队现代化 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "OpenAI新模型Astra传闻升温 长时程Agent或成AI资本市场新叙事",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571254.htm"
+            },
+            {
+                "title": "美国会代表团访台聚焦无人机 学者解析向立院释出讯号(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-01",
+                "url": "https://www.secretchina.com/news/gb/2026/08/01/1102855.html"
+            },
+            {
+                "title": "《动力和储能电池成本核算模型通则》团体标准启动会召开，行业反内卷",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-01",
+                "url": "https://www.ithome.com/0/984/556.htm"
+            },
             {
                 "title": "维信诺 ChinaJoy 首秀，全场景 OLED 布局一口气看完，蓝图乍现",
                 "source": "NewsAPI / Ithome.com",
@@ -88,25 +142,43 @@
                 "url": "https://www.secretchina.com/news/gb/2026/08/01/1102833.html"
             },
             {
-                "title": "消息称亚马逊已完成对OpenAI的500亿美元注资",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571248.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "互联网流量，崩塌了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "钧声丨中方加强黄岩岛管控合法合理 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571246.htm"
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DN29kLWswLUJtZkJqUE45LWtwOTE5aE1vZF8tSWRKV0RKYmcxOXEwaHNPY1BodHFkdGVxNW9TSTRtcjAzTzNaMHFhU0o4TVNfTzJqb3JYTV8?oc=5"
             },
             {
-                "title": "领先优势丧失、上市蒙阴影 OpenAI如何被Anthropic反超？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "“智鹰”暗夜巡海空！海军航空兵某团组织无人机夜间侦察训练 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571244.htm"
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dm1XNmdSQ3VOcnJQekF2ZTQ4QnJ4cHpfU3d4eWFzTjAwNkYwa2t0Z25SNGlnNjcxZ0NDTU1VMEtWZUpEVThDQTVQMEliWV9uY2NVR1lWbEVHNFBm?oc=5"
+            },
+            {
+                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
+            },
+            {
+                "title": "“鲲鹏”托举凌云志——空军出动运-二〇运送新录取飞行学员报到侧记 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdDJzLVpaY3pGMHVyb2h4THFWV29ZbXRJdTNvc0hfSUk4Nlpyd1NkNGdYTlZzbkgyYXlpQXZpTFdCX1dpOVFtYTFIYUsxUFdtRGc?oc=5"
+            },
+            {
+                "title": "解放军报社论：坚持和加强党对军队的绝对领导 高质量推进国防和军队现代化 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-02T08:18:33.191384+00:00"
+    "last_updated": "2026-08-02T13:13:23.230946+00:00"
 }
