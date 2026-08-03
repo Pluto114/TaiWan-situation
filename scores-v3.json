@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "无化石燃料区：通往更清洁未来的路径",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-01",
-                "url": "https://www.ftchinese.com/story/001110497"
+                "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-02",
+                "url": "http://www.geekpark.net/news/368277"
             },
             {
-                "title": "谁能拯救信仰崩塌的投资者？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-01",
-                "url": "https://www.ftchinese.com/story/001110493"
+                "title": "纽约起诉预测市场平台Kalshi 指控其从事非法赌博业务",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571298.htm"
             },
             {
-                "title": "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世，公司曾负债 1200 亿逆风翻盘",
+                "title": "明尼苏达法官驳回 xAI 要求阻止“脱衣”应用禁令生效的请求",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571292.htm"
+            },
+            {
+                "title": "DeepSeek V4-Flash正式版实测Agent能力直追顶级模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571280.htm"
+            },
+            {
+                "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-01",
-                "url": "https://www.ithome.com/0/984/637.htm"
-            },
-            {
-                "title": "人形机器人：特朗普对华贸易战的最新战场？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-01",
-                "url": "https://www.dw.com/zh/%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E6%9C%80%E6%96%B0%E6%88%98%E5%9C%BA/a-78202865"
-            },
-            {
-                "title": "马斯克刚刚关注了 DeepSeek 的 X 账号",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-01",
-                "url": "https://www.ithome.com/0/984/620.htm"
+                "url": "https://www.ithome.com/0/984/649.htm"
             }
         ],
         "mil": [
             {
+                "title": "说唱歌手 Fenix Flexin 单曲《Rubberz》走红，被质疑由 AI 生成",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-02",
+                "url": "https://www.ithome.com/0/984/667.htm"
+            },
+            {
+                "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-02",
+                "url": "http://www.geekpark.net/news/368277"
+            },
+            {
+                "title": "美政府建议中东地区美国公民做好撤离准备",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571274.htm"
+            },
+            {
                 "title": "与菲律宾拉锯 中国在南海争议岛礁军演",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-08-01",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-08-01",
                 "url": "https://www.dw.com/zh/%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8B%89%E9%94%AF-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE%E5%B2%9B%E7%A4%81%E5%86%9B%E6%BC%94/a-78202297"
-            },
-            {
-                "title": "中共建军99周年 中国防长：坚定挫败台独",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-01",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%85%B1%E5%BB%BA%E5%86%9B99%E5%91%A8%E5%B9%B4-%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E5%9D%9A%E5%AE%9A%E6%8C%AB%E8%B4%A5%E5%8F%B0%E7%8B%AC/a-78201190"
-            },
-            {
-                "title": "互联网流量，崩塌了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571246.htm"
-            },
-            {
-                "title": "美军一架F-35隐形战机发生事故并起火 飞行员弹射",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571234.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dm1XNmdSQ3VOcnJQekF2ZTQ4QnJ4cHpfU3d4eWFzTjAwNkYwa2t0Z25SNGlnNjcxZ0NDTU1VMEtWZUpEVThDQTVQMEliWV9uY2NVR1lWbEVHNFBm?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
-            },
-            {
                 "title": "“鲲鹏”托举凌云志——空军出动运-二〇运送新录取飞行学员报到侧记 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdDJzLVpaY3pGMHVyb2h4THFWV29ZbXRJdTNvc0hfSUk4Nlpyd1NkNGdYTlZzbkgyYXlpQXZpTFdCX1dpOVFtYTFIYUsxUFdtRGc?oc=5"
             },
             {
-                "title": "解放军报社论：坚持和加强党对军队的绝对领导 高质量推进国防和军队现代化 - 中国军网",
+                "title": "线下刷屏！向“时代楷模”王戟致敬 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFN3R1YVdZWkNVTlFRSG9BYl9IYU1BR056WGFrMkdLQ1Vhbk5XUng1V0twTkRHXzBjZHVQV1M3SjU2X0RsVkVPZi1Ramt0TkE2UWc?oc=5"
+            },
+            {
+                "title": "中国人民解放军建军99周年丨与人民同行 与胜利同行 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41a01xbzFNY3lONnpHWDA1U2tWdVh2YVpRLVdOaEFCVVp2WGlKd3Z4ZHRuVUtlVmdkbjM5MWtwR2tPVmdMTFVYcXFyTjZBSHpqeWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "无化石燃料区：通往更清洁未来的路径",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-01",
-                "url": "https://www.ftchinese.com/story/001110497"
+                "title": "说唱歌手 Fenix Flexin 单曲《Rubberz》走红，被质疑由 AI 生成",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-02",
+                "url": "https://www.ithome.com/0/984/667.htm"
             },
             {
-                "title": "谁能拯救信仰崩塌的投资者？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-01",
-                "url": "https://www.ftchinese.com/story/001110493"
+                "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-02",
+                "url": "http://www.geekpark.net/news/368277"
             },
             {
-                "title": "OpenAI全球用户破10亿 全新模型Astra曝光 疑似GPT-6",
+                "title": "OpenAI CEO 奥尔特曼提出用 AI 打造亲子晨间播客，遭网友批评",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-02",
+                "url": "https://www.ithome.com/0/984/664.htm"
+            },
+            {
+                "title": "OpenAI下一代AI攻克10项菲尔兹奖级难题",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571264.htm"
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571310.htm"
             },
             {
-                "title": "OpenAI新模型Astra传闻升温 长时程Agent或成AI资本市场新叙事",
+                "title": "特朗普媒体推出付费数据服务 为客户提供更快访问帖文渠道",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571254.htm"
-            },
-            {
-                "title": "美国会代表团访台聚焦无人机 学者解析向立院释出讯号(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-01",
-                "url": "https://www.secretchina.com/news/gb/2026/08/01/1102855.html"
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571304.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dm1XNmdSQ3VOcnJQekF2ZTQ4QnJ4cHpfU3d4eWFzTjAwNkYwa2t0Z25SNGlnNjcxZ0NDTU1VMEtWZUpEVThDQTVQMEliWV9uY2NVR1lWbEVHNFBm?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
-            },
-            {
                 "title": "“鲲鹏”托举凌云志——空军出动运-二〇运送新录取飞行学员报到侧记 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdDJzLVpaY3pGMHVyb2h4THFWV29ZbXRJdTNvc0hfSUk4Nlpyd1NkNGdYTlZzbkgyYXlpQXZpTFdCX1dpOVFtYTFIYUsxUFdtRGc?oc=5"
             },
             {
-                "title": "解放军报社论：坚持和加强党对军队的绝对领导 高质量推进国防和军队现代化 - 中国军网",
+                "title": "线下刷屏！向“时代楷模”王戟致敬 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlSVAzZHNPZjk0VlE0WW9KNmhJaUZXUkszMFhtOEpUcG5hX0ZZOFdKeDRQVmxheTVkcGRmMzViRTBiV2tfS2JvOGFzQTMwWTNDM3c?oc=5"
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFN3R1YVdZWkNVTlFRSG9BYl9IYU1BR056WGFrMkdLQ1Vhbk5XUng1V0twTkRHXzBjZHVQV1M3SjU2X0RsVkVPZi1Ramt0TkE2UWc?oc=5"
+            },
+            {
+                "title": "中国人民解放军建军99周年丨与人民同行 与胜利同行 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41a01xbzFNY3lONnpHWDA1U2tWdVh2YVpRLVdOaEFCVVp2WGlKd3Z4ZHRuVUtlVmdkbjM5MWtwR2tPVmdMTFVYcXFyTjZBSHpqeWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-02T19:04:18.006940+00:00"
+    "last_updated": "2026-08-03T02:30:59.984024+00:00"
 }
