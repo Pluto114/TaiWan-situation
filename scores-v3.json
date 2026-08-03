@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "一周世界舆论聚焦：特朗普与李在明的麻烦",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-02",
+                "url": "https://www.ftchinese.com/story/001110507"
+            },
+            {
+                "title": "30年债券收益率突破5%，股市的估值逻辑会怎么变？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-02",
+                "url": "https://www.ftchinese.com/story/001110498"
+            },
+            {
+                "title": "台湾姑娘吴明华的自立路：从“蔡崇信太太”到女子NBA冠军老板",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571346.htm"
+            },
+            {
+                "title": "陷造假风波后IF椰子水业绩“塌方”：利润预计同比暴跌75% 市值蒸发近九成",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571342.htm"
+            },
+            {
                 "title": "分别位于沪苏杭的这三家全新门店，是各自品牌在中国发展的又一个里程碑",
                 "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-08-02",
                 "url": "https://www.toodaylab.com/84148"
-            },
-            {
-                "title": "胡小伟东京落网并引渡美国 太子集团陈志幕后“大哥”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-02",
-                "url": "https://www.secretchina.com/news/gb/2026/08/02/1102889.html"
-            },
-            {
-                "title": "OPPO A7 Pro Max 搭载全场景 NFC、红外遥控等，8 月 4 日发布",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-02",
-                "url": "https://www.ithome.com/0/984/802.htm"
-            },
-            {
-                "title": "贝索斯用AI寻找下一块硅",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571336.htm"
-            },
-            {
-                "title": "亮瞎狗眼的智驾小蓝灯 其实本应前途大好",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571334.htm"
             }
         ],
         "mil": [
+            {
+                "title": "川普宣布暂停对伊朗新一轮军事打击 称中东停火协议已接近达成(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-02",
+                "url": "https://www.secretchina.com/news/gb/2026/08/03/1102899.html"
+            },
+            {
+                "title": "一周世界舆论聚焦：特朗普与李在明的麻烦",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-02",
+                "url": "https://www.ftchinese.com/story/001110507"
+            },
+            {
+                "title": "台湾姑娘吴明华的自立路：从“蔡崇信太太”到女子NBA冠军老板",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571346.htm"
+            },
             {
                 "title": "盛趣游戏与 NC 达成战略合作，推动《永恒之塔 2》在中国大陆地区上线运营",
                 "source": "NewsAPI / Ithome.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1571336.htm"
             },
             {
-                "title": "说唱歌手 Fenix Flexin 单曲《Rubberz》走红，被质疑由 AI 生成",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-02",
-                "url": "https://www.ithome.com/0/984/667.htm"
-            },
-            {
-                "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-02",
-                "url": "http://www.geekpark.net/news/368277"
-            },
-            {
-                "title": "美政府建议中东地区美国公民做好撤离准备",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571274.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dm1XNmdSQ3VOcnJQekF2ZTQ4QnJ4cHpfU3d4eWFzTjAwNkYwa2t0Z25SNGlnNjcxZ0NDTU1VMEtWZUpEVThDQTVQMEliWV9uY2NVR1lWbEVHNFBm?oc=5"
             },
             {
-                "title": "“鲲鹏”托举凌云志——空军出动运-二〇运送新录取飞行学员报到侧记 - 中国军网",
+                "title": "空军出动运-20运送新录取飞行学员报到侧记 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdDJzLVpaY3pGMHVyb2h4THFWV29ZbXRJdTNvc0hfSUk4Nlpyd1NkNGdYTlZzbkgyYXlpQXZpTFdCX1dpOVFtYTFIYUsxUFdtRGc?oc=5"
+            },
+            {
+                "title": "瑙鲁正式更改国名 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
             },
             {
                 "title": "中国人民解放军建军99周年丨与人民同行 与胜利同行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41a01xbzFNY3lONnpHWDA1U2tWdVh2YVpRLVdOaEFCVVp2WGlKd3Z4ZHRuVUtlVmdkbjM5MWtwR2tPVmdMTFVYcXFyTjZBSHpqeWc?oc=5"
-            },
-            {
-                "title": "《军报每天读》20260803 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uV0NleDNoR0UzSUxESDRXNmxhSHRZQ3JYTE5fUEFtR04tbGFTeWNzZEpkVU1NdENwQmRZci05QnZfYm1UZ2VRTktXVDFQY0VUNVNmSw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "分别位于沪苏杭的这三家全新门店，是各自品牌在中国发展的又一个里程碑",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "30年债券收益率突破5%，股市的估值逻辑会怎么变？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-02",
-                "url": "https://www.toodaylab.com/84148"
+                "url": "https://www.ftchinese.com/story/001110498"
             },
             {
-                "title": "墙外文摘：前新疆警察继续讲述曾经被囚禁的灵魂",
-                "source": "NewsAPI / DW (English)",
+                "title": "一周世界舆论聚焦：特朗普与李在明的麻烦",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-02",
-                "url": "https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E5%89%8D%E6%96%B0%E7%96%86%E8%AD%A6%E5%AF%9F%E7%BB%A7%E7%BB%AD%E8%AE%B2%E8%BF%B0%E6%9B%BE%E7%BB%8F%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E7%81%B5%E9%AD%82/a-78207473"
+                "url": "https://www.ftchinese.com/story/001110507"
             },
             {
-                "title": "泰国证券交易所旗下存管公司遭黑客入侵，20 万投资者信息泄漏",
-                "source": "NewsAPI / Ithome.com",
+                "title": "天佑台湾 下半年恐爆猝逝潮(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-02",
-                "url": "https://www.ithome.com/0/984/800.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/02/1102896.html"
             },
             {
-                "title": "亮瞎狗眼的智驾小蓝灯 其实本应前途大好",
+                "title": "台湾姑娘吴明华的自立路：从“蔡崇信太太”到女子NBA冠军老板",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571334.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571346.htm"
             },
             {
-                "title": "美媒揭美国AI最尴尬一幕：想追赶中国开源模型 却没人愿意投钱",
+                "title": "陷造假风波后IF椰子水业绩“塌方”：利润预计同比暴跌75% 市值蒸发近九成",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571330.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571342.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dm1XNmdSQ3VOcnJQekF2ZTQ4QnJ4cHpfU3d4eWFzTjAwNkYwa2t0Z25SNGlnNjcxZ0NDTU1VMEtWZUpEVThDQTVQMEliWV9uY2NVR1lWbEVHNFBm?oc=5"
             },
             {
-                "title": "“鲲鹏”托举凌云志——空军出动运-二〇运送新录取飞行学员报到侧记 - 中国军网",
+                "title": "空军出动运-20运送新录取飞行学员报到侧记 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdDJzLVpaY3pGMHVyb2h4THFWV29ZbXRJdTNvc0hfSUk4Nlpyd1NkNGdYTlZzbkgyYXlpQXZpTFdCX1dpOVFtYTFIYUsxUFdtRGc?oc=5"
+            },
+            {
+                "title": "瑙鲁正式更改国名 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
             },
             {
                 "title": "中国人民解放军建军99周年丨与人民同行 与胜利同行 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41a01xbzFNY3lONnpHWDA1U2tWdVh2YVpRLVdOaEFCVVp2WGlKd3Z4ZHRuVUtlVmdkbjM5MWtwR2tPVmdMTFVYcXFyTjZBSHpqeWc?oc=5"
-            },
-            {
-                "title": "《军报每天读》20260803 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uV0NleDNoR0UzSUxESDRXNmxhSHRZQ3JYTE5fUEFtR04tbGFTeWNzZEpkVU1NdENwQmRZci05QnZfYm1UZ2VRTktXVDFQY0VUNVNmSw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-03T14:31:29.481933+00:00"
+    "last_updated": "2026-08-03T19:25:44.165362+00:00"
 }
