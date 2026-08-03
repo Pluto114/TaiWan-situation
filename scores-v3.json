@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-02",
-                "url": "http://www.geekpark.net/news/368277"
-            },
-            {
-                "title": "纽约起诉预测市场平台Kalshi 指控其从事非法赌博业务",
+                "title": "贝索斯用AI寻找下一块硅",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571298.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571336.htm"
             },
             {
-                "title": "明尼苏达法官驳回 xAI 要求阻止“脱衣”应用禁令生效的请求",
+                "title": "亮瞎狗眼的智驾小蓝灯 其实本应前途大好",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571292.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571334.htm"
             },
             {
-                "title": "DeepSeek V4-Flash正式版实测Agent能力直追顶级模型",
+                "title": "美媒揭美国AI最尴尬一幕：想追赶中国开源模型 却没人愿意投钱",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571280.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571330.htm"
             },
             {
-                "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
+                "title": "聚焦手机制造业变迁：国产模拟经营游戏《掌中帝国》试玩版上架 Steam",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-01",
-                "url": "https://www.ithome.com/0/984/649.htm"
+                "date": "2026-08-02",
+                "url": "https://www.ithome.com/0/984/650.htm"
+            },
+            {
+                "title": "漫步者 AIRPULSE A200T 典藏式书架音箱新增蓝色版本，4980 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-02",
+                "url": "https://www.ithome.com/0/984/745.htm"
             }
         ],
         "mil": [
+            {
+                "title": "盛趣游戏与 NC 达成战略合作，推动《永恒之塔 2》在中国大陆地区上线运营",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-02",
+                "url": "https://www.ithome.com/0/984/759.htm"
+            },
+            {
+                "title": "贝索斯用AI寻找下一块硅",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571336.htm"
+            },
             {
                 "title": "说唱歌手 Fenix Flexin 单曲《Rubberz》走红，被质疑由 AI 生成",
                 "source": "NewsAPI / Ithome.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1571274.htm"
-            },
-            {
-                "title": "与菲律宾拉锯 中国在南海争议岛礁军演",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-01",
-                "url": "https://www.dw.com/zh/%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8B%89%E9%94%AF-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE%E5%B2%9B%E7%A4%81%E5%86%9B%E6%BC%94/a-78202297"
-            },
-            {
-                "title": "与菲律宾拉锯 中国在南海争议岛礁军演",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-01",
-                "url": "https://www.dw.com/zh/%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8B%89%E9%94%AF-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE%E5%B2%9B%E7%A4%81%E5%86%9B%E6%BC%94/a-78202297"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "说唱歌手 Fenix Flexin 单曲《Rubberz》走红，被质疑由 AI 生成",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-02",
-                "url": "https://www.ithome.com/0/984/667.htm"
-            },
-            {
-                "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-02",
-                "url": "http://www.geekpark.net/news/368277"
-            },
-            {
-                "title": "OpenAI CEO 奥尔特曼提出用 AI 打造亲子晨间播客，遭网友批评",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-02",
-                "url": "https://www.ithome.com/0/984/664.htm"
-            },
-            {
-                "title": "OpenAI下一代AI攻克10项菲尔兹奖级难题",
+                "title": "亮瞎狗眼的智驾小蓝灯 其实本应前途大好",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571310.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571334.htm"
             },
             {
-                "title": "特朗普媒体推出付费数据服务 为客户提供更快访问帖文渠道",
+                "title": "美媒揭美国AI最尴尬一幕：想追赶中国开源模型 却没人愿意投钱",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571304.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571330.htm"
+            },
+            {
+                "title": "OpenAI人工智能体突破沙箱入侵网络平台 专家警示自主AI安全威胁加剧",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571326.htm"
+            },
+            {
+                "title": "“打倒习近平”河北15岁少年张琪沅被关精神病院现状(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-02",
+                "url": "https://www.secretchina.com/news/gb/2026/08/02/1102886.html"
+            },
+            {
+                "title": "藤森庆子就任总统 秘鲁在中美之间寻求新的平衡",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-02",
+                "url": "https://www.dw.com/zh/%E8%97%A4%E6%A3%AE%E5%BA%86%E5%AD%90%E5%B0%B1%E4%BB%BB%E6%80%BB%E7%BB%9F-%E7%A7%98%E9%B2%81%E5%9C%A8%E4%B8%AD%E7%BE%8E%E4%B9%8B%E9%97%B4%E5%AF%BB%E6%B1%82%E6%96%B0%E7%9A%84%E5%B9%B3%E8%A1%A1/a-78141891"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-03T02:30:59.984024+00:00"
+    "last_updated": "2026-08-03T09:36:53.728857+00:00"
 }
