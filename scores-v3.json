@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "从合肥天鹅湖到伦敦牛津街：“中国冲击2.0”还是“中国机遇2.0”？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-03",
+                "url": "https://www.ftchinese.com/story/001110521"
+            },
+            {
+                "title": "美国股市与实体经济脱节",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-03",
+                "url": "https://www.ftchinese.com/story/001110494"
+            },
+            {
+                "title": "菲尔兹奖为什么有“40岁”门槛？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-03",
+                "url": "https://www.ftchinese.com/story/001110506"
+            },
+            {
+                "title": "余承东官宣华为首款 RGB-MiniLED 电视来了：RGB 三原色独立发光，8 月 5 日正式开售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-03",
+                "url": "https://www.ithome.com/0/985/237.htm"
+            },
+            {
                 "title": "OPPO F35 系列手机曝光，预计本月末海外发布",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-03",
                 "url": "https://www.ithome.com/0/985/234.htm"
-            },
-            {
-                "title": "乐扩推出无需拆分PCIe通道的扩展卡 用AMD B650芯片扩出12个接口",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571492.htm"
-            },
-            {
-                "title": "Anthropic、OpenAI等企业面临欧盟《人工智能法案》全新执法权限审查",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571490.htm"
-            },
-            {
-                "title": "议员权衡AI监管政策之际 ChatGPT占据美国国会早期AI采购支出主导地位",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571486.htm"
-            },
-            {
-                "title": "韩国芯片独角兽DeepX估值飙升4倍至22亿美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-03",
-                "url": "https://36kr.com/newsflashes/3923786103404676"
             }
         ],
         "mil": [
+            {
+                "title": "美军太平洋司令警告中国勿以胁迫手段主导地区；中菲南中国海争议岛礁紧张关系升温",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-03",
+                "url": "https://www.voachinese.com/a/top-us-admiral-warns-china-against-coercion-as-tensions-rise-near-disputed-shoal-20260803/8182121.html"
+            },
+            {
+                "title": "从合肥天鹅湖到伦敦牛津街：“中国冲击2.0”还是“中国机遇2.0”？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-03",
+                "url": "https://www.ftchinese.com/story/001110521"
+            },
             {
                 "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.ithome.com/0/985/011.htm"
             },
             {
-                "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-03",
-                "url": "https://36kr.com/p/3923367465266824"
-            },
-            {
-                "title": "黄仁勋7500万美元捐建艺术学院：技术精英的一次自我提醒",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571416.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -98,13 +98,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IVGNTd3Y3aFFDaXJGS3VrVG1zczl2VTZaNVZHcFJSWHNraVp5R0lrYXlsQl9VSEFtM25WNGU3UEJxWVQ5R1hyc09rVlUxaWJzeVladzhjbDBBVmJ2Z2c?oc=5"
             },
             {
-                "title": "瑙鲁正式更改国名 - 中国军网",
+                "title": "瑙鲁正式更改国名 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
             },
             {
-                "title": "新华视点｜汛期野游热背后的冷思考 - 中国军网",
+                "title": "新华视点｜汛期野游热背后的冷思考 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWTRGdERFWXJwUDNYRlZsRUctNDZJb0ZmTk5CbE0zOU14RTFIcG1vS0VIWHlWUHJ0N0NMc1FlU3BJY0Z0cEMzS2dCTjRpY3l6TkE?oc=5"
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "议员权衡AI监管政策之际 ChatGPT占据美国国会早期AI采购支出主导地位",
+                "title": "美军太平洋司令警告中国勿以胁迫手段主导地区；中菲南中国海争议岛礁紧张关系升温",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-03",
+                "url": "https://www.voachinese.com/a/top-us-admiral-warns-china-against-coercion-as-tensions-rise-near-disputed-shoal-20260803/8182121.html"
+            },
+            {
+                "title": "白宫将于周二召集人工智能企业 审议AI监管框架",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571486.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571498.htm"
             },
             {
-                "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "从合肥天鹅湖到伦敦牛津街：“中国冲击2.0”还是“中国机遇2.0”？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-03",
-                "url": "https://36kr.com/p/3923717502072969"
+                "url": "https://www.ftchinese.com/story/001110521"
             },
             {
-                "title": "Windows 10标志性锁屏照走红社交媒体 新西兰偏远海滩成“朝圣地”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国股市与实体经济脱节",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571482.htm"
+                "url": "https://www.ftchinese.com/story/001110494"
             },
             {
-                "title": "从鼓励炒股到遭遇市场反噬 韩国总统李在明面临政治考验",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "菲尔兹奖为什么有“40岁”门槛？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571480.htm"
-            },
-            {
-                "title": "媒体：欧盟“强硬派”外交代表卡拉斯预计今秋访华",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-03",
-                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E6%AC%A7%E7%9B%9F%E5%BC%BA%E7%A1%AC%E6%B4%BE%E5%A4%96%E4%BA%A4%E4%BB%A3%E8%A1%A8%E5%8D%A1%E6%8B%89%E6%96%AF%E9%A2%84%E8%AE%A1%E4%BB%8A%E7%A7%8B%E8%AE%BF%E5%8D%8E/a-78214890"
+                "url": "https://www.ftchinese.com/story/001110506"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IVGNTd3Y3aFFDaXJGS3VrVG1zczl2VTZaNVZHcFJSWHNraVp5R0lrYXlsQl9VSEFtM25WNGU3UEJxWVQ5R1hyc09rVlUxaWJzeVladzhjbDBBVmJ2Z2c?oc=5"
             },
             {
-                "title": "瑙鲁正式更改国名 - 中国军网",
+                "title": "瑙鲁正式更改国名 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
             },
             {
-                "title": "新华视点｜汛期野游热背后的冷思考 - 中国军网",
+                "title": "新华视点｜汛期野游热背后的冷思考 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWTRGdERFWXJwUDNYRlZsRUctNDZJb0ZmTk5CbE0zOU14RTFIcG1vS0VIWHlWUHJ0N0NMc1FlU3BJY0Z0cEMzS2dCTjRpY3l6TkE?oc=5"
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-04T14:02:21.868499+00:00"
+    "last_updated": "2026-08-04T19:26:36.261803+00:00"
 }
