@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "iQOO Neo 新机曝光：国产新工艺 2K 大屏、超 9000mAh 大电池",
+                "title": "DeepSeek模型单日吞下8万亿Token OpenAI打折追赶",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571432.htm"
+            },
+            {
+                "title": "石头 A30 Pro Combo 2.0 五合一洗地机上市，国补价 2799 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-03",
-                "url": "https://www.ithome.com/0/984/868.htm"
+                "url": "https://www.ithome.com/0/985/011.htm"
             },
             {
-                "title": "日本熊本地震后 当地半导体厂正陆续恢复生产",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571396.htm"
+                "url": "https://36kr.com/p/3923374038265217"
             },
             {
-                "title": "中国供应商的SpaceX往事：从认证到清退的1800天",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571394.htm"
+                "url": "https://36kr.com/p/3923371035831684"
             },
             {
-                "title": "今日消费资讯：星巴克“兴趣社区空间”全面焕新、Ralph's Bar 首登“亚洲 50 最佳酒吧”",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-03",
-                "url": "https://www.toodaylab.com/84149"
-            },
-            {
-                "title": "内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-03",
-                "url": "http://www.geekpark.net/news/368278"
+                "url": "https://36kr.com/p/3923367465266824"
             }
         ],
         "mil": [
+            {
+                "title": "石头 A30 Pro Combo 2.0 五合一洗地机上市，国补价 2799 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-03",
+                "url": "https://www.ithome.com/0/985/011.htm"
+            },
+            {
+                "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-03",
+                "url": "https://36kr.com/p/3923367465266824"
+            },
+            {
+                "title": "黄仁勋7500万美元捐建艺术学院：技术精英的一次自我提醒",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571416.htm"
+            },
             {
                 "title": "中国供应商的SpaceX往事：从认证到清退的1800天",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,24 +74,6 @@
                 "url": "https://36kr.com/p/3923043072634498"
             },
             {
-                "title": "试水 NFT 惨遭滑铁卢，育碧一争议游戏上线仅两年即将停服",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-03",
-                "url": "https://www.ithome.com/0/984/843.htm"
-            },
-            {
-                "title": "IT早报 0803：曝华为 Mate 80 系列销量破 800 万台；官方回应喜羊羊新作被指擦边；曝 Top5 厂商明年全部跟进 1:1 前置摄像头；深圳宝安电动自行车违法纳入征信...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-02",
-                "url": "https://www.ithome.com/0/984/834.htm"
-            },
-            {
-                "title": "川普宣布暂停对伊朗新一轮军事打击 称中东停火协议已接近达成(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-02",
-                "url": "https://www.secretchina.com/news/gb/2026/08/03/1102899.html"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYjd1cGNUSDFlZkkwVVJrR3gxd2N6aUdHSXFTY1JNdFNaTmFMMWt0Sm9WNVJCZ1FXSkxmVi1qb0lWeU1aTHpUSkl0bGNHM0JFNHhIdFNRRQ?oc=5"
             },
             {
-                "title": "搜索结果页面 - 中华人民共和国国防部",
+                "title": "清风正气歌丨万千金银过手 一生两袖清风 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFk2Unl3MDVyUGR3QmhQbFFFbTNUa3pLRGtvVUczZWJmZlB2bzVUaWotbkNfQXlZclgxZmY5SWRudzBHcHYwbEpiNHBNOW9FRENkNnc1NS1UZDl2OEU5YWpsc1NMSVROMkppZFZrZkdQaEluTk5DNW9IUWVWQzVULVJlWjJFbDRWMEVYTUlLbUVGZi1QVTBOSVdRYlN4b25LeDAw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMVM2VmRINmI1cFVOcUFlTlBiOTZGLUMxRS0wcHkxdVJDZGZESURaQ1NtdVZzc29oOG5Za1F6UUNhTUMzSzhQYWlhR2hJQVoyTEEwaE1kNkk4UVI2ZGFoWjMxTVV1R2c?oc=5"
             },
             {
                 "title": "瑙鲁正式更改国名 - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uV0NleDNoR0UzSUxESDRXNmxhSHRZQ3JYTE5fUEFtR04tbGFTeWNzZEpkVU1NdENwQmRZci05QnZfYm1UZ2VRTktXVDFQY0VUNVNmSw?oc=5"
             },
             {
-                "title": "时政新闻眼丨八一建军节前夕这次集体学习，传递了哪些重要信息？ - 中国军网",
+                "title": "“荷兰士大夫”何以精准勾勒出中国古典文明的风神骨相？ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Lcko3XzNKeHp6T2lBaFE1aDFJaThhaWd2RWRrNTkzTFM0ODdaUEZuelNlbVhMblFHOEdvY3VJQV85X2pKY29YeWh5bExUSm5CSlE?oc=5"
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10MUVCTE9FcXRkMjVSRE5aSGFnNjI1R2pwSGV4YURqWDFrXzVmbHVON1pNcVN2Q0RfcHdVb2pzSU9lb3VPd01fYnhqRjZWZXQ3d0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "香港交易所正式推出5年期人民币国债期货",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-03",
-                "url": "https://36kr.com/newsflashes/3923135365410177"
-            },
-            {
-                "title": "索尼 2026 财年一季报确认已提交收购腾龙提案，加码 E 卡口镜头生态",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-03",
-                "url": "https://www.ithome.com/0/984/862.htm"
-            },
-            {
-                "title": "全球第三大 12 英寸硅晶圆制造商将易主：SK 批准向斗山出售 SK siltron 多数股份",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-03",
-                "url": "https://www.ithome.com/0/984/853.htm"
-            },
-            {
-                "title": "中国供应商的SpaceX往事：从认证到清退的1800天",
+                "title": "DeepSeek模型单日吞下8万亿Token OpenAI打折追赶",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571394.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571432.htm"
             },
             {
-                "title": "内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "中共魔爪向下伸 台小学生赴中国交流暴增27倍(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-03",
-                "url": "http://www.geekpark.net/news/368278"
+                "url": "https://www.secretchina.com/news/gb/2026/08/03/1102922.html"
+            },
+            {
+                "title": "韩国国家 AI 计算中心动工，目标 2028 年建成",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-03",
+                "url": "https://www.ithome.com/0/985/004.htm"
+            },
+            {
+                "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-03",
+                "url": "https://36kr.com/p/3923374038265217"
+            },
+            {
+                "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-03",
+                "url": "https://36kr.com/p/3923367465266824"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYjd1cGNUSDFlZkkwVVJrR3gxd2N6aUdHSXFTY1JNdFNaTmFMMWt0Sm9WNVJCZ1FXSkxmVi1qb0lWeU1aTHpUSkl0bGNHM0JFNHhIdFNRRQ?oc=5"
             },
             {
-                "title": "搜索结果页面 - 中华人民共和国国防部",
+                "title": "清风正气歌丨万千金银过手 一生两袖清风 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFk2Unl3MDVyUGR3QmhQbFFFbTNUa3pLRGtvVUczZWJmZlB2bzVUaWotbkNfQXlZclgxZmY5SWRudzBHcHYwbEpiNHBNOW9FRENkNnc1NS1UZDl2OEU5YWpsc1NMSVROMkppZFZrZkdQaEluTk5DNW9IUWVWQzVULVJlWjJFbDRWMEVYTUlLbUVGZi1QVTBOSVdRYlN4b25LeDAw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMVM2VmRINmI1cFVOcUFlTlBiOTZGLUMxRS0wcHkxdVJDZGZESURaQ1NtdVZzc29oOG5Za1F6UUNhTUMzSzhQYWlhR2hJQVoyTEEwaE1kNkk4UVI2ZGFoWjMxTVV1R2c?oc=5"
             },
             {
                 "title": "瑙鲁正式更改国名 - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uV0NleDNoR0UzSUxESDRXNmxhSHRZQ3JYTE5fUEFtR04tbGFTeWNzZEpkVU1NdENwQmRZci05QnZfYm1UZ2VRTktXVDFQY0VUNVNmSw?oc=5"
             },
             {
-                "title": "时政新闻眼丨八一建军节前夕这次集体学习，传递了哪些重要信息？ - 中国军网",
+                "title": "“荷兰士大夫”何以精准勾勒出中国古典文明的风神骨相？ - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Lcko3XzNKeHp6T2lBaFE1aDFJaThhaWd2RWRrNTkzTFM0ODdaUEZuelNlbVhMblFHOEdvY3VJQV85X2pKY29YeWh5bExUSm5CSlE?oc=5"
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10MUVCTE9FcXRkMjVSRE5aSGFnNjI1R2pwSGV4YURqWDFrXzVmbHVON1pNcVN2Q0RfcHdVb2pzSU9lb3VPd01fYnhqRjZWZXQ3d0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-04T02:10:09.518381+00:00"
+    "last_updated": "2026-08-04T08:31:10.009246+00:00"
 }
