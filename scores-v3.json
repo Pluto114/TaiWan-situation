@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "邀请网红参加奢华品牌活动，OpenAI 营销引争议",
-                "source": "NewsAPI / Ithome.com",
+                "title": "飞书并入豆包：字节跳动的一次目标重塑",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/317.htm"
+                "url": "http://www.geekpark.net/news/368374"
             },
             {
-                "title": "中美 AI 大模型竞争加剧：OpenAI 等海外巨头大幅降价对标 Kimi、DeepSeek",
-                "source": "NewsAPI / Ithome.com",
+                "title": "互联网流量，崩塌了",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/312.htm"
+                "url": "http://www.geekpark.net/news/368373"
             },
             {
-                "title": "针对高级AI黑客能力监管加码 美国政府即将公布自愿性安全测试规范",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中共“跨境镇压”严重 林佳龙与中谷元促友盟联手反制(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571570.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/04/1102967.html"
             },
             {
-                "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+                "title": "商务部：2026上半年我国服务进出口总额37797.5亿元",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-04",
-                "url": "https://36kr.com/p/3924467692927369"
+                "url": "https://36kr.com/newsflashes/3924885566716288"
             },
             {
-                "title": "航拍显示马斯克得州 ATCF 芯片厂施工快速推进，布局全流程一体化芯片制造",
+                "title": "蔚来 ES9 旗舰 SUV 官宣本周交付第 2 万台，租电购买 39 万元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/295.htm"
+                "url": "https://www.ithome.com/0/985/489.htm"
             }
         ],
         "mil": [
+            {
+                "title": "互联网流量，崩塌了",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-04",
+                "url": "http://www.geekpark.net/news/368373"
+            },
+            {
+                "title": "小米错峰推出增程车 “增程神教”又支棱起来了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571588.htm"
+            },
+            {
+                "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-04",
+                "url": "https://36kr.com/p/3924634192673153"
+            },
+            {
+                "title": "宝可梦开发商 Game Freak 新作《轮回之兽》获 IGN 6 分：游戏设计重复性高、令人乏味",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-04",
+                "url": "https://www.ithome.com/0/985/375.htm"
+            },
             {
                 "title": "10.7万的车被关税抬到23.3万 路特斯Eletre认栽退出美国",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,46 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1571578.htm"
             },
             {
-                "title": "探索生命起源新视角：2024 年坠落居民楼的陨石发现局部盐水环境证据",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/318.htm"
-            },
-            {
-                "title": "邀请网红参加奢华品牌活动，OpenAI 营销引争议",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/317.htm"
-            },
-            {
-                "title": "针对高级AI黑客能力监管加码 美国政府即将公布自愿性安全测试规范",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571570.htm"
-            },
-            {
-                "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-04",
-                "url": "https://36kr.com/p/3924467692927369"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "领事认证/附加证明书在线核查系统 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYjd1cGNUSDFlZkkwVVJrR3gxd2N6aUdHSXFTY1JNdFNaTmFMMWt0Sm9WNVJCZ1FXSkxmVi1qb0lWeU1aTHpUSkl0bGNHM0JFNHhIdFNRRQ?oc=5"
-            },
-            {
                 "title": "清风正气歌丨万千金银过手 一生两袖清风 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-03",
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMVM2VmRINmI1cFVOcUFlTlBiOTZGLUMxRS0wcHkxdVJDZGZESURaQ1NtdVZzc29oOG5Za1F6UUNhTUMzSzhQYWlhR2hJQVoyTEEwaE1kNkk4UVI2ZGFoWjMxTVV1R2c?oc=5"
+            },
+            {
+                "title": "打破机型界限多岗位练兵，空军某部创新培养复合型机务人才 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VmtJSGFINjdMTV9fdWU2MXNuZExWVHRqWDdlTUJ6d3RUMXE0TkdfNVNrTGNCYm9SaHY0N0ZqRUlraFVaQVMzYXBiOEkxYWtLNmxZUWRadmk?oc=5"
+            },
+            {
+                "title": "空军工程大学研究生院组织“研行长征路”活动，重走先辈走过的路 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01R1Q2Z1RnWU5MY3l0LWx3bnlFcTRUbm0yU21tXzFHX1FiOXJmeC1iRFJ5aDFxeW1pS1czZThDZ2Z5T2YyQ0l3VGxtaWhyMW9iS1F1OFJ1Y3o0cUw3Q2xkMW85dXFhWWFLNkEw?oc=5"
             },
             {
                 "title": "Army helicopters in multi-subject training - Bilingual - 中国军网（英文版） - China Military Online",
@@ -98,19 +98,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IVGNTd3Y3aFFDaXJGS3VrVG1zczl2VTZaNVZHcFJSWHNraVp5R0lrYXlsQl9VSEFtM25WNGU3UEJxWVQ5R1hyc09rVlUxaWJzeVladzhjbDBBVmJ2Z2c?oc=5"
             },
             {
-                "title": "瑙鲁正式更改国名 - 81.cn",
+                "title": "瑙鲁正式更改国名 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
             },
             {
-                "title": "新华视点｜汛期野游热背后的冷思考 - 81.cn",
+                "title": "新华视点｜汛期野游热背后的冷思考 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWTRGdERFWXJwUDNYRlZsRUctNDZJb0ZmTk5CbE0zOU14RTFIcG1vS0VIWHlWUHJ0N0NMc1FlU3BJY0Z0cEMzS2dCTjRpY3l6TkE?oc=5"
             },
             {
-                "title": "海事法规 - 上海海事局",
+                "title": "海事法规 - sh.msa.gov.cn",
                 "source": "官方信源 / 海事局",
                 "date": "2019-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
@@ -118,46 +118,34 @@
         ],
         "pol": [
             {
-                "title": "OpenAI 为网红举办奢华夏令营被批“反乌托邦”：一晚超 2000 美元，回应称为了推广产品",
-                "source": "NewsAPI / Ithome.com",
+                "title": "飞书并入豆包：字节跳动的一次目标重塑",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/323.htm"
+                "url": "http://www.geekpark.net/news/368374"
             },
             {
-                "title": "2026 年 8 月索尼 PS Plus 一档会免游戏开放领取：含《消逝的光芒 2》《Big Walk》等",
-                "source": "NewsAPI / Ithome.com",
+                "title": "互联网流量，崩塌了",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/321.htm"
+                "url": "http://www.geekpark.net/news/368373"
             },
             {
-                "title": "邀请网红参加奢华品牌活动，OpenAI 营销引争议",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中共“跨境镇压”严重 林佳龙与中谷元促友盟联手反制(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/317.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/04/1102967.html"
             },
             {
-                "title": "针对高级AI黑客能力监管加码 美国政府即将公布自愿性安全测试规范",
+                "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-04",
+                "url": "https://36kr.com/p/3924826666301831"
+            },
+            {
+                "title": "卡未离身、密码未刮 6000元沃尔玛购物卡被盗刷光",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571570.htm"
-            },
-            {
-                "title": "强劲财报发布后 Palantir CEO亚历克斯·卡普称AI行业具有“马克思主义”色彩",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571554.htm"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "领事认证/附加证明书在线核查系统 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYjd1cGNUSDFlZkkwVVJrR3gxd2N6aUdHSXFTY1JNdFNaTmFMMWt0Sm9WNVJCZ1FXSkxmVi1qb0lWeU1aTHpUSkl0bGNHM0JFNHhIdFNRRQ?oc=5"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571628.htm"
             },
             {
                 "title": "清风正气歌丨万千金银过手 一生两袖清风 - 中华人民共和国国防部",
@@ -166,25 +154,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMVM2VmRINmI1cFVOcUFlTlBiOTZGLUMxRS0wcHkxdVJDZGZESURaQ1NtdVZzc29oOG5Za1F6UUNhTUMzSzhQYWlhR2hJQVoyTEEwaE1kNkk4UVI2ZGFoWjMxTVV1R2c?oc=5"
             },
             {
+                "title": "打破机型界限多岗位练兵，空军某部创新培养复合型机务人才 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VmtJSGFINjdMTV9fdWU2MXNuZExWVHRqWDdlTUJ6d3RUMXE0TkdfNVNrTGNCYm9SaHY0N0ZqRUlraFVaQVMzYXBiOEkxYWtLNmxZUWRadmk?oc=5"
+            },
+            {
+                "title": "空军工程大学研究生院组织“研行长征路”活动，重走先辈走过的路 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-03",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01R1Q2Z1RnWU5MY3l0LWx3bnlFcTRUbm0yU21tXzFHX1FiOXJmeC1iRFJ5aDFxeW1pS1czZThDZ2Z5T2YyQ0l3VGxtaWhyMW9iS1F1OFJ1Y3o0cUw3Q2xkMW85dXFhWWFLNkEw?oc=5"
+            },
+            {
                 "title": "Army helicopters in multi-subject training - Bilingual - 中国军网（英文版） - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-04",
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IVGNTd3Y3aFFDaXJGS3VrVG1zczl2VTZaNVZHcFJSWHNraVp5R0lrYXlsQl9VSEFtM25WNGU3UEJxWVQ5R1hyc09rVlUxaWJzeVladzhjbDBBVmJ2Z2c?oc=5"
             },
             {
-                "title": "瑙鲁正式更改国名 - 81.cn",
+                "title": "瑙鲁正式更改国名 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-03",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
             },
             {
-                "title": "新华视点｜汛期野游热背后的冷思考 - 81.cn",
+                "title": "新华视点｜汛期野游热背后的冷思考 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWTRGdERFWXJwUDNYRlZsRUctNDZJb0ZmTk5CbE0zOU14RTFIcG1vS0VIWHlWUHJ0N0NMc1FlU3BJY0Z0cEMzS2dCTjRpY3l6TkE?oc=5"
             },
             {
-                "title": "海事法规 - 上海海事局",
+                "title": "海事法规 - sh.msa.gov.cn",
                 "source": "官方信源 / 海事局",
                 "date": "2019-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-05T02:09:45.776602+00:00"
+    "last_updated": "2026-08-05T08:29:52.414158+00:00"
 }
