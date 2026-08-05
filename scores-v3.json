@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "华为首款 RGB-MiniLED 电视 Vision 智慧屏 6 SE RGB 开售：55 英寸 3499 元，75 英寸 5799 元",
+                "title": "美股的AI“踟蹰”：一些旧事实与新理解",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-04",
+                "url": "https://www.ftchinese.com/story/001110495"
+            },
+            {
+                "title": "苏伊士之外：北方海航道能否成为全球航运的新选择？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-04",
+                "url": "https://www.ftchinese.com/story/001110528"
+            },
+            {
+                "title": "英伟达最大的敌人是它最大的客户",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-04",
+                "url": "https://www.ftchinese.com/story/001110510"
+            },
+            {
+                "title": "技术红利变薄之后，独角兽靠什么继续长大？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-04",
+                "url": "https://www.ftchinese.com/story/001110512"
+            },
+            {
+                "title": "因本田在华销量低迷，日本零部件生产商 F-TECH 中国工厂将裁员约一半",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/701.htm"
-            },
-            {
-                "title": "长鑫存储迈入LPDDR6风险量化阶段 推出12.8Gbps新一代内存芯片",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571670.htm"
-            },
-            {
-                "title": "乌克兰无人机持续袭击俄罗斯境内物流设施 莫斯科地区五人死亡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571666.htm"
-            },
-            {
-                "title": "台积电晶圆与 GDDR7 双重涨价：英伟达 RTX 50 系列韩国最高涨价 30%，RTX 5090 最高涨至 730 万韩元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/687.htm"
-            },
-            {
-                "title": "特朗普政府计划禁止美国进口新型号的中国数据中心组件",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571658.htm"
+                "url": "https://www.ithome.com/0/985/726.htm"
             }
         ],
         "mil": [
+            {
+                "title": "英伟达最大的敌人是它最大的客户",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-04",
+                "url": "https://www.ftchinese.com/story/001110510"
+            },
             {
                 "title": "乌克兰无人机持续袭击俄罗斯境内物流设施 莫斯科地区五人死亡",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,16 +74,16 @@
                 "url": "https://www.secretchina.com/news/gb/2026/08/04/1102971.html"
             },
             {
-                "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-04",
-                "url": "https://36kr.com/p/3924953058605444"
-            },
-            {
                 "title": "清风正气歌丨万千金银过手 一生两袖清风 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-03",
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMVM2VmRINmI1cFVOcUFlTlBiOTZGLUMxRS0wcHkxdVJDZGZESURaQ1NtdVZzc29oOG5Za1F6UUNhTUMzSzhQYWlhR2hJQVoyTEEwaE1kNkk4UVI2ZGFoWjMxTVV1R2c?oc=5"
+            },
+            {
+                "title": "大道行天下｜东方之约，相约未来——中国元首外交的世界情怀与大国气派 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-05",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZTd0VlJ1U0pUN1cwOW1uSzJwWkROVWdHNVEzREc1WVYtYlMwRnpmeGZ1R2tiU3RHLUJralRFMVBxWmF3R2lyWEdTY25QbkJRWGI3c1lSZng?oc=5"
             },
             {
                 "title": "打破机型界限多岗位练兵，空军某部创新培养复合型机务人才 - 中华人民共和国国防部",
@@ -86,28 +92,22 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VmtJSGFINjdMTV9fdWU2MXNuZExWVHRqWDdlTUJ6d3RUMXE0TkdfNVNrTGNCYm9SaHY0N0ZqRUlraFVaQVMzYXBiOEkxYWtLNmxZUWRadmk?oc=5"
             },
             {
-                "title": "空军工程大学研究生院组织“研行长征路”活动，重走先辈走过的路 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01R1Q2Z1RnWU5MY3l0LWx3bnlFcTRUbm0yU21tXzFHX1FiOXJmeC1iRFJ5aDFxeW1pS1czZThDZ2Z5T2YyQ0l3VGxtaWhyMW9iS1F1OFJ1Y3o0cUw3Q2xkMW85dXFhWWFLNkEw?oc=5"
-            },
-            {
                 "title": "Army helicopters in multi-subject training - Bilingual - 中国军网（英文版） - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-04",
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IVGNTd3Y3aFFDaXJGS3VrVG1zczl2VTZaNVZHcFJSWHNraVp5R0lrYXlsQl9VSEFtM25WNGU3UEJxWVQ5R1hyc09rVlUxaWJzeVladzhjbDBBVmJ2Z2c?oc=5"
             },
             {
-                "title": "这份规划，为“十五五”气象观测建设划重点 - 中国军网",
+                "title": "这份规划，为“十五五”气象观测建设划重点 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yYzV5WVlJZnhPYV9VN25HTHhMMllFeW50Vk1LQlN6SWRTdlE3d3kxTk9IQ3Q2d0NmaC1DWFJ6bVJMM2J6ZTMxa3lGd3k3ZElhbmc?oc=5"
             },
             {
-                "title": "瑙鲁正式更改国名 - 中国军网",
+                "title": "新华视点｜汛期野游热背后的冷思考 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
+                "date": "2026-08-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWTRGdERFWXJwUDNYRlZsRUctNDZJb0ZmTk5CbE0zOU14RTFIcG1vS0VIWHlWUHJ0N0NMc1FlU3BJY0Z0cEMzS2dCTjRpY3l6TkE?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "乌克兰无人机持续袭击俄罗斯境内物流设施 莫斯科地区五人死亡",
+                "title": "俄黑客劫持酒店网络发动新型网络攻击 微软发警告提醒商旅人士警惕",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571666.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571680.htm"
             },
             {
-                "title": "特朗普政府计划禁止美国进口新型号的中国数据中心组件",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美股的AI“踟蹰”：一些旧事实与新理解",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571658.htm"
+                "url": "https://www.ftchinese.com/story/001110495"
             },
             {
-                "title": "亚马逊 AI 超支五个月才被发现，单个项目花费 180 万美元超预算 860%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苏伊士之外：北方海航道能否成为全球航运的新选择？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-04",
-                "url": "https://www.ithome.com/0/985/651.htm"
+                "url": "https://www.ftchinese.com/story/001110528"
             },
             {
-                "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英伟达最大的敌人是它最大的客户",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-04",
-                "url": "https://36kr.com/p/3925067918227591"
+                "url": "https://www.ftchinese.com/story/001110510"
             },
             {
-                "title": "中国奥委会与李宁品牌联合发布了亚运会中国代表团领奖装备，背后有中国航天的技术",
-                "source": "NewsAPI / Ifanr.com",
+                "title": "技术红利变薄之后，独角兽靠什么继续长大？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-04",
-                "url": "https://www.ifanr.com/1673939"
+                "url": "https://www.ftchinese.com/story/001110512"
             },
             {
                 "title": "清风正气歌丨万千金银过手 一生两袖清风 - 中华人民共和国国防部",
@@ -154,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMVM2VmRINmI1cFVOcUFlTlBiOTZGLUMxRS0wcHkxdVJDZGZESURaQ1NtdVZzc29oOG5Za1F6UUNhTUMzSzhQYWlhR2hJQVoyTEEwaE1kNkk4UVI2ZGFoWjMxTVV1R2c?oc=5"
             },
             {
+                "title": "大道行天下｜东方之约，相约未来——中国元首外交的世界情怀与大国气派 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-05",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZTd0VlJ1U0pUN1cwOW1uSzJwWkROVWdHNVEzREc1WVYtYlMwRnpmeGZ1R2tiU3RHLUJralRFMVBxWmF3R2lyWEdTY25QbkJRWGI3c1lSZng?oc=5"
+            },
+            {
                 "title": "打破机型界限多岗位练兵，空军某部创新培养复合型机务人才 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-03",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VmtJSGFINjdMTV9fdWU2MXNuZExWVHRqWDdlTUJ6d3RUMXE0TkdfNVNrTGNCYm9SaHY0N0ZqRUlraFVaQVMzYXBiOEkxYWtLNmxZUWRadmk?oc=5"
-            },
-            {
-                "title": "空军工程大学研究生院组织“研行长征路”活动，重走先辈走过的路 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01R1Q2Z1RnWU5MY3l0LWx3bnlFcTRUbm0yU21tXzFHX1FiOXJmeC1iRFJ5aDFxeW1pS1czZThDZ2Z5T2YyQ0l3VGxtaWhyMW9iS1F1OFJ1Y3o0cUw3Q2xkMW85dXFhWWFLNkEw?oc=5"
             },
             {
                 "title": "Army helicopters in multi-subject training - Bilingual - 中国军网（英文版） - China Military Online",
@@ -172,16 +172,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IVGNTd3Y3aFFDaXJGS3VrVG1zczl2VTZaNVZHcFJSWHNraVp5R0lrYXlsQl9VSEFtM25WNGU3UEJxWVQ5R1hyc09rVlUxaWJzeVladzhjbDBBVmJ2Z2c?oc=5"
             },
             {
-                "title": "这份规划，为“十五五”气象观测建设划重点 - 中国军网",
+                "title": "这份规划，为“十五五”气象观测建设划重点 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yYzV5WVlJZnhPYV9VN25HTHhMMllFeW50Vk1LQlN6SWRTdlE3d3kxTk9IQ3Q2d0NmaC1DWFJ6bVJMM2J6ZTMxa3lGd3k3ZElhbmc?oc=5"
             },
             {
-                "title": "瑙鲁正式更改国名 - 中国军网",
+                "title": "新华视点｜汛期野游热背后的冷思考 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZmQtWUI4UEVuRnRualFVT2UxM2pMemtKNmJsV002UzdROGxtUW1TX0M0LU5NNVkwbmY5dkFnS2dfcUJhME05UGpTWmxnQVo1M3c?oc=5"
+                "date": "2026-08-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWTRGdERFWXJwUDNYRlZsRUctNDZJb0ZmTk5CbE0zOU14RTFIcG1vS0VIWHlWUHJ0N0NMc1FlU3BJY0Z0cEMzS2dCTjRpY3l6TkE?oc=5"
             },
             {
                 "title": "海事法规 - 上海海事局",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-05T14:00:10.570746+00:00"
+    "last_updated": "2026-08-05T19:24:30.923750+00:00"
 }
