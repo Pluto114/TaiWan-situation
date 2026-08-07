@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士",
-                "source": "NewsAPI / Bohaishibei.com",
-                "date": "2026-08-05",
-                "url": "https://www.bohaishibei.com/post/111712/"
-            },
-            {
-                "title": "索尼拟在 PlayStation 生态中引入广告，正筹建专业营销团队",
+                "title": "理想 i8 后驱长续航版上市：CLTC 续航 780km，售价 30.98 万元起",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-05",
-                "url": "https://www.ithome.com/0/986/277.htm"
+                "date": "2026-08-06",
+                "url": "https://www.ithome.com/0/986/351.htm"
             },
             {
-                "title": "集成光子器件同时实现两种非线性光学效应",
+                "title": "中国机械工业联合会：6月机械工业出厂价格上涨0.7%，结束38个月连跌态势",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-05",
-                "url": "https://36kr.com/newsflashes/3927259088189832?f=rss"
+                "date": "2026-08-06",
+                "url": "https://36kr.com/newsflashes/3927411507984513?f=rss"
             },
             {
-                "title": "IT早报 0806：央视曝午夜直播色情引流乱象；微信鸿蒙版安装量正式突破 7000 万；曝 DeepSeek 重启第二轮融资；华为鸿蒙智行发布尊界 V800/V680 旗舰 MPV...",
+                "title": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-06",
+                "url": "https://36kr.com/p/3927411140425861?f=rss"
+            },
+            {
+                "title": "ESS 推出“全球最高性能”音频编解码器 SABRE ES9292PRO",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-05",
-                "url": "https://www.ithome.com/0/986/271.htm"
+                "date": "2026-08-06",
+                "url": "https://www.ithome.com/0/986/343.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年8月6日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-05",
-                "url": "https://www.voachinese.com/a/8175127.html"
+                "title": "Google AI人事地震内幕：哈萨比斯卸任酝酿一年 真正想做的事浮出水面",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571914.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Google Gemini换帅 首席科学家带三个大牛出走创业",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571898.htm"
+            },
+            {
+                "title": "8点1氪丨长鑫拒绝苹果压价，坚持报价高于三星电子、SK海力士；宇树科技开启科创板IPO初步询价；韩国宣布进入“国家灾难状态”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-05",
+                "url": "https://36kr.com/p/3927280128539015?f=rss"
+            },
             {
                 "title": "IT早报 0806：央视曝午夜直播色情引流乱象；微信鸿蒙版安装量正式突破 7000 万；曝 DeepSeek 重启第二轮融资；华为鸿蒙智行发布尊界 V800/V680 旗舰 MPV...",
                 "source": "NewsAPI / Ithome.com",
@@ -60,18 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-05",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1571842.htm"
-            },
-            {
-                "title": "五角大楼从公开网站撤下25年的武器测试报告 担心对手借AI挖掘漏洞",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571840.htm"
-            },
-            {
-                "title": "《女人与海》：被写进公共记忆的人物——特鲁迪•埃德尔",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-05",
-                "url": "https://www.ftchinese.com/story/001110540"
             },
             {
                 "title": "大道行天下｜东方之约，相约未来——中国元首外交的世界情怀与大国气派 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "索尼拟在 PlayStation 生态中引入广告，正筹建专业营销团队",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-05",
-                "url": "https://www.ithome.com/0/986/277.htm"
+                "title": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-06",
+                "url": "https://36kr.com/p/3927411140425861?f=rss"
             },
             {
-                "title": "IT早报 0806：央视曝午夜直播色情引流乱象；微信鸿蒙版安装量正式突破 7000 万；曝 DeepSeek 重启第二轮融资；华为鸿蒙智行发布尊界 V800/V680 旗舰 MPV...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-05",
-                "url": "https://www.ithome.com/0/986/271.htm"
-            },
-            {
-                "title": "美国之音中文广播 (2026年8月6日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-05",
-                "url": "https://www.voachinese.com/a/8175127.html"
-            },
-            {
-                "title": "习独裁的难处和大清洗(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-05",
-                "url": "https://www.secretchina.com/news/gb/2026/08/06/1103039.html"
-            },
-            {
-                "title": "德国一机场暂停航班 此前发现武装无人机 并发生货机与不明物相撞事件",
+                "title": "Google AI人事地震内幕：哈萨比斯卸任酝酿一年 真正想做的事浮出水面",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571842.htm"
+                "date": "2026-08-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571914.htm"
+            },
+            {
+                "title": "前安克高管做智能房车，获元禾、厚雪等超2亿融资，首款产品2027年初量产｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-06",
+                "url": "https://36kr.com/p/3924907874318728?f=rss"
+            },
+            {
+                "title": "美国高级官员发出警告 全美计算机系统需加强网络防御以应对AI风险",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571908.htm"
+            },
+            {
+                "title": "加国男子承认为Snowflake数据泄露案主谋 或面临最高32年监禁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571886.htm"
             },
             {
                 "title": "大道行天下｜东方之约，相约未来——中国元首外交的世界情怀与大国气派 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-06T23:54:36.022344+00:00"
+    "last_updated": "2026-08-07T02:29:49.344223+00:00"
 }
