@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "理想 i8 后驱长续航版上市：CLTC 续航 780km，售价 30.98 万元起",
+                "title": "统筹 6G 方向：我国成立星地融合（NTN）工作组，华为中兴小米等参与",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-06",
-                "url": "https://www.ithome.com/0/986/351.htm"
+                "url": "https://www.ithome.com/0/986/528.htm"
             },
             {
-                "title": "中国机械工业联合会：6月机械工业出厂价格上涨0.7%，结束38个月连跌态势",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-06",
-                "url": "https://36kr.com/newsflashes/3927411507984513?f=rss"
-            },
-            {
-                "title": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-06",
-                "url": "https://36kr.com/p/3927411140425861?f=rss"
-            },
-            {
-                "title": "ESS 推出“全球最高性能”音频编解码器 SABRE ES9292PRO",
+                "title": "中国信通院：我国将成为全球潜力最大的 eSIM 市场",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-06",
-                "url": "https://www.ithome.com/0/986/343.htm"
+                "url": "https://www.ithome.com/0/986/502.htm"
             },
             {
-                "title": "Google AI人事地震内幕：哈萨比斯卸任酝酿一年 真正想做的事浮出水面",
+                "title": "因无内存芯片搭配 消息称台积电积压了价值10亿美元的苹果A20 Pro SoC",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571914.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571968.htm"
+            },
+            {
+                "title": "三星和 SK 海力士现金储备飙升，股东施压要求获得更高分红",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-06",
+                "url": "https://www.ithome.com/0/986/494.htm"
+            },
+            {
+                "title": "国家能源局：民资参股核电建设格局将进一步拓展",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-06",
+                "url": "https://36kr.com/newsflashes/3927585748203654?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "首轮秒罄：《DOTA2》TI15 二轮售票 8 月 7 日开启，16 支战队上海争冠",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-06",
+                "url": "https://www.ithome.com/0/986/472.htm"
+            },
+            {
+                "title": "中美退役将领“三亚倡议”：一场持续十余年的军事对话争议(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-06",
+                "url": "https://www.secretchina.com/news/gb/2026/08/06/1102997.html"
+            },
+            {
+                "title": "俄电商平台仓库多次遭袭 有中国外贸商“一天损失上万”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571954.htm"
+            },
+            {
+                "title": "直击美军”罗斯福号”航空母舰(下)：最强空战主力亮相，数十架战机就在眼前，近看“咆哮者”与“超级大黄蜂”；水兵们真实日常，海上健身房是什么样子？",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-06",
+                "url": "https://www.voachinese.com/a/inside-uss-theodore-roosevelt-2-the-carriers-air-power-up-close-fighter-jets-and-life-at-sea-20260805/8183360.html"
+            },
             {
                 "title": "Google Gemini换帅 首席科学家带三个大牛出走创业",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,28 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1571898.htm"
             },
             {
-                "title": "8点1氪丨长鑫拒绝苹果压价，坚持报价高于三星电子、SK海力士；宇树科技开启科创板IPO初步询价；韩国宣布进入“国家灾难状态”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-05",
-                "url": "https://36kr.com/p/3927280128539015?f=rss"
-            },
-            {
-                "title": "IT早报 0806：央视曝午夜直播色情引流乱象；微信鸿蒙版安装量正式突破 7000 万；曝 DeepSeek 重启第二轮融资；华为鸿蒙智行发布尊界 V800/V680 旗舰 MPV...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-05",
-                "url": "https://www.ithome.com/0/986/271.htm"
-            },
-            {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-05",
-                "url": "https://www.voachinese.com/a/8175133.html"
-            },
-            {
-                "title": "德国一机场暂停航班 此前发现武装无人机 并发生货机与不明物相撞事件",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571842.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "大道行天下｜东方之约，相约未来——中国元首外交的世界情怀与大国气派 - 中华人民共和国国防部",
@@ -86,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SbXNkaFdrTi1Ra21rWXNpMmtiU2hnLU1xNy1Sc3RWRUhtaHQ0d1I5MHlpc2hrVWFMN0V3TGZhRTdweVNSVHpRNFhFTGNJRDJ3dFREU3pBTk93d21UQWV2SU5yYUlxZw?oc=5"
             },
             {
-                "title": "以坚定的理想信念筑牢精神根基——习近平党建思想理论品格系列述评之一 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-05",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wSFVzWFoyc3hlc3drU0tEOEdIOERJRjhIQ2lYVHdHdzVndEJuNkkya1dDaTZmVTBZMGJYU2JqOTkxUDlnck0wZllZQldQMDFKd0NRZGhQRzc3VUpTZ1RacHdfcndodw?oc=5"
-            },
-            {
                 "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
@@ -104,42 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yYzV5WVlJZnhPYV9VN25HTHhMMllFeW50Vk1LQlN6SWRTdlE3d3kxTk9IQ3Q2d0NmaC1DWFJ6bVJMM2J6ZTMxa3lGd3k3ZElhbmc?oc=5"
             },
             {
-                "title": "奋楫之“陆”丨第一集《铸铁拳》 - 中国军网",
+                "title": "学习新语·铸魂强党丨学懂弄通做实党的创新理论 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-06",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4SnoweklkXzVSdUZkOXpiMEl0OVNSa1JiSXNvZnl1akdxbnJ1ajVweFcxS25fbTNwRHEzbnQyZzBuMkR0UE5OU3NBeVM?oc=5"
+                "date": "2026-08-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qRkhNNFgyZHRSYjdwV2NWY3pPaGRucm9OdDdhTkt2b3JobXdsYl9jNDRYNE1uUDdWVTBzcEFSVmdNY094SjdLNUg1c2RGNVNhVVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付",
-                "source": "NewsAPI / 36kr.com",
+                "title": "三星和 SK 海力士现金储备飙升，股东施压要求获得更高分红",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-06",
-                "url": "https://36kr.com/p/3927411140425861?f=rss"
+                "url": "https://www.ithome.com/0/986/494.htm"
             },
             {
-                "title": "Google AI人事地震内幕：哈萨比斯卸任酝酿一年 真正想做的事浮出水面",
+                "title": "24小时不关空调电费反而更低？网友热议",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571914.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571960.htm"
             },
             {
-                "title": "前安克高管做智能房车，获元禾、厚雪等超2亿融资，首款产品2027年初量产｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-06",
-                "url": "https://36kr.com/p/3924907874318728?f=rss"
-            },
-            {
-                "title": "美国高级官员发出警告 全美计算机系统需加强网络防御以应对AI风险",
+                "title": "俄电商平台仓库多次遭袭 有中国外贸商“一天损失上万”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571908.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571954.htm"
             },
             {
-                "title": "加国男子承认为Snowflake数据泄露案主谋 或面临最高32年监禁",
+                "title": "莫德纳首款mRNA流感疫苗获FDA批准",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1571886.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571950.htm"
+            },
+            {
+                "title": "字节跳动创始人表态：不对AI模型进行“蒸馏”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-06",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1571948.htm"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "大道行天下｜东方之约，相约未来——中国元首外交的世界情怀与大国气派 - 中华人民共和国国防部",
@@ -154,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SbXNkaFdrTi1Ra21rWXNpMmtiU2hnLU1xNy1Sc3RWRUhtaHQ0d1I5MHlpc2hrVWFMN0V3TGZhRTdweVNSVHpRNFhFTGNJRDJ3dFREU3pBTk93d21UQWV2SU5yYUlxZw?oc=5"
             },
             {
-                "title": "以坚定的理想信念筑牢精神根基——习近平党建思想理论品格系列述评之一 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-05",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wSFVzWFoyc3hlc3drU0tEOEdIOERJRjhIQ2lYVHdHdzVndEJuNkkya1dDaTZmVTBZMGJYU2JqOTkxUDlnck0wZllZQldQMDFKd0NRZGhQRzc3VUpTZ1RacHdfcndodw?oc=5"
-            },
-            {
                 "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yYzV5WVlJZnhPYV9VN25HTHhMMllFeW50Vk1LQlN6SWRTdlE3d3kxTk9IQ3Q2d0NmaC1DWFJ6bVJMM2J6ZTMxa3lGd3k3ZElhbmc?oc=5"
             },
             {
-                "title": "奋楫之“陆”丨第一集《铸铁拳》 - 中国军网",
+                "title": "学习新语·铸魂强党丨学懂弄通做实党的创新理论 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-06",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4SnoweklkXzVSdUZkOXpiMEl0OVNSa1JiSXNvZnl1akdxbnJ1ajVweFcxS25fbTNwRHEzbnQyZzBuMkR0UE5OU3NBeVM?oc=5"
+                "date": "2026-08-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qRkhNNFgyZHRSYjdwV2NWY3pPaGRucm9OdDdhTkt2b3JobXdsYl9jNDRYNE1uUDdWVTBzcEFSVmdNY094SjdLNUg1c2RGNVNhVVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-07T02:29:49.344223+00:00"
+    "last_updated": "2026-08-07T07:09:23.183705+00:00"
 }
