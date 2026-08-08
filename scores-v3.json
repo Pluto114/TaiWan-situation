@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发 | 拿下头部消费电子客户订单，这家超高精度金属3D打印公司完成Pre-A轮融资",
+                "title": "SpaceX确认Terafab项目已敲定 首次与Grimes县居民面对面交流",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572150.htm"
+            },
+            {
+                "title": "DeepSeek Harness负责人吐槽“融资材料”吹过头",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572106.htm"
+            },
+            {
+                "title": "影石产品将上线 AI 语音助手，分区域接入阿里千问和 Gemini 模型",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-07",
+                "url": "https://www.ithome.com/0/986/938.htm"
+            },
+            {
+                "title": "国家能源局：加大关键电力装备自主研发，推动电力芯片、特高压组部件等关键技术突破",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-07",
-                "url": "https://36kr.com/p/3928769679686019?f=rss"
+                "url": "https://36kr.com/newsflashes/3928913497144448?f=rss"
             },
             {
-                "title": "全球流动性收紧节奏暂缓，券商研判下半年或出现边际改善",
+                "title": "多家光伏龙头回应美国加征关税",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-07",
-                "url": "https://36kr.com/newsflashes/3928760461998466?f=rss"
-            },
-            {
-                "title": "长鑫没让苹果占到便宜 但全场消费大概是果粉买单",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572072.htm"
-            },
-            {
-                "title": "Meta被判向新墨西哥州青少年救助基金支付5.67亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572066.htm"
-            },
-            {
-                "title": "铠侠推出 PCIe 6.0 接口 GP1 系列企业级 SSD",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572060.htm"
+                "url": "https://36kr.com/newsflashes/3928912493936004?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "齿科3D打印龙头下场做消费级产品，众筹超7000万元｜Insight全球",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-07",
+                "url": "https://36kr.com/p/3928866062416001?f=rss"
+            },
             {
                 "title": "OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道",
                 "source": "NewsAPI / Geekpark.net",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-08-06",
                 "url": "https://www.voachinese.com/a/8175586.html"
-            },
-            {
-                "title": "中国向两名海警追授荣誉称号，证实一年前自家舰船相撞事件造成人员丧生",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-06",
-                "url": "https://www.voachinese.com/a/china-posthumously-awarded-honors-to-two-coast-guard-personnel-confirming-collision-involving-own-vessels-resulted-in-fatalities-20260806/8183521.html"
             },
             {
                 "title": "【双语】日本“再军事化”妄动是地区和平稳定的真正威胁 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "36氪首发 | 拿下头部消费电子客户订单，这家超高精度金属3D打印公司完成Pre-A轮融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-07",
-                "url": "https://36kr.com/p/3928769679686019?f=rss"
-            },
-            {
-                "title": "Meta被判向新墨西哥州青少年救助基金支付5.67亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572066.htm"
-            },
-            {
-                "title": "杠杆ETF风暴一个月 韩国股市距离风险出清还有“最后一公里”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-07",
-                "url": "https://36kr.com/newsflashes/3928748537821318?f=rss"
-            },
-            {
-                "title": "因 Facebook、Instagram 损害青少年权益，Meta 被判支付 5.67 亿美元",
+                "title": "男子利用外挂软件代抢 12306 火车票：成功率 70%~80%，牟利 2 万余元被判刑",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-07",
-                "url": "https://www.ithome.com/0/986/795.htm"
+                "url": "https://www.ithome.com/0/986/962.htm"
             },
             {
-                "title": "欧洲遭数十年最严重野火侵袭：西班牙创下史上最大火灾纪录 法国首现“火积雨云”",
+                "title": "DeepSeek Harness负责人吐槽“融资材料”吹过头",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572042.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572106.htm"
+            },
+            {
+                "title": "齿科3D打印龙头下场做消费级产品，众筹超7000万元｜Insight全球",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-07",
+                "url": "https://36kr.com/p/3928866062416001?f=rss"
+            },
+            {
+                "title": "美政府问责局质疑马斯克的政府效率部夸大工作成果 草率且具有欺骗性",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572098.htm"
+            },
+            {
+                "title": "DeepSeek突然涨价还要融资500亿 “只收电费钱”的梁文锋变了吗？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572086.htm"
             },
             {
                 "title": "【双语】日本“再军事化”妄动是地区和平稳定的真正威胁 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-08T01:18:16.912727+00:00"
+    "last_updated": "2026-08-08T06:44:45.023344+00:00"
 }
