@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "SpaceX确认Terafab项目已敲定 首次与Grimes县居民面对面交流",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "在一座“微缩都市”里，优衣库将 2026 秋冬新品们放进了对应的生活场景中",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572150.htm"
+                "url": "https://www.toodaylab.com/84156"
             },
             {
-                "title": "DeepSeek Harness负责人吐槽“融资材料”吹过头",
+                "title": "肯塔基农户为守护耕地抗拒AI数据中心扩张 拒绝2600万美元天价收购",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572106.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572192.htm"
             },
             {
-                "title": "影石产品将上线 AI 语音助手，分区域接入阿里千问和 Gemini 模型",
+                "title": "长鑫DDR5内存在AM5平台实现8800 MT/s性能 替代传统主流厂商进程加速",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572190.htm"
+            },
+            {
+                "title": "不等了！一个盲人上手造了个导盲机器人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-07",
+                "url": "https://36kr.com/p/3929352336587906?f=rss"
+            },
+            {
+                "title": "华为何刚官宣 FreeClip 2 耳夹耳机配饰上新，和法国珠宝品牌 Les Néréides 达成合作",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-07",
-                "url": "https://www.ithome.com/0/986/938.htm"
-            },
-            {
-                "title": "国家能源局：加大关键电力装备自主研发，推动电力芯片、特高压组部件等关键技术突破",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-07",
-                "url": "https://36kr.com/newsflashes/3928913497144448?f=rss"
-            },
-            {
-                "title": "多家光伏龙头回应美国加征关税",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-07",
-                "url": "https://36kr.com/newsflashes/3928912493936004?f=rss"
+                "url": "https://www.ithome.com/0/987/173.htm"
             }
         ],
         "mil": [
+            {
+                "title": "不等了！一个盲人上手造了个导盲机器人",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-07",
+                "url": "https://36kr.com/p/3929352336587906?f=rss"
+            },
+            {
+                "title": "中国游戏，进入「与AI同游」时代",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-07",
+                "url": "https://36kr.com/p/3929147779136896?f=rss"
+            },
+            {
+                "title": "王兴兴：宇树科技将积极探索人形机器人、机甲等更多产品形态",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-07",
+                "url": "https://www.ithome.com/0/986/984.htm"
+            },
             {
                 "title": "齿科3D打印龙头下场做消费级产品，众筹超7000万元｜Insight全球",
                 "source": "NewsAPI / 36kr.com",
@@ -56,24 +74,6 @@
                 "url": "http://www.geekpark.net/news/368504"
             },
             {
-                "title": "8点1氪丨DeepSeek宣布大幅涨价；贾国龙再创业，开店“天边羊多”；河南试行周五下午弹性离岗",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-06",
-                "url": "https://36kr.com/p/3928685883308165?f=rss"
-            },
-            {
-                "title": "台湾“汉光”演习登场检验实战能力，赖清德穿防弹衣搭装甲车演练战时指挥",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-06",
-                "url": "https://www.voachinese.com/a/taiwan-begins-annual-drill-with-its-president-simulating-war-time-command-to-keep-government-in-operation-20260806/8183525.html"
-            },
-            {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-06",
-                "url": "https://www.voachinese.com/a/8175586.html"
-            },
-            {
                 "title": "【双语】日本“再军事化”妄动是地区和平稳定的真正威胁 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-07",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SbXNkaFdrTi1Ra21rWXNpMmtiU2hnLU1xNy1Sc3RWRUhtaHQ0d1I5MHlpc2hrVWFMN0V3TGZhRTdweVNSVHpRNFhFTGNJRDJ3dFREU3pBTk93d21UQWV2SU5yYUlxZw?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
-            },
-            {
                 "title": "学习新语·铸魂强党丨学懂弄通做实党的创新理论 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-07",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSlNVX2UtbHNpR2dJMG9xNF9GOXdCWm5DdlB6OEllWnc3QmdTeFBNd2RuQldMdjRXVDRfRW1QemwwTDhMdElRNXFXMThKazBhVFE?oc=5"
+            },
+            {
+                "title": "强军论坛丨用精武定义军人之美 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KQ3Bzc1ZmRmR3YWZoNkxpSDVlSWYyNTNZejE4X3N1a1VyWDVvU3k0TkdtMVlXSmZBWEJXWGNuaEdGLXVPNk1BYzdZblc1UnpIc0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "男子利用外挂软件代抢 12306 火车票：成功率 70%~80%，牟利 2 万余元被判刑",
+                "title": "在一座“微缩都市”里，优衣库将 2026 秋冬新品们放进了对应的生活场景中",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-08-07",
+                "url": "https://www.toodaylab.com/84156"
+            },
+            {
+                "title": "R 星母公司 T2 再度确认《GTA6》仍按原计划发售，称前瞻预告片有助于提升消费者热情",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-07",
-                "url": "https://www.ithome.com/0/986/962.htm"
+                "url": "https://www.ithome.com/0/987/185.htm"
             },
             {
-                "title": "DeepSeek Harness负责人吐槽“融资材料”吹过头",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572106.htm"
-            },
-            {
-                "title": "齿科3D打印龙头下场做消费级产品，众筹超7000万元｜Insight全球",
+                "title": "不等了！一个盲人上手造了个导盲机器人",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-07",
-                "url": "https://36kr.com/p/3928866062416001?f=rss"
+                "url": "https://36kr.com/p/3929352336587906?f=rss"
             },
             {
-                "title": "美政府问责局质疑马斯克的政府效率部夸大工作成果 草率且具有欺骗性",
+                "title": "大众汽车控股家族呼吁加速改革 抵御中国车企竞争",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572098.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572182.htm"
             },
             {
-                "title": "DeepSeek突然涨价还要融资500亿 “只收电费钱”的梁文锋变了吗？",
+                "title": "特朗普推出多项贸易措施 扶持美国多晶硅产业以抗衡中国",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572086.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572178.htm"
             },
             {
                 "title": "【双语】日本“再军事化”妄动是地区和平稳定的真正威胁 - 中华人民共和国国防部",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SbXNkaFdrTi1Ra21rWXNpMmtiU2hnLU1xNy1Sc3RWRUhtaHQ0d1I5MHlpc2hrVWFMN0V3TGZhRTdweVNSVHpRNFhFTGNJRDJ3dFREU3pBTk93d21UQWV2SU5yYUlxZw?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
-            },
-            {
                 "title": "学习新语·铸魂强党丨学懂弄通做实党的创新理论 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-07",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSlNVX2UtbHNpR2dJMG9xNF9GOXdCWm5DdlB6OEllWnc3QmdTeFBNd2RuQldMdjRXVDRfRW1QemwwTDhMdElRNXFXMThKazBhVFE?oc=5"
+            },
+            {
+                "title": "强军论坛丨用精武定义军人之美 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KQ3Bzc1ZmRmR3YWZoNkxpSDVlSWYyNTNZejE4X3N1a1VyWDVvU3k0TkdtMVlXSmZBWEJXWGNuaEdGLXVPNk1BYzdZblc1UnpIc0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-08T06:44:45.023344+00:00"
+    "last_updated": "2026-08-08T12:39:38.776637+00:00"
 }
