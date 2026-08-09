@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "乌克兰无人机密集袭击俄电商巨头 供应链重创引发经济连锁反应",
+                "title": "苹果终于把千问接进Siri 中国版Apple Intelligence来了",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572302.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572310.htm"
             },
             {
-                "title": "黄仁勋一刀砍碎了全球内存股 唯独长鑫幸免于难",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572290.htm"
-            },
-            {
-                "title": "一个月内七起“AI越狱”事件 性质已经悄悄变了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572288.htm"
-            },
-            {
-                "title": "消息称SK海力士评估30亿美元重庆资产 或出售股份",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572278.htm"
-            },
-            {
-                "title": "消息称英伟达拟向电力基础设施开发商 Lancium 投资至多 30 亿美元",
+                "title": "华为 5G 海外回归：科威特花粉在发布会现场展示自己十年藏品，含华为首款 5G 手机",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-08",
-                "url": "https://www.ithome.com/0/987/266.htm"
+                "url": "https://www.ithome.com/0/987/417.htm"
+            },
+            {
+                "title": "景林资产二季度大举清仓美股科技巨头，转投半导体上游设备与算力基建",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-08",
+                "url": "https://36kr.com/newsflashes/3930567571668096?f=rss"
+            },
+            {
+                "title": "日媒：中国企业高校研发总投入超美国，居世界第一",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-08",
+                "url": "https://36kr.com/newsflashes/3930550547692933?f=rss"
+            },
+            {
+                "title": "3.2 万元索尼 FX5 电影摄影机首批交付：支持 Open Gate 录制功能，8.5 级防抖 + 240 高帧",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-08",
+                "url": "https://www.ithome.com/0/987/338.htm"
             }
         ],
         "mil": [
+            {
+                "title": "苹果终于把千问接进Siri 中国版Apple Intelligence来了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572310.htm"
+            },
             {
                 "title": "乌克兰无人机密集袭击俄电商巨头 供应链重创引发经济连锁反应",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,49 +74,61 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1572260.htm"
             },
             {
-                "title": "9点1氪｜宇树科技中签率不足长鑫十五分之一；东航宣布提前14天可免费退改票；雪佛兰将停止在华销售",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-08",
-                "url": "https://36kr.com/p/3930156837518471?f=rss"
-            },
-            {
-                "title": "【双语】日本“再军事化”妄动是地区和平稳定的真正威胁 - mod.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tVFVUQWtqVUF3NTV2V2hTNTRGSXUxXzdyN1FxUVBwOEwwRjRvemd1a25IeTg5Z2owWXEzZDJweHJ4N3BUY1daVm5UaHlxRGZibGw3X3k2clQ?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - mod.gov.cn",
+                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aLW5UZGt6NnViVlk1Y1lveUhOdHFGc3kxSFVqQm5EaFl4SmpiZzQxTUV2UFJzVUJ0MzFoM0lTNmoxWUxiOWoyYzBkNTdadC1NWUluVWt1UzNTMGNCa3J1TjB0Q3ZPUQ?oc=5"
             },
             {
-                "title": "习近平总书记今年以来治国理政纪实丨扎扎实实以科技创新支撑和引领中国式现代化 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSlNVX2UtbHNpR2dJMG9xNF9GOXdCWm5DdlB6OEllWnc3QmdTeFBNd2RuQldMdjRXVDRfRW1QemwwTDhMdElRNXFXMThKazBhVFE?oc=5"
+                "title": "中部战区空军航空兵某团：淬炼“精神的刀锋” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-08",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdXZXaC1NMlptTVFZd2I5SXNYY2xTdkY4NF9oT2pVS0E5eElNYUY4Q0RnMXRvOGZqOEFCeVpDTzc0WmhGMllOZEJWSEY5ZUhOTHg3d29KMEQ?oc=5"
             },
             {
-                "title": "2026年8月上旬国防部例行新闻发布 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-07",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QbEdMSzdxS2MwNUxEblVBdktCQm5JcFlYYnl1R0RzWnpSQVZnVklZUXZrd1d6el9vc3NBZ05raVRIRFZuS3U0OTVR?oc=5"
+                "title": "强军论坛丨有感于做好“第一件事” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-08",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tUmFsUEZLNDNYSk9MWnRIZWMxaGNqUkR4c29Tdks5UmhDdnVfMUtTVXdZNkZVRkVNX2dYdzVIT3J6VXNqZG8weDQ2aUdQRnNoWG1ObmoxMFo?oc=5"
             },
             {
                 "title": "一见·三个关键词，读懂中国经济“半年答卷” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Nb1NtaFRXa2Z6Q0Vtcl9uX3FJZllNMVp5czhvY2xBSzkzMGdNYVR6eXNxRjVCYzI5MXdTY2VRNldHNXBramVEYVI0Q1BvcF90Unc?oc=5"
+            },
+            {
+                "title": "答卷•盛世华章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-22",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
+            },
+            {
+                "title": "学习新语｜以党的政治建设为统领加强党的各方面建设 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBibEZpeHBwZ091Rng4cGt5RUVLU2JkMnMySlc1VzR5S294bXpQdmo0dXB6ci1uckxrbGhVRzA2NTdlWkVOSkF2VlNCazgzYlpmalE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "双倍遗传：我国科学家破解甘蔗“母本恢复”百年育种谜题",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-08",
+                "url": "https://www.ithome.com/0/987/423.htm"
+            },
+            {
+                "title": "福特：美国不可能永远把中国车企挡在门外 但来也给打回去",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572304.htm"
+            },
+            {
+                "title": "彭博专栏：中国透过资讯战企图削弱台湾民主与韧性",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-08",
+                "url": "https://www.secretchina.com/news/gb/2026/08/08/1103152.html"
+            },
             {
                 "title": "乌克兰无人机密集袭击俄电商巨头 供应链重创引发经济连锁反应",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -124,61 +142,43 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1572288.htm"
             },
             {
-                "title": "美国AI监管之争加剧 特朗普：国会想把AI公司监管到倒闭",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572282.htm"
-            },
-            {
-                "title": "消息称SK海力士评估30亿美元重庆资产 或出售股份",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572278.htm"
-            },
-            {
-                "title": "蔡司展示最新航空全息技术 重塑未来飞行显示体验",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572266.htm"
-            },
-            {
-                "title": "【双语】日本“再军事化”妄动是地区和平稳定的真正威胁 - mod.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-07",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tVFVUQWtqVUF3NTV2V2hTNTRGSXUxXzdyN1FxUVBwOEwwRjRvemd1a25IeTg5Z2owWXEzZDJweHJ4N3BUY1daVm5UaHlxRGZibGw3X3k2clQ?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - mod.gov.cn",
+                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aLW5UZGt6NnViVlk1Y1lveUhOdHFGc3kxSFVqQm5EaFl4SmpiZzQxTUV2UFJzVUJ0MzFoM0lTNmoxWUxiOWoyYzBkNTdadC1NWUluVWt1UzNTMGNCa3J1TjB0Q3ZPUQ?oc=5"
             },
             {
-                "title": "习近平总书记今年以来治国理政纪实丨扎扎实实以科技创新支撑和引领中国式现代化 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSlNVX2UtbHNpR2dJMG9xNF9GOXdCWm5DdlB6OEllWnc3QmdTeFBNd2RuQldMdjRXVDRfRW1QemwwTDhMdElRNXFXMThKazBhVFE?oc=5"
+                "title": "中部战区空军航空兵某团：淬炼“精神的刀锋” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-08",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdXZXaC1NMlptTVFZd2I5SXNYY2xTdkY4NF9oT2pVS0E5eElNYUY4Q0RnMXRvOGZqOEFCeVpDTzc0WmhGMllOZEJWSEY5ZUhOTHg3d29KMEQ?oc=5"
             },
             {
-                "title": "2026年8月上旬国防部例行新闻发布 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-07",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QbEdMSzdxS2MwNUxEblVBdktCQm5JcFlYYnl1R0RzWnpSQVZnVklZUXZrd1d6el9vc3NBZ05raVRIRFZuS3U0OTVR?oc=5"
+                "title": "强军论坛丨有感于做好“第一件事” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-08",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tUmFsUEZLNDNYSk9MWnRIZWMxaGNqUkR4c29Tdks5UmhDdnVfMUtTVXdZNkZVRkVNX2dYdzVIT3J6VXNqZG8weDQ2aUdQRnNoWG1ObmoxMFo?oc=5"
             },
             {
                 "title": "一见·三个关键词，读懂中国经济“半年答卷” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Nb1NtaFRXa2Z6Q0Vtcl9uX3FJZllNMVp5czhvY2xBSzkzMGdNYVR6eXNxRjVCYzI5MXdTY2VRNldHNXBramVEYVI0Q1BvcF90Unc?oc=5"
+            },
+            {
+                "title": "答卷•盛世华章 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-07-22",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
+            },
+            {
+                "title": "学习新语｜以党的政治建设为统领加强党的各方面建设 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBibEZpeHBwZ091Rng4cGt5RUVLU2JkMnMySlc1VzR5S294bXpQdmo0dXB6ci1uckxrbGhVRzA2NTdlWkVOSkF2VlNCazgzYlpmalE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-09T06:50:34.148782+00:00"
+    "last_updated": "2026-08-09T12:41:54.878219+00:00"
 }
