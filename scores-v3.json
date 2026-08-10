@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相",
+                "title": "传音控股：赴港上市获中国证监会备案，拟发行不超过 1.32 亿股",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-09",
-                "url": "https://www.ithome.com/0/987/485.htm"
+                "url": "https://www.ithome.com/0/987/541.htm"
             },
             {
-                "title": "硬氪首发 | 获李泽湘三轮押注，浙大博士做出全球首款视觉售后技术客服机器人",
+                "title": "马斯克：SpaceX 将在月球建造工厂，一定会实现",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-09",
+                "url": "https://www.ithome.com/0/987/534.htm"
+            },
+            {
+                "title": "最前线|中科慧思发布三款灵巧手产品，要从“抓取”走向真实场景作业",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-09",
-                "url": "https://36kr.com/p/3931000539692164?f=rss"
+                "url": "https://36kr.com/p/3931010805579139?f=rss"
             },
             {
-                "title": "苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-08",
-                "url": "http://www.geekpark.net/news/368577"
-            },
-            {
-                "title": "IT早报 0809：研究称今年内存价格涨回 2007 年水平；享界 G9 炮弹坑测试多角度实拍流出；雷军重申小米澎程 3 年半前立项；苹果支持文档显示 Mac 可接入千问...",
+                "title": "国家统计局：人工智能推动消费电子产品迭代升级，平板电脑、计算机和移动电话机价格分别上涨 11.3%、5.5% 和 1.0%",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-08",
-                "url": "https://www.ithome.com/0/987/472.htm"
+                "date": "2026-08-09",
+                "url": "https://www.ithome.com/0/987/497.htm"
             },
             {
-                "title": "为什么消费偏弱是阶段性现象？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-08",
-                "url": "https://www.ftchinese.com/story/001110545"
+                "title": "Anthropic创始人的“抽象”B面：拍墓碑广告、研究AI末日、对赚钱毫无兴趣",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572348.htm"
             }
         ],
         "mil": [
             {
+                "title": "OpenAI用1年时间证明 你并不用为AI换浏览器",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572378.htm"
+            },
+            {
+                "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-09",
+                "url": "http://www.geekpark.net/news/368579"
+            },
+            {
+                "title": "Anthropic创始人的“抽象”B面：拍墓碑广告、研究AI末日、对赚钱毫无兴趣",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572348.htm"
+            },
+            {
                 "title": "苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-08",
@@ -56,129 +74,111 @@
                 "url": "https://www.ithome.com/0/987/472.htm"
             },
             {
-                "title": "美台军事合作走向公开：台湾真正担心的是什么？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-08",
-                "url": "https://www.secretchina.com/news/gb/2026/08/09/1103176.html"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "量化交易活跃是A股低迷的主因吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-08",
-                "url": "https://www.ftchinese.com/story/001110496"
-            },
-            {
-                "title": "亚马逊诉Perplexity案“逆转”的，并非双重授权原则",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-08",
-                "url": "https://www.ftchinese.com/story/001110561"
-            },
-            {
-                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - mod.gov.cn",
+                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aLW5UZGt6NnViVlk1Y1lveUhOdHFGc3kxSFVqQm5EaFl4SmpiZzQxTUV2UFJzVUJ0MzFoM0lTNmoxWUxiOWoyYzBkNTdadC1NWUluVWt1UzNTMGNCa3J1TjB0Q3ZPUQ?oc=5"
             },
             {
-                "title": "中部战区空军航空兵某团：淬炼“精神的刀锋” - mod.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-08",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdXZXaC1NMlptTVFZd2I5SXNYY2xTdkY4NF9oT2pVS0E5eElNYUY4Q0RnMXRvOGZqOEFCeVpDTzc0WmhGMllOZEJWSEY5ZUhOTHg3d29KMEQ?oc=5"
-            },
-            {
-                "title": "在开放创新合作中促进共同繁荣——写在亚太经合组织第三十三次领导人非正式会议倒计时100天之际 - mod.gov.cn",
+                "title": "最美新时代革命军人风采丨军事科学院研究员常超：勇闯科研“无人区” - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2RWNlVWlEOU5BR25jLVlseHR6ZlBDb1JhMjhrUzdXOS1kR0V5MGI1RXNSUmN4a2NpYnNiQ0VQeTEtOFlvRkVaQk9tT1N5RWJTWWpGOWVUZ2ZsNmpja1lhb0NmU1lfUQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xTW5Lc1VLa2l2M1Q2RTVIRy1qYU5UbG4zeXBKMEV2RU13U2RqZ21iRWlrVTJ0cjNURUdRVzF2Ni12MndFUV9yY1B6ampHbWxKUTRZMGd1UkxqZ3VWdk92eGlSbURFSTA?oc=5"
+            },
+            {
+                "title": "胜利的回信：如果有一天，组织只给三发炮弹 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lZWs4Rk5iTG1GNGVoMUJkN01EQk5vN3hEOGYyQkZEMWstRGhGVDlEZ3kyYnFLOFI0Q3BwVnNjODB6N0xLTHBQSjExeEktblVjWlE?oc=5"
             },
             {
                 "title": "强军论坛丨以新的理论指导新的实践 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TYnNrZVZ5UjFpVThDTWJjS1RBWlB1NlNMeHlRLXBLYTBqOUlfaFFidjNzTzNLTU5HSDZkNmhvTGFtQTZoSzAzbUdmNmZJYnRJdnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYV1Z2T2ZpdnBFZGxYV1Y1UTFNcVdrb2R0R191RTBpVk1BYjktYXdoUUhnTGRMLTRqYTlnVWszckJUOWIzaGlyT1hnenZ4YUpEWlE?oc=5"
             },
             {
                 "title": "一见·三个关键词，读懂中国经济“半年答卷” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Nb1NtaFRXa2Z6Q0Vtcl9uX3FJZllNMVp5czhvY2xBSzkzMGdNYVR6eXNxRjVCYzI5MXdTY2VRNldHNXBramVEYVI0Q1BvcF90Unc?oc=5"
-            },
-            {
-                "title": "答卷•盛世华章 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-22",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "硬氪首发 | 获李泽湘三轮押注，浙大博士做出全球首款视觉售后技术客服机器人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-09",
-                "url": "https://36kr.com/p/3931000539692164?f=rss"
-            },
-            {
-                "title": "苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-08",
-                "url": "http://www.geekpark.net/news/368577"
-            },
-            {
-                "title": "美台军事合作走向公开：台湾真正担心的是什么？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-08",
-                "url": "https://www.secretchina.com/news/gb/2026/08/09/1103176.html"
-            },
-            {
-                "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+                "title": "特斯拉施压，欧洲监管机构对 FSD 安全测评数据保密",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-08",
-                "url": "https://www.ithome.com/0/987/465.htm"
+                "date": "2026-08-09",
+                "url": "https://www.ithome.com/0/987/545.htm"
             },
             {
-                "title": "乌干达拒台湾护照入境 外交部:恐与一措施有关(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-08",
-                "url": "https://www.secretchina.com/news/gb/2026/08/09/1103163.html"
+                "title": "OpenAI用1年时间证明 你并不用为AI换浏览器",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572378.htm"
             },
             {
-                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - mod.gov.cn",
+                "title": "传音控股：赴港上市获中国证监会备案，拟发行不超过 1.32 亿股",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-09",
+                "url": "https://www.ithome.com/0/987/541.htm"
+            },
+            {
+                "title": "2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-09",
+                "url": "https://www.ithome.com/0/987/537.htm"
+            },
+            {
+                "title": "星舰第 13 次试飞上面级溅落后保持完整，但马斯克称回收情况不乐观",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-09",
+                "url": "https://www.ithome.com/0/987/536.htm"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "以强烈的使命担当勇担复兴重任——习近平党建思想理论品格系列述评之四 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aLW5UZGt6NnViVlk1Y1lveUhOdHFGc3kxSFVqQm5EaFl4SmpiZzQxTUV2UFJzVUJ0MzFoM0lTNmoxWUxiOWoyYzBkNTdadC1NWUluVWt1UzNTMGNCa3J1TjB0Q3ZPUQ?oc=5"
             },
             {
-                "title": "中部战区空军航空兵某团：淬炼“精神的刀锋” - mod.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-08",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdXZXaC1NMlptTVFZd2I5SXNYY2xTdkY4NF9oT2pVS0E5eElNYUY4Q0RnMXRvOGZqOEFCeVpDTzc0WmhGMllOZEJWSEY5ZUhOTHg3d29KMEQ?oc=5"
-            },
-            {
-                "title": "在开放创新合作中促进共同繁荣——写在亚太经合组织第三十三次领导人非正式会议倒计时100天之际 - mod.gov.cn",
+                "title": "最美新时代革命军人风采丨军事科学院研究员常超：勇闯科研“无人区” - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2RWNlVWlEOU5BR25jLVlseHR6ZlBDb1JhMjhrUzdXOS1kR0V5MGI1RXNSUmN4a2NpYnNiQ0VQeTEtOFlvRkVaQk9tT1N5RWJTWWpGOWVUZ2ZsNmpja1lhb0NmU1lfUQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xTW5Lc1VLa2l2M1Q2RTVIRy1qYU5UbG4zeXBKMEV2RU13U2RqZ21iRWlrVTJ0cjNURUdRVzF2Ni12MndFUV9yY1B6ampHbWxKUTRZMGd1UkxqZ3VWdk92eGlSbURFSTA?oc=5"
+            },
+            {
+                "title": "胜利的回信：如果有一天，组织只给三发炮弹 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lZWs4Rk5iTG1GNGVoMUJkN01EQk5vN3hEOGYyQkZEMWstRGhGVDlEZ3kyYnFLOFI0Q3BwVnNjODB6N0xLTHBQSjExeEktblVjWlE?oc=5"
             },
             {
                 "title": "强军论坛丨以新的理论指导新的实践 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TYnNrZVZ5UjFpVThDTWJjS1RBWlB1NlNMeHlRLXBLYTBqOUlfaFFidjNzTzNLTU5HSDZkNmhvTGFtQTZoSzAzbUdmNmZJYnRJdnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYV1Z2T2ZpdnBFZGxYV1Y1UTFNcVdrb2R0R191RTBpVk1BYjktYXdoUUhnTGRMLTRqYTlnVWszckJUOWIzaGlyT1hnenZ4YUpEWlE?oc=5"
             },
             {
                 "title": "一见·三个关键词，读懂中国经济“半年答卷” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Nb1NtaFRXa2Z6Q0Vtcl9uX3FJZllNMVp5czhvY2xBSzkzMGdNYVR6eXNxRjVCYzI5MXdTY2VRNldHNXBramVEYVI0Q1BvcF90Unc?oc=5"
-            },
-            {
-                "title": "答卷•盛世华章 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-07-22",
-                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYWRORElwckoxTE13R2NXQ3pjWEw3YU1PNU9VaWROVnJVTUI1NE02SGNFYWU3Nnh3U01venIwc2FIR3ByNEFaVi1oODFsN3N2elV1RVZhR3VobFU0azk5eVk4LXQybWcyUzJFbGY4LUEydUZoenhBN21KUW4?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-10T01:25:10.864933+00:00"
+    "last_updated": "2026-08-10T07:25:02.020815+00:00"
 }
