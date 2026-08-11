@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "产能短缺与技术劣势笼罩 长鑫存储与苹果的内存合作或难掀风浪",
+                "title": "干预日元汇率：美国长期的考量与短暂的效果",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-10",
+                "url": "https://www.ftchinese.com/story/001110543"
+            },
+            {
+                "title": "日元保卫战：美日联合干预背后的三重困境",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-10",
+                "url": "https://www.ftchinese.com/story/001110562"
+            },
+            {
+                "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-10",
+                "url": "https://www.ithome.com/0/988/048.htm"
+            },
+            {
+                "title": "Terafab工厂预计建筑面积超1亿平方英尺 全球最大单体建筑",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572552.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572564.htm"
             },
             {
-                "title": "LG Display拟为苹果OLED版iMac研制五层发光面板 采用三层蓝光设计抵御烧屏",
+                "title": "知情人士：微软计划明年大幅增产下一代AI芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572550.htm"
-            },
-            {
-                "title": "近40亿元融资背后：资本为何看好帕西尼",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-10",
-                "url": "https://36kr.com/p/3933515490884744?f=rss"
-            },
-            {
-                "title": "常识和洞见｜首富也反对市场经济，中国的市场经济太难了",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-08-10",
-                "url": "https://chinadigitaltimes.net/chinese/730374.html"
-            },
-            {
-                "title": "WISE2026 商业之王系列年度名册调研重磅启动",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-10",
-                "url": "https://36kr.com/p/3933570306227592?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572562.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美联邦法官叫停战争部将药明康德列为中国军事公司的决定",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-10",
+                "url": "https://www.voachinese.com/a/federal-judge-blocks-pentagon-s-designation-of-wuxi-apptec-as-chinese-military-company-20260810/8184749.html"
+            },
+            {
+                "title": "消息称苹果 Apple Pay 下月进入印度市场，初期支持 Visa、万事达卡",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-10",
+                "url": "https://www.ithome.com/0/988/049.htm"
+            },
+            {
+                "title": "波音转让旗下三家空中出租车初创公司 并入股Archer Aviation",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572560.htm"
+            },
             {
                 "title": "语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了",
                 "source": "NewsAPI / Geekpark.net",
@@ -56,34 +74,10 @@
                 "url": "https://36kr.com/p/3933464098520456?f=rss"
             },
             {
-                "title": "美国本土直播带货，长出一头 200 亿美元「巨兽」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-10",
-                "url": "http://www.geekpark.net/news/368627"
-            },
-            {
-                "title": "加籍华裔女涉北约间谍案 公子沈：害群之马(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-10",
-                "url": "https://www.secretchina.com/news/gb/2026/08/10/1103232.html"
-            },
-            {
-                "title": "强化反舰作战能力 雄风飞弹车首度部署台湾澎湖(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-10",
-                "url": "https://www.secretchina.com/news/gb/2026/08/10/1103231.html"
-            },
-            {
                 "title": "最美新时代革命军人风采丨军事科学院研究员常超：勇闯科研“无人区” - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-09",
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xTW5Lc1VLa2l2M1Q2RTVIRy1qYU5UbG4zeXBKMEV2RU13U2RqZ21iRWlrVTJ0cjNURUdRVzF2Ni12MndFUV9yY1B6ampHbWxKUTRZMGd1UkxqZ3VWdk92eGlSbURFSTA?oc=5"
-            },
-            {
-                "title": "在开放创新合作中促进共同繁荣——写在亚太经合组织第三十三次领导人非正式会议倒计时100天之际 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2RWNlVWlEOU5BR25jLVlseHR6ZlBDb1JhMjhrUzdXOS1kR0V5MGI1RXNSUmN4a2NpYnNiQ0VQeTEtOFlvRkVaQk9tT1N5RWJTWWpGOWVUZ2ZsNmpja1lhb0NmU1lfUQ?oc=5"
             },
             {
                 "title": "中国印尼海军舰艇将位台岛以东海域开展通航演练 - 中华人民共和国国防部",
@@ -92,7 +86,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WSXNnY0dmckpfSUJPZEtFMXU3N2M0YXJ5N2k5dTRWejRDeEU2R0Jzajgtc2dpSERpZjJSY0V6WVRGRXlfcGdRbmttbkJ3c1pDQU4zNDh6OVI?oc=5"
             },
             {
-                "title": "向战务实、矢志打赢的冲锋者—李灿 - 中国军网",
+                "title": "搜索结果页面 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-11",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczlTY25ITGpvRGYwdFR1eGtRTWdydnlHQlY3N1ZkRGxkS0s2WXp2VnNTNkJfYVJqSi1UY2FzbmlRUUY4M2VwOHYtTmMxM21VbENwb2lJbTgwZzh0R2VfYmdhZzZWajhmWlhyaWsyd0VfUVRVTWZWQU5GS0xWSUY1UXB4OU1LTGlTY3I5WGwxNXoxM0RzcExuV1pvRS0wNzZya1NhS1hqdVpOV3Z3b3pycmtQcHdndw?oc=5"
+            },
+            {
+                "title": "向战务实、矢志打赢的冲锋者——李灿 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRW1tazdzLW03SmI4cUtmUWhIcWx2VXdRTkVOQ0ZRdHdveE5aQWF6LTJTVFhoTmNIVHJxdXVKMzYwY2FkZWlENkJRRVJmQkJrU3c?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "干预日元汇率：美国长期的考量与短暂的效果",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-10",
-                "url": "http://www.geekpark.net/news/368638"
+                "url": "https://www.ftchinese.com/story/001110543"
             },
             {
-                "title": "产能短缺与技术劣势笼罩 长鑫存储与苹果的内存合作或难掀风浪",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "日元保卫战：美日联合干预背后的三重困境",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572552.htm"
+                "url": "https://www.ftchinese.com/story/001110562"
             },
             {
-                "title": "LG Display拟为苹果OLED版iMac研制五层发光面板 采用三层蓝光设计抵御烧屏",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "消息称苹果 Apple Pay 下月进入印度市场，初期支持 Visa、万事达卡",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572550.htm"
+                "url": "https://www.ithome.com/0/988/049.htm"
             },
             {
-                "title": "极兔速递被立案调查后罚款7万 6年狂飙终于按下刹车键？",
+                "title": "知情人士：微软计划明年大幅增产下一代AI芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572548.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572562.htm"
             },
             {
-                "title": "全球海洋温度7月再创新高 极端天气频发凸显气候变化加剧",
+                "title": "加州一城市因遭遇网络攻击决定切断全城网络并宣布进入紧急状态",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572544.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572558.htm"
             },
             {
                 "title": "最美新时代革命军人风采丨军事科学院研究员常超：勇闯科研“无人区” - 中华人民共和国国防部",
@@ -148,19 +148,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xTW5Lc1VLa2l2M1Q2RTVIRy1qYU5UbG4zeXBKMEV2RU13U2RqZ21iRWlrVTJ0cjNURUdRVzF2Ni12MndFUV9yY1B6ampHbWxKUTRZMGd1UkxqZ3VWdk92eGlSbURFSTA?oc=5"
             },
             {
-                "title": "在开放创新合作中促进共同繁荣——写在亚太经合组织第三十三次领导人非正式会议倒计时100天之际 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2RWNlVWlEOU5BR25jLVlseHR6ZlBDb1JhMjhrUzdXOS1kR0V5MGI1RXNSUmN4a2NpYnNiQ0VQeTEtOFlvRkVaQk9tT1N5RWJTWWpGOWVUZ2ZsNmpja1lhb0NmU1lfUQ?oc=5"
-            },
-            {
                 "title": "中国印尼海军舰艇将位台岛以东海域开展通航演练 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-11",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WSXNnY0dmckpfSUJPZEtFMXU3N2M0YXJ5N2k5dTRWejRDeEU2R0Jzajgtc2dpSERpZjJSY0V6WVRGRXlfcGdRbmttbkJ3c1pDQU4zNDh6OVI?oc=5"
             },
             {
-                "title": "向战务实、矢志打赢的冲锋者—李灿 - 中国军网",
+                "title": "搜索结果页面 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-11",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczlTY25ITGpvRGYwdFR1eGtRTWdydnlHQlY3N1ZkRGxkS0s2WXp2VnNTNkJfYVJqSi1UY2FzbmlRUUY4M2VwOHYtTmMxM21VbENwb2lJbTgwZzh0R2VfYmdhZzZWajhmWlhyaWsyd0VfUVRVTWZWQU5GS0xWSUY1UXB4OU1LTGlTY3I5WGwxNXoxM0RzcExuV1pvRS0wNzZya1NhS1hqdVpOV3Z3b3pycmtQcHdndw?oc=5"
+            },
+            {
+                "title": "向战务实、矢志打赢的冲锋者——李灿 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRW1tazdzLW03SmI4cUtmUWhIcWx2VXdRTkVOQ0ZRdHdveE5aQWF6LTJTVFhoTmNIVHJxdXVKMzYwY2FkZWlENkJRRVJmQkJrU3c?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-11T12:55:20.322179+00:00"
+    "last_updated": "2026-08-11T18:57:15.275098+00:00"
 }
