@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "干预日元汇率：美国长期的考量与短暂的效果",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-10",
-                "url": "https://www.ftchinese.com/story/001110543"
-            },
-            {
-                "title": "日元保卫战：美日联合干预背后的三重困境",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-10",
-                "url": "https://www.ftchinese.com/story/001110562"
-            },
-            {
-                "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
+                "title": "三星面临芯片专利诉讼，涉及 Galaxy S10 至 S26 系列手机",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-10",
-                "url": "https://www.ithome.com/0/988/048.htm"
+                "date": "2026-08-11",
+                "url": "https://www.ithome.com/0/988/119.htm"
             },
             {
-                "title": "Terafab工厂预计建筑面积超1亿平方英尺 全球最大单体建筑",
+                "title": "外媒揭秘台积电罕见联手索尼：中国厂商已在一领域反超",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572564.htm"
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572640.htm"
             },
             {
-                "title": "知情人士：微软计划明年大幅增产下一代AI芯片",
+                "title": "被指“背刺”消费者，9.9元牙刷头“难倒”徕芬？",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572562.htm"
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572636.htm"
+            },
+            {
+                "title": "马斯克的新挑战：给光刻机“换束光”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572630.htm"
+            },
+            {
+                "title": "千亿IPO：山顶上的宇树 ｜ 深氪",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-11",
+                "url": "https://36kr.com/p/3933488511270017?f=rss"
             }
         ],
         "mil": [
             {
-                "title": "美联邦法官叫停战争部将药明康德列为中国军事公司的决定",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-10",
-                "url": "https://www.voachinese.com/a/federal-judge-blocks-pentagon-s-designation-of-wuxi-apptec-as-chinese-military-company-20260810/8184749.html"
+                "title": "低价流量卡之死：年轻人的上网自由，没了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572642.htm"
             },
             {
-                "title": "消息称苹果 Apple Pay 下月进入印度市场，初期支持 Visa、万事达卡",
+                "title": "千亿IPO：山顶上的宇树 ｜ 深氪",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-11",
+                "url": "https://36kr.com/p/3933488511270017?f=rss"
+            },
+            {
+                "title": "千问 App 推出付费服务，办公助理最高一年 1499 元；豆包酒店订单开收 12% 服务费；拼多多上线「最快明日达」｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-11",
+                "url": "http://www.geekpark.net/news/368640"
+            },
+            {
+                "title": "8点1氪丨宇树科技最终中签率公布：0.01809759%；费大厨撤下“全国小炒肉大王”称号；官方回应“豆包上线酒店订单抽佣机制”",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-11",
+                "url": "https://36kr.com/p/3934369453522313?f=rss"
+            },
+            {
+                "title": "IT早报 0811：小红书再陷期权争议；阿维塔回应“与华为合作不是必要项”言论系误读；大疆错失宇树数十亿市值引热议；曝 iPhone 18 Pro 成本大增近 40%...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-10",
-                "url": "https://www.ithome.com/0/988/049.htm"
-            },
-            {
-                "title": "波音转让旗下三家空中出租车初创公司 并入股Archer Aviation",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572560.htm"
-            },
-            {
-                "title": "语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-10",
-                "url": "http://www.geekpark.net/news/368638"
-            },
-            {
-                "title": "最前线｜不只是机器人比赛，RoboMaster正在成为工程师训练场",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-10",
-                "url": "https://36kr.com/p/3933464098520456?f=rss"
-            },
-            {
-                "title": "最美新时代革命军人风采丨军事科学院研究员常超：勇闯科研“无人区” - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xTW5Lc1VLa2l2M1Q2RTVIRy1qYU5UbG4zeXBKMEV2RU13U2RqZ21iRWlrVTJ0cjNURUdRVzF2Ni12MndFUV9yY1B6ampHbWxKUTRZMGd1UkxqZ3VWdk92eGlSbURFSTA?oc=5"
+                "url": "https://www.ithome.com/0/988/084.htm"
             },
             {
                 "title": "中国印尼海军舰艇将位台岛以东海域开展通航演练 - 中华人民共和国国防部",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczlTY25ITGpvRGYwdFR1eGtRTWdydnlHQlY3N1ZkRGxkS0s2WXp2VnNTNkJfYVJqSi1UY2FzbmlRUUY4M2VwOHYtTmMxM21VbENwb2lJbTgwZzh0R2VfYmdhZzZWajhmWlhyaWsyd0VfUVRVTWZWQU5GS0xWSUY1UXB4OU1LTGlTY3I5WGwxNXoxM0RzcExuV1pvRS0wNzZya1NhS1hqdVpOV3Z3b3pycmtQcHdndw?oc=5"
             },
             {
+                "title": "空军某部组织飞行训练 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-12",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sVEpNQ2l2LXhCOGVUd0xfcWxOc3lSZkZSdENjdWJZVFNIX0FyalN0a0pMNVFNTGhObkJFQW80Q2xMWVQxeVhjczhDR3ZUbHlLenJ6QWkxZ0pDa3U5Q1R0VVlvMA?oc=5"
+            },
+            {
                 "title": "向战务实、矢志打赢的冲锋者——李灿 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRW1tazdzLW03SmI4cUtmUWhIcWx2VXdRTkVOQ0ZRdHdveE5aQWF6LTJTVFhoTmNIVHJxdXVKMzYwY2FkZWlENkJRRVJmQkJrU3c?oc=5"
             },
             {
-                "title": "胜利的回信：如果有一天，组织只给三发炮弹 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lZWs4Rk5iTG1GNGVoMUJkN01EQk5vN3hEOGYyQkZEMWstRGhGVDlEZ3kyYnFLOFI0Q3BwVnNjODB6N0xLTHBQSjExeEktblVjWlE?oc=5"
-            },
-            {
                 "title": "习近平主席就哥伦比亚强震向哥伦比亚总统致慰问电 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeGVDRThDNEhsNVBxeEFZaGRmY2VjNk5ORmdsc01hRGw4bFVkR1VpWEE1ZWFobnlRYjZ2T1JCdnVRQ2VZbEVpN0VYeGQ3b2JRNEE?oc=5"
+            },
+            {
+                "title": "记者蹲点手记｜站岗时，哨兵在想什么 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-10",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05b1UxeGVOcUU5dTVDTWFhLXhjbzNHWkxIQTZ5bl91YWU0YURrRnFlalU1RU5qcWNSR1RfT2E1T05iVnZVN3o5YXhzcl9BMWRzOXNtd21HTlZSQUpMQkR2WA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "干预日元汇率：美国长期的考量与短暂的效果",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-10",
-                "url": "https://www.ftchinese.com/story/001110543"
-            },
-            {
-                "title": "日元保卫战：美日联合干预背后的三重困境",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-10",
-                "url": "https://www.ftchinese.com/story/001110562"
-            },
-            {
-                "title": "消息称苹果 Apple Pay 下月进入印度市场，初期支持 Visa、万事达卡",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-10",
-                "url": "https://www.ithome.com/0/988/049.htm"
-            },
-            {
-                "title": "知情人士：微软计划明年大幅增产下一代AI芯片",
+                "title": "低价流量卡之死：年轻人的上网自由，没了",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572562.htm"
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572642.htm"
             },
             {
-                "title": "加州一城市因遭遇网络攻击决定切断全城网络并宣布进入紧急状态",
+                "title": "弗州长州长杨金成立保守派政策团体",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-11",
+                "url": "https://www.secretchina.com/news/gb/2026/08/11/1103280.html"
+            },
+            {
+                "title": "被指“背刺”消费者，9.9元牙刷头“难倒”徕芬？",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572558.htm"
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572636.htm"
             },
             {
-                "title": "最美新时代革命军人风采丨军事科学院研究员常超：勇闯科研“无人区” - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xTW5Lc1VLa2l2M1Q2RTVIRy1qYU5UbG4zeXBKMEV2RU13U2RqZ21iRWlrVTJ0cjNURUdRVzF2Ni12MndFUV9yY1B6ampHbWxKUTRZMGd1UkxqZ3VWdk92eGlSbURFSTA?oc=5"
+                "title": "扎克伯格发表6500字AI宣言 美媒：这正是人们不喜欢AI的原因",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572632.htm"
+            },
+            {
+                "title": "美上诉法院驳回科技巨头抗辩 针对社交媒体成瘾的数千起诉讼将继续推进",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572628.htm"
             },
             {
                 "title": "中国印尼海军舰艇将位台岛以东海域开展通航演练 - 中华人民共和国国防部",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczlTY25ITGpvRGYwdFR1eGtRTWdydnlHQlY3N1ZkRGxkS0s2WXp2VnNTNkJfYVJqSi1UY2FzbmlRUUY4M2VwOHYtTmMxM21VbENwb2lJbTgwZzh0R2VfYmdhZzZWajhmWlhyaWsyd0VfUVRVTWZWQU5GS0xWSUY1UXB4OU1LTGlTY3I5WGwxNXoxM0RzcExuV1pvRS0wNzZya1NhS1hqdVpOV3Z3b3pycmtQcHdndw?oc=5"
             },
             {
+                "title": "空军某部组织飞行训练 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-12",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sVEpNQ2l2LXhCOGVUd0xfcWxOc3lSZkZSdENjdWJZVFNIX0FyalN0a0pMNVFNTGhObkJFQW80Q2xMWVQxeVhjczhDR3ZUbHlLenJ6QWkxZ0pDa3U5Q1R0VVlvMA?oc=5"
+            },
+            {
                 "title": "向战务实、矢志打赢的冲锋者——李灿 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRW1tazdzLW03SmI4cUtmUWhIcWx2VXdRTkVOQ0ZRdHdveE5aQWF6LTJTVFhoTmNIVHJxdXVKMzYwY2FkZWlENkJRRVJmQkJrU3c?oc=5"
             },
             {
-                "title": "胜利的回信：如果有一天，组织只给三发炮弹 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lZWs4Rk5iTG1GNGVoMUJkN01EQk5vN3hEOGYyQkZEMWstRGhGVDlEZ3kyYnFLOFI0Q3BwVnNjODB6N0xLTHBQSjExeEktblVjWlE?oc=5"
-            },
-            {
                 "title": "习近平主席就哥伦比亚强震向哥伦比亚总统致慰问电 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeGVDRThDNEhsNVBxeEFZaGRmY2VjNk5ORmdsc01hRGw4bFVkR1VpWEE1ZWFobnlRYjZ2T1JCdnVRQ2VZbEVpN0VYeGQ3b2JRNEE?oc=5"
+            },
+            {
+                "title": "记者蹲点手记｜站岗时，哨兵在想什么 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-10",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05b1UxeGVOcUU5dTVDTWFhLXhjbzNHWkxIQTZ5bl91YWU0YURrRnFlalU1RU5qcWNSR1RfT2E1T05iVnZVN3o5YXhzcl9BMWRzOXNtd21HTlZSQUpMQkR2WA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-11T18:57:15.275098+00:00"
+    "last_updated": "2026-08-12T01:40:13.279324+00:00"
 }
