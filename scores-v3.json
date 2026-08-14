@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "对标 Claude Code：DeepSeek Harness 公测，同步开放 NPM 插件生态",
-                "source": "NewsAPI / Ithome.com",
+                "title": "全球最知名电动汽车先驱马斯克 如今大力转向化石能源",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-13",
-                "url": "https://www.ithome.com/0/989/446.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573094.htm"
             },
             {
-                "title": "消息称保时捷计划最迟 2030 年前停产 Taycan",
-                "source": "NewsAPI / Ithome.com",
+                "title": "未来并非需要人类去发明，它已经像河流般编织在自然之中",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-13",
-                "url": "https://www.ithome.com/0/989/441.htm"
+                "url": "https://www.ftchinese.com/story/001110604"
             },
             {
-                "title": "小米米家智能电热水器 Pro 净垢双胆 80L 开售：功率 3300W，国补到手价 1954.15 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "算法之后的艺术生态：还有什么，可以被稳定判断？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-13",
-                "url": "https://www.ithome.com/0/989/426.htm"
+                "url": "https://www.ftchinese.com/story/001110596"
             },
             {
-                "title": "氪星晚报｜美国消费者就关税退税起诉丰田和索尼等日本公司；SpaceX AI：推出Grok 4.6；苹果聘请美国航空前高管出任政府事务负责人",
-                "source": "NewsAPI / 36kr.com",
+                "title": "加拿大拟贸易让步 换美国下调钢铝汽车关税(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-13",
-                "url": "https://36kr.com/p/3937699820715141?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/08/13/1103403.html"
             },
             {
-                "title": "张雪机车能合规进入欧盟成员国了，500RR 摩托车获颁欧盟整车型式认证证书",
-                "source": "NewsAPI / Ithome.com",
+                "title": "芯片算力热潮挤压存储组件 千元以下智能手机已难以生存",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-13",
-                "url": "https://www.ithome.com/0/989/424.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573088.htm"
             }
         ],
         "mil": [
+            {
+                "title": "未来并非需要人类去发明，它已经像河流般编织在自然之中",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-13",
+                "url": "https://www.ftchinese.com/story/001110604"
+            },
+            {
+                "title": "陈嫣冉：05后，来势凶猛",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-13",
+                "url": "https://www.ftchinese.com/story/001110605"
+            },
             {
                 "title": "氪星晚报｜美国消费者就关税退税起诉丰田和索尼等日本公司；SpaceX AI：推出Grok 4.6；苹果聘请美国航空前高管出任政府事务负责人",
                 "source": "NewsAPI / 36kr.com",
@@ -62,19 +74,7 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1573040.htm"
             },
             {
-                "title": "俄船队油轮加装粗犷防护网 抵御乌克兰无人机袭击",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573022.htm"
-            },
-            {
-                "title": "中共与印尼在台湾海域演练 美国务院警告“停止对台施压”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-13",
-                "url": "https://www.secretchina.com/news/gb/2026/08/13/1103385.html"
-            },
-            {
-                "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - mod.gov.cn",
+                "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEs3VXlKUjFnTjZWNTl4QU91QVJPLTNtU3hGZnhhRlZBZTA2TDM0MTI1Z2pyZldwRmlFaEsxUm8zbmdtUVdoZjNQdHJES3ZncVVHb1BXb1o?oc=5"
@@ -86,25 +86,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - mod.gov.cn",
+                "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbVpFcUtqZ3VPMEk4ZUMyMGU5eU5xWV9jZGt4Z182cTJKbEdXdEliR2toTzE1dFRYcGJSZXBFTVhjLUxvZUliTkc4U1ZCMmpic1BjYXZWQ3g?oc=5"
             },
             {
-                "title": "长城论坛丨“先让”与“先上” - 81.cn",
+                "title": "长城论坛丨“先让”与“先上” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZXpCZ2lhRC1YeW5wWldROVhuSFIzRnl3aXBnVEIyQXpoSmxGcEZJSFdnQUlaYlNEV1NSc1lKTWdjTHRxbVp5ZDdXNEZYalFtWHc?oc=5"
             },
             {
-                "title": "纪念中国工农红军长征胜利90周年丨血色湘江 存亡之渡 - 81.cn",
+                "title": "纪念中国工农红军长征胜利90周年丨血色湘江 存亡之渡 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-12",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sczFRTEdNTkV4Vk1IQ0JtbjN1b2t4eE9xeHpVTlNfQW5jZEd1ODJrMWRJY2IzeG1yanpQWG5PYlQ3M2lCeVlSRnpPaw?oc=5"
             },
             {
-                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 81.cn",
+                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lY2xIR05ZMFl1UUdDSlptcVQ5RlZ3RTJQNkFrM2swMElJQVVkLUFxMHROWUhvLUNFMFdpakFCTXlPWVN6cHc5cUpOQjR5SWhCa0E?oc=5"
@@ -112,37 +112,37 @@
         ],
         "pol": [
             {
-                "title": "对标 Claude Code：DeepSeek Harness 公测，同步开放 NPM 插件生态",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-13",
-                "url": "https://www.ithome.com/0/989/446.htm"
-            },
-            {
-                "title": "Meta 为 Quest 头显上线原生 Threads 应用，支持手部追踪操作",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-13",
-                "url": "https://www.ithome.com/0/989/427.htm"
-            },
-            {
-                "title": "氪星晚报｜美国消费者就关税退税起诉丰田和索尼等日本公司；SpaceX AI：推出Grok 4.6；苹果聘请美国航空前高管出任政府事务负责人",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-13",
-                "url": "https://36kr.com/p/3937699820715141?f=rss"
-            },
-            {
-                "title": "博主曝智驾小蓝灯整改方案：召回、取缔、拆除、取消",
+                "title": "全球最知名电动汽车先驱马斯克 如今大力转向化石能源",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573042.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573094.htm"
             },
             {
-                "title": "美团、京东外卖、淘宝闪购在京落地“红灯停表”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "曾说中哥伦比亚7.4强震 专家：下个恐轮到加州(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573034.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/14/1103407.html"
             },
             {
-                "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - mod.gov.cn",
+                "title": "未来并非需要人类去发明，它已经像河流般编织在自然之中",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-13",
+                "url": "https://www.ftchinese.com/story/001110604"
+            },
+            {
+                "title": "黑人教授辞职风波：剑桥大学“多元、平等与包容”政策受关注",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-13",
+                "url": "https://www.ftchinese.com/story/001110608"
+            },
+            {
+                "title": "陈嫣冉：05后，来势凶猛",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-13",
+                "url": "https://www.ftchinese.com/story/001110605"
+            },
+            {
+                "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEs3VXlKUjFnTjZWNTl4QU91QVJPLTNtU3hGZnhhRlZBZTA2TDM0MTI1Z2pyZldwRmlFaEsxUm8zbmdtUVdoZjNQdHJES3ZncVVHb1BXb1o?oc=5"
@@ -154,25 +154,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - mod.gov.cn",
+                "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbVpFcUtqZ3VPMEk4ZUMyMGU5eU5xWV9jZGt4Z182cTJKbEdXdEliR2toTzE1dFRYcGJSZXBFTVhjLUxvZUliTkc4U1ZCMmpic1BjYXZWQ3g?oc=5"
             },
             {
-                "title": "长城论坛丨“先让”与“先上” - 81.cn",
+                "title": "长城论坛丨“先让”与“先上” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZXpCZ2lhRC1YeW5wWldROVhuSFIzRnl3aXBnVEIyQXpoSmxGcEZJSFdnQUlaYlNEV1NSc1lKTWdjTHRxbVp5ZDdXNEZYalFtWHc?oc=5"
             },
             {
-                "title": "纪念中国工农红军长征胜利90周年丨血色湘江 存亡之渡 - 81.cn",
+                "title": "纪念中国工农红军长征胜利90周年丨血色湘江 存亡之渡 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-12",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sczFRTEdNTkV4Vk1IQ0JtbjN1b2t4eE9xeHpVTlNfQW5jZEd1ODJrMWRJY2IzeG1yanpQWG5PYlQ3M2lCeVlSRnpPaw?oc=5"
             },
             {
-                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 81.cn",
+                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lY2xIR05ZMFl1UUdDSlptcVQ5RlZ3RTJQNkFrM2swMElJQVVkLUFxMHROWUhvLUNFMFdpakFCTXlPWVN6cHc5cUpOQjR5SWhCa0E?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-14T12:57:57.081079+00:00"
+    "last_updated": "2026-08-14T18:48:12.533444+00:00"
 }
