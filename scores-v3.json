@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发 | 顺为、宁德时代系联手押注，这家公司要把全球最小丝杠量产千万根",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-13",
-                "url": "https://36kr.com/p/3937262359100805?f=rss"
-            },
-            {
-                "title": "外媒调查：超80%日本企业未全面使用AI 近两成未决定是否引入",
+                "title": "俄船队油轮加装粗犷防护网 抵御乌克兰无人机袭击",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572988.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573022.htm"
             },
             {
-                "title": "华泰证券：消费级3D打印机行业持续繁荣，仍处于快速发展红利期",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英特尔 CEO 陈立武自掏 1200 万美元参与 200 亿美元股票增发",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-13",
-                "url": "https://36kr.com/newsflashes/3937231966649479?f=rss"
+                "url": "https://www.ithome.com/0/989/228.htm"
             },
             {
-                "title": "Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道",
+                "title": "7 月美国企业 AI 消费观察：OpenAI GPT-5.6 Sol 收入超 Anthropic Fable 5",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-13",
+                "url": "https://www.ithome.com/0/989/208.htm"
+            },
+            {
+                "title": "「美国豆包手机」全系涨价，新东西全留给了 Gemini",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-13",
-                "url": "http://www.geekpark.net/news/368747"
+                "url": "http://www.geekpark.net/news/368766"
             },
             {
-                "title": "用不了4G网的老车们 正在被车企抛弃",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "南京大学制备出认证效率 22.0% 的钙钛矿光伏组件，成果登《自然》",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572974.htm"
+                "url": "https://www.ithome.com/0/989/184.htm"
             }
         ],
         "mil": [
+            {
+                "title": "俄船队油轮加装粗犷防护网 抵御乌克兰无人机袭击",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573022.htm"
+            },
+            {
+                "title": "中共与印尼在台湾海域演练 美国务院警告“停止对台施压”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-13",
+                "url": "https://www.secretchina.com/news/gb/2026/08/13/1103385.html"
+            },
             {
                 "title": "IT早报 0813：腾讯半年报净利润 1141.15 亿元同增 10%；9999 元起荣耀 Robot Phone 发布；奕境称华为智驾依然是行业顶级；DeepSeek V4 Pro 正式版更新...",
                 "source": "NewsAPI / Ithome.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.voachinese.com/a/taiwan-condemns-china-s-provocative-move-in-claiming-military-drill-with-indonesia-in-waters-east-of-the-island-20260812/8185647.html"
             },
             {
-                "title": "走私美军通讯设备！中国公民认罪恐关20年(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-12",
-                "url": "https://www.secretchina.com/news/gb/2026/08/13/1103365.html"
-            },
-            {
-                "title": "极端高温挤压欧洲核电供应 各国被迫出台紧急应对举措",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572940.htm"
-            },
-            {
                 "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-12",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14YVZwWm1KR3lfWmY1ZnhCeXY2bE5XNWJJejB1dGlzNmFZcHdaQjRCbDZNLVc1RkYwZFRiMHBndU5sUGU3RllONUlWWTNQdU5BY0N2Q3VmRkc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "习近平生态文明思想引领美丽中国建设谱新篇——写在全国生态日暨生态环境法典施行之际 - 中华人民共和国国防部",
+                "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-13",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Lc2lNZUlSRm04Z0tIazB4R093ZXJpblcwaGZibklwRDV0M3BMTXEybmpUOHBqQ2Q0MTdRUUJwODNvQmtxNFJITDhRT0tXU25NQk9zU090Z2hYdmRTMm0waXhlT3lkdw?oc=5"
+                "date": "2026-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbVpFcUtqZ3VPMEk4ZUMyMGU5eU5xWV9jZGt4Z182cTJKbEdXdEliR2toTzE1dFRYcGJSZXBFTVhjLUxvZUliTkc4U1ZCMmpic1BjYXZWQ3g?oc=5"
             },
             {
                 "title": "长城论坛丨“先让”与“先上” - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sczFRTEdNTkV4Vk1IQ0JtbjN1b2t4eE9xeHpVTlNfQW5jZEd1ODJrMWRJY2IzeG1yanpQWG5PYlQ3M2lCeVlSRnpPaw?oc=5"
             },
             {
-                "title": "2026年8月14日解放军报第01版：要闻 - 中国军网",
+                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-13",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDlnNmY0QVlWNVdTdVRpcF9hRm51clRfS1ZKaVhLNjhaX2VRbWJFVGdWaFVfMTI2aGhDcUt3V3lRNHZRa25mYXFXdXh3Qm5lenJyN2V1dXpiR3hwLXlfUDJabnZ4MmFyNElpaGotU0RkV1d0QzBnY0tHVGFGWkVtNnNvWVhCd092aG1lcmZFZ1VPYnh2S0hOMXVsYw?oc=5"
+                "date": "2026-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lY2xIR05ZMFl1UUdDSlptcVQ5RlZ3RTJQNkFrM2swMElJQVVkLUFxMHROWUhvLUNFMFdpakFCTXlPWVN6cHc5cUpOQjR5SWhCa0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发 | 顺为、宁德时代系联手押注，这家公司要把全球最小丝杠量产千万根",
+                "title": "英特尔 CEO 陈立武自掏 1200 万美元参与 200 亿美元股票增发",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-13",
+                "url": "https://www.ithome.com/0/989/228.htm"
+            },
+            {
+                "title": "博世第四代多功能摄像头斩获千万套项目定点",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-13",
-                "url": "https://36kr.com/p/3937262359100805?f=rss"
+                "url": "https://36kr.com/newsflashes/3937573063146885?f=rss"
             },
             {
-                "title": "AI不缺需求缺算力，摩根士丹利警告供应瓶颈或持续数年",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中共与印尼在台湾海域演练 美国务院警告“停止对台施压”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-13",
-                "url": "https://36kr.com/newsflashes/3937224303836548?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/08/13/1103385.html"
             },
             {
-                "title": "中金公司：电力设备行业国内外景气向上，关注两条投资主线",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-13",
-                "url": "https://36kr.com/newsflashes/3937221630672001?f=rss"
-            },
-            {
-                "title": "Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-13",
-                "url": "http://www.geekpark.net/news/368747"
-            },
-            {
-                "title": "阿里开源2.4万亿参数大模型 性能比肩Fable 5",
+                "title": "扎克伯格：与中国相比，美国有个明显劣势",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572978.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573010.htm"
+            },
+            {
+                "title": "DeepSeekV4 Pro惊艳登场 与全球最强仅差0.1",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572996.htm"
             },
             {
                 "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世 - 中华人民共和国国防部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14YVZwWm1KR3lfWmY1ZnhCeXY2bE5XNWJJejB1dGlzNmFZcHdaQjRCbDZNLVc1RkYwZFRiMHBndU5sUGU3RllONUlWWTNQdU5BY0N2Q3VmRkc?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "习近平生态文明思想引领美丽中国建设谱新篇——写在全国生态日暨生态环境法典施行之际 - 中华人民共和国国防部",
+                "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-13",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Lc2lNZUlSRm04Z0tIazB4R093ZXJpblcwaGZibklwRDV0M3BMTXEybmpUOHBqQ2Q0MTdRUUJwODNvQmtxNFJITDhRT0tXU25NQk9zU090Z2hYdmRTMm0waXhlT3lkdw?oc=5"
+                "date": "2026-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbVpFcUtqZ3VPMEk4ZUMyMGU5eU5xWV9jZGt4Z182cTJKbEdXdEliR2toTzE1dFRYcGJSZXBFTVhjLUxvZUliTkc4U1ZCMmpic1BjYXZWQ3g?oc=5"
             },
             {
                 "title": "长城论坛丨“先让”与“先上” - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sczFRTEdNTkV4Vk1IQ0JtbjN1b2t4eE9xeHpVTlNfQW5jZEd1ODJrMWRJY2IzeG1yanpQWG5PYlQ3M2lCeVlSRnpPaw?oc=5"
             },
             {
-                "title": "2026年8月14日解放军报第01版：要闻 - 中国军网",
+                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-13",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDlnNmY0QVlWNVdTdVRpcF9hRm51clRfS1ZKaVhLNjhaX2VRbWJFVGdWaFVfMTI2aGhDcUt3V3lRNHZRa25mYXFXdXh3Qm5lenJyN2V1dXpiR3hwLXlfUDJabnZ4MmFyNElpaGotU0RkV1d0QzBnY0tHVGFGWkVtNnNvWVhCd092aG1lcmZFZ1VPYnh2S0hOMXVsYw?oc=5"
+                "date": "2026-08-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lY2xIR05ZMFl1UUdDSlptcVQ5RlZ3RTJQNkFrM2swMElJQVVkLUFxMHROWUhvLUNFMFdpakFCTXlPWVN6cHc5cUpOQjR5SWhCa0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-14T01:40:29.319049+00:00"
+    "last_updated": "2026-08-14T07:18:38.653307+00:00"
 }
