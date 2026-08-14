@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "朱镕基去世：一个改革者的复杂遗产",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-12",
-                "url": "https://www.dw.com/zh/%E6%9C%B1%E9%95%95%E5%9F%BA%E5%8E%BB%E4%B8%96%E4%B8%80%E4%B8%AA%E6%94%B9%E9%9D%A9%E8%80%85%E7%9A%84%E5%A4%8D%E6%9D%82%E9%81%97%E4%BA%A7/a-78341948"
+                "title": "36氪首发 | 顺为、宁德时代系联手押注，这家公司要把全球最小丝杠量产千万根",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-13",
+                "url": "https://36kr.com/p/3937262359100805?f=rss"
             },
             {
-                "title": "极端高温挤压欧洲核电供应 各国被迫出台紧急应对举措",
+                "title": "外媒调查：超80%日本企业未全面使用AI 近两成未决定是否引入",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572940.htm"
+                "date": "2026-08-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572988.htm"
             },
             {
-                "title": "特朗普因出售Truth Social帖文优先访问权限遭到起诉",
+                "title": "华泰证券：消费级3D打印机行业持续繁荣，仍处于快速发展红利期",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-13",
+                "url": "https://36kr.com/newsflashes/3937231966649479?f=rss"
+            },
+            {
+                "title": "Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-13",
+                "url": "http://www.geekpark.net/news/368747"
+            },
+            {
+                "title": "用不了4G网的老车们 正在被车企抛弃",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572938.htm"
-            },
-            {
-                "title": "AI时代，最核心的竞争力的是“关系智商”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-12",
-                "url": "https://www.ftchinese.com/story/001110595"
-            },
-            {
-                "title": "DELTA+T²：当信任取代技术，成为AI时代的真正瓶颈",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-12",
-                "url": "https://www.ftchinese.com/story/001110571"
+                "date": "2026-08-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572974.htm"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 0813：腾讯半年报净利润 1141.15 亿元同增 10%；9999 元起荣耀 Robot Phone 发布；奕境称华为智驾依然是行业顶级；DeepSeek V4 Pro 正式版更新...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-13",
+                "url": "https://www.ithome.com/0/989/023.htm"
+            },
+            {
+                "title": "美国之音中文广播 (2026年8月13日)",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-12",
+                "url": "https://www.voachinese.com/a/8180731.html"
+            },
+            {
+                "title": "台湾谴责中国与印尼海军的所谓“通航演练”，印尼：例行两军“交汇”举措非作战演习",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-12",
+                "url": "https://www.voachinese.com/a/taiwan-condemns-china-s-provocative-move-in-claiming-military-drill-with-indonesia-in-waters-east-of-the-island-20260812/8185647.html"
+            },
             {
                 "title": "走私美军通讯设备！中国公民认罪恐关20年(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1572940.htm"
             },
             {
-                "title": "特朗普因出售Truth Social帖文优先访问权限遭到起诉",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572938.htm"
-            },
-            {
-                "title": "AI时代，最核心的竞争力的是“关系智商”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-12",
-                "url": "https://www.ftchinese.com/story/001110595"
-            },
-            {
-                "title": "DELTA+T²：当信任取代技术，成为AI时代的真正瓶颈",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-12",
-                "url": "https://www.ftchinese.com/story/001110571"
-            },
-            {
                 "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-12",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "最美新时代革命军人风采丨武警第二机动总队某支队大队长陈玉浩：能谋善战“多面手” - 中华人民共和国国防部",
+                "title": "习近平生态文明思想引领美丽中国建设谱新篇——写在全国生态日暨生态环境法典施行之际 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-11",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XU0JKa1dPWXVCaTdodXhfbUVoUUdoZklhd0d1T3lDb240bFJXXzg3NXJaWFFrZVJPYXhGTXQwX3NCU29ZeUhWSVVDSm96eDcyX1VyVVFyQ0E5ZzlhZk9fYXRhSHdvVUE?oc=5"
+                "date": "2026-08-13",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Lc2lNZUlSRm04Z0tIazB4R093ZXJpblcwaGZibklwRDV0M3BMTXEybmpUOHBqQ2Q0MTdRUUJwODNvQmtxNFJITDhRT0tXU25NQk9zU090Z2hYdmRTMm0waXhlT3lkdw?oc=5"
             },
             {
                 "title": "长城论坛丨“先让”与“先上” - 中国军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sczFRTEdNTkV4Vk1IQ0JtbjN1b2t4eE9xeHpVTlNfQW5jZEd1ODJrMWRJY2IzeG1yanpQWG5PYlQ3M2lCeVlSRnpPaw?oc=5"
             },
             {
-                "title": "时代人物 | 在时代大河里为人民放歌——追忆郭兰英 - 中国军网",
+                "title": "2026年8月14日解放军报第01版：要闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uOWdqS2NwWTFIb0RvVW5sYVZQVG1KSWxQNG9mc2xXZmFiT3I0LV9jZTFsaHkyR3dDSlIxRnFwUS01bFdFY0VwRFpWanZoZ2xtS0E?oc=5"
+                "date": "2026-08-13",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDlnNmY0QVlWNVdTdVRpcF9hRm51clRfS1ZKaVhLNjhaX2VRbWJFVGdWaFVfMTI2aGhDcUt3V3lRNHZRa25mYXFXdXh3Qm5lenJyN2V1dXpiR3hwLXlfUDJabnZ4MmFyNElpaGotU0RkV1d0QzBnY0tHVGFGWkVtNnNvWVhCd092aG1lcmZFZ1VPYnh2S0hOMXVsYw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "极端高温挤压欧洲核电供应 各国被迫出台紧急应对举措",
+                "title": "36氪首发 | 顺为、宁德时代系联手押注，这家公司要把全球最小丝杠量产千万根",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-13",
+                "url": "https://36kr.com/p/3937262359100805?f=rss"
+            },
+            {
+                "title": "AI不缺需求缺算力，摩根士丹利警告供应瓶颈或持续数年",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-13",
+                "url": "https://36kr.com/newsflashes/3937224303836548?f=rss"
+            },
+            {
+                "title": "中金公司：电力设备行业国内外景气向上，关注两条投资主线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-13",
+                "url": "https://36kr.com/newsflashes/3937221630672001?f=rss"
+            },
+            {
+                "title": "Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-13",
+                "url": "http://www.geekpark.net/news/368747"
+            },
+            {
+                "title": "阿里开源2.4万亿参数大模型 性能比肩Fable 5",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572940.htm"
-            },
-            {
-                "title": "特朗普因出售Truth Social帖文优先访问权限遭到起诉",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572938.htm"
-            },
-            {
-                "title": "AI时代，最核心的竞争力的是“关系智商”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-12",
-                "url": "https://www.ftchinese.com/story/001110595"
-            },
-            {
-                "title": "DELTA+T²：当信任取代技术，成为AI时代的真正瓶颈",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-12",
-                "url": "https://www.ftchinese.com/story/001110571"
-            },
-            {
-                "title": "日本逮捕知名BT种子网站Nyaa运营者 涉嫌盗版上传近千部NHK剧集",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1572914.htm"
+                "date": "2026-08-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1572978.htm"
             },
             {
                 "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世 - 中华人民共和国国防部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "最美新时代革命军人风采丨武警第二机动总队某支队大队长陈玉浩：能谋善战“多面手” - 中华人民共和国国防部",
+                "title": "习近平生态文明思想引领美丽中国建设谱新篇——写在全国生态日暨生态环境法典施行之际 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-11",
-                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XU0JKa1dPWXVCaTdodXhfbUVoUUdoZklhd0d1T3lDb240bFJXXzg3NXJaWFFrZVJPYXhGTXQwX3NCU29ZeUhWSVVDSm96eDcyX1VyVVFyQ0E5ZzlhZk9fYXRhSHdvVUE?oc=5"
+                "date": "2026-08-13",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Lc2lNZUlSRm04Z0tIazB4R093ZXJpblcwaGZibklwRDV0M3BMTXEybmpUOHBqQ2Q0MTdRUUJwODNvQmtxNFJITDhRT0tXU25NQk9zU090Z2hYdmRTMm0waXhlT3lkdw?oc=5"
             },
             {
                 "title": "长城论坛丨“先让”与“先上” - 中国军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sczFRTEdNTkV4Vk1IQ0JtbjN1b2t4eE9xeHpVTlNfQW5jZEd1ODJrMWRJY2IzeG1yanpQWG5PYlQ3M2lCeVlSRnpPaw?oc=5"
             },
             {
-                "title": "时代人物 | 在时代大河里为人民放歌——追忆郭兰英 - 中国军网",
+                "title": "2026年8月14日解放军报第01版：要闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uOWdqS2NwWTFIb0RvVW5sYVZQVG1KSWxQNG9mc2xXZmFiT3I0LV9jZTFsaHkyR3dDSlIxRnFwUS01bFdFY0VwRFpWanZoZ2xtS0E?oc=5"
+                "date": "2026-08-13",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDlnNmY0QVlWNVdTdVRpcF9hRm51clRfS1ZKaVhLNjhaX2VRbWJFVGdWaFVfMTI2aGhDcUt3V3lRNHZRa25mYXFXdXh3Qm5lenJyN2V1dXpiR3hwLXlfUDJabnZ4MmFyNElpaGotU0RkV1d0QzBnY0tHVGFGWkVtNnNvWVhCd092aG1lcmZFZ1VPYnh2S0hOMXVsYw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-13T18:58:04.004765+00:00"
+    "last_updated": "2026-08-14T01:40:29.319049+00:00"
 }
