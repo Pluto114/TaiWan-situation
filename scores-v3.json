@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Counterpoint：全球 POS 设备 2025 年出货量仅增长 1%，安卓占比近一半",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-14",
-                "url": "https://www.ithome.com/0/989/694.htm"
-            },
-            {
-                "title": "SK海力士崔泰源：明年将迎最严重“存储荒”AI客户需求几乎翻倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573224.htm"
-            },
-            {
-                "title": "中芯国际赵海军：手机类和面板驱动类产品至今没有涨价，这些客户当下同样困难",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-14",
-                "url": "https://www.ithome.com/0/989/693.htm"
-            },
-            {
-                "title": "江苏：推进太空计算全链条降本，支持太空超算中心等前瞻性试验建设",
+                "title": "“谦合益邦”完成超20亿元B轮融资，木雁资本担任独家财务顾问",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-14",
-                "url": "https://36kr.com/newsflashes/3938943010225537?f=rss"
+                "url": "https://36kr.com/newsflashes/3939302582713480?f=rss"
             },
             {
-                "title": "美司法部推进Google付费禁令 Firefox浏览器面临生存危机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "SK 海力士董事长崔泰源：存储涨价太快我很抱歉，2027 年短缺最严重，苹果也受影响",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573222.htm"
+                "url": "https://www.ithome.com/0/989/912.htm"
+            },
+            {
+                "title": "消息称英伟达下一代 GPU“Feynman”使用台积电 A16 制程",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-14",
+                "url": "https://www.ithome.com/0/989/902.htm"
+            },
+            {
+                "title": "阿里云，接得住中国智驾吗？",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-14",
+                "url": "http://www.geekpark.net/news/368846"
+            },
+            {
+                "title": "阿维塔雍军回应争议：华为“非必要项”系误读",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-14",
+                "url": "https://36kr.com/newsflashes/3939166606327176?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "智谱发布GLM-5.3：编程能力跃升50% 编程与智能体能力接近Fable 5",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573226.htm"
+            },
+            {
+                "title": "阿里云，接得住中国智驾吗？",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-14",
+                "url": "http://www.geekpark.net/news/368846"
+            },
+            {
+                "title": "台湾展开北部城镇韧性演习 12国22位驻台代表观摩(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-14",
+                "url": "https://www.secretchina.com/news/gb/2026/08/14/1103434.html"
+            },
             {
                 "title": "智谱正式发布 GLM-5.3：编程能力最强开源模型，较 GLM-5.2 提升 50%",
                 "source": "NewsAPI / Ithome.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-14",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1573182.htm"
-            },
-            {
-                "title": "卸任前为“美国制造”站台 库克陪同美商务部长参观Mac Mini工厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573154.htm"
-            },
-            {
-                "title": "黑鲸出水，DeepSeek下半场开始",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573150.htm"
-            },
-            {
-                "title": "特朗普政府启动新项目 允许私营企业在监督下发起国际网络攻击",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573142.htm"
             },
             {
                 "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "SK海力士崔泰源：明年将迎最严重“存储荒”AI客户需求几乎翻倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "阿里云，接得住中国智驾吗？",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573224.htm"
+                "url": "http://www.geekpark.net/news/368846"
             },
             {
-                "title": "美司法部推进Google付费禁令 Firefox浏览器面临生存危机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "阿里灵犀再传15亿美元出售，或许这就是中国游戏行业的现实",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573222.htm"
+                "url": "https://36kr.com/p/3939187139935369?f=rss"
             },
             {
-                "title": "微软在华战略收缩 AI热潮成其决定是否留守的关键",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "传音控股港股��市获中国证监会备案",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573220.htm"
+                "url": "https://36kr.com/newsflashes/3939188593343617?f=rss"
             },
             {
-                "title": "京东录得上市以来首次季度营收下滑 股价在香港重挫",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "泡泡玛特的「日本老师」，在中国赚翻了",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573212.htm"
+                "url": "https://36kr.com/p/3939155401948549?f=rss"
             },
             {
-                "title": "受强劲AI需求推动 中芯国际第二季度营收首破30亿美元并上调代工价格",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "两部门：在更大范围内支持中小规模跨国公司开展业务",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573210.htm"
+                "url": "https://36kr.com/newsflashes/3939163893759362?f=rss"
             },
             {
                 "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-15T06:32:01.152595+00:00"
+    "last_updated": "2026-08-15T12:30:17.793168+00:00"
 }
