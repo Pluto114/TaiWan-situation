@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "旺旺董事长罕见发全员信认错：一直未能创新求变",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "9・11世贸中心六人被困电梯 靠刮水器绝境逃生(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573338.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/16/1103482.html"
             },
             {
-                "title": "日元为何跌跌不休？揭秘暴跌背后的原因",
-                "source": "NewsAPI / DW (English)",
+                "title": "面对两难问题时体现出的灰度决策能力，推动我们走到了当下各自的人生境遇",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-08-15",
-                "url": "https://www.dw.com/zh/%E6%97%A5%E5%85%83%E4%B8%BA%E4%BD%95%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%E6%8F%AD%E7%A7%98%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%9F%E5%9B%A0/a-78379479"
+                "url": "https://www.toodaylab.com/84166"
             },
             {
-                "title": "大疆应被移出美国防部“黑名单”？上诉法院要求重审",
-                "source": "NewsAPI / DW (English)",
+                "title": "奥德赛的真正遗产：宾主法则与古典博弈智慧",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-15",
-                "url": "https://www.dw.com/zh/%E5%A4%A7%E7%96%86%E5%BA%94%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E9%BB%91%E5%90%8D%E5%8D%95%E4%B8%8A%E8%AF%89%E6%B3%95%E9%99%A2%E8%A6%81%E6%B1%82%E9%87%8D%E5%AE%A1/a-78381091"
+                "url": "https://www.ftchinese.com/story/001110623"
             },
             {
-                "title": "从众筹到问鼎欧美，VITURE与XR行业的五年",
-                "source": "NewsAPI / 36kr.com",
+                "title": "《公海条约》秘书处之争：海洋治理话语权的角力",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-15",
-                "url": "https://36kr.com/p/3940540064562563?f=rss"
+                "url": "https://www.ftchinese.com/story/001110613"
             },
             {
-                "title": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头",
+                "title": "PVC 变废为宝：科学家将塑料转化为聚 α-烯烃，三小时产出润滑油",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-15",
-                "url": "https://www.ithome.com/0/990/119.htm"
+                "url": "https://www.ithome.com/0/990/178.htm"
             }
         ],
         "mil": [
+            {
+                "title": "奥德赛的真正遗产：宾主法则与古典博弈智慧",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-15",
+                "url": "https://www.ftchinese.com/story/001110623"
+            },
+            {
+                "title": "美国考虑应特朗普喜好重新设计航母：电磁弹射改回蒸汽弹射 + 舰岛迁移，80 多年来首次新建第五座海军造船厂",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-15",
+                "url": "https://www.ithome.com/0/990/174.htm"
+            },
+            {
+                "title": "美国商务部长警告苹果公司停止采购中国内存芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573348.htm"
+            },
             {
                 "title": "从众筹到问鼎欧美，VITURE与XR行业的五年",
                 "source": "NewsAPI / 36kr.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-15",
                 "url": "http://www.geekpark.net/news/368852"
-            },
-            {
-                "title": "春风动力 450MT 罗马尼亚冠军版即将预售，售价 30580 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-15",
-                "url": "https://www.ithome.com/0/990/112.htm"
-            },
-            {
-                "title": "美国拟要求盟友在中美AI竞赛中“选边站”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573332.htm"
-            },
-            {
-                "title": "上线12小时5万星 DeepSeek Harness实测：能干活，但得盯着",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573312.htm"
             },
             {
                 "title": "“两优一先”风采录丨争当新时代“海上猛虎” - 中华人民共和国国防部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "旺旺董事长罕见发全员信认错：一直未能创新求变",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "奥德赛的真正遗产：宾主法则与古典博弈智慧",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573338.htm"
+                "url": "https://www.ftchinese.com/story/001110623"
             },
             {
-                "title": "日本战败81周年：日防卫大臣参拜靖国神社引中韩强烈抗议",
-                "source": "NewsAPI / DW (English)",
+                "title": "《公海条约》秘书处之争：海洋治理话语权的角力",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-15",
-                "url": "https://www.dw.com/zh/%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A581%E5%91%A8%E5%B9%B4%E6%97%A5%E9%98%B2%E5%8D%AB%E5%A4%A7%E8%87%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%BC%95%E4%B8%AD%E9%9F%A9%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE/a-78382023"
+                "url": "https://www.ftchinese.com/story/001110613"
             },
             {
-                "title": "从众筹到问鼎欧美，VITURE与XR行业的五年",
-                "source": "NewsAPI / 36kr.com",
+                "title": "法国“反传统”思潮如何跨越大西洋 影响美国校园文化(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-15",
-                "url": "https://36kr.com/p/3940540064562563?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/08/15/1103478.html"
             },
             {
-                "title": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头",
+                "title": "麦考尔访台重申挺台立场 批中共威胁全球权力平衡(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-15",
+                "url": "https://www.secretchina.com/news/gb/2026/08/15/1103475.html"
+            },
+            {
+                "title": "美国考虑应特朗普喜好重新设计航母：电磁弹射改回蒸汽弹射 + 舰岛迁移，80 多年来首次新建第五座海军造船厂",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-15",
-                "url": "https://www.ithome.com/0/990/119.htm"
-            },
-            {
-                "title": "共享充电宝“撞脸”套路深：误还即扣99元 谁在故意让人看走眼？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573334.htm"
+                "url": "https://www.ithome.com/0/990/174.htm"
             },
             {
                 "title": "“两优一先”风采录丨争当新时代“海上猛虎” - 中华人民共和国国防部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-16T12:31:39.371331+00:00"
+    "last_updated": "2026-08-16T18:22:57.958909+00:00"
 }
