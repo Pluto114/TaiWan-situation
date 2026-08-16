@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "企业级SSD消耗全球48%的NAND闪存供应",
+                "title": "DeepSeek补上一块短板 正面对抗Anthropic？",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573268.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573296.htm"
             },
             {
-                "title": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "被推上风口浪尖的“速成车”，真的“罪该万死”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-15",
-                "url": "http://www.geekpark.net/news/368849"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573292.htm"
             },
             {
-                "title": "英特尔发布 32.0.101.8974 WHQL 显卡驱动：游戏性能最高提升 13%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "手握1461项专利 兆芯实现国产x86 CPU技术自主可控",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-15",
-                "url": "https://www.ithome.com/0/989/983.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573290.htm"
             },
             {
-                "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-14",
-                "url": "https://www.ithome.com/0/989/979.htm"
+                "title": "Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573282.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年8月15日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-14",
-                "url": "https://www.voachinese.com/a/8181489.html"
+                "title": "数据泄露通知数量已远超去年全年 人工智能影响持续扩大",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573280.htm"
             }
         ],
         "mil": [
+            {
+                "title": "9点1氪丨追觅首台手机售价超20万，带创始人俞浩签名；韩国宣布2030年实现登月；胖东来计划招聘20名刑期5年以上刑满释放人员",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-15",
+                "url": "https://36kr.com/p/3940086573759874?f=rss"
+            },
+            {
+                "title": "《DOTA2》TI15 第三日赛程公布：VG 争夺晋级主动权，XG、TR 力争连胜",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-15",
+                "url": "https://www.ithome.com/0/989/991.htm"
+            },
             {
                 "title": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
                 "source": "NewsAPI / Geekpark.net",
@@ -62,22 +74,16 @@
                 "url": "https://www.voachinese.com/a/secretary-hegseth-says-uss-abraham-lincoln-conditions-completely-misrepresented-20260814/8186498.html"
             },
             {
-                "title": "特朗普总统：“林肯”号航母将被替换；此前有报道称该航母上状况恶劣",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-14",
-                "url": "https://www.voachinese.com/a/president-trump-says-uss-abraham-lincoln-to-be-replaced-amid-reports-of-deplorable-conditions-on-the-carrier-20260814/8186498.html"
-            },
-            {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-14",
-                "url": "https://www.voachinese.com/a/8181493.html"
-            },
-            {
                 "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEs3VXlKUjFnTjZWNTl4QU91QVJPLTNtU3hGZnhhRlZBZTA2TDM0MTI1Z2pyZldwRmlFaEsxUm8zbmdtUVdoZjNQdHJES3ZncVVHb1BXb1o?oc=5"
+            },
+            {
+                "title": "“两优一先”风采录丨争当新时代“海上猛虎” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-15",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EcnI4bnpsMTIyUW9RM2NKb1NLSjJIWHg3aThqbngtLU9IM3lXd2xYeGFmWnFwLWVpUE9PZHRIU0xiWWdnX0VqT0RFdlRVSmd0T1hnOGxYUWNTLWZBNWhvSTl6NkUxZlE?oc=5"
             },
             {
                 "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - 中华人民共和国国防部",
@@ -86,60 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbVpFcUtqZ3VPMEk4ZUMyMGU5eU5xWV9jZGt4Z182cTJKbEdXdEliR2toTzE1dFRYcGJSZXBFTVhjLUxvZUliTkc4U1ZCMmpic1BjYXZWQ3g?oc=5"
             },
             {
-                "title": "中国海警舰艇编队在我钓鱼岛及其附属岛屿领海内维权巡航 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-14",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pT29LUVcxeXpSdWlCaXdyeVYwMm1Va3VaU2hjVDZ2OWIzWnFZbGxOcEpIenNWd0hBdVlzY3lBelprOGkyZTNqQjRQdlFiRVlSWnNoM3V3VzZTTi1ZRWFLdkF2RjV6QQ?oc=5"
-            },
-            {
                 "title": "强军论坛丨牢记第一身份是共产党员 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TYWgtYVlVWF8yYWxVWWJjRkhxOGd1cWFnV2pETjZ6aTJoZHctaTgzdHVDYWU1azFoeDVlVEFRN090bXRpTTB1cy1GZkN1eHB6NXc?oc=5"
             },
             {
-                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 中国军网",
+                "title": "这条“绸带”旁的哨所官兵，用忠诚守护着祖国边陲安宁 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lY2xIR05ZMFl1UUdDSlptcVQ5RlZ3RTJQNkFrM2swMElJQVVkLUFxMHROWUhvLUNFMFdpakFCTXlPWVN6cHc5cUpOQjR5SWhCa0E?oc=5"
+                "date": "2026-08-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeEVKcUNTOS05aFF5ejF6Z3lzSWpaVzJkSEpZd0dfM1QwNXJQMjVDYk1nVE9VWUR0M2RoVjRnQ0Voa0MxU0V1ajNpWHFKWlVTU3c?oc=5"
             },
             {
-                "title": "防灾减灾救灾一线见闻｜洪痕犹在 抢建正忙——广西横州受灾学校重建见闻 - 中国军网",
+                "title": "铁翼巡天！空军某部开展跨昼夜飞行训练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Bb1lqMUxsUXlMQU5mdm9ZdXZoTDl5MWx1aUZmdEhFRUZkdTNpZ0dYUngwNmU2b3VQTUd3TS10a3ByS0xCYk1DSDdzSWhUZGdkLUE?oc=5"
+                "date": "2026-08-16",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVDFKVFdZU3hpdzl2UkgyRDBIMGxFdThUUjZYcXFsRFgxYjVMMGVQS0psY09iZTI3eGZIbWtkZEp2NW5wa2M3UE0zZm1uaTlUZXM5MWNVOUxSYVktLXJ5ag?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "宇树科技未上市先疯抢，部分中介出价520元/股",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-15",
-                "url": "http://www.geekpark.net/news/368849"
+                "url": "https://36kr.com/newsflashes/3940284903701895?f=rss"
             },
             {
-                "title": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
-                "source": "NewsAPI / Ithome.com",
+                "title": "每体：巴萨基金会助力刚果民主共和国东部的埃博拉防治工作|巴塞罗那 - 懂球帝",
+                "source": "NewsAPI / Dongqiudi.com",
                 "date": "2026-08-15",
-                "url": "https://www.ithome.com/0/989/988.htm"
+                "url": "https://m.dongqiudi.com/article/6174206.html"
             },
             {
-                "title": "IT早报 0815：曝苹果联合阿里自研中国专属大模型；追觅卖出首台超 3 万美元手机；微信称朋友圈坚守不可编辑原则；智谱发布 GLM-5.3 最强开源编程模型...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-14",
-                "url": "https://www.ithome.com/0/989/979.htm"
+                "title": "比尔·盖茨小女儿创业深陷欺诈风波 业内律师称最高可获刑20年",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573304.htm"
             },
             {
-                "title": "美众议员麦考尔：中共日益好战对台湾及全球造成直接威胁，访台为重申美支持",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-14",
-                "url": "https://www.voachinese.com/a/rep-mike-mccaul-concludes-taiwan-visit-to-reaffirming-us-support-amid-ccp-threats-20260814/8186497.html"
+                "title": "被推上风口浪尖的“速成车”，真的“罪该万死”？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573292.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年8月15日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-14",
-                "url": "https://www.voachinese.com/a/8181489.html"
+                "title": "Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-15",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573282.htm"
             },
             {
                 "title": "“台独”死局演不赢、改不了- 中华人民共和国国防部 - 中华人民共和国国防部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OEs3VXlKUjFnTjZWNTl4QU91QVJPLTNtU3hGZnhhRlZBZTA2TDM0MTI1Z2pyZldwRmlFaEsxUm8zbmdtUVdoZjNQdHJES3ZncVVHb1BXb1o?oc=5"
             },
             {
+                "title": "“两优一先”风采录丨争当新时代“海上猛虎” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-15",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EcnI4bnpsMTIyUW9RM2NKb1NLSjJIWHg3aThqbngtLU9IM3lXd2xYeGFmWnFwLWVpUE9PZHRIU0xiWWdnX0VqT0RFdlRVSmd0T1hnOGxYUWNTLWZBNWhvSTl6NkUxZlE?oc=5"
+            },
+            {
                 "title": "【双语】国防部：日本“新型军国主义”祸患不得不防 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-14",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbVpFcUtqZ3VPMEk4ZUMyMGU5eU5xWV9jZGt4Z182cTJKbEdXdEliR2toTzE1dFRYcGJSZXBFTVhjLUxvZUliTkc4U1ZCMmpic1BjYXZWQ3g?oc=5"
-            },
-            {
-                "title": "中国海警舰艇编队在我钓鱼岛及其附属岛屿领海内维权巡航 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-14",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pT29LUVcxeXpSdWlCaXdyeVYwMm1Va3VaU2hjVDZ2OWIzWnFZbGxOcEpIenNWd0hBdVlzY3lBelprOGkyZTNqQjRQdlFiRVlSWnNoM3V3VzZTTi1ZRWFLdkF2RjV6QQ?oc=5"
             },
             {
                 "title": "强军论坛丨牢记第一身份是共产党员 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TYWgtYVlVWF8yYWxVWWJjRkhxOGd1cWFnV2pETjZ6aTJoZHctaTgzdHVDYWU1azFoeDVlVEFRN090bXRpTTB1cy1GZkN1eHB6NXc?oc=5"
             },
             {
-                "title": "中央宣传部等部门联合印发通知要求开展生态环境法典学习宣传工作 - 中国军网",
+                "title": "这条“绸带”旁的哨所官兵，用忠诚守护着祖国边陲安宁 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lY2xIR05ZMFl1UUdDSlptcVQ5RlZ3RTJQNkFrM2swMElJQVVkLUFxMHROWUhvLUNFMFdpakFCTXlPWVN6cHc5cUpOQjR5SWhCa0E?oc=5"
+                "date": "2026-08-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UeEVKcUNTOS05aFF5ejF6Z3lzSWpaVzJkSEpZd0dfM1QwNXJQMjVDYk1nVE9VWUR0M2RoVjRnQ0Voa0MxU0V1ajNpWHFKWlVTU3c?oc=5"
             },
             {
-                "title": "防灾减灾救灾一线见闻｜洪痕犹在 抢建正忙——广西横州受灾学校重建见闻 - 中国军网",
+                "title": "铁翼巡天！空军某部开展跨昼夜飞行训练 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Bb1lqMUxsUXlMQU5mdm9ZdXZoTDl5MWx1aUZmdEhFRUZkdTNpZ0dYUngwNmU2b3VQTUd3TS10a3ByS0xCYk1DSDdzSWhUZGdkLUE?oc=5"
+                "date": "2026-08-16",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVDFKVFdZU3hpdzl2UkgyRDBIMGxFdThUUjZYcXFsRFgxYjVMMGVQS0psY09iZTI3eGZIbWtkZEp2NW5wa2M3UE0zZm1uaTlUZXM5MWNVOUxSYVktLXJ5ag?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-16T01:05:30.355935+00:00"
+    "last_updated": "2026-08-16T06:33:00.366284+00:00"
 }
