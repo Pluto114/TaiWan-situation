@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "斯坦福调查显示：84% 中国受访者对 AI 感到兴奋，美国比例仅为 38%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-16",
+                "url": "https://www.ithome.com/0/990/398.htm"
+            },
+            {
+                "title": "特朗普政府警告苹果勿用中国芯片",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-16",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%91%8A%E8%8B%B9%E6%9E%9C%E5%8B%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87/a-78388866"
+            },
+            {
                 "title": "IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-16",
@@ -28,21 +40,27 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-16",
                 "url": "https://www.ithome.com/0/990/322.htm"
-            },
-            {
-                "title": "摩根大通：明年或爆发全球粮食危机 全球食品通胀率将从2.8%升至5%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-16",
-                "url": "https://36kr.com/newsflashes/3941868692880517?f=rss"
-            },
-            {
-                "title": "韩国产业部长再访美 磋商对美投资和关税问题",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-16",
-                "url": "https://36kr.com/newsflashes/3941867500338566?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "中国战地记者们如何看《欢迎来龙餐馆》：硝烟、后怕与中东往事",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-16",
+                "url": "https://www.ftchinese.com/story/001110629"
+            },
+            {
+                "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-16",
+                "url": "https://www.ftchinese.com/story/001110632"
+            },
+            {
+                "title": "美国 10 万吨级航母“肯尼迪”号完成验收海试：最快 2027 年交付，项目总投资超 130 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-16",
+                "url": "https://www.ithome.com/0/990/402.htm"
+            },
             {
                 "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
                 "source": "NewsAPI / Ithome.com",
@@ -56,25 +74,67 @@
                 "url": "https://www.ithome.com/0/990/301.htm"
             },
             {
-                "title": "美媒称特朗普再次要求修改新航母设计",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-16",
-                "url": "https://36kr.com/newsflashes/3941741200227718?f=rss"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "《帝国时代 3 : 决定版》大型 DLC”波罗的海诸国“开启预购，Steam 国区 74.8 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-16",
-                "url": "https://www.ithome.com/0/990/267.htm"
+                "title": "“两优一先”风采录丨争当新时代“海上猛虎” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-15",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EcnI4bnpsMTIyUW9RM2NKb1NLSjJIWHg3aThqbngtLU9IM3lXd2xYeGFmWnFwLWVpUE9PZHRIU0xiWWdnX0VqT0RFdlRVSmd0T1hnOGxYUWNTLWZBNWhvSTl6NkUxZlE?oc=5"
             },
             {
-                "title": "小米搞了个升降车标，给网友看呆了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "“推动企业发展更上一层楼，为国家作出更大贡献”——习近平总书记指引企业坚定不移走高质量发展之路 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573390.htm"
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMUFPdlJaQ0VaNkowNWFEV1pLUWpuZ2lERFptdVJva3hsc25rRXVpZzZ3RnhYUVdZSDU3NGZnSGxCMVRtb3g4ZlNnQVFqTU00bUJVS1RLMnVlZkpXazA4YmJfWEpMZw?oc=5"
+            },
+            {
+                "title": "国际观察｜战后五年，阿富汗现状如何 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DR2tKcjFxQlcwQzBqUVZVR1Z1aWx4b2hfendsaE95ZDhubmo4X1pnelZmZ2RHSVVyNGV4bXhvTWZRTGFuOXI3NlhfWTVnRXdhSGc?oc=5"
+            },
+            {
+                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-17",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NE1IU1YteGVhN1JlSHhhckhxQklKZzBvYUVZWEdxX2dVTm9CenNHU2QyaURWcV9tTW5RYWVSazhndEotOWlKM0lR?oc=5"
+            },
+            {
+                "title": "2026年8月17日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-16",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2x5TXdUZEJURXZudGhUMnlOSzU1WU9qOEU3NVlNaVdVaEE1Z1BTOFJCUzBqMGw1WkxkblcxU2lTV1pNRnQwbWoxQ3U0VTBvaU9RTDYzU3JkV191d2JJeGNHMkQ1RXZqTTBrdHQxUy1jaU84VW5oWHZYQ29RYmpVWmFrakIzWnh5eUhROEpZVUxsaG1GN2RuNlVlZw?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "中国战地记者们如何看《欢迎来龙餐馆》：硝烟、后怕与中东往事",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-16",
+                "url": "https://www.ftchinese.com/story/001110629"
+            },
+            {
+                "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-16",
+                "url": "https://www.ftchinese.com/story/001110632"
+            },
+            {
+                "title": "斯坦福调查显示：84% 中国受访者对 AI 感到兴奋，美国比例仅为 38%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-16",
+                "url": "https://www.ithome.com/0/990/398.htm"
+            },
+            {
+                "title": "特朗普政府警告苹果勿用中国芯片",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-16",
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%91%8A%E8%8B%B9%E6%9E%9C%E5%8B%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87/a-78388866"
+            },
             {
                 "title": "美国告诫盟友：AI领域必须选边站队",
                 "source": "NewsAPI / DW (English)",
@@ -82,31 +142,43 @@
                 "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E5%91%8A%E8%AF%AB%E7%9B%9F%E5%8F%8Bai%E9%A2%86%E5%9F%9F%E5%BF%85%E9%A1%BB%E9%80%89%E8%BE%B9%E7%AB%99%E9%98%9F/a-78388283"
             },
             {
-                "title": "IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-16",
-                "url": "https://www.ithome.com/0/990/373.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "全球首个因反 AI 入狱者呼吁 OpenAI 和 Anthropic“重新找回人性”，曾因封锁 OpenAI 总部而获刑 14 天",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-16",
-                "url": "https://www.ithome.com/0/990/368.htm"
+                "title": "“两优一先”风采录丨争当新时代“海上猛虎” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-15",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EcnI4bnpsMTIyUW9RM2NKb1NLSjJIWHg3aThqbngtLU9IM3lXd2xYeGFmWnFwLWVpUE9PZHRIU0xiWWdnX0VqT0RFdlRVSmd0T1hnOGxYUWNTLWZBNWhvSTl6NkUxZlE?oc=5"
             },
             {
-                "title": "诺基亚关闭中国研发中心 裁员1600人",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "“推动企业发展更上一层楼，为国家作出更大贡献”——习近平总书记指引企业坚定不移走高质量发展之路 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573440.htm"
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMUFPdlJaQ0VaNkowNWFEV1pLUWpuZ2lERFptdVJva3hsc25rRXVpZzZ3RnhYUVdZSDU3NGZnSGxCMVRtb3g4ZlNnQVFqTU00bUJVS1RLMnVlZkpXazA4YmJfWEpMZw?oc=5"
             },
             {
-                "title": "摩根大通：明年或爆发全球粮食危机 全球食品通胀率将从2.8%升至5%",
-                "source": "NewsAPI / 36kr.com",
+                "title": "国际观察｜战后五年，阿富汗现状如何 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-16",
-                "url": "https://36kr.com/newsflashes/3941868692880517?f=rss"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DR2tKcjFxQlcwQzBqUVZVR1Z1aWx4b2hfendsaE95ZDhubmo4X1pnelZmZ2RHSVVyNGV4bXhvTWZRTGFuOXI3NlhfWTVnRXdhSGc?oc=5"
+            },
+            {
+                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-17",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NE1IU1YteGVhN1JlSHhhckhxQklKZzBvYUVZWEdxX2dVTm9CenNHU2QyaURWcV9tTW5RYWVSazhndEotOWlKM0lR?oc=5"
+            },
+            {
+                "title": "2026年8月17日解放军报第01版：要闻 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-16",
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2x5TXdUZEJURXZudGhUMnlOSzU1WU9qOEU3NVlNaVdVaEE1Z1BTOFJCUzBqMGw1WkxkblcxU2lTV1pNRnQwbWoxQ3U0VTBvaU9RTDYzU3JkV191d2JJeGNHMkQ1RXZqTTBrdHQxUy1jaU84VW5oWHZYQ29RYmpVWmFrakIzWnh5eUhROEpZVUxsaG1GN2RuNlVlZw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-17T12:36:51.980946+00:00"
+    "last_updated": "2026-08-17T18:33:21.785357+00:00"
 }
