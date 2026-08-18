@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "冲刺IPO前夕 Anthropic CEO首次公开回应监管质疑",
+                "title": "富士康祭出最高8800元招工奖金 为iPhone 18 Pro及首款折叠屏备货",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573556.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573606.htm"
             },
             {
-                "title": "一夜暴富的 AI 亿万富豪：买房之后，狂扫私人飞机、超跑、游艇",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-17",
-                "url": "https://www.ithome.com/0/990/629.htm"
-            },
-            {
-                "title": "AI军备竞赛成本被低估：美九大科技巨头暗藏3万亿美元账单",
+                "title": "Shein香港IPO估值或降至250亿美元 较2022年峰值缩水逾七成",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573554.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573604.htm"
             },
             {
-                "title": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
-                "source": "NewsAPI / 36kr.com",
+                "title": "SpaceX的第一款车，会不会是特斯拉的最后一款？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-17",
-                "url": "https://36kr.com/p/3943183864560776?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573594.htm"
             },
             {
-                "title": "广州拟立法促进人工智能发展：合理布局超算中心、城市边缘智算节点和行业智算集聚区",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Meta周二将迎来重大社交媒体成瘾诉讼庭审",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-17",
-                "url": "https://36kr.com/newsflashes/3943177209593222?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573592.htm"
+            },
+            {
+                "title": "李书福辞任吉利汽车董事会主席及执行董事职务",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573590.htm"
             }
         ],
         "mil": [
+            {
+                "title": "亿万富翁创始人认同马斯克、山姆・奥特曼与贝索斯观点：人类将在太空生活、工作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573600.htm"
+            },
+            {
+                "title": "SpaceX的第一款车，会不会是特斯拉的最后一款？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573594.htm"
+            },
+            {
+                "title": "美军深陷伊朗冲突 撤走亚太最后一艘航母",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-17",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%86%9B%E6%B7%B1%E9%99%B7%E4%BC%8A%E6%9C%97%E5%86%B2%E7%AA%81-%E6%92%A4%E8%B5%B0%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%90%8E%E4%B8%80%E8%89%98%E8%88%AA%E6%AF%8D/a-78396103"
+            },
+            {
+                "title": "大疆诉美国防部案迎关键转折 上诉法院裁定重审",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573586.htm"
+            },
             {
                 "title": "大疆诉美国防部案赢得关键程序性胜利，美市场仍高度依赖大疆无人机",
                 "source": "NewsAPI / 36kr.com",
@@ -50,40 +74,10 @@
                 "url": "https://36kr.com/newsflashes/3943228506815620?f=rss"
             },
             {
-                "title": "被 AI 碾压 30 年后，人们重新爱上了下棋",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-17",
-                "url": "http://www.geekpark.net/news/368897"
-            },
-            {
-                "title": "科氪|国际冠军车手德比斯探访荣耀旗舰店，感受中国科技创新探索",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-17",
-                "url": "https://36kr.com/p/3943167004212361?f=rss"
-            },
-            {
-                "title": "史上最大IPO倒计时：五岁Anthropic 2万亿美元凭什么？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573542.htm"
-            },
-            {
-                "title": "闭门、举牌、真话，这场路演有点不一样",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-17",
-                "url": "http://www.geekpark.net/news/368885"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "“推动企业发展更上一层楼，为国家作出更大贡献”——习近平总书记指引企业坚定不移走高质量发展之路 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-16",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMUFPdlJaQ0VaNkowNWFEV1pLUWpuZ2lERFptdVJva3hsc25rRXVpZzZ3RnhYUVdZSDU3NGZnSGxCMVRtb3g4ZlNnQVFqTU00bUJVS1RLMnVlZkpXazA4YmJfWEpMZw?oc=5"
             },
             {
                 "title": "强军论坛丨从“难”到“能”的制胜密码 - 中华人民共和国国防部",
@@ -92,19 +86,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82dnZFNXlPb0FCX3RpOFZXVEt4OWpscEZFc3hWXzdRazdXc0swYzJJSzBjX0hhaHhackNOd2ttNGhTTGF4d0lGLWhvZFpZekpDQTljZ285Tnk?oc=5"
             },
             {
-                "title": "国际观察｜战后五年，阿富汗现状如何 - 81.cn",
+                "title": "云海之上,放飞青春梦想——第十一届全国学生军事训练营见闻 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-16",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5reExVT3pVQ0JYWk9hY3BISlFPR25PU0RzemJ2N1NWWTY2NVVFU2tXSGRHdnR4RUI5dm9Zd29oNHplcFpKbmVlU041c0NBcWNkTXFCZEg2NF9kX2JZd1lmNw?oc=5"
+            },
+            {
+                "title": "国际观察｜战后五年，阿富汗现状如何 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DR2tKcjFxQlcwQzBqUVZVR1Z1aWx4b2hfendsaE95ZDhubmo4X1pnelZmZ2RHSVVyNGV4bXhvTWZRTGFuOXI3NlhfWTVnRXdhSGc?oc=5"
             },
             {
-                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 81.cn",
+                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-17",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NE1IU1YteGVhN1JlSHhhckhxQklKZzBvYUVZWEdxX2dVTm9CenNHU2QyaURWcV9tTW5RYWVSazhndEotOWlKM0lR?oc=5"
             },
             {
-                "title": "2026年8月17日解放军报第01版：要闻 - 81.cn",
+                "title": "2026年8月17日解放军报第01版：要闻 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-16",
                 "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2x5TXdUZEJURXZudGhUMnlOSzU1WU9qOEU3NVlNaVdVaEE1Z1BTOFJCUzBqMGw1WkxkblcxU2lTV1pNRnQwbWoxQ3U0VTBvaU9RTDYzU3JkV191d2JJeGNHMkQ1RXZqTTBrdHQxUy1jaU84VW5oWHZYQ29RYmpVWmFrakIzWnh5eUhROEpZVUxsaG1GN2RuNlVlZw?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "冲刺IPO前夕 Anthropic CEO首次公开回应监管质疑",
+                "title": "两名密歇根州女性起诉苹果 指控AirTag防跟踪保护特性失效",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573556.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573612.htm"
             },
             {
-                "title": "一夜暴富的 AI 亿万富豪：买房之后，狂扫私人飞机、超跑、游艇",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-17",
-                "url": "https://www.ithome.com/0/990/629.htm"
-            },
-            {
-                "title": "【袁红冰热点】独家内幕：习新指示：郑丽文国民党是中共统战先遣队、让疑美论成台主旋律！(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-17",
-                "url": "https://www.secretchina.com/news/gb/2026/08/17/1103554.html"
-            },
-            {
-                "title": "AI军备竞赛成本被低估：美九大科技巨头暗藏3万亿美元账单",
+                "title": "Shein香港IPO估值或降至250亿美元 较2022年峰值缩水逾七成",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573554.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573604.htm"
             },
             {
-                "title": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
-                "source": "NewsAPI / 36kr.com",
+                "title": "亿万富翁创始人认同马斯克、山姆・奥特曼与贝索斯观点：人类将在太空生活、工作",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-17",
-                "url": "https://36kr.com/p/3943183864560776?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573600.htm"
+            },
+            {
+                "title": "SpaceX的第一款车，会不会是特斯拉的最后一款？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573594.htm"
+            },
+            {
+                "title": "Meta周二将迎来重大社交媒体成瘾诉讼庭审",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573592.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -148,31 +148,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "“推动企业发展更上一层楼，为国家作出更大贡献”——习近平总书记指引企业坚定不移走高质量发展之路 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-16",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMUFPdlJaQ0VaNkowNWFEV1pLUWpuZ2lERFptdVJva3hsc25rRXVpZzZ3RnhYUVdZSDU3NGZnSGxCMVRtb3g4ZlNnQVFqTU00bUJVS1RLMnVlZkpXazA4YmJfWEpMZw?oc=5"
-            },
-            {
                 "title": "强军论坛丨从“难”到“能”的制胜密码 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-16",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82dnZFNXlPb0FCX3RpOFZXVEt4OWpscEZFc3hWXzdRazdXc0swYzJJSzBjX0hhaHhackNOd2ttNGhTTGF4d0lGLWhvZFpZekpDQTljZ285Tnk?oc=5"
             },
             {
-                "title": "国际观察｜战后五年，阿富汗现状如何 - 81.cn",
+                "title": "云海之上,放飞青春梦想——第十一届全国学生军事训练营见闻 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-16",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5reExVT3pVQ0JYWk9hY3BISlFPR25PU0RzemJ2N1NWWTY2NVVFU2tXSGRHdnR4RUI5dm9Zd29oNHplcFpKbmVlU041c0NBcWNkTXFCZEg2NF9kX2JZd1lmNw?oc=5"
+            },
+            {
+                "title": "国际观察｜战后五年，阿富汗现状如何 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DR2tKcjFxQlcwQzBqUVZVR1Z1aWx4b2hfendsaE95ZDhubmo4X1pnelZmZ2RHSVVyNGV4bXhvTWZRTGFuOXI3NlhfWTVnRXdhSGc?oc=5"
             },
             {
-                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 81.cn",
+                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-17",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NE1IU1YteGVhN1JlSHhhckhxQklKZzBvYUVZWEdxX2dVTm9CenNHU2QyaURWcV9tTW5RYWVSazhndEotOWlKM0lR?oc=5"
             },
             {
-                "title": "2026年8月17日解放军报第01版：要闻 - 81.cn",
+                "title": "2026年8月17日解放军报第01版：要闻 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-16",
                 "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2x5TXdUZEJURXZudGhUMnlOSzU1WU9qOEU3NVlNaVdVaEE1Z1BTOFJCUzBqMGw1WkxkblcxU2lTV1pNRnQwbWoxQ3U0VTBvaU9RTDYzU3JkV191d2JJeGNHMkQ1RXZqTTBrdHQxUy1jaU84VW5oWHZYQ29RYmpVWmFrakIzWnh5eUhROEpZVUxsaG1GN2RuNlVlZw?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-18T06:36:43.304691+00:00"
+    "last_updated": "2026-08-18T12:37:52.943608+00:00"
 }
