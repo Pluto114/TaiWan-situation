@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "台湾地区功率半导体厂商酝酿第三波涨价",
+                "title": "德国去年企业关闭数量创近20年新高",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-18",
-                "url": "https://36kr.com/newsflashes/3944659355122816?f=rss"
+                "url": "https://36kr.com/newsflashes/3944986027310472?f=rss"
             },
             {
-                "title": "全球首个独立运营的生物集成服务器机架原型亮相",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-18",
-                "url": "https://www.ithome.com/0/991/078.htm"
-            },
-            {
-                "title": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-18",
-                "url": "http://www.geekpark.net/news/368962"
-            },
-            {
-                "title": "产自中国的美系整车出口至美国市场将面临52.5%的综合进口关税",
+                "title": "冷战核废墟变8吉瓦AI超级工厂 黄仁勋押15亿 OpenAI独霸20年",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573746.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573800.htm"
             },
             {
-                "title": "Claude 给所有 AI 文字加了水印，全球用户彻底怒了！",
-                "source": "NewsAPI / Ifanr.com",
+                "title": "3399 元起 iQOO Neo11 至尊版发布：首发天玑 9500M + 9100mAh 蓝海电池",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-18",
-                "url": "https://www.ifanr.com/1675465"
+                "url": "https://www.ithome.com/0/991/304.htm"
+            },
+            {
+                "title": "“中科驭数”完成C+轮融资，投后估值近70亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-18",
+                "url": "https://36kr.com/newsflashes/3944943175646594?f=rss"
+            },
+            {
+                "title": "氪星晚报 ｜小米集团二季度智能电动汽车及AI等创新业务收入249亿元；百度二季度总营收313亿元，AI业务收入占比连续过半；我国在量子技术国际标准领域取得新进展",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-18",
+                "url": "https://36kr.com/p/3944909708393602?f=rss"
             }
         ],
         "mil": [
             {
+                "title": "冷战核废墟变8吉瓦AI超级工厂 黄仁勋押15亿 OpenAI独霸20年",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573800.htm"
+            },
+            {
+                "title": "氪星晚报 ｜小米集团二季度智能电动汽车及AI等创新业务收入249亿元；百度二季度总营收313亿元，AI业务收入占比连续过半；我国在量子技术国际标准领域取得新进展",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-18",
+                "url": "https://36kr.com/p/3944909708393602?f=rss"
+            },
+            {
+                "title": "董宇辉“飞机大炮没用、游戏是毒瘤”言论遭韩路反驳",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573788.htm"
+            },
+            {
+                "title": "中国传提前停用政府机构定制版Windows 10 加速去美化",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573782.htm"
+            },
+            {
                 "title": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-18",
                 "url": "http://www.geekpark.net/news/368962"
-            },
-            {
-                "title": "Claude 给所有 AI 文字加了水印，全球用户彻底怒了！",
-                "source": "NewsAPI / Ifanr.com",
-                "date": "2026-08-18",
-                "url": "https://www.ifanr.com/1675465"
-            },
-            {
-                "title": "从「拍得到」到「拍得成」：大疆如何重塑全景影像天花板",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-18",
-                "url": "http://www.geekpark.net/news/368932"
-            },
-            {
-                "title": "收到苹果最新间谍软件警告的用户数量达到“史无前例”的规模",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573664.htm"
-            },
-            {
-                "title": "美国海军新型无人潜航器“HADALUS”成功实现海试水下发射",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573648.htm"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "驻卡尔加里代总领事梁林出席卡尔加里华埠嘉年华活动 - mfa.gov.cn",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUU5NmZ2ZEM3a2ZfVDBxcmN2SmZTRjN6WnFuQk1MZlBlQzdRUmtzY1FPaW03WUNKeGdISU43LWNqZVNycFA0SEFQV3VXMFpBTW1iYmZLeHFfRGFfd01ySFhnM0lwWGxpblBOSE9mcXRJTHF0Mzk4ZWoyT01rQUpaSGtsTVQ?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
+                "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-18",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHljVlY4S3c4Q0czZWlwNG1teUtCV0o0ZjR5aTN5c1pRbjhhaW02X1BneHRhZ1c2ck5WR1p2MmJiZzdfZVAtemwtR09teUhnb3pNTzFKUEVJYmpXYUh1WGdEM3kxSklrOUFEMVdLRWhOY2NUQS1GbDVMUDhwUjhTZjE3LV84dWVfeUlCVXF3?oc=5"
             },
             {
-                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 军网",
+                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NE1IU1YteGVhN1JlSHhhckhxQklKZzBvYUVZWEdxX2dVTm9CenNHU2QyaURWcV9tTW5RYWVSazhndEotOWlKM0lR?oc=5"
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HLXZIb0VzRm1faDJBV0ZDUjhpZ0V6M0JpNzdNSDVpYkNmQ3F3cDRoRTRzczJoZzVua0YzUVJpUFg0a1VHdWNkTHlrbW45MHd3SWc?oc=5"
             },
             {
                 "title": "兵器知识｜直升机如何水上迫降 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aUTZFY2g3anhhR0RRRXA4N005UDdfMHZhZVV3UE5HQ1lOdEtGT3JJWjVmN3ItQy0tQ01mcTJ5X1lsZVdUb21STlFFdjVIRGdNblE?oc=5"
+            },
+            {
+                "title": "2026年全国“新时代好少年”先进事迹发布 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "小红书爆了！中美程序员疯狂对账 - 程序员鱼皮",
+                "source": "NewsAPI / Cnblogs.com",
                 "date": "2026-08-18",
-                "url": "http://www.geekpark.net/news/368962"
+                "url": "https://www.cnblogs.com/yupi/p/18688840"
             },
             {
-                "title": "汇丰要求部分内地存量投资客户提交资金来源声明，未及时提交或将终止相关服务",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-18",
-                "url": "https://36kr.com/newsflashes/3944605562797192?f=rss"
-            },
-            {
-                "title": "一边造 AI 一边清垃圾，硅谷开始为失控内容买单",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-18",
-                "url": "https://www.ithome.com/0/991/058.htm"
-            },
-            {
-                "title": "消息称国际版小米 18 Ultra 取消发布，OPPO / vivo 收缩海外 Ultra 手机规划",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-18",
-                "url": "https://www.ithome.com/0/991/048.htm"
-            },
-            {
-                "title": "Google计划2027年起停止在中国生产Pixel产品",
+                "title": "冷战核废墟变8吉瓦AI超级工厂 黄仁勋押15亿 OpenAI独霸20年",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573742.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573800.htm"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "title": "氪星晚报 ｜小米集团二季度智能电动汽车及AI等创新业务收入249亿元；百度二季度总营收313亿元，AI业务收入占比连续过半；我国在量子技术国际标准领域取得新进展",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-18",
+                "url": "https://36kr.com/p/3944909708393602?f=rss"
+            },
+            {
+                "title": "英伟达在芯片寿命问题上传出矛盾信号",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573798.htm"
+            },
+            {
+                "title": "“蓝天行动”启动：北大西洋航班将绕飞以减少尾迹云升温效应",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573796.htm"
             },
             {
                 "title": "驻卡尔加里代总领事梁林出席卡尔加里华埠嘉年华活动 - mfa.gov.cn",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUU5NmZ2ZEM3a2ZfVDBxcmN2SmZTRjN6WnFuQk1MZlBlQzdRUmtzY1FPaW03WUNKeGdISU43LWNqZVNycFA0SEFQV3VXMFpBTW1iYmZLeHFfRGFfd01ySFhnM0lwWGxpblBOSE9mcXRJTHF0Mzk4ZWoyT01rQUpaSGtsTVQ?oc=5"
             },
             {
-                "title": "您的位置： 在线调查 - 中国人民解放军专业技术人才网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cVpreFBsS3R6S091eFZGS2Z2aHpvUFA3UEtRMHpTRG5xbEdQSXpHcGxMcDViV0dCb3VpR28wLUE0UTdMUG9Cb2RXUFBfRWlTQU5UT1lR?oc=5"
+                "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-18",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHljVlY4S3c4Q0czZWlwNG1teUtCV0o0ZjR5aTN5c1pRbjhhaW02X1BneHRhZ1c2ck5WR1p2MmJiZzdfZVAtemwtR09teUhnb3pNTzFKUEVJYmpXYUh1WGdEM3kxSklrOUFEMVdLRWhOY2NUQS1GbDVMUDhwUjhTZjE3LV84dWVfeUlCVXF3?oc=5"
             },
             {
-                "title": "外交部评日本首相致辞：模糊侵略罪责，大开历史倒车 - 军网",
+                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NE1IU1YteGVhN1JlSHhhckhxQklKZzBvYUVZWEdxX2dVTm9CenNHU2QyaURWcV9tTW5RYWVSazhndEotOWlKM0lR?oc=5"
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HLXZIb0VzRm1faDJBV0ZDUjhpZ0V6M0JpNzdNSDVpYkNmQ3F3cDRoRTRzczJoZzVua0YzUVJpUFg0a1VHdWNkTHlrbW45MHd3SWc?oc=5"
             },
             {
                 "title": "兵器知识｜直升机如何水上迫降 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aUTZFY2g3anhhR0RRRXA4N005UDdfMHZhZVV3UE5HQ1lOdEtGT3JJWjVmN3ItQy0tQ01mcTJ5X1lsZVdUb21STlFFdjVIRGdNblE?oc=5"
+            },
+            {
+                "title": "2026年全国“新时代好少年”先进事迹发布 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-19T06:37:21.896432+00:00"
+    "last_updated": "2026-08-19T12:38:25.535471+00:00"
 }
