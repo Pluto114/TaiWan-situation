@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI 二季度营收 67 亿美元环比增 18%，被 Anthropic 营收反超且亏损持续扩大",
+                "title": "鸿海加码越南、墨西哥子公司，或扩增CPO、AI服务器产能",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3946069994208385?f=rss"
+            },
+            {
+                "title": "美债到5%，吓坏了AI投资者",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/p/3946058108370057?f=rss"
+            },
+            {
+                "title": "台积电先进封装CoWoS产能供不应求，订单爆满",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3946045509336193?f=rss"
+            },
+            {
+                "title": "“神奇小子”创立的公司推出 chestnut eGPU 扩展坞，车载 AI 浮点运算提高约 100 倍",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-19",
-                "url": "https://www.ithome.com/0/991/414.htm"
+                "url": "https://www.ithome.com/0/991/583.htm"
             },
             {
-                "title": "人民币对美元创三年半新高 专家料年内有望温和升值",
+                "title": "SK海力士芯片产出推动，韩国忠清北道第二季度矿业及制造业产出同比激增近28%",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945738829348224?f=rss"
-            },
-            {
-                "title": "中信证券：建议关注DPU头部第三方供应商",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945717925133700?f=rss"
-            },
-            {
-                "title": "华泰证券：看好具备端到端供需闭环能力的中国服装跨境电商龙头持续扩大全球份额",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945715317128578?f=rss"
-            },
-            {
-                "title": "中信建投：稳健者加大算力投入力度，应用飞轮闭环优于预期",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945696319814793?f=rss"
+                "url": "https://36kr.com/newsflashes/3946000235593089?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "科氪 | 当AI走进厨房，老板电器加速迈向AI烹饪科技企业",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/p/3945943299783812?f=rss"
+            },
+            {
+                "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-19",
+                "url": "http://www.geekpark.net/news/369013"
+            },
+            {
+                "title": "AI协助写作的诚实原则",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-19",
+                "url": "https://www.ftchinese.com/story/001110622"
+            },
             {
                 "title": "8点1氪丨董明珠出任格力技校校长，学费最高1.5万元；人均557万元，寒武纪部分员工“大红包”即将到账；宇树科技今日上市",
                 "source": "NewsAPI / 36kr.com",
@@ -56,24 +74,6 @@
                 "url": "http://www.geekpark.net/news/368995"
             },
             {
-                "title": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-19",
-                "url": "https://www.ithome.com/0/991/398.htm"
-            },
-            {
-                "title": "美国之音中文广播",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.voachinese.com/a/8182870.html"
-            },
-            {
-                "title": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.voachinese.com/a/taiwan-holds-expanded-fpv-drone-live-fire-drill-20260818/8187798.html"
-            },
-            {
                 "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-18",
@@ -92,19 +92,19 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1hqLU5UalBSekhSalRfV0RkcjVNdlNhbEpvYjczdDZPN2JMdC15YXQ2dTc2dEFPekZoLUZtd3prc05fZFNtalNvTmNtcm1MZi14NWJ5VjhEeWRWdlRTMnZaR3VvRVdqQ1JaVmRhbjBtTm9FOWkxaXl2cV9hd2xZRkJuaDY?oc=5"
             },
             {
-                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 81.cn",
+                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HLXZIb0VzRm1faDJBV0ZDUjhpZ0V6M0JpNzdNSDVpYkNmQ3F3cDRoRTRzczJoZzVua0YzUVJpUFg0a1VHdWNkTHlrbW45MHd3SWc?oc=5"
             },
             {
-                "title": "兵器知识｜直升机如何水上迫降 - 81.cn",
+                "title": "兵器知识｜直升机如何水上迫降 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aUTZFY2g3anhhR0RRRXA4N005UDdfMHZhZVV3UE5HQ1lOdEtGT3JJWjVmN3ItQy0tQ01mcTJ5X1lsZVdUb21STlFFdjVIRGdNblE?oc=5"
             },
             {
-                "title": "2026年全国“新时代好少年”先进事迹发布 - 81.cn",
+                "title": "2026年全国“新时代好少年”先进事迹发布 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "黄金主题基金总规模突破4200亿元",
+                "title": "美债到5%，吓坏了AI投资者",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945732612488577?f=rss"
+                "url": "https://36kr.com/p/3946058108370057?f=rss"
             },
             {
-                "title": "Kalshi寻求推出股指“永续合约”，进军传统交易所领地",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945718900522114?f=rss"
-            },
-            {
-                "title": "流媒体音乐发布或致致命车祸激增 歌手新专发布日事故率显著上升",
+                "title": "诺基亚撤离中国 深耕中国四十余年黯然退场",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573836.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573906.htm"
             },
             {
-                "title": "鸿海增资越南子公司，计划扩大墨西哥业务",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI 数据中心遭遇反对潮，硅谷巨头开始砸钱“灭火”",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945702658440585?f=rss"
+                "url": "https://www.ithome.com/0/991/577.htm"
             },
             {
-                "title": "中信建投：稳健者加大算力投入力度，应用飞轮闭环优于预期",
+                "title": "科氪 | 当AI走进厨房，老板电器加速迈向AI烹饪科技企业",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3945696319814793?f=rss"
+                "url": "https://36kr.com/p/3945943299783812?f=rss"
+            },
+            {
+                "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-19",
+                "url": "http://www.geekpark.net/news/369013"
             },
             {
                 "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
@@ -160,19 +160,19 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1hqLU5UalBSekhSalRfV0RkcjVNdlNhbEpvYjczdDZPN2JMdC15YXQ2dTc2dEFPekZoLUZtd3prc05fZFNtalNvTmNtcm1MZi14NWJ5VjhEeWRWdlRTMnZaR3VvRVdqQ1JaVmRhbjBtTm9FOWkxaXl2cV9hd2xZRkJuaDY?oc=5"
             },
             {
-                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 81.cn",
+                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HLXZIb0VzRm1faDJBV0ZDUjhpZ0V6M0JpNzdNSDVpYkNmQ3F3cDRoRTRzczJoZzVua0YzUVJpUFg0a1VHdWNkTHlrbW45MHd3SWc?oc=5"
             },
             {
-                "title": "兵器知识｜直升机如何水上迫降 - 81.cn",
+                "title": "兵器知识｜直升机如何水上迫降 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aUTZFY2g3anhhR0RRRXA4N005UDdfMHZhZVV3UE5HQ1lOdEtGT3JJWjVmN3ItQy0tQ01mcTJ5X1lsZVdUb21STlFFdjVIRGdNblE?oc=5"
             },
             {
-                "title": "2026年全国“新时代好少年”先进事迹发布 - 81.cn",
+                "title": "2026年全国“新时代好少年”先进事迹发布 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-20T01:01:47.765374+00:00"
+    "last_updated": "2026-08-20T06:38:56.188032+00:00"
 }
