@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "鸿海加码越南、墨西哥子公司，或扩增CPO、AI服务器产能",
-                "source": "NewsAPI / 36kr.com",
+                "title": "mRNA领域首次突破：Moderna默沙东新型癌症疫苗可防止黑色素瘤复发",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3946069994208385?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573976.htm"
             },
             {
-                "title": "美债到5%，吓坏了AI投资者",
-                "source": "NewsAPI / 36kr.com",
+                "title": "宇树往事",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-19",
-                "url": "https://36kr.com/p/3946058108370057?f=rss"
+                "url": "http://www.geekpark.net/news/369047"
             },
             {
-                "title": "台积电先进封装CoWoS产能供不应求，订单爆满",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3946045509336193?f=rss"
-            },
-            {
-                "title": "“神奇小子”创立的公司推出 chestnut eGPU 扩展坞，车载 AI 浮点运算提高约 100 倍",
+                "title": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-19",
-                "url": "https://www.ithome.com/0/991/583.htm"
+                "url": "https://www.ithome.com/0/991/821.htm"
             },
             {
-                "title": "SK海力士芯片产出推动，韩国忠清北道第二季度矿业及制造业产出同比激增近28%",
+                "title": "氪星晚报｜台积电先进封装CoWoS产能供不应求，订单爆满；小米新一代人形机器人剧透：双足、1.7米左右、全身66个自由度；《全民医疗保障“十五五”规划》发布",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-19",
-                "url": "https://36kr.com/newsflashes/3946000235593089?f=rss"
+                "url": "https://36kr.com/p/3946071336287361?f=rss"
+            },
+            {
+                "title": "三星先进制程代工涨价最高15% AI芯片需求推动产能趋紧",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573966.htm"
             }
         ],
         "mil": [
             {
+                "title": "宇树往事",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-19",
+                "url": "http://www.geekpark.net/news/369047"
+            },
+            {
+                "title": "影史经典《肖申克的救赎 》4K 修复版预售，8 月 28 日首登中国内地大银幕",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-19",
+                "url": "https://www.ithome.com/0/991/731.htm"
+            },
+            {
+                "title": "揭秘汽车“速成”灰色地带 有车企实测仅20% 80%靠仿真",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573920.htm"
+            },
+            {
                 "title": "科氪 | 当AI走进厨房，老板电器加速迈向AI烹饪科技企业",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-19",
@@ -56,40 +74,22 @@
                 "url": "http://www.geekpark.net/news/369013"
             },
             {
-                "title": "AI协助写作的诚实原则",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-19",
-                "url": "https://www.ftchinese.com/story/001110622"
-            },
-            {
-                "title": "8点1氪丨董明珠出任格力技校校长，学费最高1.5万元；人均557万元，寒武纪部分员工“大红包”即将到账；宇树科技今日上市",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/p/3945701165202817?f=rss"
-            },
-            {
-                "title": "苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-19",
-                "url": "http://www.geekpark.net/news/368995"
-            },
-            {
-                "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
+                "title": "2026年8月19日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-18",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHljVlY4S3c4Q0czZWlwNG1teUtCV0o0ZjR5aTN5c1pRbjhhaW02X1BneHRhZ1c2ck5WR1p2MmJiZzdfZVAtemwtR09teUhnb3pNTzFKUEVJYmpXYUh1WGdEM3kxSklrOUFEMVdLRWhOY2NUQS1GbDVMUDhwUjhTZjE3LV84dWVfeUlCVXF3?oc=5"
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSLXVXZDZzWEZ0YksybXcxRG40UndYYXR2ekIwVXNGN3gtamx1QVJ4aFlXbUZvVHlJZktWMTJSVHZhLWhkdU0zcEVRekgwLWNhUXMzYm1fazdrTG96TVZ1eXNMODM1VVZQN2J5Ql9aUVotZE1ELXpmdkpiRQ?oc=5"
+            },
+            {
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-20",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83SG5sWWFhWjFKLTdqZkR2SnB5T1p2QzlhOVhQbkR3cGdSZnkyaVpRbXJrN3V3ZWhDdkFPLVVSdUowaXBvallnam1tNi0ycGY2Nk9xTE9CSDlOWlNzNUlXWGZKMGVpSW01SVRR?oc=5"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83S2lvbHY5bjFPZ051N1RjZzFkLVpzU21nVjJQTVZwVXdTRHd5SWZ1a05MeE5vT1lvUnlkMVlwR1RQR2lVekpVd3RoQTBXMUh1ektRb01RZlpQZFpxZVlTT0lGNjdPM3dVTkJN?oc=5"
-            },
-            {
-                "title": "外交部亚洲司司长沈敏娟出席阿富汗驻华使馆招待会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1hqLU5UalBSekhSalRfV0RkcjVNdlNhbEpvYjczdDZPN2JMdC15YXQ2dTc2dEFPekZoLUZtd3prc05fZFNtalNvTmNtcm1MZi14NWJ5VjhEeWRWdlRTMnZaR3VvRVdqQ1JaVmRhbjBtTm9FOWkxaXl2cV9hd2xZRkJuaDY?oc=5"
             },
             {
                 "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
@@ -108,56 +108,62 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
+            },
+            {
+                "title": "台州海事局权责清单调整说明 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-08-20",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQTJReXdaZmhGTF9Eb0lMY0JtMGQzdER3empTWnFpM01KbjBQTzJGSm1aR2phZW9VdlhBRnV6dmlqTktSUGtVaXplUGxUVGpQREVKU0FhY0hjTDBKcVhwazdIdEY1RUZEOTVTRHJB?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美债到5%，吓坏了AI投资者",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/p/3946058108370057?f=rss"
-            },
-            {
-                "title": "诺基亚撤离中国 深耕中国四十余年黯然退场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573906.htm"
-            },
-            {
-                "title": "AI 数据中心遭遇反对潮，硅谷巨头开始砸钱“灭火”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-19",
-                "url": "https://www.ithome.com/0/991/577.htm"
-            },
-            {
-                "title": "科氪 | 当AI走进厨房，老板电器加速迈向AI烹饪科技企业",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-19",
-                "url": "https://36kr.com/p/3945943299783812?f=rss"
-            },
-            {
-                "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+                "title": "宇树往事",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-19",
-                "url": "http://www.geekpark.net/news/369013"
+                "url": "http://www.geekpark.net/news/369047"
             },
             {
-                "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
+                "title": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-19",
+                "url": "https://www.ithome.com/0/991/821.htm"
+            },
+            {
+                "title": "三星先进制程代工涨价最高15% AI芯片需求推动产能趋紧",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573966.htm"
+            },
+            {
+                "title": "FBI解密文件揭共谍方芳利用性、实习生影响美政治(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-19",
+                "url": "https://www.secretchina.com/news/gb/2026/08/19/1103657.html"
+            },
+            {
+                "title": "综述丨刚果（金）埃博拉病例超五千 世卫维持警报 - 新华网客户端",
+                "source": "NewsAPI / Xinhua Net",
+                "date": "2026-08-19",
+                "url": "https://app.xinhuanet.com/news/article.html?articleId=202608198ab96bf9d3b94679830db35c8f59a193"
+            },
+            {
+                "title": "2026年8月19日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-18",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHljVlY4S3c4Q0czZWlwNG1teUtCV0o0ZjR5aTN5c1pRbjhhaW02X1BneHRhZ1c2ck5WR1p2MmJiZzdfZVAtemwtR09teUhnb3pNTzFKUEVJYmpXYUh1WGdEM3kxSklrOUFEMVdLRWhOY2NUQS1GbDVMUDhwUjhTZjE3LV84dWVfeUlCVXF3?oc=5"
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSLXVXZDZzWEZ0YksybXcxRG40UndYYXR2ekIwVXNGN3gtamx1QVJ4aFlXbUZvVHlJZktWMTJSVHZhLWhkdU0zcEVRekgwLWNhUXMzYm1fazdrTG96TVZ1eXNMODM1VVZQN2J5Ql9aUVotZE1ELXpmdkpiRQ?oc=5"
+            },
+            {
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-20",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83SG5sWWFhWjFKLTdqZkR2SnB5T1p2QzlhOVhQbkR3cGdSZnkyaVpRbXJrN3V3ZWhDdkFPLVVSdUowaXBvallnam1tNi0ycGY2Nk9xTE9CSDlOWlNzNUlXWGZKMGVpSW01SVRR?oc=5"
             },
             {
                 "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83S2lvbHY5bjFPZ051N1RjZzFkLVpzU21nVjJQTVZwVXdTRHd5SWZ1a05MeE5vT1lvUnlkMVlwR1RQR2lVekpVd3RoQTBXMUh1ektRb01RZlpQZFpxZVlTT0lGNjdPM3dVTkJN?oc=5"
-            },
-            {
-                "title": "外交部亚洲司司长沈敏娟出席阿富汗驻华使馆招待会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1hqLU5UalBSekhSalRfV0RkcjVNdlNhbEpvYjczdDZPN2JMdC15YXQ2dTc2dEFPekZoLUZtd3prc05fZFNtalNvTmNtcm1MZi14NWJ5VjhEeWRWdlRTMnZaR3VvRVdqQ1JaVmRhbjBtTm9FOWkxaXl2cV9hd2xZRkJuaDY?oc=5"
             },
             {
                 "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
@@ -176,9 +182,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
+            },
+            {
+                "title": "台州海事局权责清单调整说明 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-08-20",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQTJReXdaZmhGTF9Eb0lMY0JtMGQzdER3empTWnFpM01KbjBQTzJGSm1aR2phZW9VdlhBRnV6dmlqTktSUGtVaXplUGxUVGpQREVKU0FhY0hjTDBKcVhwazdIdEY1RUZEOTVTRHJB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-20T06:38:56.188032+00:00"
+    "last_updated": "2026-08-20T12:40:03.289309+00:00"
 }
