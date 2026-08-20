@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "苹果宣布全面调整欧盟区域应用商业条款 大幅降低复杂性并加强儿童保护",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573826.htm"
-            },
-            {
-                "title": "美菲成立非法捕捞举报中心，应对共同的经济和安全威胁",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.voachinese.com/a/us-funds-community-reporting-center-to-combat-illegal-fishing-20260818/8187720.html"
-            },
-            {
-                "title": "苹果变更欧盟地区 App 商业条款：App Store 外发行的 App 内数字交易费率 5%",
+                "title": "OpenAI 二季度营收 67 亿美元环比增 18%，被 Anthropic 营收反超且亏损持续扩大",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-18",
-                "url": "https://www.ithome.com/0/991/366.htm"
+                "date": "2026-08-19",
+                "url": "https://www.ithome.com/0/991/414.htm"
             },
             {
-                "title": "匈牙利的再转向与世界政治：历史、认同与转型——匈牙利四月政治变革简论",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.ftchinese.com/story/001110653"
+                "title": "人民币对美元创三年半新高 专家料年内有望温和升值",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945738829348224?f=rss"
             },
             {
-                "title": "格林斯潘与美联储透明度“革命”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.ftchinese.com/story/001110621"
+                "title": "中信证券：建议关注DPU头部第三方供应商",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945717925133700?f=rss"
+            },
+            {
+                "title": "华泰证券：看好具备端到端供需闭环能力的中国服装跨境电商龙头持续扩大全球份额",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945715317128578?f=rss"
+            },
+            {
+                "title": "中信建投：稳健者加大算力投入力度，应用飞轮闭环优于预期",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945696319814793?f=rss"
             }
         ],
         "mil": [
             {
-                "title": "匈牙利的再转向与世界政治：历史、认同与转型——匈牙利四月政治变革简论",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.ftchinese.com/story/001110653"
-            },
-            {
-                "title": "冷战核废墟变8吉瓦AI超级工厂 黄仁勋押15亿 OpenAI独霸20年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573800.htm"
-            },
-            {
-                "title": "氪星晚报 ｜小米集团二季度智能电动汽车及AI等创新业务收入249亿元；百度二季度总营收313亿元，AI业务收入占比连续过半；我国在量子技术国际标准领域取得新进展",
+                "title": "8点1氪丨董明珠出任格力技校校长，学费最高1.5万元；人均557万元，寒武纪部分员工“大红包”即将到账；宇树科技今日上市",
                 "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-18",
-                "url": "https://36kr.com/p/3944909708393602?f=rss"
+                "date": "2026-08-19",
+                "url": "https://36kr.com/p/3945701165202817?f=rss"
             },
             {
-                "title": "董宇辉“飞机大炮没用、游戏是毒瘤”言论遭韩路反驳",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573788.htm"
+                "title": "苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-19",
+                "url": "http://www.geekpark.net/news/368995"
             },
             {
-                "title": "中国传提前停用政府机构定制版Windows 10 加速去美化",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573782.htm"
+                "title": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-19",
+                "url": "https://www.ithome.com/0/991/398.htm"
             },
             {
-                "title": "驻卡尔加里代总领事梁林出席卡尔加里华埠嘉年华活动 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "美国之音中文广播",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-08-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWFBTHZQRWtLT0cxd1dxNi1iS2xlU1BDNzBMX0J6MTd3NUNrR0h4dThMM2dFNlpxbWR5YW16TGJvRkc5VDktT2tKWGtIUVdwOWlTN0VJZUJDb0Nfc2x4MEFKd3lkejBFb0lzWDVZSExFdVRabFQxblR5c3Y2THlHeEo0ZHc?oc=5"
+                "url": "https://www.voachinese.com/a/8182870.html"
+            },
+            {
+                "title": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-18",
+                "url": "https://www.voachinese.com/a/taiwan-holds-expanded-fpv-drone-live-fire-drill-20260818/8187798.html"
             },
             {
                 "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
@@ -86,25 +80,31 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHljVlY4S3c4Q0czZWlwNG1teUtCV0o0ZjR5aTN5c1pRbjhhaW02X1BneHRhZ1c2ck5WR1p2MmJiZzdfZVAtemwtR09teUhnb3pNTzFKUEVJYmpXYUh1WGdEM3kxSklrOUFEMVdLRWhOY2NUQS1GbDVMUDhwUjhTZjE3LV84dWVfeUlCVXF3?oc=5"
             },
             {
-                "title": "驻格林纳达大使杨舒与中国政府奖学金获得者和媒体代表座谈 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEtPeFVZdGd0QkZVaEVKdnQ0cEpMd2NDWl9kRHhYSjdSZzQ5Wnd2bXRySkZhdEVIWDVCSnN0YjdvUjlwdGpHbXhmNzhzNHpHTk1scFhzUkJKN2hwc1J4S2NrR0RJZVJsR0JMR1MzYTNQT05vWWNoWGZQb1JFb1QyQ081YnM?oc=5"
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83S2lvbHY5bjFPZ051N1RjZzFkLVpzU21nVjJQTVZwVXdTRHd5SWZ1a05MeE5vT1lvUnlkMVlwR1RQR2lVekpVd3RoQTBXMUh1ektRb01RZlpQZFpxZVlTT0lGNjdPM3dVTkJN?oc=5"
             },
             {
-                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
+                "title": "外交部亚洲司司长沈敏娟出席阿富汗驻华使馆招待会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-18",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1hqLU5UalBSekhSalRfV0RkcjVNdlNhbEpvYjczdDZPN2JMdC15YXQ2dTc2dEFPekZoLUZtd3prc05fZFNtalNvTmNtcm1MZi14NWJ5VjhEeWRWdlRTMnZaR3VvRVdqQ1JaVmRhbjBtTm9FOWkxaXl2cV9hd2xZRkJuaDY?oc=5"
+            },
+            {
+                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HLXZIb0VzRm1faDJBV0ZDUjhpZ0V6M0JpNzdNSDVpYkNmQ3F3cDRoRTRzczJoZzVua0YzUVJpUFg0a1VHdWNkTHlrbW45MHd3SWc?oc=5"
             },
             {
-                "title": "兵器知识｜直升机如何水上迫降 - 军网",
+                "title": "兵器知识｜直升机如何水上迫降 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aUTZFY2g3anhhR0RRRXA4N005UDdfMHZhZVV3UE5HQ1lOdEtGT3JJWjVmN3ItQy0tQ01mcTJ5X1lsZVdUb21STlFFdjVIRGdNblE?oc=5"
             },
             {
-                "title": "2026年全国“新时代好少年”先进事迹发布 - 军网",
+                "title": "2026年全国“新时代好少年”先进事迹发布 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "苹果宣布全面调整欧盟区域应用商业条款 大幅降低复杂性并加强儿童保护",
+                "title": "黄金主题基金总规模突破4200亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945732612488577?f=rss"
+            },
+            {
+                "title": "Kalshi寻求推出股指“永续合约”，进军传统交易所领地",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945718900522114?f=rss"
+            },
+            {
+                "title": "流媒体音乐发布或致致命车祸激增 歌手新专发布日事故率显著上升",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1573826.htm"
+                "date": "2026-08-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1573836.htm"
             },
             {
-                "title": "苹果变更欧盟地区 App 商业条款：App Store 外发行的 App 内数字交易费率 5%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-18",
-                "url": "https://www.ithome.com/0/991/366.htm"
+                "title": "鸿海增资越南子公司，计划扩大墨西哥业务",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945702658440585?f=rss"
             },
             {
-                "title": "中国煤电的“双重保护”悖论",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.ftchinese.com/story/001110648"
-            },
-            {
-                "title": "匈牙利的再转向与世界政治：历史、认同与转型——匈牙利四月政治变革简论",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.ftchinese.com/story/001110653"
-            },
-            {
-                "title": "格林斯潘与美联储透明度“革命”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-18",
-                "url": "https://www.ftchinese.com/story/001110621"
-            },
-            {
-                "title": "驻卡尔加里代总领事梁林出席卡尔加里华埠嘉年华活动 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-18",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWFBTHZQRWtLT0cxd1dxNi1iS2xlU1BDNzBMX0J6MTd3NUNrR0h4dThMM2dFNlpxbWR5YW16TGJvRkc5VDktT2tKWGtIUVdwOWlTN0VJZUJDb0Nfc2x4MEFKd3lkejBFb0lzWDVZSExFdVRabFQxblR5c3Y2THlHeEo0ZHc?oc=5"
+                "title": "中信建投：稳健者加大算力投入力度，应用飞轮闭环优于预期",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-19",
+                "url": "https://36kr.com/newsflashes/3945696319814793?f=rss"
             },
             {
                 "title": "习近平同厄瓜多尔总统诺沃亚会谈 - mfa.gov.cn",
@@ -154,25 +148,31 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHljVlY4S3c4Q0czZWlwNG1teUtCV0o0ZjR5aTN5c1pRbjhhaW02X1BneHRhZ1c2ck5WR1p2MmJiZzdfZVAtemwtR09teUhnb3pNTzFKUEVJYmpXYUh1WGdEM3kxSklrOUFEMVdLRWhOY2NUQS1GbDVMUDhwUjhTZjE3LV84dWVfeUlCVXF3?oc=5"
             },
             {
-                "title": "驻格林纳达大使杨舒与中国政府奖学金获得者和媒体代表座谈 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEtPeFVZdGd0QkZVaEVKdnQ0cEpMd2NDWl9kRHhYSjdSZzQ5Wnd2bXRySkZhdEVIWDVCSnN0YjdvUjlwdGpHbXhmNzhzNHpHTk1scFhzUkJKN2hwc1J4S2NrR0RJZVJsR0JMR1MzYTNQT05vWWNoWGZQb1JFb1QyQ081YnM?oc=5"
+                "date": "2026-08-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83S2lvbHY5bjFPZ051N1RjZzFkLVpzU21nVjJQTVZwVXdTRHd5SWZ1a05MeE5vT1lvUnlkMVlwR1RQR2lVekpVd3RoQTBXMUh1ektRb01RZlpQZFpxZVlTT0lGNjdPM3dVTkJN?oc=5"
             },
             {
-                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 军网",
+                "title": "外交部亚洲司司长沈敏娟出席阿富汗驻华使馆招待会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-18",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1hqLU5UalBSekhSalRfV0RkcjVNdlNhbEpvYjczdDZPN2JMdC15YXQ2dTc2dEFPekZoLUZtd3prc05fZFNtalNvTmNtcm1MZi14NWJ5VjhEeWRWdlRTMnZaR3VvRVdqQ1JaVmRhbjBtTm9FOWkxaXl2cV9hd2xZRkJuaDY?oc=5"
+            },
+            {
+                "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HLXZIb0VzRm1faDJBV0ZDUjhpZ0V6M0JpNzdNSDVpYkNmQ3F3cDRoRTRzczJoZzVua0YzUVJpUFg0a1VHdWNkTHlrbW45MHd3SWc?oc=5"
             },
             {
-                "title": "兵器知识｜直升机如何水上迫降 - 军网",
+                "title": "兵器知识｜直升机如何水上迫降 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aUTZFY2g3anhhR0RRRXA4N005UDdfMHZhZVV3UE5HQ1lOdEtGT3JJWjVmN3ItQy0tQ01mcTJ5X1lsZVdUb21STlFFdjVIRGdNblE?oc=5"
             },
             {
-                "title": "2026年全国“新时代好少年”先进事迹发布 - 军网",
+                "title": "2026年全国“新时代好少年”先进事迹发布 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lM1RmQ0puaTlaT0NmTFp0aTNDSTR5NmNTZEdidDI0NGVuTXkwMlNabGtnYV9PUHlud3FnSWxMaW1LZEhnZzE3WFVJVHJmUWRvNWc?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-19T18:29:06.747503+00:00"
+    "last_updated": "2026-08-20T01:01:47.765374+00:00"
 }
