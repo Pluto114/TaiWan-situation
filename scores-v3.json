@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "半导体行业繁荣带动税收超预期，韩国拟设“未来应对基金”投资青年、AI等领域",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-21",
-                "url": "http://www.geekpark.net/news/369161"
+                "url": "https://36kr.com/newsflashes/3949246276304006?f=rss"
             },
             {
-                "title": "记录一个由浮点运算引起的崩溃 - 书生执笔画浮沉",
-                "source": "NewsAPI / Cnblogs.com",
+                "title": "《促进网信企业高质量发展行动计划（2026-2030年）》发布",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-21",
-                "url": "https://www.cnblogs.com/KBin/p/22614217"
+                "url": "https://36kr.com/newsflashes/3949240235965833?f=rss"
             },
             {
-                "title": "北京现代艾尼氪 V 发布：为中国用户量身定制，预售价 11.99 万元起",
+                "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-21",
-                "url": "https://www.ithome.com/0/992/590.htm"
+                "url": "https://www.ithome.com/0/992/843.htm"
             },
             {
-                "title": "专访任利锋：那个曾做出抖音的人，如今在工厂里做AI",
+                "title": "氪星晚报｜中科曙光超节点产品亮相安徽算力大会；广州市中级人民法院依法受理恒大地产集团有限公司破产清算案；科大讯飞：将于今年全球1024开发者节推出全新主力通用大模型",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-21",
-                "url": "https://36kr.com/p/3948773732728195?f=rss"
+                "url": "https://36kr.com/p/3946071687921026?f=rss"
             },
             {
-                "title": "模型不拼参数拼闭环、讲家庭场景落地，今年的大会不再「性感」丨直击WRC2026",
-                "source": "NewsAPI / 36kr.com",
+                "title": "德语媒体：美国是否成功实现与中国“脱钩”？",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-08-21",
-                "url": "https://36kr.com/p/3948754198117504?f=rss"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%BE%8E%E5%9B%BD%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F%E5%AE%9E%E7%8E%B0%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%84%B1%E9%92%A9/a-78457639"
             }
         ],
         "mil": [
+            {
+                "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-21",
+                "url": "http://www.geekpark.net/news/369200"
+            },
+            {
+                "title": "罗永浩公关复盘西贝预制菜事件始末：曾劝西贝“以死相谏”拦住贾国龙",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574366.htm"
+            },
+            {
+                "title": "AI生成劣质文稿泛滥 美国众议院法案起草办公室不堪重负",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574330.htm"
+            },
+            {
+                "title": "春风动力 450MT 罗马尼亚冠军版预售，售价 30580 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-21",
+                "url": "https://www.ithome.com/0/992/636.htm"
+            },
             {
                 "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
                 "source": "NewsAPI / Geekpark.net",
@@ -50,40 +74,10 @@
                 "url": "http://www.geekpark.net/news/369162"
             },
             {
-                "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-21",
-                "url": "http://www.geekpark.net/news/369161"
-            },
-            {
-                "title": "专访任利锋：那个曾做出抖音的人，如今在工厂里做AI",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-21",
-                "url": "https://36kr.com/p/3948773732728195?f=rss"
-            },
-            {
-                "title": "跳槽去机器人吗？赚一波快钱 ｜深氪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-21",
-                "url": "https://36kr.com/p/3947887902194823?f=rss"
-            },
-            {
-                "title": "36氪专访 | 韶音中国区CEO杨云：想太多没有用，冲去市场上做就好了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-21",
-                "url": "https://36kr.com/p/3948048591207555?f=rss"
-            },
-            {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "驻巴基斯坦使馆临时代办施远强出席“共享未来、共享繁荣”绿色发展主题研讨会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83SG5sWWFhWjFKLTdqZkR2SnB5T1p2QzlhOVhQbkR3cGdSZnkyaVpRbXJrN3V3ZWhDdkFPLVVSdUowaXBvallnam1tNi0ycGY2Nk9xTE9CSDlOWlNzNUlXWGZKMGVpSW01SVRR?oc=5"
-            },
-            {
-                "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NNjZqTnhvODVqOGphMTBxTzlRVEloWFR1MERQNi1aNV96elAyVjhIY0poVjJsVkhTYzJaREthNEh0X3hRU2x5NzFRZ0pSM21ZNkhwZmhRRGQ?oc=5"
+                "date": "2026-08-21",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmJvMnVudUd1MkZrY2xWQUZLVFpNeklIVTFESERkNm1EOHZPY2hvNzNLQ3NfOVNkRThMbVc1WGFXdXJidGJTOVB2dlk5ZjBDUl8zSThEd2VJY0c2WUVadWx5bTVfbWhzZDYwNmFZWmJHVmZaeVFTbHR3bDl2Tm1FYTF6QlE?oc=5"
             },
             {
                 "title": "海拔五五九二：爱在云端绽放 - 中华人民共和国国防部",
@@ -92,72 +86,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rbS1SQ1YwaUt1TWNRY1Z2SWpaeWh4WXB3QW5uT0VLeVhtSkFWMXpkcTU5eUVFaUoxd2tCek01UlRaa3NVcmlQY1ZIZ3JqOTh4WnAwZnV6WWZ6bGMyd2JBTg?oc=5"
             },
             {
-                "title": "【青春华章·长征路上山河新】在红军寨窑洞中读懂岁月静好来之不易 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkdHNBcmFVZE9FSmVZMDN0VWxWNzU5a0g3cURyQnJDZV9ZQWdnTnJQSUdSbjl2SWxUVFJKY29CYlM3emJaSzdkVzYyT0RSYWxDeXc?oc=5"
+                "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-22",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zWXlKaGxURGxTY0FQbFhNRDVRcmlaLTRMN0xGUGp2LVp5VDV5eEM3Z0xKd2lqR2c0bWZiMGRwQy1JX3ppSXN6aTRHTm1DNjdYaUxjd1I0dE1rUTBVZVEyVmVGaw?oc=5"
             },
             {
-                "title": "2026年8月21日中国国防报第01版：要闻 - 中国军网",
+                "title": "科学防溺，这样做→ - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
+            },
+            {
+                "title": "2026年8月21日中国国防报第01版：要闻 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-20",
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGZTUXF5ekppNFlqOVRlWjhyN0pjbkE0OEtCTjh3ZmhpWElVWnBaWU1tS0doM2xrWW9YTWRmMzFkdUVtcXgzWWE0dmpCVElDODYxaVNOdFowUDg5RHpzdUU4cHQxMFI2bFpaNmw2M2xSN2F0QjAybUFzT0lsY1ZQQjFzb05EN0tPUzBDRy1vVmxFcjZzdHVLQzR5NWpJM3B3?oc=5"
             },
             {
-                "title": "中国与瑞士宣布完成自贸协定升级谈判 - 中国军网",
+                "title": "中国与瑞士宣布完成自贸协定升级谈判 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTEtydEhPYldqNHJZdlNhQzg0RmVWei1MbW9EMmFPUktNbmtFdktkZENyWW91UW9zelQyR0pLYWxZNnB4bGNyc3JNNjJXS2U2Z3c?oc=5"
-            },
-            {
-                "title": "台州海事局权责清单调整说明 - zj.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQTJReXdaZmhGTF9Eb0lMY0JtMGQzdER3empTWnFpM01KbjBQTzJGSm1aR2phZW9VdlhBRnV6dmlqTktSUGtVaXplUGxUVGpQREVKU0FhY0hjTDBKcVhwazdIdEY1RUZEOTVTRHJB?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-21",
-                "url": "http://www.geekpark.net/news/369161"
-            },
-            {
-                "title": "A50直线拉升涨超1%，外围传来三大利好",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-21",
-                "url": "https://36kr.com/newsflashes/3948766906416514?f=rss"
-            },
-            {
-                "title": "模型不拼参数拼闭环、讲家庭场景落地，今年的大会不再「性感」丨直击WRC2026",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-21",
-                "url": "https://36kr.com/p/3948754198117504?f=rss"
-            },
-            {
-                "title": "小鹏 X9 官宣全球累计交付量突破 6 万台，7 月获香港、泰国豪华纯电 MPV 销量第一",
+                "title": "GitHub 通报 8 月 17 日大规模宕机事件原因：基础设施容量未能跟上平台使用量的快速增长",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-21",
-                "url": "https://www.ithome.com/0/992/579.htm"
+                "url": "https://www.ithome.com/0/992/844.htm"
             },
             {
-                "title": "新一汽红旗 HS5 上市：灵犀智舱 5.0、红旗司南智驾上车，13.48 万元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "联合国：刚果（金）埃博拉疫情“呈指数级增长” - orientaldaily.com.my",
+                "source": "NewsAPI / Orientaldaily.com.my",
                 "date": "2026-08-21",
-                "url": "https://www.ithome.com/0/992/490.htm"
+                "url": "https://www.orientaldaily.com.my/news/international/2026/08/21/842289"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83SG5sWWFhWjFKLTdqZkR2SnB5T1p2QzlhOVhQbkR3cGdSZnkyaVpRbXJrN3V3ZWhDdkFPLVVSdUowaXBvallnam1tNi0ycGY2Nk9xTE9CSDlOWlNzNUlXWGZKMGVpSW01SVRR?oc=5"
+                "title": "客服新国标将实施 实测App转人工：电商较快捷，微博客服等待12分钟未接通",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574378.htm"
             },
             {
-                "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统 - 中华人民共和国国防部",
+                "title": "LV起诉国家知识产权局遭法院驳回",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574376.htm"
+            },
+            {
+                "title": "美国机器人大会火了 中国机器人却成主角",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574374.htm"
+            },
+            {
+                "title": "驻巴基斯坦使馆临时代办施远强出席“共享未来、共享繁荣”绿色发展主题研讨会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NNjZqTnhvODVqOGphMTBxTzlRVEloWFR1MERQNi1aNV96elAyVjhIY0poVjJsVkhTYzJaREthNEh0X3hRU2x5NzFRZ0pSM21ZNkhwZmhRRGQ?oc=5"
+                "date": "2026-08-21",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmJvMnVudUd1MkZrY2xWQUZLVFpNeklIVTFESERkNm1EOHZPY2hvNzNLQ3NfOVNkRThMbVc1WGFXdXJidGJTOVB2dlk5ZjBDUl8zSThEd2VJY0c2WUVadWx5bTVfbWhzZDYwNmFZWmJHVmZaeVFTbHR3bDl2Tm1FYTF6QlE?oc=5"
             },
             {
                 "title": "海拔五五九二：爱在云端绽放 - 中华人民共和国国防部",
@@ -166,31 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rbS1SQ1YwaUt1TWNRY1Z2SWpaeWh4WXB3QW5uT0VLeVhtSkFWMXpkcTU5eUVFaUoxd2tCek01UlRaa3NVcmlQY1ZIZ3JqOTh4WnAwZnV6WWZ6bGMyd2JBTg?oc=5"
             },
             {
-                "title": "【青春华章·长征路上山河新】在红军寨窑洞中读懂岁月静好来之不易 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkdHNBcmFVZE9FSmVZMDN0VWxWNzU5a0g3cURyQnJDZV9ZQWdnTnJQSUdSbjl2SWxUVFJKY29CYlM3emJaSzdkVzYyT0RSYWxDeXc?oc=5"
+                "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-22",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zWXlKaGxURGxTY0FQbFhNRDVRcmlaLTRMN0xGUGp2LVp5VDV5eEM3Z0xKd2lqR2c0bWZiMGRwQy1JX3ppSXN6aTRHTm1DNjdYaUxjd1I0dE1rUTBVZVEyVmVGaw?oc=5"
             },
             {
-                "title": "2026年8月21日中国国防报第01版：要闻 - 中国军网",
+                "title": "科学防溺，这样做→ - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
+            },
+            {
+                "title": "2026年8月21日中国国防报第01版：要闻 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-20",
                 "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGZTUXF5ekppNFlqOVRlWjhyN0pjbkE0OEtCTjh3ZmhpWElVWnBaWU1tS0doM2xrWW9YTWRmMzFkdUVtcXgzWWE0dmpCVElDODYxaVNOdFowUDg5RHpzdUU4cHQxMFI2bFpaNmw2M2xSN2F0QjAybUFzT0lsY1ZQQjFzb05EN0tPUzBDRy1vVmxFcjZzdHVLQzR5NWpJM3B3?oc=5"
             },
             {
-                "title": "中国与瑞士宣布完成自贸协定升级谈判 - 中国军网",
+                "title": "中国与瑞士宣布完成自贸协定升级谈判 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTEtydEhPYldqNHJZdlNhQzg0RmVWei1MbW9EMmFPUktNbmtFdktkZENyWW91UW9zelQyR0pLYWxZNnB4bGNyc3JNNjJXS2U2Z3c?oc=5"
-            },
-            {
-                "title": "台州海事局权责清单调整说明 - zj.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-08-20",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQTJReXdaZmhGTF9Eb0lMY0JtMGQzdER3empTWnFpM01KbjBQTzJGSm1aR2phZW9VdlhBRnV6dmlqTktSUGtVaXplUGxUVGpQREVKU0FhY0hjTDBKcVhwazdIdEY1RUZEOTVTRHJB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-22T06:33:18.356208+00:00"
+    "last_updated": "2026-08-22T12:31:33.905601+00:00"
 }
