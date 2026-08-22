@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "半导体行业繁荣带动税收超预期，韩国拟设“未来应对基金”投资青年、AI等领域",
-                "source": "NewsAPI / 36kr.com",
+                "title": "朱镕基盖棺尚难论定",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-21",
-                "url": "https://36kr.com/newsflashes/3949246276304006?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/08/22/1103778.html"
             },
             {
-                "title": "《促进网信企业高质量发展行动计划（2026-2030年）》发布",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特朗普总统：伊朗领导人丧生使达成协议变得困难",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-08-21",
-                "url": "https://36kr.com/newsflashes/3949240235965833?f=rss"
+                "url": "https://www.voachinese.com/a/president-trump-says-killing-of-iran-s-leaders-makes-a-deal-difficult-20260821/8188940.html"
             },
             {
-                "title": "国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中共已只字不提“中国制造2025”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-21",
-                "url": "https://www.ithome.com/0/992/843.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/22/1103774.html"
             },
             {
-                "title": "氪星晚报｜中科曙光超节点产品亮相安徽算力大会；广州市中级人民法院依法受理恒大地产集团有限公司破产清算案；科大讯飞：将于今年全球1024开发者节推出全新主力通用大模型",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国政府实验室对中国激光雷达展开安全漏洞调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-21",
-                "url": "https://36kr.com/p/3946071687921026?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574396.htm"
             },
             {
-                "title": "德语媒体：美国是否成功实现与中国“脱钩”？",
-                "source": "NewsAPI / DW (English)",
+                "title": "为什么台湾和南海问题对美国和世界如此重要(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-21",
-                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E7%BE%8E%E5%9B%BD%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F%E5%AE%9E%E7%8E%B0%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%84%B1%E9%92%A9/a-78457639"
+                "url": "https://www.secretchina.com/news/gb/2026/08/22/1103771.html"
             }
         ],
         "mil": [
+            {
+                "title": "特朗普总统：伊朗领导人丧生使达成协议变得困难",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-21",
+                "url": "https://www.voachinese.com/a/president-trump-says-killing-of-iran-s-leaders-makes-a-deal-difficult-20260821/8188940.html"
+            },
+            {
+                "title": "美国政府实验室对中国激光雷达展开安全漏洞调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574396.htm"
+            },
+            {
+                "title": "为什么台湾和南海问题对美国和世界如此重要(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-21",
+                "url": "https://www.secretchina.com/news/gb/2026/08/22/1103771.html"
+            },
             {
                 "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
                 "source": "NewsAPI / Geekpark.net",
@@ -56,40 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1574366.htm"
             },
             {
-                "title": "AI生成劣质文稿泛滥 美国众议院法案起草办公室不堪重负",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574330.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "春风动力 450MT 罗马尼亚冠军版预售，售价 30580 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "驻塞浦路斯大使杨云东到任拜会塞卫生部长哈拉朗彼得斯 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-21",
-                "url": "https://www.ithome.com/0/992/636.htm"
-            },
-            {
-                "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-21",
-                "url": "http://www.geekpark.net/news/369162"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjVkTEF5aXpGb05wTTVtbkQ0eGlHQnhFdERNNEVmdWRSY2ZNb0pxaVVrXzBuZ01aLUIwcDUtU2hKd2FkMHl6b1BmWk15SDVsQ1FQY3h6enJzeUwtSGxSalF6ZGU1YlRhNVBqQ0o2YUNhMFZqV3VacmtlREZKWW9nQTdNdDE?oc=5"
             },
             {
                 "title": "驻巴基斯坦使馆临时代办施远强出席“共享未来、共享繁荣”绿色发展主题研讨会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-21",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmJvMnVudUd1MkZrY2xWQUZLVFpNeklIVTFESERkNm1EOHZPY2hvNzNLQ3NfOVNkRThMbVc1WGFXdXJidGJTOVB2dlk5ZjBDUl8zSThEd2VJY0c2WUVadWx5bTVfbWhzZDYwNmFZWmJHVmZaeVFTbHR3bDl2Tm1FYTF6QlE?oc=5"
-            },
-            {
-                "title": "海拔五五九二：爱在云端绽放 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-21",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rbS1SQ1YwaUt1TWNRY1Z2SWpaeWh4WXB3QW5uT0VLeVhtSkFWMXpkcTU5eUVFaUoxd2tCek01UlRaa3NVcmlQY1ZIZ3JqOTh4WnAwZnV6WWZ6bGMyd2JBTg?oc=5"
-            },
-            {
-                "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zWXlKaGxURGxTY0FQbFhNRDVRcmlaLTRMN0xGUGp2LVp5VDV5eEM3Z0xKd2lqR2c0bWZiMGRwQy1JX3ppSXN6aTRHTm1DNjdYaUxjd1I0dE1rUTBVZVEyVmVGaw?oc=5"
             },
             {
                 "title": "科学防溺，这样做→ - 军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
-                "title": "GitHub 通报 8 月 17 日大规模宕机事件原因：基础设施容量未能跟上平台使用量的快速增长",
+                "title": "香港法院判决天安门烛光悼念活动组织者犯煽颠罪；美国、英国、欧盟和台湾谴责政治迫害",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-08-21",
+                "url": "https://www.voachinese.com/a/hong-kong-court-convicts-tiananmen-vigil-organizers-us-uk-eu-and-taiwan-condemn-political-persecution-20260821/8188944.html"
+            },
+            {
+                "title": "联合国：刚果伊波拉疫情呈“指数式”增长 超过2500人已死亡 - 8world",
+                "source": "NewsAPI / 8world.com",
+                "date": "2026-08-21",
+                "url": "https://www.8world.com/world/un-congo-ebola-3255361"
+            },
+            {
+                "title": "为什么台湾和南海问题对美国和世界如此重要(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-21",
+                "url": "https://www.secretchina.com/news/gb/2026/08/22/1103771.html"
+            },
+            {
+                "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-21",
-                "url": "https://www.ithome.com/0/992/844.htm"
+                "url": "https://www.ithome.com/0/992/883.htm"
             },
             {
-                "title": "联合国：刚果（金）埃博拉疫情“呈指数级增长” - orientaldaily.com.my",
-                "source": "NewsAPI / Orientaldaily.com.my",
+                "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-21",
-                "url": "https://www.orientaldaily.com.my/news/international/2026/08/21/842289"
+                "url": "https://www.ithome.com/0/992/882.htm"
             },
             {
-                "title": "客服新国标将实施 实测App转人工：电商较快捷，微博客服等待12分钟未接通",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574378.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "LV起诉国家知识产权局遭法院驳回",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "驻塞浦路斯大使杨云东到任拜会塞卫生部长哈拉朗彼得斯 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574376.htm"
-            },
-            {
-                "title": "美国机器人大会火了 中国机器人却成主角",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574374.htm"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjVkTEF5aXpGb05wTTVtbkQ0eGlHQnhFdERNNEVmdWRSY2ZNb0pxaVVrXzBuZ01aLUIwcDUtU2hKd2FkMHl6b1BmWk15SDVsQ1FQY3h6enJzeUwtSGxSalF6ZGU1YlRhNVBqQ0o2YUNhMFZqV3VacmtlREZKWW9nQTdNdDE?oc=5"
             },
             {
                 "title": "驻巴基斯坦使馆临时代办施远强出席“共享未来、共享繁荣”绿色发展主题研讨会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-21",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmJvMnVudUd1MkZrY2xWQUZLVFpNeklIVTFESERkNm1EOHZPY2hvNzNLQ3NfOVNkRThMbVc1WGFXdXJidGJTOVB2dlk5ZjBDUl8zSThEd2VJY0c2WUVadWx5bTVfbWhzZDYwNmFZWmJHVmZaeVFTbHR3bDl2Tm1FYTF6QlE?oc=5"
-            },
-            {
-                "title": "海拔五五九二：爱在云端绽放 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-21",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rbS1SQ1YwaUt1TWNRY1Z2SWpaeWh4WXB3QW5uT0VLeVhtSkFWMXpkcTU5eUVFaUoxd2tCek01UlRaa3NVcmlQY1ZIZ3JqOTh4WnAwZnV6WWZ6bGMyd2JBTg?oc=5"
-            },
-            {
-                "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zWXlKaGxURGxTY0FQbFhNRDVRcmlaLTRMN0xGUGp2LVp5VDV5eEM3Z0xKd2lqR2c0bWZiMGRwQy1JX3ppSXN6aTRHTm1DNjdYaUxjd1I0dE1rUTBVZVEyVmVGaw?oc=5"
             },
             {
                 "title": "科学防溺，这样做→ - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-22T12:31:33.905601+00:00"
+    "last_updated": "2026-08-22T18:23:54.222674+00:00"
 }
