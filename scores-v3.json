@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "贸易谈判破裂 美国对加拿大商品加征50%关税(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-22",
+                "url": "https://www.secretchina.com/news/gb/2026/08/23/1103818.html"
+            },
+            {
                 "title": "越会用 AI 的人，学习能力退化得越快",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-22",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-22",
                 "url": "https://www.ithome.com/0/993/033.htm"
-            },
-            {
-                "title": "雷军手握红色神秘新机：预估为小米阔折叠手机，首发搭载玄戒 O3",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/992/998.htm"
             }
         ],
         "mil": [
+            {
+                "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-22",
+                "url": "https://www.ithome.com/0/993/105.htm"
+            },
             {
                 "title": "科氪 | 你的下一副眼镜，会思考：雷鸟 iO 正式发布，首发 1996 元起",
                 "source": "NewsAPI / 36kr.com",
@@ -68,10 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/08/22/1103788.html"
             },
             {
-                "title": "都是谁在买WRC上的机器人啊！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-22",
-                "url": "https://36kr.com/p/3950374720306563?f=rss"
+                "title": "领导人重要讲话 - brics2022.mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
                 "title": "武警河南总队某支队组织防汛应急救援综合训练 - 中华人民共和国国防部",
@@ -86,31 +92,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1czlBcE5oTXNlX0NNMlp1aGNxcHl5S29jaUx2VlkyMS10b0gzdGt1VWV6ZC1UbnlYUV95X3k1TWotRUl3YU5YQ3FuMHVIMEpXbGdNMHlXS0tTTmdR?oc=5"
             },
             {
-                "title": "强军论坛丨用人以公，方得贤才 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SeEpoRzBkN19jaWJfSHlURElaa1pHQlB5cTFnUjlUWjRLeUQ2SVRYalJYMU16UXhZTTZqOFp3SGFjVm5xYl92Z3FUU3puSmJyQ2NpNmlBNXA?oc=5"
-            },
-            {
-                "title": "科学防溺，这样做→ - 中国军网",
+                "title": "科学防溺，这样做→ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
             },
             {
-                "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 中国军网",
+                "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
             },
             {
-                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 中国军网",
+                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "微软 Windows IKE 严重漏洞确认已遭恶意利用：攻击者无需认证即可远程执行代码",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-22",
+                "url": "https://www.ithome.com/0/993/113.htm"
+            },
             {
                 "title": "科氪 | 你的下一副眼镜，会思考：雷鸟 iO 正式发布，首发 1996 元起",
                 "source": "NewsAPI / 36kr.com",
@@ -136,10 +142,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1574472.htm"
             },
             {
-                "title": "深圳华强北，成了欧洲人的快乐老家？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574466.htm"
+                "title": "领导人重要讲话 - brics2022.mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2025-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
                 "title": "武警河南总队某支队组织防汛应急救援综合训练 - 中华人民共和国国防部",
@@ -154,25 +160,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1czlBcE5oTXNlX0NNMlp1aGNxcHl5S29jaUx2VlkyMS10b0gzdGt1VWV6ZC1UbnlYUV95X3k1TWotRUl3YU5YQ3FuMHVIMEpXbGdNMHlXS0tTTmdR?oc=5"
             },
             {
-                "title": "强军论坛丨用人以公，方得贤才 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SeEpoRzBkN19jaWJfSHlURElaa1pHQlB5cTFnUjlUWjRLeUQ2SVRYalJYMU16UXhZTTZqOFp3SGFjVm5xYl92Z3FUU3puSmJyQ2NpNmlBNXA?oc=5"
-            },
-            {
-                "title": "科学防溺，这样做→ - 中国军网",
+                "title": "科学防溺，这样做→ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
             },
             {
-                "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 中国军网",
+                "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
             },
             {
-                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 中国军网",
+                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-23T12:32:05.665974+00:00"
+    "last_updated": "2026-08-23T18:23:01.634619+00:00"
 }
