@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "今日消费资讯：RIMOWA 广州太古汇精品店焕新开幕、优衣库即将开启“LifeWear 服适人生 灵感周”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-08-23",
+                "url": "https://www.toodaylab.com/84176"
+            },
+            {
+                "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-23",
+                "url": "http://www.geekpark.net/news/369215"
+            },
+            {
+                "title": "“改革开放2.0”是一厢情愿的设想(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-22",
+                "url": "https://www.secretchina.com/news/gb/2026/08/23/1103821.html"
+            },
+            {
                 "title": "贸易谈判破裂 美国对加拿大商品加征50%关税(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-22",
@@ -22,56 +40,50 @@
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-22",
                 "url": "http://www.geekpark.net/news/369212"
-            },
-            {
-                "title": "苹果Vision Pro差点被命名为“Reality Pro” 旧代号痕迹仍留存于内部系统",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574472.htm"
-            },
-            {
-                "title": "深圳华强北，成了欧洲人的快乐老家？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574466.htm"
-            },
-            {
-                "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/033.htm"
             }
         ],
         "mil": [
             {
-                "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
+                "title": "第二届世界人形机器人运动会开幕 666支队伍2056台机器人参赛",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574492.htm"
+            },
+            {
+                "title": "中国 AG.AL 首夺 2026EWC 电竞世俱杯俱乐部总冠军，力压 FALCONS",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-23",
+                "url": "https://www.ithome.com/0/993/134.htm"
+            },
+            {
+                "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-23",
+                "url": "http://www.geekpark.net/news/369215"
+            },
+            {
+                "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/105.htm"
+                "url": "https://www.ithome.com/0/993/129.htm"
             },
             {
-                "title": "科氪 | 你的下一副眼镜，会思考：雷鸟 iO 正式发布，首发 1996 元起",
-                "source": "NewsAPI / 36kr.com",
+                "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-22",
-                "url": "https://36kr.com/p/3950603951258756?f=rss"
+                "url": "https://www.ithome.com/0/993/126.htm"
             },
             {
-                "title": "越会用 AI 的人，学习能力退化得越快",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-22",
-                "url": "http://www.geekpark.net/news/369212"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "深圳华强北，成了欧洲人的快乐老家？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574466.htm"
-            },
-            {
-                "title": "揭开东北解放的真实面纱 1945年苏军干了什么？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-22",
-                "url": "https://www.secretchina.com/news/gb/2026/08/22/1103788.html"
+                "title": "王毅会见约旦副首相兼外交大臣萨法迪 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Qk9vNGhYWU9fMXNLaDFodTF5ejQ2VHc5Ri1XWlJtU1NiLWtTYkJVYVlycnRnbzJDRXJnR2NfeVVDblRadTZpVHBCOEVrRmF0RjZ6T3ZNMWxCQksxMWNCLXNMTndxYVAwVjFJN1RB?oc=5"
             },
             {
                 "title": "领导人重要讲话 - brics2022.mfa.gov.cn",
@@ -80,37 +92,43 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "武警河南总队某支队组织防汛应急救援综合训练 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iYkc3NGdzQXlkY1VKckV0UXNzUXBJQTNpQmJKa1lMaWJkd2FRNUlFdkg1Nlg1X2F0LXhOMXFLSndJcWJZcFZLaEtiOWhCX2xQSGp1UVludUw?oc=5"
-            },
-            {
-                "title": "抢险救援一线，3名00后战士的抗洪经历 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1czlBcE5oTXNlX0NNMlp1aGNxcHl5S29jaUx2VlkyMS10b0gzdGt1VWV6ZC1UbnlYUV95X3k1TWotRUl3YU5YQ3FuMHVIMEpXbGdNMHlXS0tTTmdR?oc=5"
-            },
-            {
                 "title": "科学防溺，这样做→ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
             },
             {
+                "title": "陆军指挥学院结合教学实践深入学习贯彻习近平强军思想 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SHgyWUJpRzJYWDF3SmZRUGtSX3FabkEwaTVzYlZjby1UZjNwSGRjNHYxMjViSVAycXoyVy1Td0l2TU03QXRwQTJYT01zWlEwQlE?oc=5"
+            },
+            {
                 "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
-            },
-            {
-                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-23",
+                "url": "http://www.geekpark.net/news/369215"
+            },
+            {
+                "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-22",
+                "url": "https://www.ithome.com/0/993/129.htm"
+            },
+            {
+                "title": "谨防中招：网传 113GB《GTA 6》泄露版本实为病毒文件",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-22",
+                "url": "https://www.ithome.com/0/993/127.htm"
+            },
             {
                 "title": "微软 Windows IKE 严重漏洞确认已遭恶意利用：攻击者无需认证即可远程执行代码",
                 "source": "NewsAPI / Ithome.com",
@@ -124,22 +142,16 @@
                 "url": "https://36kr.com/p/3950603951258756?f=rss"
             },
             {
-                "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/065.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "越会用 AI 的人，学习能力退化得越快",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-22",
-                "url": "http://www.geekpark.net/news/369212"
-            },
-            {
-                "title": "苹果Vision Pro差点被命名为“Reality Pro” 旧代号痕迹仍留存于内部系统",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574472.htm"
+                "title": "王毅会见约旦副首相兼外交大臣萨法迪 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Qk9vNGhYWU9fMXNLaDFodTF5ejQ2VHc5Ri1XWlJtU1NiLWtTYkJVYVlycnRnbzJDRXJnR2NfeVVDblRadTZpVHBCOEVrRmF0RjZ6T3ZNMWxCQksxMWNCLXNMTndxYVAwVjFJN1RB?oc=5"
             },
             {
                 "title": "领导人重要讲话 - brics2022.mfa.gov.cn",
@@ -148,37 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "武警河南总队某支队组织防汛应急救援综合训练 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iYkc3NGdzQXlkY1VKckV0UXNzUXBJQTNpQmJKa1lMaWJkd2FRNUlFdkg1Nlg1X2F0LXhOMXFLSndJcWJZcFZLaEtiOWhCX2xQSGp1UVludUw?oc=5"
-            },
-            {
-                "title": "抢险救援一线，3名00后战士的抗洪经历 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1czlBcE5oTXNlX0NNMlp1aGNxcHl5S29jaUx2VlkyMS10b0gzdGt1VWV6ZC1UbnlYUV95X3k1TWotRUl3YU5YQ3FuMHVIMEpXbGdNMHlXS0tTTmdR?oc=5"
-            },
-            {
                 "title": "科学防溺，这样做→ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
             },
             {
+                "title": "陆军指挥学院结合教学实践深入学习贯彻习近平强军思想 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SHgyWUJpRzJYWDF3SmZRUGtSX3FabkEwaTVzYlZjby1UZjNwSGRjNHYxMjViSVAycXoyVy1Td0l2TU03QXRwQTJYT01zWlEwQlE?oc=5"
+            },
+            {
                 "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
-            },
-            {
-                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-23T18:23:01.634619+00:00"
+    "last_updated": "2026-08-24T01:04:25.423016+00:00"
 }
