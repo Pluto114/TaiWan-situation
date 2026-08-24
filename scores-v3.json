@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
+                "title": "每周鞋报：PUMA 和 SAYSKY 带来新联名、On Cloud X 综合训练鞋家族更新",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-08-23",
+                "url": "https://www.toodaylab.com/84177"
+            },
+            {
+                "title": "滴滴专车配可口可乐：这瓶“无糖”生意，可不可乐？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574556.htm"
+            },
+            {
+                "title": "美政府或全面限制ASML对华出口DUV光刻机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574554.htm"
+            },
+            {
+                "title": "英伟达砸 60 美元投资 Poolside，意图打造中国开源 AI 竞争对手",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-23",
-                "url": "https://www.ithome.com/0/993/185.htm"
+                "url": "https://www.ithome.com/0/993/226.htm"
             },
             {
-                "title": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型",
+                "title": "Anthropic：AI没有导致失业率的增加",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574534.htm"
-            },
-            {
-                "title": "蔚来李斌：中国汽车进入“最残酷决赛阶段” 三五年尘埃落定",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574528.htm"
-            },
-            {
-                "title": "Anthropic“巴拿马计划”曝光 数百万旧书被切脊喂给ASI",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574524.htm"
-            },
-            {
-                "title": "谁在杀死概念车？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574522.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574552.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Anthropic：AI没有导致失业率的增加",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574552.htm"
+            },
             {
                 "title": "谁在杀死概念车？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,16 +74,16 @@
                 "url": "https://www.ithome.com/0/993/147.htm"
             },
             {
-                "title": "第二届世界人形机器人运动会开幕 666支队伍2056台机器人参赛",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574492.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-24",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3dXl3V3ZVZ18wMXYtZThSOUFjSnp0YlZXV1BLSjdOZFJIWDM4a2t0UW5rZ0FIVDlnSE5pQ21XMUVrdHR2d1FoUERNb3lySGtjcDhZZWJndVJ0bm05S2xib3RJR0JNcGxUN0pZ?oc=5"
             },
             {
                 "title": "王毅会见约旦副首相兼外交大臣萨法迪 - mfa.gov.cn",
@@ -86,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Qk9vNGhYWU9fMXNLaDFodTF5ejQ2VHc5Ri1XWlJtU1NiLWtTYkJVYVlycnRnbzJDRXJnR2NfeVVDblRadTZpVHBCOEVrRmF0RjZ6T3ZNMWxCQksxMWNCLXNMTndxYVAwVjFJN1RB?oc=5"
             },
             {
-                "title": "领导人重要讲话 - brics2022.mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
+                "title": "外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-24",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1cEdqWGg4aDVLak43SWVOd01wd09LV2dUU3dTSTk3T3lKazl6YVl2S204Nl9wd0tRN2RWQlRLeWd2eVdRQ2pLMUdB?oc=5"
             },
             {
                 "title": "陆军指挥学院结合教学实践深入学习贯彻习近平强军思想 - 军网",
@@ -98,19 +104,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SHgyWUJpRzJYWDF3SmZRUGtSX3FabkEwaTVzYlZjby1UZjNwSGRjNHYxMjViSVAycXoyVy1Td0l2TU03QXRwQTJYT01zWlEwQlE?oc=5"
             },
             {
-                "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 军网",
+                "title": "中印边界问题特别代表第25次会晤将在北京举行 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
-            },
-            {
-                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
+                "date": "2026-08-24",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBabFpzSVAtamszLXFSSnZSeHhZUTRvcTJNMlRwblNpNDJrMW42VGVqT0dvUk1jc3VMTVk5TEs5ZXREYjRjR2FJMG9R?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "滴滴专车配可口可乐：这瓶“无糖”生意，可不可乐？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574556.htm"
+            },
+            {
+                "title": "美政府或全面限制ASML对华出口DUV光刻机",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574554.htm"
+            },
+            {
+                "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-23",
+                "url": "https://www.ithome.com/0/993/188.htm"
+            },
             {
                 "title": "英国一家发电厂遭伊朗黑客攻击 业务瘫痪长达四天",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -124,28 +142,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1574522.htm"
             },
             {
-                "title": "越会用AI的人，学习能力退化得越快",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574516.htm"
-            },
-            {
-                "title": "M6+均热板+触控屏 苹果史上贵MacBook Pro要来了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574510.htm"
-            },
-            {
-                "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-23",
-                "url": "http://www.geekpark.net/news/369215"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-24",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3dXl3V3ZVZ18wMXYtZThSOUFjSnp0YlZXV1BLSjdOZFJIWDM4a2t0UW5rZ0FIVDlnSE5pQ21XMUVrdHR2d1FoUERNb3lySGtjcDhZZWJndVJ0bm05S2xib3RJR0JNcGxUN0pZ?oc=5"
             },
             {
                 "title": "王毅会见约旦副首相兼外交大臣萨法迪 - mfa.gov.cn",
@@ -154,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Qk9vNGhYWU9fMXNLaDFodTF5ejQ2VHc5Ri1XWlJtU1NiLWtTYkJVYVlycnRnbzJDRXJnR2NfeVVDblRadTZpVHBCOEVrRmF0RjZ6T3ZNMWxCQksxMWNCLXNMTndxYVAwVjFJN1RB?oc=5"
             },
             {
-                "title": "领导人重要讲话 - brics2022.mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2025-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
+                "title": "外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-24",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1cEdqWGg4aDVLak43SWVOd01wd09LV2dUU3dTSTk3T3lKazl6YVl2S204Nl9wd0tRN2RWQlRLeWd2eVdRQ2pLMUdB?oc=5"
             },
             {
                 "title": "陆军指挥学院结合教学实践深入学习贯彻习近平强军思想 - 军网",
@@ -166,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SHgyWUJpRzJYWDF3SmZRUGtSX3FabkEwaTVzYlZjby1UZjNwSGRjNHYxMjViSVAycXoyVy1Td0l2TU03QXRwQTJYT01zWlEwQlE?oc=5"
             },
             {
-                "title": "红军长征中的群众宣传动员工作及对全民国防教育的启示 - 军网",
+                "title": "中印边界问题特别代表第25次会晤将在北京举行 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
-            },
-            {
-                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
+                "date": "2026-08-24",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBabFpzSVAtamszLXFSSnZSeHhZUTRvcTJNMlRwblNpNDJrMW42VGVqT0dvUk1jc3VMTVk5TEs5ZXREYjRjR2FJMG9R?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-24T06:50:49.216105+00:00"
+    "last_updated": "2026-08-24T12:41:35.154050+00:00"
 }
