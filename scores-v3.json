@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "今日消费资讯：RIMOWA 广州太古汇精品店焕新开幕、优衣库即将开启“LifeWear 服适人生 灵感周”",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-23",
-                "url": "https://www.toodaylab.com/84176"
+                "url": "https://www.ithome.com/0/993/185.htm"
             },
             {
-                "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-23",
-                "url": "http://www.geekpark.net/news/369215"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574534.htm"
             },
             {
-                "title": "“改革开放2.0”是一厢情愿的设想(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-22",
-                "url": "https://www.secretchina.com/news/gb/2026/08/23/1103821.html"
+                "title": "蔚来李斌：中国汽车进入“最残酷决赛阶段” 三五年尘埃落定",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574528.htm"
             },
             {
-                "title": "贸易谈判破裂 美国对加拿大商品加征50%关税(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-22",
-                "url": "https://www.secretchina.com/news/gb/2026/08/23/1103818.html"
+                "title": "Anthropic“巴拿马计划”曝光 数百万旧书被切脊喂给ASI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574524.htm"
             },
             {
-                "title": "越会用 AI 的人，学习能力退化得越快",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-22",
-                "url": "http://www.geekpark.net/news/369212"
+                "title": "谁在杀死概念车？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574522.htm"
             }
         ],
         "mil": [
+            {
+                "title": "谁在杀死概念车？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574522.htm"
+            },
+            {
+                "title": "越会用AI的人，学习能力退化得越快",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574516.htm"
+            },
+            {
+                "title": "M6+均热板+触控屏 苹果史上贵MacBook Pro要来了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574510.htm"
+            },
+            {
+                "title": "美国电池初创企业转向国防赛道，获 5 亿美元政府拨款",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-23",
+                "url": "https://www.ithome.com/0/993/147.htm"
+            },
             {
                 "title": "第二届世界人形机器人运动会开幕 666支队伍2056台机器人参赛",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,30 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1574492.htm"
             },
             {
-                "title": "中国 AG.AL 首夺 2026EWC 电竞世俱杯俱乐部总冠军，力压 FALCONS",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-23",
-                "url": "https://www.ithome.com/0/993/134.htm"
-            },
-            {
-                "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-23",
-                "url": "http://www.geekpark.net/news/369215"
-            },
-            {
-                "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/129.htm"
-            },
-            {
-                "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/126.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "科学防溺，这样做→ - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
-            },
-            {
                 "title": "陆军指挥学院结合教学实践深入学习贯彻习近平强军思想 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-23",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
+            },
+            {
+                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-22",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
             }
         ],
         "pol": [
             {
+                "title": "英国一家发电厂遭伊朗黑客攻击 业务瘫痪长达四天",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574546.htm"
+            },
+            {
+                "title": "谁在杀死概念车？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574522.htm"
+            },
+            {
+                "title": "越会用AI的人，学习能力退化得越快",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574516.htm"
+            },
+            {
+                "title": "M6+均热板+触控屏 苹果史上贵MacBook Pro要来了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574510.htm"
+            },
+            {
                 "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-23",
                 "url": "http://www.geekpark.net/news/369215"
-            },
-            {
-                "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/129.htm"
-            },
-            {
-                "title": "谨防中招：网传 113GB《GTA 6》泄露版本实为病毒文件",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/127.htm"
-            },
-            {
-                "title": "微软 Windows IKE 严重漏洞确认已遭恶意利用：攻击者无需认证即可远程执行代码",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-22",
-                "url": "https://www.ithome.com/0/993/113.htm"
-            },
-            {
-                "title": "科氪 | 你的下一副眼镜，会思考：雷鸟 iO 正式发布，首发 1996 元起",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-22",
-                "url": "https://36kr.com/p/3950603951258756?f=rss"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
-                "title": "科学防溺，这样做→ - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdkQxRlNlekp3bGZZUVhXUHFUY1BsRnRXZ2wwTXc1SkVMU3hwQzZnREszWUhQR3BWTjUzWlZVX0l2NkFJUG93UEx4emVxUG9PVlE?oc=5"
-            },
-            {
                 "title": "陆军指挥学院结合教学实践深入学习贯彻习近平强军思想 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-23",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-22",
                 "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1dqdXU0VXY5aWtnU0N1YTFibjNLYXdJdGloVjhsRjhpdEdYVnNMaWdJbXlwLUQ4OTZ5bEpPR2JBS0JLU2FIT2tBamlEcnVfYWtNbVNyb25WRXZzOHUwVE9TazRvZ0ZPZFltam4tZ2JQU2JxN2V2WFdWdmVWamwtZ2VrTXp2d280VVE?oc=5"
+            },
+            {
+                "title": "大渡河畔薪火传 红色文物映山河- 国防教育 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-22",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3pqOHZTMDBHQ0w0Y2MwZmt0d2JXUGN0N252WjVrbHpyN1Z3dTNzZ2pGRURfMnJpRWJxbGF0MF80SmZ5dUV0a3lZbXRzejBGX2FQWm16ZTVhbEdRXzF4dGNHNmxUTE5Nal8tcXVEelhNdjc4cUtfRjJLSHlCbVBVektB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-24T01:04:25.423016+00:00"
+    "last_updated": "2026-08-24T06:50:49.216105+00:00"
 }
