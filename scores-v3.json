@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美交通部长：加拿大若与美国打贸易战 后果将“毁灭性”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-23",
-                "url": "https://www.secretchina.com/news/gb/2026/08/24/1103860.html"
-            },
-            {
-                "title": "强迫世界选边站队 美国为何要降下AI“数字铁幕”？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-23",
-                "url": "https://www.ftchinese.com/story/001110692"
-            },
-            {
-                "title": "债务陷阱加速：美债的深层危机",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-23",
-                "url": "https://www.ftchinese.com/story/001110685"
-            },
-            {
-                "title": "“主权AI”与“词元出海”：当中美AI走向全球市场",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-23",
-                "url": "https://www.ftchinese.com/story/001110695"
-            },
-            {
-                "title": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心",
+                "title": "澜起 PCIe 6.x / CXL 3.x 重定时器成功列入 PCI-SIG 供应商名录",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-23",
-                "url": "https://www.ithome.com/0/993/313.htm"
+                "date": "2026-08-24",
+                "url": "https://www.ithome.com/0/993/350.htm"
+            },
+            {
+                "title": "中信证券：AI算力驱动散热升级，建议把握两条投资主线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-24",
+                "url": "https://36kr.com/newsflashes/3952807592754307?f=rss"
+            },
+            {
+                "title": "传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-24",
+                "url": "http://www.geekpark.net/news/369224"
+            },
+            {
+                "title": "中信证券：光模块加速放量，模拟芯片龙头业绩高增",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-24",
+                "url": "https://36kr.com/newsflashes/3952804091575689?f=rss"
+            },
+            {
+                "title": "美国得州州长阿博特：AI 数据中心遭民众反对实属咎由自取",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-24",
+                "url": "https://www.ithome.com/0/993/336.htm"
             }
         ],
         "mil": [
+            {
+                "title": "传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-24",
+                "url": "http://www.geekpark.net/news/369224"
+            },
+            {
+                "title": "中国电竞俱乐部登顶世界第一，法国总统马克龙为 AG.AL 颁发 2026 EWC 冠军奖杯",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-24",
+                "url": "https://www.ithome.com/0/993/337.htm"
+            },
+            {
+                "title": "8点1氪丨小红书“因遭举报上市失败”？警方：造谣者已被行拘；加拿大9月8日起对美国征收报复性关税 ；多个高职专业起薪超过部分本科专业",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-23",
+                "url": "https://36kr.com/p/3952761839795331?f=rss"
+            },
             {
                 "title": "强迫世界选边站队 美国为何要降下AI“数字铁幕”？",
                 "source": "NewsAPI / Ftchinese.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-23",
                 "url": "https://www.ftchinese.com/story/001110688"
-            },
-            {
-                "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-23",
-                "url": "http://www.geekpark.net/news/369223"
-            },
-            {
-                "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-23",
-                "url": "http://www.geekpark.net/news/369221"
-            },
-            {
-                "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-23",
-                "url": "https://www.ithome.com/0/993/305.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtMlVJR2wwOWt6TkVnaWU3a09PNFIwYW1ONk5OaXZHeHBVdUxPeGtBaFdLWW5QUER5MVU1bVdvMTllNWVFT2YxbVZrRFhvb3BUVEN4ZXA0am5RUTlWM1FndGZRR3ZvY2pDZUR3d1EwU0VyTExjWVY0?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "驻亚历山大总领事徐敏会见阿拉伯海港联盟秘书长 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3dXl3V3ZVZ18wMXYtZThSOUFjSnp0YlZXV1BLSjdOZFJIWDM4a2t0UW5rZ0FIVDlnSE5pQ21XMUVrdHR2d1FoUERNb3lySGtjcDhZZWJndVJ0bm05S2xib3RJR0JNcGxUN0pZ?oc=5"
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDBZOF9DdjhRU1Boc0NhYmI2RHVDcXlHVlJVZUg5X0x5NVhfaGxGajR6OEJqVHFEOWlYY1VaUW5fWmpneWszNVR1SWtaWEkyZjd6VERKczdFMmcyOHhvSXZSV3JzOF9iZ00zOVU4Qm9UblNpRWlJenVnaGgwaEg3UXpabnQ?oc=5"
             },
             {
                 "title": "外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "美交通部长：加拿大若与美国打贸易战 后果将“毁灭性”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-23",
-                "url": "https://www.secretchina.com/news/gb/2026/08/24/1103860.html"
-            },
-            {
-                "title": "债务陷阱加速：美债的深层危机",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-23",
-                "url": "https://www.ftchinese.com/story/001110685"
-            },
-            {
-                "title": "“主权AI”与“词元出海”：当中美AI走向全球市场",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-23",
-                "url": "https://www.ftchinese.com/story/001110695"
-            },
-            {
-                "title": "强迫世界选边站队 美国为何要降下AI“数字铁幕”？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-23",
-                "url": "https://www.ftchinese.com/story/001110692"
-            },
-            {
-                "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
+                "title": "传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军",
                 "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-24",
+                "url": "http://www.geekpark.net/news/369224"
+            },
+            {
+                "title": "伊朗黑客攻击美英水电系统 专家警告恐扩大破坏(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-24",
+                "url": "https://www.secretchina.com/news/gb/2026/08/24/1103866.html"
+            },
+            {
+                "title": "OpenAI CEO萨姆·奥特曼：担忧AI被少数巨头垄断 但过度防范无异于“以自由换安全”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574624.htm"
+            },
+            {
+                "title": "8点1氪丨小红书“因遭举报上市失败”？警方：造谣者已被行拘；加拿大9月8日起对美国征收报复性关税 ；多个高职专业起薪超过部分本科专业",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-23",
-                "url": "http://www.geekpark.net/news/369223"
+                "url": "https://36kr.com/p/3952761839795331?f=rss"
+            },
+            {
+                "title": "神秘“牛来”Ox Alpha掀翻硅谷 Google抢着认领被笑惨",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574604.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtMlVJR2wwOWt6TkVnaWU3a09PNFIwYW1ONk5OaXZHeHBVdUxPeGtBaFdLWW5QUER5MVU1bVdvMTllNWVFT2YxbVZrRFhvb3BUVEN4ZXA0am5RUTlWM1FndGZRR3ZvY2pDZUR3d1EwU0VyTExjWVY0?oc=5"
             },
             {
-                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "驻亚历山大总领事徐敏会见阿拉伯海港联盟秘书长 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3dXl3V3ZVZ18wMXYtZThSOUFjSnp0YlZXV1BLSjdOZFJIWDM4a2t0UW5rZ0FIVDlnSE5pQ21XMUVrdHR2d1FoUERNb3lySGtjcDhZZWJndVJ0bm05S2xib3RJR0JNcGxUN0pZ?oc=5"
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDBZOF9DdjhRU1Boc0NhYmI2RHVDcXlHVlJVZUg5X0x5NVhfaGxGajR6OEJqVHFEOWlYY1VaUW5fWmpneWszNVR1SWtaWEkyZjd6VERKczdFMmcyOHhvSXZSV3JzOF9iZ00zOVU4Qm9UblNpRWlJenVnaGgwaEg3UXpabnQ?oc=5"
             },
             {
                 "title": "外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-24T18:34:33.161440+00:00"
+    "last_updated": "2026-08-25T01:03:25.644015+00:00"
 }
