@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "北京越野泰钽 700 上市：搭载华为乾崑智驾 ADS 5，超级焕新价 24.98 万元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国对伊朗制裁涉及中国和香港企业，但为什么还没有触及中国的大型金融机构？",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-08-25",
-                "url": "https://www.ithome.com/0/994/190.htm"
+                "url": "https://www.voachinese.com/a/why-us-sanctions-against-iran-has-so-far-spared-major-chinese-banks-20260825/8190271.html"
             },
             {
-                "title": "上海：促进外资企业境内再投资，鼓励开展股权投资、并购投资",
-                "source": "NewsAPI / 36kr.com",
+                "title": "加拿大反击美国关税 对200亿美元商品最高征50%(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/newsflashes/3954792964636035?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/08/26/1103960.html"
             },
             {
-                "title": "上海：延伸汽车消费链条，开展汽车流通消费改革试点",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美加贸易争端之际，特朗普总统提议为安大略湖更名",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/newsflashes/3954786776956295?f=rss"
+                "url": "https://www.voachinese.com/a/trump-suggests-renaming-lake-ontario-amid-canada-trade-dispute-20260825/8190225.html"
             },
             {
-                "title": "上海：聚焦集成电路、人工智能等重点产业和关键领域，壮大出口优势",
-                "source": "NewsAPI / 36kr.com",
+                "title": "博泰车联网战略转向 进军厨卫数字化",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/newsflashes/3954784221363329?f=rss"
+                "url": "https://www.ftchinese.com/story/001110722"
             },
             {
-                "title": "上海：推进自由贸易账户项下离岸经贸业务试点，深入实施离岸贸易印花税政策",
-                "source": "NewsAPI / 36kr.com",
+                "title": "灵活就业者社保问题的制度困境和解决出路",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/newsflashes/3954781787553159?f=rss"
+                "url": "https://www.ftchinese.com/story/001110720"
             }
         ],
         "mil": [
+            {
+                "title": "CIA局长被曝秘密抵达莫斯科 美军机同日降落(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-08-25",
+                "url": "https://www.secretchina.com/news/gb/2026/08/26/1103959.html"
+            },
+            {
+                "title": "英伟达的豪赌：为AI繁荣充当“金主” 也给自己埋了雷",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574918.htm"
+            },
+            {
+                "title": "从夏日情绪到生意增长，品牌如何接住这阵「风」？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-25",
+                "url": "https://36kr.com/p/3954936792792454?f=rss"
+            },
             {
                 "title": "硬氪首发 | 深圳具身基础设施公司获近亿元融资，拿下60%估值百亿头部机器人公司客户",
                 "source": "NewsAPI / 36kr.com",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-25",
                 "url": "https://www.ithome.com/0/993/962.htm"
-            },
-            {
-                "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-25",
-                "url": "http://www.geekpark.net/news/369303"
-            },
-            {
-                "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-24",
-                "url": "https://www.ithome.com/0/993/792.htm"
-            },
-            {
-                "title": "对话昆仑行创始人任庚：车企做具身，未来入场是“战略必然”，现在切入是“战术投机”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-24",
-                "url": "https://36kr.com/p/3953725993991560?f=rss"
             },
             {
                 "title": "中印边界问题特别代表在北京举行会晤 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "北京越野泰钽 700 上市：搭载华为乾崑智驾 ADS 5，超级焕新价 24.98 万元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "强台风“沙德尔”逼近日本冲绳 超430个航班取消(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-25",
-                "url": "https://www.ithome.com/0/994/190.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/26/1103964.html"
             },
             {
-                "title": "16人团队14个印度裔 Google新人自曝遭抱团排挤被逼辞职",
+                "title": "博泰车联网战略转向 进军厨卫数字化",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-25",
+                "url": "https://www.ftchinese.com/story/001110722"
+            },
+            {
+                "title": "灵活就业者社保问题的制度困境和解决出路",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-25",
+                "url": "https://www.ftchinese.com/story/001110720"
+            },
+            {
+                "title": "OpenAI封禁涉嫌参与秘密舆论行动的俄罗斯ChatGPT账号",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574902.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574940.htm"
             },
             {
-                "title": "什么是德国的政治“防火墙”？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-25",
-                "url": "https://www.dw.com/zh/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%B7%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E9%98%B2%E7%81%AB%E5%A2%99/a-78495477"
-            },
-            {
-                "title": "苹果CEO告别会：致敬声声 蒂姆·库克难得袒露个人生活",
+                "title": "奥特曼承认AI转型进度不及预期 人们对旧工具的依赖正在拖慢变革",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574896.htm"
-            },
-            {
-                "title": "绿联科技递表港交所，2025 年拿下泛拓展类科技消费电子产品出货全球第一",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-25",
-                "url": "https://www.ithome.com/0/994/153.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574938.htm"
             },
             {
                 "title": "中印边界问题特别代表在北京举行会晤 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-26T12:43:30.329564+00:00"
+    "last_updated": "2026-08-26T19:42:51.030121+00:00"
 }
