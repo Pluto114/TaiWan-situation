@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
+                "title": "媒體：川普擬對中加徵7.5%產能過剩關稅",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-25",
+                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%AF%B9%E4%B8%AD%E5%8A%A0%E5%BE%8175%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%85%B3%E7%A8%8E/a-78491788"
+            },
+            {
+                "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-25",
-                "url": "http://www.geekpark.net/news/369303"
+                "url": "http://www.geekpark.net/news/369324"
             },
             {
-                "title": "8点1氪丨“敌敌畏消杀餐厅”事件已成立联合调查组；小鹏机器人首轮融资超9亿美元；东方甄选薪酬少发4个亿",
+                "title": "中国 AI 为什么追得这么快？美媒找到一批关键人物",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-25",
+                "url": "https://www.ithome.com/0/993/954.htm"
+            },
+            {
+                "title": "建研设计：联合预中标比亚迪爱琴海��物中心和高端住宅一期项目",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/p/3954181545753728?f=rss"
+                "url": "https://36kr.com/newsflashes/3954411962187138?f=rss"
             },
             {
-                "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-24",
-                "url": "https://www.ithome.com/0/993/792.htm"
-            },
-            {
-                "title": "中国期货市场监控中心：截至2026年7月底，期货市场资金总量2.64万亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-24",
-                "url": "https://36kr.com/newsflashes/3954157710671235?f=rss"
-            },
-            {
-                "title": "半年报密集披露，长线资金调仓轨迹浮现",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-24",
-                "url": "https://36kr.com/newsflashes/3954152277834882?f=rss"
+                "title": "市面上的速成车 其实比你想象的还要多",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574842.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美军测试 Sandhills 2.0：福特 F-250 搭载 Edda 炮塔，可拦截 10~100 米内无人机",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-25",
+                "url": "https://www.ithome.com/0/993/962.htm"
+            },
             {
                 "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
                 "source": "NewsAPI / Geekpark.net",
@@ -68,12 +74,6 @@
                 "url": "https://www.ftchinese.com/story/001110701"
             },
             {
-                "title": "没有雷军的日子 金山云靠AI云拯救",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-24",
-                "url": "https://www.ftchinese.com/story/001110706"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1cEdqWGg4aDVLak43SWVOd01wd09LV2dUU3dTSTk3T3lKazl6YVl2S204Nl9wd0tRN2RWQlRLeWd2eVdRQ2pLMUdB?oc=5"
             },
             {
-                "title": "大手牵小手 青春齐步走——来自暑期军事夏令营的一组见闻 - 军网",
+                "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VbU8xYk8wajBpUldYWXB1dFNOazZ5OW90bFVfZ2tHTnkzVGk0VFNTTzI0RDJ5dzZoT2ZZNHZEMUs1R1JMTHpWakJIVGo2SDgtb0tPZk1wSHdQX09NeVNRdg?oc=5"
+                "date": "2026-08-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MmwtWmlWb2t1ejhwblV2dl9UME1pcXh4UTFSbW9MaWlHSGMzZ1N6SmJybWJHTVFXdHkyaWZUNmFrY1ZjbElEWEJBejRGSU1BWUE?oc=5"
             },
             {
-                "title": "找寻“一堂好课”的更优解，军校教员们的探索永远在路上 - 军网",
+                "title": "梅岭寒夜入画：陈毅三载砺初心 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yd0c0cXpwRzZMN1pKZ2VucW1oRGVxbElHVnlMSGtvY0ppM25fbHcxNHRMZl9IOXl2OUFCODZ3dENBbHRINUZYTWRqY0xWSE5XMmc?oc=5"
+                "date": "2026-08-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wWk5nTzNmaHdzM2MyWWFkMVV3dkdrSzQ2N0pkR1BPNm1LQmFIX3EzMW5FbUtlTmE1UW5xbDNjdV9nR1RLQnFObktXcHRjdmo4OHc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "中金：超节点重塑国产算力，海外AI高景气延续",
-                "source": "NewsAPI / 36kr.com",
+                "title": "董明珠现身格力技工学校 观看面试环节 还与15岁学生比身高",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/newsflashes/3954186049322376?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574874.htm"
             },
             {
-                "title": "成品油期货价格年内大涨，炼化板块九成公司报喜",
-                "source": "NewsAPI / 36kr.com",
+                "title": "小电驴行驶限速拟提高至20km/h",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/newsflashes/3954219293998465?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574868.htm"
             },
             {
-                "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-25",
-                "url": "http://www.geekpark.net/news/369303"
-            },
-            {
-                "title": "8点1氪丨“敌敌畏消杀餐厅”事件已成立联合调查组；小鹏机器人首轮融资超9亿美元；东方甄选薪酬少发4个亿",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-25",
-                "url": "https://36kr.com/p/3954181545753728?f=rss"
-            },
-            {
-                "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
+                "title": "特斯拉悄然上调美国市场两款 Cybertruck 车型售价，均涨价 5000 美元",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-24",
-                "url": "https://www.ithome.com/0/993/792.htm"
+                "date": "2026-08-25",
+                "url": "https://www.ithome.com/0/993/994.htm"
+            },
+            {
+                "title": "Windows 95为何塞进音乐、动画与游戏？微软称是因为“好玩”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574864.htm"
+            },
+            {
+                "title": "中国 AI 为什么追得这么快？美媒找到一批关键人物",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-25",
+                "url": "https://www.ithome.com/0/993/954.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1cEdqWGg4aDVLak43SWVOd01wd09LV2dUU3dTSTk3T3lKazl6YVl2S204Nl9wd0tRN2RWQlRLeWd2eVdRQ2pLMUdB?oc=5"
             },
             {
-                "title": "大手牵小手 青春齐步走——来自暑期军事夏令营的一组见闻 - 军网",
+                "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VbU8xYk8wajBpUldYWXB1dFNOazZ5OW90bFVfZ2tHTnkzVGk0VFNTTzI0RDJ5dzZoT2ZZNHZEMUs1R1JMTHpWakJIVGo2SDgtb0tPZk1wSHdQX09NeVNRdg?oc=5"
+                "date": "2026-08-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MmwtWmlWb2t1ejhwblV2dl9UME1pcXh4UTFSbW9MaWlHSGMzZ1N6SmJybWJHTVFXdHkyaWZUNmFrY1ZjbElEWEJBejRGSU1BWUE?oc=5"
             },
             {
-                "title": "找寻“一堂好课”的更优解，军校教员们的探索永远在路上 - 军网",
+                "title": "梅岭寒夜入画：陈毅三载砺初心 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yd0c0cXpwRzZMN1pKZ2VucW1oRGVxbElHVnlMSGtvY0ppM25fbHcxNHRMZl9IOXl2OUFCODZ3dENBbHRINUZYTWRqY0xWSE5XMmc?oc=5"
+                "date": "2026-08-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wWk5nTzNmaHdzM2MyWWFkMVV3dkdrSzQ2N0pkR1BPNm1LQmFIX3EzMW5FbUtlTmE1UW5xbDNjdV9nR1RLQnFObktXcHRjdmo4OHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-26T01:05:15.255056+00:00"
+    "last_updated": "2026-08-26T06:41:28.043270+00:00"
 }
