@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "媒體：川普擬對中加徵7.5%產能過剩關稅",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-25",
-                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%AF%B9%E4%B8%AD%E5%8A%A0%E5%BE%8175%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%85%B3%E7%A8%8E/a-78491788"
-            },
-            {
-                "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-25",
-                "url": "http://www.geekpark.net/news/369324"
-            },
-            {
-                "title": "中国 AI 为什么追得这么快？美媒找到一批关键人物",
+                "title": "北京越野泰钽 700 上市：搭载华为乾崑智驾 ADS 5，超级焕新价 24.98 万元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-25",
-                "url": "https://www.ithome.com/0/993/954.htm"
+                "url": "https://www.ithome.com/0/994/190.htm"
             },
             {
-                "title": "建研设计：联合预中标比亚迪爱琴海��物中心和高端住宅一期项目",
+                "title": "上海：促进外资企业境内再投资，鼓励开展股权投资、并购投资",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-25",
-                "url": "https://36kr.com/newsflashes/3954411962187138?f=rss"
+                "url": "https://36kr.com/newsflashes/3954792964636035?f=rss"
             },
             {
-                "title": "市面上的速成车 其实比你想象的还要多",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "上海：延伸汽车消费链条，开展汽车流通消费改革试点",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-08-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574842.htm"
+                "url": "https://36kr.com/newsflashes/3954786776956295?f=rss"
+            },
+            {
+                "title": "上海：聚焦集成电路、人工智能等重点产业和关键领域，壮大出口优势",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-25",
+                "url": "https://36kr.com/newsflashes/3954784221363329?f=rss"
+            },
+            {
+                "title": "上海：推进自由贸易账户项下离岸经贸业务试点，深入实施离岸贸易印花税政策",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-25",
+                "url": "https://36kr.com/newsflashes/3954781787553159?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "硬氪首发 | 深圳具身基础设施公司获近亿元融资，拿下60%估值百亿头部机器人公司客户",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-08-25",
+                "url": "https://36kr.com/p/3954612909227138?f=rss"
+            },
             {
                 "title": "美军测试 Sandhills 2.0：福特 F-250 搭载 Edda 炮塔，可拦截 10~100 米内无人机",
                 "source": "NewsAPI / Ithome.com",
@@ -68,10 +74,16 @@
                 "url": "https://36kr.com/p/3953725993991560?f=rss"
             },
             {
-                "title": "想要“有尊严地离开”，为什么这么难？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-24",
-                "url": "https://www.ftchinese.com/story/001110701"
+                "title": "中印边界问题特别代表在北京举行会晤 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqN0pndnVFQVZvbXF5aVVtRk1GMUpvM2JtZmF1VzZlMURUMXhaX2IwUVVTUmRMQWJaMldLa0EtY1pIRk1XWGtIREdYX0lwZnFpYVo1VGdhOHVEWGZqenZ5R2NjZk1YUnkySFdv?oc=5"
+            },
+            {
+                "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-26",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtUmVxSHoyT3JFTzlILURXdzdyNFM3c2ItNkVFZ3g4ZTduUFdGemtUWWVpM0JReVJUZlE0NVBmdzB6UzZsN3R6NExscnhXQks1SDZSY01ZRnI?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
@@ -80,28 +92,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "林剑：中国发展新质生产力、推进科技创新的底层逻辑始终是开放合作、互利共赢 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-25",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHE1S2ZwVmJSQldLUEJJZDluaVZjd3B3MkVxZ1otSjltUmtRWnJJRl9yallEYUpka2t3RF94cGo4UllIWDZ5ejZfdE1tMWdwUUhIRlV2cjkxUjlMUndMbnd3dlFFQUpLblF1YThMTXpqZkRyWmhnSklMZm9xUGFXTWI0WjVPOTF0djFPanhHd0k?oc=5"
-            },
-            {
-                "title": "王沪宁会见第三届中美1.5轨对话美方代表 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVElBbGc0c21ELTBxVU1HZjJnV0FhOE1QOTQ1X1ZnOUt1M1dnN29UXy1UZTFzYnpOSkhhbEFuX3kxVDl6QWtncDc5aWlSWVVvUktIMU94WGIzY2JqbG5XQ0pZSm5QQnp2bkh4M1Y0WkpSMTdQZHRVT3FZcllDMGNZZ2Z1b0FVYmRPSTE5Tmh3?oc=5"
-            },
-            {
-                "title": "外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1cEdqWGg4aDVLak43SWVOd01wd09LV2dUU3dTSTk3T3lKazl6YVl2S204Nl9wd0tRN2RWQlRLeWd2eVdRQ2pLMUdB?oc=5"
-            },
-            {
                 "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MmwtWmlWb2t1ejhwblV2dl9UME1pcXh4UTFSbW9MaWlHSGMzZ1N6SmJybWJHTVFXdHkyaWZUNmFrY1ZjbElEWEJBejRGSU1BWUE?oc=5"
+            },
+            {
+                "title": "两部门针对西藏吉隆泥石流灾害启动国家二级救灾应急响应 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YYk9NSzNfWTFKenJHVzN3ZVNxVldDZ1lDajF1RDNQblhlSFFCOEFZV1lpaEowNzFlQThtZWZ4dUFaVkdaN2RMaWhmZDlPWXBtMkE?oc=5"
             },
             {
                 "title": "梅岭寒夜入画：陈毅三载砺初心 - 军网",
@@ -112,34 +112,46 @@
         ],
         "pol": [
             {
-                "title": "董明珠现身格力技工学校 观看面试环节 还与15岁学生比身高",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574874.htm"
-            },
-            {
-                "title": "小电驴行驶限速拟提高至20km/h",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574868.htm"
-            },
-            {
-                "title": "特斯拉悄然上调美国市场两款 Cybertruck 车型售价，均涨价 5000 美元",
+                "title": "北京越野泰钽 700 上市：搭载华为乾崑智驾 ADS 5，超级焕新价 24.98 万元起",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-25",
-                "url": "https://www.ithome.com/0/993/994.htm"
+                "url": "https://www.ithome.com/0/994/190.htm"
             },
             {
-                "title": "Windows 95为何塞进音乐、动画与游戏？微软称是因为“好玩”",
+                "title": "16人团队14个印度裔 Google新人自曝遭抱团排挤被逼辞职",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1574864.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574902.htm"
             },
             {
-                "title": "中国 AI 为什么追得这么快？美媒找到一批关键人物",
+                "title": "什么是德国的政治“防火墙”？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-25",
+                "url": "https://www.dw.com/zh/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%B7%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E9%98%B2%E7%81%AB%E5%A2%99/a-78495477"
+            },
+            {
+                "title": "苹果CEO告别会：致敬声声 蒂姆·库克难得袒露个人生活",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1574896.htm"
+            },
+            {
+                "title": "绿联科技递表港交所，2025 年拿下泛拓展类科技消费电子产品出货全球第一",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-25",
-                "url": "https://www.ithome.com/0/993/954.htm"
+                "url": "https://www.ithome.com/0/994/153.htm"
+            },
+            {
+                "title": "中印边界问题特别代表在北京举行会晤 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqN0pndnVFQVZvbXF5aVVtRk1GMUpvM2JtZmF1VzZlMURUMXhaX2IwUVVTUmRMQWJaMldLa0EtY1pIRk1XWGtIREdYX0lwZnFpYVo1VGdhOHVEWGZqenZ5R2NjZk1YUnkySFdv?oc=5"
+            },
+            {
+                "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-26",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtUmVxSHoyT3JFTzlILURXdzdyNFM3c2ItNkVFZ3g4ZTduUFdGemtUWWVpM0JReVJUZlE0NVBmdzB6UzZsN3R6NExscnhXQks1SDZSY01ZRnI?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
@@ -148,28 +160,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "林剑：中国发展新质生产力、推进科技创新的底层逻辑始终是开放合作、互利共赢 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-25",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHE1S2ZwVmJSQldLUEJJZDluaVZjd3B3MkVxZ1otSjltUmtRWnJJRl9yallEYUpka2t3RF94cGo4UllIWDZ5ejZfdE1tMWdwUUhIRlV2cjkxUjlMUndMbnd3dlFFQUpLblF1YThMTXpqZkRyWmhnSklMZm9xUGFXTWI0WjVPOTF0djFPanhHd0k?oc=5"
-            },
-            {
-                "title": "王沪宁会见第三届中美1.5轨对话美方代表 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVElBbGc0c21ELTBxVU1HZjJnV0FhOE1QOTQ1X1ZnOUt1M1dnN29UXy1UZTFzYnpOSkhhbEFuX3kxVDl6QWtncDc5aWlSWVVvUktIMU94WGIzY2JqbG5XQ0pZSm5QQnp2bkh4M1Y0WkpSMTdQZHRVT3FZcllDMGNZZ2Z1b0FVYmRPSTE5Tmh3?oc=5"
-            },
-            {
-                "title": "外交部：中方祝贺哈萨克斯坦库鲁尔泰选举顺利举行 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-24",
-                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1cEdqWGg4aDVLak43SWVOd01wd09LV2dUU3dTSTk3T3lKazl6YVl2S204Nl9wd0tRN2RWQlRLeWd2eVdRQ2pLMUdB?oc=5"
-            },
-            {
                 "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MmwtWmlWb2t1ejhwblV2dl9UME1pcXh4UTFSbW9MaWlHSGMzZ1N6SmJybWJHTVFXdHkyaWZUNmFrY1ZjbElEWEJBejRGSU1BWUE?oc=5"
+            },
+            {
+                "title": "两部门针对西藏吉隆泥石流灾害启动国家二级救灾应急响应 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YYk9NSzNfWTFKenJHVzN3ZVNxVldDZ1lDajF1RDNQblhlSFFCOEFZV1lpaEowNzFlQThtZWZ4dUFaVkdaN2RMaWhmZDlPWXBtMkE?oc=5"
             },
             {
                 "title": "梅岭寒夜入画：陈毅三载砺初心 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-26T06:41:28.043270+00:00"
+    "last_updated": "2026-08-26T12:43:30.329564+00:00"
 }
