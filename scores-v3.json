@@ -12,34 +12,34 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国制裁伊朗 能斩断中伊关系吗？",
-                "source": "NewsAPI / DW (English)",
+                "title": "每天都有人被抓 中国正在发生什么事(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-28",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97-%E8%83%BD%E6%96%A9%E6%96%AD%E4%B8%AD%E4%BC%8A%E5%85%B3%E7%B3%BB%E5%90%97/a-78547587"
+                "url": "https://www.secretchina.com/news/gb/2026/08/29/1104092.html"
             },
             {
-                "title": "「聚焦太空内生价值」，算力上天的中国路径与现实切口｜OpenTalk回顾",
-                "source": "NewsAPI / 36kr.com",
+                "title": "滴滴寻求扩大拉美业务 拟向阿根廷投资超2亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-28",
-                "url": "https://36kr.com/p/3959033085459844?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575432.htm"
             },
             {
-                "title": "华硕成立物理 AI 事业群，人形机器人计划 9 月上路",
+                "title": "华为何庭波入选AI百大 《Time》称她芯片女王",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575430.htm"
+            },
+            {
+                "title": "英伟达 CEO 黄仁勋呼吁 AI 行业加强沟通：想建数据中心就得争取公众支持",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-28",
-                "url": "https://www.ithome.com/0/995/763.htm"
+                "url": "https://www.ithome.com/0/995/808.htm"
             },
             {
-                "title": "国家外汇管理局：7月我国国际收支货物和服务贸易进出口规模51462亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "X称中国运营约20万个机器人账号 其中200个试图影响美国民众反对数据中心建设",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-28",
-                "url": "https://36kr.com/newsflashes/3958967383948681?f=rss"
-            },
-            {
-                "title": "一汽-大众 ID.AURA T6 开启预售：“大众史上最强车机”加持，13.59 万-16.99 万元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-28",
-                "url": "https://www.ithome.com/0/995/662.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575422.htm"
             }
         ],
         "mil": [
@@ -74,6 +74,12 @@
                 "url": "https://36kr.com/newsflashes/3958744634866824?f=rss"
             },
             {
+                "title": "受权发布丨全国人民代表大会常务委员会决定免职的名单 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-28",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNHc5WXVnZjFhODktNklEdGZBNGc4Vnd2c0dmNFE2YUdDeWhSZEN5WjY1STRrM2thbTNSVE1qdUk0aHNsY2NPSFBkcjVQcDFwM0g1NGJCd2ppd1pnd0lOaXhfN2cwUQ?oc=5"
+            },
+            {
                 "title": "中华人民共和国国防动员法 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-28",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "2026年8月28日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhTVVIRUN5SUs0RXUza29SaUVVU3hvYnJpNHFpTTA5a0ZKWEdOVzVEb0JQcW1MSmJXbC1seEIwS3NPdXdTV0JnclgxREhCTFFXYURIemJHX3FNdU0tWnA5SU91MURsQldMLWp4VUNnaERKak9LOGc?oc=5"
             },
             {
                 "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "《GTA6》实机演示首播让 Netflix 美国观看量一度暴涨 125%，平台一度瘫痪",
-                "source": "NewsAPI / Ithome.com",
+                "title": "优衣库 U 系列真的迎来第一篇章收官了，淮海中路全球旗舰店也官宣了新位置",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-08-28",
-                "url": "https://www.ithome.com/0/995/780.htm"
+                "url": "https://www.toodaylab.com/84185"
             },
             {
-                "title": "「聚焦太空内生价值」，算力上天的中国路径与现实切口｜OpenTalk回顾",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-28",
-                "url": "https://36kr.com/p/3959033085459844?f=rss"
-            },
-            {
-                "title": "特朗普政府设立新型 AI监管机构的行政令陷入停滞",
+                "title": "滴滴寻求扩大拉美业务 拟向阿根廷投资超2亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575402.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575432.htm"
             },
             {
-                "title": "Meta 180 亿美元和解协议细节：30% 捆绑 YouTube 与 TikTok 行动",
+                "title": "英伟达 CEO 黄仁勋呼吁 AI 行业加强沟通：想建数据中心就得争取公众支持",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-28",
-                "url": "https://www.ithome.com/0/995/652.htm"
+                "url": "https://www.ithome.com/0/995/808.htm"
             },
             {
-                "title": "财政部：地方附加税拟实行11%—13%的幅度税率",
-                "source": "NewsAPI / 36kr.com",
+                "title": "X称中国运营约20万个机器人账号 其中200个试图影响美国民众反对数据中心建设",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-28",
-                "url": "https://36kr.com/newsflashes/3958855382973570?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575422.htm"
+            },
+            {
+                "title": "新一轮美国关税或再次推高个人电脑、游戏机和数据中心成本",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-28",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575418.htm"
+            },
+            {
+                "title": "受权发布丨全国人民代表大会常务委员会决定免职的名单 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-28",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNHc5WXVnZjFhODktNklEdGZBNGc4Vnd2c0dmNFE2YUdDeWhSZEN5WjY1STRrM2thbTNSVE1qdUk0aHNsY2NPSFBkcjVQcDFwM0g1NGJCd2ppd1pnd0lOaXhfN2cwUQ?oc=5"
             },
             {
                 "title": "中华人民共和国国防动员法 - 中华人民共和国国防部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "2026年8月28日外交部发言人林剑主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhTVVIRUN5SUs0RXUza29SaUVVU3hvYnJpNHFpTTA5a0ZKWEdOVzVEb0JQcW1MSmJXbC1seEIwS3NPdXdTV0JnclgxREhCTFFXYURIemJHX3FNdU0tWnA5SU91MURsQldMLWp4VUNnaERKak9LOGc?oc=5"
             },
             {
                 "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-29T12:14:03.526930+00:00"
+    "last_updated": "2026-08-29T20:21:53.848315+00:00"
 }
