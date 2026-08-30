@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
+                "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-29",
+                "url": "https://www.ithome.com/0/996/041.htm"
+            },
+            {
+                "title": "《宝可梦轶事：荒诞冒险记 葱游兵与皮丘》首支预告公开，2027 年上线 Disney+",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-29",
+                "url": "https://www.ithome.com/0/996/027.htm"
+            },
+            {
+                "title": "美国 FTC 正调查谷歌 YouTube 随意封号问题",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-29",
+                "url": "https://www.ithome.com/0/996/024.htm"
+            },
+            {
+                "title": "玩家获取 Root 权限后发现小米首款 NAS 智能存储自带 Docker 环境，OpenClaw 已跑通",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-29",
+                "url": "https://www.ithome.com/0/996/019.htm"
+            },
+            {
                 "title": "滴滴寻求扩大拉美业务，拟向阿根廷投资超 2 亿美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-29",
                 "url": "https://www.ithome.com/0/996/015.htm"
-            },
-            {
-                "title": "业绩快报 | 荔枝冰奶五十天卖出1700万杯，茶百道上半年“质效双增”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-29",
-                "url": "https://36kr.com/p/3960415196052873?f=rss"
-            },
-            {
-                "title": "这代年轻人最火的爱好 被凶狠的罪犯盯上了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575476.htm"
-            },
-            {
-                "title": "399美元的小黄鸭，藏着Hugging Face最大的野心",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575474.htm"
-            },
-            {
-                "title": "空客拟出售美国航天业务 转向欧洲制造卫星",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575468.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中国军备迅速扩张：仅仅是为了自卫吗？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-29",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%A4%87%E8%BF%85%E9%80%9F%E6%89%A9%E5%BC%A0%E4%BB%85%E4%BB%85%E6%98%AF%E4%B8%BA%E4%BA%86%E8%87%AA%E5%8D%AB%E5%90%97/a-78557144"
+            },
+            {
+                "title": "中国军备迅速扩张：仅仅是为了自卫吗？",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-29",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%A4%87%E8%BF%85%E9%80%9F%E6%89%A9%E5%BC%A0%E4%BB%85%E4%BB%85%E6%98%AF%E4%B8%BA%E4%BA%86%E8%87%AA%E5%8D%AB%E5%90%97/a-78557144"
+            },
             {
                 "title": "民间100%愤怒值？江苏持续巨响民曝军演“为攻台准备”(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,55 +74,61 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1575474.htm"
             },
             {
-                "title": "长鑫起诉美国国防部 要求撤销“中国军方企业”认定",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575462.htm"
-            },
-            {
-                "title": "小米 18 Fold 手机全球首发长鑫 LPDDR6 内存，9 月见",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-29",
-                "url": "https://www.ithome.com/0/995/869.htm"
-            },
-            {
-                "title": "中华人民共和国国防动员法 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBua1ByekNVU1RTZ3FQT3RiX25nMXdQc2xKT24tZDNGM1JwUE5nUU51YjhUc0R5clBpY0x1ZXE3M1NwVHZKeUVPelhycUtqRm9vek16bFVja3g?oc=5"
-            },
-            {
-                "title": "受权发布丨全国人民代表大会常务委员会决定免职的名单 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNHc5WXVnZjFhODktNklEdGZBNGc4Vnd2c0dmNFE2YUdDeWhSZEN5WjY1STRrM2thbTNSVE1qdUk0aHNsY2NPSFBkcjVQcDFwM0g1NGJCd2ppd1pnd0lOaXhfN2cwUQ?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
+                "title": "相关新闻 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-28",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFItdW5qcE41RlJ3Yy1tTF9GZ0xNWVU0UHdITGk0SDhuRmlENjhCcldQZ2lTODJmY2hWc3NqWlJKSUtMem1iR0FFclRTWGZISU00VmdKdDExNHc2WHZqUmNqdmxrbjRYb3Z4VDluN3BQLTk2WnRRMUpyTXVIa1RVWjhHV0RjRW9lVHdJWkprZXd6RmFQUnhZN3R5dmFkYXZSbzdBblVRczhKdnJycVZUX3g0ak5nRDBkamc?oc=5"
+            },
+            {
+                "title": "军营观察丨这儿的班长“爱操心” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BRVViWEFvaXVDSVNPWEYtYzN4Zk8yZldPQ21RRE1kSXJyUElCYkVRZFBOOXF2Rlk0NHFBSk8tUU9tbTM5YkJYdVg4OXg4dkoyTDJwMXZjRWw?oc=5"
+            },
+            {
+                "title": "特稿｜路联通心相通，中吉合作义利相融 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qVW5YMy1iVkRKTUpVVVR1eWRReW15T2lzYXFQQXRGdG03Z2dDSlBRczd4cFRNSVdfWTVxLTRLdjhxV3RPOUo2M3JCTV9uUTc1RHc?oc=5"
             },
             {
-                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 军网",
+                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M2hDc0lfMHlQc0h5SHEzVzJDVGllYzFsUWZVTnl4UmhtVG5TWTc4WkowREwwV0hidWhyYkNuZWhjdzdnRXRuSXR4Y2ZKS2FZT2c?oc=5"
             },
             {
-                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 军网",
+                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MW9KTm93dllrVzVEQ3lSVG9SODJYQ0JtRDVNRVpmY2xJMXNfM2toZXpZNWZocjBMQW4zMnZoVVNJbXM1T3VURjlRX3cxa09VakE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-29",
+                "url": "https://www.ithome.com/0/996/041.htm"
+            },
+            {
+                "title": "上半年车企单车利润曝光 博主吐槽：卖车还不如卖手机赚钱",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575502.htm"
+            },
+            {
+                "title": "美国 FTC 正调查谷歌 YouTube 随意封号问题",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-29",
+                "url": "https://www.ithome.com/0/996/024.htm"
+            },
             {
                 "title": "滴滴寻求扩大拉美业务，拟向阿根廷投资超 2 亿美元",
                 "source": "NewsAPI / Ithome.com",
@@ -124,55 +142,37 @@
                 "url": "https://www.ithome.com/0/995/927.htm"
             },
             {
-                "title": "俄开始量产星链干扰器",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-29",
-                "url": "https://36kr.com/newsflashes/3960259011689863?f=rss"
-            },
-            {
-                "title": "这代年轻人最火的爱好 被凶狠的罪犯盯上了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575476.htm"
-            },
-            {
-                "title": "399美元的小黄鸭，藏着Hugging Face最大的野心",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575474.htm"
-            },
-            {
-                "title": "中华人民共和国国防动员法 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBua1ByekNVU1RTZ3FQT3RiX25nMXdQc2xKT24tZDNGM1JwUE5nUU51YjhUc0R5clBpY0x1ZXE3M1NwVHZKeUVPelhycUtqRm9vek16bFVja3g?oc=5"
-            },
-            {
-                "title": "受权发布丨全国人民代表大会常务委员会决定免职的名单 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNHc5WXVnZjFhODktNklEdGZBNGc4Vnd2c0dmNFE2YUdDeWhSZEN5WjY1STRrM2thbTNSVE1qdUk0aHNsY2NPSFBkcjVQcDFwM0g1NGJCd2ppd1pnd0lOaXhfN2cwUQ?oc=5"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
+                "title": "相关新闻 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-28",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFItdW5qcE41RlJ3Yy1tTF9GZ0xNWVU0UHdITGk0SDhuRmlENjhCcldQZ2lTODJmY2hWc3NqWlJKSUtMem1iR0FFclRTWGZISU00VmdKdDExNHc2WHZqUmNqdmxrbjRYb3Z4VDluN3BQLTk2WnRRMUpyTXVIa1RVWjhHV0RjRW9lVHdJWkprZXd6RmFQUnhZN3R5dmFkYXZSbzdBblVRczhKdnJycVZUX3g0ak5nRDBkamc?oc=5"
+            },
+            {
+                "title": "军营观察丨这儿的班长“爱操心” - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-28",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BRVViWEFvaXVDSVNPWEYtYzN4Zk8yZldPQ21RRE1kSXJyUElCYkVRZFBOOXF2Rlk0NHFBSk8tUU9tbTM5YkJYdVg4OXg4dkoyTDJwMXZjRWw?oc=5"
+            },
+            {
+                "title": "特稿｜路联通心相通，中吉合作义利相融 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qVW5YMy1iVkRKTUpVVVR1eWRReW15T2lzYXFQQXRGdG03Z2dDSlBRczd4cFRNSVdfWTVxLTRLdjhxV3RPOUo2M3JCTV9uUTc1RHc?oc=5"
             },
             {
-                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 军网",
+                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M2hDc0lfMHlQc0h5SHEzVzJDVGllYzFsUWZVTnl4UmhtVG5TWTc4WkowREwwV0hidWhyYkNuZWhjdzdnRXRuSXR4Y2ZKS2FZT2c?oc=5"
             },
             {
-                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 军网",
+                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MW9KTm93dllrVzVEQ3lSVG9SODJYQ0JtRDVNRVpmY2xJMXNfM2toZXpZNWZocjBMQW4zMnZoVVNJbXM1T3VURjlRX3cxa09VakE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-30T11:11:35.613929+00:00"
+    "last_updated": "2026-08-30T15:59:00.313778+00:00"
 }
