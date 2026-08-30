@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美光员工以罢工相威胁 要求分享AI热潮红利",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575514.htm"
+            },
+            {
+                "title": "韩国拟向全民免费开放生成式AI服务 不设词元使用上限",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-29",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575512.htm"
+            },
+            {
+                "title": "豪宅热销，楼市回暖？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-29",
+                "url": "https://www.ftchinese.com/story/001110686"
+            },
+            {
                 "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-29",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-29",
                 "url": "https://www.ithome.com/0/996/027.htm"
-            },
-            {
-                "title": "美国 FTC 正调查谷歌 YouTube 随意封号问题",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-29",
-                "url": "https://www.ithome.com/0/996/024.htm"
-            },
-            {
-                "title": "玩家获取 Root 权限后发现小米首款 NAS 智能存储自带 Docker 环境，OpenClaw 已跑通",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-29",
-                "url": "https://www.ithome.com/0/996/019.htm"
-            },
-            {
-                "title": "滴滴寻求扩大拉美业务，拟向阿根廷投资超 2 亿美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-29",
-                "url": "https://www.ithome.com/0/996/015.htm"
             }
         ],
         "mil": [
@@ -86,31 +86,37 @@
                 "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFItdW5qcE41RlJ3Yy1tTF9GZ0xNWVU0UHdITGk0SDhuRmlENjhCcldQZ2lTODJmY2hWc3NqWlJKSUtMem1iR0FFclRTWGZISU00VmdKdDExNHc2WHZqUmNqdmxrbjRYb3Z4VDluN3BQLTk2WnRRMUpyTXVIa1RVWjhHV0RjRW9lVHdJWkprZXd6RmFQUnhZN3R5dmFkYXZSbzdBblVRczhKdnJycVZUX3g0ak5nRDBkamc?oc=5"
             },
             {
-                "title": "军营观察丨这儿的班长“爱操心” - 中华人民共和国国防部",
+                "title": "应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BRVViWEFvaXVDSVNPWEYtYzN4Zk8yZldPQ21RRE1kSXJyUElCYkVRZFBOOXF2Rlk0NHFBSk8tUU9tbTM5YkJYdVg4OXg4dkoyTDJwMXZjRWw?oc=5"
+                "date": "2026-08-30",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVHYxOWdqdzM2c2RIcjZqbkUwZS15VVJvUUVmYVNuck9DQjVlbEp2ZWlwbm5HWkFQem1hSHlWaEJMOEtYamlidUNrNmJ1NXd2YlpyVjR0YU9Ga2MwN2F2SGJ6Si0wUQ?oc=5"
             },
             {
-                "title": "特稿｜路联通心相通，中吉合作义利相融 - 中国军网",
+                "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qVW5YMy1iVkRKTUpVVVR1eWRReW15T2lzYXFQQXRGdG03Z2dDSlBRczd4cFRNSVdfWTVxLTRLdjhxV3RPOUo2M3JCTV9uUTc1RHc?oc=5"
             },
             {
-                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 中国军网",
+                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M2hDc0lfMHlQc0h5SHEzVzJDVGllYzFsUWZVTnl4UmhtVG5TWTc4WkowREwwV0hidWhyYkNuZWhjdzdnRXRuSXR4Y2ZKS2FZT2c?oc=5"
             },
             {
-                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 中国军网",
+                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MW9KTm93dllrVzVEQ3lSVG9SODJYQ0JtRDVNRVpmY2xJMXNfM2toZXpZNWZocjBMQW4zMnZoVVNJbXM1T3VURjlRX3cxa09VakE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "豪宅热销，楼市回暖？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-08-29",
+                "url": "https://www.ftchinese.com/story/001110686"
+            },
             {
                 "title": "英伟达“看中”Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
                 "source": "NewsAPI / Ithome.com",
@@ -136,12 +142,6 @@
                 "url": "https://www.ithome.com/0/996/015.htm"
             },
             {
-                "title": "消息称空客有意出售美国航天业务：聚焦欧洲卫星制造，应对 SpaceX 与中国对手竞争",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-29",
-                "url": "https://www.ithome.com/0/995/927.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -154,25 +154,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFItdW5qcE41RlJ3Yy1tTF9GZ0xNWVU0UHdITGk0SDhuRmlENjhCcldQZ2lTODJmY2hWc3NqWlJKSUtMem1iR0FFclRTWGZISU00VmdKdDExNHc2WHZqUmNqdmxrbjRYb3Z4VDluN3BQLTk2WnRRMUpyTXVIa1RVWjhHV0RjRW9lVHdJWkprZXd6RmFQUnhZN3R5dmFkYXZSbzdBblVRczhKdnJycVZUX3g0ak5nRDBkamc?oc=5"
             },
             {
-                "title": "军营观察丨这儿的班长“爱操心” - 中华人民共和国国防部",
+                "title": "应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-28",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BRVViWEFvaXVDSVNPWEYtYzN4Zk8yZldPQ21RRE1kSXJyUElCYkVRZFBOOXF2Rlk0NHFBSk8tUU9tbTM5YkJYdVg4OXg4dkoyTDJwMXZjRWw?oc=5"
+                "date": "2026-08-30",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVHYxOWdqdzM2c2RIcjZqbkUwZS15VVJvUUVmYVNuck9DQjVlbEp2ZWlwbm5HWkFQem1hSHlWaEJMOEtYamlidUNrNmJ1NXd2YlpyVjR0YU9Ga2MwN2F2SGJ6Si0wUQ?oc=5"
             },
             {
-                "title": "特稿｜路联通心相通，中吉合作义利相融 - 中国军网",
+                "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qVW5YMy1iVkRKTUpVVVR1eWRReW15T2lzYXFQQXRGdG03Z2dDSlBRczd4cFRNSVdfWTVxLTRLdjhxV3RPOUo2M3JCTV9uUTc1RHc?oc=5"
             },
             {
-                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 中国军网",
+                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-30",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M2hDc0lfMHlQc0h5SHEzVzJDVGllYzFsUWZVTnl4UmhtVG5TWTc4WkowREwwV0hidWhyYkNuZWhjdzdnRXRuSXR4Y2ZKS2FZT2c?oc=5"
             },
             {
-                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 中国军网",
+                "title": "钧正平说：“极限思维、底线思维”——防汛关键期，这八个字重千钧 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MW9KTm93dllrVzVEQ3lSVG9SODJYQ0JtRDVNRVpmY2xJMXNfM2toZXpZNWZocjBMQW4zMnZoVVNJbXM1T3VURjlRX3cxa09VakE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-08-30T15:59:00.313778+00:00"
+    "last_updated": "2026-08-30T20:30:04.374833+00:00"
 }
