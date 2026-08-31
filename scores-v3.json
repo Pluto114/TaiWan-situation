@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI将终止向Cursor提供模型服务，马斯克回应",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-30",
-                "url": "https://36kr.com/newsflashes/3961329190813059?f=rss"
-            },
-            {
-                "title": "上线满 7 年：苹果 Apple Card 将新增周期交易追踪功能",
+                "title": "联想 ThinkTab 11S 平板上架：天玑 6300、电池 7040mAh，首发 1799 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-30",
-                "url": "https://www.ithome.com/0/996/076.htm"
+                "url": "https://www.ithome.com/0/996/227.htm"
             },
             {
-                "title": "徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一",
+                "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-30",
-                "url": "https://www.ithome.com/0/996/075.htm"
+                "url": "https://www.ithome.com/0/996/222.htm"
             },
             {
-                "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
+                "title": "造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-30",
-                "url": "http://www.geekpark.net/news/369551"
+                "url": "http://www.geekpark.net/news/369556"
             },
             {
-                "title": "IT早报 0830：常州为星宇离职学生办专场招聘会；长鑫 LPDDR6 内存量产小米 18 Fold 首发；余承东晒华为 Mate XT 2 三折叠真机；交通部回应 ETC 改扫车牌支付...",
+                "title": "24 小时订单超 260 万美元，Hugging Face 机器鸭 Microduck 爆单",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-29",
-                "url": "https://www.ithome.com/0/996/063.htm"
+                "date": "2026-08-30",
+                "url": "https://www.ithome.com/0/996/199.htm"
+            },
+            {
+                "title": "G20电价排名：德国居首 远超主要经济体",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-08-30",
+                "url": "https://www.dw.com/zh/g20%E7%94%B5%E4%BB%B7%E6%8E%92%E5%90%8D%E5%BE%B7%E5%9B%BD%E5%B1%85%E9%A6%96-%E8%BF%9C%E8%B6%85%E4%B8%BB%E8%A6%81%E7%BB%8F%E6%B5%8E%E4%BD%93/a-78562308"
             }
         ],
         "mil": [
+            {
+                "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-30",
+                "url": "https://www.ithome.com/0/996/222.htm"
+            },
+            {
+                "title": "看了这届机器人运动会后 劝你别再笑它们是玩具了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575578.htm"
+            },
+            {
+                "title": "冰岛或在一场势均力敌的公投中拒绝与欧盟重启入盟谈判",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575552.htm"
+            },
+            {
+                "title": "环青赛的黄衫和\"避雷\"帖都是真的：业余车要不要上轮峰电变，先把75分测评和40条评论摆在一起",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-08-30",
+                "url": "https://post.smzdm.com/p/a3md8k85/"
+            },
             {
                 "title": "好莱坞明星扎堆入局微短剧，美国市场今年收入预计达 15 亿美元",
                 "source": "NewsAPI / Ithome.com",
@@ -50,34 +74,10 @@
                 "url": "https://www.ithome.com/0/996/082.htm"
             },
             {
-                "title": "徐直军：华为用国产芯片、鸿蒙生态实现了国内市场出货份额的第一",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-30",
-                "url": "https://www.ithome.com/0/996/075.htm"
-            },
-            {
-                "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-30",
-                "url": "http://www.geekpark.net/news/369551"
-            },
-            {
-                "title": "IT早报 0830：常州为星宇离职学生办专场招聘会；长鑫 LPDDR6 内存量产小米 18 Fold 首发；余承东晒华为 Mate XT 2 三折叠真机；交通部回应 ETC 改扫车牌支付...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-29",
-                "url": "https://www.ithome.com/0/996/063.htm"
-            },
-            {
-                "title": "中国军备迅速扩张：仅仅是为了自卫吗？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-08-29",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%A4%87%E8%BF%85%E9%80%9F%E6%89%A9%E5%BC%A0%E4%BB%85%E4%BB%85%E6%98%AF%E4%B8%BA%E4%BA%86%E8%87%AA%E5%8D%AB%E5%90%97/a-78557144"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-08-31",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kT0FSYk9nQlYzSnM2czNTQUhKVlFMSGFHMWduczVFbnN6YnRBY3FtZGZQVHc4b2UyZnFreVY3cmpxVC1qX0tkOXN5a1dvdGlhR0JhbHhaN0oweXhHUC1FaVB3SQ?oc=5"
             },
             {
                 "title": "应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系 - 中华人民共和国国防部",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVHYxOWdqdzM2c2RIcjZqbkUwZS15VVJvUUVmYVNuck9DQjVlbEp2ZWlwbm5HWkFQem1hSHlWaEJMOEtYamlidUNrNmJ1NXd2YlpyVjR0YU9Ga2MwN2F2SGJ6Si0wUQ?oc=5"
             },
             {
-                "title": "中央党校（国家行政学院）举行秋季学期开学典礼 蔡奇出席并讲话 - 中华人民共和国国防部",
+                "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-29",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZ3Fsc3lBZ2xiMjFqVmN1Z3lXTk9PbHZsR3hRTVFQYzR0MjhfWmZyTU16RTMyRk1fQzNqdTRiVDA1ZWpQMVV4VXJLQlFad1lrYTd4ZVUyWHdYM1psbC16eXdJaDQ0UQ?oc=5"
-            },
-            {
-                "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qVW5YMy1iVkRKTUpVVVR1eWRReW15T2lzYXFQQXRGdG03Z2dDSlBRczd4cFRNSVdfWTVxLTRLdjhxV3RPOUo2M3JCTV9uUTc1RHc?oc=5"
+                "date": "2026-08-30",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWnp0djJvaVZJaW5NMWlpdHBOaTNVRDBudVBwaEllUVBWd0xCaG85Qjl0cmp3cThKQXZ0aFRuYXkzQTFmbVdzMzQzblB4QTBGWE1wVnVJMWc0THl3b0JIczlSSQ?oc=5"
             },
             {
                 "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 军网",
@@ -108,44 +102,50 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MW9KTm93dllrVzVEQ3lSVG9SODJYQ0JtRDVNRVpmY2xJMXNfM2toZXpZNWZocjBMQW4zMnZoVVNJbXM1T3VURjlRX3cxa09VakE?oc=5"
+            },
+            {
+                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S1MzS1RqeVVrUlBhQkJwMk1JcnVZcEVNaTZaclBoeTgySk1KRGtyRzhMVU9ycTVfQ2poektqSGZrenhLRy1RSEpNaFQ4OFZnVnc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "北京高端科学仪器与传感器大会举办，发布采购额约4亿元机遇清单",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-30",
-                "url": "https://36kr.com/newsflashes/3961404301606277?f=rss"
-            },
-            {
-                "title": "“波点女王”草间弥生逝世，但她的圆点早已布满整个世界",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-08-30",
-                "url": "https://www.toodaylab.com/84187"
-            },
-            {
-                "title": "OpenAI将终止向Cursor提供模型服务，马斯克回应",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-30",
-                "url": "https://36kr.com/newsflashes/3961329190813059?f=rss"
-            },
-            {
-                "title": "上线满 7 年：苹果 Apple Card 将新增周期交易追踪功能",
+                "title": "消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-30",
-                "url": "https://www.ithome.com/0/996/076.htm"
+                "url": "https://www.ithome.com/0/996/222.htm"
             },
             {
-                "title": "AI 人才争夺加码：台积电 2026Q2 奖金约为 360 亿新台币，同比增 50.6%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-30",
-                "url": "https://www.ithome.com/0/996/073.htm"
+                "url": "http://www.geekpark.net/news/369556"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "title": "【CDT报告汇】寒冬：中国学者研究发现“地下宗教”成为最难以镇压的“反抗力量”（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-08-30",
+                "url": "https://chinadigitaltimes.net/chinese/731166.html"
+            },
+            {
+                "title": "电动自行车限速拟提至20km/h，九号、雅迪、小牛等回应",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575592.htm"
+            },
+            {
+                "title": "苹果完成CEO交接：库克卸任转任执行董事长 特纳斯9月1日起接棒",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575586.htm"
+            },
+            {
+                "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-08-31",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kT0FSYk9nQlYzSnM2czNTQUhKVlFMSGFHMWduczVFbnN6YnRBY3FtZGZQVHc4b2UyZnFreVY3cmpxVC1qX0tkOXN5a1dvdGlhR0JhbHhaN0oweXhHUC1FaVB3SQ?oc=5"
             },
             {
                 "title": "应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系 - 中华人民共和国国防部",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVHYxOWdqdzM2c2RIcjZqbkUwZS15VVJvUUVmYVNuck9DQjVlbEp2ZWlwbm5HWkFQem1hSHlWaEJMOEtYamlidUNrNmJ1NXd2YlpyVjR0YU9Ga2MwN2F2SGJ6Si0wUQ?oc=5"
             },
             {
-                "title": "中央党校（国家行政学院）举行秋季学期开学典礼 蔡奇出席并讲话 - 中华人民共和国国防部",
+                "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-29",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZ3Fsc3lBZ2xiMjFqVmN1Z3lXTk9PbHZsR3hRTVFQYzR0MjhfWmZyTU16RTMyRk1fQzNqdTRiVDA1ZWpQMVV4VXJLQlFad1lrYTd4ZVUyWHdYM1psbC16eXdJaDQ0UQ?oc=5"
-            },
-            {
-                "title": "特稿｜路联通心相通，中吉合作义利相融 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qVW5YMy1iVkRKTUpVVVR1eWRReW15T2lzYXFQQXRGdG03Z2dDSlBRczd4cFRNSVdfWTVxLTRLdjhxV3RPOUo2M3JCTV9uUTc1RHc?oc=5"
+                "date": "2026-08-30",
+                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWnp0djJvaVZJaW5NMWlpdHBOaTNVRDBudVBwaEllUVBWd0xCaG85Qjl0cmp3cThKQXZ0aFRuYXkzQTFmbVdzMzQzblB4QTBGWE1wVnVJMWc0THl3b0JIczlSSQ?oc=5"
             },
             {
                 "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-29",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91MW9KTm93dllrVzVEQ3lSVG9SODJYQ0JtRDVNRVpmY2xJMXNfM2toZXpZNWZocjBMQW4zMnZoVVNJbXM1T3VURjlRX3cxa09VakE?oc=5"
+            },
+            {
+                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S1MzS1RqeVVrUlBhQkJwMk1JcnVZcEVNaTZaclBoeTgySk1KRGtyRzhMVU9ycTVfQ2poektqSGZrenhLRy1RSEpNaFQ4OFZnVnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-08-31T03:26:45.153734+00:00"
+    "last_updated": "2026-08-31T12:36:52.871170+00:00"
 }
