@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "存储芯片厂商江波龙拟香港上市，融资不超过 62.8 亿港元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "“我要吃饭要看病”上海信访局前白发老妇拉横幅高喊(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/571.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/08/31/1104216.html"
             },
             {
-                "title": "摆脱对台积电依赖，LG 电子将委托三星代工 AI 家电芯片",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苹果地图将跟随Google 把“安大略湖”改名为“美国湖”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/564.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575766.htm"
             },
             {
-                "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "长鑫存储已开始小批量生产HBM3E内存",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-31",
-                "url": "http://www.geekpark.net/news/369559"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575764.htm"
             },
             {
-                "title": "首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展",
-                "source": "NewsAPI / Ithome.com",
+                "title": "欣兴电子涉嫌将中国制造电路板改标为台湾制造被查",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/553.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575758.htm"
             },
             {
-                "title": "人类，越来越难理解 AI",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "SK海力士考虑采用英特尔晶圆代工生产HBM4E基础裸片",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-31",
-                "url": "http://www.geekpark.net/news/369609"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575754.htm"
             }
         ],
         "mil": [
+            {
+                "title": "波士顿动力Spot机器狗或将参与美国移民与海关执法局行动 合同金额最高达200万美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575760.htm"
+            },
+            {
+                "title": "微信 2026 年 8 月朋友圈热度谣言公布，含“青岛大学新校徽像旭日旗”“新疆阿勒泰八月就能滑雪”等",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-31",
+                "url": "https://www.ithome.com/0/996/664.htm"
+            },
+            {
+                "title": "华为上半年营收4678亿元 同比增长9.55%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575718.htm"
+            },
             {
                 "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
                 "source": "NewsAPI / Geekpark.net",
@@ -56,40 +74,22 @@
                 "url": "http://www.geekpark.net/news/369608"
             },
             {
-                "title": "速成车的代价",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575624.htm"
-            },
-            {
-                "title": "IT早报 0831：特斯拉廉价版 Model 3 港澳上市；爱奇艺会员用券专享影片纳入 VIP 片库；华为 Mate XT 2 展翼三折叠手机官宣；网易云音乐鸿蒙版 9 月将上线...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/274.htm"
-            },
-            {
-                "title": "8点1氪丨官方回应“建议取消ETC设备使用”；追觅起诉小红书，要求平台配合披露用户身份信息；李国庆回应卖掉当当股份做公益",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-30",
-                "url": "https://36kr.com/p/3962669143620737?f=rss"
-            },
-            {
                 "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-31",
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kT0FSYk9nQlYzSnM2czNTQUhKVlFMSGFHMWduczVFbnN6YnRBY3FtZGZQVHc4b2UyZnFreVY3cmpxVC1qX0tkOXN5a1dvdGlhR0JhbHhaN0oweXhHUC1FaVB3SQ?oc=5"
             },
             {
+                "title": "应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-30",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVHYxOWdqdzM2c2RIcjZqbkUwZS15VVJvUUVmYVNuck9DQjVlbEp2ZWlwbm5HWkFQem1hSHlWaEJMOEtYamlidUNrNmJ1NXd2YlpyVjR0YU9Ga2MwN2F2SGJ6Si0wUQ?oc=5"
+            },
+            {
                 "title": "图讯丨习近平会见俄罗斯总统普京 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-31",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QjB2MERFNEVta3lOcmR6YXhlbTRFb1VnSFRLSEs3NnBvZUUxR1VjQ0p4V0FLb3ZOdzJadmhCRmFkUXZ3dEdTZ3JCUHhlM0JoUG9hRzlabGlzdw?oc=5"
-            },
-            {
-                "title": "习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-01",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SZnRHYlljVXA0MW5YTnkxUXZ1WVNlcnJuVzZNZGlXeUFlQUJzaWktbXRvRkVRQzE1YUJrN0ppVXFpMHhRbkZlSVY3azBvWVZra0tHYXhHTHQ?oc=5"
             },
             {
                 "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "长平观察：“应邀”而来的“间谍”——习近平访美之前，已为特朗普备好“礼物”",
-                "source": "NewsAPI / DW (English)",
+                "title": "英国也有“预制娃”：当父母把孩子从学校撤回来",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-08-31",
-                "url": "https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%BA%94%E9%82%80%E8%80%8C%E6%9D%A5%E7%9A%84%E9%97%B4%E8%B0%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%B9%8B%E5%89%8D%E5%B7%B2%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%87%E5%A5%BD%E7%A4%BC%E7%89%A9/a-78570956"
+                "url": "https://www.ftchinese.com/story/001110762"
             },
             {
-                "title": "摆脱对台积电依赖，LG 电子将委托三星代工 AI 家电芯片",
+                "title": "福特中国首款出口欧洲等发达市场的纯电动商用车，全新福特 Transit City 在江铃小蓝工厂下线",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/564.htm"
+                "url": "https://www.ithome.com/0/996/681.htm"
             },
             {
-                "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-08-31",
-                "url": "http://www.geekpark.net/news/369559"
-            },
-            {
-                "title": "刚向107名应届生致歉 星宇又被曝区别对待中外员工",
+                "title": "波士顿动力Spot机器狗或将参与美国移民与海关执法局行动 合同金额最高达200万美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575708.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575760.htm"
             },
             {
-                "title": "首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展",
+                "title": "欣兴电子涉嫌将中国制造电路板改标为台湾制造被查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575758.htm"
+            },
+            {
+                "title": "微信 2026 年 8 月朋友圈热度谣言公布，含“青岛大学新校徽像旭日旗”“新疆阿勒泰八月就能滑雪”等",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/553.htm"
+                "url": "https://www.ithome.com/0/996/664.htm"
             },
             {
                 "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kT0FSYk9nQlYzSnM2czNTQUhKVlFMSGFHMWduczVFbnN6YnRBY3FtZGZQVHc4b2UyZnFreVY3cmpxVC1qX0tkOXN5a1dvdGlhR0JhbHhaN0oweXhHUC1FaVB3SQ?oc=5"
             },
             {
+                "title": "应时代之变 行天下大道——习近平主席引领推动构建更加公正合理的全球治理体系 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-08-30",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVHYxOWdqdzM2c2RIcjZqbkUwZS15VVJvUUVmYVNuck9DQjVlbEp2ZWlwbm5HWkFQem1hSHlWaEJMOEtYamlidUNrNmJ1NXd2YlpyVjR0YU9Ga2MwN2F2SGJ6Si0wUQ?oc=5"
+            },
+            {
                 "title": "图讯丨习近平会见俄罗斯总统普京 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-31",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QjB2MERFNEVta3lOcmR6YXhlbTRFb1VnSFRLSEs3NnBvZUUxR1VjQ0p4V0FLb3ZOdzJadmhCRmFkUXZ3dEdTZ3JCUHhlM0JoUG9hRzlabGlzdw?oc=5"
-            },
-            {
-                "title": "习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-01",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SZnRHYlljVXA0MW5YTnkxUXZ1WVNlcnJuVzZNZGlXeUFlQUJzaWktbXRvRkVRQzE1YUJrN0ppVXFpMHhRbkZlSVY3azBvWVZra0tHYXhHTHQ?oc=5"
             },
             {
                 "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-01T11:02:39.205688+00:00"
+    "last_updated": "2026-09-01T16:01:05.716603+00:00"
 }
