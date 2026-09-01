@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发｜中科大团队做太空智能计算平台获超亿元融资，博华、经纬、高瓴等联合押注",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-31",
-                "url": "https://36kr.com/p/3958987031133568?f=rss"
-            },
-            {
-                "title": "“词元贷”纾解AI企业融资困境",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-31",
-                "url": "https://36kr.com/newsflashes/3962818222652809?f=rss"
-            },
-            {
-                "title": "消费级 XR 硬件市场低迷，消息称线下 VR 娱乐场所正成为海外投资者和开发者新方向",
+                "title": "存储芯片厂商江波龙拟香港上市，融资不超过 62.8 亿港元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/355.htm"
+                "url": "https://www.ithome.com/0/996/571.htm"
             },
             {
-                "title": "陆上油气甲烷排放监测国家标准出台",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-31",
-                "url": "https://36kr.com/newsflashes/3962796463701378?f=rss"
-            },
-            {
-                "title": "美国 ITC 对特定移动设备启动 337 调查，苹果公司为列名被告",
+                "title": "摆脱对台积电依赖，LG 电子将委托三星代工 AI 家电芯片",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/307.htm"
+                "url": "https://www.ithome.com/0/996/564.htm"
+            },
+            {
+                "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-31",
+                "url": "http://www.geekpark.net/news/369559"
+            },
+            {
+                "title": "首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-31",
+                "url": "https://www.ithome.com/0/996/553.htm"
+            },
+            {
+                "title": "人类，越来越难理解 AI",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-31",
+                "url": "http://www.geekpark.net/news/369609"
             }
         ],
         "mil": [
+            {
+                "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-31",
+                "url": "http://www.geekpark.net/news/369559"
+            },
+            {
+                "title": "399 美元的小黄鸭，藏着 Hugging Face 最大的野心",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-08-31",
+                "url": "http://www.geekpark.net/news/369608"
+            },
+            {
+                "title": "速成车的代价",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-08-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575624.htm"
+            },
             {
                 "title": "IT早报 0831：特斯拉廉价版 Model 3 港澳上市；爱奇艺会员用券专享影片纳入 VIP 片库；华为 Mate XT 2 展翼三折叠手机官宣；网易云音乐鸿蒙版 9 月将上线...",
                 "source": "NewsAPI / Ithome.com",
@@ -56,24 +74,6 @@
                 "url": "https://36kr.com/p/3962669143620737?f=rss"
             },
             {
-                "title": "军备局205厂迁高雄大树 T112步枪产线大升级(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-30",
-                "url": "https://www.secretchina.com/news/gb/2026/08/31/1104167.html"
-            },
-            {
-                "title": "超级智能研究先驱尼克•博斯特罗姆：人工智能时代，工作与社会将如何被重塑？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-30",
-                "url": "https://www.ftchinese.com/story/001110757"
-            },
-            {
-                "title": "一周世界舆论聚焦：美国被指责主导权衰落",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-08-30",
-                "url": "https://www.ftchinese.com/story/001110760"
-            },
-            {
                 "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-08-31",
@@ -86,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QjB2MERFNEVta3lOcmR6YXhlbTRFb1VnSFRLSEs3NnBvZUUxR1VjQ0p4V0FLb3ZOdzJadmhCRmFkUXZ3dEdTZ3JCUHhlM0JoUG9hRzlabGlzdw?oc=5"
             },
             {
-                "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 - 中华人民共和国国防部",
+                "title": "习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-30",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWnp0djJvaVZJaW5NMWlpdHBOaTNVRDBudVBwaEllUVBWd0xCaG85Qjl0cmp3cThKQXZ0aFRuYXkzQTFmbVdzMzQzblB4QTBGWE1wVnVJMWc0THl3b0JIczlSSQ?oc=5"
+                "date": "2026-09-01",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SZnRHYlljVXA0MW5YTnkxUXZ1WVNlcnJuVzZNZGlXeUFlQUJzaWktbXRvRkVRQzE1YUJrN0ppVXFpMHhRbkZlSVY3azBvWVZra0tHYXhHTHQ?oc=5"
             },
             {
-                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 中国军网",
+                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcU5BcjYxMzV4cDhKOGVXeHRjaHZFOS1XN3FubmR6OVQ2LWtNdjE2akZLSkVsQy1JQ3RjSjBjQjN6cmljbElPN0dXMmlCdXBoSHc?oc=5"
             },
             {
-                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M2hDc0lfMHlQc0h5SHEzVzJDVGllYzFsUWZVTnl4UmhtVG5TWTc4WkowREwwV0hidWhyYkNuZWhjdzdnRXRuSXR4Y2ZKS2FZT2c?oc=5"
-            },
-            {
-                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 中国军网",
+                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S1MzS1RqeVVrUlBhQkJwMk1JcnVZcEVNaTZaclBoeTgySk1KRGtyRzhMVU9ycTVfQ2poektqSGZrenhLRy1RSEpNaFQ4OFZnVnc?oc=5"
+            },
+            {
+                "title": "“到老朋友家里做客” 在总统府现场见证欢迎仪式 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44d0pFUTg3VzBrNGZIclByUjlHMHlNTnZoWEgtS19QYWVmMzJQUkVTcHFvWnZrM2lxei1xUkIxZjV0ZkIwTkNONzZSZVBPWTRsNHc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "36氪首发｜中科大团队做太空智能计算平台获超亿元融资，博华、经纬、高瓴等联合押注",
-                "source": "NewsAPI / 36kr.com",
+                "title": "长平观察：“应邀”而来的“间谍”——习近平访美之前，已为特朗普备好“礼物”",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-08-31",
-                "url": "https://36kr.com/p/3958987031133568?f=rss"
+                "url": "https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E5%BA%94%E9%82%80%E8%80%8C%E6%9D%A5%E7%9A%84%E9%97%B4%E8%B0%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%B9%8B%E5%89%8D%E5%B7%B2%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%87%E5%A5%BD%E7%A4%BC%E7%89%A9/a-78570956"
             },
             {
-                "title": "美国 ITC 对特定移动设备启动 337 调查，苹果公司为列名被告",
+                "title": "摆脱对台积电依赖，LG 电子将委托三星代工 AI 家电芯片",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-08-31",
-                "url": "https://www.ithome.com/0/996/307.htm"
+                "url": "https://www.ithome.com/0/996/564.htm"
             },
             {
-                "title": "美国ITC对特定移动设备启动337调查，苹果公司为列名被告",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-08-31",
-                "url": "https://36kr.com/newsflashes/3962789431491971?f=rss"
-            },
-            {
-                "title": "编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结",
+                "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-08-31",
-                "url": "http://www.geekpark.net/news/369517"
+                "url": "http://www.geekpark.net/news/369559"
             },
             {
-                "title": "爱诗科技投资、主做精品内容，AI影视公司折叠完成数百万美元融资｜36氪融资首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "刚向107名应届生致歉 星宇又被曝区别对待中外员工",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-08-31",
-                "url": "https://36kr.com/p/3954709821258889?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575708.htm"
+            },
+            {
+                "title": "首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-08-31",
+                "url": "https://www.ithome.com/0/996/553.htm"
             },
             {
                 "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
@@ -154,31 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QjB2MERFNEVta3lOcmR6YXhlbTRFb1VnSFRLSEs3NnBvZUUxR1VjQ0p4V0FLb3ZOdzJadmhCRmFkUXZ3dEdTZ3JCUHhlM0JoUG9hRzlabGlzdw?oc=5"
             },
             {
-                "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问 - 中华人民共和国国防部",
+                "title": "习近平在上海合作组织成员国元首理事会第二十六次会议上的讲话 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-30",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWnp0djJvaVZJaW5NMWlpdHBOaTNVRDBudVBwaEllUVBWd0xCaG85Qjl0cmp3cThKQXZ0aFRuYXkzQTFmbVdzMzQzblB4QTBGWE1wVnVJMWc0THl3b0JIczlSSQ?oc=5"
+                "date": "2026-09-01",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SZnRHYlljVXA0MW5YTnkxUXZ1WVNlcnJuVzZNZGlXeUFlQUJzaWktbXRvRkVRQzE1YUJrN0ppVXFpMHhRbkZlSVY3azBvWVZra0tHYXhHTHQ?oc=5"
             },
             {
-                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 中国军网",
+                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcU5BcjYxMzV4cDhKOGVXeHRjaHZFOS1XN3FubmR6OVQ2LWtNdjE2akZLSkVsQy1JQ3RjSjBjQjN6cmljbElPN0dXMmlCdXBoSHc?oc=5"
             },
             {
-                "title": "2026年国家社科基金年度项目评审工作会议在京召开 李书磊出席并讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M2hDc0lfMHlQc0h5SHEzVzJDVGllYzFsUWZVTnl4UmhtVG5TWTc4WkowREwwV0hidWhyYkNuZWhjdzdnRXRuSXR4Y2ZKS2FZT2c?oc=5"
-            },
-            {
-                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 中国军网",
+                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-08-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S1MzS1RqeVVrUlBhQkJwMk1JcnVZcEVNaTZaclBoeTgySk1KRGtyRzhMVU9ycTVfQ2poektqSGZrenhLRy1RSEpNaFQ4OFZnVnc?oc=5"
+            },
+            {
+                "title": "“到老朋友家里做客” 在总统府现场见证欢迎仪式 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-08-31",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44d0pFUTg3VzBrNGZIclByUjlHMHlNTnZoWEgtS19QYWVmMzJQUkVTcHFvWnZrM2lxei1xUkIxZjV0ZkIwTkNONzZSZVBPWTRsNHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-01T03:26:15.929585+00:00"
+    "last_updated": "2026-09-01T11:02:39.205688+00:00"
 }
