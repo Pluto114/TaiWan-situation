@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "《深圳经济特区促进脑机接口产业创新发展若干规定》公开征求意见",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中国一家法院冻结荷兰安世半导体21.4亿在华资产",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-09-01",
-                "url": "https://36kr.com/newsflashes/3964240012418567?f=rss"
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%AE%B6%E6%B3%95%E9%99%A2%E5%86%BB%E7%BB%93%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93214%E4%BA%BF%E5%9C%A8%E5%8D%8E%E8%B5%84%E4%BA%A7/a-78586339"
             },
             {
-                "title": "浙江杭州：支持证券公司并购重组，打造一流投资银行和投资机构",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特努斯开局一对2",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-01",
-                "url": "https://36kr.com/newsflashes/3964238547148040?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575920.htm"
             },
             {
-                "title": "优步申请运营首尔自动驾驶出租车平台",
-                "source": "NewsAPI / 36kr.com",
+                "title": "打工人把星宇批量劝退捅给了大众奔驰 蔚来也受牵连",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-01",
-                "url": "https://36kr.com/newsflashes/3964212229463559?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575914.htm"
             },
             {
-                "title": "万千气象北京行启动：探访首都博物馆",
-                "source": "NewsAPI / 36kr.com",
+                "title": "魅族科技宣布十一后涨价",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-01",
-                "url": "https://36kr.com/p/3964199766253065?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575910.htm"
             },
             {
-                "title": "碎屏背后的选择题：苹果 iPhone 独立维修案时隔 4 年重回法庭",
-                "source": "NewsAPI / Ithome.com",
+                "title": "宜家欧洲降价以应对生活成本危机",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/996/760.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575906.htm"
             }
         ],
         "mil": [
             {
-                "title": "8点1氪丨片仔癀市值蒸发超2100亿；苹果换帅，特努斯接替库克任苹果CEO；Anthropic签署由英伟达支持的350亿美元云计算协议",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-01",
-                "url": "https://36kr.com/p/3964101092236803?f=rss"
-            },
-            {
-                "title": "五角大楼推出军用版ChatGPT和Grok 覆盖约300万名军政人员",
+                "title": "OpenAI称苹果自身应为商业秘密诉讼“混乱局面”负责",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-08-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575800.htm"
+                "date": "2026-09-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575900.htm"
             },
             {
-                "title": "疑似中资买家在美军太平洋主力舰载机基地附近购入大片农地(图)",
+                "title": "美国陆军计划在本土军事基地部署20座核微型反应堆",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575894.htm"
+            },
+            {
+                "title": "美国五角大楼部署定制版 ChatGPT 和 Grok AI 助手",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-01",
+                "url": "https://www.ithome.com/0/996/972.htm"
+            },
+            {
+                "title": "军队向鸟开战？50只让机枪士兵陷入苦战(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-08-31",
-                "url": "https://www.secretchina.com/news/gb/2026/09/01/1104220.html"
+                "date": "2026-09-01",
+                "url": "https://www.secretchina.com/news/gb/2026/09/01/1104222.html"
             },
             {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-31",
-                "url": "https://www.voachinese.com/a/8187621.html"
-            },
-            {
-                "title": "日本防卫预算创新高 旨在应对区域安全挑战",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-08-31",
-                "url": "https://www.voachinese.com/a/japan-s-defense-budget-hits-record-high-20260831/8192503.html"
+                "title": "OpenAI 否认窃取苹果商业机密：自己一手造成的还想赖别人",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-01",
+                "url": "https://www.ithome.com/0/996/942.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -80,10 +80,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OTh1OWpTZWxLQ2xscDhmUmpISS0xSEZVRHM0YW9nOWJVNC1HRTJXU1NaVlhUWFBkekh5dXV5UjBUcXZKMUtPLTk1bXlRbDNvTEs5MFBKcHhTWHdhN0hXYUVpU29ybkxxTkRV?oc=5"
             },
             {
-                "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
+                "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-31",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kT0FSYk9nQlYzSnM2czNTQUhKVlFMSGFHMWduczVFbnN6YnRBY3FtZGZQVHc4b2UyZnFreVY3cmpxVC1qX0tkOXN5a1dvdGlhR0JhbHhaN0oweXhHUC1FaVB3SQ?oc=5"
+                "date": "2026-09-02",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMnRLdXZ2dUZwcVN6Vm9idjJpemZ3RTFIczhCUEhUdW1yekNacFktMnZMWEcwU19WdFZtSURyYzhfR3YySE5MZ2tpRWIyVWozZmduWC1PVkk?oc=5"
             },
             {
                 "title": "解放军和武警部队官兵持续奋战在西藏吉隆抢险救援一线 开展道路清淤、预警监测、卫生防疫等工作 - 中华人民共和国国防部",
@@ -92,54 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUnF6Tmh6SkhhWDNNQ1IwZWJ3WXQ3RmxydS1mLVJXZDZjVmpfRndwQ2VBQ1dmUUdnOHVPUTVUZFFzRzNYWFBxYzQ0bUR1UjZPQ09QaDdMNjc?oc=5"
             },
             {
-                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
+                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcU5BcjYxMzV4cDhKOGVXeHRjaHZFOS1XN3FubmR6OVQ2LWtNdjE2akZLSkVsQy1JQ3RjSjBjQjN6cmljbElPN0dXMmlCdXBoSHc?oc=5"
             },
             {
-                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 军网",
+                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S1MzS1RqeVVrUlBhQkJwMk1JcnVZcEVNaTZaclBoeTgySk1KRGtyRzhMVU9ycTVfQ2poektqSGZrenhLRy1RSEpNaFQ4OFZnVnc?oc=5"
+                "date": "2026-09-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oZ09MemljX0VZR0hGLTFLNnYzMGZ3ckZOMXJDcXJLdmx4ZkhWUXd3cTNCMlNNSFB3V2JuYjBMZkd5TXEwTS1PenpoNFF6ZF9Zb1E?oc=5"
             },
             {
-                "title": "“到老朋友家里做客” 在总统府现场见证欢迎仪式 - 军网",
+                "title": "十载望星河 中国天眼重绘宇宙演化图景 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44d0pFUTg3VzBrNGZIclByUjlHMHlNTnZoWEgtS19QYWVmMzJQUkVTcHFvWnZrM2lxei1xUkIxZjV0ZkIwTkNONzZSZVBPWTRsNHc?oc=5"
+                "date": "2026-09-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14OHBBOVNwdEV0VjFsUHNudkQ0TkQ4X0xVRzM0V1hodk1JVC1vSVVZRmM3Z3VMLUtxU0g5dlZoVzJqRlVmYXAxREpUZ3c2NjF1WlE?oc=5"
+            },
+            {
+                "title": "海事法规 - sh.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2019-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "《深圳经济特区促进脑机接口产业创新发展若干规定》公开征求意见",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-01",
-                "url": "https://36kr.com/newsflashes/3964240012418567?f=rss"
-            },
-            {
-                "title": "鸿蒙智行 8 月交付 42,101 台新车，年内累计交付同比增长 10.8%",
+                "title": "黑暗奇幻动作 RPG《黎明行者之血》获 IGN 9 分“最佳吸血鬼题材作品之一”，游戏 9 月 3 日发售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/996/756.htm"
+                "url": "https://www.ithome.com/0/997/095.htm"
             },
             {
-                "title": "金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-01",
-                "url": "https://36kr.com/p/3963450689953285?f=rss"
-            },
-            {
-                "title": "双轮驱动表现亮眼，创新药企需警惕业绩波动风险",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-01",
-                "url": "https://36kr.com/newsflashes/3964120944975104?f=rss"
-            },
-            {
-                "title": "广汽传祺 M8 第 50 万辆下线，成为首个突破 50 万销量的自主品牌豪华 MPV",
+                "title": "索尼辩称“理性消费者”都知道，在 PS Store 买了数字游戏并不等于取得所有权",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/996/716.htm"
+                "url": "https://www.ithome.com/0/997/075.htm"
+            },
+            {
+                "title": "特努斯开局一对2",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575920.htm"
+            },
+            {
+                "title": "打工人把星宇批量劝退捅给了大众奔驰 蔚来也受牵连",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575914.htm"
+            },
+            {
+                "title": "美国陆军计划在本土军事基地部署20座核微型反应堆",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575894.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -148,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OTh1OWpTZWxLQ2xscDhmUmpISS0xSEZVRHM0YW9nOWJVNC1HRTJXU1NaVlhUWFBkekh5dXV5UjBUcXZKMUtPLTk1bXlRbDNvTEs5MFBKcHhTWHdhN0hXYUVpU29ybkxxTkRV?oc=5"
             },
             {
-                "title": "新华社快讯：国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈 - 中华人民共和国国防部",
+                "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-08-31",
-                "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kT0FSYk9nQlYzSnM2czNTQUhKVlFMSGFHMWduczVFbnN6YnRBY3FtZGZQVHc4b2UyZnFreVY3cmpxVC1qX0tkOXN5a1dvdGlhR0JhbHhaN0oweXhHUC1FaVB3SQ?oc=5"
+                "date": "2026-09-02",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMnRLdXZ2dUZwcVN6Vm9idjJpemZ3RTFIczhCUEhUdW1yekNacFktMnZMWEcwU19WdFZtSURyYzhfR3YySE5MZ2tpRWIyVWozZmduWC1PVkk?oc=5"
             },
             {
                 "title": "解放军和武警部队官兵持续奋战在西藏吉隆抢险救援一线 开展道路清淤、预警监测、卫生防疫等工作 - 中华人民共和国国防部",
@@ -160,25 +166,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUnF6Tmh6SkhhWDNNQ1IwZWJ3WXQ3RmxydS1mLVJXZDZjVmpfRndwQ2VBQ1dmUUdnOHVPUTVUZFFzRzNYWFBxYzQ0bUR1UjZPQ09QaDdMNjc?oc=5"
             },
             {
-                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
+                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcU5BcjYxMzV4cDhKOGVXeHRjaHZFOS1XN3FubmR6OVQ2LWtNdjE2akZLSkVsQy1JQ3RjSjBjQjN6cmljbElPN0dXMmlCdXBoSHc?oc=5"
             },
             {
-                "title": "百年荣光・我见证｜一张旧报上的十七个名字 - 军网",
+                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43S1MzS1RqeVVrUlBhQkJwMk1JcnVZcEVNaTZaclBoeTgySk1KRGtyRzhMVU9ycTVfQ2poektqSGZrenhLRy1RSEpNaFQ4OFZnVnc?oc=5"
+                "date": "2026-09-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oZ09MemljX0VZR0hGLTFLNnYzMGZ3ckZOMXJDcXJLdmx4ZkhWUXd3cTNCMlNNSFB3V2JuYjBMZkd5TXEwTS1PenpoNFF6ZF9Zb1E?oc=5"
             },
             {
-                "title": "“到老朋友家里做客” 在总统府现场见证欢迎仪式 - 军网",
+                "title": "十载望星河 中国天眼重绘宇宙演化图景 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-08-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44d0pFUTg3VzBrNGZIclByUjlHMHlNTnZoWEgtS19QYWVmMzJQUkVTcHFvWnZrM2lxei1xUkIxZjV0ZkIwTkNONzZSZVBPWTRsNHc?oc=5"
+                "date": "2026-09-01",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14OHBBOVNwdEV0VjFsUHNudkQ0TkQ4X0xVRzM0V1hodk1JVC1vSVVZRmM3Z3VMLUtxU0g5dlZoVzJqRlVmYXAxREpUZ3c2NjF1WlE?oc=5"
+            },
+            {
+                "title": "海事法规 - sh.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2019-06-07",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-02T02:44:24.387800+00:00"
+    "last_updated": "2026-09-02T10:34:02.349640+00:00"
 }
