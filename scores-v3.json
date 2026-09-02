@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国一家法院冻结荷兰安世半导体21.4亿在华资产",
-                "source": "NewsAPI / DW (English)",
+                "title": "马斯克：预计 AI 将令全球经济规模增加约 20%-30%",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%AE%B6%E6%B3%95%E9%99%A2%E5%86%BB%E7%BB%93%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93214%E4%BA%BF%E5%9C%A8%E5%8D%8E%E8%B5%84%E4%BA%A7/a-78586339"
+                "url": "https://www.ithome.com/0/997/186.htm"
             },
             {
-                "title": "特努斯开局一对2",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "消息称三星已锁定约 70% 存储芯片产能至 2031 年，HBM 长协价仅为现货五分之一",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575920.htm"
+                "url": "https://www.ithome.com/0/997/167.htm"
             },
             {
-                "title": "打工人把星宇批量劝退捅给了大众奔驰 蔚来也受牵连",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "改写千亿心衰治疗版图：一家中国器械公司如何令全球心血管领域瞩目？",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575914.htm"
+                "url": "https://36kr.com/p/3963093920201859?f=rss"
             },
             {
-                "title": "魅族科技宣布十一后涨价",
+                "title": "台积电工人争取提高奖金上限 台湾美光员工逾八成支持罢工",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575910.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575944.htm"
             },
             {
-                "title": "宜家欧洲降价以应对生活成本危机",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "运动相机鼻祖 GoPro 宣布与光电技术公司 Starman 达成合并协议",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575906.htm"
+                "url": "https://www.ithome.com/0/997/161.htm"
             }
         ],
         "mil": [
+            {
+                "title": "匿名知情人士透露：中远船只替政府搜集军事情报",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-01",
+                "url": "https://www.dw.com/zh/%E5%8C%BF%E5%90%8D%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%E4%B8%AD%E8%BF%9C%E8%88%B9%E5%8F%AA%E6%9B%BF%E6%94%BF%E5%BA%9C%E6%90%9C%E9%9B%86%E5%86%9B%E4%BA%8B%E6%83%85%E6%8A%A5/a-78636356"
+            },
+            {
+                "title": "TP-Link首款消费级Wi‑Fi 8路由器Archer 8 Ultra开启预订",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575936.htm"
+            },
             {
                 "title": "OpenAI称苹果自身应为商业秘密诉讼“混乱局面”负责",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,18 +74,6 @@
                 "url": "https://www.ithome.com/0/996/972.htm"
             },
             {
-                "title": "军队向鸟开战？50只让机枪士兵陷入苦战(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-01",
-                "url": "https://www.secretchina.com/news/gb/2026/09/01/1104222.html"
-            },
-            {
-                "title": "OpenAI 否认窃取苹果商业机密：自己一手造成的还想赖别人",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/996/942.htm"
-            },
-            {
                 "title": "- mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-01",
@@ -92,25 +92,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUnF6Tmh6SkhhWDNNQ1IwZWJ3WXQ3RmxydS1mLVJXZDZjVmpfRndwQ2VBQ1dmUUdnOHVPUTVUZFFzRzNYWFBxYzQ0bUR1UjZPQ09QaDdMNjc?oc=5"
             },
             {
-                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 81.cn",
+                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcU5BcjYxMzV4cDhKOGVXeHRjaHZFOS1XN3FubmR6OVQ2LWtNdjE2akZLSkVsQy1JQ3RjSjBjQjN6cmljbElPN0dXMmlCdXBoSHc?oc=5"
             },
             {
-                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 81.cn",
+                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oZ09MemljX0VZR0hGLTFLNnYzMGZ3ckZOMXJDcXJLdmx4ZkhWUXd3cTNCMlNNSFB3V2JuYjBMZkd5TXEwTS1PenpoNFF6ZF9Zb1E?oc=5"
             },
             {
-                "title": "十载望星河 中国天眼重绘宇宙演化图景 - 81.cn",
+                "title": "十载望星河 中国天眼重绘宇宙演化图景 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14OHBBOVNwdEV0VjFsUHNudkQ0TkQ4X0xVRzM0V1hodk1JVC1vSVVZRmM3Z3VMLUtxU0g5dlZoVzJqRlVmYXAxREpUZ3c2NjF1WlE?oc=5"
             },
             {
-                "title": "海事法规 - sh.msa.gov.cn",
+                "title": "海事法规 - 上海海事局",
                 "source": "官方信源 / 海事局",
                 "date": "2019-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "黑暗奇幻动作 RPG《黎明行者之血》获 IGN 9 分“最佳吸血鬼题材作品之一”，游戏 9 月 3 日发售",
+                "title": "马斯克：预计 AI 将令全球经济规模增加约 20%-30%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/095.htm"
+                "url": "https://www.ithome.com/0/997/186.htm"
             },
             {
-                "title": "索尼辩称“理性消费者”都知道，在 PS Store 买了数字游戏并不等于取得所有权",
+                "title": "改写千亿心衰治疗版图：一家中国器械公司如何令全球心血管领域瞩目？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-01",
+                "url": "https://36kr.com/p/3963093920201859?f=rss"
+            },
+            {
+                "title": "运动相机鼻祖 GoPro 宣布与光电技术公司 Starman 达成合并协议",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/075.htm"
+                "url": "https://www.ithome.com/0/997/161.htm"
             },
             {
-                "title": "特努斯开局一对2",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575920.htm"
+                "url": "https://www.ithome.com/0/997/147.htm"
             },
             {
-                "title": "打工人把星宇批量劝退捅给了大众奔驰 蔚来也受牵连",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "研究显示：保险理赔员成为美国最反感 AI 的职业群体",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575914.htm"
-            },
-            {
-                "title": "美国陆军计划在本土军事基地部署20座核微型反应堆",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575894.htm"
+                "url": "https://www.ithome.com/0/997/131.htm"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -166,25 +166,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUnF6Tmh6SkhhWDNNQ1IwZWJ3WXQ3RmxydS1mLVJXZDZjVmpfRndwQ2VBQ1dmUUdnOHVPUTVUZFFzRzNYWFBxYzQ0bUR1UjZPQ09QaDdMNjc?oc=5"
             },
             {
-                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 81.cn",
+                "title": "水利部专家解读吉隆泥石流灾害堰塞湖处置 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcU5BcjYxMzV4cDhKOGVXeHRjaHZFOS1XN3FubmR6OVQ2LWtNdjE2akZLSkVsQy1JQ3RjSjBjQjN6cmljbElPN0dXMmlCdXBoSHc?oc=5"
             },
             {
-                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 81.cn",
+                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oZ09MemljX0VZR0hGLTFLNnYzMGZ3ckZOMXJDcXJLdmx4ZkhWUXd3cTNCMlNNSFB3V2JuYjBMZkd5TXEwTS1PenpoNFF6ZF9Zb1E?oc=5"
             },
             {
-                "title": "十载望星河 中国天眼重绘宇宙演化图景 - 81.cn",
+                "title": "十载望星河 中国天眼重绘宇宙演化图景 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14OHBBOVNwdEV0VjFsUHNudkQ0TkQ4X0xVRzM0V1hodk1JVC1vSVVZRmM3Z3VMLUtxU0g5dlZoVzJqRlVmYXAxREpUZ3c2NjF1WlE?oc=5"
             },
             {
-                "title": "海事法规 - sh.msa.gov.cn",
+                "title": "海事法规 - 上海海事局",
                 "source": "官方信源 / 海事局",
                 "date": "2019-06-07",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TTGFOSEpQS2hSOFgtSlQ0TERoeWNoZzlxaF94VjAtbDRYakJwT1FONzdVQUhuT1hfU3BYYlVFUFlqZGl0Zk5xT1RGVTA?oc=5"
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-02T10:34:02.349640+00:00"
+    "last_updated": "2026-09-02T15:55:01.335005+00:00"
 }
