@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
+                "title": "GoPro将以2.85亿美元被收购 股东保留合并后公司约10%股份",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575952.htm"
+            },
+            {
+                "title": "金融科技寒冬加剧 奇富科技业绩急冻",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-01",
+                "url": "https://www.ftchinese.com/story/001110777"
+            },
+            {
+                "title": "美国债要崩？想多了",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-01",
+                "url": "https://www.ftchinese.com/story/001110740"
+            },
+            {
+                "title": "牛来！牛在？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-01",
+                "url": "https://www.ftchinese.com/story/001110741"
+            },
+            {
                 "title": "马斯克：预计 AI 将令全球经济规模增加约 20%-30%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
                 "url": "https://www.ithome.com/0/997/186.htm"
-            },
-            {
-                "title": "消息称三星已锁定约 70% 存储芯片产能至 2031 年，HBM 长协价仅为现货五分之一",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/167.htm"
-            },
-            {
-                "title": "改写千亿心衰治疗版图：一家中国器械公司如何令全球心血管领域瞩目？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-01",
-                "url": "https://36kr.com/p/3963093920201859?f=rss"
-            },
-            {
-                "title": "台积电工人争取提高奖金上限 台湾美光员工逾八成支持罢工",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575944.htm"
-            },
-            {
-                "title": "运动相机鼻祖 GoPro 宣布与光电技术公司 Starman 达成合并协议",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/161.htm"
             }
         ],
         "mil": [
             {
-                "title": "匿名知情人士透露：中远船只替政府搜集军事情报",
-                "source": "NewsAPI / DW (English)",
+                "title": "美官员：中远海运利用隐藏设备为北京收集情报(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-01",
-                "url": "https://www.dw.com/zh/%E5%8C%BF%E5%90%8D%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%E4%B8%AD%E8%BF%9C%E8%88%B9%E5%8F%AA%E6%9B%BF%E6%94%BF%E5%BA%9C%E6%90%9C%E9%9B%86%E5%86%9B%E4%BA%8B%E6%83%85%E6%8A%A5/a-78636356"
+                "url": "https://www.secretchina.com/news/gb/2026/09/02/1104258.html"
             },
             {
-                "title": "TP-Link首款消费级Wi‑Fi 8路由器Archer 8 Ultra开启预订",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "猝死频发 中国知名作家王新军突发疾病去世(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575936.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/09/02/1104255.html"
             },
             {
-                "title": "OpenAI称苹果自身应为商业秘密诉讼“混乱局面”负责",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国债要崩？想多了",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575900.htm"
+                "url": "https://www.ftchinese.com/story/001110740"
             },
             {
-                "title": "美国陆军计划在本土军事基地部署20座核微型反应堆",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "“当导演不再需要一支军队”：从《奥德赛》到《牛来》看AI电影革命",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1575894.htm"
+                "url": "https://www.ftchinese.com/story/001110764"
             },
             {
-                "title": "美国五角大楼部署定制版 ChatGPT 和 Grok AI 助手",
-                "source": "NewsAPI / Ithome.com",
+                "title": "牛来！牛在？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/996/972.htm"
+                "url": "https://www.ftchinese.com/story/001110741"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "马斯克：预计 AI 将令全球经济规模增加约 20%-30%",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美军空袭伊朗革命卫队 川普警告还有更狠一击(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/186.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/09/02/1104260.html"
             },
             {
-                "title": "改写千亿心衰治疗版图：一家中国器械公司如何令全球心血管领域瞩目？",
-                "source": "NewsAPI / 36kr.com",
+                "title": "政治局会议后人事异动 朱忠明任上海市政府党组书记(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-01",
-                "url": "https://36kr.com/p/3963093920201859?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/09/02/1104257.html"
             },
             {
-                "title": "运动相机鼻祖 GoPro 宣布与光电技术公司 Starman 达成合并协议",
+                "title": "2026 年 8 月汽车销量 / 交付榜出炉：比亚迪超 44 万辆稳居榜首，零跑继续断层领跑新势力",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/161.htm"
+                "url": "https://www.ithome.com/0/997/189.htm"
             },
             {
-                "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
-                "source": "NewsAPI / Ithome.com",
+                "title": "GoPro将以2.85亿美元被收购 股东保留合并后公司约10%股份",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/147.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1575952.htm"
             },
             {
-                "title": "研究显示：保险理赔员成为美国最反感 AI 的职业群体",
-                "source": "NewsAPI / Ithome.com",
+                "title": "金融科技寒冬加剧 奇富科技业绩急冻",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-01",
-                "url": "https://www.ithome.com/0/997/131.htm"
+                "url": "https://www.ftchinese.com/story/001110777"
             },
             {
                 "title": "- mfa.gov.cn",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-02T15:55:01.335005+00:00"
+    "last_updated": "2026-09-02T20:28:15.629758+00:00"
 }
