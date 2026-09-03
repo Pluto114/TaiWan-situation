@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "潘功胜：中国支持中小企业发展，为各类经营主体提供公平竞争环境",
-                "source": "NewsAPI / 36kr.com",
+                "title": "大众汽车重组计划曝光：“激进”而“痛苦”，4 家德国工厂、数万名员工或危在旦夕",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-02",
-                "url": "https://36kr.com/newsflashes/3966124279291136?f=rss"
+                "url": "https://www.ithome.com/0/997/703.htm"
             },
             {
-                "title": "潘功胜：中国贸易对汇率敏感性大幅下降",
-                "source": "NewsAPI / 36kr.com",
+                "title": "黄仁勋将AI比作水电等公用事业 呼吁G20加快应用促进增长",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-02",
-                "url": "https://36kr.com/newsflashes/3966121578896649?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576108.htm"
             },
             {
-                "title": "潘功胜：中方从不刻意追求贸易顺差，坚持扩大内需、坚持高水平对外开放",
-                "source": "NewsAPI / 36kr.com",
+                "title": "奇瑞：全面落实《汽车行业境外竞争行为与合规建设指引》，践行高质量出海",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-02",
-                "url": "https://36kr.com/newsflashes/3966102011649287?f=rss"
+                "url": "https://www.ithome.com/0/997/678.htm"
             },
             {
-                "title": "中国人民银行行长潘功胜出席二十国集团财长和央行行长会议",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美将对伊朗全面经济制裁 霍尔木兹海峡还在交锋中？(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-02",
-                "url": "https://36kr.com/newsflashes/3966099881598212?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/09/02/1104301.html"
             },
             {
-                "title": "亮见｜星宇事件，这届00后带了个好头",
-                "source": "NewsAPI / Chinadigitaltimes.net",
+                "title": "卢特尼克：在美国建半导体厂免税 不建厂就额外交税",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-02",
-                "url": "https://chinadigitaltimes.net/chinese/731364.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576100.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美伊冲突再度升级 海湾多国受波及",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-02",
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E5%86%8D%E5%BA%A6%E5%8D%87%E7%BA%A7-%E6%B5%B7%E6%B9%BE%E5%A4%9A%E5%9B%BD%E5%8F%97%E6%B3%A2%E5%8F%8A/a-78765320"
+            },
+            {
+                "title": "亏掉1000亿后，蔚来终于赚钱了丨深氪",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-02",
+                "url": "https://36kr.com/p/3966195340205313?f=rss"
+            },
             {
                 "title": "路虎揽胜发布56年来首款纯电车型 美国起售价13.8万美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,43 +74,13 @@
                 "url": "http://www.geekpark.net/news/369718"
             },
             {
-                "title": "习近平怕军队借机造反？中共救灾远逊尼泊尔(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-02",
-                "url": "https://www.secretchina.com/news/gb/2026/09/02/1104272.html"
-            },
-            {
-                "title": "外卖大战后，“不参战”的霸王茶姬手里握着什么牌？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-02",
-                "url": "https://36kr.com/p/3965565272579331?f=rss"
-            },
-            {
-                "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-02",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMnRLdXZ2dUZwcVN6Vm9idjJpemZ3RTFIczhCUEhUdW1yekNacFktMnZMWEcwU19WdFZtSURyYzhfR3YySE5MZ2tpRWIyVWozZmduWC1PVkk?oc=5"
-            },
-            {
-                "title": "习近平主席的“比什凯克时间”：主动引领历史航向的大国担当 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-02",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DeWVYbFdwZmNlVFlMcy1aVFJueTJZMzVlVDktdm9KYTRNbjNwakJiN1p4dlJjVVN6REhDOThvRHFPVkEtejhvMTVNSi1HdzBRamY4ZENCbkQ?oc=5"
-            },
-            {
-                "title": "解放军和武警部队官兵持续奋战在西藏吉隆抢险救援一线 开展道路清淤、预警监测、卫生防疫等工作 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-01",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUnF6Tmh6SkhhWDNNQ1IwZWJ3WXQ3RmxydS1mLVJXZDZjVmpfRndwQ2VBQ1dmUUdnOHVPUTVUZFFzRzNYWFBxYzQ0bUR1UjZPQ09QaDdMNjc?oc=5"
-            },
-            {
-                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 军网",
+                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oZ09MemljX0VZR0hGLTFLNnYzMGZ3ckZOMXJDcXJLdmx4ZkhWUXd3cTNCMlNNSFB3V2JuYjBMZkd5TXEwTS1PenpoNFF6ZF9Zb1E?oc=5"
             },
             {
-                "title": "近闻·“样板”和“典范”，中埃关系如何迈向新征程 - 军网",
+                "title": "近闻·“样板”和“典范”，中埃关系如何迈向新征程 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0REVEazV6ZEZJcW9ETld4QlJXd25WRzNkSnVBQTA2Z3JYYU1WMktaV3hDekkyN3ZBRGQ5amx2MWF4d2R1RldUOG9YUmhmTHZ0Z2c?oc=5"
@@ -124,61 +106,43 @@
         ],
         "pol": [
             {
-                "title": "万向德农这波上涨，早有信号？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-02",
-                "url": "https://36kr.com/p/3966082304089352?f=rss"
-            },
-            {
-                "title": "拆解希音上市后的长期主义账本",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-02",
-                "url": "https://36kr.com/p/3966060125625605?f=rss"
-            },
-            {
-                "title": "韩国据悉买入约200亿美元SK海力士美国上市后汇回的资金",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-02",
-                "url": "https://36kr.com/newsflashes/3966032955219208?f=rss"
-            },
-            {
-                "title": "极星 4 SUV 发布：更大空间、更高实用性，售价 5.79 万欧元起",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-02",
-                "url": "https://www.ithome.com/0/997/533.htm"
-            },
-            {
-                "title": "气候变暖致海洋热浪频发 欧洲海滩遭大量水母侵袭",
+                "title": "黄仁勋将AI比作水电等公用事业 呼吁G20加快应用促进增长",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576064.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576108.htm"
             },
             {
-                "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "沃兹尼亚克、乔布斯签名的苹果 Apple I 电脑，有望拍出 50 万美元高价",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-02",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMnRLdXZ2dUZwcVN6Vm9idjJpemZ3RTFIczhCUEhUdW1yekNacFktMnZMWEcwU19WdFZtSURyYzhfR3YySE5MZ2tpRWIyVWozZmduWC1PVkk?oc=5"
+                "url": "https://www.ithome.com/0/997/674.htm"
             },
             {
-                "title": "习近平主席的“比什凯克时间”：主动引领历史航向的大国担当 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "美将对伊朗全面经济制裁 霍尔木兹海峡还在交锋中？(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-02",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DeWVYbFdwZmNlVFlMcy1aVFJueTJZMzVlVDktdm9KYTRNbjNwakJiN1p4dlJjVVN6REhDOThvRHFPVkEtejhvMTVNSi1HdzBRamY4ZENCbkQ?oc=5"
+                "url": "https://www.secretchina.com/news/gb/2026/09/02/1104301.html"
             },
             {
-                "title": "解放军和武警部队官兵持续奋战在西藏吉隆抢险救援一线 开展道路清淤、预警监测、卫生防疫等工作 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-01",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUnF6Tmh6SkhhWDNNQ1IwZWJ3WXQ3RmxydS1mLVJXZDZjVmpfRndwQ2VBQ1dmUUdnOHVPUTVUZFFzRzNYWFBxYzQ0bUR1UjZPQ09QaDdMNjc?oc=5"
+                "title": "卢特尼克：在美国建半导体厂免税 不建厂就额外交税",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576100.htm"
             },
             {
-                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 军网",
+                "title": "加州通过法案 插电式太阳能系统安装将更简单、成本更低",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576094.htm"
+            },
+            {
+                "title": "西藏吉隆近期多降雨 夜雨特征较明显 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oZ09MemljX0VZR0hGLTFLNnYzMGZ3ckZOMXJDcXJLdmx4ZkhWUXd3cTNCMlNNSFB3V2JuYjBMZkd5TXEwTS1PenpoNFF6ZF9Zb1E?oc=5"
             },
             {
-                "title": "近闻·“样板”和“典范”，中埃关系如何迈向新征程 - 军网",
+                "title": "近闻·“样板”和“典范”，中埃关系如何迈向新征程 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0REVEazV6ZEZJcW9ETld4QlJXd25WRzNkSnVBQTA2Z3JYYU1WMktaV3hDekkyN3ZBRGQ5amx2MWF4d2R1RldUOG9YUmhmTHZ0Z2c?oc=5"
@@ -204,5 +168,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-03T10:37:43.404192+00:00"
+    "last_updated": "2026-09-03T15:44:11.190744+00:00"
 }
