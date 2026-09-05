@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "德语媒体：松散的联盟 明确的目标",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-04",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E6%9D%BE%E6%95%A3%E7%9A%84%E8%81%94%E7%9B%9F-%E6%98%8E%E7%A1%AE%E7%9A%84%E7%9B%AE%E6%A0%87/a-79000433"
+            },
+            {
+                "title": "苹果折叠屏iPhone产能陷入瓶颈 日均仅生产数百台",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576442.htm"
+            },
+            {
                 "title": "IFA 2026前线｜蓝海赛道下的内卷现实，科沃斯如何回答全球化与具身智能考题",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-04",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-04",
                 "url": "https://36kr.com/newsflashes/3968834892280323?f=rss"
-            },
-            {
-                "title": "持股市值超100亿，腾讯成燧原科技IPO最大赢家",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-04",
-                "url": "https://36kr.com/newsflashes/3968838744814087?f=rss"
-            },
-            {
-                "title": "对话 Sharpa 李一帆：通用机器人要么全能，要么无能",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-04",
-                "url": "http://www.geekpark.net/news/369851"
             }
         ],
         "mil": [
+            {
+                "title": "英国军方测试脚踏式动力滑翔伞 探索隐蔽投送部队的新方式",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576464.htm"
+            },
+            {
+                "title": "美国军方关闭部分设备广告追踪功能 担忧商业位置数据被用于锁定中东美军",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576452.htm"
+            },
             {
                 "title": "IFA 2026前线｜蓝海赛道下的内卷现实，科沃斯如何回答全球化与具身智能考题",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://36kr.com/p/3968685170700801?f=rss"
             },
             {
-                "title": "特斯拉全无人车刚上路就翻车？停路中央接客被鸣笛",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576402.htm"
-            },
-            {
-                "title": "OpenAI证实将自研人形机器人 奥尔特曼：并非当务之急 但长期看好家用市场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576400.htm"
-            },
-            {
                 "title": "2026年9月上旬国防部例行新闻发布 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-04",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYS1IR2VwcjEyMUZqcjUzMG5KaG5ubWFwVVB3bTVZT1F0c3BSNWs5RlBhcksxNjhSbUNUSlJsLTJmU1YtQjYwX2FrWS1YeWNBM0dKVnpUeE9nN2huSFZzWU9DQnVXYi1ZV1AxVmZobGJhNWpNUGc?oc=5"
             },
             {
-                "title": "外交部发言人介绍习近平主席访问埃及有关情况_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "丁薛祥同俄罗斯副总理诺瓦克共同主持中俄能源合作委员会第二十三次会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-03",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzBRSFcteVN2ME5udVVzek1VOExybVZWeTVzS0ZIOGM5M2dDVXlSOHo3VmozVEd6MkR1ellJT1Q2amZRRG5yQ3JPUEpKX0p2eS1uQXlnSEJjUTdMTndtSktjZUhjS0x5d2Z4cTZKNUtRemEwNlc4eEhDblNlZHIyczFHNjc0dHcwZnFZZjJFUWg?oc=5"
-            },
-            {
-                "title": "2026年9月4日解放军报第01版：要闻 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+                "date": "2026-09-04",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaWNxTlhLenc2S3VPN01zLUZkci1aZmVGcGJfMWFKMDBiU1hpdzZkZ1ZzX3VQQmhNNjFiaEZTV2kwTVFURjBBbFh4dkcwbk9LbWV6a3Y2ek1WU090SkxXWGFZX25qb1EwZVFV?oc=5"
             },
             {
                 "title": "2026年9月4日中国国防报第03版：长城 - 军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nek1UaVE1LWI4alY1ejZrckd0cTh4dWdDLVN4d0JNMjNvSUNodkxNUlRON19oamx4THNqMTBPenU0bHlva1JxRjF1azN3anFqbGc?oc=5"
+            },
+            {
+                "title": "经纬线·埃及有谚语说：“喝过尼罗河的水，一定还会再来” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Kb250MmxIT2hyTHZ5SFh3N3JWZWtaWnM4R3hiYTRJR1FRSFdPRXBmRWtacm1jT1NSQ21CYzhjOF9COC1scnJqd05Ra2pscTBFaVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "IFA 2026前线｜蓝海赛道下的内卷现实，科沃斯如何回答全球化与具身智能考题",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-04",
-                "url": "https://36kr.com/p/3968822489198851?f=rss"
-            },
-            {
-                "title": "滨会生物港股上市获中国证监会备案",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-04",
-                "url": "https://36kr.com/newsflashes/3968896308113926?f=rss"
-            },
-            {
-                "title": "车联天下港股上市获中国证监会备案",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-04",
-                "url": "https://36kr.com/newsflashes/3968894611501320?f=rss"
-            },
-            {
-                "title": "联合国将表决“更真实世界地图”方案 非洲国家推动逐步告别墨卡托投影",
+                "title": "消息称扎克伯格与特朗普通话 反对建立全国AI监管机构",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576436.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576470.htm"
             },
             {
-                "title": "油气价格上涨加剧通胀，欧洲经济再度承压",
-                "source": "NewsAPI / 36kr.com",
+                "title": "在成都，离你最近的“亚洲 50 最佳酒吧”，是 Ralph Lauren 独特的生活方式表达",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-09-04",
-                "url": "https://36kr.com/newsflashes/3968834892280323?f=rss"
+                "url": "https://www.toodaylab.com/84192"
+            },
+            {
+                "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-04",
+                "url": "https://www.ithome.com/0/998/593.htm"
+            },
+            {
+                "title": "OpenAI智能体被曝“接管”德国维基网站 自主交流、规避限制行为引发安全担忧",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576454.htm"
+            },
+            {
+                "title": "极石汽车：第 4 万辆整车下线，正持续完善国内服务网络",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-04",
+                "url": "https://www.ithome.com/0/998/573.htm"
             },
             {
                 "title": "2026年9月上旬国防部例行新闻发布 - 中华人民共和国国防部",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYS1IR2VwcjEyMUZqcjUzMG5KaG5ubWFwVVB3bTVZT1F0c3BSNWs5RlBhcksxNjhSbUNUSlJsLTJmU1YtQjYwX2FrWS1YeWNBM0dKVnpUeE9nN2huSFZzWU9DQnVXYi1ZV1AxVmZobGJhNWpNUGc?oc=5"
             },
             {
-                "title": "外交部发言人介绍习近平主席访问埃及有关情况_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "丁薛祥同俄罗斯副总理诺瓦克共同主持中俄能源合作委员会第二十三次会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-03",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzBRSFcteVN2ME5udVVzek1VOExybVZWeTVzS0ZIOGM5M2dDVXlSOHo3VmozVEd6MkR1ellJT1Q2amZRRG5yQ3JPUEpKX0p2eS1uQXlnSEJjUTdMTndtSktjZUhjS0x5d2Z4cTZKNUtRemEwNlc4eEhDblNlZHIyczFHNjc0dHcwZnFZZjJFUWg?oc=5"
-            },
-            {
-                "title": "2026年9月4日解放军报第01版：要闻 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-10",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51NE5KeG1wYThIaHNpcS1fWWx2NnZycVZqLURJRGhDQ1NRbFRIZjRCX1N6NUhkREhFeXVNcTNGeV9qeEc4U2dLZ2p1Zm9ZWklNbnM5aGNHVQ?oc=5"
+                "date": "2026-09-04",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaWNxTlhLenc2S3VPN01zLUZkci1aZmVGcGJfMWFKMDBiU1hpdzZkZ1ZzX3VQQmhNNjFiaEZTV2kwTVFURjBBbFh4dkcwbk9LbWV6a3Y2ek1WU090SkxXWGFZX25qb1EwZVFV?oc=5"
             },
             {
                 "title": "2026年9月4日中国国防报第03版：长城 - 军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nek1UaVE1LWI4alY1ejZrckd0cTh4dWdDLVN4d0JNMjNvSUNodkxNUlRON19oamx4THNqMTBPenU0bHlva1JxRjF1azN3anFqbGc?oc=5"
+            },
+            {
+                "title": "经纬线·埃及有谚语说：“喝过尼罗河的水，一定还会再来” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Kb250MmxIT2hyTHZ5SFh3N3JWZWtaWnM4R3hiYTRJR1FRSFdPRXBmRWtacm1jT1NSQ21CYzhjOF9COC1scnJqd05Ra2pscTBFaVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-05T09:55:01.242516+00:00"
+    "last_updated": "2026-09-05T14:31:16.996083+00:00"
 }
