@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米推出米家富矿净水器 2：1200G 大流量 + 8 年长效 RO 滤芯，首发 2199 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "不想造车的马斯克，正式进军网约车领域了",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-05",
-                "url": "https://www.ithome.com/0/998/678.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576552.htm"
             },
             {
-                "title": "花旗推迟美联储降息预期，目前预计2027年将降息三次",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-05",
-                "url": "https://36kr.com/newsflashes/3969876495675650?f=rss"
-            },
-            {
-                "title": "Stellantis 回应玛莎拉蒂与华为、江淮合作传闻：不予置评",
+                "title": "50.98 万元，新一代理想 MEGA 开启全国首批交付",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-05",
-                "url": "https://www.ithome.com/0/998/675.htm"
+                "url": "https://www.ithome.com/0/998/754.htm"
             },
             {
-                "title": "3999 元联想 P27UD-40 显示器上市：27 英寸 4K120Hz，雷电 4 接口支持 140W 供电",
-                "source": "NewsAPI / Ithome.com",
+                "title": "电池税开征，纯电车利润快归零了",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-05",
-                "url": "https://www.ithome.com/0/998/674.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576546.htm"
             },
             {
-                "title": "古尔曼：苹果 2027 发布 MacBook Neo 2，升级 A19 Pro、12GB 内存",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国推动永久禁令 欲封死中国车入美",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-05",
-                "url": "https://www.ithome.com/0/998/673.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576542.htm"
+            },
+            {
+                "title": "美英签署备忘录 将协调打击东南亚诈骗园区",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576524.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国推动永久禁令 欲封死中国车入美",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576542.htm"
+            },
+            {
+                "title": "专家：大马总理谈“武统台湾” 并非战略转向",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-05",
+                "url": "https://www.dw.com/zh/%E4%B8%93%E5%AE%B6%E5%A4%A7%E9%A9%AC%E6%80%BB%E7%90%86%E8%B0%88%E6%AD%A6%E7%BB%9F%E5%8F%B0%E6%B9%BE-%E5%B9%B6%E9%9D%9E%E6%88%98%E7%95%A5%E8%BD%AC%E5%90%91/a-79001423"
+            },
+            {
+                "title": "长安汽车：智驾行业 2028 年完成首轮洗牌，我们和引望会留下来",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-05",
+                "url": "https://www.ithome.com/0/998/728.htm"
+            },
             {
                 "title": "传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元",
                 "source": "NewsAPI / Geekpark.net",
@@ -56,40 +74,22 @@
                 "url": "https://www.voachinese.com/a/8189169.html"
             },
             {
-                "title": "英国军方测试脚踏式动力滑翔伞 探索隐蔽投送部队的新方式",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576464.htm"
-            },
-            {
-                "title": "美国军方关闭部分设备广告追踪功能 担忧商业位置数据被用于锁定中东美军",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576452.htm"
-            },
-            {
-                "title": "IFA 2026前线｜蓝海赛道下的内卷现实，科沃斯如何回答全球化与具身智能考题",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-04",
-                "url": "https://36kr.com/p/3968822489198851?f=rss"
-            },
-            {
-                "title": "2026年9月上旬国防部例行新闻发布 - 中华人民共和国国防部",
+                "title": "丁薛祥会见俄罗斯总统普京并与俄方共同主持中俄双边机制性会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTczdIUE15eXliYVNUeUE2SXNvRDdsZDliZHVoWEVNN2t1STdBZVN2OEs2cnRJRG5uSUxfUUtOTVgwS1VJc2RpQlFTVmQ0RGVvYUs1eE5IQ1I?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnNIY0tNenRyOWJ2YmluMGJvanlSU0d3Qmx1Y252b2gtZGxndnpBZndaRTdqNE9oM1ZVM1RPeThNNWVjdDdwOVdWcDBVRGRjY1pEU1FhSURUZzJBak1WbTYtNU12bzd5ZFBiLWZQT2ZxcDUyOEpxR09LNmppS1hrbHhfMloxTm5B?oc=5"
             },
             {
-                "title": "2026年9月4日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "第八届中俄能源商务论坛开幕 丁薛祥宣读习近平主席贺信并致辞 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYS1IR2VwcjEyMUZqcjUzMG5KaG5ubWFwVVB3bTVZT1F0c3BSNWs5RlBhcksxNjhSbUNUSlJsLTJmU1YtQjYwX2FrWS1YeWNBM0dKVnpUeE9nN2huSFZzWU9DQnVXYi1ZV1AxVmZobGJhNWpNUGc?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTFqR1hvbHlmYzRuNWtlZzduakQ5RmVsMWRBNUZzbzE4SGR1OEFzeHN5T3BnOVNVdFV5dy02cGpyZlZPNWFia29LTC1IVml1eDhJb2Nic0FvbjhFVWZaSGdLTjB5QTlsbUM1ajkwTm0wZkl4b2lGeUI0MXZaU2NoeS01X242NFRZU1hwSWxn?oc=5"
             },
             {
-                "title": "丁薛祥同俄罗斯副总理诺瓦克共同主持中俄能源合作委员会第二十三次会议 - mfa.gov.cn",
+                "title": "外交部部长助理刘彬会见禁止化学武器组织总干事达拉菲奥尔— 中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaWNxTlhLenc2S3VPN01zLUZkci1aZmVGcGJfMWFKMDBiU1hpdzZkZ1ZzX3VQQmhNNjFiaEZTV2kwTVFURjBBbFh4dkcwbk9LbWV6a3Y2ek1WU090SkxXWGFZX25qb1EwZVFV?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QUGY1b3oxSWxfVGlIWHVTYTFpLXFWMS0xZENMUnhYY0cyVE9oUGY1SHRqWHNVcDl0TjMtX3Nkd2FBU3JWdjRfd1NtVFIzaUdpLXhyYlU0Qm5HVlNSVm1fSkd4YnZwTHIzNFFDZ25JQWFUZw?oc=5"
             },
             {
                 "title": "2026年9月4日中国国防报第03版：长城 - 军网",
@@ -104,60 +104,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ONWZVekNPQXFNQjBjZVVwTkhuaEtrTU4zMENIZFIzVll0WkttSmVBamJmN09NbGVGMzZ6TlNubjJWOHhVck41QmQzVDlReGY5WkE?oc=5"
             },
             {
-                "title": "经纬线·埃及有谚语说：“喝过尼罗河的水，一定还会再来” - 军网",
+                "title": "琼崖薪火旺 军民情谊长——全国双拥模范城海南省儋州市双拥工作实践 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Kb250MmxIT2hyTHZ5SFh3N3JWZWtaWnM4R3hiYTRJR1FRSFdPRXBmRWtacm1jT1NSQ21CYzhjOF9COC1scnJqd05Ra2pscTBFaVE?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zVGxBVnUyVFBrN1BHbzVWSEVZc2YtYzN0ckE0eDdKUElfUENjUDJ6d0lOOUtLUURZU3RjNW1hUldTNzhEdGxGQ3F1dGhuUE13YlE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "9点1氪丨大众汽车宣布全球裁员10万；月之暗面据悉计划今年在香港进行IPO；国家统计局：全国打工人周均工作48.2小时",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-05",
-                "url": "https://36kr.com/p/3969804742111746?f=rss"
-            },
-            {
-                "title": "传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-05",
-                "url": "http://www.geekpark.net/news/369871"
-            },
-            {
-                "title": "IT早报 0905：华为韬定律更新麒麟 2026 芯片晶体管密度暴涨 55%；曝苹果质检严折叠屏 iPhone 日产仅数百部；曝西贝赔偿金拖至 2028 年；人人影视回归变正版...",
+                "title": "两家美国媒体起诉 OpenAI 和微软，指控其 AI 训练侵犯版权",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-05",
-                "url": "https://www.ithome.com/0/998/650.htm"
+                "url": "https://www.ithome.com/0/998/805.htm"
             },
             {
-                "title": "Google翻译迎来重磅更新：Android端支持后台实时同传 iOS端上线贴耳“听力模式”",
+                "title": "台外交部长：台湾半导体成AI技术进步的关键力量(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-05",
+                "url": "https://www.secretchina.com/news/gb/2026/09/05/1104424.html"
+            },
+            {
+                "title": "全新理想 L9 阿联酋上市：进军全球最具声望豪车市场之一，软硬件深度适配",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-05",
+                "url": "https://www.ithome.com/0/998/776.htm"
+            },
+            {
+                "title": "特斯拉Cybercab载客上路：你以后还有必要买车吗？",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576504.htm"
+                "date": "2026-09-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576554.htm"
             },
             {
-                "title": "美国国家公路交通安全管理局启动对特斯拉Cybercab落地项目的调查",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576500.htm"
+                "title": "50.98 万元，新一代理想 MEGA 开启全国首批交付",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-05",
+                "url": "https://www.ithome.com/0/998/754.htm"
             },
             {
-                "title": "2026年9月上旬国防部例行新闻发布 - 中华人民共和国国防部",
+                "title": "丁薛祥会见俄罗斯总统普京并与俄方共同主持中俄双边机制性会议 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTczdIUE15eXliYVNUeUE2SXNvRDdsZDliZHVoWEVNN2t1STdBZVN2OEs2cnRJRG5uSUxfUUtOTVgwS1VJc2RpQlFTVmQ0RGVvYUs1eE5IQ1I?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnNIY0tNenRyOWJ2YmluMGJvanlSU0d3Qmx1Y252b2gtZGxndnpBZndaRTdqNE9oM1ZVM1RPeThNNWVjdDdwOVdWcDBVRGRjY1pEU1FhSURUZzJBak1WbTYtNU12bzd5ZFBiLWZQT2ZxcDUyOEpxR09LNmppS1hrbHhfMloxTm5B?oc=5"
             },
             {
-                "title": "2026年9月4日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "第八届中俄能源商务论坛开幕 丁薛祥宣读习近平主席贺信并致辞 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYS1IR2VwcjEyMUZqcjUzMG5KaG5ubWFwVVB3bTVZT1F0c3BSNWs5RlBhcksxNjhSbUNUSlJsLTJmU1YtQjYwX2FrWS1YeWNBM0dKVnpUeE9nN2huSFZzWU9DQnVXYi1ZV1AxVmZobGJhNWpNUGc?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTFqR1hvbHlmYzRuNWtlZzduakQ5RmVsMWRBNUZzbzE4SGR1OEFzeHN5T3BnOVNVdFV5dy02cGpyZlZPNWFia29LTC1IVml1eDhJb2Nic0FvbjhFVWZaSGdLTjB5QTlsbUM1ajkwTm0wZkl4b2lGeUI0MXZaU2NoeS01X242NFRZU1hwSWxn?oc=5"
             },
             {
-                "title": "丁薛祥同俄罗斯副总理诺瓦克共同主持中俄能源合作委员会第二十三次会议 - mfa.gov.cn",
+                "title": "外交部部长助理刘彬会见禁止化学武器组织总干事达拉菲奥尔— 中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OaWNxTlhLenc2S3VPN01zLUZkci1aZmVGcGJfMWFKMDBiU1hpdzZkZ1ZzX3VQQmhNNjFiaEZTV2kwTVFURjBBbFh4dkcwbk9LbWV6a3Y2ek1WU090SkxXWGFZX25qb1EwZVFV?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QUGY1b3oxSWxfVGlIWHVTYTFpLXFWMS0xZENMUnhYY0cyVE9oUGY1SHRqWHNVcDl0TjMtX3Nkd2FBU3JWdjRfd1NtVFIzaUdpLXhyYlU0Qm5HVlNSVm1fSkd4YnZwTHIzNFFDZ25JQWFUZw?oc=5"
             },
             {
                 "title": "2026年9月4日中国国防报第03版：长城 - 军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ONWZVekNPQXFNQjBjZVVwTkhuaEtrTU4zMENIZFIzVll0WkttSmVBamJmN09NbGVGMzZ6TlNubjJWOHhVck41QmQzVDlReGY5WkE?oc=5"
             },
             {
-                "title": "经纬线·埃及有谚语说：“喝过尼罗河的水，一定还会再来” - 军网",
+                "title": "琼崖薪火旺 军民情谊长——全国双拥模范城海南省儋州市双拥工作实践 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Kb250MmxIT2hyTHZ5SFh3N3JWZWtaWnM4R3hiYTRJR1FRSFdPRXBmRWtacm1jT1NSQ21CYzhjOF9COC1scnJqd05Ra2pscTBFaVE?oc=5"
+                "date": "2026-09-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zVGxBVnUyVFBrN1BHbzVWSEVZc2YtYzN0ckE0eDdKUElfUENjUDJ6d0lOOUtLUURZU3RjNW1hUldTNzhEdGxGQ3F1dGhuUE13YlE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-06T02:47:59.493239+00:00"
+    "last_updated": "2026-09-06T10:13:02.089190+00:00"
 }
