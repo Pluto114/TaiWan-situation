@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "调查：德国企业希望欧盟对华采取更强硬政策",
-                "source": "NewsAPI / DW (English)",
+                "title": "伊朗声称袭击了一艘美国船只，但美方称其为“彻头彻尾的谎言”",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-06",
-                "url": "https://www.dw.com/zh/%E8%B0%83%E6%9F%A5%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%B8%8C%E6%9C%9B%E6%AC%A7%E7%9B%9F%E5%AF%B9%E5%8D%8E%E9%87%87%E5%8F%96%E6%9B%B4%E5%BC%BA%E7%A1%AC%E6%94%BF%E7%AD%96/a-78880678"
+                "url": "https://www.voachinese.com/a/iran-claims-a-strike-on-a-us-ship-in-the-strait-of-hormuz-but-the-us-denies-it-20260906/8194775.html"
             },
             {
-                "title": "大众与众 08 猎影版车型已陆续登陆全国门店：预售价 23 万元，9 月 12 日上市",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德国能源安全再陷两难：库存告急，对美依赖难解",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-06",
-                "url": "https://www.ithome.com/0/999/012.htm"
+                "url": "https://www.ftchinese.com/story/001110812"
             },
             {
-                "title": "财政部将向中国出口信用保险公司注资100亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "阿根廷为谁哭泣——庇隆，还是米莱？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-06",
-                "url": "https://36kr.com/newsflashes/3971720751116547?f=rss"
+                "url": "https://www.ftchinese.com/story/001110810"
             },
             {
-                "title": "财政部将向中国进出口银行注资300亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中国海外投资“规模悖论”的迷思：肯尼亚的本土答案",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-06",
-                "url": "https://36kr.com/newsflashes/3971720131539460?f=rss"
+                "url": "https://www.ftchinese.com/story/001110805"
             },
             {
-                "title": "三星 Galaxy S27 Pro / Ultra 手机获 3C 认证，支持 60W 有线快充",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Tim Cook或十几年来首度缺席苹果秋季发布会",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-06",
-                "url": "https://www.ithome.com/0/998/996.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576672.htm"
             }
         ],
         "mil": [
+            {
+                "title": "伊朗声称袭击了一艘美国船只，但美方称其为“彻头彻尾的谎言”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-06",
+                "url": "https://www.voachinese.com/a/iran-claims-a-strike-on-a-us-ship-in-the-strait-of-hormuz-but-the-us-denies-it-20260906/8194775.html"
+            },
+            {
+                "title": "阿根廷为谁哭泣——庇隆，还是米莱？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-06",
+                "url": "https://www.ftchinese.com/story/001110810"
+            },
+            {
+                "title": "墙外文摘：中国强化国防动员，因为输不起",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-06",
+                "url": "https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E4%B8%AD%E5%9B%BD%E5%BC%BA%E5%8C%96%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98%E5%9B%A0%E4%B8%BA%E8%BE%93%E4%B8%8D%E8%B5%B7/a-79055280"
+            },
             {
                 "title": "复古硬件玩出新花样：任天堂 NES 红白机实现全球航班实时监控",
                 "source": "NewsAPI / Ithome.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1576640.htm"
             },
             {
-                "title": "这届IFA太离谱：牙刷长了眼，扫地机生了娃…",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576626.htm"
-            },
-            {
-                "title": "离职补偿拖至2028年，贾国龙给西贝前员工“画饼”？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576622.htm"
-            },
-            {
-                "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-06",
-                "url": "http://www.geekpark.net/news/369875"
-            },
-            {
                 "title": "中国领事服务网 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-07",
@@ -98,16 +98,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcE4zZzNaamRtd3huT1hlYmk0VkF5c2g0aG9jVGhKUkhYYnpxTnlyUzBXSWhGWU04cUtyOEphaTJTQWhzTGJ6NU1Sd09SRFR2ZWc?oc=5"
             },
             {
+                "title": "王毅同墨西哥外长贝拉斯科会谈 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvM0lsRHppSHItckJHZFhLTndXZWlWS1ppUmhxektNME9iQTR2R2ktM3RZZl9DV0RpMWFjcWd0eDJDb2hGSV9TZktFcmpiQktERmc?oc=5"
+            },
+            {
                 "title": "打造培根铸魂、启智增慧的精品教材——中国特色高质量教材体系建设成效综述 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzlXcVBUamZ2NmhPMW16YlgwTmRkR1dUZEM3M3dROHN3OXljLWNtT2pxV1F0OUdfNjdUZmdkMmExX0wyWDVIdG9fSEFacWhMcXc?oc=5"
-            },
-            {
-                "title": "在吉隆，感受守望相助的温暖（在现场·特别报道） - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ONWZVekNPQXFNQjBjZVVwTkhuaEtrTU4zMENIZFIzVll0WkttSmVBamJmN09NbGVGMzZ6TlNubjJWOHhVck41QmQzVDlReGY5WkE?oc=5"
             },
             {
                 "title": "浙江海事局 - zj.msa.gov.cn",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "大众与众 08 猎影版车型已陆续登陆全国门店：预售价 23 万元，9 月 12 日上市",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德国能源安全再陷两难：库存告急，对美依赖难解",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-06",
-                "url": "https://www.ithome.com/0/999/012.htm"
+                "url": "https://www.ftchinese.com/story/001110812"
             },
             {
-                "title": "央视曝光后，浙江台州对“非标”电动自行车 53 家相关单位立案调查",
-                "source": "NewsAPI / Ithome.com",
+                "title": "阿根廷为谁哭泣——庇隆，还是米莱？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-06",
-                "url": "https://www.ithome.com/0/999/002.htm"
+                "url": "https://www.ftchinese.com/story/001110810"
             },
             {
-                "title": "财政部将向中国出口信用保险公司注资100亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中国海外投资“规模悖论”的迷思：肯尼亚的本土答案",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-06",
-                "url": "https://36kr.com/newsflashes/3971720751116547?f=rss"
+                "url": "https://www.ftchinese.com/story/001110805"
             },
             {
-                "title": "这届IFA太离谱：牙刷长了眼，扫地机生了娃…",
+                "title": "Tim Cook或十几年来首度缺席苹果秋季发布会",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576626.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1576672.htm"
             },
             {
-                "title": "财政部将向中国人寿集团注资350亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美国特使威特科夫和库什纳在莫斯科会晤普京后抵达基辅",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-06",
-                "url": "https://36kr.com/newsflashes/3971658617860608?f=rss"
+                "url": "https://www.voachinese.com/a/us-envoys-witkoff-and-kushner-arrive-in-kyiv-after-talks-with-putin-in-moscow-20260906/8194759.html"
             },
             {
                 "title": "中国领事服务网 - 中国领事服务网",
@@ -172,16 +172,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcE4zZzNaamRtd3huT1hlYmk0VkF5c2g0aG9jVGhKUkhYYnpxTnlyUzBXSWhGWU04cUtyOEphaTJTQWhzTGJ6NU1Sd09SRFR2ZWc?oc=5"
             },
             {
+                "title": "王毅同墨西哥外长贝拉斯科会谈 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvM0lsRHppSHItckJHZFhLTndXZWlWS1ppUmhxektNME9iQTR2R2ktM3RZZl9DV0RpMWFjcWd0eDJDb2hGSV9TZktFcmpiQktERmc?oc=5"
+            },
+            {
                 "title": "打造培根铸魂、启智增慧的精品教材——中国特色高质量教材体系建设成效综述 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzlXcVBUamZ2NmhPMW16YlgwTmRkR1dUZEM3M3dROHN3OXljLWNtT2pxV1F0OUdfNjdUZmdkMmExX0wyWDVIdG9fSEFacWhMcXc?oc=5"
-            },
-            {
-                "title": "在吉隆，感受守望相助的温暖（在现场·特别报道） - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ONWZVekNPQXFNQjBjZVVwTkhuaEtrTU4zMENIZFIzVll0WkttSmVBamJmN09NbGVGMzZ6TlNubjJWOHhVck41QmQzVDlReGY5WkE?oc=5"
             },
             {
                 "title": "浙江海事局 - zj.msa.gov.cn",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-07T11:30:21.773717+00:00"
+    "last_updated": "2026-09-07T17:10:33.787989+00:00"
 }
