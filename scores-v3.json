@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "Shein上市之后：沉默不再是一种选择",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-07",
+                "url": "https://www.ftchinese.com/story/001110828"
+            },
+            {
+                "title": "黄金重估与万亿现金池：美国债务困局的隐秘出口",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-07",
+                "url": "https://www.ftchinese.com/story/001110752"
+            },
+            {
+                "title": "数字金融如何赋能香港？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-07",
+                "url": "https://www.ftchinese.com/story/001110743"
+            },
+            {
                 "title": "英国拟在社交平台力推公共服务新闻 美方表达审查制度隐忧",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-07",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-07",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1576814.htm"
-            },
-            {
-                "title": "长鑫总经理回应与苹果合作：保持开放 已具备与国际主流厂商竞争能力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576804.htm"
-            },
-            {
-                "title": "大众汽车达成协议：工厂将由造车转为生产防空装备",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576792.htm"
-            },
-            {
-                "title": "小米秋季旗舰新品发布会一文汇总：18 Fold 中折叠上市，澎程 N70/N90 轮番炸场",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-07",
-                "url": "https://www.ithome.com/0/999/486.htm"
             }
         ],
         "mil": [
@@ -98,16 +98,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2ck5jS0xqMUx3bjljSXRZbk1DUEprclZ1dmUwNVZjc0MtQXZxajRqSmg1cnlsOEZsbUQ0QVAwUzdkY1FiZGJEalZCemlCaFhRSWc?oc=5"
             },
             {
-                "title": "添衣迎秋 北方地区降雨降温 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcE4zZzNaamRtd3huT1hlYmk0VkF5c2g0aG9jVGhKUkhYYnpxTnlyUzBXSWhGWU04cUtyOEphaTJTQWhzTGJ6NU1Sd09SRFR2ZWc?oc=5"
-            },
-            {
                 "title": "王毅同墨西哥外长贝拉斯科会谈 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvM0lsRHppSHItckJHZFhLTndXZWlWS1ppUmhxektNME9iQTR2R2ktM3RZZl9DV0RpMWFjcWd0eDJDb2hGSV9TZktFcmpiQktERmc?oc=5"
+            },
+            {
+                "title": "丁薛祥在全国教材工作会议上强调紧紧围绕立德树人根本任务加快构建中国特色高质量教材体系 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Rb3NWYmt6NEMtbkYtdDNaOVdWUWZLU3pPU0V3U3FRcEo4LWtueEtrQTVqWkVTWGg5QjhETkRzZnJGMXRIaWpiZTdfNUpiLWlXdnc?oc=5"
             },
             {
                 "title": "浙江海事局 - zj.msa.gov.cn",
@@ -117,6 +117,24 @@
             }
         ],
         "pol": [
+            {
+                "title": "Shein上市之后：沉默不再是一种选择",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-07",
+                "url": "https://www.ftchinese.com/story/001110828"
+            },
+            {
+                "title": "黄金重估与万亿现金池：美国债务困局的隐秘出口",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-07",
+                "url": "https://www.ftchinese.com/story/001110752"
+            },
+            {
+                "title": "数字金融如何赋能香港？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-07",
+                "url": "https://www.ftchinese.com/story/001110743"
+            },
             {
                 "title": "英国拟在社交平台力推公共服务新闻 美方表达审查制度隐忧",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -128,24 +146,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-07",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1576814.htm"
-            },
-            {
-                "title": "小米秋季旗舰新品发布会一文汇总：18 Fold 中折叠上市，澎程 N70/N90 轮番炸场",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-07",
-                "url": "https://www.ithome.com/0/999/486.htm"
-            },
-            {
-                "title": "中国外交只是党内派系生死权斗的外部延伸(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-07",
-                "url": "https://www.secretchina.com/news/gb/2026/09/07/1104524.html"
-            },
-            {
-                "title": "AI 时代，「种草」这件事会变成什么样？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-07",
-                "url": "http://www.geekpark.net/news/369962"
             },
             {
                 "title": "2026年9月7日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -172,16 +172,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2ck5jS0xqMUx3bjljSXRZbk1DUEprclZ1dmUwNVZjc0MtQXZxajRqSmg1cnlsOEZsbUQ0QVAwUzdkY1FiZGJEalZCemlCaFhRSWc?oc=5"
             },
             {
-                "title": "添衣迎秋 北方地区降雨降温 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcE4zZzNaamRtd3huT1hlYmk0VkF5c2g0aG9jVGhKUkhYYnpxTnlyUzBXSWhGWU04cUtyOEphaTJTQWhzTGJ6NU1Sd09SRFR2ZWc?oc=5"
-            },
-            {
                 "title": "王毅同墨西哥外长贝拉斯科会谈 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvM0lsRHppSHItckJHZFhLTndXZWlWS1ppUmhxektNME9iQTR2R2ktM3RZZl9DV0RpMWFjcWd0eDJDb2hGSV9TZktFcmpiQktERmc?oc=5"
+            },
+            {
+                "title": "丁薛祥在全国教材工作会议上强调紧紧围绕立德树人根本任务加快构建中国特色高质量教材体系 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Rb3NWYmt6NEMtbkYtdDNaOVdWUWZLU3pPU0V3U3FRcEo4LWtueEtrQTVqWkVTWGg5QjhETkRzZnJGMXRIaWpiZTdfNUpiLWlXdnc?oc=5"
             },
             {
                 "title": "浙江海事局 - zj.msa.gov.cn",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-08T15:56:12.859048+00:00"
+    "last_updated": "2026-09-08T20:40:29.464255+00:00"
 }
