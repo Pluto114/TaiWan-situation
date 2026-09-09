@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星领投欧洲AI龙头Mistral 公司估值达240亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "创新指数：中国再登榜首 德国位居第三",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-09-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576940.htm"
+                "url": "https://www.dw.com/zh/%E5%88%9B%E6%96%B0%E6%8C%87%E6%95%B0%E4%B8%AD%E5%9B%BD%E5%86%8D%E7%99%BB%E6%A6%9C%E9%A6%96-%E5%BE%B7%E5%9B%BD%E4%BD%8D%E5%B1%85%E7%AC%AC%E4%B8%89/a-79189745"
             },
             {
-                "title": "“中折叠”手机亮相，四款澎程新车上市，小米秋季旗舰新品发布会带来了这些",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-09-08",
-                "url": "https://www.toodaylab.com/84199"
-            },
-            {
-                "title": "Arm数据中心CPU芯片的中国客户名单披露",
+                "title": "理想汽车引入第三家电池供应商，中创新航上车理想i6｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-08",
-                "url": "https://36kr.com/newsflashes/3974563095228673?f=rss"
+                "url": "https://36kr.com/p/3974819731026177?f=rss"
             },
             {
-                "title": "从单点工具到统一平台架构，临床试验AI加速落地 | 最前线",
-                "source": "NewsAPI / 36kr.com",
+                "title": "捷豹路虎将通过自愿离职方式裁减近 10% 员工，目标省下 17 亿英镑",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-08",
-                "url": "https://36kr.com/p/3974556236935426?f=rss"
+                "url": "https://www.ithome.com/0/999/932.htm"
             },
             {
-                "title": "全球科技巨头考察阿根廷巴塔哥尼亚以兴建巨型数据中心",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美加贸易裂痕加深 加拿大“舍近求远”转向亚洲(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576934.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/09/08/1104564.html"
+            },
+            {
+                "title": "中国经济正进入大崩溃时代！破产三件套一个不少！(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-08",
+                "url": "https://www.secretchina.com/news/gb/2026/09/08/1104561.html"
             }
         ],
         "mil": [
+            {
+                "title": "特习会前美中战区司令会晤 为区域局势降温避免意外",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-08",
+                "url": "https://www.voachinese.com/a/us-pacific-command-chief-meets-chinese-commander-before-trump-xi-summit-20260908/8195527.html"
+            },
             {
                 "title": "从实习生日薪5000，到上亿年薪，AI人才争夺陷入疯狂丨深氪",
                 "source": "NewsAPI / 36kr.com",
@@ -68,16 +74,16 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1576868.htm"
             },
             {
-                "title": "中国经济崩了 中共就会收手？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-08",
-                "url": "https://www.secretchina.com/news/gb/2026/09/08/1104545.html"
-            },
-            {
                 "title": "2026年9月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-08",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWGV4OHFwaHdpS3k5MkVvS1IyclctNm5MUjVGTGZIUFBCQXlXYzY0cXpOTlRlTzIxOGU5ckpNQWFHbTZ3Y3hDekwwOFF2Vlp3ZUJJT0RiTDFJcWhmcmdYX2NJcTVRbXo4OGVJdkRlSmZ0UUVvUWc?oc=5"
+            },
+            {
+                "title": "习近平同英国首相伯纳姆通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-08",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TSVFZSmM5b1ZGMkhQVV9xRWVieTJVRHdlcTJMcnpwN21PMEpCLWVaYkU1aFRpOFI5Mmh6MURfaGZERHNRVms4Q0JlanlkQWR6RU9JbVlPY1Vfc1l1bExuVDNUR3UzTFRXRXZr?oc=5"
             },
             {
                 "title": "毛宁：正确认识和对待历史，是检验日本能否恪守和平发展承诺的标尺 - mfa.gov.cn",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnJyNDMxR0p1V0dpYlNZQUhOYnBGMHQzek9CdEF2ZjVkc3MwRjFpcng0QndOOGFvYVY0WVE1M1RCVVpTS3paVmo4M3E2c01xOTd2eXBlTXFoTHNMSlFtS3hyLTNkRDd0SXdBVXBnZUZIUkdKYzVQbjJMUTlhMjhGTGRXQU04SFhYdWVmU0tXNXI?oc=5"
             },
             {
-                "title": "外交部阿富汗事务特使岳晓勇赴巴基斯坦和沙特磋商_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-08",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzBoa205UXBVNG9YU2E4Vnllb0NPd1FOYWRjMWdvVnFMd0ZRY3M5YlhYYXFGeTBxSERzX19ScHBlMEItUG9nX3dmVUZmVEVLdlFUcTFPODBibnh0OWpLb20tenMwNVRCQmxLTnVTeGNpVktROFhWUTM2M1dQVmlmTV9fejU?oc=5"
-            },
-            {
                 "title": "八一锐评丨加强政绩观行为的管理监督 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2ck5jS0xqMUx3bjljSXRZbk1DUEprclZ1dmUwNVZjc0MtQXZxajRqSmg1cnlsOEZsbUQ0QVAwUzdkY1FiZGJEalZCemlCaFhRSWc?oc=5"
             },
             {
-                "title": "王毅同墨西哥外长贝拉斯科会谈 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvM0lsRHppSHItckJHZFhLTndXZWlWS1ppUmhxektNME9iQTR2R2ktM3RZZl9DV0RpMWFjcWd0eDJDb2hGSV9TZktFcmpiQktERmc?oc=5"
-            },
-            {
                 "title": "丁薛祥在全国教材工作会议上强调紧紧围绕立德树人根本任务加快构建中国特色高质量教材体系 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Rb3NWYmt6NEMtbkYtdDNaOVdWUWZLU3pPU0V3U3FRcEo4LWtueEtrQTVqWkVTWGg5QjhETkRzZnJGMXRIaWpiZTdfNUpiLWlXdnc?oc=5"
+            },
+            {
+                "title": "朝中社：日本新军国主义企图必将招致灾祸 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHTVlLTWo1ckw4ZjE2cnl1bURuaWwxNFl1Y1FqM0RGRm9LV21kY2lmeWJsN2R4eUdZbnFVZ0VvVTJQczhTUldNUjJHT0NyOUpWWHc?oc=5"
+            },
+            {
+                "title": "浙江海事局 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-09-09",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlI1UjhjNEhNVjhaaUZRWHdMSTFrX3A0VXJQSDU1d3VfekMxd1pKZGYwRE94TnVtd2NKUnp1VjVYd21DNWZVVHJjeUxUTTJOSVNjcGMzVG45UHRpV2RDTTVHenc0SWFHYXJPOUs1OUp5Q05oZkJselJjSVFjV1Q3c19GMW0?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "英国实际犯罪率暴跌 公众安全感却不升反降",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576938.htm"
-            },
-            {
-                "title": "长鑫存储与长江存储被曝已准备可用三年的ASML DUV光刻机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1576932.htm"
-            },
-            {
-                "title": "从实习生日薪5000，到上亿年薪，AI人才争夺陷入疯狂丨深氪",
+                "title": "理想汽车引入第三家电池供应商，中创新航上车理想i6｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-08",
-                "url": "https://36kr.com/p/3974476864876801?f=rss"
+                "url": "https://36kr.com/p/3974819731026177?f=rss"
             },
             {
-                "title": "联合国报告：清洁空气每投入 1 美元可带来 15 美元回报",
+                "title": "捷豹路虎将通过自愿离职方式裁减近 10% 员工，目标省下 17 亿英镑",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-08",
-                "url": "https://www.ithome.com/0/999/787.htm"
+                "url": "https://www.ithome.com/0/999/932.htm"
             },
             {
-                "title": "单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "中国经济正进入大崩溃时代！破产三件套一个不少！(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-08",
-                "url": "http://www.geekpark.net/news/370006"
+                "url": "https://www.secretchina.com/news/gb/2026/09/08/1104561.html"
+            },
+            {
+                "title": "毛泽东逝世50年：中国未回归“毛时代”，也从未真正离开",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-08",
+                "url": "https://www.dw.com/zh/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%9D%E4%B8%9650%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%9B%9E%E5%BD%92%E6%AF%9B%E6%97%B6%E4%BB%A3%E4%B9%9F%E4%BB%8E%E6%9C%AA%E7%9C%9F%E6%AD%A3%E7%A6%BB%E5%BC%80/a-79161162"
+            },
+            {
+                "title": "毛泽东逝世50年：中国未回归“毛时代”，也从未真正离开",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-08",
+                "url": "https://www.dw.com/zh/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%9D%E4%B8%9650%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%AA%E5%9B%9E%E5%BD%92%E6%AF%9B%E6%97%B6%E4%BB%A3%E4%B9%9F%E4%BB%8E%E6%9C%AA%E7%9C%9F%E6%AD%A3%E7%A6%BB%E5%BC%80/a-79161162"
             },
             {
                 "title": "2026年9月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWGV4OHFwaHdpS3k5MkVvS1IyclctNm5MUjVGTGZIUFBCQXlXYzY0cXpOTlRlTzIxOGU5ckpNQWFHbTZ3Y3hDekwwOFF2Vlp3ZUJJT0RiTDFJcWhmcmdYX2NJcTVRbXo4OGVJdkRlSmZ0UUVvUWc?oc=5"
             },
             {
+                "title": "习近平同英国首相伯纳姆通电话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-08",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TSVFZSmM5b1ZGMkhQVV9xRWVieTJVRHdlcTJMcnpwN21PMEpCLWVaYkU1aFRpOFI5Mmh6MURfaGZERHNRVms4Q0JlanlkQWR6RU9JbVlPY1Vfc1l1bExuVDNUR3UzTFRXRXZr?oc=5"
+            },
+            {
                 "title": "毛宁：正确认识和对待历史，是检验日本能否恪守和平发展承诺的标尺 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-08",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnJyNDMxR0p1V0dpYlNZQUhOYnBGMHQzek9CdEF2ZjVkc3MwRjFpcng0QndOOGFvYVY0WVE1M1RCVVpTS3paVmo4M3E2c01xOTd2eXBlTXFoTHNMSlFtS3hyLTNkRDd0SXdBVXBnZUZIUkdKYzVQbjJMUTlhMjhGTGRXQU04SFhYdWVmU0tXNXI?oc=5"
-            },
-            {
-                "title": "外交部阿富汗事务特使岳晓勇赴巴基斯坦和沙特磋商_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-08",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzBoa205UXBVNG9YU2E4Vnllb0NPd1FOYWRjMWdvVnFMd0ZRY3M5YlhYYXFGeTBxSERzX19ScHBlMEItUG9nX3dmVUZmVEVLdlFUcTFPODBibnh0OWpLb20tenMwNVRCQmxLTnVTeGNpVktROFhWUTM2M1dQVmlmTV9fejU?oc=5"
             },
             {
                 "title": "八一锐评丨加强政绩观行为的管理监督 - 军网",
@@ -166,19 +172,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2ck5jS0xqMUx3bjljSXRZbk1DUEprclZ1dmUwNVZjc0MtQXZxajRqSmg1cnlsOEZsbUQ0QVAwUzdkY1FiZGJEalZCemlCaFhRSWc?oc=5"
             },
             {
-                "title": "王毅同墨西哥外长贝拉斯科会谈 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvM0lsRHppSHItckJHZFhLTndXZWlWS1ppUmhxektNME9iQTR2R2ktM3RZZl9DV0RpMWFjcWd0eDJDb2hGSV9TZktFcmpiQktERmc?oc=5"
-            },
-            {
                 "title": "丁薛祥在全国教材工作会议上强调紧紧围绕立德树人根本任务加快构建中国特色高质量教材体系 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Rb3NWYmt6NEMtbkYtdDNaOVdWUWZLU3pPU0V3U3FRcEo4LWtueEtrQTVqWkVTWGg5QjhETkRzZnJGMXRIaWpiZTdfNUpiLWlXdnc?oc=5"
+            },
+            {
+                "title": "朝中社：日本新军国主义企图必将招致灾祸 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHTVlLTWo1ckw4ZjE2cnl1bURuaWwxNFl1Y1FqM0RGRm9LV21kY2lmeWJsN2R4eUdZbnFVZ0VvVTJQczhTUldNUjJHT0NyOUpWWHc?oc=5"
+            },
+            {
+                "title": "浙江海事局 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-09-09",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlI1UjhjNEhNVjhaaUZRWHdMSTFrX3A0VXJQSDU1d3VfekMxd1pKZGYwRE94TnVtd2NKUnp1VjVYd21DNWZVVHJjeUxUTTJOSVNjcGMzVG45UHRpV2RDTTVHenc0SWFHYXJPOUs1OUp5Q05oZkJselJjSVFjV1Q3c19GMW0?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-09T10:43:07.129489+00:00"
+    "last_updated": "2026-09-09T15:52:07.854056+00:00"
 }
