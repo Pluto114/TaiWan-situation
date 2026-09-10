@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美台协处长：台海冲突对全球经济冲击将超二战",
-                "source": "NewsAPI / DW (English)",
+                "title": "内蒙、河南40分钟内接连发生地震 多地震感明显(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-09",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%8F%B0%E5%8D%8F%E5%A4%84%E9%95%BF%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E5%AF%B9%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%86%B2%E5%87%BB%E5%B0%86%E8%B6%85%E4%BA%8C%E6%88%98/a-79199312"
+                "url": "https://www.secretchina.com/news/gb/2026/09/09/1104617.html"
             },
             {
-                "title": "商务部新增84个全国重点外资项目，总投资额194.6亿美元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Counterpoint：iPhone 17 系列首年批发营收超 1700 亿美元，创历代新高",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-09",
-                "url": "https://36kr.com/newsflashes/3975981836775682?f=rss"
+                "url": "https://www.ithome.com/1/000/475.htm"
             },
             {
-                "title": "Google未来两年将在芬兰投资至少130亿欧元 扩建四地AI基础设施",
+                "title": "研究发现AI进课堂并不一定能带来更好的成绩",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577148.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577192.htm"
             },
             {
-                "title": "英国空管系统故障导致逾千架次航班取消 运营中断延续至第二天",
+                "title": "Analog Devices拟斥资13.5亿美元收购Alif Semiconductor",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577146.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577190.htm"
             },
             {
-                "title": "恒生指数公司：百度将被纳入三只指数，10月26日起生效",
-                "source": "NewsAPI / 36kr.com",
+                "title": "韩国国家超算 6 号机 12 月投运：理论算力是现有 5 号机 24 倍，性能剑指全球前十",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-09",
-                "url": "https://36kr.com/newsflashes/3975937905160704?f=rss"
+                "url": "https://www.ithome.com/1/000/446.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美军击沉伊朗油轮 伊朗20枚导弹报复约旦(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-09",
+                "url": "https://www.secretchina.com/news/gb/2026/09/09/1104610.html"
+            },
             {
                 "title": "OpenAI 奥尔特曼传记影片《Artificial》首支预告公开，展示“地堡”场景",
                 "source": "NewsAPI / Ithome.com",
@@ -68,22 +74,10 @@
                 "url": "https://36kr.com/p/3975874591748357?f=rss"
             },
             {
-                "title": "千问办公发布多人工作台，重写企业软件的最后一公里",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-09",
-                "url": "http://www.geekpark.net/news/370061"
-            },
-            {
                 "title": "2026年9月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-09",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HRU9GRG5TVUpzMVlIOVQ0Wms3Y0dsZkQycTRab3RmWC1NSlQ2THNibkItdm4xZnU1TEhNZFd5NFV4dGNCeXFiR1ZTV3NHT2ZyVEFINXJVVXdITGlVN0tYNGhQZUI0YkF4QXlnOFJVYTZaZzlPd3c?oc=5"
-            },
-            {
-                "title": "习近平同英国首相伯纳姆通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-08",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TSVFZSmM5b1ZGMkhQVV9xRWVieTJVRHdlcTJMcnpwN21PMEpCLWVaYkU1aFRpOFI5Mmh6MURfaGZERHNRVms4Q0JlanlkQWR6RU9JbVlPY1Vfc1l1bExuVDNUR3UzTFRXRXZr?oc=5"
             },
             {
                 "title": "毛宁：立己达人是中国对外合作的价值底色 - mfa.gov.cn",
@@ -92,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHpwdVYzY2tNVnJoM2g0eXQyOXY4UzNpSHpwbjVzVE5TYWZUb3p5Wnl5MWgxY3IwdGwwNnp5OEhTLUNsSmV1b2t6d3hsSzEzTjlCeEFGVUpubkhEaTJfcW5tRnJIeWRjT1ZXTTlFMGZuc0VBRlFoTEVfY3lQbEdlSGs0OHdsLWJtMnRvWThCalI?oc=5"
             },
             {
-                "title": "丁薛祥在全国教材工作会议上强调紧紧围绕立德树人根本任务加快构建中国特色高质量教材体系 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Rb3NWYmt6NEMtbkYtdDNaOVdWUWZLU3pPU0V3U3FRcEo4LWtueEtrQTVqWkVTWGg5QjhETkRzZnJGMXRIaWpiZTdfNUpiLWlXdnc?oc=5"
+                "title": "驻蒙特利尔总领事戴玉明访问威兰公司总部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-09",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
             },
             {
                 "title": "兵说兵事丨敢在没有答案时“向前迈步” - 军网",
@@ -110,13 +104,43 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSU1VaHVld0xxM0ppZm54ZjVCRHZGbEtOVlRObHF5WFMxYzY1aWVsNUJQZmF2bEJCSG1pYjlqR1lwWmZCNml2M1kwcGNrU3BkYWc?oc=5"
             },
             {
+                "title": "凝心聚力培根铸魂奋力书写育人新篇——习近平总书记的节日祝贺和诚挚问候激励广大教师和教育工作者敬业奉献 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwOXJ5ZF9IUTU4amlHQS1ueW56U3FIMXoyRUhSNmJnQ0NBZWpodjMxUW5oSmpTNk1KVlo5eHFiMFBsVzF4dFA3NmpuSkFuR3pvTFE?oc=5"
+            },
+            {
                 "title": "浙江海事局 - zj.msa.gov.cn",
                 "source": "官方信源 / 海事局",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlI1UjhjNEhNVjhaaUZRWHdMSTFrX3A0VXJQSDU1d3VfekMxd1pKZGYwRE94TnVtd2NKUnp1VjVYd21DNWZVVHJjeUxUTTJOSVNjcGMzVG45UHRpV2RDTTVHenc0SWFHYXJPOUs1OUp5Q05oZkJselJjSVFjV1Q3c19GMW0?oc=5"
+                "date": "2026-09-10",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEJGODg5T1FGUWMwbWU0VTFXMXNzTGVOSEZhc2VONm1MS1BJcGFKTXFCVVQwNENibzNCbFVkTDlxU2RZWFBkbm5YOTVaT0h4TTc2bEhZRk1xLXZYcmtzaUpDUkRuTzhWcjJmckZ1cVVpTFl0MVc5aU9PanBHeGpsLUFyNmo?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "美国国务院警告：赴华须防出境禁令、任意拘留中国App讯息或遭读取(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-09",
+                "url": "https://www.secretchina.com/news/gb/2026/09/09/1104618.html"
+            },
+            {
+                "title": "Analog Devices拟斥资13.5亿美元收购Alif Semiconductor",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577190.htm"
+            },
+            {
+                "title": "运营商临时页面意外提前泄露苹果iPhone 18 Pro多项核心配置与发售细节",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577168.htm"
+            },
+            {
+                "title": "AI需求引发历史性短缺 三星与SK海力士内存库存跌破10天",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-09",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577166.htm"
+            },
             {
                 "title": "英国空管系统故障导致逾千架次航班取消 运营中断延续至第二天",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -124,40 +148,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1577146.htm"
             },
             {
-                "title": "长鑫HBM量产遇挫：据报良率跌至25% HBM3最终测试近八成不合格",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577138.htm"
-            },
-            {
-                "title": "蔚来李斌内部讲话曝光：明年会有重量级新车，未来 3 年聚焦主业、高端、核心市场",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-09",
-                "url": "https://www.ithome.com/1/000/286.htm"
-            },
-            {
-                "title": "Anthropic对齐研究负责人称未来十年AI灭绝人类的可能性超过10%",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577132.htm"
-            },
-            {
-                "title": "苹果十余年来最重磅发布会：首款折叠iPhone即将亮相",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577120.htm"
-            },
-            {
                 "title": "2026年9月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-09",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HRU9GRG5TVUpzMVlIOVQ0Wms3Y0dsZkQycTRab3RmWC1NSlQ2THNibkItdm4xZnU1TEhNZFd5NFV4dGNCeXFiR1ZTV3NHT2ZyVEFINXJVVXdITGlVN0tYNGhQZUI0YkF4QXlnOFJVYTZaZzlPd3c?oc=5"
-            },
-            {
-                "title": "习近平同英国首相伯纳姆通电话 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-08",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TSVFZSmM5b1ZGMkhQVV9xRWVieTJVRHdlcTJMcnpwN21PMEpCLWVaYkU1aFRpOFI5Mmh6MURfaGZERHNRVms4Q0JlanlkQWR6RU9JbVlPY1Vfc1l1bExuVDNUR3UzTFRXRXZr?oc=5"
             },
             {
                 "title": "毛宁：立己达人是中国对外合作的价值底色 - mfa.gov.cn",
@@ -166,10 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHpwdVYzY2tNVnJoM2g0eXQyOXY4UzNpSHpwbjVzVE5TYWZUb3p5Wnl5MWgxY3IwdGwwNnp5OEhTLUNsSmV1b2t6d3hsSzEzTjlCeEFGVUpubkhEaTJfcW5tRnJIeWRjT1ZXTTlFMGZuc0VBRlFoTEVfY3lQbEdlSGs0OHdsLWJtMnRvWThCalI?oc=5"
             },
             {
-                "title": "丁薛祥在全国教材工作会议上强调紧紧围绕立德树人根本任务加快构建中国特色高质量教材体系 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Rb3NWYmt6NEMtbkYtdDNaOVdWUWZLU3pPU0V3U3FRcEo4LWtueEtrQTVqWkVTWGg5QjhETkRzZnJGMXRIaWpiZTdfNUpiLWlXdnc?oc=5"
+                "title": "驻蒙特利尔总领事戴玉明访问威兰公司总部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-09",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
             },
             {
                 "title": "兵说兵事丨敢在没有答案时“向前迈步” - 军网",
@@ -184,13 +178,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSU1VaHVld0xxM0ppZm54ZjVCRHZGbEtOVlRObHF5WFMxYzY1aWVsNUJQZmF2bEJCSG1pYjlqR1lwWmZCNml2M1kwcGNrU3BkYWc?oc=5"
             },
             {
+                "title": "凝心聚力培根铸魂奋力书写育人新篇——习近平总书记的节日祝贺和诚挚问候激励广大教师和教育工作者敬业奉献 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwOXJ5ZF9IUTU4amlHQS1ueW56U3FIMXoyRUhSNmJnQ0NBZWpodjMxUW5oSmpTNk1KVlo5eHFiMFBsVzF4dFA3NmpuSkFuR3pvTFE?oc=5"
+            },
+            {
                 "title": "浙江海事局 - zj.msa.gov.cn",
                 "source": "官方信源 / 海事局",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlI1UjhjNEhNVjhaaUZRWHdMSTFrX3A0VXJQSDU1d3VfekMxd1pKZGYwRE94TnVtd2NKUnp1VjVYd21DNWZVVHJjeUxUTTJOSVNjcGMzVG45UHRpV2RDTTVHenc0SWFHYXJPOUs1OUp5Q05oZkJselJjSVFjV1Q3c19GMW0?oc=5"
+                "date": "2026-09-10",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEJGODg5T1FGUWMwbWU0VTFXMXNzTGVOSEZhc2VONm1MS1BJcGFKTXFCVVQwNENibzNCbFVkTDlxU2RZWFBkbm5YOTVaT0h4TTc2bEhZRk1xLXZYcmtzaUpDUkRuTzhWcjJmckZ1cVVpTFl0MVc5aU9PanBHeGpsLUFyNmo?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-10T10:32:46.380302+00:00"
+    "last_updated": "2026-09-10T15:47:13.155716+00:00"
 }
