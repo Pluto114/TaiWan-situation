@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-10",
-                "url": "https://36kr.com/p/3977372742250756?f=rss"
-            },
-            {
-                "title": "苹果新CEO上任第一枪：15999元起的折叠屏，要把高端市场吃干抹净",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-10",
-                "url": "https://36kr.com/p/3977379721818626?f=rss"
-            },
-            {
-                "title": "寒武纪回应AI处理器大幅调价传闻",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-10",
-                "url": "https://36kr.com/newsflashes/3977343191265543?f=rss"
-            },
-            {
-                "title": "寒武纪回应“上调 AI 处理器价格”传闻：并未发布涨价相关消息",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-10",
-                "url": "https://www.ithome.com/1/000/879.htm"
-            },
-            {
-                "title": "台积电8月销售额同比飙升53.3% 创历史新高",
+                "title": "OpenAI模型对美政府涨价：1美元年费试点结束 改为半价优惠",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577306.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577350.htm"
+            },
+            {
+                "title": "iPhone Duo面临两大难题：小手掌用户受限 市场期待下一代机型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577346.htm"
+            },
+            {
+                "title": "川普总统宣布：共和党赢得两院，将向每位成年公民发放5000美元现金(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-10",
+                "url": "https://www.secretchina.com/news/gb/2026/09/10/1104652.html"
+            },
+            {
+                "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-10",
+                "url": "https://www.ithome.com/1/001/015.htm"
+            },
+            {
+                "title": "微信，悄悄迈出 AI 社交的第一步",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-10",
+                "url": "http://www.geekpark.net/news/370155"
             }
         ],
         "mil": [
+            {
+                "title": "驳斥“运营2.16亿台间谍电视”指控 LG官方声明数据合规并强调用户隐私保护",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577334.htm"
+            },
+            {
+                "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-10",
+                "url": "http://www.geekpark.net/news/370150"
+            },
             {
                 "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
                 "source": "NewsAPI / 36kr.com",
@@ -62,22 +74,16 @@
                 "url": "https://36kr.com/p/3977186183655680?f=rss"
             },
             {
-                "title": "加州州长纽森正式签署多项获OpenAI与Anthropic支持的AI安全法案",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577262.htm"
-            },
-            {
-                "title": "特朗普政府能源政策持续调整对中国能源产业发展的挑战",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110839"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "王沪宁会见安哥拉国民议会议长德阿尔梅达 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-11",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbTJ5TWNJZ192OEQ3emw0NEZOU2VSODQxakNicVMxWW4zbmR2RWJHMDBKdnhBQW1peUJSSTA2N1l2b20zZXRNVE5aTGl2dVQ5b0dlM2pMUFc4SFlFX3c5TmFZYWRVME5SMGFR?oc=5"
             },
             {
                 "title": "驻蒙特利尔总领事戴玉明访问威兰公司总部 - mfa.gov.cn",
@@ -86,16 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
             },
             {
-                "title": "驻墨尔本总领事房新文出席2026“春晖创新创业论坛” - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnc5ZXM1TDhOdEhkSURraUtEc1hmUlRUNWc5MzhUWGk5NXpWV0doN0xVZWI3QkFaSU1GY0wzWXV1dkl5S19XVkYydWV1QkhlSnBxeFEzYVlqenV4d0NnUjRXbm9NTnpVaUlNaWZoWjZGbDJ2eWtHSGMxaFVuZGdMN3BObk9KOENoaXc?oc=5"
-            },
-            {
-                "title": "凝心聚力培根铸魂奋力书写育人新篇——习近平总书记的节日祝贺和诚挚问候激励广大教师和教育工作者敬业奉献 - 军网",
+                "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwOXJ5ZF9IUTU4amlHQS1ueW56U3FIMXoyRUhSNmJnQ0NBZWpodjMxUW5oSmpTNk1KVlo5eHFiMFBsVzF4dFA3NmpuSkFuR3pvTFE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
             },
             {
                 "title": "文艺传递拥军温情 - 军网",
@@ -108,50 +108,50 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-09",
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNElfdkEyeEpDcDUya3dyTk05U19XWjQ5eEV3QkNHcTlZV3dBcmNobXR2MmkyNC1femRDc0lmeXBDNFAyeDREaTB1TDZUWWw0aHV2RGpldnpsT1NvMjdVb2NjUnFNUHFjZkVsRFFSOEszT2VFQ3ZUbzlHanFOZjh4bA?oc=5"
-            },
-            {
-                "title": "浙江海事局 - zj.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEJGODg5T1FGUWMwbWU0VTFXMXNzTGVOSEZhc2VONm1MS1BJcGFKTXFCVVQwNENibzNCbFVkTDlxU2RZWFBkbm5YOTVaT0h4TTc2bEhZRk1xLXZYcmtzaUpDUkRuTzhWcjJmckZ1cVVpTFl0MVc5aU9PanBHeGpsLUFyNmo?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "因模型入侵 Hugging Face，OpenAI 面临美国参议院调查",
+                "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-10",
-                "url": "https://www.ithome.com/1/000/938.htm"
+                "url": "https://www.ithome.com/1/001/015.htm"
             },
             {
-                "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
-                "source": "NewsAPI / 36kr.com",
+                "title": "微信，悄悄迈出 AI 社交的第一步",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-09-10",
-                "url": "https://36kr.com/p/3977372742250756?f=rss"
+                "url": "http://www.geekpark.net/news/370155"
             },
             {
-                "title": "OpenAI据悉限制Adobe等在ChatGPT投放AI竞品广告",
+                "title": "Google为何故意让部分司机绕远路？实地实验显示分流少量车辆即可缓解拥堵",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577310.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577338.htm"
             },
             {
-                "title": "美国国家运输安全委员会：亚马逊货运飞机失事坠毁前曾尝试复飞",
+                "title": "驳斥“运营2.16亿台间谍电视”指控 LG官方声明数据合规并强调用户隐私保护",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577308.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577334.htm"
             },
             {
-                "title": "硬氪直击IFA——AI硬件不再只会回答问题",
-                "source": "NewsAPI / 36kr.com",
+                "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-09-10",
-                "url": "https://36kr.com/p/3975817977868549?f=rss"
+                "url": "http://www.geekpark.net/news/370150"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - brics2022.mfa.gov.cn",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "王沪宁会见安哥拉国民议会议长德阿尔梅达 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-11",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbTJ5TWNJZ192OEQ3emw0NEZOU2VSODQxakNicVMxWW4zbmR2RWJHMDBKdnhBQW1peUJSSTA2N1l2b20zZXRNVE5aTGl2dVQ5b0dlM2pMUFc4SFlFX3c5TmFZYWRVME5SMGFR?oc=5"
             },
             {
                 "title": "驻蒙特利尔总领事戴玉明访问威兰公司总部 - mfa.gov.cn",
@@ -160,16 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
             },
             {
-                "title": "驻墨尔本总领事房新文出席2026“春晖创新创业论坛” - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnc5ZXM1TDhOdEhkSURraUtEc1hmUlRUNWc5MzhUWGk5NXpWV0doN0xVZWI3QkFaSU1GY0wzWXV1dkl5S19XVkYydWV1QkhlSnBxeFEzYVlqenV4d0NnUjRXbm9NTnpVaUlNaWZoWjZGbDJ2eWtHSGMxaFVuZGdMN3BObk9KOENoaXc?oc=5"
-            },
-            {
-                "title": "凝心聚力培根铸魂奋力书写育人新篇——习近平总书记的节日祝贺和诚挚问候激励广大教师和教育工作者敬业奉献 - 军网",
+                "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwOXJ5ZF9IUTU4amlHQS1ueW56U3FIMXoyRUhSNmJnQ0NBZWpodjMxUW5oSmpTNk1KVlo5eHFiMFBsVzF4dFA3NmpuSkFuR3pvTFE?oc=5"
+                "date": "2023-02-07",
+                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
             },
             {
                 "title": "文艺传递拥军温情 - 军网",
@@ -182,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-09",
                 "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNElfdkEyeEpDcDUya3dyTk05U19XWjQ5eEV3QkNHcTlZV3dBcmNobXR2MmkyNC1femRDc0lmeXBDNFAyeDREaTB1TDZUWWw0aHV2RGpldnpsT1NvMjdVb2NjUnFNUHFjZkVsRFFSOEszT2VFQ3ZUbzlHanFOZjh4bA?oc=5"
-            },
-            {
-                "title": "浙江海事局 - zj.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEJGODg5T1FGUWMwbWU0VTFXMXNzTGVOSEZhc2VONm1MS1BJcGFKTXFCVVQwNENibzNCbFVkTDlxU2RZWFBkbm5YOTVaT0h4TTc2bEhZRk1xLXZYcmtzaUpDUkRuTzhWcjJmckZ1cVVpTFl0MVc5aU9PanBHeGpsLUFyNmo?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-11T10:33:19.809635+00:00"
+    "last_updated": "2026-09-11T15:49:04.076411+00:00"
 }
