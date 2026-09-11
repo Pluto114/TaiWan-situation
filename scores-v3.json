@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI模型对美政府涨价：1美元年费试点结束 改为半价优惠",
+                "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577350.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577352.htm"
             },
             {
-                "title": "iPhone Duo面临两大难题：小手掌用户受限 市场期待下一代机型",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "他通过犯罪小说三部曲，写下了一部“纽约史诗”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577346.htm"
+                "url": "https://www.ftchinese.com/story/001110855"
             },
             {
-                "title": "川普总统宣布：共和党赢得两院，将向每位成年公民发放5000美元现金(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "英国新政府与马斯克争夺社交媒体话语权",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-10",
-                "url": "https://www.secretchina.com/news/gb/2026/09/10/1104652.html"
+                "url": "https://www.ftchinese.com/story/001110861"
             },
             {
-                "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
-                "source": "NewsAPI / Ithome.com",
+                "title": "弗里兹首尔艺博会走过第五年：造势与水温",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-10",
-                "url": "https://www.ithome.com/1/001/015.htm"
+                "url": "https://www.ftchinese.com/story/001110846"
             },
             {
-                "title": "微信，悄悄迈出 AI 社交的第一步",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "油价涨至每桶105美元 重燃债券抛售",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-10",
-                "url": "http://www.geekpark.net/news/370155"
+                "url": "https://www.ftchinese.com/story/001110857"
             }
         ],
         "mil": [
             {
+                "title": "OpenAI因Hugging Face安全事件面临美参议院两党联合质询",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577356.htm"
+            },
+            {
+                "title": "他通过犯罪小说三部曲，写下了一部“纽约史诗”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-10",
+                "url": "https://www.ftchinese.com/story/001110855"
+            },
+            {
+                "title": "Kiran Nadar艺术博物馆创始人：一家文化机构如何面对多极而剧变的世界？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-10",
+                "url": "https://www.ftchinese.com/story/001110847"
+            },
+            {
                 "title": "驳斥“运营2.16亿台间谍电视”指控 LG官方声明数据合规并强调用户隐私保护",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-09-10",
                 "url": "http://www.geekpark.net/news/370150"
-            },
-            {
-                "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-10",
-                "url": "https://36kr.com/p/3977372742250756?f=rss"
-            },
-            {
-                "title": "OpenAI据悉限制Adobe等在ChatGPT投放AI竞品广告",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577310.htm"
-            },
-            {
-                "title": "海底捞减持背后，“离岸富豪”排队补税",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-10",
-                "url": "https://36kr.com/p/3977186183655680?f=rss"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -92,7 +92,7 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
             },
             {
-                "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
+                "title": "您的位置： 政策制度 - 81rc.81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbHAtQjZGRTZvUVhrMXVNMjRHY01qc3N5dFRPWC1TZ3BjNTBsVFg2UGdDNXNzeElNSTdYbDdlLVgxVDYxUzJJVUw2YUFPZTFTWGc?oc=5"
             },
             {
-                "title": "矩阵赋能：军队新媒体建设的实践路径与优化策略——国防科技大学“高地号角”融媒体矩阵传播实践与思考 - 军网",
+                "title": "联播+｜“全球南方”第一方阵 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNElfdkEyeEpDcDUya3dyTk05U19XWjQ5eEV3QkNHcTlZV3dBcmNobXR2MmkyNC1femRDc0lmeXBDNFAyeDREaTB1TDZUWWw0aHV2RGpldnpsT1NvMjdVb2NjUnFNUHFjZkVsRFFSOEszT2VFQ3ZUbzlHanFOZjh4bA?oc=5"
+                "date": "2026-09-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91dElvbks4UjVleVgycDFtRXVnSzlqOElOcmExZzJjRWdSYWstNUJoWWFSZHY2clVieGpCQ29yUDZDb1l5ZFZfdGVGZ0xQdFBheHc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-10",
-                "url": "https://www.ithome.com/1/001/015.htm"
-            },
-            {
-                "title": "微信，悄悄迈出 AI 社交的第一步",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-10",
-                "url": "http://www.geekpark.net/news/370155"
-            },
-            {
-                "title": "Google为何故意让部分司机绕远路？实地实验显示分流少量车辆即可缓解拥堵",
+                "title": "美国德州启动eVTOL空中出租车载人商业化前测试",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577338.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577358.htm"
             },
             {
-                "title": "驳斥“运营2.16亿台间谍电视”指控 LG官方声明数据合规并强调用户隐私保护",
+                "title": "OpenAI因Hugging Face安全事件面临美参议院两党联合质询",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577334.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577356.htm"
             },
             {
-                "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "http://www.geekpark.net/news/370150"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577352.htm"
+            },
+            {
+                "title": "他通过犯罪小说三部曲，写下了一部“纽约史诗”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-10",
+                "url": "https://www.ftchinese.com/story/001110855"
+            },
+            {
+                "title": "细思极恐的AI自主网络攻击",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-10",
+                "url": "https://www.ftchinese.com/story/001110858"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,7 +160,7 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
             },
             {
-                "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
+                "title": "您的位置： 政策制度 - 81rc.81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbHAtQjZGRTZvUVhrMXVNMjRHY01qc3N5dFRPWC1TZ3BjNTBsVFg2UGdDNXNzeElNSTdYbDdlLVgxVDYxUzJJVUw2YUFPZTFTWGc?oc=5"
             },
             {
-                "title": "矩阵赋能：军队新媒体建设的实践路径与优化策略——国防科技大学“高地号角”融媒体矩阵传播实践与思考 - 军网",
+                "title": "联播+｜“全球南方”第一方阵 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNElfdkEyeEpDcDUya3dyTk05U19XWjQ5eEV3QkNHcTlZV3dBcmNobXR2MmkyNC1femRDc0lmeXBDNFAyeDREaTB1TDZUWWw0aHV2RGpldnpsT1NvMjdVb2NjUnFNUHFjZkVsRFFSOEszT2VFQ3ZUbzlHanFOZjh4bA?oc=5"
+                "date": "2026-09-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91dElvbks4UjVleVgycDFtRXVnSzlqOElOcmExZzJjRWdSYWstNUJoWWFSZHY2clVieGpCQ29yUDZDb1l5ZFZfdGVGZ0xQdFBheHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-11T15:49:04.076411+00:00"
+    "last_updated": "2026-09-11T20:24:08.228979+00:00"
 }
