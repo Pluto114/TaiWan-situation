@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "“国产 GPU 四小龙”之一燧原科技今日科创板上市，股价最高涨超 200%",
+                "title": "努比亚 NaviX Ultra 手机“蓝境”外观公布，官方称其深邃、纯粹",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/132.htm"
+                "url": "https://www.ithome.com/1/001/402.htm"
             },
             {
-                "title": "上光所孵化太空光伏企业完成近亿元融资，钧达股份、上海未来产业基金等押注｜36氪首发",
+                "title": "全球十大IC设计商第2季营收暴增七成 台湾3厂家入榜(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-11",
+                "url": "https://www.secretchina.com/news/gb/2026/09/11/1104683.html"
+            },
+            {
+                "title": "哪吒汽车重整投资方浮出水面：“太乙圣莲”代替山子高科",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577484.htm"
+            },
+            {
+                "title": "AI芯片造富：燧原科技上市暴涨超200% 两位创始人成亿万富翁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577482.htm"
+            },
+            {
+                "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-11",
-                "url": "https://36kr.com/p/3974257096159747?f=rss"
-            },
-            {
-                "title": "我国稀土、钨、锡等14种矿产储量居世界第一",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-11",
-                "url": "https://36kr.com/newsflashes/3978366860212996?f=rss"
-            },
-            {
-                "title": "清华博士团队切入离子阱量子计算，押注玻璃基QCCD路线，获超亿融资丨36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-11",
-                "url": "https://36kr.com/p/3978313800285187?f=rss"
-            },
-            {
-                "title": "三家印度公司被指长期提供有偿黑客服务，美国议员要求将其列入实体清单",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/105.htm"
+                "url": "https://36kr.com/p/3978756821842688?f=rss"
             }
         ],
         "mil": [
             {
-                "title": "Nothing Headphone（1）Pro 头戴式耳机曝光：三单元音频系统，9 月 29 日上市",
+                "title": "Y Combinator CEO 陈嘉兴：别过度关注 AI 末日，应该警惕现实 AI 安全风险",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/141.htm"
+                "url": "https://www.ithome.com/1/001/387.htm"
             },
             {
-                "title": "8点1氪丨英伟达被调查；罗永浩连用7个“抄的”吐槽苹果折叠屏；欧洲央行将三大关键利率上调25个基点",
+                "title": "不评判好坏，只鼓励创作：这款AI原生游戏，让人人都享受讲故事",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-11",
-                "url": "https://36kr.com/p/3978247601601280?f=rss"
+                "url": "https://36kr.com/p/3978711556684805?f=rss"
             },
             {
-                "title": "IT早报 0911：雷军称小米未来 5 年投 2000 亿元研发；启境回应媒体群误发小米澎程攻防内容；DeepSeek V4.1 Flash 发布；美的回应洗衣机 19 小时耗 411MB 流量...",
+                "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/p/3978756821842688?f=rss"
+            },
+            {
+                "title": "雷军宣布小米澎程全国交付明天开启，覆盖 75 座城市",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-10",
-                "url": "https://www.ithome.com/1/001/082.htm"
+                "date": "2026-09-11",
+                "url": "https://www.ithome.com/1/001/275.htm"
             },
             {
-                "title": "美国防部高官驳斥AI“末日论” 称担忧源于对变革的恐惧",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577394.htm"
-            },
-            {
-                "title": "挪威研究人员用40分钟“欺骗”直升机GPS 测试显示卫星导航可能被悄悄引向错误位置",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577390.htm"
-            },
-            {
-                "title": "习近平将赴印度出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FZFFBQXhQX2JqdzB6VW9WZlRCNEkwVTVzbU9TY2lscVltWHFJc3NzTmVsd3lJc3ZHblhKYWM4Zm8yU21OMnBHVXg0NHFLbDRIOUVMX3hOUVhqNXBQZlNqYmlmSDlLUFVoTjFv?oc=5"
+                "title": "半日主力资金抛售电子、有色金属股",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/newsflashes/3978468124523528?f=rss"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -92,6 +86,12 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbTJ5TWNJZ192OEQ3emw0NEZOU2VSODQxakNicVMxWW4zbmR2RWJHMDBKdnhBQW1peUJSSTA2N1l2b20zZXRNVE5aTGl2dVQ5b0dlM2pMUFc4SFlFX3c5TmFZYWRVME5SMGFR?oc=5"
             },
             {
+                "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzUDhYY2NxRlY0MXQ2V2VDT0lna2pJZTd0NlJFWnRPVkZGS0ZlUXF5YUxpdGFTWk9zUWZCOWhQeTcyeV9rc1FIeHp6S2szQW8tcUJCZFNaMXdHVEhoRGVvS1pFUXVMRGpMWUhB?oc=5"
+            },
+            {
                 "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
@@ -104,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
             },
             {
-                "title": "文艺传递拥军温情 - 军网",
+                "title": "新华社快讯：习近平抵达新德里，出席金砖国家领导人第十八次会晤 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbHAtQjZGRTZvUVhrMXVNMjRHY01qc3N5dFRPWC1TZ3BjNTBsVFg2UGdDNXNzeElNSTdYbDdlLVgxVDYxUzJJVUw2YUFPZTFTWGc?oc=5"
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OYVItTGtYc1FHQ21LTDJhX0FOeGJSZzg1UFFjc3MzTUZlQXZrWnJzYTltU1pEZW5rQnRLOEhOa2QzR3FRR2JEOThESQ?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "上光所孵化太空光伏企业完成近亿元融资，钧达股份、上海未来产业基金等押注｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-11",
-                "url": "https://36kr.com/p/3974257096159747?f=rss"
-            },
-            {
-                "title": "8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖",
+                "title": "努比亚 NaviX Ultra 手机“蓝境”外观公布，官方称其深邃、纯粹",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/129.htm"
+                "url": "https://www.ithome.com/1/001/402.htm"
             },
             {
-                "title": "刚果民主共和国东部埃博拉疫情持续蔓延，当地部分居民对疫情应对工作的信任也在下降。在疫情严峻的布滕博市，埃博拉幸存者呼吁政府升级并加强治疗中心的设备和医疗物资，以提高社区对防控措施的信任。在本轮埃博拉疫情中，感染者已超过6600人，其中3200多 - Newswav",
-                "source": "NewsAPI / Newswav.com",
+                "title": "Y Combinator CEO 陈嘉兴：别过度关注 AI 末日，应该警惕现实 AI 安全风险",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://newswav.com/video/刚果民主共和国东部埃博拉疫情持续蔓延-当地部分居民对疫情应对工作的信任也在下降-在疫情严峻的布滕博市-埃博拉幸存者呼吁政府升级并加强治疗中心的设备和医-V2609_hUWWeO"
+                "url": "https://www.ithome.com/1/001/387.htm"
             },
             {
-                "title": "清华博士团队切入离子阱量子计算，押注玻璃基QCCD路线，获超亿融资丨36氪首发",
+                "title": "哪吒汽车重整投资方浮出水面：“太乙圣莲”代替山子高科",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577484.htm"
+            },
+            {
+                "title": "AI芯片造富：燧原科技上市暴涨超200% 两位创始人成亿万富翁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577482.htm"
+            },
+            {
+                "title": "硬氪专访丨对话iRobot：扫地机行业到了纠偏时刻",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-11",
-                "url": "https://36kr.com/p/3978313800285187?f=rss"
-            },
-            {
-                "title": "DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-11",
-                "url": "http://www.geekpark.net/news/370157"
-            },
-            {
-                "title": "习近平将赴印度出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FZFFBQXhQX2JqdzB6VW9WZlRCNEkwVTVzbU9TY2lscVltWHFJc3NzTmVsd3lJc3ZHblhKYWM4Zm8yU21OMnBHVXg0NHFLbDRIOUVMX3hOUVhqNXBQZlNqYmlmSDlLUFVoTjFv?oc=5"
+                "url": "https://36kr.com/p/3978780178627332?f=rss"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,6 +154,12 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbTJ5TWNJZ192OEQ3emw0NEZOU2VSODQxakNicVMxWW4zbmR2RWJHMDBKdnhBQW1peUJSSTA2N1l2b20zZXRNVE5aTGl2dVQ5b0dlM2pMUFc4SFlFX3c5TmFZYWRVME5SMGFR?oc=5"
             },
             {
+                "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzUDhYY2NxRlY0MXQ2V2VDT0lna2pJZTd0NlJFWnRPVkZGS0ZlUXF5YUxpdGFTWk9zUWZCOWhQeTcyeV9rc1FIeHp6S2szQW8tcUJCZFNaMXdHVEhoRGVvS1pFUXVMRGpMWUhB?oc=5"
+            },
+            {
                 "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
             },
             {
-                "title": "文艺传递拥军温情 - 军网",
+                "title": "新华社快讯：习近平抵达新德里，出席金砖国家领导人第十八次会晤 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbHAtQjZGRTZvUVhrMXVNMjRHY01qc3N5dFRPWC1TZ3BjNTBsVFg2UGdDNXNzeElNSTdYbDdlLVgxVDYxUzJJVUw2YUFPZTFTWGc?oc=5"
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OYVItTGtYc1FHQ21LTDJhX0FOeGJSZzg1UFFjc3MzTUZlQXZrWnJzYTltU1pEZW5rQnRLOEhOa2QzR3FRR2JEOThESQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-12T02:59:56.268276+00:00"
+    "last_updated": "2026-09-12T10:01:44.009481+00:00"
 }
