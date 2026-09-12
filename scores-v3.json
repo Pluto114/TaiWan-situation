@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "努比亚 NaviX Ultra 手机“蓝境”外观公布，官方称其深邃、纯粹",
+                "title": "打假网红“铁头”敲诈勒索案一审宣判：判处有期徒刑8年",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577528.htm"
+            },
+            {
+                "title": "印度欢迎俄罗斯、伊朗、中国领导人参加金砖峰会",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-11",
+                "url": "https://www.dw.com/zh/%E5%8D%B0%E5%BA%A6%E6%AC%A2%E8%BF%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A/a-79236497"
+            },
+            {
+                "title": "全球首款 AI 智能体手机，努比亚 NaviX Ultra 将搭载 2 亿像素主摄",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/402.htm"
+                "url": "https://www.ithome.com/1/001/459.htm"
             },
             {
-                "title": "全球十大IC设计商第2季营收暴增七成 台湾3厂家入榜(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-11",
-                "url": "https://www.secretchina.com/news/gb/2026/09/11/1104683.html"
-            },
-            {
-                "title": "哪吒汽车重整投资方浮出水面：“太乙圣莲”代替山子高科",
+                "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577484.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577522.htm"
             },
             {
-                "title": "AI芯片造富：燧原科技上市暴涨超200% 两位创始人成亿万富翁",
+                "title": "美国持续追剿全球网络犯罪团伙 Conti勒索软件组织成员获刑四年",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577482.htm"
-            },
-            {
-                "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-11",
-                "url": "https://36kr.com/p/3978756821842688?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577520.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577512.htm"
+            },
+            {
+                "title": "外国造路由器禁令放宽 华硕全系路由器获有条件批准继续在美国销售",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577506.htm"
+            },
+            {
+                "title": "石头 G30S Ultra 体验：41000Pa、75℃ 活水与 8.98cm 机身，年度旗舰答卷",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-11",
+                "url": "https://www.ithome.com/1/001/439.htm"
+            },
             {
                 "title": "Y Combinator CEO 陈嘉兴：别过度关注 AI 末日，应该警惕现实 AI 安全风险",
                 "source": "NewsAPI / Ithome.com",
@@ -56,24 +74,6 @@
                 "url": "https://36kr.com/p/3978711556684805?f=rss"
             },
             {
-                "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-11",
-                "url": "https://36kr.com/p/3978756821842688?f=rss"
-            },
-            {
-                "title": "雷军宣布小米澎程全国交付明天开启，覆盖 75 座城市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/275.htm"
-            },
-            {
-                "title": "半日主力资金抛售电子、有色金属股",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-11",
-                "url": "https://36kr.com/newsflashes/3978468124523528?f=rss"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
             },
             {
-                "title": "新华社快讯：习近平抵达新德里，出席金砖国家领导人第十八次会晤 - 军网",
+                "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OYVItTGtYc1FHQ21LTDJhX0FOeGJSZzg1UFFjc3MzTUZlQXZrWnJzYTltU1pEZW5rQnRLOEhOa2QzR3FRR2JEOThESQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aQ05BMlJ5cEZSRjRlYTZUOGYyNVlCRUxiblVzQjl3SEhsNUdrZURoR0EyazVaUzdVTlpQcXhpZDVHVlJBUENaNEE5UQ?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "努比亚 NaviX Ultra 手机“蓝境”外观公布，官方称其深邃、纯粹",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/402.htm"
-            },
-            {
-                "title": "Y Combinator CEO 陈嘉兴：别过度关注 AI 末日，应该警惕现实 AI 安全风险",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/387.htm"
-            },
-            {
-                "title": "哪吒汽车重整投资方浮出水面：“太乙圣莲”代替山子高科",
+                "title": "打假网红“铁头”敲诈勒索案一审宣判：判处有期徒刑8年",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577484.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577528.htm"
             },
             {
-                "title": "AI芯片造富：燧原科技上市暴涨超200% 两位创始人成亿万富翁",
+                "title": "小米汽车：澎程 N90 Max 探索版搭载的升降顶舱，是目前国内 SUV 唯一的原生电动升降顶舱",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-11",
+                "url": "https://www.ithome.com/1/001/465.htm"
+            },
+            {
+                "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577482.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577522.htm"
             },
             {
-                "title": "硬氪专访丨对话iRobot：扫地机行业到了纠偏时刻",
-                "source": "NewsAPI / 36kr.com",
+                "title": "美交通部长要求福特切断与中企的合作 福特怒斥其是政治作秀",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-11",
-                "url": "https://36kr.com/p/3978780178627332?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577516.htm"
+            },
+            {
+                "title": "外国造路由器禁令放宽 华硕全系路由器获有条件批准继续在美国销售",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577506.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
             },
             {
-                "title": "新华社快讯：习近平抵达新德里，出席金砖国家领导人第十八次会晤 - 军网",
+                "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OYVItTGtYc1FHQ21LTDJhX0FOeGJSZzg1UFFjc3MzTUZlQXZrWnJzYTltU1pEZW5rQnRLOEhOa2QzR3FRR2JEOThESQ?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aQ05BMlJ5cEZSRjRlYTZUOGYyNVlCRUxiblVzQjl3SEhsNUdrZURoR0EyazVaUzdVTlpQcXhpZDVHVlJBUENaNEE5UQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-12T10:01:44.009481+00:00"
+    "last_updated": "2026-09-12T14:56:26.102192+00:00"
 }
