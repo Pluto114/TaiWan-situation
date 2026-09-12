@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "打假网红“铁头”敲诈勒索案一审宣判：判处有期徒刑8年",
+                "title": "英伟达RTX 5090在德国市场遭遇空前涨价狂潮 八个月暴涨73%突破5000欧元大关",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577528.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577546.htm"
             },
             {
-                "title": "印度欢迎俄罗斯、伊朗、中国领导人参加金砖峰会",
-                "source": "NewsAPI / DW (English)",
+                "title": "中芯国际单季营收突破30亿美元 全球晶圆代工市场份额持续扩大",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-11",
-                "url": "https://www.dw.com/zh/%E5%8D%B0%E5%BA%A6%E6%AC%A2%E8%BF%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%82%E5%8A%A0%E9%87%91%E7%A0%96%E5%B3%B0%E4%BC%9A/a-79236497"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577538.htm"
             },
             {
-                "title": "全球首款 AI 智能体手机，努比亚 NaviX Ultra 将搭载 2 亿像素主摄",
+                "title": "引入无方向盘定制座舱 亚马逊Zoox加速在旧金山正面迎战Waymo",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577534.htm"
+            },
+            {
+                "title": "高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/459.htm"
+                "url": "https://www.ithome.com/1/001/474.htm"
             },
             {
-                "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "迄今最高效奥迪车型：奥迪 A2 e-tron 开发时间成功缩短 21 个月",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577522.htm"
-            },
-            {
-                "title": "美国持续追剿全球网络犯罪团伙 Conti勒索软件组织成员获刑四年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577520.htm"
+                "url": "https://www.ithome.com/1/001/468.htm"
             }
         ],
         "mil": [
+            {
+                "title": "习近平拟携大型商团访美 商业订单进入元首外交(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-11",
+                "url": "https://www.secretchina.com/news/gb/2026/09/12/1104706.html"
+            },
             {
                 "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
                 "url": "https://www.ithome.com/1/001/387.htm"
-            },
-            {
-                "title": "不评判好坏，只鼓励创作：这款AI原生游戏，让人人都享受讲故事",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-11",
-                "url": "https://36kr.com/p/3978711556684805?f=rss"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "打假网红“铁头”敲诈勒索案一审宣判：判处有期徒刑8年",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "香港天安门烛光悼念活动三组织者遭重判；美议员：“与香港的政治犯站在一起，并呼吁立即释放他们”",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577528.htm"
+                "url": "https://www.voachinese.com/a/hong-kong-tiananmen-vigil-organizers-sentenced-to-lengthy-prison-20260911/8196994.html"
             },
             {
-                "title": "小米汽车：澎程 N90 Max 探索版搭载的升降顶舱，是目前国内 SUV 唯一的原生电动升降顶舱",
+                "title": "习近平拟携大型商团访美 商业订单进入元首外交(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-11",
+                "url": "https://www.secretchina.com/news/gb/2026/09/12/1104706.html"
+            },
+            {
+                "title": "香港支联会“煽动颠覆”案 三名骨干成员遭判5至7年",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-11",
+                "url": "https://www.voachinese.com/a/hong-kong-court-sentences-tiananmen-activists-5-to-7-years-in-jail-20260911/8196975.html"
+            },
+            {
+                "title": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-11",
+                "url": "https://www.voachinese.com/a/anthropic-alleges-chinese-ai-firms-distilled-claude-s-capabilities-as-china-linked-accounts-used-it-for-overseas-surveillance-20260911/8196927.html"
+            },
+            {
+                "title": "高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/465.htm"
-            },
-            {
-                "title": "SpaceX与神秘客户签下每月11亿美元AI算力订单 年化合同金额超过130亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577522.htm"
-            },
-            {
-                "title": "美交通部长要求福特切断与中企的合作 福特怒斥其是政治作秀",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577516.htm"
-            },
-            {
-                "title": "外国造路由器禁令放宽 华硕全系路由器获有条件批准继续在美国销售",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577506.htm"
+                "url": "https://www.ithome.com/1/001/474.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-12T14:56:26.102192+00:00"
+    "last_updated": "2026-09-12T20:08:51.699368+00:00"
 }
