@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577352.htm"
+                "title": "“国产 GPU 四小龙”之一燧原科技今日科创板上市，股价最高涨超 200%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-11",
+                "url": "https://www.ithome.com/1/001/132.htm"
             },
             {
-                "title": "他通过犯罪小说三部曲，写下了一部“纽约史诗”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110855"
+                "title": "上光所孵化太空光伏企业完成近亿元融资，钧达股份、上海未来产业基金等押注｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/p/3974257096159747?f=rss"
             },
             {
-                "title": "英国新政府与马斯克争夺社交媒体话语权",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110861"
+                "title": "我国稀土、钨、锡等14种矿产储量居世界第一",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/newsflashes/3978366860212996?f=rss"
             },
             {
-                "title": "弗里兹首尔艺博会走过第五年：造势与水温",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110846"
+                "title": "清华博士团队切入离子阱量子计算，押注玻璃基QCCD路线，获超亿融资丨36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/p/3978313800285187?f=rss"
             },
             {
-                "title": "油价涨至每桶105美元 重燃债券抛售",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110857"
+                "title": "三家印度公司被指长期提供有偿黑客服务，美国议员要求将其列入实体清单",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-11",
+                "url": "https://www.ithome.com/1/001/105.htm"
             }
         ],
         "mil": [
             {
-                "title": "OpenAI因Hugging Face安全事件面临美参议院两党联合质询",
+                "title": "Nothing Headphone（1）Pro 头戴式耳机曝光：三单元音频系统，9 月 29 日上市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-11",
+                "url": "https://www.ithome.com/1/001/141.htm"
+            },
+            {
+                "title": "8点1氪丨英伟达被调查；罗永浩连用7个“抄的”吐槽苹果折叠屏；欧洲央行将三大关键利率上调25个基点",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/p/3978247601601280?f=rss"
+            },
+            {
+                "title": "IT早报 0911：雷军称小米未来 5 年投 2000 亿元研发；启境回应媒体群误发小米澎程攻防内容；DeepSeek V4.1 Flash 发布；美的回应洗衣机 19 小时耗 411MB 流量...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-10",
+                "url": "https://www.ithome.com/1/001/082.htm"
+            },
+            {
+                "title": "美国防部高官驳斥AI“末日论” 称担忧源于对变革的恐惧",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577356.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577394.htm"
             },
             {
-                "title": "他通过犯罪小说三部曲，写下了一部“纽约史诗”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110855"
-            },
-            {
-                "title": "Kiran Nadar艺术博物馆创始人：一家文化机构如何面对多极而剧变的世界？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110847"
-            },
-            {
-                "title": "驳斥“运营2.16亿台间谍电视”指控 LG官方声明数据合规并强调用户隐私保护",
+                "title": "挪威研究人员用40分钟“欺骗”直升机GPS 测试显示卫星导航可能被悄悄引向错误位置",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577334.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577390.htm"
             },
             {
-                "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "习近平将赴印度出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-10",
-                "url": "http://www.geekpark.net/news/370150"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FZFFBQXhQX2JqdzB6VW9WZlRCNEkwVTVzbU9TY2lscVltWHFJc3NzTmVsd3lJc3ZHblhKYWM4Zm8yU21OMnBHVXg0NHFLbDRIOUVMX3hOUVhqNXBQZlNqYmlmSDlLUFVoTjFv?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbTJ5TWNJZ192OEQ3emw0NEZOU2VSODQxakNicVMxWW4zbmR2RWJHMDBKdnhBQW1peUJSSTA2N1l2b20zZXRNVE5aTGl2dVQ5b0dlM2pMUFc4SFlFX3c5TmFZYWRVME5SMGFR?oc=5"
             },
             {
-                "title": "驻蒙特利尔总领事戴玉明访问威兰公司总部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
-            },
-            {
-                "title": "您的位置： 政策制度 - 81rc.81.cn",
+                "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
+            },
+            {
+                "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
             },
             {
                 "title": "文艺传递拥军温情 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbHAtQjZGRTZvUVhrMXVNMjRHY01qc3N5dFRPWC1TZ3BjNTBsVFg2UGdDNXNzeElNSTdYbDdlLVgxVDYxUzJJVUw2YUFPZTFTWGc?oc=5"
-            },
-            {
-                "title": "联播+｜“全球南方”第一方阵 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91dElvbks4UjVleVgycDFtRXVnSzlqOElOcmExZzJjRWdSYWstNUJoWWFSZHY2clVieGpCQ29yUDZDb1l5ZFZfdGVGZ0xQdFBheHc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美国德州启动eVTOL空中出租车载人商业化前测试",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577358.htm"
+                "title": "上光所孵化太空光伏企业完成近亿元融资，钧达股份、上海未来产业基金等押注｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/p/3974257096159747?f=rss"
             },
             {
-                "title": "OpenAI因Hugging Face安全事件面临美参议院两党联合质询",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577356.htm"
+                "title": "8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-11",
+                "url": "https://www.ithome.com/1/001/129.htm"
             },
             {
-                "title": "OpenAI向美国政府机构提供模型五折优惠 终止每年1美元试点协议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-10",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577352.htm"
+                "title": "刚果民主共和国东部埃博拉疫情持续蔓延，当地部分居民对疫情应对工作的信任也在下降。在疫情严峻的布滕博市，埃博拉幸存者呼吁政府升级并加强治疗中心的设备和医疗物资，以提高社区对防控措施的信任。在本轮埃博拉疫情中，感染者已超过6600人，其中3200多 - Newswav",
+                "source": "NewsAPI / Newswav.com",
+                "date": "2026-09-11",
+                "url": "https://newswav.com/video/刚果民主共和国东部埃博拉疫情持续蔓延-当地部分居民对疫情应对工作的信任也在下降-在疫情严峻的布滕博市-埃博拉幸存者呼吁政府升级并加强治疗中心的设备和医-V2609_hUWWeO"
             },
             {
-                "title": "他通过犯罪小说三部曲，写下了一部“纽约史诗”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110855"
+                "title": "清华博士团队切入离子阱量子计算，押注玻璃基QCCD路线，获超亿融资丨36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-11",
+                "url": "https://36kr.com/p/3978313800285187?f=rss"
             },
             {
-                "title": "细思极恐的AI自主网络攻击",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-11",
+                "url": "http://www.geekpark.net/news/370157"
+            },
+            {
+                "title": "习近平将赴印度出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-10",
-                "url": "https://www.ftchinese.com/story/001110858"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FZFFBQXhQX2JqdzB6VW9WZlRCNEkwVTVzbU9TY2lscVltWHFJc3NzTmVsd3lJc3ZHblhKYWM4Zm8yU21OMnBHVXg0NHFLbDRIOUVMX3hOUVhqNXBQZlNqYmlmSDlLUFVoTjFv?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbTJ5TWNJZ192OEQ3emw0NEZOU2VSODQxakNicVMxWW4zbmR2RWJHMDBKdnhBQW1peUJSSTA2N1l2b20zZXRNVE5aTGl2dVQ5b0dlM2pMUFc4SFlFX3c5TmFZYWRVME5SMGFR?oc=5"
             },
             {
-                "title": "驻蒙特利尔总领事戴玉明访问威兰公司总部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-09",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1lySjgxbHFzeHE4VU1XUjFES1RXSTlfTk1OYWhXM3V0TUFqem1PdGQ1X2ZOUkgzRGt2SFNvRkJfQmMzekhMNzdLdXFwTUpNRk15ZjNPV3A0Z1I5dDNhcTBIR3oyTTU1T2lqQnJCSWFMN2V4V0JWYW9qRjVKLVEyZzJ5eEY?oc=5"
-            },
-            {
-                "title": "您的位置： 政策制度 - 81rc.81.cn",
+                "title": "您的位置： 政策制度 - 中国人民解放军专业技术人才网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2023-02-07",
                 "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
+            },
+            {
+                "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
             },
             {
                 "title": "文艺传递拥军温情 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-10",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbHAtQjZGRTZvUVhrMXVNMjRHY01qc3N5dFRPWC1TZ3BjNTBsVFg2UGdDNXNzeElNSTdYbDdlLVgxVDYxUzJJVUw2YUFPZTFTWGc?oc=5"
-            },
-            {
-                "title": "联播+｜“全球南方”第一方阵 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91dElvbks4UjVleVgycDFtRXVnSzlqOElOcmExZzJjRWdSYWstNUJoWWFSZHY2clVieGpCQ29yUDZDb1l5ZFZfdGVGZ0xQdFBheHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-11T20:24:08.228979+00:00"
+    "last_updated": "2026-09-12T02:59:56.268276+00:00"
 }
