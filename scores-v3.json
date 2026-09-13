@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-12",
+                "url": "https://www.ithome.com/1/001/653.htm"
+            },
+            {
+                "title": "苹果iPhone 18 Pro与Pro Max今日正式开启全球预购",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577632.htm"
+            },
+            {
+                "title": "外滩大会：AI新人类，登场",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-12",
+                "url": "https://36kr.com/p/3980309439265793?f=rss"
+            },
+            {
                 "title": "英伟达考虑向Anthropic IPO投资100亿美元 超级IPO估值或达2万亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-12",
@@ -22,27 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-12",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1577618.htm"
-            },
-            {
-                "title": "Google选定芬兰实施其在欧史上最大单笔投资 采购一半核电站产出",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577604.htm"
-            },
-            {
-                "title": "改装“差头”变身网约车 司机“背锅”频频吃罚单",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577588.htm"
-            },
-            {
-                "title": "分析人士：中东冲突、热浪和干旱对法国经济造成拖累",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-12",
-                "url": "https://36kr.com/newsflashes/3979978782112514?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "外滩大会：AI新人类，登场",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-12",
+                "url": "https://36kr.com/p/3980309439265793?f=rss"
+            },
             {
                 "title": "VinFast创始人交棒其子 推进业务扩张",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,10 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/09/12/1104714.html"
             },
             {
-                "title": "习近平拟携大型商团访美 商业订单进入元首外交(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-11",
-                "url": "https://www.secretchina.com/news/gb/2026/09/12/1104706.html"
+                "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-13",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSzV1ajJZZE81Z2k5eUlkY080X084NDFTc1NhUkdYcUwwV0FyMkF5SnlyWjh4clhySjhpaktpNTdsMEFhN3huRktVb3FGc3VkQWE4dk9ZOVFvZzN4ZV9PZUlLQkFGeE0xZlI4?oc=5"
             },
             {
                 "title": "习近平会见印度总理莫迪 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-13",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
-            },
-            {
-                "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NYWU1Y0ZjaGVQSkIzbnRZUHBnSVhSQktDWFFOX1JUam1JVzRONlVuVEtLMjNocGQ4NFlmazM4NTRFRmdRdTlEaDZLOVBKMC1hRDV4TFFCRExTTXNsZ0RvSG5kRzdFUlBSanhZ?oc=5"
             },
             {
                 "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "大规模建数据中心带来现金压力，甲骨文将再花 7 亿美元用于裁员",
+                "title": "AI 时代的「4399」，可把我玩嗨了｜AI 上新",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-12",
+                "url": "http://www.geekpark.net/news/370227"
+            },
+            {
+                "title": "苹果iPhone 18 Pro与Pro Max今日正式开启全球预购",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577632.htm"
+            },
+            {
+                "title": "创维数字：与谷歌签署智能家居合作协议，首批产品覆盖欧洲 14 国",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-12",
-                "url": "https://www.ithome.com/1/001/603.htm"
+                "url": "https://www.ithome.com/1/001/636.htm"
             },
             {
-                "title": "改装“差头”变身网约车 司机“背锅”频频吃罚单",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "航天员出舱时空间站如何稳姿？官方详解 CMG 与喷气控制",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577588.htm"
+                "url": "https://www.ithome.com/1/001/627.htm"
             },
             {
-                "title": "iPhone Duo预售订单大幅溢价成交 预约购买者已近百万",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "外滩大会：AI新人类，登场",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577578.htm"
+                "url": "https://36kr.com/p/3980309439265793?f=rss"
             },
             {
-                "title": "黄牛围猎iPhone Duo：代抢、线下“接头”、囤货",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577570.htm"
-            },
-            {
-                "title": "京东旗下达达支付50万美元和解SEC指控 此前被指虚增营收",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577566.htm"
+                "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文） - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-13",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSzV1ajJZZE81Z2k5eUlkY080X084NDFTc1NhUkdYcUwwV0FyMkF5SnlyWjh4clhySjhpaktpNTdsMEFhN3huRktVb3FGc3VkQWE4dk9ZOVFvZzN4ZV9PZUlLQkFGeE0xZlI4?oc=5"
             },
             {
                 "title": "习近平会见印度总理莫迪 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-13",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
-            },
-            {
-                "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NYWU1Y0ZjaGVQSkIzbnRZUHBnSVhSQktDWFFOX1JUam1JVzRONlVuVEtLMjNocGQ4NFlmazM4NTRFRmdRdTlEaDZLOVBKMC1hRDV4TFFCRExTTXNsZ0RvSG5kRzdFUlBSanhZ?oc=5"
             },
             {
                 "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-13T11:02:24.162640+00:00"
+    "last_updated": "2026-09-13T15:33:47.182862+00:00"
 }
