@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "情感智能珠宝硬件公司完成天使轮融资，荣耀AI Connect生态企业等押注｜硬氪首发",
+                "title": "英伟达考虑向Anthropic IPO投资100亿美元 超级IPO估值或达2万亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577624.htm"
+            },
+            {
+                "title": "中国厂商改造RTX 5090：显存扩至96GB 售价3888美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577618.htm"
+            },
+            {
+                "title": "Google选定芬兰实施其在欧史上最大单笔投资 采购一半核电站产出",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577604.htm"
+            },
+            {
+                "title": "改装“差头”变身网约车 司机“背锅”频频吃罚单",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577588.htm"
+            },
+            {
+                "title": "分析人士：中东冲突、热浪和干旱对法国经济造成拖累",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-12",
-                "url": "https://36kr.com/p/3977590035119112?f=rss"
-            },
-            {
-                "title": "摩米士推出 2026 新国标磁吸移动电源：5000mAh 电芯、至高 15W 无线输出，298 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-12",
-                "url": "https://www.ithome.com/1/001/518.htm"
-            },
-            {
-                "title": "中国贸促会副会长李庆霜率中国企业家代表团赴印度出席金砖国家工商论坛",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-12",
-                "url": "https://36kr.com/newsflashes/3979748315282184?f=rss"
-            },
-            {
-                "title": "9点1氪丨房贷延长到40年但申请人不能超过35岁？机构回应；长鑫利润率反超三星SK海力士；戴尔市值一夜飙升2500亿元，创历史新高",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-12",
-                "url": "https://36kr.com/p/3979727038004226?f=rss"
-            },
-            {
-                "title": "福特被指“过度依赖中国”遭美国政府施压，CEO 回应称“误解、谎言”并向肯塔基州增加 10 亿美元投资",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-12",
-                "url": "https://www.ithome.com/1/001/504.htm"
+                "url": "https://36kr.com/newsflashes/3979978782112514?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "VinFast创始人交棒其子 推进业务扩张",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577558.htm"
+            },
+            {
+                "title": "苹果秋季发布会有多款常规更新的新品亮相，重点是折叠屏 iPhone 终于来了",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-12",
+                "url": "https://www.toodaylab.com/84202"
+            },
             {
                 "title": "偷用美国AI翻车 中共军方资料外泄还拿AI模拟压制台湾(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -62,40 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/09/12/1104706.html"
             },
             {
-                "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577512.htm"
-            },
-            {
-                "title": "外国造路由器禁令放宽 华硕全系路由器获有条件批准继续在美国销售",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577506.htm"
-            },
-            {
                 "title": "习近平会见印度总理莫迪 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-12",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYjdZcE5CV3pUWlRzaWcyc1ZtM1llOHZrMmwyTGVTOXkyYUV6aG45ajRLVmlPME8yRDJJb3VncXptaDlhLVI5MUxaZWxGOF96VXRlZHdlaEdZT2Z1OGJjeUVjaDlOVm1Xekx3?oc=5"
             },
             {
+                "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-13",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
+            },
+            {
                 "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-12",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NYWU1Y0ZjaGVQSkIzbnRZUHBnSVhSQktDWFFOX1JUam1JVzRONlVuVEtLMjNocGQ4NFlmazM4NTRFRmdRdTlEaDZLOVBKMC1hRDV4TFFCRExTTXNsZ0RvSG5kRzdFUlBSanhZ?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "您的位置： 政策制度 - 81rc.81.cn",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
             },
             {
                 "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aQ05BMlJ5cEZSRjRlYTZUOGYyNVlCRUxiblVzQjl3SEhsNUdrZURoR0EyazVaUzdVTlpQcXhpZDVHVlJBUENaNEE5UQ?oc=5"
+            },
+            {
+                "title": "感悟王戟“生命不息、冲锋不止”的精神 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQWU1MVI0TzIwWGp0S2hrZUJFTUhabFpfblR3TVhfcmRqYlVRU2tLY1ZDa05TWmJOaHotSjdMQnlzSGxpR0ZaN1A3amF2NktYd0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "情感智能珠宝硬件公司完成天使轮融资，荣耀AI Connect生态企业等押注｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-12",
-                "url": "https://36kr.com/p/3977590035119112?f=rss"
-            },
-            {
-                "title": "9点1氪丨房贷延长到40年但申请人不能超过35岁？机构回应；长鑫利润率反超三星SK海力士；戴尔市值一夜飙升2500亿元，创历史新高",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-12",
-                "url": "https://36kr.com/p/3979727038004226?f=rss"
-            },
-            {
-                "title": "福特被指“过度依赖中国”遭美国政府施压，CEO 回应称“误解、谎言”并向肯塔基州增加 10 亿美元投资",
+                "title": "大规模建数据中心带来现金压力，甲骨文将再花 7 亿美元用于裁员",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-12",
-                "url": "https://www.ithome.com/1/001/504.htm"
+                "url": "https://www.ithome.com/1/001/603.htm"
             },
             {
-                "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-11",
-                "url": "https://www.ithome.com/1/001/495.htm"
-            },
-            {
-                "title": "传台积电计划到2028年将CoWoS先进封装产能再翻倍",
+                "title": "改装“差头”变身网约车 司机“背锅”频频吃罚单",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577548.htm"
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577588.htm"
+            },
+            {
+                "title": "iPhone Duo预售订单大幅溢价成交 预约购买者已近百万",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577578.htm"
+            },
+            {
+                "title": "黄牛围猎iPhone Duo：代抢、线下“接头”、囤货",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577570.htm"
+            },
+            {
+                "title": "京东旗下达达支付50万美元和解SEC指控 此前被指虚增营收",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577566.htm"
             },
             {
                 "title": "习近平会见印度总理莫迪 - mfa.gov.cn",
@@ -148,22 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYjdZcE5CV3pUWlRzaWcyc1ZtM1llOHZrMmwyTGVTOXkyYUV6aG45ajRLVmlPME8yRDJJb3VncXptaDlhLVI5MUxaZWxGOF96VXRlZHdlaEdZT2Z1OGJjeUVjaDlOVm1Xekx3?oc=5"
             },
             {
+                "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-13",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
+            },
+            {
                 "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-12",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NYWU1Y0ZjaGVQSkIzbnRZUHBnSVhSQktDWFFOX1JUam1JVzRONlVuVEtLMjNocGQ4NFlmazM4NTRFRmdRdTlEaDZLOVBKMC1hRDV4TFFCRExTTXNsZ0RvSG5kRzdFUlBSanhZ?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
-                "title": "您的位置： 政策制度 - 81rc.81.cn",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-07",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRl9EYlo2R01LM2tZV2xVMGpLamRwbGZkcGJIV0dyT1R1eG5tcTRxcDgwLUVVejZpa01LWlFqMmhrSTZ3STdOdldZQUVSYlJzSUhTN3d3?oc=5"
             },
             {
                 "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aQ05BMlJ5cEZSRjRlYTZUOGYyNVlCRUxiblVzQjl3SEhsNUdrZURoR0EyazVaUzdVTlpQcXhpZDVHVlJBUENaNEE5UQ?oc=5"
+            },
+            {
+                "title": "感悟王戟“生命不息、冲锋不止”的精神 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQWU1MVI0TzIwWGp0S2hrZUJFTUhabFpfblR3TVhfcmRqYlVRU2tLY1ZDa05TWmJOaHotSjdMQnlzSGxpR0ZaN1A3amF2NktYd0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-13T03:00:22.978111+00:00"
+    "last_updated": "2026-09-13T11:02:24.162640+00:00"
 }
