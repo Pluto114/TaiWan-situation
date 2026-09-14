@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "金砖国家峰会对中东局势和未经联合国授权的制裁表达关切，莫迪强调不会抗衡西方",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-12",
-                "url": "https://www.voachinese.com/a/bricks-summit-in-india-voices-concern-over-tension-in-mideast-20260912/8197350.html"
+                "title": "中国电信总经理刘桂清：深化算电协同，加强算力与电力产业在规划、建设、运营方面深度融合",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-13",
+                "url": "https://36kr.com/newsflashes/3981202338495241?f=rss"
             },
             {
-                "title": "欧洲正在衰落吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-12",
-                "url": "https://www.ftchinese.com/story/001110856"
+                "title": "获达晨财智、元禾璞华数千万投资，这家物理AI企业自研WMM世界机理模型丨36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-13",
+                "url": "https://36kr.com/p/3981147673345033?f=rss"
             },
             {
-                "title": "美国的霸凌，正把拉丁美洲推向中国能源产业？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-12",
-                "url": "https://www.ftchinese.com/story/001110866"
+                "title": "OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-13",
+                "url": "http://www.geekpark.net/news/370228"
             },
             {
-                "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+                "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-12",
-                "url": "https://www.ithome.com/1/001/653.htm"
+                "url": "https://www.ithome.com/1/001/688.htm"
             },
             {
-                "title": "苹果iPhone 18 Pro与Pro Max今日正式开启全球预购",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "消息称比亚迪再订购 10 艘 LNG 动力汽车运输船，扩张海外出口运力",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577632.htm"
+                "url": "https://www.ithome.com/1/001/679.htm"
             }
         ],
         "mil": [
+            {
+                "title": "获达晨财智、元禾璞华数千万投资，这家物理AI企业自研WMM世界机理模型丨36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-13",
+                "url": "https://36kr.com/p/3981147673345033?f=rss"
+            },
+            {
+                "title": "今日消费资讯：2026 年星巴克中国咖啡公使诞生、蒂尔达·斯文顿出任卡地亚品牌大使",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-13",
+                "url": "https://www.toodaylab.com/84203"
+            },
+            {
+                "title": "OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-13",
+                "url": "http://www.geekpark.net/news/370228"
+            },
+            {
+                "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-12",
+                "url": "https://www.ithome.com/1/001/688.htm"
+            },
             {
                 "title": "30+ 小时内容：暴雪《魔兽争霸 3》游戏时隔 20 多年首次推出官方新战役",
                 "source": "NewsAPI / Ithome.com",
@@ -50,30 +74,6 @@
                 "url": "https://www.ithome.com/1/001/665.htm"
             },
             {
-                "title": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577648.htm"
-            },
-            {
-                "title": "欧洲正在衰落吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-12",
-                "url": "https://www.ftchinese.com/story/001110856"
-            },
-            {
-                "title": "美国的霸凌，正把拉丁美洲推向中国能源产业？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-12",
-                "url": "https://www.ftchinese.com/story/001110866"
-            },
-            {
-                "title": "外滩大会：AI新人类，登场",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-12",
-                "url": "https://36kr.com/p/3980309439265793?f=rss"
-            },
-            {
                 "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-13",
@@ -92,12 +92,6 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
             },
             {
-                "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
-            },
-            {
                 "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQWU1MVI0TzIwWGp0S2hrZUJFTUhabFpfblR3TVhfcmRqYlVRU2tLY1ZDa05TWmJOaHotSjdMQnlzSGxpR0ZaN1A3amF2NktYd0E?oc=5"
+            },
+            {
+                "title": "习近平将赴印度出席金砖国家领导人第十八次会晤- 解放军报 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2RaNVNrcnZOaHFoNGVQSExOeUd5cHBsRE92eERJLXpCTHhvb0d5UzZXdGs0QmVsbmxXWkNDdVE0S2ctX1VCc29pdUVuWExCZVRHU19rX3d5ODgySkRHRGxzeFM1allYT2hhZHJDcUo4dWNVNm00d1laWkRld19ma1J4QXBHdnFSekgyTTNBV2RkdnlaTm53RGRfaFBvWmZRVm05UlBMeXNXdDdFT3dOUEl3?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "刚果当局确认埃博拉病例超过7,000例，疫情已扩散至第七个省份 - Informat.ro",
-                "source": "NewsAPI / Informat.ro",
-                "date": "2026-09-12",
-                "url": "https://informat.ro/zh/international-zh/congo-ebola-epidemic-democratic-republic-public-health-138508-zh"
+                "title": "赛博朋克之旅：VRChat 第三方地图《Uncanny Alley》获 2026 年度艾美奖“杰出新兴媒体节目”",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-13",
+                "url": "https://www.ithome.com/1/001/706.htm"
             },
             {
-                "title": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577648.htm"
+                "title": "今日消费资讯：2026 年星巴克中国咖啡公使诞生、蒂尔达·斯文顿出任卡地亚品牌大使",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-13",
+                "url": "https://www.toodaylab.com/84203"
             },
             {
-                "title": "欧洲正在衰落吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-12",
-                "url": "https://www.ftchinese.com/story/001110856"
-            },
-            {
-                "title": "美国的霸凌，正把拉丁美洲推向中国能源产业？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-12",
-                "url": "https://www.ftchinese.com/story/001110866"
-            },
-            {
-                "title": "AI 时代的「4399」，可把我玩嗨了｜AI 上新",
+                "title": "OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
                 "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-13",
+                "url": "http://www.geekpark.net/news/370228"
+            },
+            {
+                "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-12",
-                "url": "http://www.geekpark.net/news/370227"
+                "url": "https://www.ithome.com/1/001/688.htm"
+            },
+            {
+                "title": "尘封 14 年：《堡垒之夜》2012 年美国圣迭戈动漫展早期游戏实机画面重新曝光",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-12",
+                "url": "https://www.ithome.com/1/001/687.htm"
             },
             {
                 "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文） - mfa.gov.cn",
@@ -160,12 +160,6 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
             },
             {
-                "title": "跨越了心中那座山，所有的坚持都有了答案 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hcGE5OG9lZmg5MDhGdnBNTmdob0FtUnlUQjZsX3lxekE2V0l6QkcxUWFYbUdzOE5mb3JKbFJBVURHWmd5N0dwSXV5ZDBiSC1SMUE?oc=5"
-            },
-            {
                 "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-12",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQWU1MVI0TzIwWGp0S2hrZUJFTUhabFpfblR3TVhfcmRqYlVRU2tLY1ZDa05TWmJOaHotSjdMQnlzSGxpR0ZaN1A3amF2NktYd0E?oc=5"
+            },
+            {
+                "title": "习近平将赴印度出席金砖国家领导人第十八次会晤- 解放军报 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-12",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2RaNVNrcnZOaHFoNGVQSExOeUd5cHBsRE92eERJLXpCTHhvb0d5UzZXdGs0QmVsbmxXWkNDdVE0S2ctX1VCc29pdUVuWExCZVRHU19rX3d5ODgySkRHRGxzeFM1allYT2hhZHJDcUo4dWNVNm00d1laWkRld19ma1J4QXBHdnFSekgyTTNBV2RkdnlaTm53RGRfaFBvWmZRVm05UlBMeXNXdDdFT3dOUEl3?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-13T20:15:56.130284+00:00"
+    "last_updated": "2026-09-14T03:14:24.938717+00:00"
 }
