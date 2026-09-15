@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
+                "title": "苹果正式发布iOS 27：Siri迎来重大AI升级 性能提升并新增多项智能功能",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577954.htm"
+            },
+            {
+                "title": "台积电加速扩充2纳米产能：2027年中月产能目标11万片 增速明显超过3纳米时期",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577948.htm"
+            },
+            {
+                "title": "Cohere CEO：AI模型正成为有史以来“最强大的网络武器”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577926.htm"
+            },
+            {
+                "title": "加拿大总理卡尼呼吁设立全球性技术稳定委员会以加强AI安全防护",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577924.htm"
+            },
+            {
                 "title": "如何看待德国经济连续三季度微增？",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-14",
                 "url": "https://www.ftchinese.com/story/001110883"
-            },
-            {
-                "title": "贝森特的傲慢",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-14",
-                "url": "https://www.ftchinese.com/story/001110852"
-            },
-            {
-                "title": "美国投4.5亿美元 强化本土钨供应链(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-14",
-                "url": "https://www.secretchina.com/news/gb/2026/09/14/1104820.html"
-            },
-            {
-                "title": "小米澎程 N90 Max 探索版展车已进入全国 108 个城市的门店",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/303.htm"
-            },
-            {
-                "title": "小马智行发布第四代自动驾驶重卡 Robotruck，将于年内规模量产",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/291.htm"
             }
         ],
         "mil": [
+            {
+                "title": "Cohere CEO：AI模型正成为有史以来“最强大的网络武器”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577926.htm"
+            },
             {
                 "title": "贝森特的傲慢",
                 "source": "NewsAPI / Ftchinese.com",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/3982887655160834?f=rss"
             },
             {
-                "title": "上汽以后只卖AUDI？奥迪的豪门内战终于消停了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577800.htm"
-            },
-            {
                 "title": "2026年9月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-14",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OSmRBeFFYam1sdlhsLVNrLXN0Q0hYY010aWlQQzRMbmhnM2VDUDdXcXA3Q3RYQVZ6R2hXUlN6bWZkdzc3Y2NxeFpvMnc3NnplSDJlRWJZSGc?oc=5"
             },
             {
-                "title": "共同书写全球南方团结自强新篇章——习近平主席倡导推进“大金砖合作”广受赞誉 - 国防部网",
+                "title": "2026年9月15日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SU5mMHF5cWUtRFpteWJYdWNKTHlrUlhYY3Z1aG83SVlmcTloWTc4R2tjeGxpQXF2TjJBUkR3ak1zcjAzTlBYY0UxQkVZQ0pORVA3WkNTSWdmWXVQaEduajdnZUdRdw?oc=5"
+                "date": "2026-09-15",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VanpEUXg0RGxzWWlxZjVWN2V0ZklVUGhPM2RmSTdjRGVpR2x0NmE0Wmt6elJTZlpYaXNkUExHdHdPRGRrb3pVZE5XYnlsYWZzY2ZzWldZY0xxR2w3ZVJTcXlxZGxyQTJfTDR2R2syMEpQSjJkWmc?oc=5"
             },
             {
                 "title": "聚焦“新基建”夯实作战支撑 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "如何看待德国经济连续三季度微增？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-14",
-                "url": "https://www.ftchinese.com/story/001110883"
-            },
-            {
-                "title": "贝森特的傲慢",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-14",
-                "url": "https://www.ftchinese.com/story/001110852"
-            },
-            {
-                "title": "初秋在成都麓湖 CPI，和 BIRKENSTOCK 一起“自然行走”",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-09-14",
-                "url": "https://www.toodaylab.com/84206"
-            },
-            {
-                "title": "德国数字部：停止AI发展对欧洲不可行 有效监管需中美参与",
+                "title": "苹果正式发布iOS 27：Siri迎来重大AI升级 性能提升并新增多项智能功能",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577912.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577954.htm"
             },
             {
-                "title": "宏碁推出彩色电子纸显示器EP130K 60Hz刷新率打破传统局限",
+                "title": "“戴帽子的猫”恶作剧蔓延南加州 警方警告勿跟风(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-14",
+                "url": "https://www.secretchina.com/news/gb/2026/09/15/1104827.html"
+            },
+            {
+                "title": "OpenAI罕见支持英国出台强制性AI监管法案 呼吁趁“政治窗口期”尽快立法",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577908.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577946.htm"
+            },
+            {
+                "title": "Waymo无人驾驶出租车服务正式落地拉斯维加斯",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577938.htm"
+            },
+            {
+                "title": "Cohere CEO：AI模型正成为有史以来“最强大的网络武器”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577926.htm"
             },
             {
                 "title": "2026年9月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OSmRBeFFYam1sdlhsLVNrLXN0Q0hYY010aWlQQzRMbmhnM2VDUDdXcXA3Q3RYQVZ6R2hXUlN6bWZkdzc3Y2NxeFpvMnc3NnplSDJlRWJZSGc?oc=5"
             },
             {
-                "title": "共同书写全球南方团结自强新篇章——习近平主席倡导推进“大金砖合作”广受赞誉 - 国防部网",
+                "title": "2026年9月15日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SU5mMHF5cWUtRFpteWJYdWNKTHlrUlhYY3Z1aG83SVlmcTloWTc4R2tjeGxpQXF2TjJBUkR3ak1zcjAzTlBYY0UxQkVZQ0pORVA3WkNTSWdmWXVQaEduajdnZUdRdw?oc=5"
+                "date": "2026-09-15",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VanpEUXg0RGxzWWlxZjVWN2V0ZklVUGhPM2RmSTdjRGVpR2x0NmE0Wmt6elJTZlpYaXNkUExHdHdPRGRrb3pVZE5XYnlsYWZzY2ZzWldZY0xxR2w3ZVJTcXlxZGxyQTJfTDR2R2syMEpQSjJkWmc?oc=5"
             },
             {
                 "title": "聚焦“新基建”夯实作战支撑 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-15T16:10:44.005067+00:00"
+    "last_updated": "2026-09-15T20:50:09.901699+00:00"
 }
