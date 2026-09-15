@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-13",
-                "url": "http://www.geekpark.net/news/370231"
+                "title": "华为智能门锁 2 Pro 悦享版开启预约：搭 AI 3D 人脸识别 3.0 技术，配备应急备用供电系统，2699 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-14",
+                "url": "https://www.ithome.com/1/001/977.htm"
             },
             {
-                "title": "Anthropic敲定纳斯达克上市计划",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577762.htm"
+                "title": "2026深度测评出五款最稳定手机电脑梯 子-科学机 场SSR、Clash节点购买订阅魔法工具推荐",
+                "source": "NewsAPI / Cnodejs.org",
+                "date": "2026-09-14",
+                "url": "https://cnodejs.org/topic/49312"
             },
             {
-                "title": "英国利兹爆发反数据中心抗议活动 微软AI基础设施计划遭遇环保质疑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577756.htm"
+                "title": "自研全球首个全栈式低温测控平台，这家量子上游企业获数千万天使轮融资丨36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-14",
+                "url": "https://36kr.com/p/3982562541894656?f=rss"
             },
             {
-                "title": "一周世界舆论聚焦：韩国不会出兵霍尔木兹海峡",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-13",
-                "url": "https://www.ftchinese.com/story/001110875"
+                "title": "8点1氪丨创始人及员工被恶意造谣，月之暗面：已报案；25位菲尔兹奖得主就AI侵入数学联合发出警告；智谱宣布融资50亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-14",
+                "url": "https://36kr.com/p/3982504266349314?f=rss"
             },
             {
-                "title": "逃不开的经济周期：从物质扩张到反向稀缺，富足的尺度已经改变",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-13",
-                "url": "https://www.ftchinese.com/story/001110874"
+                "title": "智谱约50亿美元融资落定，加码下一代GLM基础模型、完全自训练及算力基建",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-14",
+                "url": "https://36kr.com/newsflashes/3982505295624967?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨创始人及员工被恶意造谣，月之暗面：已报案；25位菲尔兹奖得主就AI侵入数学联合发出警告；智谱宣布融资50亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-14",
+                "url": "https://36kr.com/p/3982504266349314?f=rss"
+            },
+            {
+                "title": "IT早报 0914：马斯克、奥尔特曼响应 Anthropic 呼吁放缓前沿 AI 开发；华为麒麟 9050 Pro 能效实测出炉；智谱官宣 50 亿美元融资；小米 SU7L 谍照再曝...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-14",
+                "url": "https://www.ithome.com/1/001/899.htm"
+            },
+            {
+                "title": "Anthropic掌门人称“中国因素”是放缓AI竞赛的最大难题",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-13",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577766.htm"
+            },
             {
                 "title": "一周世界舆论聚焦：韩国不会出兵霍尔木兹海峡",
                 "source": "NewsAPI / Ftchinese.com",
@@ -56,22 +74,10 @@
                 "url": "https://chinadigitaltimes.net/chinese/731693.html"
             },
             {
-                "title": "为了多插广告，低价手机有多丧心病狂？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577696.htm"
-            },
-            {
-                "title": "首都禁飞区将于9月20日启用 北京全市禁飞无人机且不得持有、存放、运输、携带",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577670.htm"
-            },
-            {
-                "title": "小米澎程迎来上海首批车主，雷军亲自为 30 位车主及家人交付新车",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-13",
-                "url": "https://www.ithome.com/1/001/743.htm"
+                "title": "2026年9月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSTNLdlEtekU3UEhCMUtVaVZ2clV5Z2dTV1NyaTg4a2ZNdndmTnRkRVlfd2I0TDJwck1CMjNQVGl6blE2R2lCYi0xUUF6Z0IzejZNaWVkQWtBaVZfdVg2VGM5ajlXLTZ3MURQOHB4RG1jSVVpSFE?oc=5"
             },
             {
                 "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文） - mfa.gov.cn",
@@ -80,22 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSzV1ajJZZE81Z2k5eUlkY080X084NDFTc1NhUkdYcUwwV0FyMkF5SnlyWjh4clhySjhpaktpNTdsMEFhN3huRktVb3FGc3VkQWE4dk9ZOVFvZzN4ZV9PZUlLQkFGeE0xZlI4?oc=5"
             },
             {
-                "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京 - mfa.gov.cn",
+                "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwUlljbHRic1V4eG1id1lzckdWWjYzcFJ0WmRyT0pnMEROYkRwTUk5M1pNMDNWV2UwVW1OdWpQdmhUQ1Zoa2lVVFl0clZSSTJDcFEtTHFVakZmSUxHM3lfYkxJNkxlemQ0Zm9V?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
             },
             {
-                "title": "习近平圆满结束出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peGk3ZElJVHRxTEZUM2ZNeXJtOEw1WS1FcFFaQ09OczUwOFJNMkhRTVA2S2E5R3FkVTBrQl9JQjByODRKc055QVVJcURILWhjaVlYcGVpZDVqS29MdlhrNzlhOEZNbmstTFRZ?oc=5"
-            },
-            {
-                "title": "感悟王戟“生命不息、冲锋不止”的精神 - 军网",
+                "title": "聚焦“新基建”夯实作战支撑 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQWU1MVI0TzIwWGp0S2hrZUJFTUhabFpfblR3TVhfcmRqYlVRU2tLY1ZDa05TWmJOaHotSjdMQnlzSGxpR0ZaN1A3amF2NktYd0E?oc=5"
+                "date": "2026-09-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53Ylp6TlZhbnl1WEtPYjFKX0k4NUZzQjQ2S2tCRWg1Y2hveEl0cGlIdUoxMHhWTUZnZVhTUHl0aEtrN3R4YmZ3cFZCY0NOQXJYekE?oc=5"
             },
             {
                 "title": "“同心同行·强国有我”港澳青年进军营活动将在广州举行- 八一视频 - 八一视频",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "英国前首相鲍里斯·约翰逊在乌克兰火车上险遭俄罗斯无人机暗算",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-13",
-                "url": "https://www.voachinese.com/a/russia-hits-ukrainian-train-shortly-after-boris-johnson-and-top-european-officials-leave-station-20260913/8197625.html"
+                "title": "2026深度测评出五款最稳定手机电脑梯 子-科学机 场SSR、Clash节点购买订阅魔法工具推荐",
+                "source": "NewsAPI / Cnodejs.org",
+                "date": "2026-09-14",
+                "url": "https://cnodejs.org/topic/49312"
             },
             {
-                "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-13",
-                "url": "http://www.geekpark.net/news/370231"
+                "title": "亚马逊官网泄露 PS5 版《索尼克赛车：交叉世界》1 周年版实体游戏详细信息：11 月 3 日发售，54.99 欧元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-14",
+                "url": "https://www.ithome.com/1/001/930.htm"
             },
             {
-                "title": "Anthropic敲定纳斯达克上市计划",
+                "title": "8点1氪丨创始人及员工被恶意造谣，月之暗面：已报案；25位菲尔兹奖得主就AI侵入数学联合发出警告；智谱宣布融资50亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-14",
+                "url": "https://36kr.com/p/3982504266349314?f=rss"
+            },
+            {
+                "title": "IT早报 0914：马斯克、奥尔特曼响应 Anthropic 呼吁放缓前沿 AI 开发；华为麒麟 9050 Pro 能效实测出炉；智谱官宣 50 亿美元融资；小米 SU7L 谍照再曝...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-14",
+                "url": "https://www.ithome.com/1/001/899.htm"
+            },
+            {
+                "title": "Anthropic掌门人称“中国因素”是放缓AI竞赛的最大难题",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577762.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577766.htm"
             },
             {
-                "title": "英国利兹爆发反数据中心抗议活动 微软AI基础设施计划遭遇环保质疑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577756.htm"
-            },
-            {
-                "title": "一周世界舆论聚焦：韩国不会出兵霍尔木兹海峡",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-13",
-                "url": "https://www.ftchinese.com/story/001110875"
+                "title": "2026年9月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-14",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSTNLdlEtekU3UEhCMUtVaVZ2clV5Z2dTV1NyaTg4a2ZNdndmTnRkRVlfd2I0TDJwck1CMjNQVGl6blE2R2lCYi0xUUF6Z0IzejZNaWVkQWtBaVZfdVg2VGM5ajlXLTZ3MURQOHB4RG1jSVVpSFE?oc=5"
             },
             {
                 "title": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文） - mfa.gov.cn",
@@ -148,22 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSzV1ajJZZE81Z2k5eUlkY080X084NDFTc1NhUkdYcUwwV0FyMkF5SnlyWjh4clhySjhpaktpNTdsMEFhN3huRktVb3FGc3VkQWE4dk9ZOVFvZzN4ZV9PZUlLQkFGeE0xZlI4?oc=5"
             },
             {
-                "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京 - mfa.gov.cn",
+                "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwUlljbHRic1V4eG1id1lzckdWWjYzcFJ0WmRyT0pnMEROYkRwTUk5M1pNMDNWV2UwVW1OdWpQdmhUQ1Zoa2lVVFl0clZSSTJDcFEtTHFVakZmSUxHM3lfYkxJNkxlemQ0Zm9V?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Tk5xOG5jQ2VBR253X1dJbFRoa2ZsWGgxVkVNTWdpWm5DRE5udUJYOVlQN3Z6TWlaaVZ1VTYxTUU2SHc4RmxSbk5Oa0tmQ2VWUTJBUlV5ZlRzZGRnQ2p6R0NOTURZU1FTX21Z?oc=5"
             },
             {
-                "title": "习近平圆满结束出席金砖国家领导人第十八次会晤 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peGk3ZElJVHRxTEZUM2ZNeXJtOEw1WS1FcFFaQ09OczUwOFJNMkhRTVA2S2E5R3FkVTBrQl9JQjByODRKc055QVVJcURILWhjaVlYcGVpZDVqS29MdlhrNzlhOEZNbmstTFRZ?oc=5"
-            },
-            {
-                "title": "感悟王戟“生命不息、冲锋不止”的精神 - 军网",
+                "title": "聚焦“新基建”夯实作战支撑 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQWU1MVI0TzIwWGp0S2hrZUJFTUhabFpfblR3TVhfcmRqYlVRU2tLY1ZDa05TWmJOaHotSjdMQnlzSGxpR0ZaN1A3amF2NktYd0E?oc=5"
+                "date": "2026-09-14",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53Ylp6TlZhbnl1WEtPYjFKX0k4NUZzQjQ2S2tCRWg1Y2hveEl0cGlIdUoxMHhWTUZnZVhTUHl0aEtrN3R4YmZ3cFZCY0NOQXJYekE?oc=5"
             },
             {
                 "title": "“同心同行·强国有我”港澳青年进军营活动将在广州举行- 八一视频 - 八一视频",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-14T21:25:32.605854+00:00"
+    "last_updated": "2026-09-15T03:16:27.433506+00:00"
 }
