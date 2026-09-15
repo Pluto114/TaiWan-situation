@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Amundi买入两年期美债，对冲经济增长放缓风险",
-                "source": "NewsAPI / 36kr.com",
+                "title": "如何看待德国经济连续三季度微增？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-14",
-                "url": "https://36kr.com/newsflashes/3983112025602819?f=rss"
+                "url": "https://www.ftchinese.com/story/001110883"
             },
             {
-                "title": "OpenAI 联合创始人布罗克曼：仅前沿 AI 大模型研发需放缓",
+                "title": "贝森特的傲慢",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-14",
+                "url": "https://www.ftchinese.com/story/001110852"
+            },
+            {
+                "title": "美国投4.5亿美元 强化本土钨供应链(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-14",
+                "url": "https://www.secretchina.com/news/gb/2026/09/14/1104820.html"
+            },
+            {
+                "title": "小米澎程 N90 Max 探索版展车已进入全国 108 个城市的门店",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/229.htm"
+                "url": "https://www.ithome.com/1/002/303.htm"
             },
             {
-                "title": "各大科技公司CEO联合呼吁放缓AI发展 AI板块应声下挫",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1577874.htm"
-            },
-            {
-                "title": "OpenAI总裁布罗克曼：AI“减速”应聚焦前沿模型",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-14",
-                "url": "https://36kr.com/newsflashes/3983045719489545?f=rss"
-            },
-            {
-                "title": "多家美国顶尖 AI 企业 CEO 呼吁放缓技术发展，全球 AI 概念股集体下挫",
+                "title": "小马智行发布第四代自动驾驶重卡 Robotruck，将于年内规模量产",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/224.htm"
+                "url": "https://www.ithome.com/1/002/291.htm"
             }
         ],
         "mil": [
+            {
+                "title": "贝森特的傲慢",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-14",
+                "url": "https://www.ftchinese.com/story/001110852"
+            },
+            {
+                "title": "德国军事反情报局：破坏活动显著增加",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-14",
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%8F%8D%E6%83%85%E6%8A%A5%E5%B1%80%E7%A0%B4%E5%9D%8F%E6%B4%BB%E5%8A%A8%E6%98%BE%E8%91%97%E5%A2%9E%E5%8A%A0/a-79263791"
+            },
+            {
+                "title": "初秋在成都麓湖 CPI，和 BIRKENSTOCK 一起“自然行走”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-14",
+                "url": "https://www.toodaylab.com/84206"
+            },
             {
                 "title": "36氪2026年度「产业投资行业」系列名册正式发布",
                 "source": "NewsAPI / 36kr.com",
@@ -56,34 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1577800.htm"
             },
             {
-                "title": "专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-14",
-                "url": "http://www.geekpark.net/news/370269"
-            },
-            {
-                "title": "28年老牌高尔夫科技公司，自研AI模拟器，营收数亿｜Insight全球",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-14",
-                "url": "https://36kr.com/p/3962843190738311?f=rss"
-            },
-            {
-                "title": "8点1氪丨创始人及员工被恶意造谣，月之暗面：已报案；25位菲尔兹奖得主就AI侵入数学联合发出警告；智谱宣布融资50亿美元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-14",
-                "url": "https://36kr.com/p/3982504266349314?f=rss"
-            },
-            {
                 "title": "2026年9月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSTNLdlEtekU3UEhCMUtVaVZ2clV5Z2dTV1NyaTg4a2ZNdndmTnRkRVlfd2I0TDJwck1CMjNQVGl6blE2R2lCYi0xUUF6Z0IzejZNaWVkQWtBaVZfdVg2VGM5ajlXLTZ3MURQOHB4RG1jSVVpSFE?oc=5"
-            },
-            {
-                "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwUlljbHRic1V4eG1id1lzckdWWjYzcFJ0WmRyT0pnMEROYkRwTUk5M1pNMDNWV2UwVW1OdWpQdmhUQ1Zoa2lVVFl0clZSSTJDcFEtTHFVakZmSUxHM3lfYkxJNkxlemQ0Zm9V?oc=5"
             },
             {
                 "title": "2026年9月中旬国防部例行新闻发布 - 国防部网",
@@ -92,19 +86,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OSmRBeFFYam1sdlhsLVNrLXN0Q0hYY010aWlQQzRMbmhnM2VDUDdXcXA3Q3RYQVZ6R2hXUlN6bWZkdzc3Y2NxeFpvMnc3NnplSDJlRWJZSGc?oc=5"
             },
             {
-                "title": "聚焦“新基建”夯实作战支撑 - 81.cn",
+                "title": "共同书写全球南方团结自强新篇章——习近平主席倡导推进“大金砖合作”广受赞誉 - 国防部网",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-13",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SU5mMHF5cWUtRFpteWJYdWNKTHlrUlhYY3Z1aG83SVlmcTloWTc4R2tjeGxpQXF2TjJBUkR3ak1zcjAzTlBYY0UxQkVZQ0pORVA3WkNTSWdmWXVQaEduajdnZUdRdw?oc=5"
+            },
+            {
+                "title": "聚焦“新基建”夯实作战支撑 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53Ylp6TlZhbnl1WEtPYjFKX0k4NUZzQjQ2S2tCRWg1Y2hveEl0cGlIdUoxMHhWTUZnZVhTUHl0aEtrN3R4YmZ3cFZCY0NOQXJYekE?oc=5"
             },
             {
-                "title": "“同心同行·强国有我”港澳青年进军营活动将在广州举行- 八一视频 - tv.81.cn",
+                "title": "“同心同行·强国有我”港澳青年进军营活动将在广州举行- 八一视频 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VkNWQ2dibXhxTHNlQzBhWGFwakU5SENwSmwzQ1M4U011S1UxaU1VX0x1ZDVzWmViNzJxYTBKR2xad0UyaGE3NWhTZw?oc=5"
             },
             {
-                "title": "《军营理论热点怎么看·2026》印发全军 - 81.cn",
+                "title": "《军营理论热点怎么看·2026》印发全军 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaWlDbG9zWVVUOE9TQmhvYTNKcUZXOEU2Z2d1LWJGQVNHMnVadVc2TUE1Vm1ZY3pfcWpuSXZoMFk1X29nYTFSMy1WMzJwRi1pRmc?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "多家美国顶尖 AI 企业 CEO 呼吁放缓技术发展，全球 AI 概念股集体下挫",
-                "source": "NewsAPI / Ithome.com",
+                "title": "如何看待德国经济连续三季度微增？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/224.htm"
+                "url": "https://www.ftchinese.com/story/001110883"
             },
             {
-                "title": "外交部：散播各种威胁叙事，只会干扰人工智能全球治理进程",
-                "source": "NewsAPI / Ithome.com",
+                "title": "贝森特的傲慢",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/170.htm"
+                "url": "https://www.ftchinese.com/story/001110852"
             },
             {
-                "title": "主题演讲：AI，驱动流程工业的下一站 | 36氪2026产业未来大会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "初秋在成都麓湖 CPI，和 BIRKENSTOCK 一起“自然行走”",
+                "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-09-14",
-                "url": "https://36kr.com/p/3978416117464071?f=rss"
+                "url": "https://www.toodaylab.com/84206"
             },
             {
-                "title": "大众发布 Mission Efficiency 概念车：创下三项能效纪录，百公里耗电量仅 6.48 千瓦时",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德国数字部：停止AI发展对欧洲不可行 有效监管需中美参与",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/151.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577912.htm"
             },
             {
-                "title": "电视包装盒印歌手照片被索赔 1500 万美元，三星请求法院驳回诉讼",
-                "source": "NewsAPI / Ithome.com",
+                "title": "宏碁推出彩色电子纸显示器EP130K 60Hz刷新率打破传统局限",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-14",
-                "url": "https://www.ithome.com/1/002/144.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1577908.htm"
             },
             {
                 "title": "2026年9月14日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,31 +148,31 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSTNLdlEtekU3UEhCMUtVaVZ2clV5Z2dTV1NyaTg4a2ZNdndmTnRkRVlfd2I0TDJwck1CMjNQVGl6blE2R2lCYi0xUUF6Z0IzejZNaWVkQWtBaVZfdVg2VGM5ajlXLTZ3MURQOHB4RG1jSVVpSFE?oc=5"
             },
             {
-                "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-13",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwUlljbHRic1V4eG1id1lzckdWWjYzcFJ0WmRyT0pnMEROYkRwTUk5M1pNMDNWV2UwVW1OdWpQdmhUQ1Zoa2lVVFl0clZSSTJDcFEtTHFVakZmSUxHM3lfYkxJNkxlemQ0Zm9V?oc=5"
-            },
-            {
                 "title": "2026年9月中旬国防部例行新闻发布 - 国防部网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OSmRBeFFYam1sdlhsLVNrLXN0Q0hYY010aWlQQzRMbmhnM2VDUDdXcXA3Q3RYQVZ6R2hXUlN6bWZkdzc3Y2NxeFpvMnc3NnplSDJlRWJZSGc?oc=5"
             },
             {
-                "title": "聚焦“新基建”夯实作战支撑 - 81.cn",
+                "title": "共同书写全球南方团结自强新篇章——习近平主席倡导推进“大金砖合作”广受赞誉 - 国防部网",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-13",
+                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SU5mMHF5cWUtRFpteWJYdWNKTHlrUlhYY3Z1aG83SVlmcTloWTc4R2tjeGxpQXF2TjJBUkR3ak1zcjAzTlBYY0UxQkVZQ0pORVA3WkNTSWdmWXVQaEduajdnZUdRdw?oc=5"
+            },
+            {
+                "title": "聚焦“新基建”夯实作战支撑 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53Ylp6TlZhbnl1WEtPYjFKX0k4NUZzQjQ2S2tCRWg1Y2hveEl0cGlIdUoxMHhWTUZnZVhTUHl0aEtrN3R4YmZ3cFZCY0NOQXJYekE?oc=5"
             },
             {
-                "title": "“同心同行·强国有我”港澳青年进军营活动将在广州举行- 八一视频 - tv.81.cn",
+                "title": "“同心同行·强国有我”港澳青年进军营活动将在广州举行- 八一视频 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VkNWQ2dibXhxTHNlQzBhWGFwakU5SENwSmwzQ1M4U011S1UxaU1VX0x1ZDVzWmViNzJxYTBKR2xad0UyaGE3NWhTZw?oc=5"
             },
             {
-                "title": "《军营理论热点怎么看·2026》印发全军 - 81.cn",
+                "title": "《军营理论热点怎么看·2026》印发全军 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-14",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaWlDbG9zWVVUOE9TQmhvYTNKcUZXOEU2Z2d1LWJGQVNHMnVadVc2TUE1Vm1ZY3pfcWpuSXZoMFk1X29nYTFSMy1WMzJwRi1pRmc?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-15T11:00:05.619247+00:00"
+    "last_updated": "2026-09-15T16:10:44.005067+00:00"
 }
