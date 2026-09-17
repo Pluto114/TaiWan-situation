@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "半导体主题ETF领涨，公募基金热议背后机会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "K型经济真的结束了吗？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-16",
-                "url": "https://36kr.com/newsflashes/3985928917875456?f=rss"
+                "url": "https://www.ftchinese.com/story/001110889"
             },
             {
-                "title": "在飞书的上下文底座上，豆包开工了",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "Anthropic反对的究竟是“蒸馏”还是技术扩散？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-16",
-                "url": "http://www.geekpark.net/news/370460"
+                "url": "https://www.ftchinese.com/story/001110902"
             },
             {
-                "title": "欧盟提议加拿大成为欧盟首个“准成员国”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578266.htm"
-            },
-            {
-                "title": "英特尔意图打破台积电代工垄断 AI推理推动CPU需求激增",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578264.htm"
-            },
-            {
-                "title": "消息称苹果 iPhone 18 Pro 系列首销“卖爆”：Pro Max 销量最高、勃艮第酒红色选配 TOP1",
+                "title": "消息称苹果 iPhone Duo 暂不支持微信平板模式，无法实现双设备登录同一账号",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-16",
-                "url": "https://www.ithome.com/1/003/214.htm"
+                "url": "https://www.ithome.com/1/003/318.htm"
+            },
+            {
+                "title": "德勤调查发现英国雇员正在背着老板偷偷使用AI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578290.htm"
+            },
+            {
+                "title": "贝森特国会力挺川普经济政策(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-16",
+                "url": "https://www.secretchina.com/news/gb/2026/09/16/1104899.html"
             }
         ],
         "mil": [
+            {
+                "title": "体验：当 vivo 蓝心小 V 升级 Pro 之后，OriginOS 7 开始变得不一样了",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-16",
+                "url": "https://www.ithome.com/1/003/305.htm"
+            },
             {
                 "title": "在飞书的上下文底座上，豆包开工了",
                 "source": "NewsAPI / Geekpark.net",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/3985787773402120?f=rss"
             },
             {
-                "title": "当智能体开始替人花钱，如何证明「它是谁」？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-16",
-                "url": "http://www.geekpark.net/news/370440"
-            },
-            {
                 "title": "​王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-16",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbjlMRXRuX2VMNDhNRDVKUno1Q2dSNmstOGFkWHlvR3poUmU5SFhuclRRemFSUkZWamh2MWFZQ1hWRm9udER5Y1dTLXJsQXNkWHc?oc=5"
             },
             {
+                "title": "王毅会见印度尼西亚国家经济委员会主席卢胡特 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXUVpITTdKcmtna20wY0RaTzNaNVJGTFJVNUdqWDFmOTR4S0RRY1VKcDdBTHFiZHNvZkZ1UUZIVWhILUFHbG1INEVmTVo3dFprS2c?oc=5"
+            },
+            {
                 "title": "香山对话丨推动全球发展、维护全球安全、完善全球治理，都离不开中美合作 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pc2UxTmwySzh6OGJmUjNHUW9ET1VadTFpcEUweGxlQi1VRnRXb1lTOWJxbFRSSXk5M3djcjh5NGlhZjZTTUdzQnhmeWJzNGptZFE?oc=5"
-            },
-            {
-                "title": "我国火箭单次海上发射载荷重量创新高 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSEJWcUVROURiTGNJRUdKaVQ3Z3MyamNpdVZLUTZiQnAwRkpxTWdIV0JtYThjZ0tOWTNHTjN1RUlUQ0tyUXA4X2VkZkxhTU5Tbmc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "合资新能源销量第一，别克第 15 万台“至境”下线",
+                "title": "Anthropic反对的究竟是“蒸馏”还是技术扩散？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-16",
+                "url": "https://www.ftchinese.com/story/001110902"
+            },
+            {
+                "title": "体验：当 vivo 蓝心小 V 升级 Pro 之后，OriginOS 7 开始变得不一样了",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-16",
-                "url": "https://www.ithome.com/1/003/224.htm"
+                "url": "https://www.ithome.com/1/003/305.htm"
             },
             {
-                "title": "华为余承东：对一台旗舰 MPV 来说，安静不应该是加分项，应该是基本功",
+                "title": "苹果 iOS 27 正式版更新汇总：60 项升级，系统 / 功能 / 应用 / AI 齐优化",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-16",
-                "url": "https://www.ithome.com/1/003/221.htm"
+                "url": "https://www.ithome.com/1/003/303.htm"
             },
             {
-                "title": "在飞书的上下文底座上，豆包开工了",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "京东推出七鲜大厨，首创 AI 膳食规划 + 净菜供应链 + 炒菜机器人",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-16",
-                "url": "http://www.geekpark.net/news/370460"
+                "url": "https://www.ithome.com/1/003/288.htm"
             },
             {
-                "title": "欧盟提议加拿大成为欧盟首个“准成员国”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "国家电网公司发布打造现代化用电营商环境赋能经济社会高质量发展若干举措",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578266.htm"
-            },
-            {
-                "title": "Meta据称将推出无摄像头雷朋智能眼镜 主打AI交互 缓解隐私争议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578262.htm"
+                "url": "https://36kr.com/newsflashes/3986004685847559?f=rss"
             },
             {
                 "title": "​王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbjlMRXRuX2VMNDhNRDVKUno1Q2dSNmstOGFkWHlvR3poUmU5SFhuclRRemFSUkZWamh2MWFZQ1hWRm9udER5Y1dTLXJsQXNkWHc?oc=5"
             },
             {
+                "title": "王毅会见印度尼西亚国家经济委员会主席卢胡特 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXUVpITTdKcmtna20wY0RaTzNaNVJGTFJVNUdqWDFmOTR4S0RRY1VKcDdBTHFiZHNvZkZ1UUZIVWhILUFHbG1INEVmTVo3dFprS2c?oc=5"
+            },
+            {
                 "title": "香山对话丨推动全球发展、维护全球安全、完善全球治理，都离不开中美合作 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pc2UxTmwySzh6OGJmUjNHUW9ET1VadTFpcEUweGxlQi1VRnRXb1lTOWJxbFRSSXk5M3djcjh5NGlhZjZTTUdzQnhmeWJzNGptZFE?oc=5"
-            },
-            {
-                "title": "我国火箭单次海上发射载荷重量创新高 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSEJWcUVROURiTGNJRUdKaVQ3Z3MyamNpdVZLUTZiQnAwRkpxTWdIV0JtYThjZ0tOWTNHTjN1RUlUQ0tyUXA4X2VkZkxhTU5Tbmc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-17T10:54:44.069129+00:00"
+    "last_updated": "2026-09-17T16:10:53.180911+00:00"
 }
