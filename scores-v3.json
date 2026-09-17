@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
+                "title": "里基茨参议员：美中是“竞争”关系，美国应减少对华供应链依赖并持续支持台湾",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-16",
+                "url": "https://www.voachinese.com/a/republican-senator-us-china-relations-are-in-strategic-competition-20260916/8200713.html"
+            },
+            {
+                "title": "强撑病体会川普 学者：习近平元首外交背后的算计(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-16",
+                "url": "https://www.secretchina.com/news/gb/2026/09/17/1104862.html"
+            },
+            {
+                "title": "我们去了 MUJI 2026 年秋冬商品展示会，有这 10 组新品特别值得推荐",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-16",
+                "url": "https://www.toodaylab.com/84207"
+            },
+            {
+                "title": "微软不会停止建设数据中心 将采取措施平衡社区经济收益与环境",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578294.htm"
+            },
+            {
                 "title": "K型经济真的结束了吗？",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-16",
                 "url": "https://www.ftchinese.com/story/001110889"
-            },
-            {
-                "title": "Anthropic反对的究竟是“蒸馏”还是技术扩散？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-16",
-                "url": "https://www.ftchinese.com/story/001110902"
-            },
-            {
-                "title": "消息称苹果 iPhone Duo 暂不支持微信平板模式，无法实现双设备登录同一账号",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-16",
-                "url": "https://www.ithome.com/1/003/318.htm"
-            },
-            {
-                "title": "德勤调查发现英国雇员正在背着老板偷偷使用AI",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578290.htm"
-            },
-            {
-                "title": "贝森特国会力挺川普经济政策(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-16",
-                "url": "https://www.secretchina.com/news/gb/2026/09/16/1104899.html"
             }
         ],
         "mil": [
+            {
+                "title": "里基茨参议员：美中是“竞争”关系，美国应减少对华供应链依赖并持续支持台湾",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-16",
+                "url": "https://www.voachinese.com/a/republican-senator-us-china-relations-are-in-strategic-competition-20260916/8200713.html"
+            },
+            {
+                "title": "密歇根州立大学与北京高校联合学位引关注(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-16",
+                "url": "https://www.secretchina.com/news/gb/2026/09/17/1104908.html"
+            },
+            {
+                "title": "特习峰会前夕，中国防长董军在香山论坛上未点名呼吁警惕“霸权主义”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-16",
+                "url": "https://www.voachinese.com/a/china-defense-chief-urges-nations-to-curb-regressive-historical-trends-20260916/8200679.html"
+            },
             {
                 "title": "体验：当 vivo 蓝心小 V 升级 Pro 之后，OriginOS 7 开始变得不一样了",
                 "source": "NewsAPI / Ithome.com",
@@ -56,24 +74,6 @@
                 "url": "http://www.geekpark.net/news/370460"
             },
             {
-                "title": "Meta据称将推出无摄像头雷朋智能眼镜 主打AI交互 缓解隐私争议",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-16",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578262.htm"
-            },
-            {
-                "title": "助听器躺赚三十年暴利，被 AI 打破了",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-16",
-                "url": "http://www.geekpark.net/news/370445"
-            },
-            {
-                "title": "和Jeff Dean押注同一方向，27岁清华助理教授创业，两个月融资数亿",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-16",
-                "url": "https://36kr.com/p/3985787773402120?f=rss"
-            },
-            {
                 "title": "​王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-16",
@@ -86,31 +86,61 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRGFqa0ZuY2YtVS1kSGZNeVRkemhsUGU0blBOWTg4N25LWWxqRkM4QUdJblpGNHQxd0N4WFZPc3JCTi0xYXcwUllSTkRCNGdteTlJaHh5MVlROVRacTItZlpsWXE1cVNaeDBVcHVMZ1FwUGpGRkE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pc0ZQR0hxYnFoWnVkbC1jSEZtVXdUeTV5VmhhS1h4UUJDWVdYZjM4dnQ1a3RVOGN4djRadF9qVUZheG5adWJkZFF5aE1BNnVMV2xKSHNtTjZ3RXNPSk9kdzl3anVaQUFSWU5iR3pEdkdsOW80clE?oc=5"
             },
             {
-                "title": "“中国提出的四大倡议都将发挥积极的建设性作用”——专访巴基斯坦国防部常务秘书穆罕默德·阿里 - 军网",
+                "title": "“中国提出的四大倡议都将发挥积极的建设性作用”——专访巴基斯坦国防部常务秘书穆罕默德·阿里 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbjlMRXRuX2VMNDhNRDVKUno1Q2dSNmstOGFkWHlvR3poUmU5SFhuclRRemFSUkZWamh2MWFZQ1hWRm9udER5Y1dTLXJsQXNkWHc?oc=5"
             },
             {
-                "title": "王毅会见印度尼西亚国家经济委员会主席卢胡特 - 军网",
+                "title": "王毅会见印度尼西亚国家经济委员会主席卢胡特 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-17",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXUVpITTdKcmtna20wY0RaTzNaNVJGTFJVNUdqWDFmOTR4S0RRY1VKcDdBTHFiZHNvZkZ1UUZIVWhILUFHbG1INEVmTVo3dFprS2c?oc=5"
             },
             {
-                "title": "香山对话丨推动全球发展、维护全球安全、完善全球治理，都离不开中美合作 - 军网",
+                "title": "香山对话丨推动全球发展、维护全球安全、完善全球治理，都离不开中美合作 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pc2UxTmwySzh6OGJmUjNHUW9ET1VadTFpcEUweGxlQi1VRnRXb1lTOWJxbFRSSXk5M3djcjh5NGlhZjZTTUdzQnhmeWJzNGptZFE?oc=5"
+            },
+            {
+                "title": "浙江海事局 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVd3QlRiaWVITUV3VktqOWJsY1hGWFR6ekFidXZHZzJtRl9qZzExMWd5dm84a01fRTNXU2Q5OEJldHBkTmpBcUF2dDc4dld0LWNRQU41R2tnSlZRRnk5OGl2THgya1hhbkFVZXBkaU9ZV3VOUjVLNXlMdmdqSEpxMFhkbHo?oc=5"
+            },
+            {
+                "title": "浙江海事局 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHZZcXhEODQwdHF4SEo2X2hYanRMLXJvV2c0WERHT0FyN3RxMEhFak50Y0E0bnlNajBUS0NodHV2UXUwVmtzYkduRkFsNzVsLUgwVHFJRnR4VmFEX25mS3U1ZlZfQ1gyQ3E0a2VzLVkxNTl6eHhkU0FoZEJrYmRBczVMaDQ?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "密歇根州立大学与北京高校联合学位引关注(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-16",
+                "url": "https://www.secretchina.com/news/gb/2026/09/17/1104908.html"
+            },
+            {
+                "title": "强撑病体会川普 学者：习近平元首外交背后的算计(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-16",
+                "url": "https://www.secretchina.com/news/gb/2026/09/17/1104862.html"
+            },
+            {
+                "title": "我们去了 MUJI 2026 年秋冬商品展示会，有这 10 组新品特别值得推荐",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-16",
+                "url": "https://www.toodaylab.com/84207"
+            },
             {
                 "title": "Anthropic反对的究竟是“蒸馏”还是技术扩散？",
                 "source": "NewsAPI / Ftchinese.com",
@@ -124,24 +154,6 @@
                 "url": "https://www.ithome.com/1/003/305.htm"
             },
             {
-                "title": "苹果 iOS 27 正式版更新汇总：60 项升级，系统 / 功能 / 应用 / AI 齐优化",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-16",
-                "url": "https://www.ithome.com/1/003/303.htm"
-            },
-            {
-                "title": "京东推出七鲜大厨，首创 AI 膳食规划 + 净菜供应链 + 炒菜机器人",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-16",
-                "url": "https://www.ithome.com/1/003/288.htm"
-            },
-            {
-                "title": "国家电网公司发布打造现代化用电营商环境赋能经济社会高质量发展若干举措",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-16",
-                "url": "https://36kr.com/newsflashes/3986004685847559?f=rss"
-            },
-            {
                 "title": "​王毅同伊朗外长阿拉格齐会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-16",
@@ -154,31 +166,43 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRGFqa0ZuY2YtVS1kSGZNeVRkemhsUGU0blBOWTg4N25LWWxqRkM4QUdJblpGNHQxd0N4WFZPc3JCTi0xYXcwUllSTkRCNGdteTlJaHh5MVlROVRacTItZlpsWXE1cVNaeDBVcHVMZ1FwUGpGRkE?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pc0ZQR0hxYnFoWnVkbC1jSEZtVXdUeTV5VmhhS1h4UUJDWVdYZjM4dnQ1a3RVOGN4djRadF9qVUZheG5adWJkZFF5aE1BNnVMV2xKSHNtTjZ3RXNPSk9kdzl3anVaQUFSWU5iR3pEdkdsOW80clE?oc=5"
             },
             {
-                "title": "“中国提出的四大倡议都将发挥积极的建设性作用”——专访巴基斯坦国防部常务秘书穆罕默德·阿里 - 军网",
+                "title": "“中国提出的四大倡议都将发挥积极的建设性作用”——专访巴基斯坦国防部常务秘书穆罕默德·阿里 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbjlMRXRuX2VMNDhNRDVKUno1Q2dSNmstOGFkWHlvR3poUmU5SFhuclRRemFSUkZWamh2MWFZQ1hWRm9udER5Y1dTLXJsQXNkWHc?oc=5"
             },
             {
-                "title": "王毅会见印度尼西亚国家经济委员会主席卢胡特 - 军网",
+                "title": "王毅会见印度尼西亚国家经济委员会主席卢胡特 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-17",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXUVpITTdKcmtna20wY0RaTzNaNVJGTFJVNUdqWDFmOTR4S0RRY1VKcDdBTHFiZHNvZkZ1UUZIVWhILUFHbG1INEVmTVo3dFprS2c?oc=5"
             },
             {
-                "title": "香山对话丨推动全球发展、维护全球安全、完善全球治理，都离不开中美合作 - 军网",
+                "title": "香山对话丨推动全球发展、维护全球安全、完善全球治理，都离不开中美合作 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-16",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pc2UxTmwySzh6OGJmUjNHUW9ET1VadTFpcEUweGxlQi1VRnRXb1lTOWJxbFRSSXk5M3djcjh5NGlhZjZTTUdzQnhmeWJzNGptZFE?oc=5"
+            },
+            {
+                "title": "浙江海事局 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVd3QlRiaWVITUV3VktqOWJsY1hGWFR6ekFidXZHZzJtRl9qZzExMWd5dm84a01fRTNXU2Q5OEJldHBkTmpBcUF2dDc4dld0LWNRQU41R2tnSlZRRnk5OGl2THgya1hhbkFVZXBkaU9ZV3VOUjVLNXlMdmdqSEpxMFhkbHo?oc=5"
+            },
+            {
+                "title": "浙江海事局 - zj.msa.gov.cn",
+                "source": "官方信源 / 海事局",
+                "date": "2026-09-17",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHZZcXhEODQwdHF4SEo2X2hYanRMLXJvV2c0WERHT0FyN3RxMEhFak50Y0E0bnlNajBUS0NodHV2UXUwVmtzYkduRkFsNzVsLUgwVHFJRnR4VmFEX25mS3U1ZlZfQ1gyQ3E0a2VzLVkxNTl6eHhkU0FoZEJrYmRBczVMaDQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-17T16:10:53.180911+00:00"
+    "last_updated": "2026-09-17T20:55:17.494551+00:00"
 }
