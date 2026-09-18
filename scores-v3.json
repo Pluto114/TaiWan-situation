@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "华为 Mate 90 Pro Max 系列手机影像方案曝光，消息称还有超级外接镜头配件",
-                "source": "NewsAPI / Ithome.com",
+                "title": "两党议员盼特朗普要求北京释放黎智英，推法强化制裁港府",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-17",
-                "url": "https://www.ithome.com/1/003/788.htm"
+                "url": "https://www.voachinese.com/a/bipartisan-lawmakers-urge-trump-to-press-beijing-for-jimmy-lai-s-release-20260917/8201081.html"
             },
             {
-                "title": "vivo 在开发者大会上发布了 OriginOS 7，还将“个人化智能”提升到战略层面",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-09-17",
-                "url": "https://www.toodaylab.com/84208"
-            },
-            {
-                "title": "我国货币政策坚持以我为主，外汇市场继续保持稳健运行",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-17",
-                "url": "https://36kr.com/newsflashes/3987320029920003?f=rss"
-            },
-            {
-                "title": "新报告称 AI 电子垃圾规模被严重低估，到 2050 年或可绕地球六圈",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-17",
-                "url": "https://www.ithome.com/1/003/736.htm"
-            },
-            {
-                "title": "风帆重返远洋货运 现代航运业重新拥抱风能时代",
+                "title": "对外发布190条违法广告 拼多多再领54万元“罚单”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578398.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578444.htm"
+            },
+            {
+                "title": "华为加速布局算力对抗英伟达 计划2027年一季度推出新款AI芯片960DT",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578440.htm"
+            },
+            {
+                "title": "37国调查显示多数人担心AI抢走工作 富裕国家忧虑尤其明显",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578436.htm"
+            },
+            {
+                "title": "消息称小鹏计划为更多海外车企提供技术解决方案，部分潜在合作伙伴已展现兴趣",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-17",
+                "url": "https://www.ithome.com/1/003/853.htm"
             }
         ],
         "mil": [
+            {
+                "title": "孤独的三星折叠机用户：iPhone Duo发布前，没人理解我",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578428.htm"
+            },
+            {
+                "title": "涉嫌侵犯字母“N”商标权 新百伦起诉迪卡侬",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578424.htm"
+            },
+            {
+                "title": "中美专家呼吁建立“核安全级”AI防护机制 防范超级人工智能失控风险",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578414.htm"
+            },
             {
                 "title": "香山论坛聚焦AI军事风险 美中管控分歧难解",
                 "source": "NewsAPI / DW (English)",
@@ -56,24 +74,6 @@
                 "url": "https://www.ithome.com/1/003/625.htm"
             },
             {
-                "title": "京东押注物理 AI，冲在前面的是一群 95 后",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-17",
-                "url": "http://www.geekpark.net/news/370519"
-            },
-            {
-                "title": "美国众议院通过法案，要求新车强制配备 AM 收音机",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-17",
-                "url": "https://www.ithome.com/1/003/604.htm"
-            },
-            {
-                "title": "美国政府机构正追踪全球近20艘船舶面临的网络威胁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578348.htm"
-            },
-            {
                 "title": "2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-17",
@@ -114,44 +114,38 @@
                 "source": "官方信源 / 海事局",
                 "date": "2026-09-18",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnYxUEQ0bzkwbHVjbzd5Vll1ek5GUlNFbVBXaFZIb09adkEtWXlfb3BBNUFFa0x0bVBUdHk3cGI0NEJtU2l6N3FzVTR1b2RVT1pzZE5fSzQxbC05bDlNdG9NLURfdnFTb2pxR2Vad004ZkNjTldCcHpfT3NrZHMyd24yYmg?oc=5"
-            },
-            {
-                "title": "浙江海事局 - zj.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-09-17",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHZZcXhEODQwdHF4SEo2X2hYanRMLXJvV2c0WERHT0FyN3RxMEhFak50Y0E0bnlNajBUS0NodHV2UXUwVmtzYkduRkFsNzVsLUgwVHFJRnR4VmFEX25mS3U1ZlZfQ1gyQ3E0a2VzLVkxNTl6eHhkU0FoZEJrYmRBczVMaDQ?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "vivo 在开发者大会上发布了 OriginOS 7，还将“个人化智能”提升到战略层面",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "两党议员盼特朗普要求北京释放黎智英，推法强化制裁港府",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-17",
-                "url": "https://www.toodaylab.com/84208"
+                "url": "https://www.voachinese.com/a/bipartisan-lawmakers-urge-trump-to-press-beijing-for-jimmy-lai-s-release-20260917/8201081.html"
             },
             {
-                "title": "特斯拉将在欧洲投放超百台兆瓦级超充桩，为 Semi 纯电半挂卡车交付铺路",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-17",
-                "url": "https://www.ithome.com/1/003/755.htm"
-            },
-            {
-                "title": "消息称 AI 初创企业 Manus 即将完成 5 亿美元融资，估值翻倍至 40 亿美元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-17",
-                "url": "https://www.ithome.com/1/003/734.htm"
-            },
-            {
-                "title": "月之暗面发布 Kimi 金融行业 AI 解决方案，首批落地工商银行、中信建投等",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-17",
-                "url": "https://www.ithome.com/1/003/733.htm"
-            },
-            {
-                "title": "风帆重返远洋货运 现代航运业重新拥抱风能时代",
+                "title": "对外发布190条违法广告 拼多多再领54万元“罚单”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578398.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578444.htm"
+            },
+            {
+                "title": "华为加速布局算力对抗英伟达 计划2027年一季度推出新款AI芯片960DT",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578440.htm"
+            },
+            {
+                "title": "37国调查显示多数人担心AI抢走工作 富裕国家忧虑尤其明显",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578436.htm"
+            },
+            {
+                "title": "【悲報】習近平、死亡か",
+                "source": "NewsAPI / Livedoor.biz",
+                "date": "2026-09-17",
+                "url": "https://kuromacyo.livedoor.biz/archives/2053062.html"
             },
             {
                 "title": "2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -194,15 +188,9 @@
                 "source": "官方信源 / 海事局",
                 "date": "2026-09-18",
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnYxUEQ0bzkwbHVjbzd5Vll1ek5GUlNFbVBXaFZIb09adkEtWXlfb3BBNUFFa0x0bVBUdHk3cGI0NEJtU2l6N3FzVTR1b2RVT1pzZE5fSzQxbC05bDlNdG9NLURfdnFTb2pxR2Vad004ZkNjTldCcHpfT3NrZHMyd24yYmg?oc=5"
-            },
-            {
-                "title": "浙江海事局 - zj.msa.gov.cn",
-                "source": "官方信源 / 海事局",
-                "date": "2026-09-17",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHZZcXhEODQwdHF4SEo2X2hYanRMLXJvV2c0WERHT0FyN3RxMEhFak50Y0E0bnlNajBUS0NodHV2UXUwVmtzYkduRkFsNzVsLUgwVHFJRnR4VmFEX25mS3U1ZlZfQ1gyQ3E0a2VzLVkxNTl6eHhkU0FoZEJrYmRBczVMaDQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-18T10:30:41.943666+00:00"
+    "last_updated": "2026-09-18T15:45:58.403901+00:00"
 }
