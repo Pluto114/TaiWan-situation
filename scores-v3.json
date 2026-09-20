@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美F-35零件错运香港 美国会震动",
-                "source": "NewsAPI / DW (English)",
+                "title": "贝森特、格里尔周日会晤何立峰，美中峰会进入最后准备",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-19",
-                "url": "https://www.dw.com/zh/%E7%BE%8Ef-35%E9%83%A8%E4%BB%B6%E9%94%99%E8%BF%90%E9%A6%99%E6%B8%AF-%E7%BE%8E%E5%9B%BD%E4%BC%9A%E9%9C%87%E5%8A%A8/a-79338949"
+                "url": "https://www.voachinese.com/a/u-s-and-china-hold-final-trade-talks-ahead-of-xi-jinping-s-washington-visit-20260919/8201859.html"
             },
             {
-                "title": "消息称新能源车险定价区间对标燃油车，保费将走向“一车一价”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "埃隆·马斯克拟建芯片厂陷入商标纠纷 特斯拉与SpaceX就“Terafab”名称向法院提请诉讼",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-19",
-                "url": "https://www.ithome.com/1/004/557.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578760.htm"
             },
             {
-                "title": "中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特朗普下令禁止CNN、MS NOW和Politico进入白宫 引发新闻自由争议",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-19",
-                "url": "https://www.ithome.com/1/004/530.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578758.htm"
             },
             {
-                "title": "特朗普签署制裁俄伊新法案",
-                "source": "NewsAPI / DW (English)",
+                "title": "台积电高管：AI无法独立设计1.4纳米级先进制程 人类工程师仍不可替代",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-19",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%88%B6%E8%A3%81%E4%BF%84%E4%BC%8A%E6%96%B0%E6%B3%95%E6%A1%88/a-79336618"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578754.htm"
             },
             {
-                "title": "特朗普签署制裁俄伊新法案",
-                "source": "NewsAPI / DW (English)",
+                "title": "全网回归“纯过日子人”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-19",
-                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%88%B6%E8%A3%81%E4%BF%84%E4%BC%8A%E6%96%B0%E6%B3%95%E6%A1%88/a-79336618"
+                "url": "https://www.ftchinese.com/story/001110931"
             }
         ],
         "mil": [
+            {
+                "title": "台积电高管：AI无法独立设计1.4纳米级先进制程 人类工程师仍不可替代",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578754.htm"
+            },
+            {
+                "title": "全网回归“纯过日子人”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-19",
+                "url": "https://www.ftchinese.com/story/001110931"
+            },
+            {
+                "title": "倘若AI毁灭人类，是文明的终结，还是人性的反噬",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-19",
+                "url": "https://www.ftchinese.com/story/001110864"
+            },
+            {
+                "title": "K型分化背后：经济指标与真实体感为何背离？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-19",
+                "url": "https://www.ftchinese.com/story/001110938"
+            },
             {
                 "title": "甘肃夜间疑现空军干扰弹 广东地面坠落类似战斗机物体(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -50,30 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/09/19/1105030.html"
             },
             {
-                "title": "美联邦航空管理局斥资 8.75 亿美元打造 AI 空管系统，治理空中交通问题",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-19",
-                "url": "https://www.ithome.com/1/004/569.htm"
-            },
-            {
-                "title": "美军险登中国船 只因AI假报告惹祸",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-09-19",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%86%9B%E9%99%A9%E7%99%BB%E4%B8%AD%E5%9B%BD%E8%88%B9-%E5%8F%AA%E5%9B%A0ai%E5%81%87%E6%8A%A5%E5%91%8A%E6%83%B9%E7%A5%B8/a-79339041"
-            },
-            {
-                "title": "美F-35零件错运香港 美国会震动",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-09-19",
-                "url": "https://www.dw.com/zh/%E7%BE%8Ef-35%E9%83%A8%E4%BB%B6%E9%94%99%E8%BF%90%E9%A6%99%E6%B8%AF-%E7%BE%8E%E5%9B%BD%E4%BC%9A%E9%9C%87%E5%8A%A8/a-79338949"
-            },
-            {
-                "title": "美军险登中国船 只因AI假报告惹祸",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-09-19",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%86%9B%E9%99%A9%E7%99%BB%E4%B8%AD%E5%9B%BD%E8%88%B9-%E5%8F%AA%E5%9B%A0ai%E5%81%87%E6%8A%A5%E5%91%8A%E6%83%B9%E7%A5%B8/a-79339041"
-            },
-            {
                 "title": "赵乐际同澳大利亚联邦议会众议长迪克会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-20",
@@ -92,19 +92,19 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHVPUWEwbWtibWp1Wl9UT1hIRm1TVEVmTGxjdmlrdERVajJENEJUNU1Ua08tZ0FQSFJGSElpWXRJY0NBaW5NV2dLRXhPaWlRMW1SMTgwclNVSEV3WmR2N1JWMUszRFpWbVN4c1BCUTV6YV9qU2kyREJ5bHdEd2NqMUZsQWs?oc=5"
             },
             {
-                "title": "云南省贡山县人武部结对帮扶独龙江乡马库村——独龙江畔结金果 - 军网",
+                "title": "云南省贡山县人武部结对帮扶独龙江乡马库村——独龙江畔结金果 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NTlctTWN6RmJzUG9RREVsY2VvSjRpMFI4dS1wZ19ObnM1V1hHQlRubXZQbGxJRXZ0RGdhSTV3Z0QtV1ZFMFZuT3MtRnZOY0NKOGc?oc=5"
             },
             {
-                "title": "也门政府军与胡塞武装在曼德海峡附近激战- 解放军报 - 军网",
+                "title": "也门政府军与胡塞武装在曼德海峡附近激战- 解放军报 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-19",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXVuZVRnTlVwVlZoVWsxVGxjY1A1MnUyTDVoMlBqakRvR3paSE9FQ0h6ajZ1Yy13YzNZZmlNS2poVjFFaEtDWGpOZHg1YndpR3p5eFRNZHJHS2swMXMtRGw0bUtJbkloZTlEbDZnNzZlV1kyaWhxNGxmb194TW5jdkYyQnFXX2hTQVk4OG4zNEFrUmRqcEZoQU84ejRUUzRyUENqbUViY2F5cWdHazh2OUxR?oc=5"
             },
             {
-                "title": "此行间·“体育精神是中国精神的一个缩影”，一起为中国队加油！ - 军网",
+                "title": "此行间·“体育精神是中国精神的一个缩影”，一起为中国队加油！ - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdXpjZ01fZVk3SGFhWFU5TktYdHVVQnY5TlY5QUlTLU9jOV9FeWNnT3N2UnMzclpwMlNLenQ0TkFzS01pYTJIM2xPVVY4RFNRQUE?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "OpenAI CEO 奥尔特曼下周将出席联合国大会，向安理会作 AI 议题简报",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-19",
-                "url": "https://www.ithome.com/1/004/467.htm"
-            },
-            {
-                "title": "AI灭绝论笼罩Anthropic：上市后估值或冲4万亿美元 营收狂飙能否持续？",
+                "title": "埃隆·马斯克拟建芯片厂陷入商标纠纷 特斯拉与SpaceX就“Terafab”名称向法院提请诉讼",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578734.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578760.htm"
             },
             {
-                "title": "漫威将在 Disney+ 剧集《幻视任务》中引入 AI 复仇者团队：奥创回归，10 月 14 日开播",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-19",
-                "url": "https://www.ithome.com/1/004/460.htm"
-            },
-            {
-                "title": "华为造车为何“此路不通”？",
+                "title": "特朗普下令禁止CNN、MS NOW和Politico进入白宫 引发新闻自由争议",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578710.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578758.htm"
             },
             {
-                "title": "Gemini 4 Pro疑似泄露 “AI减速”又成空话",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "全网回归“纯过日子人”",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578708.htm"
+                "url": "https://www.ftchinese.com/story/001110931"
+            },
+            {
+                "title": "倘若AI毁灭人类，是文明的终结，还是人性的反噬",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-19",
+                "url": "https://www.ftchinese.com/story/001110864"
+            },
+            {
+                "title": "K型分化背后：经济指标与真实体感为何背离？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-19",
+                "url": "https://www.ftchinese.com/story/001110938"
             },
             {
                 "title": "赵乐际同澳大利亚联邦议会众议长迪克会谈 - mfa.gov.cn",
@@ -160,19 +160,19 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHVPUWEwbWtibWp1Wl9UT1hIRm1TVEVmTGxjdmlrdERVajJENEJUNU1Ua08tZ0FQSFJGSElpWXRJY0NBaW5NV2dLRXhPaWlRMW1SMTgwclNVSEV3WmR2N1JWMUszRFpWbVN4c1BCUTV6YV9qU2kyREJ5bHdEd2NqMUZsQWs?oc=5"
             },
             {
-                "title": "云南省贡山县人武部结对帮扶独龙江乡马库村——独龙江畔结金果 - 军网",
+                "title": "云南省贡山县人武部结对帮扶独龙江乡马库村——独龙江畔结金果 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NTlctTWN6RmJzUG9RREVsY2VvSjRpMFI4dS1wZ19ObnM1V1hHQlRubXZQbGxJRXZ0RGdhSTV3Z0QtV1ZFMFZuT3MtRnZOY0NKOGc?oc=5"
             },
             {
-                "title": "也门政府军与胡塞武装在曼德海峡附近激战- 解放军报 - 军网",
+                "title": "也门政府军与胡塞武装在曼德海峡附近激战- 解放军报 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-19",
                 "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXVuZVRnTlVwVlZoVWsxVGxjY1A1MnUyTDVoMlBqakRvR3paSE9FQ0h6ajZ1Yy13YzNZZmlNS2poVjFFaEtDWGpOZHg1YndpR3p5eFRNZHJHS2swMXMtRGw0bUtJbkloZTlEbDZnNzZlV1kyaWhxNGxmb194TW5jdkYyQnFXX2hTQVk4OG4zNEFrUmRqcEZoQU84ejRUUzRyUENqbUViY2F5cWdHazh2OUxR?oc=5"
             },
             {
-                "title": "此行间·“体育精神是中国精神的一个缩影”，一起为中国队加油！ - 军网",
+                "title": "此行间·“体育精神是中国精神的一个缩影”，一起为中国队加油！ - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdXpjZ01fZVk3SGFhWFU5TktYdHVVQnY5TlY5QUlTLU9jOV9FeWNnT3N2UnMzclpwMlNLenQ0TkFzS01pYTJIM2xPVVY4RFNRQUE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-20T15:23:07.088014+00:00"
+    "last_updated": "2026-09-20T20:16:44.848711+00:00"
 }
