@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "中国离大规模重卡新能源化还有多远？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-20",
+                "url": "https://www.ftchinese.com/story/001110941"
+            },
+            {
+                "title": "中美高层纽约会谈 为特朗普习近平峰会铺路",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-20",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E7%BE%8E%E9%AB%98%E5%B1%82%E7%BA%BD%E7%BA%A6%E4%BC%9A%E8%B0%88-%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B3%B0%E4%BC%9A%E9%93%BA%E8%B7%AF/a-79346677"
+            },
+            {
+                "title": "最近星巴克在中国有这三家极具代表性的新店开业，而它们似乎还只是个开始",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-20",
+                "url": "https://www.toodaylab.com/84215"
+            },
+            {
                 "title": "一场展览、一款新作，宝珀为 Ladybird 70 周年庆生",
                 "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-09-20",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-20",
                 "url": "https://www.ithome.com/1/004/954.htm"
-            },
-            {
-                "title": "世界杯进入早场谁接住了清晨的餐饮订单？百威早点铺为百威无醇和店家找到了新的生意机会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-20",
-                "url": "https://36kr.com/p/3991595471895300?f=rss"
-            },
-            {
-                "title": "一汽-大众 ID. AURA T6 纯电 SUV 上市，12.99 万 - 16.69 万元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-20",
-                "url": "https://www.ithome.com/1/004/898.htm"
-            },
-            {
-                "title": "主题演讲：从3000万到世界一流：长安汽车如何把速度转化为全球信任｜36氪2026 East Forward 出海大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-20",
-                "url": "https://36kr.com/p/3991497021537285?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-20",
+                "url": "https://www.ithome.com/1/005/010.htm"
+            },
+            {
+                "title": "用AI“复活”家人，似乎不是个好生意",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578862.htm"
+            },
             {
                 "title": "断网仍可作战：AI 模型加持的无人机可实现战场自主识别、打击目标",
                 "source": "NewsAPI / Ithome.com",
@@ -62,16 +74,10 @@
                 "url": "http://www.geekpark.net/news/370664"
             },
             {
-                "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578796.htm"
-            },
-            {
-                "title": "主题演讲：掌阅 · AI短剧出海｜36氪2026 East Forward 出海大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-20",
-                "url": "https://36kr.com/p/3991133875616771?f=rss"
+                "title": "2026年9月21日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-21",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVU9kTnFtbWFISlgzempCYTd3RE1kTUdFOGo4NGVYZFhKYVRISG1XLVBMbUI2bDB0VEhJSUQ4RTA1RDl2SnprZHN4RTRmaktUTElkbnVJSDg0V1UzVkFKTF9KVW9MZmNzM295M2RackpJbWd1dEE?oc=5"
             },
             {
                 "title": "习近平将对美国进行国事访问 - mfa.gov.cn",
@@ -86,31 +92,49 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nUnFoWEdCdzVrcTd2a2JGRng4Sm5EN016TF9ycVYtVzFCaHR0SHhyb3RIcjJ6OEFDY3FqOVNWUlN5ZXljR3dPdUxlMnp2aURJQm5RMFAwVW0?oc=5"
             },
             {
-                "title": "外交部发言人介绍习近平主席访美主要安排及中方对发展中美关系的期待 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-21",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVpHWFkxT1M4bXM1UVo1TlNTbkFvUFk4QVk2TE85SmJIcExabFZaejY2XzFPdzIwX3VxZTFzM1V2RWhfWUExWEowdDM4YThHdlNFNGk1bjFKeEc2VTBodGtSbkl2amNUMnd3b0hUVHZMdTZyZ3NLRENqcVFFS3kzaGdzcENWSXFablU4aUNSdk8?oc=5"
-            },
-            {
                 "title": "云南省贡山县人武部结对帮扶独龙江乡马库村——独龙江畔结金果 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NTlctTWN6RmJzUG9RREVsY2VvSjRpMFI4dS1wZ19ObnM1V1hHQlRubXZQbGxJRXZ0RGdhSTV3Z0QtV1ZFMFZuT3MtRnZOY0NKOGc?oc=5"
             },
             {
-                "title": "也门政府军与胡塞武装在曼德海峡附近激战- 解放军报 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-19",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXVuZVRnTlVwVlZoVWsxVGxjY1A1MnUyTDVoMlBqakRvR3paSE9FQ0h6ajZ1Yy13YzNZZmlNS2poVjFFaEtDWGpOZHg1YndpR3p5eFRNZHJHS2swMXMtRGw0bUtJbkloZTlEbDZnNzZlV1kyaWhxNGxmb194TW5jdkYyQnFXX2hTQVk4OG4zNEFrUmRqcEZoQU84ejRUUzRyUENqbUViY2F5cWdHazh2OUxR?oc=5"
-            },
-            {
                 "title": "此行间·“体育精神是中国精神的一个缩影”，一起为中国队加油！ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdXpjZ01fZVk3SGFhWFU5TktYdHVVQnY5TlY5QUlTLU9jOV9FeWNnT3N2UnMzclpwMlNLenQ0TkFzS01pYTJIM2xPVVY4RFNRQUE?oc=5"
+            },
+            {
+                "title": "一桥三地护繁华 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4RjdpMUptSWFDNWhsQ0lwR19WWDgwSWoxVHB2OHRpbEZTbFJCNG9TWU5ucjZRc1d6cTQ1U2k4eFdYQnBtLVNRMVBMWmVyY2tnalE?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "中国离大规模重卡新能源化还有多远？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-20",
+                "url": "https://www.ftchinese.com/story/001110941"
+            },
+            {
+                "title": "法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-20",
+                "url": "https://www.ithome.com/1/005/010.htm"
+            },
+            {
+                "title": "今起多家公司安徽、江苏区域等地快递价格上调 不影响个人寄递",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1578864.htm"
+            },
+            {
+                "title": "经典音乐播放器 Winamp 明年重生，将推出付费订阅服务",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-20",
+                "url": "https://www.ithome.com/1/004/995.htm"
+            },
             {
                 "title": "断网仍可作战：AI 模型加持的无人机可实现战场自主识别、打击目标",
                 "source": "NewsAPI / Ithome.com",
@@ -118,28 +142,10 @@
                 "url": "https://www.ithome.com/1/004/954.htm"
             },
             {
-                "title": "智谱偷传数据风波扩大 有企业要求说明是否跨境传输",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578824.htm"
-            },
-            {
-                "title": "大模型，开始集体变小",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-20",
-                "url": "https://36kr.com/p/3991436755057415?f=rss"
-            },
-            {
-                "title": "西贝否认倒闭 理记发文炮轰罗永浩：给贾国龙留条路",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1578812.htm"
-            },
-            {
-                "title": "三体还没降临，是因为叶文洁没用上千问办公吗？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-20",
-                "url": "http://www.geekpark.net/news/370667"
+                "title": "2026年9月21日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-21",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVU9kTnFtbWFISlgzempCYTd3RE1kTUdFOGo4NGVYZFhKYVRISG1XLVBMbUI2bDB0VEhJSUQ4RTA1RDl2SnprZHN4RTRmaktUTElkbnVJSDg0V1UzVkFKTF9KVW9MZmNzM295M2RackpJbWd1dEE?oc=5"
             },
             {
                 "title": "习近平将对美国进行国事访问 - mfa.gov.cn",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nUnFoWEdCdzVrcTd2a2JGRng4Sm5EN016TF9ycVYtVzFCaHR0SHhyb3RIcjJ6OEFDY3FqOVNWUlN5ZXljR3dPdUxlMnp2aURJQm5RMFAwVW0?oc=5"
             },
             {
-                "title": "外交部发言人介绍习近平主席访美主要安排及中方对发展中美关系的期待 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-21",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVpHWFkxT1M4bXM1UVo1TlNTbkFvUFk4QVk2TE85SmJIcExabFZaejY2XzFPdzIwX3VxZTFzM1V2RWhfWUExWEowdDM4YThHdlNFNGk1bjFKeEc2VTBodGtSbkl2amNUMnd3b0hUVHZMdTZyZ3NLRENqcVFFS3kzaGdzcENWSXFablU4aUNSdk8?oc=5"
-            },
-            {
                 "title": "云南省贡山县人武部结对帮扶独龙江乡马库村——独龙江畔结金果 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NTlctTWN6RmJzUG9RREVsY2VvSjRpMFI4dS1wZ19ObnM1V1hHQlRubXZQbGxJRXZ0RGdhSTV3Z0QtV1ZFMFZuT3MtRnZOY0NKOGc?oc=5"
             },
             {
-                "title": "也门政府军与胡塞武装在曼德海峡附近激战- 解放军报 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-19",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXVuZVRnTlVwVlZoVWsxVGxjY1A1MnUyTDVoMlBqakRvR3paSE9FQ0h6ajZ1Yy13YzNZZmlNS2poVjFFaEtDWGpOZHg1YndpR3p5eFRNZHJHS2swMXMtRGw0bUtJbkloZTlEbDZnNzZlV1kyaWhxNGxmb194TW5jdkYyQnFXX2hTQVk4OG4zNEFrUmRqcEZoQU84ejRUUzRyUENqbUViY2F5cWdHazh2OUxR?oc=5"
-            },
-            {
                 "title": "此行间·“体育精神是中国精神的一个缩影”，一起为中国队加油！ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-20",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdXpjZ01fZVk3SGFhWFU5TktYdHVVQnY5TlY5QUlTLU9jOV9FeWNnT3N2UnMzclpwMlNLenQ0TkFzS01pYTJIM2xPVVY4RFNRQUE?oc=5"
+            },
+            {
+                "title": "一桥三地护繁华 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4RjdpMUptSWFDNWhsQ0lwR19WWDgwSWoxVHB2OHRpbEZTbFJCNG9TWU5ucjZRc1d6cTQ1U2k4eFdYQnBtLVNRMVBMWmVyY2tnalE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-21T11:55:28.958214+00:00"
+    "last_updated": "2026-09-21T17:50:30.524555+00:00"
 }
