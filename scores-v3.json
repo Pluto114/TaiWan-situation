@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "27名民主党议员致函特朗普总统，督促继续严禁中国汽车入美",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-21",
+                "url": "https://www.voachinese.com/a/democratic-lawmakers-sent-letter-to-president-trump-urging-him-to-maintain-strict-ban-on-chinese-automobiles-20260921/8202476.html"
+            },
+            {
+                "title": "川普拟从白俄罗斯买低价钾肥 加拿大市场受冲击(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-21",
+                "url": "https://www.secretchina.com/news/gb/2026/09/22/1105096.html"
+            },
+            {
                 "title": "AI时代董事会职能的转变",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-21",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-21",
                 "url": "https://36kr.com/p/3993088800848645?f=rss"
-            },
-            {
-                "title": "BetterRead｜英语要不要作为主科，我们说了不算，但是我们能说了算的事情更重要",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-09-21",
-                "url": "https://chinadigitaltimes.net/chinese/732034.html"
-            },
-            {
-                "title": "智能戒指厂商Oura及其投资方拟赴美IPO 募资最高22亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579068.htm"
             }
         ],
         "mil": [
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "加拿大在地缘政治中的定位-谈加拿大成为欧盟准成员国的远景(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-21",
+                "url": "https://www.secretchina.com/news/gb/2026/09/22/1105097.html"
+            },
+            {
                 "title": "AI时代董事会职能的转变",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-21",
@@ -134,12 +140,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-21",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1579068.htm"
-            },
-            {
-                "title": "零跑的新目标：从「小米」成为「苹果」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-21",
-                "url": "http://www.geekpark.net/news/370765"
             },
             {
                 "title": "2026年9月21日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-22T16:13:11.643122+00:00"
+    "last_updated": "2026-09-22T20:50:55.340778+00:00"
 }
