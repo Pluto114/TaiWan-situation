@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "王文涛部长与欧洲汽车工业协会主席康林松举行视频通话",
-                "source": "NewsAPI / 36kr.com",
+                "title": "消息称微软研发小尺寸 Surface：12 英寸屏幕，或采用英伟达 RTX Spark 芯片",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-22",
-                "url": "https://36kr.com/newsflashes/3994417119793280?f=rss"
+                "url": "https://www.ithome.com/1/005/986.htm"
             },
             {
-                "title": "企业境外反垄断合规指引修订草案公开征求意见",
-                "source": "NewsAPI / 36kr.com",
+                "title": "中国欧盟商会：欧中贸易失衡不可持续",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-09-22",
-                "url": "https://36kr.com/newsflashes/3994410956787847?f=rss"
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%AC%A7%E7%9B%9F%E5%95%86%E4%BC%9A%E6%AC%A7%E4%B8%AD%E8%B4%B8%E6%98%93%E5%A4%B1%E8%A1%A1%E4%B8%8D%E5%8F%AF%E6%8C%81%E7%BB%AD/a-79376658"
             },
             {
-                "title": "王文涛部长会见德国汽车工业协会主席穆勒",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-22",
-                "url": "https://36kr.com/newsflashes/3994410448064645?f=rss"
+                "url": "https://www.ithome.com/1/005/972.htm"
             },
             {
-                "title": "AI芯片热潮推动产能狂飙 台积电1.4纳米工艺预计2027年首季试产",
+                "title": "8万亿，梁文锋也开始卷“超大”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579178.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579196.htm"
             },
             {
-                "title": "全球首台全天候浮空器在四川自贡首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "一汽红旗首款硬派越野 G919 预售发布：首发搭载亿纬锂能大圆柱电池，35.98 万-43.98 万元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-22",
-                "url": "https://36kr.com/newsflashes/3994360452807680?f=rss"
+                "url": "https://www.ithome.com/1/005/932.htm"
             }
         ],
         "mil": [
+            {
+                "title": "41.99万元起！岚图梦想家9上市 以中国智造重塑高端MPV价值坐标",
+                "source": "NewsAPI / Dgtle.com",
+                "date": "2026-09-22",
+                "url": "https://www.dgtle.com/news-1554758-14.html"
+            },
             {
                 "title": "雷军回应“打新宇树挣了100多亿”",
                 "source": "NewsAPI / 36kr.com",
@@ -68,28 +74,28 @@
                 "url": "https://36kr.com/p/3994215677590279?f=rss"
             },
             {
-                "title": "五角大楼：过度依赖AI大模型导致美国空袭造成123名伊朗儿童死亡",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579150.htm"
-            },
-            {
-                "title": "王毅同德国外长瓦德富尔通电话 - mfa.gov.cn",
+                "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-21",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCVE1oTkdiQ243RGl4QVhmNjVMbmIwRzVwUWZhb1l0OHRGVU5IM0dzQy0zTE9rS0xvUlJab0NsWWQ0UmViNWQ5TGVBOEFIenFySENOUEJhZEpXRVY5WWRvNnJTWml6OVlpZGFhU2lR?oc=5"
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUG9QbHFUN1E2cXJtMjk0ZkNnRzJfUXNydU9QV2RTTXJKc3owSWhvUEJYM3VxS25LdXJEakJtQ3VOZ2tYU2dEYkpCQ3o2OVRMNEVaUnVxc3dKdnlkSE9TaFcwS0IyU3Fhd2lR?oc=5"
             },
             {
-                "title": "重要消息 - 领事服务网",
+                "title": "重要消息 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-22",
                 "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdXNIdENPQWw2ZUw0dkQtclZ0ZEJfZGlqdUhEUTJGVkV5S1dURV9KbjZ0UFNmLWVmMnBibG1VaENJeWZLVldBTEpEUzRfOUlXR3h4OG1abGZoQmhrcGp0blYtUG5menZu?oc=5"
             },
             {
-                "title": "外交部发言人介绍韩正副主席出席第81届联合国大会一般性辩论有关安排 - mfa.gov.cn",
+                "title": "2026年9月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-22",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXpIZFV5Qkl4UkFUS3Q3ckF6cTZXYll0NDBZQUtfckxtanozcUx1TEFsRTNGVzBqa2hSeEJPVWxRWUlsdW9Bai1SbzV2eXJCNEl6VTZRa0RjZlJNTlFCWXpJQjBZb0tBZ2dJeEJhenJrc2dJRUhVU2M1bnZNTDNOdE1PeE1mOHBoZmMtX1V5Q0Y?oc=5"
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeHE0ZDc5dm94MUVzdmd4MkFQTFUxTHBEZzFwMXVJM0pqRDM5dHBvZEN1Mll2SXlTOXdiajUzTUhTTHBJTG1kVjdmQkI4RXpRQXZfN2dFcjlqY2ZWM2pBcUNqb2ZXYklvMjRqTi1oa2ItSFZUTHc?oc=5"
+            },
+            {
+                "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nemx3ck03MVVSZHFjMHpZMWlJbDF1aUY4LWtBRW9UY0NxbDZvV3RzSWNsUmN6WTRzZU1adjFRNDVMMEJ6Vk5RSmtWTkEwWVVxWGc?oc=5"
             },
             {
                 "title": "UNIFIL Deputy Chief of Staff visits Chinese peacekeeping battalion - China Military Online",
@@ -102,62 +108,62 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWGc4WWQzX2gzVzBtY0FfM3VDTl9QNUNNdDQxY2k3dHNOSGZRbjhIYkRhdWl6S0xINHJROUhkUFdWTXVOeWhyMnBKeHpob2NmdXc?oc=5"
-            },
-            {
-                "title": "Pilot cadets in graduation assessment - China Military Online",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qeGU4WlRXSE90SlFUa0JxemhqYVpLMTRVTmp0dk1TVGVNT1lFWENTdmM2RTdITzR4M0lDaExhaWJHMnAzRjRxalF2YkstUXJGRzhrc3pmclNYZzRraWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-                "source": "NewsAPI / 36kr.com",
+                "title": "梅赛德斯-奔驰与Wayve达成合作协议",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-22",
-                "url": "https://36kr.com/p/3994316084214534?f=rss"
+                "url": "https://www.ftchinese.com/story/001110967"
             },
             {
-                "title": "AI从业者担忧技术对社会构成威胁 坦言承受巨大精神压力",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "油价跌回每桶98美元 沙特有望重启管道",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579168.htm"
+                "url": "https://www.ftchinese.com/story/001110968"
             },
             {
-                "title": "特朗普玩大了？从联合起诉到暂停联合采访，封禁CNN风波升级",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "41.99万元起！岚图梦想家9上市 以中国智造重塑高端MPV价值坐标",
+                "source": "NewsAPI / Dgtle.com",
                 "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579166.htm"
+                "url": "https://www.dgtle.com/news-1554758-14.html"
             },
             {
-                "title": "外交部：各方应该共同推动人工智能开放、包容、普惠、向善发展",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-22",
-                "url": "https://36kr.com/newsflashes/3994257193925636?f=rss"
+                "url": "https://www.ithome.com/1/005/972.htm"
             },
             {
-                "title": "外交部：中方愿同美方一道，丰富中美建设性战略稳定关系内涵",
-                "source": "NewsAPI / 36kr.com",
+                "title": "索尼被曝测试 PlayStation 新奖励机制：购买部分游戏可获“返利”",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-22",
-                "url": "https://36kr.com/newsflashes/3994251506220032?f=rss"
+                "url": "https://www.ithome.com/1/005/970.htm"
             },
             {
-                "title": "王毅同德国外长瓦德富尔通电话 - mfa.gov.cn",
+                "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-21",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCVE1oTkdiQ243RGl4QVhmNjVMbmIwRzVwUWZhb1l0OHRGVU5IM0dzQy0zTE9rS0xvUlJab0NsWWQ0UmViNWQ5TGVBOEFIenFySENOUEJhZEpXRVY5WWRvNnJTWml6OVlpZGFhU2lR?oc=5"
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUG9QbHFUN1E2cXJtMjk0ZkNnRzJfUXNydU9QV2RTTXJKc3owSWhvUEJYM3VxS25LdXJEakJtQ3VOZ2tYU2dEYkpCQ3o2OVRMNEVaUnVxc3dKdnlkSE9TaFcwS0IyU3Fhd2lR?oc=5"
             },
             {
-                "title": "重要消息 - 领事服务网",
+                "title": "重要消息 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-22",
                 "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdXNIdENPQWw2ZUw0dkQtclZ0ZEJfZGlqdUhEUTJGVkV5S1dURV9KbjZ0UFNmLWVmMnBibG1VaENJeWZLVldBTEpEUzRfOUlXR3h4OG1abGZoQmhrcGp0blYtUG5menZu?oc=5"
             },
             {
-                "title": "外交部发言人介绍韩正副主席出席第81届联合国大会一般性辩论有关安排 - mfa.gov.cn",
+                "title": "2026年9月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-22",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXpIZFV5Qkl4UkFUS3Q3ckF6cTZXYll0NDBZQUtfckxtanozcUx1TEFsRTNGVzBqa2hSeEJPVWxRWUlsdW9Bai1SbzV2eXJCNEl6VTZRa0RjZlJNTlFCWXpJQjBZb0tBZ2dJeEJhenJrc2dJRUhVU2M1bnZNTDNOdE1PeE1mOHBoZmMtX1V5Q0Y?oc=5"
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeHE0ZDc5dm94MUVzdmd4MkFQTFUxTHBEZzFwMXVJM0pqRDM5dHBvZEN1Mll2SXlTOXdiajUzTUhTTHBJTG1kVjdmQkI4RXpRQXZfN2dFcjlqY2ZWM2pBcUNqb2ZXYklvMjRqTi1oa2ItSFZUTHc?oc=5"
+            },
+            {
+                "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nemx3ck03MVVSZHFjMHpZMWlJbDF1aUY4LWtBRW9UY0NxbDZvV3RzSWNsUmN6WTRzZU1adjFRNDVMMEJ6Vk5RSmtWTkEwWVVxWGc?oc=5"
             },
             {
                 "title": "UNIFIL Deputy Chief of Staff visits Chinese peacekeeping battalion - China Military Online",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWGc4WWQzX2gzVzBtY0FfM3VDTl9QNUNNdDQxY2k3dHNOSGZRbjhIYkRhdWl6S0xINHJROUhkUFdWTXVOeWhyMnBKeHpob2NmdXc?oc=5"
-            },
-            {
-                "title": "Pilot cadets in graduation assessment - China Military Online",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qeGU4WlRXSE90SlFUa0JxemhqYVpLMTRVTmp0dk1TVGVNT1lFWENTdmM2RTdITzR4M0lDaExhaWJHMnAzRjRxalF2YkstUXJGRzhrc3pmclNYZzRraWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-23T10:43:14.108500+00:00"
+    "last_updated": "2026-09-23T16:02:21.940289+00:00"
 }
