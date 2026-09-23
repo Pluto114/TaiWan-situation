@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "消息称微软研发小尺寸 Surface：12 英寸屏幕，或采用英伟达 RTX Spark 芯片",
-                "source": "NewsAPI / Ithome.com",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-22",
-                "url": "https://www.ithome.com/1/005/986.htm"
+                "url": "https://www.voachinese.com/a/8195929.html"
             },
             {
-                "title": "中国欧盟商会：欧中贸易失衡不可持续",
-                "source": "NewsAPI / DW (English)",
+                "title": "USCC公布研究报告，审视中国对跨太平洋海缆的灰色地带威胁",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-22",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%AC%A7%E7%9B%9F%E5%95%86%E4%BC%9A%E6%AC%A7%E4%B8%AD%E8%B4%B8%E6%98%93%E5%A4%B1%E8%A1%A1%E4%B8%8D%E5%8F%AF%E6%8C%81%E7%BB%AD/a-79376658"
+                "url": "https://www.voachinese.com/a/uscc-releases-a-research-report-examining-china-s-gray-zone-threats-to-trans-pacific-undersea-cables-20260922/8202990.html"
             },
             {
-                "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-22",
-                "url": "https://www.ithome.com/1/005/972.htm"
-            },
-            {
-                "title": "8万亿，梁文锋也开始卷“超大”",
+                "title": "长鑫存储和长江存储正在加速进入彼此的核心业务领域",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579196.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579242.htm"
             },
             {
-                "title": "一汽红旗首款硬派越野 G919 预售发布：首发搭载亿纬锂能大圆柱电池，35.98 万-43.98 万元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Starcloud计划利用轨道太阳能在太空挖比特币",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-22",
-                "url": "https://www.ithome.com/1/005/932.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579236.htm"
+            },
+            {
+                "title": "苹果新一代高亮低功耗OLED屏或推迟至2029年 20周年版iPhone恐无缘搭载",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579226.htm"
             }
         ],
         "mil": [
+            {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-22",
+                "url": "https://www.voachinese.com/a/8195929.html"
+            },
             {
                 "title": "41.99万元起！岚图梦想家9上市 以中国智造重塑高端MPV价值坐标",
                 "source": "NewsAPI / Dgtle.com",
@@ -68,28 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1579168.htm"
             },
             {
-                "title": "圆桌：速度与人心：AI让内容无限生成，\"打动人心\"归谁管｜36氪2026 East Forward 出海大会",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-22",
-                "url": "https://36kr.com/p/3994215677590279?f=rss"
-            },
-            {
                 "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-23",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUG9QbHFUN1E2cXJtMjk0ZkNnRzJfUXNydU9QV2RTTXJKc3owSWhvUEJYM3VxS25LdXJEakJtQ3VOZ2tYU2dEYkpCQ3o2OVRMNEVaUnVxc3dKdnlkSE9TaFcwS0IyU3Fhd2lR?oc=5"
             },
             {
+                "title": "2026年9月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lYW1QSkVxbUVrUW1OQmhCTjJLdUY0RDc5UlpxZU56RHdIbUFQb2dHVzBWbmVCZF9pLTBXakM2Q0dRLTh3aGxwOW1LS0lZbmp0MFdjS2ZaajhzdmZLVEctazFGUGJxbGFISWpNXy05VGtERmRTOHc?oc=5"
+            },
+            {
                 "title": "重要消息 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-22",
                 "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdXNIdENPQWw2ZUw0dkQtclZ0ZEJfZGlqdUhEUTJGVkV5S1dURV9KbjZ0UFNmLWVmMnBibG1VaENJeWZLVldBTEpEUzRfOUlXR3h4OG1abGZoQmhrcGp0blYtUG5menZu?oc=5"
-            },
-            {
-                "title": "2026年9月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeHE0ZDc5dm94MUVzdmd4MkFQTFUxTHBEZzFwMXVJM0pqRDM5dHBvZEN1Mll2SXlTOXdiajUzTUhTTHBJTG1kVjdmQkI4RXpRQXZfN2dFcjlqY2ZWM2pBcUNqb2ZXYklvMjRqTi1oa2ItSFZUTHc?oc=5"
             },
             {
                 "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "梅赛德斯-奔驰与Wayve达成合作协议",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-22",
-                "url": "https://www.ftchinese.com/story/001110967"
+                "url": "https://www.voachinese.com/a/8195929.html"
             },
             {
-                "title": "油价跌回每桶98美元 沙特有望重启管道",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "习近平缺席联大专赴华盛顿，北京凸显对美关系优先",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-22",
-                "url": "https://www.ftchinese.com/story/001110968"
+                "url": "https://www.voachinese.com/a/xi-skips-un-general-debate-for-washington-summit-as-china-pursues-two-track-diplomacy-2020922/8202892.html"
             },
             {
-                "title": "41.99万元起！岚图梦想家9上市 以中国智造重塑高端MPV价值坐标",
-                "source": "NewsAPI / Dgtle.com",
+                "title": "高市早苗会晤川普 请媒体离场显外交技巧(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-22",
-                "url": "https://www.dgtle.com/news-1554758-14.html"
+                "url": "https://www.secretchina.com/news/gb/2026/09/23/1105138.html"
             },
             {
-                "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
+                "title": "美国纳斯达克综合指数周二盘中再创历史新高：科技股回暖 / 油价回落等因素驱动",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-22",
-                "url": "https://www.ithome.com/1/005/972.htm"
+                "url": "https://www.ithome.com/1/005/999.htm"
             },
             {
-                "title": "索尼被曝测试 PlayStation 新奖励机制：购买部分游戏可获“返利”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Tim Cook出席联合国大会讨论儿童网络安全 苹果将进一步强化未成年人保护",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-22",
-                "url": "https://www.ithome.com/1/005/970.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579238.htm"
             },
             {
                 "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUG9QbHFUN1E2cXJtMjk0ZkNnRzJfUXNydU9QV2RTTXJKc3owSWhvUEJYM3VxS25LdXJEakJtQ3VOZ2tYU2dEYkpCQ3o2OVRMNEVaUnVxc3dKdnlkSE9TaFcwS0IyU3Fhd2lR?oc=5"
             },
             {
+                "title": "2026年9月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lYW1QSkVxbUVrUW1OQmhCTjJLdUY0RDc5UlpxZU56RHdIbUFQb2dHVzBWbmVCZF9pLTBXakM2Q0dRLTh3aGxwOW1LS0lZbmp0MFdjS2ZaajhzdmZLVEctazFGUGJxbGFISWpNXy05VGtERmRTOHc?oc=5"
+            },
+            {
                 "title": "重要消息 - 中国领事服务网",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-22",
                 "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdXNIdENPQWw2ZUw0dkQtclZ0ZEJfZGlqdUhEUTJGVkV5S1dURV9KbjZ0UFNmLWVmMnBibG1VaENJeWZLVldBTEpEUzRfOUlXR3h4OG1abGZoQmhrcGp0blYtUG5menZu?oc=5"
-            },
-            {
-                "title": "2026年9月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeHE0ZDc5dm94MUVzdmd4MkFQTFUxTHBEZzFwMXVJM0pqRDM5dHBvZEN1Mll2SXlTOXdiajUzTUhTTHBJTG1kVjdmQkI4RXpRQXZfN2dFcjlqY2ZWM2pBcUNqb2ZXYklvMjRqTi1oa2ItSFZUTHc?oc=5"
             },
             {
                 "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-23T16:02:21.940289+00:00"
+    "last_updated": "2026-09-23T21:02:11.616859+00:00"
 }
