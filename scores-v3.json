@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "从习近平过门不入 看联合国在北京外交中的位置(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-23",
+                "url": "https://www.secretchina.com/news/gb/2026/09/24/1105196.html"
+            },
+            {
+                "title": "美国制裁伊朗航空生效 伊朗赴阿曼和伊拉克航班停飞(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-23",
+                "url": "https://www.secretchina.com/news/gb/2026/09/24/1105197.html"
+            },
+            {
                 "title": "特习会前瞻：双方致力稳定战略竞争关系，缓解贸易、科技和国际冲突分歧",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-23",
@@ -28,21 +40,21 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-23",
                 "url": "https://www.ftchinese.com/story/001110977"
-            },
-            {
-                "title": "从反倾销到贸易战: 贸易政策与争端的过去、现在与未来",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-23",
-                "url": "https://www.ftchinese.com/story/001110948"
-            },
-            {
-                "title": "剑桥从“硅沼”到“硅谷”还有多远？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-23",
-                "url": "https://www.ftchinese.com/story/001110980"
             }
         ],
         "mil": [
+            {
+                "title": "从习近平过门不入 看联合国在北京外交中的位置(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-23",
+                "url": "https://www.secretchina.com/news/gb/2026/09/24/1105196.html"
+            },
+            {
+                "title": "美国制裁伊朗航空生效 伊朗赴阿曼和伊拉克航班停飞(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-23",
+                "url": "https://www.secretchina.com/news/gb/2026/09/24/1105197.html"
+            },
             {
                 "title": "剑桥从“硅沼”到“硅谷”还有多远？",
                 "source": "NewsAPI / Ftchinese.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.ithome.com/1/006/471.htm"
             },
             {
-                "title": "OpenAI免费向乌克兰开放AI网络防御系统“Daybreak” 助力保护关键民用基础设施",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579354.htm"
-            },
-            {
-                "title": "习近平避开纽约 特朗普在联大强调美国优先",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-09-23",
-                "url": "https://www.dw.com/zh/%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%81%BF%E5%BC%80%E7%BA%BD%E7%BA%A6-%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%81%94%E5%A4%A7%E5%BC%BA%E8%B0%83%E7%BE%8E%E5%9B%BD%E4%BC%98%E5%85%88/a-79388188"
-            },
-            {
                 "title": "2026年9月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-23",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeHE0ZDc5dm94MUVzdmd4MkFQTFUxTHBEZzFwMXVJM0pqRDM5dHBvZEN1Mll2SXlTOXdiajUzTUhTTHBJTG1kVjdmQkI4RXpRQXZfN2dFcjlqY2ZWM2pBcUNqb2ZXYklvMjRqTi1oa2ItSFZUTHc?oc=5"
             },
             {
+                "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-24",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0YjI3NkZaZUZnWVhqeVZrZ29RLVcwOTFzTlN2MGR5dHhmMGVsMDhSRVJxSmpMM254NmE0c1JEOEJkV2xiVG92d28wUzJUVWJrdEtmNmVJR2x6czc5MHg1cFhLcFNwMy1xRWpF?oc=5"
+            },
+            {
                 "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-23",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFZfOXVqa2hISXVyZWdpYWRCM1NoUzVEWXFNYVJFQlcxZzBTSFhaeFBPSHpCbW9qRGItMHFqWDhhUEd1RU1FSWc0OElLM2ljbkZmdVFJTGNKNzUySUR2UzBRVlY4VTVoY3RLdWJxcGVvM2pORHVZZ0NIYUg5eTcxbS0tSzRTS1UzRFhHNzFR?oc=5"
-            },
-            {
-                "title": "习近平抵达华盛顿对美国进行国事访问 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oc2tkYmhuQk5sdUkzMGllc196XzVBSHZOTDFNVzQwakhXdk95NzJPdFNLcENWb0ZUYVo5NFYxSmFWYlFRZTM5aTRFLTZNblpXWm9VLTlLYUp5WHpPbE9WTjNQUkV5bWpoSExz?oc=5"
             },
             {
                 "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式 - 军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-23",
+                "url": "https://www.voachinese.com/a/8196397.html"
+            },
+            {
+                "title": "特习会前VOA专访共和党议员迪亚兹-巴拉特谈美中AI对话：“不信任，但要核实”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-23",
+                "url": "https://www.voachinese.com/a/voa-interview-gop-lawmaker-díaz-balart-20260923/8203457.html"
+            },
+            {
+                "title": "从习近平过门不入 看联合国在北京外交中的位置(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-23",
+                "url": "https://www.secretchina.com/news/gb/2026/09/24/1105196.html"
+            },
+            {
                 "title": "希腊的“向前走”与“往回看”",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-23",
@@ -124,40 +142,22 @@
                 "url": "https://www.ftchinese.com/story/001110948"
             },
             {
-                "title": "剑桥从“硅沼”到“硅谷”还有多远？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-23",
-                "url": "https://www.ftchinese.com/story/001110980"
-            },
-            {
-                "title": "莫瑞吉奥•卡特兰：黑夜不是光线的缺席，是一种生存境况",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-23",
-                "url": "https://www.ftchinese.com/story/001110965"
-            },
-            {
-                "title": "拿第三方检测自证清白？Donut Lab 固态电池的疑点更多了",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-23",
-                "url": "https://www.ithome.com/1/006/482.htm"
-            },
-            {
                 "title": "2026年9月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-23",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeHE0ZDc5dm94MUVzdmd4MkFQTFUxTHBEZzFwMXVJM0pqRDM5dHBvZEN1Mll2SXlTOXdiajUzTUhTTHBJTG1kVjdmQkI4RXpRQXZfN2dFcjlqY2ZWM2pBcUNqb2ZXYklvMjRqTi1oa2ItSFZUTHc?oc=5"
             },
             {
+                "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-24",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0YjI3NkZaZUZnWVhqeVZrZ29RLVcwOTFzTlN2MGR5dHhmMGVsMDhSRVJxSmpMM254NmE0c1JEOEJkV2xiVG92d28wUzJUVWJrdEtmNmVJR2x6czc5MHg1cFhLcFNwMy1xRWpF?oc=5"
+            },
+            {
                 "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-23",
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFZfOXVqa2hISXVyZWdpYWRCM1NoUzVEWXFNYVJFQlcxZzBTSFhaeFBPSHpCbW9qRGItMHFqWDhhUEd1RU1FSWc0OElLM2ljbkZmdVFJTGNKNzUySUR2UzBRVlY4VTVoY3RLdWJxcGVvM2pORHVZZ0NIYUg5eTcxbS0tSzRTS1UzRFhHNzFR?oc=5"
-            },
-            {
-                "title": "习近平抵达华盛顿对美国进行国事访问 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oc2tkYmhuQk5sdUkzMGllc196XzVBSHZOTDFNVzQwakhXdk95NzJPdFNLcENWb0ZUYVo5NFYxSmFWYlFRZTM5aTRFLTZNblpXWm9VLTlLYUp5WHpPbE9WTjNQUkV5bWpoSExz?oc=5"
             },
             {
                 "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-24T16:26:55.383811+00:00"
+    "last_updated": "2026-09-24T21:06:20.160470+00:00"
 }
