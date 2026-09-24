@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-22",
-                "url": "https://www.voachinese.com/a/8195929.html"
+                "title": "翁杰明：建议国资监管出台专项规则，未来产业投资基金收益考核周期不低于10—15年",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-23",
+                "url": "https://36kr.com/newsflashes/3995384488906633?f=rss"
             },
             {
-                "title": "USCC公布研究报告，审视中国对跨太平洋海缆的灰色地带威胁",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-22",
-                "url": "https://www.voachinese.com/a/uscc-releases-a-research-report-examining-china-s-gray-zone-threats-to-trans-pacific-undersea-cables-20260922/8202990.html"
+                "title": "华为智能门锁 2 Pro 悦享版预售：搭载 AI 3D 人脸识别 3.0 技术，2499 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-23",
+                "url": "https://www.ithome.com/1/006/076.htm"
             },
             {
-                "title": "长鑫存储和长江存储正在加速进入彼此的核心业务领域",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579242.htm"
+                "title": "8点1氪丨雷军否认打新宇树挣100亿；罗永浩宣布播客暂停更新；Meta Muse爆火，扎克伯格身价一日暴涨1600亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-23",
+                "url": "https://36kr.com/p/3995341472125056?f=rss"
             },
             {
-                "title": "Starcloud计划利用轨道太阳能在太空挖比特币",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579236.htm"
+                "title": "美国司法部发声支持苹果部分主张：27% 外链抽佣不应被判藐视法庭",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-23",
+                "url": "https://www.ithome.com/1/006/075.htm"
             },
             {
-                "title": "苹果新一代高亮低功耗OLED屏或推迟至2029年 20周年版iPhone恐无缘搭载",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579226.htm"
+                "title": "传祺越7上市权益价16.18万至20.78万元，解锁家庭出行新体验",
+                "source": "NewsAPI / Dgtle.com",
+                "date": "2026-09-23",
+                "url": "https://www.dgtle.com/news-1554759-14.html"
             }
         ],
         "mil": [
+            {
+                "title": "8点1氪丨雷军否认打新宇树挣100亿；罗永浩宣布播客暂停更新；Meta Muse爆火，扎克伯格身价一日暴涨1600亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-23",
+                "url": "https://36kr.com/p/3995341472125056?f=rss"
+            },
+            {
+                "title": "IT早报 0923：中国民企 500 强出炉；高通 2nm 旗舰 SoC 六代骁龙 8 超级至尊版发布；OpenAI 发布 GPT-6 Sol、Luna；OPPO Find X10 系列发布...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-22",
+                "url": "https://www.ithome.com/1/006/030.htm"
+            },
+            {
+                "title": "充电宝起火迫使荷航航班中途返航 涉事设备据称属于前CEO",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579250.htm"
+            },
             {
                 "title": "《VOA今日焦点》音频",
                 "source": "NewsAPI / Voachinese.com",
@@ -56,28 +74,10 @@
                 "url": "https://www.dgtle.com/news-1554758-14.html"
             },
             {
-                "title": "雷军回应“打新宇树挣了100多亿”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-22",
-                "url": "https://36kr.com/newsflashes/3994364316793865?f=rss"
-            },
-            {
-                "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-22",
-                "url": "https://36kr.com/p/3994316084214534?f=rss"
-            },
-            {
-                "title": "AI从业者担忧技术对社会构成威胁 坦言承受巨大精神压力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579168.htm"
-            },
-            {
                 "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUG9QbHFUN1E2cXJtMjk0ZkNnRzJfUXNydU9QV2RTTXJKc3owSWhvUEJYM3VxS25LdXJEakJtQ3VOZ2tYU2dEYkpCQ3o2OVRMNEVaUnVxc3dKdnlkSE9TaFcwS0IyU3Fhd2lR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFZfOXVqa2hISXVyZWdpYWRCM1NoUzVEWXFNYVJFQlcxZzBTSFhaeFBPSHpCbW9qRGItMHFqWDhhUEd1RU1FSWc0OElLM2ljbkZmdVFJTGNKNzUySUR2UzBRVlY4VTVoY3RLdWJxcGVvM2pORHVZZ0NIYUg5eTcxbS0tSzRTS1UzRFhHNzFR?oc=5"
             },
             {
                 "title": "2026年9月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -104,48 +104,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FQTNLX2tsQi11TFEtREUtdmdkZFh1bUdad2QydkpCVlhxX00yMFJCU05VLTdWaDUtdGRWRk01U0lSREVSc3p6QjR0cUdfQjEtbkM3RzMzbFZIdVN3bkE?oc=5"
             },
             {
-                "title": "以实干实绩推动乡村全面振兴——习近平总书记在“中国农民丰收节”到来之际的节日祝贺和诚挚问候凝聚“三农”发展合力 - 军网",
+                "title": "特朗普总统抵达机场 迎接习近平主席到访 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWGc4WWQzX2gzVzBtY0FfM3VDTl9QNUNNdDQxY2k3dHNOSGZRbjhIYkRhdWl6S0xINHJROUhkUFdWTXVOeWhyMnBKeHpob2NmdXc?oc=5"
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyeGxLdmNOdVZXa2ZXZVlaSlBXem41X1RxNlRUYVZhOTJZcEtYT1o2ZGIzOHlEY2lqeHd2aTg1bGJnWGJ2VU1Ib0RZZUZab0NxQVE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-22",
-                "url": "https://www.voachinese.com/a/8195929.html"
+                "title": "8点1氪丨雷军否认打新宇树挣100亿；罗永浩宣布播客暂停更新；Meta Muse爆火，扎克伯格身价一日暴涨1600亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-23",
+                "url": "https://36kr.com/p/3995341472125056?f=rss"
             },
             {
-                "title": "习近平缺席联大专赴华盛顿，北京凸显对美关系优先",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-22",
-                "url": "https://www.voachinese.com/a/xi-skips-un-general-debate-for-washington-summit-as-china-pursues-two-track-diplomacy-2020922/8202892.html"
-            },
-            {
-                "title": "高市早苗会晤川普 请媒体离场显外交技巧(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-22",
-                "url": "https://www.secretchina.com/news/gb/2026/09/23/1105138.html"
-            },
-            {
-                "title": "美国纳斯达克综合指数周二盘中再创历史新高：科技股回暖 / 油价回落等因素驱动",
+                "title": "美国司法部发声支持苹果部分主张：27% 外链抽佣不应被判藐视法庭",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-22",
-                "url": "https://www.ithome.com/1/005/999.htm"
+                "date": "2026-09-23",
+                "url": "https://www.ithome.com/1/006/075.htm"
             },
             {
-                "title": "Tim Cook出席联合国大会讨论儿童网络安全 苹果将进一步强化未成年人保护",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579238.htm"
+                "title": "传祺越7上市权益价16.18万至20.78万元，解锁家庭出行新体验",
+                "source": "NewsAPI / Dgtle.com",
+                "date": "2026-09-23",
+                "url": "https://www.dgtle.com/news-1554759-14.html"
+            },
+            {
+                "title": "海面具身智能公司半年完成3亿融资，曾获李泽湘、高秉强、阿里、元禾系等投资｜硬氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-23",
+                "url": "https://36kr.com/p/3992518229818372?f=rss"
+            },
+            {
+                "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-23",
+                "url": "http://www.geekpark.net/news/370829"
             },
             {
                 "title": "习近平离京对美国进行国事访问 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hUG9QbHFUN1E2cXJtMjk0ZkNnRzJfUXNydU9QV2RTTXJKc3owSWhvUEJYM3VxS25LdXJEakJtQ3VOZ2tYU2dEYkpCQ3o2OVRMNEVaUnVxc3dKdnlkSE9TaFcwS0IyU3Fhd2lR?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFZfOXVqa2hISXVyZWdpYWRCM1NoUzVEWXFNYVJFQlcxZzBTSFhaeFBPSHpCbW9qRGItMHFqWDhhUEd1RU1FSWc0OElLM2ljbkZmdVFJTGNKNzUySUR2UzBRVlY4VTVoY3RLdWJxcGVvM2pORHVZZ0NIYUg5eTcxbS0tSzRTS1UzRFhHNzFR?oc=5"
             },
             {
                 "title": "2026年9月22日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FQTNLX2tsQi11TFEtREUtdmdkZFh1bUdad2QydkpCVlhxX00yMFJCU05VLTdWaDUtdGRWRk01U0lSREVSc3p6QjR0cUdfQjEtbkM3RzMzbFZIdVN3bkE?oc=5"
             },
             {
-                "title": "以实干实绩推动乡村全面振兴——习近平总书记在“中国农民丰收节”到来之际的节日祝贺和诚挚问候凝聚“三农”发展合力 - 军网",
+                "title": "特朗普总统抵达机场 迎接习近平主席到访 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-22",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWGc4WWQzX2gzVzBtY0FfM3VDTl9QNUNNdDQxY2k3dHNOSGZRbjhIYkRhdWl6S0xINHJROUhkUFdWTXVOeWhyMnBKeHpob2NmdXc?oc=5"
+                "date": "2026-09-23",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyeGxLdmNOdVZXa2ZXZVlaSlBXem41X1RxNlRUYVZhOTJZcEtYT1o2ZGIzOHlEY2lqeHd2aTg1bGJnWGJ2VU1Ib0RZZUZab0NxQVE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-23T21:02:11.616859+00:00"
+    "last_updated": "2026-09-24T03:01:35.052563+00:00"
 }
