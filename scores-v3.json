@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "模型之外，游戏+AI的下一道门槛在哪里？",
-                "source": "NewsAPI / 36kr.com",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-24",
-                "url": "https://36kr.com/p/3997468580958089?f=rss"
+                "url": "https://www.voachinese.com/a/8196849.html"
             },
             {
-                "title": "亚马逊将投资超 1 亿美元在美国新建机器人制造工厂，2028 年投入运营",
+                "title": "专家：数据显示北京对日本的旅游抵制未产生显著影响",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-24",
+                "url": "https://www.voachinese.com/a/japan-withstood-china-s-tourism-retaliation-for-prime-minister-s-statement-about-taiwan-report-20260923/8203465.html"
+            },
+            {
+                "title": "川习白宫交锋 AI竞赛藏在“熊猫外交”背后(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-24",
+                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105238.html"
+            },
+            {
+                "title": "白宫要求OpenAI与Anthropic暂缓向英国提供新模型测试权限",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-24",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579522.htm"
+            },
+            {
+                "title": "华为音悦家 App 获 6.0.0.340 尝鲜升级，新适配 MatePad 11.5 S 2025 等机型",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-24",
-                "url": "https://www.ithome.com/1/007/014.htm"
-            },
-            {
-                "title": "瑞典反诈骗宣传：面对骗子不必客气 “粗鲁一点”反而能保护自己",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579502.htm"
-            },
-            {
-                "title": "华为麒麟9050 Pro多核反超A17 Pro 差距缩至3年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579500.htm"
-            },
-            {
-                "title": "商务部副部长兼中华人民共和国国际贸易谈判副代表凌激与欧委会贸易和经济安全总司总司长约根森开展磋商",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-24",
-                "url": "https://36kr.com/newsflashes/3997396858802055?f=rss"
+                "url": "https://www.ithome.com/1/007/046.htm"
             }
         ],
         "mil": [
+            {
+                "title": "川习白宫交锋 AI竞赛藏在“熊猫外交”背后(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-24",
+                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105238.html"
+            },
+            {
+                "title": "川习会白宫国宴菜单曝光 美中商界大佬出席受关注(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-24",
+                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105237.html"
+            },
             {
                 "title": "模型之外，游戏+AI的下一道门槛在哪里？",
                 "source": "NewsAPI / 36kr.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1579488.htm"
             },
             {
-                "title": "李彦宏的长期主义，进入回报周期",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-24",
-                "url": "http://www.geekpark.net/news/371030"
-            },
-            {
-                "title": "市场监管总局公布五起充电宝质量安全典型案例",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-24",
-                "url": "https://www.ithome.com/1/006/903.htm"
-            },
-            {
                 "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-24",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oc2tkYmhuQk5sdUkzMGllc196XzVBSHZOTDFNVzQwakhXdk95NzJPdFNLcENWb0ZUYVo5NFYxSmFWYlFRZTM5aTRFLTZNblpXWm9VLTlLYUp5WHpPbE9WTjNQUkV5bWpoSExz?oc=5"
             },
             {
+                "title": "心相近｜习近平主席讲述的中美人民友好故事 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mZGJCd1BSQzZVOURBV3VEZG45SDdLbm95dExhZWZzSzFPWFR5VFBRU1B3X19iU1EyQWtncWpnbkxpZXlvWFNCOTFBb19kRVFMWFE?oc=5"
+            },
+            {
                 "title": "特朗普总统抵达机场 迎接习近平主席到访 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-23",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xU3JVVldOdDhxTG81VHMzTU1OeGlleHBwa2xWdGtLeHRWSERaeEltbEs4TmV6UzJ0ZWNfMHhXRXhtVl9rcWg5UkZLTFNSaHJkNlE?oc=5"
-            },
-            {
-                "title": "中华人民共和国审计法实施条例 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iMEVZdmF4Zk9ESUE1QUotUUszWFQwNzdqdnFKVDFVSFliZURfU05BNFh6Tk1aNWdUdlNob0FWUUxPWmpvVjJxWkJQQnJNUnNRZ0E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "华为鸿蒙 HarmonyOS 7.0.0.109 SP6 版本开启推送，新增智能识别信息内容等功能",
-                "source": "NewsAPI / Ithome.com",
+                "title": "中国记者白宫抢位推挤 特勤局介入警告(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-24",
-                "url": "https://www.ithome.com/1/007/033.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105239.html"
             },
             {
-                "title": "模型之外，游戏+AI的下一道门槛在哪里？",
-                "source": "NewsAPI / 36kr.com",
+                "title": "川习白宫交锋 AI竞赛藏在“熊猫外交”背后(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-24",
-                "url": "https://36kr.com/p/3997468580958089?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105238.html"
             },
             {
-                "title": "Waymo 公布 2.71 亿英里自动驾驶数据：严重事故比人类驾驶员少 95%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-24",
-                "url": "https://www.ithome.com/1/007/015.htm"
-            },
-            {
-                "title": "瑞典反诈骗宣传：面对骗子不必客气 “粗鲁一点”反而能保护自己",
+                "title": "白宫要求OpenAI与Anthropic暂缓向英国提供新模型测试权限",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579502.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579522.htm"
             },
             {
-                "title": "*ST利达：收到江苏证监局行政处罚决定书",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Google相册AI数字衣橱功能全面上线 灵感源自经典电影《独领风骚》",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-24",
-                "url": "https://36kr.com/newsflashes/3997384485146496?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579520.htm"
+            },
+            {
+                "title": "外交谈判不是投降 正常接待更不是示弱(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-24",
+                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105231.html"
             },
             {
                 "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话 - mfa.gov.cn",
@@ -160,6 +160,12 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oc2tkYmhuQk5sdUkzMGllc196XzVBSHZOTDFNVzQwakhXdk95NzJPdFNLcENWb0ZUYVo5NFYxSmFWYlFRZTM5aTRFLTZNblpXWm9VLTlLYUp5WHpPbE9WTjNQUkV5bWpoSExz?oc=5"
             },
             {
+                "title": "心相近｜习近平主席讲述的中美人民友好故事 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mZGJCd1BSQzZVOURBV3VEZG45SDdLbm95dExhZWZzSzFPWFR5VFBRU1B3X19iU1EyQWtncWpnbkxpZXlvWFNCOTFBb19kRVFMWFE?oc=5"
+            },
+            {
                 "title": "特朗普总统抵达机场 迎接习近平主席到访 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-23",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xU3JVVldOdDhxTG81VHMzTU1OeGlleHBwa2xWdGtLeHRWSERaeEltbEs4TmV6UzJ0ZWNfMHhXRXhtVl9rcWg5UkZLTFNSaHJkNlE?oc=5"
-            },
-            {
-                "title": "中华人民共和国审计法实施条例 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iMEVZdmF4Zk9ESUE1QUotUUszWFQwNzdqdnFKVDFVSFliZURfU05BNFh6Tk1aNWdUdlNob0FWUUxPWmpvVjJxWkJQQnJNUnNRZ0E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-25T16:27:35.579217+00:00"
+    "last_updated": "2026-09-25T21:03:31.148722+00:00"
 }
