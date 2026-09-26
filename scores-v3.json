@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "9月全国日均揽收快递5.85亿件，单日峰值超6.1亿件",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-25",
-                "url": "https://36kr.com/newsflashes/3998171117817993?f=rss"
-            },
-            {
-                "title": "特斯拉 Semi 电动卡车开始大规模生产，工厂年产能 5 万辆",
+                "title": "AOC 推出 34 英寸 G4 宙斯盾带鱼屏显示器：WQHD 200Hz，国补价 1613.7 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-25",
-                "url": "https://www.ithome.com/1/007/084.htm"
+                "url": "https://www.ithome.com/1/007/160.htm"
             },
             {
-                "title": "三折叠终于不像奇观了，但它还是 19999 元",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-25",
-                "url": "http://www.geekpark.net/news/371034"
-            },
-            {
-                "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-25",
-                "url": "http://www.geekpark.net/news/371033"
-            },
-            {
-                "title": "习近平同美国总统特朗普会谈",
+                "title": "中信证券：高阶智驾加速渗透，产业链持续受益",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-09-25",
-                "url": "https://36kr.com/newsflashes/3998108853489797?f=rss"
+                "url": "https://36kr.com/newsflashes/3998474433253504?f=rss"
+            },
+            {
+                "title": "海贝 RS2 音乐播放器发售：R2R 技术达尔文三代架构，2798 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-25",
+                "url": "https://www.ithome.com/1/007/137.htm"
+            },
+            {
+                "title": "116亿美元买CPU算力 Anthropic大单引爆老牌科技股Akamai",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579582.htm"
+            },
+            {
+                "title": "SemiAnalysis分析师向AMD开炮：应以叛国罪调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579576.htm"
             }
         ],
         "mil": [
+            {
+                "title": "SemiAnalysis分析师向AMD开炮：应以叛国罪调查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579576.htm"
+            },
+            {
+                "title": "美英完成无人潜艇发射Mk 48重型鱼雷试验 水下作战能力取得突破性提升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579538.htm"
+            },
             {
                 "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
                 "source": "NewsAPI / Geekpark.net",
@@ -62,18 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/09/25/1105237.html"
             },
             {
-                "title": "模型之外，游戏+AI的下一道门槛在哪里？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-24",
-                "url": "https://36kr.com/p/3997468580958089?f=rss"
-            },
-            {
-                "title": "瑞典反诈骗宣传：面对骗子不必客气 “粗鲁一点”反而能保护自己",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579502.htm"
-            },
-            {
                 "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-24",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xYktaNVdUaU1uVWNfUWNNVzVDOW5MSTEyUjBmcWpvU0doc1lVdVQ0SmtjOV9sQ0VyMzJiZ3NJeFc1cFdUODNscTl1N0hmN1Z3M21wN2RxR0RVTmpELWxuejlTOVJSczFDRlVz?oc=5"
             },
             {
-                "title": "2026年9月24日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2X0QzdGZRR2p6a29vSDlZeU55VENRcEE2VjVjalNKSS1PcEdZMFJHNTdPai11ODJ2eXFCM19HWkFXdTBMa3oxaXZjS0s0VGRnRGtPRDBYa1VXZVNBaVNUR2ZfQWxLeUdhdnhCMDNIbFVXUC1BR2c?oc=5"
+                "date": "2026-09-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4QXpzdUV1YTZidm54bkFQVVVPemo0WnVmNm0tbGpXM1lRd2pRTXpZT3cyT0QzaEoxeFN4cTNWb3kzaFZqUU92bW9rM0RTZ1JFTVZmWF85Ni1SQ2ZLejkyVDJ5THlUakxFdjBV?oc=5"
             },
             {
                 "title": "习近平同美国总统特朗普会谈 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "新一代梅赛德斯-迈巴赫 S 级轿车上市：搭载高阶智能辅助驾驶系统，139.8 万元起",
+                "title": "IMF：2026年全球AI投资规模或突破2万亿美元，成为增长重要驱动力",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-25",
+                "url": "https://36kr.com/newsflashes/3998607176274049?f=rss"
+            },
+            {
+                "title": "中国第一夫人彭丽媛在华府展示个人魅力",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-25",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%9C%A8%E5%8D%8E%E5%BA%9C%E5%B1%95%E7%A4%BA%E4%B8%AA%E4%BA%BA%E9%AD%85%E5%8A%9B/a-79427423"
+            },
+            {
+                "title": "中国第一夫人彭丽媛在华府展示个人魅力",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-09-25",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%9C%A8%E5%8D%8E%E5%BA%9C%E5%B1%95%E7%A4%BA%E4%B8%AA%E4%BA%BA%E9%AD%85%E5%8A%9B/a-79427423"
+            },
+            {
+                "title": "试图闯入政府或学校网站，OpenAI 智能体四次“失控”细节曝光",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-25",
-                "url": "https://www.ithome.com/1/007/102.htm"
+                "url": "https://www.ithome.com/1/007/144.htm"
             },
             {
-                "title": "三折叠终于不像奇观了，但它还是 19999 元",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "116亿美元买CPU算力 Anthropic大单引爆老牌科技股Akamai",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-25",
-                "url": "http://www.geekpark.net/news/371034"
-            },
-            {
-                "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-25",
-                "url": "http://www.geekpark.net/news/371033"
-            },
-            {
-                "title": "习近平访美，遭遇多团体多族群集结抗议",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-25",
-                "url": "https://www.voachinese.com/a/xi-jinping-s-visit-to-the-u-s-met-with-protests-organized-by-various-groups-20260924/8204227.html"
-            },
-            {
-                "title": "IT早报 0925：李佳琦称 AI 无法取代真人主播；华为余承东称会让每个界都获更充足资源；营业厅“0 元购机”全面停办；国补 5499 元荣耀 Magic9 价格提前公布...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-24",
-                "url": "https://www.ithome.com/1/007/058.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579582.htm"
             },
             {
                 "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xYktaNVdUaU1uVWNfUWNNVzVDOW5MSTEyUjBmcWpvU0doc1lVdVQ0SmtjOV9sQ0VyMzJiZ3NJeFc1cFdUODNscTl1N0hmN1Z3M21wN2RxR0RVTmpELWxuejlTOVJSczFDRlVz?oc=5"
             },
             {
-                "title": "2026年9月24日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "title": "重要新闻_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2X0QzdGZRR2p6a29vSDlZeU55VENRcEE2VjVjalNKSS1PcEdZMFJHNTdPai11ODJ2eXFCM19HWkFXdTBMa3oxaXZjS0s0VGRnRGtPRDBYa1VXZVNBaVNUR2ZfQWxLeUdhdnhCMDNIbFVXUC1BR2c?oc=5"
+                "date": "2026-09-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4QXpzdUV1YTZidm54bkFQVVVPemo0WnVmNm0tbGpXM1lRd2pRTXpZT3cyT0QzaEoxeFN4cTNWb3kzaFZqUU92bW9rM0RTZ1JFTVZmWF85Ni1SQ2ZLejkyVDJ5THlUakxFdjBV?oc=5"
             },
             {
                 "title": "习近平同美国总统特朗普会谈 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-26T03:23:16.083595+00:00"
+    "last_updated": "2026-09-26T10:45:49.018586+00:00"
 }
