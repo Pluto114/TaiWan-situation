@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-24",
-                "url": "https://www.voachinese.com/a/8196849.html"
+                "title": "9月全国日均揽收快递5.85亿件，单日峰值超6.1亿件",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-25",
+                "url": "https://36kr.com/newsflashes/3998171117817993?f=rss"
             },
             {
-                "title": "专家：数据显示北京对日本的旅游抵制未产生显著影响",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-24",
-                "url": "https://www.voachinese.com/a/japan-withstood-china-s-tourism-retaliation-for-prime-minister-s-statement-about-taiwan-report-20260923/8203465.html"
-            },
-            {
-                "title": "川习白宫交锋 AI竞赛藏在“熊猫外交”背后(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-24",
-                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105238.html"
-            },
-            {
-                "title": "白宫要求OpenAI与Anthropic暂缓向英国提供新模型测试权限",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579522.htm"
-            },
-            {
-                "title": "华为音悦家 App 获 6.0.0.340 尝鲜升级，新适配 MatePad 11.5 S 2025 等机型",
+                "title": "特斯拉 Semi 电动卡车开始大规模生产，工厂年产能 5 万辆",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-24",
-                "url": "https://www.ithome.com/1/007/046.htm"
+                "date": "2026-09-25",
+                "url": "https://www.ithome.com/1/007/084.htm"
+            },
+            {
+                "title": "三折叠终于不像奇观了，但它还是 19999 元",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-25",
+                "url": "http://www.geekpark.net/news/371034"
+            },
+            {
+                "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-25",
+                "url": "http://www.geekpark.net/news/371033"
+            },
+            {
+                "title": "习近平同美国总统特朗普会谈",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-25",
+                "url": "https://36kr.com/newsflashes/3998108853489797?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-25",
+                "url": "http://www.geekpark.net/news/371033"
+            },
             {
                 "title": "川习白宫交锋 AI竞赛藏在“熊猫外交”背后(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,16 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1579502.htm"
             },
             {
-                "title": "喀拉喀托之子火山发生剧烈喷发 火山灰云冲上5万英尺高空引发航空与安全预警",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579488.htm"
-            },
-            {
-                "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话 - mfa.gov.cn",
+                "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0YjI3NkZaZUZnWVhqeVZrZ29RLVcwOTFzTlN2MGR5dHhmMGVsMDhSRVJxSmpMM254NmE0c1JEOEJkV2xiVG92d28wUzJUVWJrdEtmNmVJR2x6czc5MHg1cFhLcFNwMy1xRWpF?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSnpZaGpwU2JiSy1JNG5TQTVlQU5VU0VXNDZqNzFxSWlibElUTUJWV3ROLU1aeE0zQ3VIMjNSaUhCVS1qTDJNcUR6WlJzd0Z4MHJpWGFWMUZZLWI0cV9FS1ByUlRvN0hjQUhB?oc=5"
             },
             {
                 "title": "习近平在白宫欢迎仪式上的致辞（全文） - mfa.gov.cn",
@@ -86,25 +86,25 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xYktaNVdUaU1uVWNfUWNNVzVDOW5MSTEyUjBmcWpvU0doc1lVdVQ0SmtjOV9sQ0VyMzJiZ3NJeFc1cFdUODNscTl1N0hmN1Z3M21wN2RxR0RVTmpELWxuejlTOVJSczFDRlVz?oc=5"
             },
             {
-                "title": "习近平抵达华盛顿对美国进行国事访问 - mfa.gov.cn",
+                "title": "2026年9月24日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oc2tkYmhuQk5sdUkzMGllc196XzVBSHZOTDFNVzQwakhXdk95NzJPdFNLcENWb0ZUYVo5NFYxSmFWYlFRZTM5aTRFLTZNblpXWm9VLTlLYUp5WHpPbE9WTjNQUkV5bWpoSExz?oc=5"
+                "date": "2026-09-24",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2X0QzdGZRR2p6a29vSDlZeU55VENRcEE2VjVjalNKSS1PcEdZMFJHNTdPai11ODJ2eXFCM19HWkFXdTBMa3oxaXZjS0s0VGRnRGtPRDBYa1VXZVNBaVNUR2ZfQWxLeUdhdnhCMDNIbFVXUC1BR2c?oc=5"
             },
             {
-                "title": "心相近｜习近平主席讲述的中美人民友好故事 - 军网",
+                "title": "习近平同美国总统特朗普会谈 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JU1loOXF3Uk4tY3otMTFibUE2ZlRWRUJiT2lSTGpHa2ppR3JiNzE1RW1pQ1ZYV2JzcWhqbnNYRnpoSDhPMzJXOFExREtoM0pndnc?oc=5"
+            },
+            {
+                "title": "心相近｜习近平主席讲述的中美人民友好故事 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mZGJCd1BSQzZVOURBV3VEZG45SDdLbm95dExhZWZzSzFPWFR5VFBRU1B3X19iU1EyQWtncWpnbkxpZXlvWFNCOTFBb19kRVFMWFE?oc=5"
             },
             {
-                "title": "特朗普总统抵达机场 迎接习近平主席到访 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyeGxLdmNOdVZXa2ZXZVlaSlBXem41X1RxNlRUYVZhOTJZcEtYT1o2ZGIzOHlEY2lqeHd2aTg1bGJnWGJ2VU1Ib0RZZUZab0NxQVE?oc=5"
-            },
-            {
-                "title": "习近平在白宫欢迎仪式上的致辞（全文） - 军网",
+                "title": "习近平在白宫欢迎仪式上的致辞（全文） - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xU3JVVldOdDhxTG81VHMzTU1OeGlleHBwa2xWdGtLeHRWSERaeEltbEs4TmV6UzJ0ZWNfMHhXRXhtVl9rcWg5UkZLTFNSaHJkNlE?oc=5"
@@ -112,40 +112,40 @@
         ],
         "pol": [
             {
-                "title": "中国记者白宫抢位推挤 特勤局介入警告(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-24",
-                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105239.html"
+                "title": "新一代梅赛德斯-迈巴赫 S 级轿车上市：搭载高阶智能辅助驾驶系统，139.8 万元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-25",
+                "url": "https://www.ithome.com/1/007/102.htm"
             },
             {
-                "title": "川习白宫交锋 AI竞赛藏在“熊猫外交”背后(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-24",
-                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105238.html"
+                "title": "三折叠终于不像奇观了，但它还是 19999 元",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-25",
+                "url": "http://www.geekpark.net/news/371034"
             },
             {
-                "title": "白宫要求OpenAI与Anthropic暂缓向英国提供新模型测试权限",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579522.htm"
+                "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-25",
+                "url": "http://www.geekpark.net/news/371033"
             },
             {
-                "title": "Google相册AI数字衣橱功能全面上线 灵感源自经典电影《独领风骚》",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579520.htm"
+                "title": "习近平访美，遭遇多团体多族群集结抗议",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-25",
+                "url": "https://www.voachinese.com/a/xi-jinping-s-visit-to-the-u-s-met-with-protests-organized-by-various-groups-20260924/8204227.html"
             },
             {
-                "title": "外交谈判不是投降 正常接待更不是示弱(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "IT早报 0925：李佳琦称 AI 无法取代真人主播；华为余承东称会让每个界都获更充足资源；营业厅“0 元购机”全面停办；国补 5499 元荣耀 Magic9 价格提前公布...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-24",
-                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105231.html"
+                "url": "https://www.ithome.com/1/007/058.htm"
             },
             {
-                "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话 - mfa.gov.cn",
+                "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0YjI3NkZaZUZnWVhqeVZrZ29RLVcwOTFzTlN2MGR5dHhmMGVsMDhSRVJxSmpMM254NmE0c1JEOEJkV2xiVG92d28wUzJUVWJrdEtmNmVJR2x6czc5MHg1cFhLcFNwMy1xRWpF?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSnpZaGpwU2JiSy1JNG5TQTVlQU5VU0VXNDZqNzFxSWlibElUTUJWV3ROLU1aeE0zQ3VIMjNSaUhCVS1qTDJNcUR6WlJzd0Z4MHJpWGFWMUZZLWI0cV9FS1ByUlRvN0hjQUhB?oc=5"
             },
             {
                 "title": "习近平在白宫欢迎仪式上的致辞（全文） - mfa.gov.cn",
@@ -154,25 +154,25 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xYktaNVdUaU1uVWNfUWNNVzVDOW5MSTEyUjBmcWpvU0doc1lVdVQ0SmtjOV9sQ0VyMzJiZ3NJeFc1cFdUODNscTl1N0hmN1Z3M21wN2RxR0RVTmpELWxuejlTOVJSczFDRlVz?oc=5"
             },
             {
-                "title": "习近平抵达华盛顿对美国进行国事访问 - mfa.gov.cn",
+                "title": "2026年9月24日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oc2tkYmhuQk5sdUkzMGllc196XzVBSHZOTDFNVzQwakhXdk95NzJPdFNLcENWb0ZUYVo5NFYxSmFWYlFRZTM5aTRFLTZNblpXWm9VLTlLYUp5WHpPbE9WTjNQUkV5bWpoSExz?oc=5"
+                "date": "2026-09-24",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2X0QzdGZRR2p6a29vSDlZeU55VENRcEE2VjVjalNKSS1PcEdZMFJHNTdPai11ODJ2eXFCM19HWkFXdTBMa3oxaXZjS0s0VGRnRGtPRDBYa1VXZVNBaVNUR2ZfQWxLeUdhdnhCMDNIbFVXUC1BR2c?oc=5"
             },
             {
-                "title": "心相近｜习近平主席讲述的中美人民友好故事 - 军网",
+                "title": "习近平同美国总统特朗普会谈 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JU1loOXF3Uk4tY3otMTFibUE2ZlRWRUJiT2lSTGpHa2ppR3JiNzE1RW1pQ1ZYV2JzcWhqbnNYRnpoSDhPMzJXOFExREtoM0pndnc?oc=5"
+            },
+            {
+                "title": "心相近｜习近平主席讲述的中美人民友好故事 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-25",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mZGJCd1BSQzZVOURBV3VEZG45SDdLbm95dExhZWZzSzFPWFR5VFBRU1B3X19iU1EyQWtncWpnbkxpZXlvWFNCOTFBb19kRVFMWFE?oc=5"
             },
             {
-                "title": "特朗普总统抵达机场 迎接习近平主席到访 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyeGxLdmNOdVZXa2ZXZVlaSlBXem41X1RxNlRUYVZhOTJZcEtYT1o2ZGIzOHlEY2lqeHd2aTg1bGJnWGJ2VU1Ib0RZZUZab0NxQVE?oc=5"
-            },
-            {
-                "title": "习近平在白宫欢迎仪式上的致辞（全文） - 军网",
+                "title": "习近平在白宫欢迎仪式上的致辞（全文） - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-24",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xU3JVVldOdDhxTG81VHMzTU1OeGlleHBwa2xWdGtLeHRWSERaeEltbEs4TmV6UzJ0ZWNfMHhXRXhtVl9rcWg5UkZLTFNSaHJkNlE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-25T21:03:31.148722+00:00"
+    "last_updated": "2026-09-26T03:23:16.083595+00:00"
 }
