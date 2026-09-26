@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Counterpoint：2025-2030 年间，全球 200 美元以下智能手机年出货将减少超 2.3 亿部",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特习会落幕：中国官媒看到“大船”，西方媒体看到“筹码”",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-25",
-                "url": "https://www.ithome.com/1/007/248.htm"
+                "url": "https://www.voachinese.com/a/different-narrative-on-trump-xi-meeting-20260925/8204437.html"
             },
             {
-                "title": "小米 18 Fold 中折叠首销情况曝光：9 月 7 日-13 日约 3.97 万台",
-                "source": "NewsAPI / Ithome.com",
+                "title": "习近平访美 时评人：礼遇与压力并存的“哑铃外交”(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-25",
-                "url": "https://www.ithome.com/1/007/244.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/09/26/1105287.html"
             },
             {
-                "title": "传苹果英伟达等美芯片巨头均在评估英特尔14A工艺",
+                "title": "美中部分商品贸易达协议 细节下周一公布(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-25",
+                "url": "https://www.secretchina.com/news/gb/2026/09/26/1105286.html"
+            },
+            {
+                "title": "美国上诉法院维持五角大楼将Anthropic列入黑名单的裁定",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579608.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579648.htm"
             },
             {
-                "title": "咨询业高管称企业尚未看到AI带来投资回报",
+                "title": "特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579606.htm"
-            },
-            {
-                "title": "AOC 推出 34 英寸 G4 宙斯盾带鱼屏显示器：WQHD 200Hz，国补价 1613.7 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-25",
-                "url": "https://www.ithome.com/1/007/160.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579646.htm"
             }
         ],
         "mil": [
+            {
+                "title": "白宫国宴演奏《悲惨世界》 选曲引发联想(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-25",
+                "url": "https://www.secretchina.com/news/gb/2026/09/26/1105288.html"
+            },
+            {
+                "title": "特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579646.htm"
+            },
             {
                 "title": "马斯克押注超大规模AI算力 xAI计划部署逾120万颗英伟达GPU",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -62,40 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1579538.htm"
             },
             {
-                "title": "「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-25",
-                "url": "http://www.geekpark.net/news/371033"
-            },
-            {
-                "title": "川习白宫交锋 AI竞赛藏在“熊猫外交”背后(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-24",
-                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105238.html"
-            },
-            {
-                "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
+                "title": "开辟大国相处正确之道 书写中美关系历史新篇 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSnpZaGpwU2JiSy1JNG5TQTVlQU5VU0VXNDZqNzFxSWlibElUTUJWV3ROLU1aeE0zQ3VIMjNSaUhCVS1qTDJNcUR6WlJzd0Z4MHJpWGFWMUZZLWI0cV9FS1ByUlRvN0hjQUhB?oc=5"
+                "date": "2026-09-26",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VDludGpfWGpOUXhXUWRHQ29qVTZTU1NMdUpmNFJ3X3dHSWZWc1NkZk1paWRYdVBnc2lnVVlBNUtlWEFlZEVjcHM1aDdvUENUbVY0dldGRkFNV1lYWWlGc3ptYkRONzBZMzBGZkJB?oc=5"
+            },
+            {
+                "title": "中美达成八点成果共识 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-26",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05eDJLTEdSc0VSQ29iQXpqVnpoQkFNN0lZcXlXQ19PMXQwZXpxTlBCUS0zd2NmQ3ZNTl9TUU43eEdEeUxyUnNRdk5rNHlkUGVVUU1RaGQ1QktfM05LckFJeTB5emNpbi1Lcm9Cd0JMX1o?oc=5"
             },
             {
                 "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-25",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4QXpzdUV1YTZidm54bkFQVVVPemo0WnVmNm0tbGpXM1lRd2pRTXpZT3cyT0QzaEoxeFN4cTNWb3kzaFZqUU92bW9rM0RTZ1JFTVZmWF85Ni1SQ2ZLejkyVDJ5THlUakxFdjBV?oc=5"
-            },
-            {
-                "title": "中美达成八点成果共识 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84bmlWU2V2Sm1zbGl6dGp6TjNyYWppZElLLVU2N1dILUQ5c19YdnBGVmRZcFBQZHFrdFB6VDE5aXlPM19hdDc1M2ZDVVdYRS1rWjEyeVZBVmZ2a2pkdkp0NHo4N3VDNjJxRHhj?oc=5"
-            },
-            {
-                "title": "习近平同美国总统特朗普会谈 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JU1loOXF3Uk4tY3otMTFibUE2ZlRWRUJiT2lSTGpHa2ppR3JiNzE1RW1pQ1ZYV2JzcWhqbnNYRnpoSDhPMzJXOFExREtoM0pndnc?oc=5"
             },
             {
                 "title": "心相近｜习近平主席讲述的中美人民友好故事 - 中国军网",
@@ -108,9 +102,39 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xclAxQkpoLVZRT3JOMWVSSzQ0a1FzNzhVa1ZmcU5VLUIwTGxjZXRyV01BVVdOZFRvUll1LWJETS1JZnlOOWk0WUk3Mm9oUlF6Q3c?oc=5"
+            },
+            {
+                "title": "拾光纪·精彩瞬间！中美元首会晤，欢迎仪式现场画面来了 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pVkVFdEt6YUkzaG5fWGNDX1lvSm1pWC1WRkI3dzltNEZoSmplY0JGWW5zWUIyYjJGWWJLNnJNRGpMbnprTUdfdFByb1pJMzF2Ymc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "特习会落幕：中国官媒看到“大船”，西方媒体看到“筹码”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-25",
+                "url": "https://www.voachinese.com/a/different-narrative-on-trump-xi-meeting-20260925/8204437.html"
+            },
+            {
+                "title": "习近平访美 时评人：礼遇与压力并存的“哑铃外交”(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-25",
+                "url": "https://www.secretchina.com/news/gb/2026/09/26/1105287.html"
+            },
+            {
+                "title": "特斯拉Optimus 机器人扩产遇阻：手部结构与供应链接连出问题",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579646.htm"
+            },
+            {
+                "title": "SK海力士旗下Solidigm考虑明年赴美IPO 估值或高达1500亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579642.htm"
+            },
             {
                 "title": "Google Gemini开始替你打电话：AI可代表用户联系商家、预约服务并全程处理通话",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -118,52 +142,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1579624.htm"
             },
             {
-                "title": "1643人死里逃生 他提前听见大洪水警报(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-25",
-                "url": "https://www.secretchina.com/news/gb/2026/09/25/1105277.html"
-            },
-            {
-                "title": "英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-25",
-                "url": "https://www.ithome.com/1/007/228.htm"
-            },
-            {
-                "title": "亚马逊送货无人机引发社区不满 德州居民抱怨噪音不断",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579616.htm"
-            },
-            {
-                "title": "传苹果英伟达等美芯片巨头均在评估英特尔14A工艺",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-25",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579608.htm"
-            },
-            {
-                "title": "习近平同美国总统特朗普会谈 - mfa.gov.cn",
+                "title": "开辟大国相处正确之道 书写中美关系历史新篇 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSnpZaGpwU2JiSy1JNG5TQTVlQU5VU0VXNDZqNzFxSWlibElUTUJWV3ROLU1aeE0zQ3VIMjNSaUhCVS1qTDJNcUR6WlJzd0Z4MHJpWGFWMUZZLWI0cV9FS1ByUlRvN0hjQUhB?oc=5"
+                "date": "2026-09-26",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VDludGpfWGpOUXhXUWRHQ29qVTZTU1NMdUpmNFJ3X3dHSWZWc1NkZk1paWRYdVBnc2lnVVlBNUtlWEFlZEVjcHM1aDdvUENUbVY0dldGRkFNV1lYWWlGc3ptYkRONzBZMzBGZkJB?oc=5"
+            },
+            {
+                "title": "中美达成八点成果共识 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-26",
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05eDJLTEdSc0VSQ29iQXpqVnpoQkFNN0lZcXlXQ19PMXQwZXpxTlBCUS0zd2NmQ3ZNTl9TUU43eEdEeUxyUnNRdk5rNHlkUGVVUU1RaGQ1QktfM05LckFJeTB5emNpbi1Lcm9Cd0JMX1o?oc=5"
             },
             {
                 "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文） - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-25",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4QXpzdUV1YTZidm54bkFQVVVPemo0WnVmNm0tbGpXM1lRd2pRTXpZT3cyT0QzaEoxeFN4cTNWb3kzaFZqUU92bW9rM0RTZ1JFTVZmWF85Ni1SQ2ZLejkyVDJ5THlUakxFdjBV?oc=5"
-            },
-            {
-                "title": "中美达成八点成果共识 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-26",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84bmlWU2V2Sm1zbGl6dGp6TjNyYWppZElLLVU2N1dILUQ5c19YdnBGVmRZcFBQZHFrdFB6VDE5aXlPM19hdDc1M2ZDVVdYRS1rWjEyeVZBVmZ2a2pkdkp0NHo4N3VDNjJxRHhj?oc=5"
-            },
-            {
-                "title": "习近平同美国总统特朗普会谈 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-24",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JU1loOXF3Uk4tY3otMTFibUE2ZlRWRUJiT2lSTGpHa2ppR3JiNzE1RW1pQ1ZYV2JzcWhqbnNYRnpoSDhPMzJXOFExREtoM0pndnc?oc=5"
             },
             {
                 "title": "心相近｜习近平主席讲述的中美人民友好故事 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xclAxQkpoLVZRT3JOMWVSSzQ0a1FzNzhVa1ZmcU5VLUIwTGxjZXRyV01BVVdOZFRvUll1LWJETS1JZnlOOWk0WUk3Mm9oUlF6Q3c?oc=5"
+            },
+            {
+                "title": "拾光纪·精彩瞬间！中美元首会晤，欢迎仪式现场画面来了 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pVkVFdEt6YUkzaG5fWGNDX1lvSm1pWC1WRkI3dzltNEZoSmplY0JGWW5zWUIyYjJGWWJLNnJNRGpMbnprTUdfdFByb1pJMzF2Ymc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-26T15:42:45.832444+00:00"
+    "last_updated": "2026-09-26T20:36:49.241442+00:00"
 }
