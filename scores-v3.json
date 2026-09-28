@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
+                "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579826.htm"
+            },
+            {
+                "title": "智能之外，谁为自主技术负责？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-27",
+                "url": "https://www.ftchinese.com/story/001111002"
+            },
+            {
+                "title": "断层线上的岛屿：台湾在全球地缘政治中的地位和未来",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-27",
+                "url": "https://www.ftchinese.com/story/001111005"
+            },
+            {
+                "title": "俄罗斯将数据中心列为打击目标 乌克兰10万户家庭断网",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579812.htm"
+            },
+            {
                 "title": "王自如劝退iPhone 18 Pro：一场关于“换机价值”的公开讨论",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-27",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1579796.htm"
-            },
-            {
-                "title": "预售 11.99 万起，北京现代艾尼氪 IONIQ V 车型 9 月 29 日上市",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-27",
-                "url": "https://www.ithome.com/1/007/590.htm"
-            },
-            {
-                "title": "【CDT报告汇】Anthropic报告：中国相关行动者利用AI监控维吾尔人、异议人士及海外宗教群体（外二篇）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-09-27",
-                "url": "https://chinadigitaltimes.net/chinese/732273.html"
-            },
-            {
-                "title": "阿里整合 AI 办公力量后，千问办公怎么打这场大战？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-27",
-                "url": "http://www.geekpark.net/news/371040"
-            },
-            {
-                "title": "同程旅行：中秋演出经济火热，场馆周边酒店预订热度同比提升37%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-27",
-                "url": "https://36kr.com/newsflashes/4001340336557958?f=rss"
             }
         ],
         "mil": [
             {
-                "title": "OpenAI和Anthropic差点签下“互黑协议”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579774.htm"
-            },
-            {
-                "title": "新一代 Roadster 发布在即，特斯拉可伸缩主动尾翼专利曝光",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-27",
-                "url": "https://www.ithome.com/1/007/523.htm"
-            },
-            {
-                "title": "OpenAI逃逸的AI Agent竟在全网植入自我复制代码 血洗联合国内网",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579762.htm"
-            },
-            {
-                "title": "余茂春和盛雪解读川习会的多重博弈(图)",
+                "title": "一场国宴 川普究竟跟习近平说了什么(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-27",
-                "url": "https://www.secretchina.com/news/gb/2026/09/27/1105333.html"
+                "url": "https://www.secretchina.com/news/gb/2026/09/28/1105363.html"
             },
             {
-                "title": "中美达成“超级智能”沟通机制 两国首次建立AI重大风险联络渠道",
+                "title": "中国在南中国海争议岛礁周边举行演习，美国谴责北京采取危险升级行动",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-27",
+                "url": "https://www.voachinese.com/a/china-conducts-joint-naval-and-air-drills-near-disputed-south-china-sea-shoal-20260927/8204985.html"
+            },
+            {
+                "title": "智能之外，谁为自主技术负责？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-27",
+                "url": "https://www.ftchinese.com/story/001111002"
+            },
+            {
+                "title": "断层线上的岛屿：台湾在全球地缘政治中的地位和未来",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-27",
+                "url": "https://www.ftchinese.com/story/001111005"
+            },
+            {
+                "title": "俄罗斯将数据中心列为打击目标 乌克兰10万户家庭断网",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579728.htm"
+                "date": "2026-09-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579812.htm"
+            },
+            {
+                "title": "2026年9月28日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-28",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tR1NCb05JTUNOckVzZEVKSUJqRDVSTUhTQlJiREZfMWJfay1fUGVPWVY0M2J3bUxMeF80bG9feW9QY243dUQ0bVZONHRrQWRTMXpSRnVfZ2k5VUJfdDZPeVRGNm51Tmp5by1mUGRvMUM4QXB3U0E?oc=5"
             },
             {
                 "title": "驻马耳他大使张佐在2026年华侨华人国庆游园会上的致辞（全文） - mfa.gov.cn",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kajhyd3Z2UWUyS3lEVGp0YUwxWU54dmt5QW42d01Rb0Q4WGNWWkxYSXoxWk1IRlFlMTBzcXhoRzFDQ2NXZXd6dTZYSmY0OUlESkNwY3E2d2k1RlExU29nMEo2YTNsV1BlUFZYR0xyRzdUZEF6M0ZRNHRVYw?oc=5"
             },
             {
-                "title": "驻该国使领馆 - cs.mfa.gov.cn",
+                "title": "驻瑙鲁大使吕进受邀为环瑙自行车赛颁奖 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-26",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Q0tUWXFmVXM3eENIeGVORGRPTjA1Z1ZleVNtdlN6bFBZVXBLXzJLbXQtemd2cjhOMUM1QlhabFhkQ05Yb3Vvem5WajRhaVdZQzJsV0NscVhfbWROLV81aFpmQ2VXTzZtcnBFQVpRc20?oc=5"
-            },
-            {
-                "title": "中国政府拉美事务特别代表邱小琪出席庆祝中国与古巴建交66周年招待会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-28",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVlJTlpPb3picFZwb2pKb2VITURyeDZwMm9xUXpPUklVT2ZsV0wwNW93T0lhX0Z0SmJ2Vi1rME5YYmRwTGhsQS1yMllvMUROUXR1MXZHSmVOdkliQmRPMHNUWWlHRGV1MVhyM3RjMmpMYloyTHZtdl9QMDBHTkNfWGx0SDk?oc=5"
+                "date": "2026-09-27",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnpFNUgyNzhUOXREM0huRHNwMWRLUml2RkQySjR1Ql9HLW9BZHJBaWFKRnNTbkM2a09PVjBkZm1TWjl5RWdieG1yNXJOOTBoNHJCRlpNOFpjRkFzQzV4UF85d2RzVi0wdDJGV19TNERnYWlCY2JzMWE4T0pNVm1xV05IbW8?oc=5"
             },
             {
                 "title": "赓续红色薪火 厚植国防情怀 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "王自如劝退iPhone 18 Pro：一场关于“换机价值”的公开讨论",
+                "title": "两只中国大熊猫抵达亚特兰大，美中竞争下“熊猫外交”再登场",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-27",
+                "url": "https://www.voachinese.com/a/two-giant-pandas-on-loan-from-china-arrive-at-atlanta-zoo-20260927/8205002.html"
+            },
+            {
+                "title": "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579796.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579828.htm"
             },
             {
-                "title": "“到底有没有人用Copilot?” 微软员工回应",
+                "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579786.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1579826.htm"
             },
             {
-                "title": "研究：美国医院用 AI 写病历，保险公司两年多掏 9.42 亿美元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "智能之外，谁为自主技术负责？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-27",
-                "url": "https://www.ithome.com/1/007/531.htm"
+                "url": "https://www.ftchinese.com/story/001111002"
             },
             {
-                "title": "OpenAI和Anthropic差点签下“互黑协议”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "断层线上的岛屿：台湾在全球地缘政治中的地位和未来",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579774.htm"
+                "url": "https://www.ftchinese.com/story/001111005"
             },
             {
-                "title": "新一代 Roadster 发布在即，特斯拉可伸缩主动尾翼专利曝光",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-27",
-                "url": "https://www.ithome.com/1/007/523.htm"
+                "title": "2026年9月28日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-28",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tR1NCb05JTUNOckVzZEVKSUJqRDVSTUhTQlJiREZfMWJfay1fUGVPWVY0M2J3bUxMeF80bG9feW9QY243dUQ0bVZONHRrQWRTMXpSRnVfZ2k5VUJfdDZPeVRGNm51Tmp5by1mUGRvMUM4QXB3U0E?oc=5"
             },
             {
                 "title": "驻马耳他大使张佐在2026年华侨华人国庆游园会上的致辞（全文） - mfa.gov.cn",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kajhyd3Z2UWUyS3lEVGp0YUwxWU54dmt5QW42d01Rb0Q4WGNWWkxYSXoxWk1IRlFlMTBzcXhoRzFDQ2NXZXd6dTZYSmY0OUlESkNwY3E2d2k1RlExU29nMEo2YTNsV1BlUFZYR0xyRzdUZEF6M0ZRNHRVYw?oc=5"
             },
             {
-                "title": "驻该国使领馆 - cs.mfa.gov.cn",
+                "title": "驻瑙鲁大使吕进受邀为环瑙自行车赛颁奖 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-26",
-                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Q0tUWXFmVXM3eENIeGVORGRPTjA1Z1ZleVNtdlN6bFBZVXBLXzJLbXQtemd2cjhOMUM1QlhabFhkQ05Yb3Vvem5WajRhaVdZQzJsV0NscVhfbWROLV81aFpmQ2VXTzZtcnBFQVpRc20?oc=5"
-            },
-            {
-                "title": "中国政府拉美事务特别代表邱小琪出席庆祝中国与古巴建交66周年招待会 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-28",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVlJTlpPb3picFZwb2pKb2VITURyeDZwMm9xUXpPUklVT2ZsV0wwNW93T0lhX0Z0SmJ2Vi1rME5YYmRwTGhsQS1yMllvMUROUXR1MXZHSmVOdkliQmRPMHNUWWlHRGV1MVhyM3RjMmpMYloyTHZtdl9QMDBHTkNfWGx0SDk?oc=5"
+                "date": "2026-09-27",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnpFNUgyNzhUOXREM0huRHNwMWRLUml2RkQySjR1Ql9HLW9BZHJBaWFKRnNTbkM2a09PVjBkZm1TWjl5RWdieG1yNXJOOTBoNHJCRlpNOFpjRkFzQzV4UF85d2RzVi0wdDJGV19TNERnYWlCY2JzMWE4T0pNVm1xV05IbW8?oc=5"
             },
             {
                 "title": "赓续红色薪火 厚植国防情怀 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-28T12:50:15.970230+00:00"
+    "last_updated": "2026-09-28T22:54:28.798189+00:00"
 }
