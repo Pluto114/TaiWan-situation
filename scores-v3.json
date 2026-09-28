@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "巴西总统卢拉在大选临近之际突然叫停网络博彩",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579740.htm"
+                "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-27",
+                "url": "https://www.ithome.com/1/007/481.htm"
             },
             {
-                "title": "荷兰打造自主数字办公平台Nix 替代Windows与Office推动数字主权战略落地",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579734.htm"
+                "title": "接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-27",
+                "url": "http://www.geekpark.net/news/371039"
             },
             {
-                "title": "气候技术融资还能被传统金融青睐吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-26",
-                "url": "https://www.ftchinese.com/story/001110986"
+                "title": "今日消费资讯：田馥甄新专辑《要去什么地方》发布、成都 in99 开启首届 Bean to Bar 巧克力节",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-09-27",
+                "url": "https://www.toodaylab.com/84223"
             },
             {
-                "title": "金融机构如何参与碳市场？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-26",
-                "url": "https://www.ftchinese.com/story/001110993"
+                "title": "IT早报 0927：微信鸿蒙版 App 安装量破 8000 万；豆包手机助手回应努比亚手机王者荣耀异常；华为大疆联名推出 Pocket 4；OpenAI 暂停最强模型训练...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-27",
+                "url": "https://www.ithome.com/1/007/456.htm"
             },
             {
-                "title": "“去宁德化”为何可能徒劳？",
-                "source": "NewsAPI / Ftchinese.com",
+                "title": "卢伟冰：小米 18 Pro 会在今年内登陆国际市场，国外媒体和用户呼声很高",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-26",
-                "url": "https://www.ftchinese.com/story/001110988"
+                "url": "https://www.ithome.com/1/007/446.htm"
             }
         ],
         "mil": [
+            {
+                "title": "余茂春和盛雪解读川习会的多重博弈(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-27",
+                "url": "https://www.secretchina.com/news/gb/2026/09/27/1105333.html"
+            },
             {
                 "title": "中美达成“超级智能”沟通机制 两国首次建立AI重大风险联络渠道",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://www.voachinese.com/a/a-comparison-of-official-chinese-account-and-white-house-readout-on-the-summit-20260925/8204464.html"
             },
             {
-                "title": "谷歌，准备升空",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579708.htm"
-            },
-            {
                 "title": "中美达成八点成果共识 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-26",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JV09OcFE0WkYyNWNyX2hxQjJjUmVyd3R3Q2xSdzEwZXhrRGVDQ183aU04MllNQ3NnSTN4clkxcVdzemdOeG5GeHQ4WW16ckd3dGhaalA5SWMxRkZ3MTdSNFNzOTZ0dmk2ZDlkSS1zckdTVlR0MEE?oc=5"
             },
             {
-                "title": "习近平向全球发展倡议5周年高级别对话会致贺信 - mfa.gov.cn",
+                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qN1FldWtrTDJuaTV5cWJ1OVUyRWNqRDFIM3VXUjZzeFRLZU45MDRwRXBfRVNPQVdQcDdmOXk5YkZUcXBHSkFrdlZnZW9sS0pTRDc5SE9xc0V4V0VQOVhCUDhYdkFfZjZqYmpn?oc=5"
+                "date": "2026-09-26",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VDludGpfWGpOUXhXUWRHQ29qVTZTU1NMdUpmNFJ3X3dHSWZWc1NkZk1paWRYdVBnc2lnVVlBNUtlWEFlZEVjcHM1aDdvUENUbVY0dldGRkFNV1lYWWlGc3ptYkRONzBZMzBGZkJB?oc=5"
+            },
+            {
+                "title": "近镜头丨习近平主席访美书写中美关系历史新篇 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1raEdrMFMxS2g3b1preTdvV1ZPNFB6RWR6SS1UMmduUDdNWFhNM0h1R1kyU2JwS1dGMUtKd1pEbmxZaUs0Nk9NXzlVWi1YNFJjcEE?oc=5"
             },
             {
                 "title": "第一观察｜中美关系新定位内涵进一步拓展 - 中国军网",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81dUJ2WExOeGFoWmhSYUktclgtTTcxa3pvR2g3RzRCYnFnM29PUE10Q3hMZmRHeGlLNlI2Z1N3SFUwZU53VWp1bzNfcm4zZ28xVkE?oc=5"
-            },
-            {
-                "title": "通讯丨平陆运河拓展中越经贸往来新空间 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WUxpRi1wZlFQcm1NXzVCeUY1dUFkOHJwMm1zS01wcWN6SUNkTVFYZjZLQUh1YkVPSlF1RnBWWnFGU0NVQ3ZQdF9rR0VIQzRUVFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "多伦多中领馆前袭击案 法律专家：涉多项刑事犯罪(组图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-26",
-                "url": "https://www.secretchina.com/news/gb/2026/09/27/1105331.html"
+                "title": "《我的世界》平均每天吸引 30 万新玩家，全球销量突破 4.25 亿份",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-27",
+                "url": "https://www.ithome.com/1/007/484.htm"
             },
             {
-                "title": "巴西总统卢拉在大选临近之际突然叫停网络博彩",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579740.htm"
+                "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-27",
+                "url": "https://www.ithome.com/1/007/481.htm"
             },
             {
-                "title": "荷兰打造自主数字办公平台Nix 替代Windows与Office推动数字主权战略落地",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579734.htm"
+                "title": "Meta 与 YouTube 恢复《马斯克》纪录片广告投放，X 平台仍拒绝",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-27",
+                "url": "https://www.ithome.com/1/007/472.htm"
             },
             {
-                "title": "气候技术融资还能被传统金融青睐吗？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-26",
-                "url": "https://www.ftchinese.com/story/001110986"
+                "title": "第三方后装智驾闯大祸：5 起事故致 3 死，Comma.ai 遭美国联邦调查",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-27",
+                "url": "https://www.ithome.com/1/007/470.htm"
             },
             {
-                "title": "金融机构如何参与碳市场？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-26",
-                "url": "https://www.ftchinese.com/story/001110993"
+                "title": "小米之家新模式探索，河南首家米家智能家电体验店开业",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-27",
+                "url": "https://www.ithome.com/1/007/469.htm"
             },
             {
                 "title": "中美达成八点成果共识 - mfa.gov.cn",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JV09OcFE0WkYyNWNyX2hxQjJjUmVyd3R3Q2xSdzEwZXhrRGVDQ183aU04MllNQ3NnSTN4clkxcVdzemdOeG5GeHQ4WW16ckd3dGhaalA5SWMxRkZ3MTdSNFNzOTZ0dmk2ZDlkSS1zckdTVlR0MEE?oc=5"
             },
             {
-                "title": "习近平向全球发展倡议5周年高级别对话会致贺信 - mfa.gov.cn",
+                "title": "外交部长活动_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-25",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qN1FldWtrTDJuaTV5cWJ1OVUyRWNqRDFIM3VXUjZzeFRLZU45MDRwRXBfRVNPQVdQcDdmOXk5YkZUcXBHSkFrdlZnZW9sS0pTRDc5SE9xc0V4V0VQOVhCUDhYdkFfZjZqYmpn?oc=5"
+                "date": "2026-09-26",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VDludGpfWGpOUXhXUWRHQ29qVTZTU1NMdUpmNFJ3X3dHSWZWc1NkZk1paWRYdVBnc2lnVVlBNUtlWEFlZEVjcHM1aDdvUENUbVY0dldGRkFNV1lYWWlGc3ptYkRONzBZMzBGZkJB?oc=5"
+            },
+            {
+                "title": "近镜头丨习近平主席访美书写中美关系历史新篇 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1raEdrMFMxS2g3b1preTdvV1ZPNFB6RWR6SS1UMmduUDdNWFhNM0h1R1kyU2JwS1dGMUtKd1pEbmxZaUs0Nk9NXzlVWi1YNFJjcEE?oc=5"
             },
             {
                 "title": "第一观察｜中美关系新定位内涵进一步拓展 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81dUJ2WExOeGFoWmhSYUktclgtTTcxa3pvR2g3RzRCYnFnM29PUE10Q3hMZmRHeGlLNlI2Z1N3SFUwZU53VWp1bzNfcm4zZ28xVkE?oc=5"
-            },
-            {
-                "title": "通讯丨平陆运河拓展中越经贸往来新空间 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WUxpRi1wZlFQcm1NXzVCeUY1dUFkOHJwMm1zS01wcWN6SUNkTVFYZjZLQUh1YkVPSlF1RnBWWnFGU0NVQ3ZQdF9rR0VIQzRUVFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-27T20:49:46.861417+00:00"
+    "last_updated": "2026-09-28T03:29:36.887333+00:00"
 }
