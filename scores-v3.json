@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579826.htm"
+                "title": "商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-28",
+                "url": "https://36kr.com/newsflashes/4002507368435591?f=rss"
             },
             {
-                "title": "智能之外，谁为自主技术负责？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-27",
-                "url": "https://www.ftchinese.com/story/001111002"
+                "title": "国家统计局：1—8月份电子行业利润同比增长1.1倍，对全部规模以上工业企业利润增长的贡献率达62.0%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-28",
+                "url": "https://36kr.com/newsflashes/4002402843971715?f=rss"
             },
             {
-                "title": "断层线上的岛屿：台湾在全球地缘政治中的地位和未来",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-27",
-                "url": "https://www.ftchinese.com/story/001111005"
+                "title": "中信建投：AI产业链仍是中期主线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-28",
+                "url": "https://36kr.com/newsflashes/4002368859099016?f=rss"
             },
             {
-                "title": "俄罗斯将数据中心列为打击目标 乌克兰10万户家庭断网",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579812.htm"
+                "title": "韩国央行称全球市场不确定性上升，将密切关注市场动态",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-28",
+                "url": "https://36kr.com/newsflashes/4002338058129288?f=rss"
             },
             {
-                "title": "王自如劝退iPhone 18 Pro：一场关于“换机价值”的公开讨论",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579796.htm"
+                "title": "得不到就强攻？曝 OpenAI 智能体曾尝试“暴力破解”联合国机构网站",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-28",
+                "url": "https://www.ithome.com/1/007/641.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中国银联：华为年度旗舰 Mate 90 系列手机 Huawei Pay 升级，支持直接充值香港八达通卡",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-28",
+                "url": "https://www.ithome.com/1/007/638.htm"
+            },
+            {
+                "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-28",
+                "url": "http://www.geekpark.net/news/371044"
+            },
+            {
+                "title": "2025年城市更新投资达3.2万亿元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-27",
+                "url": "https://36kr.com/newsflashes/4002292671697026?f=rss"
+            },
             {
                 "title": "一场国宴 川普究竟跟习近平说了什么(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.voachinese.com/a/china-conducts-joint-naval-and-air-drills-near-disputed-south-china-sea-shoal-20260927/8204985.html"
             },
             {
-                "title": "智能之外，谁为自主技术负责？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-27",
-                "url": "https://www.ftchinese.com/story/001111002"
-            },
-            {
-                "title": "断层线上的岛屿：台湾在全球地缘政治中的地位和未来",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-27",
-                "url": "https://www.ftchinese.com/story/001111005"
-            },
-            {
-                "title": "俄罗斯将数据中心列为打击目标 乌克兰10万户家庭断网",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579812.htm"
-            },
-            {
                 "title": "2026年9月28日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-28",
@@ -86,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kajhyd3Z2UWUyS3lEVGp0YUwxWU54dmt5QW42d01Rb0Q4WGNWWkxYSXoxWk1IRlFlMTBzcXhoRzFDQ2NXZXd6dTZYSmY0OUlESkNwY3E2d2k1RlExU29nMEo2YTNsV1BlUFZYR0xyRzdUZEF6M0ZRNHRVYw?oc=5"
             },
             {
-                "title": "驻瑙鲁大使吕进受邀为环瑙自行车赛颁奖 - mfa.gov.cn",
+                "title": "驻特立尼达和多巴哥大使任洪岩出席特多侨界庆祝中华人民共和国成立77周年暨华人抵特220周年招待会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-27",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnpFNUgyNzhUOXREM0huRHNwMWRLUml2RkQySjR1Ql9HLW9BZHJBaWFKRnNTbkM2a09PVjBkZm1TWjl5RWdieG1yNXJOOTBoNHJCRlpNOFpjRkFzQzV4UF85d2RzVi0wdDJGV19TNERnYWlCY2JzMWE4T0pNVm1xV05IbW8?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS05FWm5uUnp2ejhTWWdZUXRfWDIwTExrU1A2X0Q3SXZURDc5WmJfdmZQck5LMUpHNjZvdzJycWFhX202QmppVm80OFNXbTNkVVVtVTBETU9MSzJOQW1tTktpN1FsNWg0dDgyeGRESkJWamoxM1pLVl85V3ZyQmtQVUwxZVY?oc=5"
+            },
+            {
+                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-29",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sc0dXbHhQaDNIRGYyTnRiUnBFQzlPOGlOaklvdTFFRENjVEo3N2dGUnFCNGRkN0ZudHlidzZRVm9hdEhNdzBBWGRDbE1mNXVBUWVGWGpFWTNwdw?oc=5"
             },
             {
                 "title": "赓续红色薪火 厚植国防情怀 - 中国军网",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1raEdrMFMxS2g3b1preTdvV1ZPNFB6RWR6SS1UMmduUDdNWFhNM0h1R1kyU2JwS1dGMUtKd1pEbmxZaUs0Nk9NXzlVWi1YNFJjcEE?oc=5"
-            },
-            {
-                "title": "第一观察｜中美关系新定位内涵进一步拓展 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Z1YyNkp2SHJlUFhjNVEtdllESDllWjVHTjUyczBRbzJJczBUQWpQZ1lacUZNaFBHU2VWUVgxallMNWl4WTdtWEZnOV9vMHcyR2c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "两只中国大熊猫抵达亚特兰大，美中竞争下“熊猫外交”再登场",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-27",
-                "url": "https://www.voachinese.com/a/two-giant-pandas-on-loan-from-china-arrive-at-atlanta-zoo-20260927/8205002.html"
+                "title": "清华教授张跃钢：固态电池卡在“两个界面”，锂金属电池试图绕过去｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-28",
+                "url": "https://36kr.com/p/4001096388448137?f=rss"
             },
             {
-                "title": "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579828.htm"
+                "title": "EA 年货游戏《EA Sports FC 27》发售，Steam 国区 248 元起",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-28",
+                "url": "https://www.ithome.com/1/007/665.htm"
             },
             {
-                "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579826.htm"
+                "title": "非法安装燃气发电机、排放污染物，微软关联数据中心 DataOne 被罚百万美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-28",
+                "url": "https://www.ithome.com/1/007/653.htm"
             },
             {
-                "title": "智能之外，谁为自主技术负责？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-27",
-                "url": "https://www.ftchinese.com/story/001111002"
+                "title": "中信建投：AI产业链仍是中期主线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-28",
+                "url": "https://36kr.com/newsflashes/4002368859099016?f=rss"
             },
             {
-                "title": "断层线上的岛屿：台湾在全球地缘政治中的地位和未来",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-27",
-                "url": "https://www.ftchinese.com/story/001111005"
+                "title": "韩国央行称全球市场不确定性上升，将密切关注市场动态",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-28",
+                "url": "https://36kr.com/newsflashes/4002338058129288?f=rss"
             },
             {
                 "title": "2026年9月28日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
@@ -154,10 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kajhyd3Z2UWUyS3lEVGp0YUwxWU54dmt5QW42d01Rb0Q4WGNWWkxYSXoxWk1IRlFlMTBzcXhoRzFDQ2NXZXd6dTZYSmY0OUlESkNwY3E2d2k1RlExU29nMEo2YTNsV1BlUFZYR0xyRzdUZEF6M0ZRNHRVYw?oc=5"
             },
             {
-                "title": "驻瑙鲁大使吕进受邀为环瑙自行车赛颁奖 - mfa.gov.cn",
+                "title": "驻特立尼达和多巴哥大使任洪岩出席特多侨界庆祝中华人民共和国成立77周年暨华人抵特220周年招待会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-27",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnpFNUgyNzhUOXREM0huRHNwMWRLUml2RkQySjR1Ql9HLW9BZHJBaWFKRnNTbkM2a09PVjBkZm1TWjl5RWdieG1yNXJOOTBoNHJCRlpNOFpjRkFzQzV4UF85d2RzVi0wdDJGV19TNERnYWlCY2JzMWE4T0pNVm1xV05IbW8?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS05FWm5uUnp2ejhTWWdZUXRfWDIwTExrU1A2X0Q3SXZURDc5WmJfdmZQck5LMUpHNjZvdzJycWFhX202QmppVm80OFNXbTNkVVVtVTBETU9MSzJOQW1tTktpN1FsNWg0dDgyeGRESkJWamoxM1pLVl85V3ZyQmtQVUwxZVY?oc=5"
+            },
+            {
+                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-29",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sc0dXbHhQaDNIRGYyTnRiUnBFQzlPOGlOaklvdTFFRENjVEo3N2dGUnFCNGRkN0ZudHlidzZRVm9hdEhNdzBBWGRDbE1mNXVBUWVGWGpFWTNwdw?oc=5"
             },
             {
                 "title": "赓续红色薪火 厚植国防情怀 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-28",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1raEdrMFMxS2g3b1preTdvV1ZPNFB6RWR6SS1UMmduUDdNWFhNM0h1R1kyU2JwS1dGMUtKd1pEbmxZaUs0Nk9NXzlVWi1YNFJjcEE?oc=5"
-            },
-            {
-                "title": "第一观察｜中美关系新定位内涵进一步拓展 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Z1YyNkp2SHJlUFhjNVEtdllESDllWjVHTjUyczBRbzJJczBUQWpQZ1lacUZNaFBHU2VWUVgxallMNWl4WTdtWEZnOV9vMHcyR2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-28T22:54:28.798189+00:00"
+    "last_updated": "2026-09-29T04:05:15.280543+00:00"
 }
