@@ -12,78 +12,78 @@
     "news_sources": {
         "econ": [
             {
-                "title": "黄仁勋回应“蒸馏即盗窃”指控：英伟达也被拆到只剩骨架",
+                "title": "美参院一致通过《法轮功与强摘器官受害者保护法案》",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-29",
+                "url": "https://www.voachinese.com/a/us-senate-unanimously-passes-falun-gong-and-victims-of-forced-organ-harvesting-protection-act-20260929/8205816.html"
+            },
+            {
+                "title": "特朗普总统否认提议解除伊朗制裁，美伊官员同时正通过调解人进行沟通",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-29",
+                "url": "https://www.voachinese.com/a/president-trump-denies-offering-iran-sanctions-relief-as-us-iran-officials-communicate-via-mediators-20260929/8205769.html"
+            },
+            {
+                "title": "消息称苹果计划削减5000个AppleCare岗位 AI将改造客服业务",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580052.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580088.htm"
             },
             {
-                "title": "国家外汇管理局：2026年8月，我国国际收支货物和服务贸易进出口规模51179亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-29",
-                "url": "https://36kr.com/newsflashes/4004272413200513?f=rss"
-            },
-            {
-                "title": "Anthropic 招股书里，最耐人寻味的 7 个细节",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-09-29",
-                "url": "http://www.geekpark.net/news/371994"
-            },
-            {
-                "title": "安全组织敦促欧盟拒绝批准特斯拉FSD落地",
+                "title": "阿拉斯加航空大规模改造高端客舱 角逐高端旅行市场",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580040.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580086.htm"
             },
             {
-                "title": "国家外汇管理局：2026年第二季度我国外债形势总体平稳",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特朗普政府推出AI政府门户网站America.gov 试图用AI简化联邦服务",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-29",
-                "url": "https://36kr.com/newsflashes/4004253779693443?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580080.htm"
             }
         ],
         "mil": [
             {
-                "title": "豆包座舱助手首发上车，荣威家越07预售价13.78万元起",
-                "source": "NewsAPI / Dgtle.com",
-                "date": "2026-09-29",
-                "url": "https://www.dgtle.com/news-1554777-14.html"
-            },
-            {
-                "title": "印度计划为深科技投入250亿美元 力求追赶中美AI与科技发展",
+                "title": "特朗普政府推出AI政府门户网站America.gov 试图用AI简化联邦服务",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580038.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580080.htm"
             },
             {
-                "title": "川习会后90天关键期 专家吁台美日深化合作(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "德国能否保住AAA最高信用评级?",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
-                "url": "https://www.secretchina.com/news/gb/2026/09/29/1105430.html"
+                "url": "https://www.ftchinese.com/story/001111027"
             },
             {
-                "title": "Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "中国汽车出海，正在重估全球智驾供应链",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
-                "url": "http://www.geekpark.net/news/371493"
+                "url": "https://www.ftchinese.com/story/001111008"
             },
             {
-                "title": "科学家都爱用中国机器人，为何让美国坐立不安？",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "在那座故乡的小岛上，秘密从未真正被隐藏",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1579990.htm"
+                "url": "https://www.ftchinese.com/story/001111015"
             },
             {
-                "title": "王毅会见日本国际贸易促进协会会长岩屋毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-28",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwcGdHNWlsV19CVmx0b2ZCYUxQZW82S1pMcUNORzZSeXZiLVoyYUd1YVB3TkFzRTZxRjlQOTF3VjA3WUp2alBCd2dpQ1djUV84aG5UMi0xWGJJRDgzVExYTW8ydEppNmxYUXlF?oc=5"
+                "title": "《天使之骨》：注视生活里的深刻刺痛",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-29",
+                "url": "https://www.ftchinese.com/story/001111018"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "2026年9月30日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
             },
             {
                 "title": "中方敦促日本当政者反思纠错，回归中日四个政治文件的初心和原点 - mfa.gov.cn",
@@ -112,46 +112,46 @@
         ],
         "pol": [
             {
-                "title": "伦敦车站人脸识别摄像头试点六个月仅发出一次告警 未促成任何逮捕行动",
+                "title": "香港警方报告1503宗iPhone 18 Pro信用卡可疑交易 涉款逾3000万港元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580060.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580078.htm"
             },
             {
-                "title": "Anthropic 招股书里，最耐人寻味的 7 个细节",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "是人民币太强，还是美元太弱？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
-                "url": "http://www.geekpark.net/news/371994"
+                "url": "https://www.ftchinese.com/story/001111009"
             },
             {
-                "title": "豆包座舱助手首发上车，荣威家越07预售价13.78万元起",
-                "source": "NewsAPI / Dgtle.com",
+                "title": "罗丹艺术中心创始人吴静：像蜗牛一般缓慢而坚定",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
-                "url": "https://www.dgtle.com/news-1554777-14.html"
+                "url": "https://www.ftchinese.com/story/001111013"
             },
             {
-                "title": "印度计划为深科技投入250亿美元 力求追赶中美AI与科技发展",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "德国能否保住AAA最高信用评级?",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580038.htm"
+                "url": "https://www.ftchinese.com/story/001111027"
             },
             {
-                "title": "川习会后90天关键期 专家吁台美日深化合作(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "中国汽车出海，正在重估全球智驾供应链",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
-                "url": "https://www.secretchina.com/news/gb/2026/09/29/1105430.html"
-            },
-            {
-                "title": "王毅会见日本国际贸易促进协会会长岩屋毅 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-28",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwcGdHNWlsV19CVmx0b2ZCYUxQZW82S1pMcUNORzZSeXZiLVoyYUd1YVB3TkFzRTZxRjlQOTF3VjA3WUp2alBCd2dpQ1djUV84aG5UMi0xWGJJRDgzVExYTW8ydEppNmxYUXlF?oc=5"
+                "url": "https://www.ftchinese.com/story/001111008"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "2026年9月30日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
             },
             {
                 "title": "中方敦促日本当政者反思纠错，回归中日四个政治文件的初心和原点 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-30T11:52:27.582686+00:00"
+    "last_updated": "2026-09-30T17:33:38.444052+00:00"
 }
