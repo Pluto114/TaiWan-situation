@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "小米米家智能晾衣机 3 Max 预售：首创柔烘除菌专区，首发国补价 2699 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-29",
+                "url": "https://www.ithome.com/1/008/535.htm"
+            },
+            {
                 "title": "美参院一致通过《法轮功与强摘器官受害者保护法案》",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-29",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-29",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1580086.htm"
-            },
-            {
-                "title": "特朗普政府推出AI政府门户网站America.gov 试图用AI简化联邦服务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580080.htm"
             }
         ],
         "mil": [
+            {
+                "title": "英国警方：在与美军基地事件有关的车辆中未发现简易爆炸装置",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-29",
+                "url": "https://www.voachinese.com/a/british-police-say-no-improvised-explosives-found-in-vehicles-linked-to-incident-at-base-used-by-us-forces-20260929/8205840.html"
+            },
             {
                 "title": "特朗普政府推出AI政府门户网站America.gov 试图用AI简化联邦服务",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://www.ftchinese.com/story/001111015"
             },
             {
-                "title": "《天使之骨》：注视生活里的深刻刺痛",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111018"
-            },
-            {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,7 +92,7 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGwzNDZXYnhDZ3lyZ2hyTnVaNkRWUWdKUVAxbDBoUWl2bWJiZFo0SGRaaUo4b0MzTEFVZktCZjVQdGROMG12Y1lrTklveVNCSzNyNFF6bE1ZcDRMY3RBOUZQY01xdktXcGVTTVdPbFh5aFpxcVpYZ0wtNkh6MW1OOHRNMl9YNTVLcU1lc0Vpa0g?oc=5"
             },
             {
-                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
+                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 81rc.81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-29",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sc0dXbHhQaDNIRGYyTnRiUnBFQzlPOGlOaklvdTFFRENjVEo3N2dGUnFCNGRkN0ZudHlidzZRVm9hdEhNdzBBWGRDbE1mNXVBUWVGWGpFWTNwdw?oc=5"
@@ -112,10 +112,22 @@
         ],
         "pol": [
             {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-29",
+                "url": "https://www.voachinese.com/a/8200516.html"
+            },
+            {
                 "title": "香港警方报告1503宗iPhone 18 Pro信用卡可疑交易 涉款逾3000万港元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-29",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1580078.htm"
+            },
+            {
+                "title": "德国能否保住AAA最高信用评级?",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-09-29",
+                "url": "https://www.ftchinese.com/story/001111027"
             },
             {
                 "title": "是人民币太强，还是美元太弱？",
@@ -128,18 +140,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-09-29",
                 "url": "https://www.ftchinese.com/story/001111013"
-            },
-            {
-                "title": "德国能否保住AAA最高信用评级?",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111027"
-            },
-            {
-                "title": "中国汽车出海，正在重估全球智驾供应链",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111008"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
@@ -160,7 +160,7 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGwzNDZXYnhDZ3lyZ2hyTnVaNkRWUWdKUVAxbDBoUWl2bWJiZFo0SGRaaUo4b0MzTEFVZktCZjVQdGROMG12Y1lrTklveVNCSzNyNFF6bE1ZcDRMY3RBOUZQY01xdktXcGVTTVdPbFh5aFpxcVpYZ0wtNkh6MW1OOHRNMl9YNTVLcU1lc0Vpa0g?oc=5"
             },
             {
-                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 中国人民解放军专业技术人才网",
+                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 81rc.81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-29",
                 "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sc0dXbHhQaDNIRGYyTnRiUnBFQzlPOGlOaklvdTFFRENjVEo3N2dGUnFCNGRkN0ZudHlidzZRVm9hdEhNdzBBWGRDbE1mNXVBUWVGWGpFWTNwdw?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-09-30T17:33:38.444052+00:00"
+    "last_updated": "2026-09-30T21:50:51.931360+00:00"
 }
