@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米米家智能晾衣机 3 Max 预售：首创柔烘除菌专区，首发国补价 2699 元",
+                "title": "品牌出海进入系统能力竞争阶段,亿邦智库 x Pattern栢藤《品牌全球化加速增长洞察报告》解析增长新路径",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-30",
+                "url": "https://36kr.com/p/4005358837076101?f=rss"
+            },
+            {
+                "title": "宁德时代德布勒森新建电芯工厂正式启动生产",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-30",
+                "url": "https://36kr.com/newsflashes/4005296715124871?f=rss"
+            },
+            {
+                "title": "最前线丨打造“太空4S店”，未来宇航雄安智造基地启用，「锋行一号」首飞出征",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-30",
+                "url": "https://36kr.com/p/4005279658708868?f=rss"
+            },
+            {
+                "title": "欧盟方面拟开发经贸领域新工具，中国机电商会回应",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-30",
+                "url": "https://36kr.com/newsflashes/4005260659756932?f=rss"
+            },
+            {
+                "title": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-29",
-                "url": "https://www.ithome.com/1/008/535.htm"
-            },
-            {
-                "title": "美参院一致通过《法轮功与强摘器官受害者保护法案》",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.voachinese.com/a/us-senate-unanimously-passes-falun-gong-and-victims-of-forced-organ-harvesting-protection-act-20260929/8205816.html"
-            },
-            {
-                "title": "特朗普总统否认提议解除伊朗制裁，美伊官员同时正通过调解人进行沟通",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.voachinese.com/a/president-trump-denies-offering-iran-sanctions-relief-as-us-iran-officials-communicate-via-mediators-20260929/8205769.html"
-            },
-            {
-                "title": "消息称苹果计划削减5000个AppleCare岗位 AI将改造客服业务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580088.htm"
-            },
-            {
-                "title": "阿拉斯加航空大规模改造高端客舱 角逐高端旅行市场",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580086.htm"
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/592.htm"
             }
         ],
         "mil": [
             {
-                "title": "英国警方：在与美军基地事件有关的车辆中未发现简易爆炸装置",
+                "title": "拳头游戏虚拟乐团“真实伤害”回归，演唱 2026 英雄联盟全球总决赛主题曲",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/577.htm"
+            },
+            {
+                "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-09-30",
+                "url": "http://www.geekpark.net/news/372005"
+            },
+            {
+                "title": "地卫二启动“太空之弦”千星蓝图，2028年对标SpaceX Starmind计划",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-30",
+                "url": "https://36kr.com/p/4005156110389120?f=rss"
+            },
+            {
+                "title": "特朗普与科技巨头签署 AI 自愿安全协议，表态支持美国数据中心扩建",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-29",
+                "url": "https://www.ithome.com/1/008/557.htm"
+            },
+            {
+                "title": "美国之音中文广播 (2026年9月30日)",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-29",
-                "url": "https://www.voachinese.com/a/british-police-say-no-improvised-explosives-found-in-vehicles-linked-to-incident-at-base-used-by-us-forces-20260929/8205840.html"
-            },
-            {
-                "title": "特朗普政府推出AI政府门户网站America.gov 试图用AI简化联邦服务",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580080.htm"
-            },
-            {
-                "title": "德国能否保住AAA最高信用评级?",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111027"
-            },
-            {
-                "title": "中国汽车出海，正在重估全球智驾供应链",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111008"
-            },
-            {
-                "title": "在那座故乡的小岛上，秘密从未真正被隐藏",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111015"
+                "url": "https://www.voachinese.com/a/8200510.html"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
@@ -80,22 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "2026年9月30日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-30",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
-            },
-            {
                 "title": "中方敦促日本当政者反思纠错，回归中日四个政治文件的初心和原点 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-29",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGwzNDZXYnhDZ3lyZ2hyTnVaNkRWUWdKUVAxbDBoUWl2bWJiZFo0SGRaaUo4b0MzTEFVZktCZjVQdGROMG12Y1lrTklveVNCSzNyNFF6bE1ZcDRMY3RBOUZQY01xdktXcGVTTVdPbFh5aFpxcVpYZ0wtNkh6MW1OOHRNMl9YNTVLcU1lc0Vpa0g?oc=5"
             },
             {
-                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 81rc.81.cn",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "驻米兰总领事张承刚走访梅迪亚塞特（Mediaset）广播集团 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sc0dXbHhQaDNIRGYyTnRiUnBFQzlPOGlOaklvdTFFRENjVEo3N2dGUnFCNGRkN0ZudHlidzZRVm9hdEhNdzBBWGRDbE1mNXVBUWVGWGpFWTNwdw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbThSM09hRU90aVVMaFNhUDNFdm1UbzFFWk9UU2RzUEZDTUptXzE2YVFsSEZPWDQyd3lEaUttaW5yT241WGVLTGZuNzRpNVdTdlFHSEFFZE5kR0U1bnFVRjc2dG9xYU9HOGtLSi1nQ2syXzZwMWEtTkVGemJTbDdxcXJibFE3cmJEbGc?oc=5"
             },
             {
                 "title": "一块铝材的“极限挑战” - 中国军网",
@@ -104,42 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IQnQ3ekxoWXFzRWhISS1DazVvZUx5MEl1X2J2VVJad2hsUXJZRm1BdUVGa0RTZ2xwOG5kOWRoZzlfcXcyRV9sUk15ZEs4ZjF2Q3c?oc=5"
             },
             {
-                "title": "【央视快评】以更高水平平安中国建设保障中国式现代化行稳致远 - 中国军网",
+                "title": "第08版：基层传真 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rU0lHV0ozTGpOekg4TEd6dnRaZmNxaDEyekNNQW04MkJSbDd5TDBlcGF2eG93eFltX0pPWms2aG9tZHgxN0gwdzB0QmdsMnhlUWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFQ3dkNLcTNXbE5qZFUxeUpYQ0hoREx1ZHF2MXppaWROZGIydXQxZ1Z2a1lLWUVkRG1Td003OHlWdGlpNmFKMzUwS2dzNXE5YW9VdWI1RjhKUDNRd0VZVGJKZkVpbTJmVTVtOUF1SVZIbzRjV28wb2RSUUVZVFZ1c1VTSmw5dVlXM1BvcS1aYVpOejdaTXpmTlNvbw?oc=5"
+            },
+            {
+                "title": "亚运会 |“三金”王宗源：回到梦开始的地方 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKazk0NEFaQ0JrOVVnTmxVOHRLWUtVZnZDSXlVUHRWalZNQ25ZVnZ2ZFB5OEk3RG1qdGY1QW5ZNGNpNVdtbGlXRVNTeWVuRXJfVnc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.voachinese.com/a/8200516.html"
+                "title": "品牌出海进入系统能力竞争阶段,亿邦智库 x Pattern栢藤《品牌全球化加速增长洞察报告》解析增长新路径",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-09-30",
+                "url": "https://36kr.com/p/4005358837076101?f=rss"
             },
             {
-                "title": "香港警方报告1503宗iPhone 18 Pro信用卡可疑交易 涉款逾3000万港元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-29",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580078.htm"
+                "title": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/592.htm"
             },
             {
-                "title": "德国能否保住AAA最高信用评级?",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111027"
+                "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/589.htm"
             },
             {
-                "title": "是人民币太强，还是美元太弱？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111009"
+                "title": "OpenAI CEO 奥尔特曼谈上市：需先做好 AI 安全承诺，暂无明确时间表",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/575.htm"
             },
             {
-                "title": "罗丹艺术中心创始人吴静：像蜗牛一般缓慢而坚定",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-09-29",
-                "url": "https://www.ftchinese.com/story/001111013"
+                "title": "藏人访客曝预言 中国分裂？台海2028成关键(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-30",
+                "url": "https://www.secretchina.com/news/gb/2026/09/30/1105462.html"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
@@ -148,22 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "2026年9月30日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-30",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
-            },
-            {
                 "title": "中方敦促日本当政者反思纠错，回归中日四个政治文件的初心和原点 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-29",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGwzNDZXYnhDZ3lyZ2hyTnVaNkRWUWdKUVAxbDBoUWl2bWJiZFo0SGRaaUo4b0MzTEFVZktCZjVQdGROMG12Y1lrTklveVNCSzNyNFF6bE1ZcDRMY3RBOUZQY01xdktXcGVTTVdPbFh5aFpxcVpYZ0wtNkh6MW1OOHRNMl9YNTVLcU1lc0Vpa0g?oc=5"
             },
             {
-                "title": "2026年南部战区面向社会公开招考专业技能类文职人员理论考试入围人员名单公告——中国人民解放军专业技术人才网 - 81rc.81.cn",
-                "source": "官方信源 / 解放军报/军网",
+                "title": "驻米兰总领事张承刚走访梅迪亚塞特（Mediaset）广播集团 - mfa.gov.cn",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sc0dXbHhQaDNIRGYyTnRiUnBFQzlPOGlOaklvdTFFRENjVEo3N2dGUnFCNGRkN0ZudHlidzZRVm9hdEhNdzBBWGRDbE1mNXVBUWVGWGpFWTNwdw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbThSM09hRU90aVVMaFNhUDNFdm1UbzFFWk9UU2RzUEZDTUptXzE2YVFsSEZPWDQyd3lEaUttaW5yT241WGVLTGZuNzRpNVdTdlFHSEFFZE5kR0U1bnFVRjc2dG9xYU9HOGtLSi1nQ2syXzZwMWEtTkVGemJTbDdxcXJibFE3cmJEbGc?oc=5"
             },
             {
                 "title": "一块铝材的“极限挑战” - 中国军网",
@@ -172,13 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IQnQ3ekxoWXFzRWhISS1DazVvZUx5MEl1X2J2VVJad2hsUXJZRm1BdUVGa0RTZ2xwOG5kOWRoZzlfcXcyRV9sUk15ZEs4ZjF2Q3c?oc=5"
             },
             {
-                "title": "【央视快评】以更高水平平安中国建设保障中国式现代化行稳致远 - 中国军网",
+                "title": "第08版：基层传真 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rU0lHV0ozTGpOekg4TEd6dnRaZmNxaDEyekNNQW04MkJSbDd5TDBlcGF2eG93eFltX0pPWms2aG9tZHgxN0gwdzB0QmdsMnhlUWc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFQ3dkNLcTNXbE5qZFUxeUpYQ0hoREx1ZHF2MXppaWROZGIydXQxZ1Z2a1lLWUVkRG1Td003OHlWdGlpNmFKMzUwS2dzNXE5YW9VdWI1RjhKUDNRd0VZVGJKZkVpbTJmVTVtOUF1SVZIbzRjV28wb2RSUUVZVFZ1c1VTSmw5dVlXM1BvcS1aYVpOejdaTXpmTlNvbw?oc=5"
+            },
+            {
+                "title": "亚运会 |“三金”王宗源：回到梦开始的地方 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKazk0NEFaQ0JrOVVnTmxVOHRLWUtVZnZDSXlVUHRWalZNQ25ZVnZ2ZFB5OEk3RG1qdGY1QW5ZNGNpNVdtbGlXRVNTeWVuRXJfVnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-09-30T21:50:51.931360+00:00"
+    "last_updated": "2026-10-01T04:00:13.354263+00:00"
 }
