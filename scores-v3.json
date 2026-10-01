@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国的贸易调查让欧盟日韩很焦虑",
-                "source": "NewsAPI / DW (English)",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-30",
-                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%B4%B8%E6%98%93%E8%B0%83%E6%9F%A5%E8%AE%A9%E6%AC%A7%E7%9B%9F%E6%97%A5%E9%9F%A9%E5%BE%88%E7%84%A6%E8%99%91/a-79486167"
+                "url": "https://www.voachinese.com/a/8201010.html"
             },
             {
-                "title": "谷歌向约100家数字出版商支付AI摘要内容使用费",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "在F-35战机部件据报运输途中落入中国之手后，美议员要求调查美军供应链安全",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580204.htm"
+                "url": "https://www.voachinese.com/a/us-lawmakers-ask-for-review-of-military-supply-chain-security-after-f-35-parts-reportedly-fell-into-chinese-hands-during-transit-20260930/8206238.html"
             },
             {
-                "title": "独家内幕 红二代剖析《香港国安法》出台后果 不幸言中(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-30",
-                "url": "https://www.secretchina.com/news/gb/2026/09/30/1105482.html"
-            },
-            {
-                "title": "欧盟被指酝酿“欧版301”等对华工具 北京严厉警告",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-09-30",
-                "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E8%A2%AB%E6%8C%87%E9%85%9D%E9%85%BF%E6%AC%A7%E7%89%88301%E7%AD%89%E5%AF%B9%E5%8D%8E%E5%B7%A5%E5%85%B7-%E5%8C%97%E4%BA%AC%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A/a-79485963"
-            },
-            {
-                "title": "Meta 被曝将 AI 数据中心包装成实验性质以获取税收优惠，去年节省近 40 亿美元",
+                "title": "复兴号 CR400AF-X 动车组首发上线 UFCS 支持：高铁无线快充迈入 30W 时代，半小时充至 60%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-30",
-                "url": "https://www.ithome.com/1/008/806.htm"
+                "url": "https://www.ithome.com/1/008/946.htm"
+            },
+            {
+                "title": "12把雨伞12人名 纽约中领馆外上演追光大战(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-30",
+                "url": "https://www.secretchina.com/news/gb/2026/09/30/1105507.html"
+            },
+            {
+                "title": "美国批准建设首座BWRX-300小型核反应堆 300MW核电或为AI数据中心提供稳定电力",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580246.htm"
             }
         ],
         "mil": [
             {
-                "title": "美国五角大楼 DMDC 遭黑客攻击：近 300 万人信息被泄露",
+                "title": "特习会后美参院军委会主席威克会晤俞大㵢，确认对台军售须符合《台湾关系法》",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-30",
+                "url": "https://www.voachinese.com/a/sasc-chair-wicker-met-with-taiwan-top-diplomat-to-reaffirm-adherence-to-tra-on-island-s-defense-needs-20260930/8206352.html"
+            },
+            {
+                "title": "戏演完了 川习会真正的结果是什么(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-09-30",
+                "url": "https://www.secretchina.com/news/gb/2026/10/01/1105511.html"
+            },
+            {
+                "title": "在F-35战机部件据报运输途中落入中国之手后，美议员要求调查美军供应链安全",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-30",
+                "url": "https://www.voachinese.com/a/us-lawmakers-ask-for-review-of-military-supply-chain-security-after-f-35-parts-reportedly-fell-into-chinese-hands-during-transit-20260930/8206238.html"
+            },
+            {
+                "title": "中国、洪水多発で泥まみれの市街地を先進技術で綺麗にしてしまう！！！",
+                "source": "NewsAPI / Blog.jp",
+                "date": "2026-09-30",
+                "url": "https://asianoneta.blog.jp/63515384"
+            },
+            {
+                "title": "曝 WSBK 2027 计划加入中国站：宁波和上海为候选赛道，利好张雪机车、凯越、钱江摩托及春风动力等厂商",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-30",
-                "url": "https://www.ithome.com/1/008/899.htm"
-            },
-            {
-                "title": "三天四千万，一周破亿：琳朝现象的背后，是一场文化品牌的静默崛起",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-30",
-                "url": "https://36kr.com/p/4005786829312136?f=rss"
-            },
-            {
-                "title": "新加坡淡马锡扩大中东布局，将设立阿布扎比、利雅得办事处",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-30",
-                "url": "https://36kr.com/newsflashes/4005697999605632?f=rss"
-            },
-            {
-                "title": "伊拉克告别美国驻军时代 伊朗欢呼胜利",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-09-30",
-                "url": "https://www.dw.com/zh/%E4%BC%8A%E6%8B%89%E5%85%8B%E5%91%8A%E5%88%AB%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%86%9B%E6%97%B6%E4%BB%A3-%E4%BC%8A%E6%9C%97%E6%AC%A2%E5%91%BC%E8%83%9C%E5%88%A9/a-79482821"
-            },
-            {
-                "title": "化敌为友 特朗普称赞Anthropic CEO“很出色”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580174.htm"
+                "url": "https://www.ithome.com/1/008/906.htm"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
@@ -80,10 +80,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻米兰总领事张承刚走访梅迪亚塞特（Mediaset）广播集团 - mfa.gov.cn",
+                "title": "2026年9月30日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbThSM09hRU90aVVMaFNhUDNFdm1UbzFFWk9UU2RzUEZDTUptXzE2YVFsSEZPWDQyd3lEaUttaW5yT241WGVLTGZuNzRpNVdTdlFHSEFFZE5kR0U1bnFVRjc2dG9xYU9HOGtLSi1nQ2syXzZwMWEtTkVGemJTbDdxcXJibFE3cmJEbGc?oc=5"
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
             },
             {
                 "title": "驻尼泊尔大使张茂明访问尼泊尔廓尔喀报业集团 - mfa.gov.cn",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "许家印伦敦豪宅被流浪汉霸占，堆满杂物",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "台驻加拿大代表：谁有权管理加拿大领土上的政治表达？(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-09-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580206.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/10/01/1105509.html"
             },
             {
-                "title": "从迪拜飞往特拉维夫的航班因机上事故在沙特降落 所有乘客均安全无恙",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580202.htm"
-            },
-            {
-                "title": "欧盟被指酝酿“欧版301”等对华工具 北京严厉警告",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-09-30",
-                "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E8%A2%AB%E6%8C%87%E9%85%9D%E9%85%BF%E6%AC%A7%E7%89%88301%E7%AD%89%E5%AF%B9%E5%8D%8E%E5%B7%A5%E5%85%B7-%E5%8C%97%E4%BA%AC%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A/a-79485963"
-            },
-            {
-                "title": "特锐德：获中国证监会备案拟发行不超1.35亿股H股",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-09-30",
-                "url": "https://36kr.com/newsflashes/4005755371884674?f=rss"
-            },
-            {
-                "title": "深圳通 NFC 手机卡限时免费开卡活动开启，截至 10 月 8 日",
+                "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-30",
-                "url": "https://www.ithome.com/1/008/879.htm"
+                "url": "https://www.ithome.com/1/008/942.htm"
+            },
+            {
+                "title": "“高原上的眼睛”：人权组织报告指中国在西藏建立无人机监控体系",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-09-30",
+                "url": "https://www.voachinese.com/a/tibet-drone-surveillance-report-prompts-calls-for-uk-police-procurement-review-20260930/8206195.html"
+            },
+            {
+                "title": "英国首相伯纳姆：英国可将重新加入欧盟列为选项",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-09-30",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580230.htm"
+            },
+            {
+                "title": "国内首个科技期刊出版集团：中科期刊出版集团挂牌成立",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/915.htm"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
@@ -148,10 +148,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻米兰总领事张承刚走访梅迪亚塞特（Mediaset）广播集团 - mfa.gov.cn",
+                "title": "2026年9月30日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbThSM09hRU90aVVMaFNhUDNFdm1UbzFFWk9UU2RzUEZDTUptXzE2YVFsSEZPWDQyd3lEaUttaW5yT241WGVLTGZuNzRpNVdTdlFHSEFFZE5kR0U1bnFVRjc2dG9xYU9HOGtLSi1nQ2syXzZwMWEtTkVGemJTbDdxcXJibFE3cmJEbGc?oc=5"
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
             },
             {
                 "title": "驻尼泊尔大使张茂明访问尼泊尔廓尔喀报业集团 - mfa.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-01T12:22:39.917185+00:00"
+    "last_updated": "2026-10-01T22:18:44.499430+00:00"
 }
