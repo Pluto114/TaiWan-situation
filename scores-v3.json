@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美国国会议员：朝鲜将士兵派往俄罗斯是去“送死”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-01",
+                "url": "https://www.voachinese.com/a/us-lawmaker-tells-voa-north-korea-is-sending-soldiers-to-die-in-russia-s-war-20261001/8206803.html"
+            },
+            {
+                "title": "中国塑造“看起来”比实际上更强大的形象(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-01",
+                "url": "https://www.secretchina.com/news/gb/2026/10/02/1105562.html"
+            },
+            {
                 "title": "美参院通过《法轮功保护法》从道义谴责转向实质制裁(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-10-01",
@@ -28,21 +40,27 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-01",
                 "url": "https://www.ithome.com/1/009/162.htm"
-            },
-            {
-                "title": "美国贸易代表格里尔敦促G20应对“非市场政策”造成的产能过剩",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-01",
-                "url": "https://www.voachinese.com/a/ustr-greer-urged-the-g20-to-address-overcapacity-caused-by-non-market-policies-20261001/8206629.html"
-            },
-            {
-                "title": "亚马逊发布全新Kindle：取消传统边框 正面屏幕实现全面平整化",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580370.htm"
             }
         ],
         "mil": [
+            {
+                "title": "台湾海军中将转任海巡署副署长，强化平战转换 应对中国威胁",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-01",
+                "url": "https://www.voachinese.com/a/taiwan-navy-commander-transferred-to-coast-guard-to-increase-deterrence-against-china-20261001/8206819.html"
+            },
+            {
+                "title": "美国战争部长宣布建立自主作战司令部的计划",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-01",
+                "url": "https://www.voachinese.com/a/war-secretary-announces-plans-to-create-autonomous-warfare-command-20261001/8206753.html"
+            },
+            {
+                "title": "特朗普总统：有可能在中期选举后轰炸伊朗",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-01",
+                "url": "https://www.voachinese.com/a/president-trump-says-bombing-iran-after-midterm-elections-a-possibility-20261001/8206760.html"
+            },
             {
                 "title": "华为 nova16 Pro 与 FIT 5 泡泡玛特 Hirono 小野联名款开售：12+256GB 昆仑玻璃款手机 3899 元，手表 1199 元",
                 "source": "NewsAPI / Ithome.com",
@@ -56,37 +74,19 @@
                 "url": "https://post.smzdm.com/p/a5ro2wmk/"
             },
             {
-                "title": "SpaceX即将把谷歌AI芯片送入轨道 推进太空数据中心构想",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580364.htm"
-            },
-            {
-                "title": "俄罗斯大规模打击乌克兰电网 冬季来临前乌被迫实施断电",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580342.htm"
-            },
-            {
-                "title": "中国在老挝建立新军事设施 学者称类似吉布提基地",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-01",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%80%81%E6%8C%9D%E5%BB%BA%E7%AB%8B%E6%96%B0%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD-%E5%AD%A6%E8%80%85%E7%A7%B0%E7%B1%BB%E4%BC%BC%E5%90%89%E5%B8%83%E6%8F%90%E5%9F%BA%E5%9C%B0/a-79491798"
-            },
-            {
                 "title": "动态新闻 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-06-28",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuczV6ZkZWOWhQVjJXVlJvWEg2NUl3dXRuVWlob0xvWHNOMmJScGd4OGE3cDJ2TkFUdVcyN2xITVRLTEVQVFdWam1B?oc=5"
             },
             {
-                "title": "祝贺新中国成立七十七周年 期待深化对华合作 - mod.gov.cn",
+                "title": "祝贺新中国成立七十七周年 期待深化对华合作 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-30",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfNHdhWjBjdmRNaU13VTkzcFEtNHByOTMxTWxLdmItTWFpZFM1QUpSTDZSY0N5V2lHRFlEOG9ua1JSbkI4cGtNX3JpTWctZXhlYzBDRmFMaUVMb2xGZm92ekpLUGxYZw?oc=5"
             },
             {
-                "title": "举世瞩目的成就 无比光明的前景 - mod.gov.cn",
+                "title": "举世瞩目的成就 无比光明的前景 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-30",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xb2xFVU9xYmpjOGZCRUhwVnJGa3dwTlVEc3QzVjJVaFZySXRmek01RjN5NXU1czlJcGppaDFkMkVJVkFFYURYVzJMdDczengyTWdqc2xsMnQ?oc=5"
@@ -112,6 +112,12 @@
         ],
         "pol": [
             {
+                "title": "特朗普总统证实与习近平谈到遭“非法拘押”的美国公民，家属：“我们全家重燃希望”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-01",
+                "url": "https://www.voachinese.com/a/trump-says-he-discussed-release-of-political-prisoners-with-xi-20261001t/8206724.html"
+            },
+            {
                 "title": "成都和广州同一天开出的两个新项目，是华润集团参与城市商业生活的两套范本",
                 "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-10-01",
@@ -136,25 +142,19 @@
                 "url": "https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/a-79503938"
             },
             {
-                "title": "英国要求学术界与某中国机构割席 称其背后是中国国安部",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-01",
-                "url": "https://www.dw.com/zh/%E8%8B%B1%E5%9B%BD%E8%A6%81%E6%B1%82%E5%AD%A6%E6%9C%AF%E7%95%8C%E4%B8%8E%E6%9F%90%E4%B8%AD%E5%9B%BD%E6%9C%BA%E6%9E%84%E5%89%B2%E5%B8%AD-%E7%A7%B0%E5%85%B6%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%89%E9%83%A8/a-79503736"
-            },
-            {
                 "title": "动态新闻 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2025-06-28",
                 "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuczV6ZkZWOWhQVjJXVlJvWEg2NUl3dXRuVWlob0xvWHNOMmJScGd4OGE3cDJ2TkFUdVcyN2xITVRLTEVQVFdWam1B?oc=5"
             },
             {
-                "title": "祝贺新中国成立七十七周年 期待深化对华合作 - mod.gov.cn",
+                "title": "祝贺新中国成立七十七周年 期待深化对华合作 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-30",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfNHdhWjBjdmRNaU13VTkzcFEtNHByOTMxTWxLdmItTWFpZFM1QUpSTDZSY0N5V2lHRFlEOG9ua1JSbkI4cGtNX3JpTWctZXhlYzBDRmFMaUVMb2xGZm92ekpLUGxYZw?oc=5"
             },
             {
-                "title": "举世瞩目的成就 无比光明的前景 - mod.gov.cn",
+                "title": "举世瞩目的成就 无比光明的前景 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-30",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xb2xFVU9xYmpjOGZCRUhwVnJGa3dwTlVEc3QzVjJVaFZySXRmek01RjN5NXU1czlJcGppaDFkMkVJVkFFYURYVzJMdDczengyTWdqc2xsMnQ?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-02T17:24:13.287182+00:00"
+    "last_updated": "2026-10-02T21:47:12.142193+00:00"
 }
