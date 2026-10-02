@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "理想汽车 9 月交付新车 31817 辆，历史累计交付量突破 183 万辆",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-01",
+                "url": "https://www.ithome.com/1/008/997.htm"
+            },
+            {
+                "title": "AI 储能红利预期落空，福特股价此前 45% 涨幅尽数回吐",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-01",
+                "url": "https://www.ithome.com/1/008/991.htm"
+            },
+            {
+                "title": "谷歌最前沿 AI 模型：Gemini 4 Argon 登场，长周期代码工程 DeepSWE 测试超 Claude Opus 5.5",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/953.htm"
+            },
+            {
                 "title": "《VOA今日焦点》音频",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-30",
@@ -22,27 +40,21 @@
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-09-30",
                 "url": "https://www.voachinese.com/a/us-lawmakers-ask-for-review-of-military-supply-chain-security-after-f-35-parts-reportedly-fell-into-chinese-hands-during-transit-20260930/8206238.html"
-            },
-            {
-                "title": "复兴号 CR400AF-X 动车组首发上线 UFCS 支持：高铁无线快充迈入 30W 时代，半小时充至 60%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-30",
-                "url": "https://www.ithome.com/1/008/946.htm"
-            },
-            {
-                "title": "12把雨伞12人名 纽约中领馆外上演追光大战(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-30",
-                "url": "https://www.secretchina.com/news/gb/2026/09/30/1105507.html"
-            },
-            {
-                "title": "美国批准建设首座BWRX-300小型核反应堆 300MW核电或为AI数据中心提供稳定电力",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-09-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580246.htm"
             }
         ],
         "mil": [
+            {
+                "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-01",
+                "url": "http://www.geekpark.net/news/372064"
+            },
+            {
+                "title": "IT早报 1001：豆包支持出行服务；被罗永浩炮轰后东方甄选溜溜凳退款 2 倍不退货；凯越机车辟谣网传经销商跑路；金融新规实施贷款中介集体“消失”...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-09-30",
+                "url": "https://www.ithome.com/1/008/961.htm"
+            },
             {
                 "title": "特习会后美参院军委会主席威克会晤俞大㵢，确认对台军售须符合《台湾关系法》",
                 "source": "NewsAPI / Voachinese.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.voachinese.com/a/us-lawmakers-ask-for-review-of-military-supply-chain-security-after-f-35-parts-reportedly-fell-into-chinese-hands-during-transit-20260930/8206238.html"
             },
             {
-                "title": "中国、洪水多発で泥まみれの市街地を先進技術で綺麗にしてしまう！！！",
-                "source": "NewsAPI / Blog.jp",
-                "date": "2026-09-30",
-                "url": "https://asianoneta.blog.jp/63515384"
-            },
-            {
-                "title": "曝 WSBK 2027 计划加入中国站：宁波和上海为候选赛道，利好张雪机车、凯越、钱江摩托及春风动力等厂商",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-30",
-                "url": "https://www.ithome.com/1/008/906.htm"
-            },
-            {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
             },
             {
-                "title": "驻尼泊尔大使张茂明访问尼泊尔廓尔喀报业集团 - mfa.gov.cn",
+                "title": "驻汤加使馆临时代办曹原出席使馆举办的庆祝中华人民共和国成立77周年招待会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-30",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3o2UHZIQ0hSdFdlSjRhb0JFUUR3SFVCdmJmcF9nQVp4a090NlppY2JHV1JpUlFiX0RteFFqOElYQ1BFTGdNbnpVYWxVcS16OGVsVlY1LXVrTEFtaXJqZWtxU1VXOHliWExoeUhCTGd6NERsZThoSGROT3Ffd050ZVpLc1U?oc=5"
-            },
-            {
-                "title": "一块铝材的“极限挑战” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IQnQ3ekxoWXFzRWhISS1DazVvZUx5MEl1X2J2VVJad2hsUXJZRm1BdUVGa0RTZ2xwOG5kOWRoZzlfcXcyRV9sUk15ZEs4ZjF2Q3c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckJYV2FNenFydlFOaXJXaGt2S1kzcHAtMTZPbkRJWkxpVkZ2YlJObVZZNWs4OWxJX1ByZWlSSlVPNG5DbkZjYjdPSmRoV0lEQS1wcGRZTl9NaFo2QjNoYWxPd0MwT1dBSmRCcnl1N3poSGtudHo4SmxlRW1hcms0OGdlMXQ?oc=5"
             },
             {
                 "title": "亚运会 |“三金”王宗源：回到梦开始的地方 - 中国军网",
@@ -108,38 +102,44 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTNmdJMldYWGFlV0ZuYlVZVkRtOXd0dEZOSGNseWE5a1hHWHFWQVcyMHlidlMzdHBJSlNfWEFnemkzaWRudVVOQ01qbF9GbmRQdHc?oc=5"
+            },
+            {
+                "title": "搭建友好桥梁 促进民心相通——习近平主席国事访问推动中美人民友谊之树向更深处扎根 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paEphT0JuTWdXbHY5YzZLaE9ma0puR3N1anhqa0RLNTVRZ2pmWWtSUXlBbTJBREhIc0J1TF8tMkl2ajVMcnNzR2NLRDNuMmJ2bXc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "台驻加拿大代表：谁有权管理加拿大领土上的政治表达？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-09-30",
-                "url": "https://www.secretchina.com/news/gb/2026/10/01/1105509.html"
+                "title": "AI 储能红利预期落空，福特股价此前 45% 涨幅尽数回吐",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-01",
+                "url": "https://www.ithome.com/1/008/991.htm"
             },
             {
-                "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
+                "title": "Take-Two 新协议曝光：XBOX“Project Helix”并非单台主机，而是硬件全家桶",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-01",
+                "url": "https://www.ithome.com/1/008/988.htm"
+            },
+            {
+                "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-01",
+                "url": "http://www.geekpark.net/news/372064"
+            },
+            {
+                "title": "IT早报 1001：豆包支持出行服务；被罗永浩炮轰后东方甄选溜溜凳退款 2 倍不退货；凯越机车辟谣网传经销商跑路；金融新规实施贷款中介集体“消失”...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-09-30",
-                "url": "https://www.ithome.com/1/008/942.htm"
+                "url": "https://www.ithome.com/1/008/961.htm"
             },
             {
-                "title": "“高原上的眼睛”：人权组织报告指中国在西藏建立无人机监控体系",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-09-30",
-                "url": "https://www.voachinese.com/a/tibet-drone-surveillance-report-prompts-calls-for-uk-police-procurement-review-20260930/8206195.html"
-            },
-            {
-                "title": "英国首相伯纳姆：英国可将重新加入欧盟列为选项",
+                "title": "月之暗面被指大规模提取OpenAI受保护推理内容 单日发起1.6万次请求",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-09-30",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580230.htm"
-            },
-            {
-                "title": "国内首个科技期刊出版集团：中科期刊出版集团挂牌成立",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-09-30",
-                "url": "https://www.ithome.com/1/008/915.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580260.htm"
             },
             {
                 "title": "2022年金砖国家领导人会晤 - 中华人民共和国外交部",
@@ -154,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVl9MbEZBSlpRYWpvVG0wOUVYTDg1VklkTzBKdjcxRHROWV93Tkt0aEF5Q0RPQ2h5dGE3Mkg4VS1MVVBNTnJ1dEFob2I3ZXQwNGo4bHgzU0hfQW82bFZMcjUySkJ6MDFycExGTTJhbFlNSXg0eEE?oc=5"
             },
             {
-                "title": "驻尼泊尔大使张茂明访问尼泊尔廓尔喀报业集团 - mfa.gov.cn",
+                "title": "驻汤加使馆临时代办曹原出席使馆举办的庆祝中华人民共和国成立77周年招待会 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-09-30",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3o2UHZIQ0hSdFdlSjRhb0JFUUR3SFVCdmJmcF9nQVp4a090NlppY2JHV1JpUlFiX0RteFFqOElYQ1BFTGdNbnpVYWxVcS16OGVsVlY1LXVrTEFtaXJqZWtxU1VXOHliWExoeUhCTGd6NERsZThoSGROT3Ffd050ZVpLc1U?oc=5"
-            },
-            {
-                "title": "一块铝材的“极限挑战” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-09-29",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IQnQ3ekxoWXFzRWhISS1DazVvZUx5MEl1X2J2VVJad2hsUXJZRm1BdUVGa0RTZ2xwOG5kOWRoZzlfcXcyRV9sUk15ZEs4ZjF2Q3c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckJYV2FNenFydlFOaXJXaGt2S1kzcHAtMTZPbkRJWkxpVkZ2YlJObVZZNWs4OWxJX1ByZWlSSlVPNG5DbkZjYjdPSmRoV0lEQS1wcGRZTl9NaFo2QjNoYWxPd0MwT1dBSmRCcnl1N3poSGtudHo4SmxlRW1hcms0OGdlMXQ?oc=5"
             },
             {
                 "title": "亚运会 |“三金”王宗源：回到梦开始的地方 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTNmdJMldYWGFlV0ZuYlVZVkRtOXd0dEZOSGNseWE5a1hHWHFWQVcyMHlidlMzdHBJSlNfWEFnemkzaWRudVVOQ01qbF9GbmRQdHc?oc=5"
+            },
+            {
+                "title": "搭建友好桥梁 促进民心相通——习近平主席国事访问推动中美人民友谊之树向更深处扎根 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-09-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paEphT0JuTWdXbHY5YzZLaE9ma0puR3N1anhqa0RLNTVRZ2pmWWtSUXlBbTJBREhIc0J1TF8tMkl2ajVMcnNzR2NLRDNuMmJ2bXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-01T22:18:44.499430+00:00"
+    "last_updated": "2026-10-02T03:56:24.209063+00:00"
 }
