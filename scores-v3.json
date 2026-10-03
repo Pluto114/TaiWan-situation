@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/304.htm"
-            },
-            {
-                "title": "特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/301.htm"
-            },
-            {
-                "title": "沃尔沃汽车 2026 年第三季度全球销量同比下降 10.7%，大中华区暴降 40.6%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/300.htm"
-            },
-            {
-                "title": "特朗普再喊话：必须推动永久夏令时法案",
+                "title": "亚马逊大力争取社会支持 推进数据中心建设",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580456.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580506.htm"
             },
             {
-                "title": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
+                "title": "特斯拉第三季度交付48.65万辆 欧洲回升部分抵消美国市场下滑",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580454.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580504.htm"
+            },
+            {
+                "title": "亚马逊拟将约80亿美元英伟达芯片转入融资载体 华尔街审视GPU抵押价值",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580500.htm"
+            },
+            {
+                "title": "英伟达停产标准版Shield TV Shield TV Pro涨价至299美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580498.htm"
+            },
+            {
+                "title": "加州华裔老板涉走私3亿美元AI芯片被捕(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-02",
+                "url": "https://www.secretchina.com/news/gb/2026/10/02/1105589.html"
             }
         ],
         "mil": [
+            {
+                "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-02",
+                "url": "https://www.ithome.com/1/009/368.htm"
+            },
             {
                 "title": "媒体：西沙羚羊礁跑道明年可建成 扩展中国在南海实力",
                 "source": "NewsAPI / DW (English)",
@@ -68,16 +74,10 @@
                 "url": "http://www.geekpark.net/news/372069"
             },
             {
-                "title": "IT早报 1002：5999 元起华为 Mate 90 系列旗舰手机发布；2026 年 9 月车企销量交付汇总；华为与赛力斯达成新五年合作；曝苹果 HomeHub 宣传物料已送往苹果门店...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-01",
-                "url": "https://www.ithome.com/1/009/201.htm"
-            },
-            {
-                "title": "以奋斗之姿书写时代华章——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话汇聚团结奋进力量 - mod.gov.cn",
+                "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-01",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jTkk5NmZ5eUMwTlNOcDJfbzBYRGJkNGdHSDIyQUR3TENZSDhhdUtGNVRKYXNTSnZRVUJPOE9BWGgtV2R6QVM2SjlocUp3REFaVV9BdEIzaElYNjZ2RVhaQlZSdk1jdw?oc=5"
+                "date": "2026-10-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14TnlqR0ZNcnFLeGF6TWxvX01GcTNzazZfNXFfeEVrZHpEWVRXeEJOSm5YdnF4NjB4RTNwcDlTWWU4TG9xOFBRaDlEalgxWEI3bjhJeXJYVFAwWUYwcS1kd0lEeXVKQmV3NzdfMk84N0lnMEliSGc?oc=5"
             },
             {
                 "title": "八一锐评丨枕戈待旦 守护安宁 - mod.gov.cn",
@@ -112,40 +112,40 @@
         ],
         "pol": [
             {
-                "title": "万事达境外集中盗刷赶在国庆出行前：截至发稿没有点名广发的案例——但广发用户这两年的一手帖，教你出门前把五笔账对清",
-                "source": "NewsAPI / Smzdm.com",
-                "date": "2026-10-02",
-                "url": "https://post.smzdm.com/p/ae6qmr0q/"
-            },
-            {
-                "title": "特朗普将AI改名为“超级智能” 意外带火斯洛文尼亚“.si”域名",
+                "title": "亚马逊大力争取社会支持 推进数据中心建设",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580474.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580506.htm"
             },
             {
-                "title": "特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/301.htm"
-            },
-            {
-                "title": "特朗普再喊话：必须推动永久夏令时法案",
+                "title": "特斯拉第三季度交付48.65万辆 欧洲回升部分抵消美国市场下滑",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580456.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580504.htm"
             },
             {
-                "title": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
+                "title": "美中拟建超级智能事件沟通渠道，激烈竞争考验合作空间",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-02",
+                "url": "https://www.voachinese.com/a/us-china-plan-superintelligence-incident-channel-as-fierce-competition-tests-room-for-cooperation-20261002/8206737.html"
+            },
+            {
+                "title": "亚马逊拟将约80亿美元英伟达芯片转入融资载体 华尔街审视GPU抵押价值",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580454.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580500.htm"
             },
             {
-                "title": "以奋斗之姿书写时代华章——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话汇聚团结奋进力量 - mod.gov.cn",
+                "title": "新加坡试点约会服务FirstDate 每轮只推送一位对象并限时72小时回应",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580494.htm"
+            },
+            {
+                "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-01",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jTkk5NmZ5eUMwTlNOcDJfbzBYRGJkNGdHSDIyQUR3TENZSDhhdUtGNVRKYXNTSnZRVUJPOE9BWGgtV2R6QVM2SjlocUp3REFaVV9BdEIzaElYNjZ2RVhaQlZSdk1jdw?oc=5"
+                "date": "2026-10-03",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14TnlqR0ZNcnFLeGF6TWxvX01GcTNzazZfNXFfeEVrZHpEWVRXeEJOSm5YdnF4NjB4RTNwcDlTWWU4TG9xOFBRaDlEalgxWEI3bjhJeXJYVFAwWUYwcS1kd0lEeXVKQmV3NzdfMk84N0lnMEliSGc?oc=5"
             },
             {
                 "title": "八一锐评丨枕戈待旦 守护安宁 - mod.gov.cn",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-03T11:03:30.181357+00:00"
+    "last_updated": "2026-10-03T15:42:10.746557+00:00"
 }
