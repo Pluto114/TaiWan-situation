@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "美国法官裁定Google AI概览诉案：出版商无权要求搜索流量 可继续使用网页内容",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580518.htm"
+            },
+            {
+                "title": "匈牙利前外长西雅尔多将因就职比亚迪涉嫌利益冲突与国家安全被传唤出庭",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580516.htm"
+            },
+            {
+                "title": "美加贸易战升级 加人赴美需注意哪些事項？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-02",
+                "url": "https://www.secretchina.com/news/gb/2026/10/03/1105599.html"
+            },
+            {
                 "title": "亚马逊大力争取社会支持 推进数据中心建设",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
@@ -22,24 +40,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1580504.htm"
-            },
-            {
-                "title": "亚马逊拟将约80亿美元英伟达芯片转入融资载体 华尔街审视GPU抵押价值",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580500.htm"
-            },
-            {
-                "title": "英伟达停产标准版Shield TV Shield TV Pro涨价至299美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580498.htm"
-            },
-            {
-                "title": "加州华裔老板涉走私3亿美元AI芯片被捕(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-02",
-                "url": "https://www.secretchina.com/news/gb/2026/10/02/1105589.html"
             }
         ],
         "mil": [
@@ -74,22 +74,28 @@
                 "url": "http://www.geekpark.net/news/372069"
             },
             {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
                 "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-03",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14TnlqR0ZNcnFLeGF6TWxvX01GcTNzazZfNXFfeEVrZHpEWVRXeEJOSm5YdnF4NjB4RTNwcDlTWWU4TG9xOFBRaDlEalgxWEI3bjhJeXJYVFAwWUYwcS1kd0lEeXVKQmV3NzdfMk84N0lnMEliSGc?oc=5"
             },
             {
-                "title": "八一锐评丨枕戈待旦 守护安宁 - mod.gov.cn",
+                "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-01",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MTlqUlUtNkxrOV9pQnRLTWhuZ0YzUEZpdjA4OWhWc1NPcm5uWUZ1Nk9JLXotOVlmU0xxVjJSbHVTdDZrWU83eWhOZkhPQUwwVk5La0hnUzU?oc=5"
+                "date": "2023-05-06",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
-                "title": "万里边疆行｜“空中国门”新坐标 - mod.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdTI2YmtUTVFRcG1ndzB6cWxOOXQ4M2Q1eE1kc2NPeW01a09HN25hQmxGbUZsbkFCbERjZ1B2WGE0VmdjZVFlbWpvWWFtenNrZWNVWnVXeU90cWlaN0QydmVjWG9PZw?oc=5"
+                "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFhHZkF6NkdMclNzNVZMVmRsaXhsYjQyVmNzbWlBNXhBZmh4S1NqSmNhMXJwRTIwMDUzR0U3dktvT2hvbjJ3cmx4OFo1V1hBVVE?oc=5"
             },
             {
                 "title": "万里边疆行｜“空中国门”新坐标 - 中国军网",
@@ -102,15 +108,27 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdU0yeF85TERqSVlFQ1MwU3pMR1VoaHR1QVdIalFoeGhsX1ZyX3RxRkJZbHJaMzIxNWQ5RTcwajVlNXMxOVEwV19nenB6dUFNa0E?oc=5"
-            },
-            {
-                "title": "在习近平强军思想指引下·走好新时代的长征路丨驶向深蓝新征程 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcmpjSjZQa1FvYWNnbVJOeGtyTENTdEV6Qmx5bk1UMTIweFRPMV83UGRFbWhVTF82ZGdiX3hqTVlnU2NlSFliUnZEWS03X3cxWWc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "匈牙利前外长西雅尔多将因就职比亚迪涉嫌利益冲突与国家安全被传唤出庭",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580516.htm"
+            },
+            {
+                "title": "科技公司推出萌系吉祥物 以缓解AI焦虑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580510.htm"
+            },
+            {
+                "title": "教宗良十四世谈AI生成艺术：机器缺少“人性的火花” 教会将加强与艺术界合作",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580508.htm"
+            },
             {
                 "title": "亚马逊大力争取社会支持 推进数据中心建设",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -124,22 +142,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1580504.htm"
             },
             {
-                "title": "美中拟建超级智能事件沟通渠道，激烈竞争考验合作空间",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-02",
-                "url": "https://www.voachinese.com/a/us-china-plan-superintelligence-incident-channel-as-fierce-competition-tests-room-for-cooperation-20261002/8206737.html"
-            },
-            {
-                "title": "亚马逊拟将约80亿美元英伟达芯片转入融资载体 华尔街审视GPU抵押价值",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580500.htm"
-            },
-            {
-                "title": "新加坡试点约会服务FirstDate 每轮只推送一位对象并限时72小时回应",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580494.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -148,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14TnlqR0ZNcnFLeGF6TWxvX01GcTNzazZfNXFfeEVrZHpEWVRXeEJOSm5YdnF4NjB4RTNwcDlTWWU4TG9xOFBRaDlEalgxWEI3bjhJeXJYVFAwWUYwcS1kd0lEeXVKQmV3NzdfMk84N0lnMEliSGc?oc=5"
             },
             {
-                "title": "八一锐评丨枕戈待旦 守护安宁 - mod.gov.cn",
+                "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-01",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MTlqUlUtNkxrOV9pQnRLTWhuZ0YzUEZpdjA4OWhWc1NPcm5uWUZ1Nk9JLXotOVlmU0xxVjJSbHVTdDZrWU83eWhOZkhPQUwwVk5La0hnUzU?oc=5"
+                "date": "2023-05-06",
+                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
-                "title": "万里边疆行｜“空中国门”新坐标 - mod.gov.cn",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdTI2YmtUTVFRcG1ndzB6cWxOOXQ4M2Q1eE1kc2NPeW01a09HN25hQmxGbUZsbkFCbERjZ1B2WGE0VmdjZVFlbWpvWWFtenNrZWNVWnVXeU90cWlaN0QydmVjWG9PZw?oc=5"
+                "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFhHZkF6NkdMclNzNVZMVmRsaXhsYjQyVmNzbWlBNXhBZmh4S1NqSmNhMXJwRTIwMDUzR0U3dktvT2hvbjJ3cmx4OFo1V1hBVVE?oc=5"
             },
             {
                 "title": "万里边疆行｜“空中国门”新坐标 - 中国军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdU0yeF85TERqSVlFQ1MwU3pMR1VoaHR1QVdIalFoeGhsX1ZyX3RxRkJZbHJaMzIxNWQ5RTcwajVlNXMxOVEwV19nenB6dUFNa0E?oc=5"
-            },
-            {
-                "title": "在习近平强军思想指引下·走好新时代的长征路丨驶向深蓝新征程 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcmpjSjZQa1FvYWNnbVJOeGtyTENTdEV6Qmx5bk1UMTIweFRPMV83UGRFbWhVTF82ZGdiX3hqTVlnU2NlSFliUnZEWS03X3cxWWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-03T15:42:10.746557+00:00"
+    "last_updated": "2026-10-03T20:34:50.789591+00:00"
 }
