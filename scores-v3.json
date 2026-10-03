@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "一汽-大众 ID. AURA T6 纯电 SUV 开启全国交付，12.99 万元起",
+                "title": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/247.htm"
+                "url": "https://www.ithome.com/1/009/304.htm"
             },
             {
-                "title": "华泰证券：AI链放量推动韩国出口继续攀升",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-02",
-                "url": "https://36kr.com/newsflashes/4008065653297026?f=rss"
-            },
-            {
-                "title": "贝恩：全球 AI 行业到 2031 年创造 6 万亿美元年营收，才能证明数据中心价值",
+                "title": "特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/244.htm"
+                "url": "https://www.ithome.com/1/009/301.htm"
             },
             {
-                "title": "英伟达黄仁勋将出席：微软预热本月 Surface 发布会，聚焦本地 AI 重塑下一代 PC",
+                "title": "沃尔沃汽车 2026 年第三季度全球销量同比下降 10.7%，大中华区暴降 40.6%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/212.htm"
+                "url": "https://www.ithome.com/1/009/300.htm"
             },
             {
-                "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "特朗普再喊话：必须推动永久夏令时法案",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-02",
-                "url": "http://www.geekpark.net/news/372069"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580456.htm"
+            },
+            {
+                "title": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580454.htm"
             }
         ],
         "mil": [
             {
+                "title": "媒体：西沙羚羊礁跑道明年可建成 扩展中国在南海实力",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-10-02",
+                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E8%A5%BF%E6%B2%99%E7%BE%9A%E7%BE%8A%E7%A4%81%E8%B7%91%E9%81%93%E6%98%8E%E5%B9%B4%E5%8F%AF%E5%BB%BA%E6%88%90-%E6%89%A9%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E5%AE%9E%E5%8A%9B/a-79514337"
+            },
+            {
+                "title": "F-16V战机抵台 美国务院：持续和印太伙伴站一起(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-02",
+                "url": "https://www.secretchina.com/news/gb/2026/10/02/1105580.html"
+            },
+            {
+                "title": "经典日系 RPG《兰斯 7 战国兰斯》登陆 Steam：国区 ¥55.20，支持中文",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-02",
+                "url": "https://www.ithome.com/1/009/257.htm"
+            },
+            {
                 "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-02",
@@ -56,46 +74,22 @@
                 "url": "https://www.ithome.com/1/009/201.htm"
             },
             {
-                "title": "谷歌首次送先进芯片上天，估算 SpaceX 星舰发射 1800 次才能让太空数据中心“飞起来”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-01",
-                "url": "https://www.ithome.com/1/009/198.htm"
-            },
-            {
-                "title": "马斯克旗下Grok AI被曝曾为特朗普提供抓捕马杜罗的舆论判断 称委内瑞拉民众可能庆祝其下台",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580398.htm"
-            },
-            {
-                "title": "美国之音中文广播 (2026年10月2日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-01",
-                "url": "https://www.voachinese.com/a/8201452.html"
-            },
-            {
-                "title": "以奋斗之姿书写时代华章——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话汇聚团结奋进力量 - 中华人民共和国国防部",
+                "title": "以奋斗之姿书写时代华章——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话汇聚团结奋进力量 - mod.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-01",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jTkk5NmZ5eUMwTlNOcDJfbzBYRGJkNGdHSDIyQUR3TENZSDhhdUtGNVRKYXNTSnZRVUJPOE9BWGgtV2R6QVM2SjlocUp3REFaVV9BdEIzaElYNjZ2RVhaQlZSdk1jdw?oc=5"
             },
             {
-                "title": "八一锐评丨枕戈待旦 守护安宁 - 中华人民共和国国防部",
+                "title": "八一锐评丨枕戈待旦 守护安宁 - mod.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-01",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MTlqUlUtNkxrOV9pQnRLTWhuZ0YzUEZpdjA4OWhWc1NPcm5uWUZ1Nk9JLXotOVlmU0xxVjJSbHVTdDZrWU83eWhOZkhPQUwwVk5La0hnUzU?oc=5"
             },
             {
-                "title": "万里边疆行｜“空中国门”新坐标 - 中华人民共和国国防部",
+                "title": "万里边疆行｜“空中国门”新坐标 - mod.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-02",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdTI2YmtUTVFRcG1ndzB6cWxOOXQ4M2Q1eE1kc2NPeW01a09HN25hQmxGbUZsbkFCbERjZ1B2WGE0VmdjZVFlbWpvWWFtenNrZWNVWnVXeU90cWlaN0QydmVjWG9PZw?oc=5"
-            },
-            {
-                "title": "和总书记面对面·长征特辑丨革命理想高于天 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTNmdJMldYWGFlV0ZuYlVZVkRtOXd0dEZOSGNseWE5a1hHWHFWQVcyMHlidlMzdHBJSlNfWEFnemkzaWRudVVOQ01qbF9GbmRQdHc?oc=5"
             },
             {
                 "title": "万里边疆行｜“空中国门”新坐标 - 中国军网",
@@ -108,62 +102,62 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdU0yeF85TERqSVlFQ1MwU3pMR1VoaHR1QVdIalFoeGhsX1ZyX3RxRkJZbHJaMzIxNWQ5RTcwajVlNXMxOVEwV19nenB6dUFNa0E?oc=5"
+            },
+            {
+                "title": "在习近平强军思想指引下·走好新时代的长征路丨驶向深蓝新征程 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcmpjSjZQa1FvYWNnbVJOeGtyTENTdEV6Qmx5bk1UMTIweFRPMV83UGRFbWhVTF82ZGdiX3hqTVlnU2NlSFliUnZEWS03X3cxWWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "万事达境外集中盗刷赶在国庆出行前：截至发稿没有点名广发的案例——但广发用户这两年的一手帖，教你出门前把五笔账对清",
+                "source": "NewsAPI / Smzdm.com",
                 "date": "2026-10-02",
-                "url": "http://www.geekpark.net/news/372069"
+                "url": "https://post.smzdm.com/p/ae6qmr0q/"
             },
             {
-                "title": "IT早报 1002：5999 元起华为 Mate 90 系列旗舰手机发布；2026 年 9 月车企销量交付汇总；华为与赛力斯达成新五年合作；曝苹果 HomeHub 宣传物料已送往苹果门店...",
+                "title": "特朗普将AI改名为“超级智能” 意外带火斯洛文尼亚“.si”域名",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580474.htm"
+            },
+            {
+                "title": "特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-01",
-                "url": "https://www.ithome.com/1/009/201.htm"
+                "date": "2026-10-02",
+                "url": "https://www.ithome.com/1/009/301.htm"
             },
             {
-                "title": "FlyDubai客机惊魂事件：机长乘客联手化险 阿曼籍副驾引安全审查疑问",
+                "title": "特朗普再喊话：必须推动永久夏令时法案",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580422.htm"
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580456.htm"
             },
             {
-                "title": "特朗普称喜欢Anthropic首席执行官 或预示关系有所缓和",
+                "title": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580418.htm"
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580454.htm"
             },
             {
-                "title": "加州州长否决了一项“反智能眼镜偷拍”法案SB 1130",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580406.htm"
-            },
-            {
-                "title": "以奋斗之姿书写时代华章——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话汇聚团结奋进力量 - 中华人民共和国国防部",
+                "title": "以奋斗之姿书写时代华章——习近平总书记在庆祝中华人民共和国成立77周年招待会上的重要讲话汇聚团结奋进力量 - mod.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-01",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jTkk5NmZ5eUMwTlNOcDJfbzBYRGJkNGdHSDIyQUR3TENZSDhhdUtGNVRKYXNTSnZRVUJPOE9BWGgtV2R6QVM2SjlocUp3REFaVV9BdEIzaElYNjZ2RVhaQlZSdk1jdw?oc=5"
             },
             {
-                "title": "八一锐评丨枕戈待旦 守护安宁 - 中华人民共和国国防部",
+                "title": "八一锐评丨枕戈待旦 守护安宁 - mod.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-01",
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MTlqUlUtNkxrOV9pQnRLTWhuZ0YzUEZpdjA4OWhWc1NPcm5uWUZ1Nk9JLXotOVlmU0xxVjJSbHVTdDZrWU83eWhOZkhPQUwwVk5La0hnUzU?oc=5"
             },
             {
-                "title": "万里边疆行｜“空中国门”新坐标 - 中华人民共和国国防部",
+                "title": "万里边疆行｜“空中国门”新坐标 - mod.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-02",
                 "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdTI2YmtUTVFRcG1ndzB6cWxOOXQ4M2Q1eE1kc2NPeW01a09HN25hQmxGbUZsbkFCbERjZ1B2WGE0VmdjZVFlbWpvWWFtenNrZWNVWnVXeU90cWlaN0QydmVjWG9PZw?oc=5"
-            },
-            {
-                "title": "和总书记面对面·长征特辑丨革命理想高于天 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTNmdJMldYWGFlV0ZuYlVZVkRtOXd0dEZOSGNseWE5a1hHWHFWQVcyMHlidlMzdHBJSlNfWEFnemkzaWRudVVOQ01qbF9GbmRQdHc?oc=5"
             },
             {
                 "title": "万里边疆行｜“空中国门”新坐标 - 中国军网",
@@ -176,9 +170,15 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdU0yeF85TERqSVlFQ1MwU3pMR1VoaHR1QVdIalFoeGhsX1ZyX3RxRkJZbHJaMzIxNWQ5RTcwajVlNXMxOVEwV19nenB6dUFNa0E?oc=5"
+            },
+            {
+                "title": "在习近平强军思想指引下·走好新时代的长征路丨驶向深蓝新征程 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcmpjSjZQa1FvYWNnbVJOeGtyTENTdEV6Qmx5bk1UMTIweFRPMV83UGRFbWhVTF82ZGdiX3hqTVlnU2NlSFliUnZEWS03X3cxWWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-03T03:41:09.012640+00:00"
+    "last_updated": "2026-10-03T11:03:30.181357+00:00"
 }
