@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求",
+                "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/521.htm"
+                "url": "https://www.ithome.com/1/009/580.htm"
             },
             {
-                "title": "G20贸易部长会议：产能过剩声明遭拒，强迫劳动声明受阻",
+                "title": "台积电接洽马斯克Terafab项目 美国产业链一体化晶圆厂计划浮出水面",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580594.htm"
+            },
+            {
+                "title": "华为：昇腾AI芯片中国份额已超过英伟达",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580586.htm"
+            },
+            {
+                "title": "中欧贸易会谈在即 中国对欧盟发起反倾销调查",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-10-03",
-                "url": "https://www.dw.com/zh/g20%E8%B4%B8%E6%98%93%E9%83%A8%E9%95%BF%E4%BC%9A%E8%AE%AE%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%A3%B0%E6%98%8E%E9%81%AD%E6%8B%92%E5%BC%BA%E8%BF%AB%E5%8A%B3%E5%8A%A8%E5%A3%B0%E6%98%8E%E5%8F%97%E9%98%BB/a-79529292"
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E6%AC%A7%E8%B4%B8%E6%98%93%E4%BC%9A%E8%B0%88%E5%9C%A8%E5%8D%B3-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%8F%91%E8%B5%B7%E5%8F%8D%E5%80%BE%E9%94%80%E8%B0%83%E6%9F%A5/a-79531185"
             },
             {
-                "title": "LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产",
-                "source": "NewsAPI / Ithome.com",
+                "title": "2026全球城市榜出炉 纽约伦敦巴黎居前三(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/505.htm"
-            },
-            {
-                "title": "天价离婚案：SK 集团会长崔泰源决定出售价值 9440 亿韩元股份，用于财产分割",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/485.htm"
-            },
-            {
-                "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/451.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/10/03/1105634.html"
             }
         ],
         "mil": [
+            {
+                "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/580.htm"
+            },
+            {
+                "title": "华为：昇腾AI芯片中国份额已超过英伟达",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580586.htm"
+            },
             {
                 "title": "我们手上的这瓶 AVESTAN，为什么被称为是“全球最神秘的香水”",
                 "source": "NewsAPI / Toodaylab.com",
@@ -62,16 +74,10 @@
                 "url": "https://www.voachinese.com/a/republican-senator-u-s-and-china-should-avoid-decoupling-taiwan-policy-should-stay-the-course-20261002/8207236.html"
             },
             {
-                "title": "美国之音中文广播 (2026年10月3日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-02",
-                "url": "https://www.voachinese.com/a/8201776.html"
-            },
-            {
-                "title": "拟动员逾10万大军！沙特准备反攻胡塞 直取曼德海峡(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-02",
-                "url": "https://www.secretchina.com/news/gb/2026/10/03/1105608.html"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2023-05-06",
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
-            },
-            {
-                "title": "军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-03",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV1huQXNULXpiR3lkZm1NTjVQVUZGV1BxV3lVc1k3UUplUlhWMUYyZjk5VEVEZ2V5UFNyYkQ3bWd4bXhrUmd6aTBpQkdDOGdfRXcyZ3lndlFVR01TSXRzTg?oc=5"
             },
             {
                 "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
@@ -111,6 +111,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "前索尼高管吉田修平谈《GTA 6》超高热度：未来再有此关注度，可能得《GTA 7》或等中国厂商出手",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/535.htm"
+            },
             {
                 "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
                 "source": "NewsAPI / Ithome.com",
@@ -136,10 +142,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1580566.htm"
             },
             {
-                "title": "旗下智能体频繁“闯祸”，OpenAI 每天要烧掉超 50 万美元来调查",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/444.htm"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2023-05-06",
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
-            },
-            {
-                "title": "军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-03",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV1huQXNULXpiR3lkZm1NTjVQVUZGV1BxV3lVc1k3UUplUlhWMUYyZjk5VEVEZ2V5UFNyYkQ3bWd4bXhrUmd6aTBpQkdDOGdfRXcyZ3lndlFVR01TSXRzTg?oc=5"
             },
             {
                 "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-04T11:44:56.298809+00:00"
+    "last_updated": "2026-10-04T16:23:38.027777+00:00"
 }
