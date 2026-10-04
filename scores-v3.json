@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "谷歌搭载AI芯片测试卫星发射升空",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-03",
-                "url": "https://36kr.com/newsflashes/4009581990268808?f=rss"
-            },
-            {
-                "title": "自身股价下跌，安森美将收购 Synaptics 的对价调整为 57 亿美元现金",
+                "title": "AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/410.htm"
+                "url": "https://www.ithome.com/1/009/521.htm"
             },
             {
-                "title": "产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%",
+                "title": "G20贸易部长会议：产能过剩声明遭拒，强迫劳动声明受阻",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-10-03",
+                "url": "https://www.dw.com/zh/g20%E8%B4%B8%E6%98%93%E9%83%A8%E9%95%BF%E4%BC%9A%E8%AE%AE%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%A3%B0%E6%98%8E%E9%81%AD%E6%8B%92%E5%BC%BA%E8%BF%AB%E5%8A%B3%E5%8A%A8%E5%A3%B0%E6%98%8E%E5%8F%97%E9%98%BB/a-79529292"
+            },
+            {
+                "title": "LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/393.htm"
+                "url": "https://www.ithome.com/1/009/505.htm"
             },
             {
-                "title": "IT早报 1003：三星上调国行 S26 售价；问界 M6 推 3 年 0 息购车方案；曝 Anthropic 最早 11 月中旬上市；苹果预计本月发布触控 OLED 屏 MacBook...",
+                "title": "天价离婚案：SK 集团会长崔泰源决定出售价值 9440 亿韩元股份，用于财产分割",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/382.htm"
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/485.htm"
             },
             {
-                "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
+                "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/377.htm"
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/451.htm"
             }
         ],
         "mil": [
+            {
+                "title": "我们手上的这瓶 AVESTAN，为什么被称为是“全球最神秘的香水”",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-10-03",
+                "url": "https://www.toodaylab.com/84233"
+            },
             {
                 "title": "美国陆军将设自主系统司令部 五角大楼另筹建四星级自主战争司令部",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,18 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/10/03/1105608.html"
             },
             {
-                "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/368.htm"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
-            },
-            {
                 "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-03",
@@ -90,6 +84,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2023-05-06",
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
+            },
+            {
+                "title": "军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-03",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV1huQXNULXpiR3lkZm1NTjVQVUZGV1BxV3lVc1k3UUplUlhWMUYyZjk5VEVEZ2V5UFNyYkQ3bWd4bXhrUmd6aTBpQkdDOGdfRXcyZ3lndlFVR01TSXRzTg?oc=5"
             },
             {
                 "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "英伟达股价创新高，逼近 6 万亿美元；保时捷 CEO：2028 年将推出燃油版 Macan；AI 内容激增，平台限制研究人员投稿数量",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-03",
-                "url": "http://www.geekpark.net/news/372070"
+                "url": "https://www.ithome.com/1/009/522.htm"
             },
             {
-                "title": "今日消费资讯：颐堤港即将更名为“北京太古坊”、特斯拉 Model 3 全系车型更新",
+                "title": "我们手上的这瓶 AVESTAN，为什么被称为是“全球最神秘的香水”",
                 "source": "NewsAPI / Toodaylab.com",
                 "date": "2026-10-03",
-                "url": "https://www.toodaylab.com/84232"
+                "url": "https://www.toodaylab.com/84233"
             },
             {
-                "title": "IT早报 1003：三星上调国行 S26 售价；问界 M6 推 3 年 0 息购车方案；曝 Anthropic 最早 11 月中旬上市；苹果预计本月发布触控 OLED 屏 MacBook...",
+                "title": "马斯克先将特斯拉AI5芯片内存砍半 随后又上调至96GB",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580578.htm"
+            },
+            {
+                "title": "车友在深圳走了两次应急车道 驾驶证记12分加罚6000元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-03",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580566.htm"
+            },
+            {
+                "title": "旗下智能体频繁“闯祸”，OpenAI 每天要烧掉超 50 万美元来调查",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/382.htm"
-            },
-            {
-                "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/377.htm"
-            },
-            {
-                "title": "美共和党议员：美中应避免脱钩，台湾政策应维持现在路线",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-02",
-                "url": "https://www.voachinese.com/a/republican-senator-u-s-and-china-should-avoid-decoupling-taiwan-policy-should-stay-the-course-20261002/8207236.html"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/444.htm"
             },
             {
                 "title": "2026年10月3日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - mfa.gov.cn",
@@ -158,6 +152,12 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2023-05-06",
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
+            },
+            {
+                "title": "军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观 - 中华人民共和国国防部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-03",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV1huQXNULXpiR3lkZm1NTjVQVUZGV1BxV3lVc1k3UUplUlhWMUYyZjk5VEVEZ2V5UFNyYkQ3bWd4bXhrUmd6aTBpQkdDOGdfRXcyZ3lndlFVR01TSXRzTg?oc=5"
             },
             {
                 "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-04T04:11:29.600955+00:00"
+    "last_updated": "2026-10-04T11:44:56.298809+00:00"
 }
