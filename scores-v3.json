@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国法官裁定Google AI概览诉案：出版商无权要求搜索流量 可继续使用网页内容",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580518.htm"
+                "title": "谷歌搭载AI芯片测试卫星发射升空",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-03",
+                "url": "https://36kr.com/newsflashes/4009581990268808?f=rss"
             },
             {
-                "title": "匈牙利前外长西雅尔多将因就职比亚迪涉嫌利益冲突与国家安全被传唤出庭",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580516.htm"
+                "title": "自身股价下跌，安森美将收购 Synaptics 的对价调整为 57 亿美元现金",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/410.htm"
             },
             {
-                "title": "美加贸易战升级 加人赴美需注意哪些事項？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-02",
-                "url": "https://www.secretchina.com/news/gb/2026/10/03/1105599.html"
+                "title": "产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/393.htm"
             },
             {
-                "title": "亚马逊大力争取社会支持 推进数据中心建设",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 1003：三星上调国行 S26 售价；问界 M6 推 3 年 0 息购车方案；曝 Anthropic 最早 11 月中旬上市；苹果预计本月发布触控 OLED 屏 MacBook...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580506.htm"
+                "url": "https://www.ithome.com/1/009/382.htm"
             },
             {
-                "title": "特斯拉第三季度交付48.65万辆 欧洲回升部分抵消美国市场下滑",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580504.htm"
+                "url": "https://www.ithome.com/1/009/377.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国陆军将设自主系统司令部 五角大楼另筹建四星级自主战争司令部",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580526.htm"
+            },
+            {
+                "title": "美共和党议员：美中应避免脱钩，台湾政策应维持现在路线",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-02",
+                "url": "https://www.voachinese.com/a/republican-senator-u-s-and-china-should-avoid-decoupling-taiwan-policy-should-stay-the-course-20261002/8207236.html"
+            },
+            {
+                "title": "美国之音中文广播 (2026年10月3日)",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-02",
+                "url": "https://www.voachinese.com/a/8201776.html"
+            },
+            {
+                "title": "拟动员逾10万大军！沙特准备反攻胡塞 直取曼德海峡(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-02",
+                "url": "https://www.secretchina.com/news/gb/2026/10/03/1105608.html"
+            },
             {
                 "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
                 "source": "NewsAPI / Ithome.com",
@@ -50,30 +74,6 @@
                 "url": "https://www.ithome.com/1/009/368.htm"
             },
             {
-                "title": "媒体：西沙羚羊礁跑道明年可建成 扩展中国在南海实力",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-02",
-                "url": "https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E8%A5%BF%E6%B2%99%E7%BE%9A%E7%BE%8A%E7%A4%81%E8%B7%91%E9%81%93%E6%98%8E%E5%B9%B4%E5%8F%AF%E5%BB%BA%E6%88%90-%E6%89%A9%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E5%AE%9E%E5%8A%9B/a-79514337"
-            },
-            {
-                "title": "F-16V战机抵台 美国务院：持续和印太伙伴站一起(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-02",
-                "url": "https://www.secretchina.com/news/gb/2026/10/02/1105580.html"
-            },
-            {
-                "title": "经典日系 RPG《兰斯 7 战国兰斯》登陆 Steam：国区 ¥55.20，支持中文",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-02",
-                "url": "https://www.ithome.com/1/009/257.htm"
-            },
-            {
-                "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-02",
-                "url": "http://www.geekpark.net/news/372069"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44UGdkd3RkNnNQZ2t5bkd2UGRkWlNadmhXeVdCdFk4UWJvbVlDTmVqZUhpek1kb21ERTR5LWtaejZ1cUYwWTg1VGtKbkZxallwQ1E?oc=5"
             },
             {
-                "title": "爱国是心之所系、情之所归 - 中国军网",
+                "title": "在习近平强军思想指引下·走好新时代的长征路丨驶向深蓝新征程 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdU0yeF85TERqSVlFQ1MwU3pMR1VoaHR1QVdIalFoeGhsX1ZyX3RxRkJZbHJaMzIxNWQ5RTcwajVlNXMxOVEwV19nenB6dUFNa0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcmpjSjZQa1FvYWNnbVJOeGtyTENTdEV6Qmx5bk1UMTIweFRPMV83UGRFbWhVTF82ZGdiX3hqTVlnU2NlSFliUnZEWS03X3cxWWc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "匈牙利前外长西雅尔多将因就职比亚迪涉嫌利益冲突与国家安全被传唤出庭",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580516.htm"
+                "title": "英伟达股价创新高，逼近 6 万亿美元；保时捷 CEO：2028 年将推出燃油版 Macan；AI 内容激增，平台限制研究人员投稿数量",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-03",
+                "url": "http://www.geekpark.net/news/372070"
             },
             {
-                "title": "科技公司推出萌系吉祥物 以缓解AI焦虑",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580510.htm"
+                "title": "今日消费资讯：颐堤港即将更名为“北京太古坊”、特斯拉 Model 3 全系车型更新",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-10-03",
+                "url": "https://www.toodaylab.com/84232"
             },
             {
-                "title": "教宗良十四世谈AI生成艺术：机器缺少“人性的火花” 教会将加强与艺术界合作",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 1003：三星上调国行 S26 售价；问界 M6 推 3 年 0 息购车方案；曝 Anthropic 最早 11 月中旬上市；苹果预计本月发布触控 OLED 屏 MacBook...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580508.htm"
+                "url": "https://www.ithome.com/1/009/382.htm"
             },
             {
-                "title": "亚马逊大力争取社会支持 推进数据中心建设",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580506.htm"
+                "url": "https://www.ithome.com/1/009/377.htm"
             },
             {
-                "title": "特斯拉第三季度交付48.65万辆 欧洲回升部分抵消美国市场下滑",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美共和党议员：美中应避免脱钩，台湾政策应维持现在路线",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580504.htm"
+                "url": "https://www.voachinese.com/a/republican-senator-u-s-and-china-should-avoid-decoupling-taiwan-policy-should-stay-the-course-20261002/8207236.html"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44UGdkd3RkNnNQZ2t5bkd2UGRkWlNadmhXeVdCdFk4UWJvbVlDTmVqZUhpek1kb21ERTR5LWtaejZ1cUYwWTg1VGtKbkZxallwQ1E?oc=5"
             },
             {
-                "title": "爱国是心之所系、情之所归 - 中国军网",
+                "title": "在习近平强军思想指引下·走好新时代的长征路丨驶向深蓝新征程 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdU0yeF85TERqSVlFQ1MwU3pMR1VoaHR1QVdIalFoeGhsX1ZyX3RxRkJZbHJaMzIxNWQ5RTcwajVlNXMxOVEwV19nenB6dUFNa0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcmpjSjZQa1FvYWNnbVJOeGtyTENTdEV6Qmx5bk1UMTIweFRPMV83UGRFbWhVTF82ZGdiX3hqTVlnU2NlSFliUnZEWS03X3cxWWc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-03T20:34:50.789591+00:00"
+    "last_updated": "2026-10-04T04:11:29.600955+00:00"
 }
