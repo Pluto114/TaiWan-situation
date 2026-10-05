@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国商务部宣布对原产于欧盟的进口对硝基甲苯发起反倾销调查",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-03",
-                "url": "https://www.voachinese.com/a/china-launches-anti-dumping-probe-into-chemical-compound-p-nitrotoluene-from-the-eu-20261003/8207420.html"
+                "title": "民众集体抵制数据中心，亚马逊 AWS 停止和政府签署保密协议",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/621.htm"
             },
             {
-                "title": "美股12月起迈入23小时交易时代",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580604.htm"
+                "title": "现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/616.htm"
             },
             {
-                "title": "张而平汪志远谈法轮功保护法美参院过关(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-03",
-                "url": "https://www.secretchina.com/news/gb/2026/10/04/1105606.html"
+                "title": "战地工作室欧洲区副总裁谈《战地 6》：不盲目追赶竞品，专注玩家需求",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/610.htm"
             },
             {
-                "title": "权力的逻辑｜没有消费闭环，投资就是制造过剩——对林毅夫、余永定、夏春“投资驱动论”的系统反驳",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-10-03",
-                "url": "https://chinadigitaltimes.net/chinese/732471.html"
+                "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-04",
+                "url": "http://www.geekpark.net/news/372073"
             },
             {
-                "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
+                "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/580.htm"
+                "url": "https://www.ithome.com/1/009/594.htm"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-03",
+                "url": "https://www.ithome.com/1/009/594.htm"
+            },
             {
                 "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
                 "source": "NewsAPI / Ithome.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1580526.htm"
             },
             {
-                "title": "美共和党议员：美中应避免脱钩，台湾政策应维持现在路线",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-02",
-                "url": "https://www.voachinese.com/a/republican-senator-u-s-and-china-should-avoid-decoupling-taiwan-policy-should-stay-the-course-20261002/8207236.html"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
+                "title": "“人可以倒下，但组织绝不能散” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yN3hKNlVqaGk1NVdKR3c1b0FJM084Q014Z1k5UklOSy1mZlcxY1UzaTlkWVY0VnByVHJZWWxjdmZnaVBvT1BJYU9DdUhocmVhZGc?oc=5"
+            },
+            {
                 "title": "乌国产FP-7导弹完成首次实战 波兰防空规则朝“战时标准”靠拢 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50M2ZCZnZKNV9Pc3B4NmhOSVBLZS1jVzRxWnZpaFVocWJWODlNT1NncjJKZlJmUDRwMHFmY081bUpDOHkwRnNHa3pSRndySzdNUlE?oc=5"
             },
             {
-                "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
+                "title": "致敬回龙场渡口那段血色记忆 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFhHZkF6NkdMclNzNVZMVmRsaXhsYjQyVmNzbWlBNXhBZmh4S1NqSmNhMXJwRTIwMDUzR0U3dktvT2hvbjJ3cmx4OFo1V1hBVVE?oc=5"
-            },
-            {
-                "title": "万里边疆行｜“空中国门”新坐标 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44UGdkd3RkNnNQZ2t5bkd2UGRkWlNadmhXeVdCdFk4UWJvbVlDTmVqZUhpek1kb21ERTR5LWtaejZ1cUYwWTg1VGtKbkZxallwQ1E?oc=5"
+                "date": "2026-10-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1NiamVoSlZPbE5EalhHZ3c5bFBkazkya01tQUNybFZRcV94aHJxRFlBZnE1enBxVHFGbjdjVU9JdWswSFhrbl8xSWNTa3VVUUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美股12月起迈入23小时交易时代",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580604.htm"
+                "title": "巴西喙莎草有性繁殖却产出克隆后代，科学家发现首例雌雄减数分裂完全无重组的有性物种",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/623.htm"
             },
             {
-                "title": "前索尼高管吉田修平谈《GTA 6》超高热度：未来再有此关注度，可能得《GTA 7》或等中国厂商出手",
+                "title": "战地工作室欧洲区副总裁谈《战地 6》：不盲目追赶竞品，专注玩家需求",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/610.htm"
+            },
+            {
+                "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-04",
+                "url": "http://www.geekpark.net/news/372073"
+            },
+            {
+                "title": "美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/596.htm"
+            },
+            {
+                "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/535.htm"
-            },
-            {
-                "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/522.htm"
-            },
-            {
-                "title": "我们手上的这瓶 AVESTAN，为什么被称为是“全球最神秘的香水”",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-10-03",
-                "url": "https://www.toodaylab.com/84233"
-            },
-            {
-                "title": "马斯克先将特斯拉AI5芯片内存砍半 随后又上调至96GB",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580578.htm"
+                "url": "https://www.ithome.com/1/009/594.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
+                "title": "“人可以倒下，但组织绝不能散” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-04",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yN3hKNlVqaGk1NVdKR3c1b0FJM084Q014Z1k5UklOSy1mZlcxY1UzaTlkWVY0VnByVHJZWWxjdmZnaVBvT1BJYU9DdUhocmVhZGc?oc=5"
+            },
+            {
                 "title": "乌国产FP-7导弹完成首次实战 波兰防空规则朝“战时标准”靠拢 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50M2ZCZnZKNV9Pc3B4NmhOSVBLZS1jVzRxWnZpaFVocWJWODlNT1NncjJKZlJmUDRwMHFmY081bUpDOHkwRnNHa3pSRndySzdNUlE?oc=5"
             },
             {
-                "title": "焦点访谈｜从雪山草地到治沙一线 长征精神永不褪色 - 中国军网",
+                "title": "致敬回龙场渡口那段血色记忆 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-03",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NFhHZkF6NkdMclNzNVZMVmRsaXhsYjQyVmNzbWlBNXhBZmh4S1NqSmNhMXJwRTIwMDUzR0U3dktvT2hvbjJ3cmx4OFo1V1hBVVE?oc=5"
-            },
-            {
-                "title": "万里边疆行｜“空中国门”新坐标 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44UGdkd3RkNnNQZ2t5bkd2UGRkWlNadmhXeVdCdFk4UWJvbVlDTmVqZUhpek1kb21ERTR5LWtaejZ1cUYwWTg1VGtKbkZxallwQ1E?oc=5"
+                "date": "2026-10-05",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1NiamVoSlZPbE5EalhHZ3c5bFBkazkya01tQUNybFZRcV94aHJxRFlBZnE1enBxVHFGbjdjVU9JdWswSFhrbl8xSWNTa3VVUUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-04T20:50:15.037663+00:00"
+    "last_updated": "2026-10-05T03:55:17.343061+00:00"
 }
