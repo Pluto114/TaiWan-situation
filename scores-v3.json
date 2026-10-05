@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "我国科学家赴尼泊尔开展联合科考，研判喜马拉雅冰冻灾害",
+                "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-04",
-                "url": "https://www.ithome.com/1/009/698.htm"
+                "url": "https://www.ithome.com/1/009/741.htm"
             },
             {
-                "title": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-04",
-                "url": "http://www.geekpark.net/news/372081"
+                "url": "https://www.ithome.com/1/009/739.htm"
             },
             {
-                "title": "全球跨国投资十强榜单出炉：台积电居首、字节跳动位列第二",
+                "title": "苹果新任CEO特努斯上任即亲掌设计 10月密集推新品对冲服务业务放缓",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580678.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580696.htm"
             },
             {
-                "title": "液冷巨头并购，释放新信号",
-                "source": "NewsAPI / 36kr.com",
+                "title": "马斯克拟将SpaceXAI更名为SpaceXSI 为“超级智能”概念背书",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-04",
-                "url": "https://36kr.com/newsflashes/4011300895756420?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580692.htm"
             },
             {
-                "title": "消息称苹果 iPhone 18 Pro 系列 W39 国内累计销量 176 万台",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特朗普宣布成立“超级智能特别工作组”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-04",
-                "url": "https://www.ithome.com/1/009/662.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580686.htm"
             }
         ],
         "mil": [
+            {
+                "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/741.htm"
+            },
             {
                 "title": "波音赢得美国海军F/A-XX下一代舰载战斗机合同 研发阶段价值逾200亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://www.ithome.com/1/009/580.htm"
             },
             {
-                "title": "华为：昇腾AI芯片中国份额已超过英伟达",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-03",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580586.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
-                "title": "军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观 - 中华人民共和国国防部",
+                "title": "红色文艺轻骑兵，用歌声和舞蹈架起军民连心桥 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-03",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV1huQXNULXpiR3lkZm1NTjVQVUZGV1BxV3lVc1k3UUplUlhWMUYyZjk5VEVEZ2V5UFNyYkQ3bWd4bXhrUmd6aTBpQkdDOGdfRXcyZ3lndlFVR01TSXRzTg?oc=5"
+                "date": "2026-10-04",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zLVV6Y3dwTTNrNFVmbnRsb2JocXpsYzBhUXFWcFIxbGtoY1VuaE5FOVdNSXc2UHphLWtSTlNvNTlSV0tvYzB4RkRZNGFEWGlUcVh0Y05NckxYS0VvLXhZNw?oc=5"
             },
             {
                 "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "返程充电高峰今天起：30个服务区繁忙、凌晨叫号到A140，电车露营人先算完三笔账再往回开",
-                "source": "NewsAPI / Smzdm.com",
-                "date": "2026-10-04",
-                "url": "https://post.smzdm.com/p/apqm8gx9/"
-            },
-            {
-                "title": "我国科学家赴尼泊尔开展联合科考，研判喜马拉雅冰冻灾害",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-04",
-                "url": "https://www.ithome.com/1/009/698.htm"
-            },
-            {
-                "title": "血旗下的孤独",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-04",
-                "url": "https://www.secretchina.com/news/gb/2026/10/04/1105659.html"
-            },
-            {
-                "title": "东航就“空姐下跪事件”报案 六成网友支持“应加大惩戒辱骂者”",
+                "title": "萨姆·奥特曼称AI发展应容忍部分负面后果 ≈但拒绝接受灾难性风险",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580676.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580706.htm"
             },
             {
-                "title": "VR 驾驶模拟游戏《亚利桑那卡车司机》本月开启抢先体验，Meta Quest 平台独占",
-                "source": "NewsAPI / Ithome.com",
+                "title": "一个免费测速网站，靠你的网速数据值12亿美元？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-04",
-                "url": "https://www.ithome.com/1/009/676.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580702.htm"
+            },
+            {
+                "title": "孙正义罕见地就AI安全风险表达担忧 呼吁各国携手应对威胁",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580700.htm"
+            },
+            {
+                "title": "官方打假十年，为什么抢票软件们还活得这么好？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580698.htm"
+            },
+            {
+                "title": "苹果新任CEO特努斯上任即亲掌设计 10月密集推新品对冲服务业务放缓",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-04",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580696.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
-                "title": "军报记者寻根行丨走进一座座烈士陵园，感悟革命军人的生死观 - 中华人民共和国国防部",
+                "title": "红色文艺轻骑兵，用歌声和舞蹈架起军民连心桥 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-03",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV1huQXNULXpiR3lkZm1NTjVQVUZGV1BxV3lVc1k3UUplUlhWMUYyZjk5VEVEZ2V5UFNyYkQ3bWd4bXhrUmd6aTBpQkdDOGdfRXcyZ3lndlFVR01TSXRzTg?oc=5"
+                "date": "2026-10-04",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zLVV6Y3dwTTNrNFVmbnRsb2JocXpsYzBhUXFWcFIxbGtoY1VuaE5FOVdNSXc2UHphLWtSTlNvNTlSV0tvYzB4RkRZNGFEWGlUcVh0Y05NckxYS0VvLXhZNw?oc=5"
             },
             {
                 "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-05T13:31:43.554898+00:00"
+    "last_updated": "2026-10-05T23:41:34.534824+00:00"
 }
