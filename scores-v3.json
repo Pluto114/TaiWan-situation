@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国铁路：所有第三方平台自身不产生任何“票源”，其“抢票”行为的尽头都是 12306",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-05",
-                "url": "https://www.ithome.com/1/009/865.htm"
-            },
-            {
-                "title": "美中稀土之争 美国打“组合拳”加速重建自主供应链",
+                "title": "司法部起诉华裔女子涉监视赖清德家人 美议员:依法进行严厉制裁",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-05",
-                "url": "https://www.voachinese.com/a/how-will-the-us-accelerate-its-buildup-of-china-free-rare-earths-supply-chains-20261005/8207836.html"
+                "url": "https://www.voachinese.com/a/california-chinese-american-arrested-by-fbi-acting-as-unresgistered-agent-of-the-prc-20261005/8208061.html"
             },
             {
-                "title": "今年诺贝尔奖开始公布，生理学或医学奖颁给了光遗传学领域的三位科学家",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "台湾外长林佳龙访问亚利桑那州出席驻凤凰城办事处揭牌仪式",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-05",
-                "url": "https://www.toodaylab.com/84236"
+                "url": "https://www.voachinese.com/a/taiwan-foreign-minister-visits-arizona-to-unveil-new-teco-office-20261005/8208046.html"
             },
             {
-                "title": "世界在建最大跨度桥梁新进展，中国基建加速出海",
-                "source": "NewsAPI / 36kr.com",
+                "title": "VOA专访俞大㵢：美对台政策没有改变，中共篡改抗战史“冒领战功”",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-05",
-                "url": "https://36kr.com/newsflashes/4012634863669383?f=rss"
+                "url": "https://www.voachinese.com/a/voa-interview-with-alexander-yui-us-policy-toward-taiwan-remains-unchanged-ccp-distorts-history-with-stolen-valor-20261005/8207951.html"
             },
             {
-                "title": "阿斯顿马丁：短期内，纯电车型尚未成为客户的主要需求方向",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国地质调查局公布新关键矿产资源分布图，面积几乎翻了一番",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-05",
-                "url": "https://www.ithome.com/1/009/856.htm"
+                "url": "https://www.voachinese.com/a/usgs-updates-us-critical-mineral-deposits-20261005/8208054.html"
+            },
+            {
+                "title": "报告称中国已储备343台浸没式DUV光刻机 或具备持续推进7纳米芯片生产能力",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580810.htm"
             }
         ],
         "mil": [
+            {
+                "title": "VOA专访俞大㵢：美对台政策没有改变，中共篡改抗战史“冒领战功”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-05",
+                "url": "https://www.voachinese.com/a/voa-interview-with-alexander-yui-us-policy-toward-taiwan-remains-unchanged-ccp-distorts-history-with-stolen-valor-20261005/8207951.html"
+            },
             {
                 "title": "AI，为什么总在画美女？",
                 "source": "NewsAPI / Geekpark.net",
@@ -68,10 +74,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1580722.htm"
             },
             {
-                "title": "迪拜航空副驾驶袭击事件暴露多国安全审查漏洞",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580720.htm"
+                "title": "2026年10月6日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DTkhuQi1MZEhqdlR2bE84SDJibG04Sk02dEMydWVDZXBQN05XZFVRU1IwRzNudFl2dmtFdURhSy1sNlVDQXZRVzlFMG9MUjZZdXVkNlFWUlRpLS03cEJlWmwxNE9COTJXLTFwWTFGRzMzRnRJMnc?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -80,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
+                "title": "领导人重要讲话 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2023-05-06",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
-            },
-            {
-                "title": "中方参加俄罗斯“中部-2026”战略演习部队组织文化交流活动见闻 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-05",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMzhxTWFBcG5iR2lkbzVjRzh5TFdTdUkzLTBKeDdhckJEVUhaTEp1UlRnbXQwRk41NENsa2otbm9WaTY1MnZqTExzT2IzZDJqc3o0UGRMejZoeTYt?oc=5"
+                "date": "2025-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
                 "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 中国军网",
@@ -98,48 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yN3hKNlVqaGk1NVdKR3c1b0FJM084Q014Z1k5UklOSy1mZlcxY1UzaTlkWVY0VnByVHJZWWxjdmZnaVBvT1BJYU9DdUhocmVhZGc?oc=5"
             },
             {
-                "title": "乌国产FP-7导弹完成首次实战 波兰防空规则朝“战时标准”靠拢 - tv.81.cn",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50M2ZCZnZKNV9Pc3B4NmhOSVBLZS1jVzRxWnZpaFVocWJWODlNT1NncjJKZlJmUDRwMHFmY081bUpDOHkwRnNHa3pSRndySzdNUlE?oc=5"
-            },
-            {
-                "title": "致敬回龙场渡口那段血色记忆 - 中国军网",
+                "title": "2026年10月6日解放军报第01版：要闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1NiamVoSlZPbE5EalhHZ3c5bFBkazkya01tQUNybFZRcV94aHJxRFlBZnE1enBxVHFGbjdjVU9JdWswSFhrbl8xSWNTa3VVUUE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXJMSmh3MmJrandUaklLNTJucUZWZHBOS0U3RWdhRFZxTFVrTElza1pmdEdHNU01VXVvU3hrR3RZSUlBM3lIV0k2bzdsY0J5NldwcDBnOHdMdUYtMEg2VU0tMGk3SWFFeFp4eF9lRnZsVWNZcGY1WlQ5VWRhS25YX3Qwdjk3OWlYZVdUTjJPdEJnQlhvT2RJOFVuYw?oc=5"
+            },
+            {
+                "title": "青春华章｜中青网评：学以报国，一场“刚毅坚卓”的青春接力 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44VGs5N1o5SzVNQzZKRTU3TmNOOF9VdTYwdjM2ZUlhTHBLM1U5UnZRMmxTNG9ucjdFalp1UDdqakpGcGM1VF9FdS1vcWMzQjhZc2c?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "加州叫停真人大战人形机器人赛事 网红遭机器人拳脚击倒引发监管介入",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "台湾外长林佳龙访问亚利桑那州出席驻凤凰城办事处揭牌仪式",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580804.htm"
+                "url": "https://www.voachinese.com/a/taiwan-foreign-minister-visits-arizona-to-unveil-new-teco-office-20261005/8208046.html"
             },
             {
-                "title": "中国铁路：所有第三方平台自身不产生任何“票源”，其“抢票”行为的尽头都是 12306",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-05",
-                "url": "https://www.ithome.com/1/009/865.htm"
-            },
-            {
-                "title": "OpenAI将在ChatGPT生成图片时测试视觉广告 不会影响生成结果",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580800.htm"
-            },
-            {
-                "title": "无人驾驶车门突然夹手 男子疼得跺脚现场求救",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580784.htm"
-            },
-            {
-                "title": "蔡康永遭中国商业切割 沈伯洋王婉谕声援(组图)",
+                "title": "多伦多开国际倡议研讨会 聚焦人权与跨国镇压(组图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-10-05",
-                "url": "https://www.secretchina.com/news/gb/2026/10/05/1105703.html"
+                "url": "https://www.secretchina.com/news/gb/2026/10/06/1105727.html"
+            },
+            {
+                "title": "“中国共产党你死哪去了？”中国女士绝望泣诉：政府吃人(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-05",
+                "url": "https://www.secretchina.com/news/gb/2026/10/06/1105721.html"
+            },
+            {
+                "title": "Anthropic、OpenAI、谷歌与Meta高管将出席纽约市议会AI风险听证会",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580816.htm"
+            },
+            {
+                "title": "报告称中国已储备343台浸没式DUV光刻机 或具备持续推进7纳米芯片生产能力",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1580810.htm"
+            },
+            {
+                "title": "2026年10月6日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DTkhuQi1MZEhqdlR2bE84SDJibG04Sk02dEMydWVDZXBQN05XZFVRU1IwRzNudFl2dmtFdURhSy1sNlVDQXZRVzlFMG9MUjZZdXVkNlFWUlRpLS03cEJlWmwxNE9COTJXLTFwWTFGRzMzRnRJMnc?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -148,16 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "习近平总书记涉台重要讲话 - mfa.gov.cn",
+                "title": "领导人重要讲话 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2023-05-06",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
-            },
-            {
-                "title": "中方参加俄罗斯“中部-2026”战略演习部队组织文化交流活动见闻 - 中华人民共和国国防部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-05",
-                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMzhxTWFBcG5iR2lkbzVjRzh5TFdTdUkzLTBKeDdhckJEVUhaTEp1UlRnbXQwRk41NENsa2otbm9WaTY1MnZqTExzT2IzZDJqc3o0UGRMejZoeTYt?oc=5"
+                "date": "2025-07-06",
+                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWVRvZmlrQnhFUnRiblA3VmVpSHJxbGc4T1pNRVA3cHNoY3VGaVFSWkNzeXVhel94cFFjNHl2ZXV5UnZCZXl1eHdjWFJCdw?oc=5"
             },
             {
                 "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 中国军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yN3hKNlVqaGk1NVdKR3c1b0FJM084Q014Z1k5UklOSy1mZlcxY1UzaTlkWVY0VnByVHJZWWxjdmZnaVBvT1BJYU9DdUhocmVhZGc?oc=5"
             },
             {
-                "title": "乌国产FP-7导弹完成首次实战 波兰防空规则朝“战时标准”靠拢 - tv.81.cn",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-04",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50M2ZCZnZKNV9Pc3B4NmhOSVBLZS1jVzRxWnZpaFVocWJWODlNT1NncjJKZlJmUDRwMHFmY081bUpDOHkwRnNHa3pSRndySzdNUlE?oc=5"
-            },
-            {
-                "title": "致敬回龙场渡口那段血色记忆 - 中国军网",
+                "title": "2026年10月6日解放军报第01版：要闻 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-05",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1NiamVoSlZPbE5EalhHZ3c5bFBkazkya01tQUNybFZRcV94aHJxRFlBZnE1enBxVHFGbjdjVU9JdWswSFhrbl8xSWNTa3VVUUE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXJMSmh3MmJrandUaklLNTJucUZWZHBOS0U3RWdhRFZxTFVrTElza1pmdEdHNU01VXVvU3hrR3RZSUlBM3lIV0k2bzdsY0J5NldwcDBnOHdMdUYtMEg2VU0tMGk3SWFFeFp4eF9lRnZsVWNZcGY1WlQ5VWRhS25YX3Qwdjk3OWlYZVdUTjJPdEJnQlhvT2RJOFVuYw?oc=5"
+            },
+            {
+                "title": "青春华章｜中青网评：学以报国，一场“刚毅坚卓”的青春接力 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-06",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44VGs5N1o5SzVNQzZKRTU3TmNOOF9VdTYwdjM2ZUlhTHBLM1U5UnZRMmxTNG9ucjdFalp1UDdqakpGcGM1VF9FdS1vcWMzQjhZc2c?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-06T12:42:09.427269+00:00"
+    "last_updated": "2026-10-06T22:16:47.746884+00:00"
 }
