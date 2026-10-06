@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+                "title": "特朗普宣布成立超级智能工作组，谋求维持美国技术领先地位",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-05",
+                "url": "https://www.ithome.com/1/009/792.htm"
+            },
+            {
+                "title": "9月中国大宗商品价格指数环比上涨4.1%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-05",
+                "url": "https://36kr.com/newsflashes/4012339503714180?f=rss"
+            },
+            {
+                "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-05",
+                "url": "https://www.ithome.com/1/009/758.htm"
+            },
+            {
+                "title": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-05",
+                "url": "http://www.geekpark.net/news/372082"
+            },
+            {
+                "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-04",
-                "url": "https://www.ithome.com/1/009/741.htm"
-            },
-            {
-                "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-04",
-                "url": "https://www.ithome.com/1/009/739.htm"
-            },
-            {
-                "title": "苹果新任CEO特努斯上任即亲掌设计 10月密集推新品对冲服务业务放缓",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580696.htm"
-            },
-            {
-                "title": "马斯克拟将SpaceXAI更名为SpaceXSI 为“超级智能”概念背书",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580692.htm"
-            },
-            {
-                "title": "特朗普宣布成立“超级智能特别工作组”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580686.htm"
+                "url": "https://www.ithome.com/1/009/742.htm"
             }
         ],
         "mil": [
+            {
+                "title": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-05",
+                "url": "http://www.geekpark.net/news/372082"
+            },
+            {
+                "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-04",
+                "url": "https://www.ithome.com/1/009/742.htm"
+            },
             {
                 "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
                 "source": "NewsAPI / Ithome.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.ithome.com/1/009/643.htm"
             },
             {
-                "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/594.htm"
-            },
-            {
-                "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-03",
-                "url": "https://www.ithome.com/1/009/580.htm"
-            },
-            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
@@ -86,13 +86,13 @@
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
-                "title": "红色文艺轻骑兵，用歌声和舞蹈架起军民连心桥 - 中华人民共和国国防部",
+                "title": "中方参加俄罗斯“中部-2026”战略演习部队组织文化交流活动见闻 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-04",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zLVV6Y3dwTTNrNFVmbnRsb2JocXpsYzBhUXFWcFIxbGtoY1VuaE5FOVdNSXc2UHphLWtSTlNvNTlSV0tvYzB4RkRZNGFEWGlUcVh0Y05NckxYS0VvLXhZNw?oc=5"
+                "date": "2026-10-05",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMzhxTWFBcG5iR2lkbzVjRzh5TFdTdUkzLTBKeDdhckJEVUhaTEp1UlRnbXQwRk41NENsa2otbm9WaTY1MnZqTExzT2IzZDJqc3o0UGRMejZoeTYt?oc=5"
             },
             {
-                "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 中国军网",
+                "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yN3hKNlVqaGk1NVdKR3c1b0FJM084Q014Z1k5UklOSy1mZlcxY1UzaTlkWVY0VnByVHJZWWxjdmZnaVBvT1BJYU9DdUhocmVhZGc?oc=5"
@@ -104,7 +104,7 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50M2ZCZnZKNV9Pc3B4NmhOSVBLZS1jVzRxWnZpaFVocWJWODlNT1NncjJKZlJmUDRwMHFmY081bUpDOHkwRnNHa3pSRndySzdNUlE?oc=5"
             },
             {
-                "title": "致敬回龙场渡口那段血色记忆 - 中国军网",
+                "title": "致敬回龙场渡口那段血色记忆 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1NiamVoSlZPbE5EalhHZ3c5bFBkazkya01tQUNybFZRcV94aHJxRFlBZnE1enBxVHFGbjdjVU9JdWswSFhrbl8xSWNTa3VVUUE?oc=5"
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "萨姆·奥特曼称AI发展应容忍部分负面后果 ≈但拒绝接受灾难性风险",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580706.htm"
+                "title": "迪士尼宣布《复仇者联盟 4》重映后反超《阿凡达》再登全球影史票房冠军，漫威电影累计超 350 亿美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-05",
+                "url": "https://www.ithome.com/1/009/791.htm"
             },
             {
-                "title": "一个免费测速网站，靠你的网速数据值12亿美元？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580702.htm"
+                "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-05",
+                "url": "https://www.ithome.com/1/009/758.htm"
             },
             {
-                "title": "孙正义罕见地就AI安全风险表达担忧 呼吁各国携手应对威胁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580700.htm"
+                "title": "法国外长赴非洲探访埃博拉疫区| 零新聞 - GitHub",
+                "source": "NewsAPI / Github.io",
+                "date": "2026-10-05",
+                "url": "https://agora0.github.io/news/rfi/2026/10/05/RFI-%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF%E8%B5%B4%E9%9D%9E%E6%B4%B2%E6%8E%A2%E8%AE%BF%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E5%8C%BA.html"
             },
             {
-                "title": "官方打假十年，为什么抢票软件们还活得这么好？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580698.htm"
+                "title": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-05",
+                "url": "http://www.geekpark.net/news/372082"
             },
             {
-                "title": "苹果新任CEO特努斯上任即亲掌设计 10月密集推新品对冲服务业务放缓",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580696.htm"
+                "url": "https://www.ithome.com/1/009/742.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,13 +154,13 @@
                 "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1IWmVMbm1OMzlzN1hIa2lObjFBdFlMTHR3UjZQR2k5TkJrRWFaQjdBTEhwSlJodEc5NXpIRFBOcWZhTkJFTWQ0YXU0YV9iTFVDLUNjZlJrV05wNmpQVU5XdjFUdVdzZW9HMmFNdUF1YWVGeWhUR0dMWEZ5d0Y4T2lrZEZoN2FBdDVqUkcxaw?oc=5"
             },
             {
-                "title": "红色文艺轻骑兵，用歌声和舞蹈架起军民连心桥 - 中华人民共和国国防部",
+                "title": "中方参加俄罗斯“中部-2026”战略演习部队组织文化交流活动见闻 - 中华人民共和国国防部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-04",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zLVV6Y3dwTTNrNFVmbnRsb2JocXpsYzBhUXFWcFIxbGtoY1VuaE5FOVdNSXc2UHphLWtSTlNvNTlSV0tvYzB4RkRZNGFEWGlUcVh0Y05NckxYS0VvLXhZNw?oc=5"
+                "date": "2026-10-05",
+                "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMzhxTWFBcG5iR2lkbzVjRzh5TFdTdUkzLTBKeDdhckJEVUhaTEp1UlRnbXQwRk41NENsa2otbm9WaTY1MnZqTExzT2IzZDJqc3o0UGRMejZoeTYt?oc=5"
             },
             {
-                "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 中国军网",
+                "title": "新疆军区某团“红五连”党支部传承优良传统建强战斗堡垒 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-04",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yN3hKNlVqaGk1NVdKR3c1b0FJM084Q014Z1k5UklOSy1mZlcxY1UzaTlkWVY0VnByVHJZWWxjdmZnaVBvT1BJYU9DdUhocmVhZGc?oc=5"
@@ -172,7 +172,7 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50M2ZCZnZKNV9Pc3B4NmhOSVBLZS1jVzRxWnZpaFVocWJWODlNT1NncjJKZlJmUDRwMHFmY081bUpDOHkwRnNHa3pSRndySzdNUlE?oc=5"
             },
             {
-                "title": "致敬回龙场渡口那段血色记忆 - 中国军网",
+                "title": "致敬回龙场渡口那段血色记忆 - 81.cn",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-05",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1NiamVoSlZPbE5EalhHZ3c5bFBkazkya01tQUNybFZRcV94aHJxRFlBZnE1enBxVHFGbjdjVU9JdWswSFhrbl8xSWNTa3VVUUE?oc=5"
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-05T23:41:34.534824+00:00"
+    "last_updated": "2026-10-06T04:44:07.766016+00:00"
 }
