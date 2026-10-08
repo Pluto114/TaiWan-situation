@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "2027 款深蓝 L06 新车官宣：定位“长续航磁流变 AI 轿跑”，搭载两只“龙虾”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特习会后，台湾驻美代表未见美国对台政策发生变化",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-07",
-                "url": "https://www.ithome.com/1/010/276.htm"
+                "url": "https://www.voachinese.com/a/taiwan-envoy-sees-no-shift-in-us-policy-after-trump-xi-summit-2026107/8208837.html"
             },
             {
-                "title": "“若盈利不及预期 AI热潮或演变为严重冲击波”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-07",
-                "url": "https://www.dw.com/zh/%E8%8B%A5%E7%9B%88%E5%88%A9%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F-ai%E7%83%AD%E6%BD%AE%E6%88%96%E6%BC%94%E5%8F%98%E4%B8%BA%E4%B8%A5%E9%87%8D%E5%86%B2%E5%87%BB%E6%B3%A2/a-79576627"
-            },
-            {
-                "title": "曝华为 Mate 90 系列手机首销期销量超 27 万台，麒麟 9050 Pro 版“超大杯”占比约 40%",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-07",
-                "url": "https://www.ithome.com/1/010/244.htm"
-            },
-            {
-                "title": "李杰：全局 165Hz 超高刷需要屏幕硬件支持，目前行业里只有一加 16 可以",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-07",
-                "url": "https://www.ithome.com/1/010/217.htm"
-            },
-            {
-                "title": "布鲁塞尔拟通过对大型企业征税 向科技巨头课税",
+                "title": "微软Surface Laptop Ultra开启预售：搭载RTX Spark 本地可运行1200亿参数AI模型",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581024.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581086.htm"
+            },
+            {
+                "title": "英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/318.htm"
+            },
+            {
+                "title": "肯尼亚报告首例埃博拉病例，患者死亡后当局追查57名接触者| Mezha - mezha.net",
+                "source": "NewsAPI / Mezha.net",
+                "date": "2026-10-07",
+                "url": "https://mezha.net/ch/news/da03e30e_kenya_confirms_first/"
+            },
+            {
+                "title": "韩媒称三星12层HBM4E通过英伟达等客户验证 但尚无供货合同披露",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581082.htm"
             }
         ],
         "mil": [
+            {
+                "title": "​苹果与LG合作打造智能家居产品首次曝光：恒温器、温度传感器和智能门锁亮相",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581056.htm"
+            },
+            {
+                "title": "美战争部官员据报将进驻台湾国防部，台防长：美台交流越趋紧密，细节不宜公开",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-07",
+                "url": "https://www.voachinese.com/a/taiwan-defense-minister-said-military-exchange-with-us-increasingly-close-but-not-disclosing-if-pentagon-is-embedding-officials-mnd-20261006/8208469.html"
+            },
+            {
+                "title": "宇树为什么还在执着于“两条腿”？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-07",
+                "url": "https://www.ftchinese.com/story/001111035"
+            },
             {
                 "title": "外传战争部将派军驻台 台防长最新回应(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,22 +74,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/10/07/1105785.html"
             },
             {
-                "title": "万亿砸向高速充电桩，排队为何仍是无解？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581000.htm"
-            },
-            {
-                "title": "华为徐直军回应“美国同行呼吁放缓 AI 开发”：中国模型更弱反而需要加快，不然怎么体会到风险",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-07",
-                "url": "https://www.ithome.com/1/010/198.htm"
-            },
-            {
-                "title": "前OpenAI与Anthropic研究员发出警告：担忧中国情报渗透 AI竞赛正加速迈向超级智能",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580982.htm"
+                "title": "2026年10月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-08",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0M0hxMkU5bUx4a0RMU09RN2NYQzE3ZjJGdUVkRDJRLXRXMEwzNHR2Q3J2RGxsVWhBVXQtY3RWaUp6WjlOV1MyNWc4S05TVjQxWDdCTURKTzlJLXJxUVRuVF9TM2lWbFJwTFo2R2VrMzU0THI3MkE?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-08",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbF9mejVfcV9hZ2RJel9HdlVyMUdKd1FtNFhyeGN1emRIcjNwNzJkNGo4R0hZQXk3d0o4aWJDMDNKR1Ryb0ZzWFBLSFJiZkl0eEVkX1RNSzlKMWlIQkRfanNPbUJ4RXVGOGZleGdzSV83U2ppeFhpWDNpQXNQLTRORGZURWhZb3ZpTC0weVRHTEE?oc=5"
-            },
-            {
-                "title": "驻里昂总领事于江出席中法教育发展论坛暨第二届汇流教育论坛 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-07",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVZRdmRwdzlucTk2LW9VWFZyOEI4elloUU5hSzdOa2Z6Y2R0WTJWTUowc1IwYmVnUi1tb1RXeXZzMkFMUTFHOUVIM1hBYkduRVM1eEhQaUYtcVpVWm1YRXZDYm12bFFCRUpsQVAtUDJqSE9HZnRKbW9PSDE3X2NES0RuN2E?oc=5"
             },
             {
                 "title": "如何让“仿生鸟”现形 - 中国军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "哈马斯恐袭以色列3周年 默茨强调“德国坚定站在以色列一边”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-07",
-                "url": "https://www.dw.com/zh/%E5%93%88%E9%A9%AC%E6%96%AF%E6%81%90%E8%A2%AD%E4%BB%A5%E8%89%B2%E5%88%973%E5%91%A8%E5%B9%B4-%E9%BB%98%E8%8C%A8%E5%BC%BA%E8%B0%83%E5%BE%B7%E5%9B%BD%E5%9D%9A%E5%AE%9A%E7%AB%99%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%80%E8%BE%B9/a-79578715"
-            },
-            {
-                "title": "法国学生抗议愈演愈烈 新的“法国大革命”将至？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-07",
-                "url": "https://www.dw.com/zh/%E6%B3%95%E5%9B%BD%E5%AD%A6%E7%94%9F%E6%8A%97%E8%AE%AE%E6%84%88%E6%BC%94%E6%84%88%E7%83%88-%E6%96%B0%E7%9A%84%E6%B3%95%E5%9B%BD%E5%A4%A7%E9%9D%A9%E5%91%BD%E5%B0%86%E8%87%B3/a-79575419"
-            },
-            {
-                "title": "荣耀 Magic9 全系列支持红外功能，Pro Max 搭载独有「360° 红外遥控增强」技术",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-07",
-                "url": "https://www.ithome.com/1/010/227.htm"
-            },
-            {
-                "title": "蔡英文访美藏玄机 专家解密：台美合作切入“实质军工供应链”(图)",
+                "title": "欧洲议会通过对华决议 点名倾销间谍活动及援俄(图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-10-07",
-                "url": "https://www.secretchina.com/news/gb/2026/10/07/1105785.html"
+                "url": "https://www.secretchina.com/news/gb/2026/10/08/1105811.html"
             },
             {
-                "title": "分析称字节跳动占用了中国五分之一的数据中心容量",
+                "title": "中国据报将提名候选人竞争世卫总干事 分析人士担心中国候选人优先推进北京利益",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-07",
+                "url": "https://www.voachinese.com/a/china-plans-late-entry-into-who-leadership-race-20261007/8208753.html"
+            },
+            {
+                "title": "肯尼亚报告首例埃博拉病例，患者死亡后当局追查57名接触者| Mezha - mezha.net",
+                "source": "NewsAPI / Mezha.net",
+                "date": "2026-10-07",
+                "url": "https://mezha.net/ch/news/da03e30e_kenya_confirms_first/"
+            },
+            {
+                "title": "FCC批准SpaceX再部署1.5万颗Starlink Mobile卫星 手机或可直接连接太空网络",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581010.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581076.htm"
+            },
+            {
+                "title": "​苹果与LG合作打造智能家居产品首次曝光：恒温器、温度传感器和智能门锁亮相",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581056.htm"
+            },
+            {
+                "title": "2026年10月8日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-08",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0M0hxMkU5bUx4a0RMU09RN2NYQzE3ZjJGdUVkRDJRLXRXMEwzNHR2Q3J2RGxsVWhBVXQtY3RWaUp6WjlOV1MyNWc4S05TVjQxWDdCTURKTzlJLXJxUVRuVF9TM2lWbFJwTFo2R2VrMzU0THI3MkE?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-08",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbF9mejVfcV9hZ2RJel9HdlVyMUdKd1FtNFhyeGN1emRIcjNwNzJkNGo4R0hZQXk3d0o4aWJDMDNKR1Ryb0ZzWFBLSFJiZkl0eEVkX1RNSzlKMWlIQkRfanNPbUJ4RXVGOGZleGdzSV83U2ppeFhpWDNpQXNQLTRORGZURWhZb3ZpTC0weVRHTEE?oc=5"
-            },
-            {
-                "title": "驻里昂总领事于江出席中法教育发展论坛暨第二届汇流教育论坛 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-07",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVZRdmRwdzlucTk2LW9VWFZyOEI4elloUU5hSzdOa2Z6Y2R0WTJWTUowc1IwYmVnUi1tb1RXeXZzMkFMUTFHOUVIM1hBYkduRVM1eEhQaUYtcVpVWm1YRXZDYm12bFFCRUpsQVAtUDJqSE9HZnRKbW9PSDE3X2NES0RuN2E?oc=5"
             },
             {
                 "title": "如何让“仿生鸟”现形 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-08T12:45:54.171538+00:00"
+    "last_updated": "2026-10-08T22:50:32.133236+00:00"
 }
