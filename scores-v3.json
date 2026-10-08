@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米米家智能晾衣机 3 Max 今日开售：首创柔烘除菌专区，首发国补价 2699 元",
+                "title": "“非洲手机之王”传音控股拟赴港上市：最高募资 33.6 亿港元，加码 AI 研发",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-06",
-                "url": "https://www.ithome.com/1/010/126.htm"
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/177.htm"
             },
             {
-                "title": "中国经济大崩盘！全民穷游背后藏着什么？(视频)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-06",
-                "url": "https://www.secretchina.com/news/gb/2026/10/07/1105756.html"
-            },
-            {
-                "title": "荷兰税务部门放弃微软365迁移计划 将转向自建服务器与欧洲开源方案",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580942.htm"
-            },
-            {
-                "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
+                "title": "三星 2026 Q3 营业利润预计同比增长近 9 倍，存储涨价放缓引担忧",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-06",
-                "url": "https://www.ithome.com/1/010/123.htm"
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/173.htm"
             },
             {
-                "title": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产",
+                "title": "三星电机计划斥资近50亿美元在韩国和越南扩产半导体基板",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-07",
+                "url": "https://36kr.com/newsflashes/4015165184921728?f=rss"
+            },
+            {
+                "title": "打造“全球最大”商务舱，英国航空计划在空客 A380 上设置 106 个商务座",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-06",
-                "url": "https://www.ithome.com/1/010/114.htm"
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/154.htm"
+            },
+            {
+                "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-07",
+                "url": "http://www.geekpark.net/news/372089"
             }
         ],
         "mil": [
+            {
+                "title": "捷豹史上最强公路车：纯电旗舰 GT 跑车 Type 01 正式发布",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/147.htm"
+            },
             {
                 "title": "高通寻求在未来最长5年内停止向Arm支付授权权利金并开放V10授权",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "http://www.geekpark.net/news/372087"
             },
             {
-                "title": "VOA专访俞大㵢：美对台政策没有改变，中共篡改抗战史“冒领战功”",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-05",
-                "url": "https://www.voachinese.com/a/voa-interview-with-alexander-yui-us-policy-toward-taiwan-remains-unchanged-ccp-distorts-history-with-stolen-valor-20261005/8207951.html"
-            },
-            {
                 "title": "2026年10月6日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-06",
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "俄罗斯总统助理、海事委员会主席帕特鲁舍夫将访华 - 中华人民共和国外交部",
+                "title": "常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德大使在联合国人权理事会第63届会议介绍“无障碍建设促进所有人享有人权”决议草案_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-07",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0swQXR0bk1ZaFZWYzdmUzR5NE1JbklWdjV1bklLRVlVN1N4YWxUSlBmaF9mU054ZG5rb3h6WHFSNUlQWEZjNmM4b2VrWXJZUUVWQ3M0cnYxUGdMREdwMFFDcm0xSHBXaE11RllUSllSWGtHeE40dUdBNlFRUWZJdkpQeWxBc1g5eWc?oc=5"
+                "date": "2026-10-06",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWp3UXNlU3Y1MHc0cnRndVk4dmZkb2FUaHV2dmF6VGI5TFFxTFByYl9uVDRCZk0wY2hldUdtZk5IYVlBelBpSGlQNDRCM2RRSHZOT2p6cXVJc3Q2YjFmQ2NDVFNJaC1ZQmViTGpXWnJkVnVDZ2ttSG9rdjhRSjlWTFBySE4?oc=5"
             },
             {
                 "title": "如何让“仿生鸟”现形 - 中国军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "张婉莹奢侈生活曝光 戴镣铐出庭 中共外交部回应(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-06",
-                "url": "https://www.secretchina.com/news/gb/2026/10/07/1105765.html"
+                "title": "“非洲手机之王”传音控股拟赴港上市：最高募资 33.6 亿港元，加码 AI 研发",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/177.htm"
             },
             {
-                "title": "特习会后多位国会议员访台，AIT：强化与台湾的伙伴关系",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-06",
-                "url": "https://www.voachinese.com/a/democratic-members-of-us-congress-visit-taiwan-after-trump-s-meeting-with-xi-20261006/8208364.html"
+                "title": "德国支持特斯拉 FSD 落地欧洲，前提是更名为 TAD、超速上限设为 10%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/165.htm"
             },
             {
-                "title": "Claude中文版悄悄上线了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580944.htm"
+                "title": "波士顿动力换帅，亚马逊前高管出任 CEO",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-07",
+                "url": "https://www.ithome.com/1/010/151.htm"
             },
             {
-                "title": "荷兰税务部门放弃微软365迁移计划 将转向自建服务器与欧洲开源方案",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580942.htm"
+                "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-07",
+                "url": "http://www.geekpark.net/news/372089"
             },
             {
-                "title": "美国医疗进入新阶段 犹他州开放AI直接评估患者并开具处方",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "AI 颠覆担忧消退，美国软件股创 2026 年阶段新高",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-06",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1580936.htm"
+                "url": "https://www.ithome.com/1/010/141.htm"
             },
             {
                 "title": "2026年10月6日外交部发言人郭嘉昆答记者问_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "俄罗斯总统助理、海事委员会主席帕特鲁舍夫将访华 - 中华人民共和国外交部",
+                "title": "常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德大使在联合国人权理事会第63届会议介绍“无障碍建设促进所有人享有人权”决议草案_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-07",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0swQXR0bk1ZaFZWYzdmUzR5NE1JbklWdjV1bklLRVlVN1N4YWxUSlBmaF9mU054ZG5rb3h6WHFSNUlQWEZjNmM4b2VrWXJZUUVWQ3M0cnYxUGdMREdwMFFDcm0xSHBXaE11RllUSllSWGtHeE40dUdBNlFRUWZJdkpQeWxBc1g5eWc?oc=5"
+                "date": "2026-10-06",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWp3UXNlU3Y1MHc0cnRndVk4dmZkb2FUaHV2dmF6VGI5TFFxTFByYl9uVDRCZk0wY2hldUdtZk5IYVlBelBpSGlQNDRCM2RRSHZOT2p6cXVJc3Q2YjFmQ2NDVFNJaC1ZQmViTGpXWnJkVnVDZ2ttSG9rdjhRSjlWTFBySE4?oc=5"
             },
             {
                 "title": "如何让“仿生鸟”现形 - 中国军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-07T22:38:52.347328+00:00"
+    "last_updated": "2026-10-08T04:22:35.082255+00:00"
 }
