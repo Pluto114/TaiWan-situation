@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
+                "title": "随着电动汽车业务放缓 华为加大对智能手机领域的投入",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581232.htm"
+            },
+            {
+                "title": "Xeal融资20亿美元 将闲置电动汽车充电站改造供电 承接AI算力热潮",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581220.htm"
+            },
+            {
+                "title": "“车子我肯定不要了”尊界V800刹车踏板被踩断 车主急忙退订 专家直指严重缺陷",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581216.htm"
+            },
+            {
+                "title": "何立峰同英国财政大臣希利举行视频通话",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-08",
-                "url": "https://36kr.com/p/4016645063217281?f=rss"
+                "url": "https://36kr.com/newsflashes/4017092348022660?f=rss"
             },
             {
-                "title": "深创投、元禾原点押注一家水下机器人，9个月内已完成5轮融资丨36氪首发",
+                "title": "央行：近年来中国贸易的一个重要结构性变化，是对汇率变化的敏感度明显下降",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-08",
-                "url": "https://36kr.com/p/4016617284014210?f=rss"
-            },
-            {
-                "title": "《战地 6》领衔加入微软 10 月 Xbox Game Pass 游戏库，《光与影：33 号远征队》10 月 15 日离库",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-08",
-                "url": "https://www.ithome.com/1/010/400.htm"
-            },
-            {
-                "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
-                "source": "NewsAPI / Sspai.com",
-                "date": "2026-10-08",
-                "url": "https://sspai.com/post/115462"
-            },
-            {
-                "title": "苹果 App Store 五年交易额增长超一倍，2025 年达 4 万亿元人民币",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-08",
-                "url": "https://www.ithome.com/1/010/382.htm"
+                "url": "https://36kr.com/newsflashes/4017058566574212?f=rss"
             }
         ],
         "mil": [
             {
-                "title": "刚果（金）埃博拉疫情确诊病例升至8665例 病死率近半 - 中华军事",
-                "source": "NewsAPI / China.com",
+                "title": "解放军在老挝启用新基地　分析:可能成中国在印太的监侦据点",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-08",
-                "url": "https://military.china.com/news/13004177/20261008/49780654.html"
+                "url": "https://www.voachinese.com/a/china-s-set-up-a-new-military-foothold-in-laos-20261008/8209071.html"
             },
             {
-                "title": "8点1氪丨中国航协回应东航空姐跪地道歉事件；DeepSeek新一轮融资逼近1000亿；安踏集团正式成为彪马最大股东",
+                "title": "烟火巴扎，非遗起舞！星巴克首进新疆，多个“首次创新”拓宽体验边界",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-10-08",
+                "url": "https://www.toodaylab.com/84238"
+            },
+            {
+                "title": "两年破5800万DAU，三角洲的“赢”没有标准答案",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-08",
-                "url": "https://36kr.com/p/4016467711316101?f=rss"
+                "url": "https://36kr.com/p/4017128711278725?f=rss"
             },
             {
-                "title": "IT早报 1008：余承东称华为基本摆脱美国技术依赖；小米澎湃 OS4 全面兼容苹果生态；21988 元起微软 Surface Laptop Ultra 上架；2026 诺贝尔化学奖公布...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-07",
-                "url": "https://www.ithome.com/1/010/361.htm"
+                "title": "阿迪达斯，重新上山",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-08",
+                "url": "https://36kr.com/p/4016849237413761?f=rss"
             },
             {
-                "title": "​苹果与LG合作打造智能家居产品首次曝光：恒温器、温度传感器和智能门锁亮相",
+                "title": "贝索斯称蓝色起源可能未来几年内上市 “新格伦”火箭12月再次试飞",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-07",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581056.htm"
-            },
-            {
-                "title": "美战争部官员据报将进驻台湾国防部，台防长：美台交流越趋紧密，细节不宜公开",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-07",
-                "url": "https://www.voachinese.com/a/taiwan-defense-minister-said-military-exchange-with-us-increasingly-close-but-not-disclosing-if-pentagon-is-embedding-officials-mnd-20261006/8208469.html"
+                "date": "2026-10-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581158.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbF9mejVfcV9hZ2RJel9HdlVyMUdKd1FtNFhyeGN1emRIcjNwNzJkNGo4R0hZQXk3d0o4aWJDMDNKR1Ryb0ZzWFBLSFJiZkl0eEVkX1RNSzlKMWlIQkRfanNPbUJ4RXVGOGZleGdzSV83U2ppeFhpWDNpQXNQLTRORGZURWhZb3ZpTC0weVRHTEE?oc=5"
             },
             {
+                "title": "护好红色根脉 讲好红色故事- 国防教育 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-09",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUpDaGlfRmZDNzY2aFVuVlFCNHRmMGxhZFJwbU9pRlRPcWpIV3JrWUJ1S2JxZU5WWjRHWG56LTdrUjVNLTlpSTRoZmVXVzF0cHdib3BfUHcta000N1JETlNJdHBRTWFKc25Ib0pEM2FXUUVZMTFaRXhaUlYtU3kxMEp3?oc=5"
+            },
+            {
+                "title": "学习《习近平文化文选》第一卷、第二卷座谈会在京召开 李书磊出席并讲话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12clE1Y1ZqOVFKWWcwYzhiUllnWHFNZTQ3bC1udmdXZXVhQ0dBZGpaWHhiZk5MNk9uUVY4d29aRWZ4cFJFSDExUFF6NTJvQnJZQUE?oc=5"
+            },
+            {
                 "title": "各部队利用驻地红色资源帮助新下连官兵扣好军旅“第一粒扣子” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR2p4elJQanhGcDhfZ1RGTkE2MjJxSVVZczZWWWEybUJkVXZnUDEyUmFzRVcxUmkyVm15cmtQRmFXYXIzT0ZOVTRGUEhpTS1fc3c?oc=5"
-            },
-            {
-                "title": "国际观察丨巴以冲突爆发三年 和平曙光依然难见 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lcWxLS0dlV25MWGV6VGlRcE9CNXM2WGtBTzhJOHBvY2dqaWRrLUl0c2RxT2tzQ0ljWlJXNDJiYmlMZmRCWDIteFFIODZuVm5PRnc?oc=5"
-            },
-            {
-                "title": "空降兵某旅“黄麻起义红三连”：铁纪铸魂 向战而行 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81aXpaVDhHUnJYR1hjZzFEU3Q4YnBPY3Nncnplc2VyVk96VEdTclp5MzlpX0h4by1vYzdDVWV0STRMQlA3TU1ENUNObU1ack1QblE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "深创投、元禾原点押注一家水下机器人，9个月内已完成5轮融资丨36氪首发",
+                "title": "解放军在老挝启用新基地　分析:可能成中国在印太的监侦据点",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-08",
+                "url": "https://www.voachinese.com/a/china-s-set-up-a-new-military-foothold-in-laos-20261008/8209071.html"
+            },
+            {
+                "title": "烟火巴扎，非遗起舞！星巴克首进新疆，多个“首次创新”拓宽体验边界",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-10-08",
+                "url": "https://www.toodaylab.com/84238"
+            },
+            {
+                "title": "两年破5800万DAU，三角洲的“赢”没有标准答案",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-08",
-                "url": "https://36kr.com/p/4016617284014210?f=rss"
+                "url": "https://36kr.com/p/4017128711278725?f=rss"
             },
             {
-                "title": "宝马 iX4 正式发布：新世代首款纯电轿跑 SUV，WLTP 续航最高 828 公里",
-                "source": "NewsAPI / Ithome.com",
+                "title": "策略师警示：AI泡沫或引发标普500自2008年以来最严重崩盘",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-08",
-                "url": "https://www.ithome.com/1/010/392.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581218.htm"
             },
             {
-                "title": "苹果 App Store 五年交易额增长超一倍，2025 年达 4 万亿元人民币",
-                "source": "NewsAPI / Ithome.com",
+                "title": "“车子我肯定不要了”尊界V800刹车踏板被踩断 车主急忙退订 专家直指严重缺陷",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-08",
-                "url": "https://www.ithome.com/1/010/382.htm"
-            },
-            {
-                "title": "比亚迪日本累计交付超 1 万台，副总裁刘学亮亲自交车",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-08",
-                "url": "https://www.ithome.com/1/010/379.htm"
-            },
-            {
-                "title": "ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-08",
-                "url": "http://www.geekpark.net/news/372090"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581216.htm"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbF9mejVfcV9hZ2RJel9HdlVyMUdKd1FtNFhyeGN1emRIcjNwNzJkNGo4R0hZQXk3d0o4aWJDMDNKR1Ryb0ZzWFBLSFJiZkl0eEVkX1RNSzlKMWlIQkRfanNPbUJ4RXVGOGZleGdzSV83U2ppeFhpWDNpQXNQLTRORGZURWhZb3ZpTC0weVRHTEE?oc=5"
             },
             {
+                "title": "护好红色根脉 讲好红色故事- 国防教育 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-09",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUpDaGlfRmZDNzY2aFVuVlFCNHRmMGxhZFJwbU9pRlRPcWpIV3JrWUJ1S2JxZU5WWjRHWG56LTdrUjVNLTlpSTRoZmVXVzF0cHdib3BfUHcta000N1JETlNJdHBRTWFKc25Ib0pEM2FXUUVZMTFaRXhaUlYtU3kxMEp3?oc=5"
+            },
+            {
+                "title": "学习《习近平文化文选》第一卷、第二卷座谈会在京召开 李书磊出席并讲话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12clE1Y1ZqOVFKWWcwYzhiUllnWHFNZTQ3bC1udmdXZXVhQ0dBZGpaWHhiZk5MNk9uUVY4d29aRWZ4cFJFSDExUFF6NTJvQnJZQUE?oc=5"
+            },
+            {
                 "title": "各部队利用驻地红色资源帮助新下连官兵扣好军旅“第一粒扣子” - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR2p4elJQanhGcDhfZ1RGTkE2MjJxSVVZczZWWWEybUJkVXZnUDEyUmFzRVcxUmkyVm15cmtQRmFXYXIzT0ZOVTRGUEhpTS1fc3c?oc=5"
-            },
-            {
-                "title": "国际观察丨巴以冲突爆发三年 和平曙光依然难见 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lcWxLS0dlV25MWGV6VGlRcE9CNXM2WGtBTzhJOHBvY2dqaWRrLUl0c2RxT2tzQ0ljWlJXNDJiYmlMZmRCWDIteFFIODZuVm5PRnc?oc=5"
-            },
-            {
-                "title": "空降兵某旅“黄麻起义红三连”：铁纪铸魂 向战而行 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81aXpaVDhHUnJYR1hjZzFEU3Q4YnBPY3Nncnplc2VyVk96VEdTclp5MzlpX0h4by1vYzdDVWV0STRMQlA3TU1ENUNObU1ack1QblE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-09T04:27:08.808460+00:00"
+    "last_updated": "2026-10-09T12:31:37.716122+00:00"
 }
