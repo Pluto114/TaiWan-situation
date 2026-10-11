@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元",
+                "title": "2026 款理想 i6 外观配色公布：新增磁力蓝、风信紫",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-10",
-                "url": "https://www.ithome.com/1/011/311.htm"
+                "url": "https://www.ithome.com/1/011/495.htm"
             },
             {
-                "title": "中国人民银行行长潘功胜会见法国总统外事顾问博纳",
-                "source": "NewsAPI / 36kr.com",
+                "title": "华为 Mate 90 Pro Max 深度体验：Mate 系列新高峰",
+                "source": "NewsAPI / Ifanr.com",
                 "date": "2026-10-10",
-                "url": "https://36kr.com/newsflashes/4019511040102275?f=rss"
+                "url": "https://www.ifanr.com/1683673"
             },
             {
-                "title": "外交部副部长马朝旭同澳大利亚外交贸易部秘书长安思捷举行中澳外交部政治磋商",
-                "source": "NewsAPI / 36kr.com",
+                "title": "特朗普再次逆转对俄制裁 宣布与普京达成柴油协议",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-10-10",
-                "url": "https://36kr.com/newsflashes/4019483605635208?f=rss"
+                "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E9%80%86%E8%BD%AC%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81-%E5%AE%A3%E5%B8%83%E4%B8%8E%E6%99%AE%E4%BA%AC%E8%BE%BE%E6%88%90%E6%9F%B4%E6%B2%B9%E5%8D%8F%E8%AE%AE/a-79626933"
             },
             {
-                "title": "苹果在中国逾95%的生产制造已采用可再生能源",
-                "source": "NewsAPI / 36kr.com",
+                "title": "拒绝4000万美元“封口费” 美国网红：我为何给马斯克生孩子？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-10",
-                "url": "https://36kr.com/newsflashes/4019417098375049?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581542.htm"
             },
             {
-                "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "爆料称英伟达拟停产RTX 5090 后续GB202芯片将转供RTX PRO系列",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-10",
-                "url": "http://www.geekpark.net/news/372184"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581532.htm"
             }
         ],
         "mil": [
+            {
+                "title": "成年人要的「安心」，有时是一支笔给的",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-10",
+                "url": "https://36kr.com/p/4019731047731078?f=rss"
+            },
+            {
+                "title": "对话9位汽车工程师和学者：上世纪成熟的踏板，为何今天还会断裂？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581456.htm"
+            },
+            {
+                "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-10",
+                "url": "https://www.ithome.com/1/011/325.htm"
+            },
             {
                 "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
                 "source": "NewsAPI / Geekpark.net",
@@ -56,129 +74,111 @@
                 "url": "https://www.ithome.com/1/011/183.htm"
             },
             {
-                "title": "8点1氪丨特朗普买入Meta股票；山姆宣布拟限制亲友卡绑定；豆包开通水、电、燃气等生活缴费功能",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-10",
-                "url": "https://36kr.com/p/4019297973735560?f=rss"
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "美国之音中文广播 (2026年10月10日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-09",
-                "url": "https://www.voachinese.com/a/8204616.html"
-            },
-            {
-                "title": "哪些经济学家，在等候斯德哥尔摩的电话？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-09",
-                "url": "https://www.ftchinese.com/story/001111066"
-            },
-            {
-                "title": "2026年10月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "驻约翰内斯堡总领事潘庆江出席总领馆举办的庆祝中华人民共和国成立77周年招待会 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWEpJN0hxVE9tOTI1Wm5RTGdVVW1rX0xaRnJtblRjbTdRYnNYRE9uSnhteUZGSm1jTFp6RkVtc3JRSnhnQXBoMDFuV2lWeUpMLUJFT2xldGxKb1dIYmx5WkNGcmVnVUhVVDFQaEdfSXVucENkQmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFZFVk9EZUhhMnBHLUlzLUV2THVueUdScmJteVZpV296VzlJMmM4NVRnUUtqVDJ5VGs1SkFlXzYwRlN1X3VrY0Y2TzdnT0JCM1cyVmxFb2VvcnNRWXBVRE5vV2VJZnVOemRxTGR2b2Q2NXFoSEp3emMxOTNUSDB0SkxzNUE?oc=5"
             },
             {
-                "title": "毛宁：维护网络安全是中美的共同关切（2026年10月9日） - 中华人民共和国外交部",
+                "title": "驻摩尔多瓦大使董志华在庆祝中华人民共和国成立77周年招待会上的讲话 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnFON1dnUzZWTURlYU9YQTFtQ09aMFprTnY0UnhSNWFnRVhkbnktWWwxSnpVejFFQ1VrLVZIbm01NkoyTGZ3LUZuSHdlcHFab1ZyQWNFc2xJX2pSOHJnVUVxRGlxQ1BlTEhJYVFPc2xUUzR4OG0tNVNySGdBRXAtWEsyNUNqcnRNVGZLQ01ONE9WQQ?oc=5"
-            },
-            {
-                "title": "外交部驳斥菲方关于中菲海上事态的不实言论（2026年10月9日）_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkdzX3FpQm9CQThNbXY0MzZqVjBuWjdXZUdFRFJoeXJXb1NoRXV6ekg5UExEU2VmT0dPUXpUbzF4b2RKLXlQbzFwVlBlSG1nWk5TcVktZnI2dGVQbEctOXVoTF8wZm1sQ1VuRXNBOEdJY3lkbjQ0QWF6UVF3b2U0V2NnVDZNTGNyNHlCYWNmMDlXQQ?oc=5"
-            },
-            {
-                "title": "护好红色根脉 讲好红色故事- 国防教育 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUpDaGlfRmZDNzY2aFVuVlFCNHRmMGxhZFJwbU9pRlRPcWpIV3JrWUJ1S2JxZU5WWjRHWG56LTdrUjVNLTlpSTRoZmVXVzF0cHdib3BfUHcta000N1JETlNJdHBRTWFKc25Ib0pEM2FXUUVZMTFaRXhaUlYtU3kxMEp3?oc=5"
-            },
-            {
-                "title": "学习《习近平文化文选》第一卷、第二卷座谈会在京召开 李书磊出席并讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12clE1Y1ZqOVFKWWcwYzhiUllnWHFNZTQ3bC1udmdXZXVhQ0dBZGpaWHhiZk5MNk9uUVY4d29aRWZ4cFJFSDExUFF6NTJvQnJZQUE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGbEZiTnc4NjZwVDl0TUU5UWNUbEljVWhRQzZEWDZOblo2WksxUVAwQ3ZBT3kwOEd3RnZMenZHcFVhS0d3ZWtQd3pIcEprT1o0WUduN1d6OWVKSU1EbnRMcHVzLUo5V25ya1ZSRHdWdVhWNmxyLTBSWURoNA?oc=5"
             },
             {
                 "title": "万里边疆哨位有我图们江上逐浪人- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-09",
                 "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45V01BWElEcWVYZy05ZndSa3U1cXVUd2FDbXhiSTQtbFBtMWZYdFBlVUcydHZ0SFpWVXRSM0piUTRwOEtRbF8tZ0pXOVVCMmZ1?oc=5"
+            },
+            {
+                "title": "【我们的长征路】习言道丨每一代人都要走好自己的长征路 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ieFdDVHZnMEtySC15Nm9GcmZicU9jTWhzdFh4WDRQd1gyVy1BZWVmREdBSHpsM19EQnV3SkFNQzBJTmZYU2h2cEFMaklGb0hicXc?oc=5"
+            },
+            {
+                "title": "红星照耀中国丨于都河畔重演烽火送别 薪火接力传承长征精神 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-10",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQWp3OF9xRnZROXl4ajJmZkRBQlozM1BrdkFVTzJHVHA0YWluUkp5aDM5VHNEUTJxeVEzUTltQ1lHSFpNT1FHV0thN1ZWZ0xGOXc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "中国人民银行行长潘功胜会见法国总统外事顾问博纳",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-10",
-                "url": "https://36kr.com/newsflashes/4019511040102275?f=rss"
-            },
-            {
-                "title": "外交部副部长马朝旭同澳大利亚外交贸易部秘书长安思捷举行中澳外交部政治磋商",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-10",
-                "url": "https://36kr.com/newsflashes/4019483605635208?f=rss"
-            },
-            {
-                "title": "用AI降低激光焊使用门槛，这家公司完成数千万元融资｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-10",
-                "url": "https://36kr.com/p/4019439680327817?f=rss"
-            },
-            {
-                "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-10",
-                "url": "http://www.geekpark.net/news/372184"
-            },
-            {
-                "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
+                "title": "2026 款理想 i6 外观配色公布：新增磁力蓝、风信紫",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-10",
-                "url": "https://www.ithome.com/1/011/194.htm"
+                "url": "https://www.ithome.com/1/011/495.htm"
             },
             {
-                "title": "2026年10月9日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "拒绝4000万美元“封口费” 美国网红：我为何给马斯克生孩子？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581542.htm"
+            },
+            {
+                "title": "法国法院驳回Canal+对Cloudflare的巨额罚款请求 公共DNS服务1.1.1.1暂不屏蔽盗版网站",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581524.htm"
+            },
+            {
+                "title": "国庆假期境外银联持卡人境内消费金额同比增长超40%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-10",
+                "url": "https://36kr.com/newsflashes/4019765086474115?f=rss"
+            },
+            {
+                "title": "成本压力或拖累2027年笔记本需求 全球出货量恐下滑",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-10",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581520.htm"
+            },
+            {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
+                "title": "驻约翰内斯堡总领事潘庆江出席总领馆举办的庆祝中华人民共和国成立77周年招待会 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWEpJN0hxVE9tOTI1Wm5RTGdVVW1rX0xaRnJtblRjbTdRYnNYRE9uSnhteUZGSm1jTFp6RkVtc3JRSnhnQXBoMDFuV2lWeUpMLUJFT2xldGxKb1dIYmx5WkNGcmVnVUhVVDFQaEdfSXVucENkQmc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFZFVk9EZUhhMnBHLUlzLUV2THVueUdScmJteVZpV296VzlJMmM4NVRnUUtqVDJ5VGs1SkFlXzYwRlN1X3VrY0Y2TzdnT0JCM1cyVmxFb2VvcnNRWXBVRE5vV2VJZnVOemRxTGR2b2Q2NXFoSEp3emMxOTNUSDB0SkxzNUE?oc=5"
             },
             {
-                "title": "毛宁：维护网络安全是中美的共同关切（2026年10月9日） - 中华人民共和国外交部",
+                "title": "驻摩尔多瓦大使董志华在庆祝中华人民共和国成立77周年招待会上的讲话 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnFON1dnUzZWTURlYU9YQTFtQ09aMFprTnY0UnhSNWFnRVhkbnktWWwxSnpVejFFQ1VrLVZIbm01NkoyTGZ3LUZuSHdlcHFab1ZyQWNFc2xJX2pSOHJnVUVxRGlxQ1BlTEhJYVFPc2xUUzR4OG0tNVNySGdBRXAtWEsyNUNqcnRNVGZLQ01ONE9WQQ?oc=5"
-            },
-            {
-                "title": "外交部驳斥菲方关于中菲海上事态的不实言论（2026年10月9日）_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkdzX3FpQm9CQThNbXY0MzZqVjBuWjdXZUdFRFJoeXJXb1NoRXV6ekg5UExEU2VmT0dPUXpUbzF4b2RKLXlQbzFwVlBlSG1nWk5TcVktZnI2dGVQbEctOXVoTF8wZm1sQ1VuRXNBOEdJY3lkbjQ0QWF6UVF3b2U0V2NnVDZNTGNyNHlCYWNmMDlXQQ?oc=5"
-            },
-            {
-                "title": "护好红色根脉 讲好红色故事- 国防教育 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQUpDaGlfRmZDNzY2aFVuVlFCNHRmMGxhZFJwbU9pRlRPcWpIV3JrWUJ1S2JxZU5WWjRHWG56LTdrUjVNLTlpSTRoZmVXVzF0cHdib3BfUHcta000N1JETlNJdHBRTWFKc25Ib0pEM2FXUUVZMTFaRXhaUlYtU3kxMEp3?oc=5"
-            },
-            {
-                "title": "学习《习近平文化文选》第一卷、第二卷座谈会在京召开 李书磊出席并讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-09",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12clE1Y1ZqOVFKWWcwYzhiUllnWHFNZTQ3bC1udmdXZXVhQ0dBZGpaWHhiZk5MNk9uUVY4d29aRWZ4cFJFSDExUFF6NTJvQnJZQUE?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGbEZiTnc4NjZwVDl0TUU5UWNUbEljVWhRQzZEWDZOblo2WksxUVAwQ3ZBT3kwOEd3RnZMenZHcFVhS0d3ZWtQd3pIcEprT1o0WUduN1d6OWVKSU1EbnRMcHVzLUo5V25ya1ZSRHdWdVhWNmxyLTBSWURoNA?oc=5"
             },
             {
                 "title": "万里边疆哨位有我图们江上逐浪人- 八一视频 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-09",
                 "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45V01BWElEcWVYZy05ZndSa3U1cXVUd2FDbXhiSTQtbFBtMWZYdFBlVUcydHZ0SFpWVXRSM0piUTRwOEtRbF8tZ0pXOVVCMmZ1?oc=5"
+            },
+            {
+                "title": "【我们的长征路】习言道丨每一代人都要走好自己的长征路 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-11",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ieFdDVHZnMEtySC15Nm9GcmZicU9jTWhzdFh4WDRQd1gyVy1BZWVmREdBSHpsM19EQnV3SkFNQzBJTmZYU2h2cEFMaklGb0hicXc?oc=5"
+            },
+            {
+                "title": "红星照耀中国丨于都河畔重演烽火送别 薪火接力传承长征精神 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-10",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQWp3OF9xRnZROXl4ajJmZkRBQlozM1BrdkFVTzJHVHA0YWluUkp5aDM5VHNEUTJxeVEzUTltQ1lHSFpNT1FHV0thN1ZWZ0xGOXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-11T03:50:10.346660+00:00"
+    "last_updated": "2026-10-11T12:03:16.590363+00:00"
 }
