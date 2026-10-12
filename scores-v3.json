@@ -12,66 +12,78 @@
     "news_sources": {
         "econ": [
             {
-                "title": "经济日报：培育赛事经济新增长极",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-11",
-                "url": "https://36kr.com/newsflashes/4020798228090759?f=rss"
-            },
-            {
-                "title": "一加 16 手机预热：首发自研电竞网络芯片 G3、抗干扰电竞天线，宣称手指握住天线、网络也不波动",
+                "title": "工信部发布 2026 年前 8 个月通信业经济运行情况：电信业务收入累计完成 1.16 万亿元、5G 用户达 13.11 亿户",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-11",
-                "url": "https://www.ithome.com/1/011/570.htm"
+                "url": "https://www.ithome.com/1/011/693.htm"
             },
             {
-                "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "多伦多台湾侨界举办双十国庆升旗仪式(组图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-10-11",
-                "url": "https://36kr.com/p/3990015565708035?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/10/11/1105941.html"
             },
             {
-                "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "德国议会“中国委员会”建议欧盟须准备更强硬的对华贸易政策工具",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-10-11",
-                "url": "http://www.geekpark.net/news/372216"
+                "url": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E8%AE%AE%E4%BC%9A%E4%B8%AD%E5%9B%BD%E5%A7%94%E5%91%98%E4%BC%9A%E5%BB%BA%E8%AE%AE%E6%AC%A7%E7%9B%9F%E9%A1%BB%E5%87%86%E5%A4%87%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7/a-79633330"
             },
             {
-                "title": "IT早报 1011：苹果首款智能家居中枢渲染图曝光；四部门拟禁汽车全隐藏式门把手；出版社回应网文实体书现 AI 回复内容；懂车帝称网传前总编辑身份为假...",
+                "title": "CPU、DRAM和SSD如今占了一台主流级别笔记本电脑制造成本的68%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581640.htm"
+            },
+            {
+                "title": "京东预约超 200 万人：苹果 iPhone Duo 折叠屏手机 15999 元起倒数 5 天预售",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-10",
-                "url": "https://www.ithome.com/1/011/549.htm"
+                "date": "2026-10-11",
+                "url": "https://www.ithome.com/1/011/645.htm"
             }
         ],
         "mil": [
             {
-                "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+                "title": "美国加州政府起诉 3D 打印耗材制造商 Polymaker，指控其助长幽灵枪制造",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-11",
+                "url": "https://www.ithome.com/1/011/696.htm"
+            },
+            {
+                "title": "张帅组合获中网女双亚军，一文读懂赛事积分与排名规则",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-10-11",
+                "url": "https://post.smzdm.com/p/aomvdw0m/"
+            },
+            {
+                "title": "小鹏物理AI全品类亮相巴黎车展，中国智电出海欧洲的破局点在哪？",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-10-11",
+                "url": "https://post.smzdm.com/p/awwopqx4/"
+            },
+            {
+                "title": "奔向AI战争的美军，掉线了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581614.htm"
+            },
+            {
+                "title": "广东省省长孟凡利会见美国苹果公司蒂姆·库克一行",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-11",
-                "url": "https://36kr.com/p/3990015565708035?f=rss"
+                "url": "https://36kr.com/newsflashes/4020981596328064?f=rss"
             },
             {
-                "title": "IT早报 1011：苹果首款智能家居中枢渲染图曝光；四部门拟禁汽车全隐藏式门把手；出版社回应网文实体书现 AI 回复内容；懂车帝称网传前总编辑身份为假...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-10",
-                "url": "https://www.ithome.com/1/011/549.htm"
+                "title": "关于对巴拉圭通信和技术部长比利亚特采取反制措施的决定 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feDNqUDItdzBmd3VKaUhUenNNNlZPYXlkRl9oUEhnaWlzeG12TnJQREJfNVQycUdFRFBoTlZzU0prcVh4Tjl2cmx5U2k0ejM2NndJNzhpSV9TRlRzekM0aUdzaVVacXc2bmNYSXJBUFNfZw?oc=5"
             },
             {
-                "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-10",
-                "url": "https://www.ithome.com/1/011/542.htm"
-            },
-            {
-                "title": "特朗普总统表示，美国正在评估是否加入沙特打击胡塞武装的行动",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-10",
-                "url": "https://www.voachinese.com/a/trump-says-us-evaluating-whether-to-joint-saudi-strikes-against-houthi-rebels-20261010/8209909.html"
-            },
-            {
-                "title": "U18女篮亚洲杯季军之后：双子星验证了“单点”，青训前景要看“塔基”",
-                "source": "NewsAPI / Smzdm.com",
-                "date": "2026-10-10",
-                "url": "https://post.smzdm.com/p/anv9oq72/"
+                "title": "关于对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施的决定 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sN2Y2dVdqOGVQSVRIQmx3bll2bGNFbVJvWUhyY01EY0dBcVp2V1ZQN2Y5UWJoTDJvdnJJWnFJbUpGeVB6VVdxTjhSQXBUS0RUVS1NYlJ6dWdUVDJ4NjU5MVhuTU1UVjJsVllEQjlKd0xJZw?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -80,66 +92,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻特立尼达和多巴哥大使任洪岩出席纪念华人抵特220周年暨第五届“中特友谊杯”龙舟节活动 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2c1U3JFWE9CelNQeXY1SkMtWDhEQkV0M1FVUWh3emxtT3JDVVJCaTY3Z1pyRG1oVFVYM2JqWTlJRTQ5SE5xdGNVWE50bXJINzZyS0QxV0lkRWU0Z2l6eURLV3JQaVR3eTRDbUpYTEFjaDVBd0p1OGQ0clpTc0JqUFRiVTc?oc=5"
-            },
-            {
-                "title": "中法举行战略对话 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-10",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTZCMEZ2encwR0ZRS1V0aGwzTkRvTFBrQnlMbHF2bjFQYmRnMG8tNk5OZVpodGpYVWd4TzZtcjEydmdycnA2OXUwbGlDV2dsYV81bmd1b3d2SzBkM3A0bGdDcTFZRU1BVTJzckxSaTVhWnlqVnNfaGswLVhyUUFGYWI4WU5CWFJVaXc?oc=5"
-            },
-            {
-                "title": "传承进行时丨甘巴拉的冻土里长出了“春天” - 军网",
+                "title": "直播：“寻根铸魂向百年·重走长征路”融媒体特别节目：夹金山篇 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KYWFVbU9qelF6MkdLcTBDQXh0bVZrWjZXZGRwVVFremlzcmNCczg2dm5ab1lXQTJXanlLbDVUZEs4OVU1NU1qckFHY3hQSG9VUXc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SZDc2WDhodXUtaEhTcExYbHIxMXcyVVVPbWw2eldXQTAwQmR1V2JlN2Q5TDBYemZra2Z0NWRUTWE4ekFlTEM0?oc=5"
             },
             {
-                "title": "特写：新老照片，见证跨越八十四年的重逢 - 军网",
+                "title": "2026年10月12日中国国防报第04版：国际 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c0JnRnRiY3ZxMUZVcHlmMndGQ1piWVFPdDBjX3JrOVdIdDAtR0tmNk1MU0xVMjl5NS1GbmVhLS1jVmctMjRSVGxhZHNUa18zd3c?oc=5"
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFVSb3l0Y0JsNzlwVkY4Y2VPOXNJbHh3X1pLbmxHVW5takRFZEZ4WWcybWhVcHQ2VlVrRTlIV1NvVVBMM1ZkdEZaQmt3UU5rUG1XSzZhbHRZa3ZhNGtFWEFqVHc0YURwS2FNcUVKTDA2aTgzRnBSaXp2bXJXWlZQR2dnekJSZVdmbmNZbC1kaHBFRGRTYWJrR3FEVXhpczM0?oc=5"
             },
             {
-                "title": "【我们的长征路】习言道丨每一代人都要走好自己的长征路 - 军网",
+                "title": "外交部：同“台独”势力绑在一起没有任何前途 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ieFdDVHZnMEtySC15Nm9GcmZicU9jTWhzdFh4WDRQd1gyVy1BZWVmREdBSHpsM19EQnV3SkFNQzBJTmZYU2h2cEFMaklGb0hicXc?oc=5"
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fSng5UEg5OFUwWEF3TXBWRGdqRHdVSFFTcDcxaTJ0QkRfblZKVlBtOHpOTjJ0ajAwRUZYVHlCVTN2RTRkSnNLNmJn?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+                "title": "CPU、DRAM和SSD如今占了一台主流级别笔记本电脑制造成本的68%",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581640.htm"
+            },
+            {
+                "title": "派拉蒙和华纳兄弟探索合并，一家超级传媒集团诞生，你会有怎样的期待？",
+                "source": "NewsAPI / Toodaylab.com",
+                "date": "2026-10-11",
+                "url": "https://www.toodaylab.com/84245"
+            },
+            {
+                "title": "2026广交会设计创新奖公布，张雪机车获至尊金奖",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-11",
-                "url": "https://36kr.com/p/3990015565708035?f=rss"
+                "url": "https://36kr.com/newsflashes/4021097239744643?f=rss"
             },
             {
-                "title": "中汽协：支持强化汽车产品创新设计与研发测试验证管理，推动产业可持续健康发展",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-11",
-                "url": "https://36kr.com/newsflashes/4020787067473794?f=rss"
-            },
-            {
-                "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-11",
-                "url": "http://www.geekpark.net/news/372216"
-            },
-            {
-                "title": "报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案",
+                "title": "2026 广交会设计创新奖公布，张雪机车 820RR 获至尊金奖",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-11",
-                "url": "https://www.ithome.com/1/011/553.htm"
+                "url": "https://www.ithome.com/1/011/629.htm"
             },
             {
-                "title": "IT早报 1011：苹果首款智能家居中枢渲染图曝光；四部门拟禁汽车全隐藏式门把手；出版社回应网文实体书现 AI 回复内容；懂车帝称网传前总编辑身份为假...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-10",
-                "url": "https://www.ithome.com/1/011/549.htm"
+                "title": "丹麦CPR数据大规模泄露事件中的多个涉事账户使用了密码“123456”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-11",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581634.htm"
+            },
+            {
+                "title": "关于对巴拉圭通信和技术部长比利亚特采取反制措施的决定 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feDNqUDItdzBmd3VKaUhUenNNNlZPYXlkRl9oUEhnaWlzeG12TnJQREJfNVQycUdFRFBoTlZzU0prcVh4Tjl2cmx5U2k0ejM2NndJNzhpSV9TRlRzekM0aUdzaVVacXc2bmNYSXJBUFNfZw?oc=5"
+            },
+            {
+                "title": "关于对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施的决定 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sN2Y2dVdqOGVQSVRIQmx3bll2bGNFbVJvWUhyY01EY0dBcVp2V1ZQN2Y5UWJoTDJvdnJJWnFJbUpGeVB6VVdxTjhSQXBUS0RUVS1NYlJ6dWdUVDJ4NjU5MVhuTU1UVjJsVllEQjlKd0xJZw?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -148,37 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "驻特立尼达和多巴哥大使任洪岩出席纪念华人抵特220周年暨第五届“中特友谊杯”龙舟节活动 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-11",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2c1U3JFWE9CelNQeXY1SkMtWDhEQkV0M1FVUWh3emxtT3JDVVJCaTY3Z1pyRG1oVFVYM2JqWTlJRTQ5SE5xdGNVWE50bXJINzZyS0QxV0lkRWU0Z2l6eURLV3JQaVR3eTRDbUpYTEFjaDVBd0p1OGQ0clpTc0JqUFRiVTc?oc=5"
-            },
-            {
-                "title": "中法举行战略对话 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-10",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTZCMEZ2encwR0ZRS1V0aGwzTkRvTFBrQnlMbHF2bjFQYmRnMG8tNk5OZVpodGpYVWd4TzZtcjEydmdycnA2OXUwbGlDV2dsYV81bmd1b3d2SzBkM3A0bGdDcTFZRU1BVTJzckxSaTVhWnlqVnNfaGswLVhyUUFGYWI4WU5CWFJVaXc?oc=5"
-            },
-            {
-                "title": "传承进行时丨甘巴拉的冻土里长出了“春天” - 军网",
+                "title": "直播：“寻根铸魂向百年·重走长征路”融媒体特别节目：夹金山篇 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KYWFVbU9qelF6MkdLcTBDQXh0bVZrWjZXZGRwVVFremlzcmNCczg2dm5ab1lXQTJXanlLbDVUZEs4OVU1NU1qckFHY3hQSG9VUXc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SZDc2WDhodXUtaEhTcExYbHIxMXcyVVVPbWw2eldXQTAwQmR1V2JlN2Q5TDBYemZra2Z0NWRUTWE4ekFlTEM0?oc=5"
             },
             {
-                "title": "特写：新老照片，见证跨越八十四年的重逢 - 军网",
+                "title": "2026年10月12日中国国防报第04版：国际 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c0JnRnRiY3ZxMUZVcHlmMndGQ1piWVFPdDBjX3JrOVdIdDAtR0tmNk1MU0xVMjl5NS1GbmVhLS1jVmctMjRSVGxhZHNUa18zd3c?oc=5"
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFVSb3l0Y0JsNzlwVkY4Y2VPOXNJbHh3X1pLbmxHVW5takRFZEZ4WWcybWhVcHQ2VlVrRTlIV1NvVVBMM1ZkdEZaQmt3UU5rUG1XSzZhbHRZa3ZhNGtFWEFqVHc0YURwS2FNcUVKTDA2aTgzRnBSaXp2bXJXWlZQR2dnekJSZVdmbmNZbC1kaHBFRGRTYWJrR3FEVXhpczM0?oc=5"
             },
             {
-                "title": "【我们的长征路】习言道丨每一代人都要走好自己的长征路 - 军网",
+                "title": "外交部：同“台独”势力绑在一起没有任何前途 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-11",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ieFdDVHZnMEtySC15Nm9GcmZicU9jTWhzdFh4WDRQd1gyVy1BZWVmREdBSHpsM19EQnV3SkFNQzBJTmZYU2h2cEFMaklGb0hicXc?oc=5"
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fSng5UEg5OFUwWEF3TXBWRGdqRHdVSFFTcDcxaTJ0QkRfblZKVlBtOHpOTjJ0ajAwRUZYVHlCVTN2RTRkSnNLNmJn?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-12T04:11:50.353303+00:00"
+    "last_updated": "2026-10-12T14:20:58.222130+00:00"
 }
