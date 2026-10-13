@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "英特尔多代处理器传出涨价：部分型号涨幅高达20% AMD或将跟进调整价格",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美国之音中文广播 (2026年10月13日) 分析人士：细节是俄乌能源停火协议的关键；两名美国经济学家因稳定全球经济的研究获诺贝尔奖；国际货币基金组织：AI给全球经济带来增长，也给就业市场带来巨大冲击",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581798.htm"
+                "url": "https://www.voachinese.com/a/8205671.html"
             },
             {
-                "title": "FCC拟自12月起将电子设备认证测试将转向美国及互惠经济体 排除中国大陆实验室",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581796.htm"
+                "url": "https://www.voachinese.com/a/8205677.html"
             },
             {
-                "title": "微软总裁布拉德·史密斯：AI受到的监管甚至不如牛奶",
+                "title": "马斯克豪掷逾2.76亿美元助阵共和党 成2026年美国中期选举最大金主",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581792.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581848.htm"
             },
             {
-                "title": "IonQ斥资最高13亿美元收购网络安全公司Elisity 量子计算巨头加速布局网络防御",
+                "title": "黄仁勋：Kimi等中国AI模型表现足够优秀 看好开源推动AI效率提升",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581788.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581844.htm"
             },
             {
-                "title": "OLED版iPad mini可能迎来近年来幅度最大的一次升级 预计售价将升至799美元",
+                "title": "黑客入侵欧洲超市制冷系统 数百家门店食品报废损失恐达数百万欧元",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581786.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581836.htm"
             }
         ],
         "mil": [
+            {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-12",
+                "url": "https://www.voachinese.com/a/8205677.html"
+            },
+            {
+                "title": "美国联邦航空管理局向美航司发出沙特空域安全风险警告",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581840.htm"
+            },
+            {
+                "title": "中国在五海域开展实弹射击演习，台湾国防部长：持续密切关注",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-12",
+                "url": "https://www.voachinese.com/a/taiwan-says-it-is-closely-monitoring-chinese-live-fire-drills-20261012/8210326.html"
+            },
             {
                 "title": "酒窖里的GPU：为什么科技爱好者在家囤积AI算力",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,22 +74,10 @@
                 "url": "https://36kr.com/newsflashes/4022668566745220?f=rss"
             },
             {
-                "title": "专家谈速成车危害：仿真只能作为研发辅助工具 实物测试绝对不能省略",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "2026年10月12日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581742.htm"
-            },
-            {
-                "title": "马斯克泼冷水：不少机器人演示看着炫酷 其实就是剧本",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581728.htm"
-            },
-            {
-                "title": "距离台湾仅110公里 美日反舰飞弹部署与那国岛吓阻中共(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-12",
-                "url": "https://www.secretchina.com/news/gb/2026/10/12/1105994.html"
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yN3BDOXdqVXp1R3pRTU9RSzVXYUVHR2FUVDJWYnVKUkM3MVVtZE42ak5zUW8xaGtsTi05RVZuXzVvbU03SEQzbDhPU3VJV2xBblI0LUNQSEVrcWRvRmlib3pydjhfR2NQcUYwWkJPS3d2SHRsQXp0TXRGRQ?oc=5"
             },
             {
                 "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤 - 中华人民共和国外交部",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feDNqUDItdzBmd3VKaUhUenNNNlZPYXlkRl9oUEhnaWlzeG12TnJQREJfNVQycUdFRFBoTlZzU0prcVh4Tjl2cmx5U2k0ejM2NndJNzhpSV9TRlRzekM0aUdzaVVacXc2bmNYSXJBUFNfZw?oc=5"
             },
             {
-                "title": "关于对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施的决定 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sN2Y2dVdqOGVQSVRIQmx3bll2bGNFbVJvWUhyY01EY0dBcVp2V1ZQN2Y5UWJoTDJvdnJJWnFJbUpGeVB6VVdxTjhSQXBUS0RUVS1NYlJ6dWdUVDJ4NjU5MVhuTU1UVjJsVllEQjlKd0xJZw?oc=5"
-            },
-            {
                 "title": "红星照耀中国｜袁守根：现在生活好了，更不能忘记先辈的流血牺牲 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwYWpqbXdyblV5cEx6Tlc2anhydGp5d2FwTkV2elN2cDFPV2FRM2V5SlB5Z1c2TGFwQW9ObmJPMFB3QmNwQzNxWjhyS0NjcDZJVkE?oc=5"
             },
             {
-                "title": "直播：“寻根铸魂向百年·重走长征路”融媒体特别节目：夹金山篇 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SZDc2WDhodXUtaEhTcExYbHIxMXcyVVVPbWw2eldXQTAwQmR1V2JlN2Q5TDBYemZra2Z0NWRUTWE4ekFlTEM0?oc=5"
-            },
-            {
                 "title": "二十余载沙海播绿，四位军队退休干部为第二故乡筑起“绿色长城” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERk1QbUVuQWlsb09WeG5uU3A5c29LV2k5SFlmeU1vckxhN1prUkhTOWFiZHJOdzd3QTYtNjIwMkxnTWJTQkdyMk45eHVrY3FmNFE?oc=5"
+            },
+            {
+                "title": "2026年10月12日中国国防报第04版：国际 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFVSb3l0Y0JsNzlwVkY4Y2VPOXNJbHh3X1pLbmxHVW5takRFZEZ4WWcybWhVcHQ2VlVrRTlIV1NvVVBMM1ZkdEZaQmt3UU5rUG1XSzZhbHRZa3ZhNGtFWEFqVHc0YURwS2FNcUVKTDA2aTgzRnBSaXp2bXJXWlZQR2dnekJSZVdmbmNZbC1kaHBFRGRTYWJrR3FEVXhpczM0?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "FCC拟自12月起将电子设备认证测试将转向美国及互惠经济体 排除中国大陆实验室",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581796.htm"
-            },
-            {
-                "title": "微软总裁布拉德·史密斯：AI受到的监管甚至不如牛奶",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581792.htm"
-            },
-            {
-                "title": "IonQ斥资最高13亿美元收购网络安全公司Elisity 量子计算巨头加速布局网络防御",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-12",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581788.htm"
-            },
-            {
-                "title": "一周 10 万星，AI「逆向一切」，但大家不要过于兴奋",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-12",
-                "url": "http://www.geekpark.net/news/372263"
-            },
-            {
-                "title": "中国制裁台湾友邦官员，台湾称其手段“卑劣” 分析：意在引发寒蝉效应",
+                "title": "美国之音中文广播 (2026年10月13日) 分析人士：细节是俄乌能源停火协议的关键；两名美国经济学家因稳定全球经济的研究获诺贝尔奖；国际货币基金组织：AI给全球经济带来增长，也给就业市场带来巨大冲击",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-10-12",
-                "url": "https://www.voachinese.com/a/china-sanctions-paraguay-and-belize-officials-over-ties-with-taiwan-20261012/8210305.html"
+                "url": "https://www.voachinese.com/a/8205671.html"
+            },
+            {
+                "title": "美中都表示要监管“超级智能”，但道路不同",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-12",
+                "url": "https://www.voachinese.com/a/how-china-and-the-united-states-are-taking-different-paths-on-ai-regulation-20261012/8210390.html"
+            },
+            {
+                "title": "马斯克豪掷逾2.76亿美元助阵共和党 成2026年美国中期选举最大金主",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581848.htm"
+            },
+            {
+                "title": "美国联邦航空管理局向美航司发出沙特空域安全风险警告",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581840.htm"
+            },
+            {
+                "title": "黑客入侵欧洲超市制冷系统 数百家门店食品报废损失恐达数百万欧元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-12",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1581836.htm"
+            },
+            {
+                "title": "2026年10月12日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yN3BDOXdqVXp1R3pRTU9RSzVXYUVHR2FUVDJWYnVKUkM3MVVtZE42ak5zUW8xaGtsTi05RVZuXzVvbU03SEQzbDhPU3VJV2xBblI0LUNQSEVrcWRvRmlib3pydjhfR2NQcUYwWkJPS3d2SHRsQXp0TXRGRQ?oc=5"
             },
             {
                 "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤 - 中华人民共和国外交部",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feDNqUDItdzBmd3VKaUhUenNNNlZPYXlkRl9oUEhnaWlzeG12TnJQREJfNVQycUdFRFBoTlZzU0prcVh4Tjl2cmx5U2k0ejM2NndJNzhpSV9TRlRzekM0aUdzaVVacXc2bmNYSXJBUFNfZw?oc=5"
             },
             {
-                "title": "关于对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施的决定 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sN2Y2dVdqOGVQSVRIQmx3bll2bGNFbVJvWUhyY01EY0dBcVp2V1ZQN2Y5UWJoTDJvdnJJWnFJbUpGeVB6VVdxTjhSQXBUS0RUVS1NYlJ6dWdUVDJ4NjU5MVhuTU1UVjJsVllEQjlKd0xJZw?oc=5"
-            },
-            {
                 "title": "红星照耀中国｜袁守根：现在生活好了，更不能忘记先辈的流血牺牲 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwYWpqbXdyblV5cEx6Tlc2anhydGp5d2FwTkV2elN2cDFPV2FRM2V5SlB5Z1c2TGFwQW9ObmJPMFB3QmNwQzNxWjhyS0NjcDZJVkE?oc=5"
             },
             {
-                "title": "直播：“寻根铸魂向百年·重走长征路”融媒体特别节目：夹金山篇 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SZDc2WDhodXUtaEhTcExYbHIxMXcyVVVPbWw2eldXQTAwQmR1V2JlN2Q5TDBYemZra2Z0NWRUTWE4ekFlTEM0?oc=5"
-            },
-            {
                 "title": "二十余载沙海播绿，四位军队退休干部为第二故乡筑起“绿色长城” - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-13",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERk1QbUVuQWlsb09WeG5uU3A5c29LV2k5SFlmeU1vckxhN1prUkhTOWFiZHJOdzd3QTYtNjIwMkxnTWJTQkdyMk45eHVrY3FmNFE?oc=5"
+            },
+            {
+                "title": "2026年10月12日中国国防报第04版：国际 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-12",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFVSb3l0Y0JsNzlwVkY4Y2VPOXNJbHh3X1pLbmxHVW5takRFZEZ4WWcybWhVcHQ2VlVrRTlIV1NvVVBMM1ZkdEZaQmt3UU5rUG1XSzZhbHRZa3ZhNGtFWEFqVHc0YURwS2FNcUVKTDA2aTgzRnBSaXp2bXJXWlZQR2dnekJSZVdmbmNZbC1kaHBFRGRTYWJrR3FEVXhpczM0?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-13T13:30:19.829132+00:00"
+    "last_updated": "2026-10-13T22:15:20.044453+00:00"
 }
