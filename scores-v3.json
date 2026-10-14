@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "全球手机市场萎缩两成 苹果出货下滑却仍以22%份额创第三季度新高",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "德国政府为何上调2026年经济增长预期？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581976.htm"
+                "url": "https://www.ftchinese.com/story/001111097"
             },
             {
-                "title": "俄罗斯实验室研究人员死于不明病因肺炎 世卫组织称暂无持续传播证据",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "从硅谷的算力到古路的霓虹：探究前沿AI的未来",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581974.htm"
+                "url": "https://www.ftchinese.com/story/001111045"
             },
             {
-                "title": "IMF呼吁采取行动防范三大金融稳定风险",
-                "source": "NewsAPI / 36kr.com",
+                "title": "地缘危机下，中东还能抢回游客吗？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-13",
-                "url": "https://36kr.com/newsflashes/4024147912806528?f=rss"
+                "url": "https://www.ftchinese.com/story/001111088"
             },
             {
-                "title": "中国刻蚀机之父：AI或是个泡沫国内半导体厂得倒闭90%",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "吉利拿下福特工厂幕后：这届巴黎车展中国车霸屏的供应链底气",
+                "source": "NewsAPI / Smzdm.com",
                 "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581972.htm"
+                "url": "https://post.smzdm.com/p/apqmz9z0/"
             },
             {
-                "title": "网络攻击波及法国数百家超市：冷藏柜温度飙升至50摄氏度 引发火情",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "长安凯程 V919 荣耀版 8 方上市：限时 8.89 万元起，标配宁德时代电芯 CLTC 续航 355km",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581966.htm"
+                "url": "https://www.ithome.com/1/012/597.htm"
             }
         ],
         "mil": [
+            {
+                "title": "从硅谷的算力到古路的霓虹：探究前沿AI的未来",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-13",
+                "url": "https://www.ftchinese.com/story/001111045"
+            },
+            {
+                "title": "特斯拉称中国造电动汽车进口配额耗尽：暂停加拿大 Model 3 Premium 新订单，预计 2027 年 3 月恢复",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-13",
+                "url": "https://www.ithome.com/1/012/590.htm"
+            },
+            {
+                "title": "说个事：极客公园创新大会 2027！",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-13",
+                "url": "http://www.geekpark.net/news/372300"
+            },
             {
                 "title": "中国刻蚀机之父：AI或是个泡沫国内半导体厂得倒闭90%",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,22 @@
                 "url": "https://www.ithome.com/1/012/486.htm"
             },
             {
-                "title": "百万token做赌注，字节把AI游戏这条路打通关了！",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-13",
-                "url": "https://36kr.com/p/4023934543892354?f=rss"
-            },
-            {
-                "title": "亚马逊机器人军团突破百万台 重塑仓库作业的未来",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581940.htm"
-            },
-            {
-                "title": "洛克希德·马丁推出新型PAC-3 Edge拦截导弹 采用三脉冲发动机 专门应对高超音速武器",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581938.htm"
-            },
-            {
-                "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbURWbHpWbHdJNmQxQTBXOE1acm5WZmQwaS0yTEpsRXRvNEItWG9yY1ZqdG5pRGFSQVExNVBnaGtOTDJXR0VSOVpqTGhpTDlGNG10RmY2ZERZV0VVUDhyWDFOME1lczE1a1FiMktR?oc=5"
-            },
-            {
-                "title": "李强同新西兰总理拉克森通电话 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wdmRsN0RtVWpxdUJPX0FUbmxGMmxKNEJxRnNfLVJmd3FQNC1WaFJ2bmdfSXRtRzdWaU1obGxxbE5RbGtGMmFoVXNLaGlxSUt3NUN5bUs2SFdQeU5vTjZodmV3NzIyc2pkeUxB?oc=5"
-            },
-            {
                 "title": "2026年10月13日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-13",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pbm5QckUtZnNLVk5rLUxXUFBqV2d5NHBrb1pHazk2LVFJQTc3ZXByVEx3dUNONkhRYjhJb1hFV0pvMG4weE1GWWlaOW9yc0R3aTc3Q3NxNUhJaXdocnRBTHdtUFZuMFlpWHpDSDFobml6TjE2alE?oc=5"
+            },
+            {
+                "title": "外交部2027年度公务员考试录用工作有关说明及注意事项_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-13",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVVnMmpaV2N5d0VqX3dXSjh4Tkg3RU5CZldNdF9sakdCamF4RG1MRnJWRFN5MXM0RWZDUEhPc1BQbENlQTUwQ0dMUEZOZks5aEMtcUdFVmV5VkJCZHpLSVN2UEtFY0lNSmUtc2lQUlF4Zm9KR0xZSGxkZTlXRVF3YUFnbGJvcllpRTBrMEdZdGZvdVhaaVdCOVRn?oc=5"
+            },
+            {
+                "title": "毛宁：中国通过国际性展会连接全球、共享机遇 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-14",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGFWanNfS2hHZzZrSWlNOFhOeDcyZEUtMGlyOTAtX3lvQ3lRQXo4VTA2UDJ2bXVXLUF4RmdXOE8zVzBRZGlGRnVod05mU3NDNnpkbFhWWXh6OGg0TTVPbFVNSFJ5ZGpLQzZFU0VmNkItREQ5ZzlnTVRlUG9WWWZ0a01qeWY4YTFJMGV1WF9oVHM?oc=5"
             },
             {
                 "title": "红星照耀中国｜袁守根：现在生活好了，更不能忘记先辈的流血牺牲 - 军网",
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERk1QbUVuQWlsb09WeG5uU3A5c29LV2k5SFlmeU1vckxhN1prUkhTOWFiZHJOdzd3QTYtNjIwMkxnTWJTQkdyMk45eHVrY3FmNFE?oc=5"
             },
             {
-                "title": "2026年10月12日中国国防报第04版：国际 - 军网",
+                "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFVSb3l0Y0JsNzlwVkY4Y2VPOXNJbHh3X1pLbmxHVW5takRFZEZ4WWcybWhVcHQ2VlVrRTlIV1NvVVBMM1ZkdEZaQmt3UU5rUG1XSzZhbHRZa3ZhNGtFWEFqVHc0YURwS2FNcUVKTDA2aTgzRnBSaXp2bXJXWlZQR2dnekJSZVdmbmNZbC1kaHBFRGRTYWJrR3FEVXhpczM0?oc=5"
+                "date": "2026-10-14",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OTEtmb0p3RmdUblZVWDhzVHRmU2hGTnlLTzBtcm02OVpyc3J2UkxEQWo4V09wV0RKZ3BjN3pwcjEzZGk2SXZaSVVxOVA?oc=5"
             },
             {
                 "title": "浙江海事局 - 浙江海事局",
@@ -118,52 +118,52 @@
         ],
         "pol": [
             {
-                "title": "韩国 AI 聊天服务 Zeta 陷版权争议：被指暗地允许用户生成侵权二创、将他人 VTuber 版权形象用于自家广告",
+                "title": "德国政府为何上调2026年经济增长预期？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-13",
+                "url": "https://www.ftchinese.com/story/001111097"
+            },
+            {
+                "title": "从硅谷的算力到古路的霓虹：探究前沿AI的未来",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-13",
+                "url": "https://www.ftchinese.com/story/001111045"
+            },
+            {
+                "title": "地缘危机下，中东还能抢回游客吗？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-13",
+                "url": "https://www.ftchinese.com/story/001111088"
+            },
+            {
+                "title": "特斯拉称中国造电动汽车进口配额耗尽：暂停加拿大 Model 3 Premium 新订单，预计 2027 年 3 月恢复",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-13",
-                "url": "https://www.ithome.com/1/012/531.htm"
+                "url": "https://www.ithome.com/1/012/590.htm"
             },
             {
-                "title": "《动物园之星 2》今日发售：Steam 国区 200 元起，支持中文语音",
+                "title": "网易《逆水寒：新世界》4.2 版本大资料片【苗疆蛊事】官宣月底登场",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-13",
-                "url": "https://www.ithome.com/1/012/492.htm"
-            },
-            {
-                "title": "尊界刹车踏板检测合格 懂车帝：无语，没事别升级啊",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581968.htm"
-            },
-            {
-                "title": "网络攻击波及法国数百家超市：冷藏柜温度飙升至50摄氏度 引发火情",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1581966.htm"
-            },
-            {
-                "title": "F1 官宣重返非洲：汉密尔顿愿望成真，卢旺达大奖赛将于 2030 年后举办",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-13",
-                "url": "https://www.ithome.com/1/012/486.htm"
-            },
-            {
-                "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbURWbHpWbHdJNmQxQTBXOE1acm5WZmQwaS0yTEpsRXRvNEItWG9yY1ZqdG5pRGFSQVExNVBnaGtOTDJXR0VSOVpqTGhpTDlGNG10RmY2ZERZV0VVUDhyWDFOME1lczE1a1FiMktR?oc=5"
-            },
-            {
-                "title": "李强同新西兰总理拉克森通电话 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wdmRsN0RtVWpxdUJPX0FUbmxGMmxKNEJxRnNfLVJmd3FQNC1WaFJ2bmdfSXRtRzdWaU1obGxxbE5RbGtGMmFoVXNLaGlxSUt3NUN5bUs2SFdQeU5vTjZodmV3NzIyc2pkeUxB?oc=5"
+                "url": "https://www.ithome.com/1/012/588.htm"
             },
             {
                 "title": "2026年10月13日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-13",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pbm5QckUtZnNLVk5rLUxXUFBqV2d5NHBrb1pHazk2LVFJQTc3ZXByVEx3dUNONkhRYjhJb1hFV0pvMG4weE1GWWlaOW9yc0R3aTc3Q3NxNUhJaXdocnRBTHdtUFZuMFlpWHpDSDFobml6TjE2alE?oc=5"
+            },
+            {
+                "title": "外交部2027年度公务员考试录用工作有关说明及注意事项_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-13",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVVnMmpaV2N5d0VqX3dXSjh4Tkg3RU5CZldNdF9sakdCamF4RG1MRnJWRFN5MXM0RWZDUEhPc1BQbENlQTUwQ0dMUEZOZks5aEMtcUdFVmV5VkJCZHpLSVN2UEtFY0lNSmUtc2lQUlF4Zm9KR0xZSGxkZTlXRVF3YUFnbGJvcllpRTBrMEdZdGZvdVhaaVdCOVRn?oc=5"
+            },
+            {
+                "title": "毛宁：中国通过国际性展会连接全球、共享机遇 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-14",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGFWanNfS2hHZzZrSWlNOFhOeDcyZEUtMGlyOTAtX3lvQ3lRQXo4VTA2UDJ2bXVXLUF4RmdXOE8zVzBRZGlGRnVod05mU3NDNnpkbFhWWXh6OGg0TTVPbFVNSFJ5ZGpLQzZFU0VmNkItREQ5ZzlnTVRlUG9WWWZ0a01qeWY4YTFJMGV1WF9oVHM?oc=5"
             },
             {
                 "title": "红星照耀中国｜袁守根：现在生活好了，更不能忘记先辈的流血牺牲 - 军网",
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERk1QbUVuQWlsb09WeG5uU3A5c29LV2k5SFlmeU1vckxhN1prUkhTOWFiZHJOdzd3QTYtNjIwMkxnTWJTQkdyMk45eHVrY3FmNFE?oc=5"
             },
             {
-                "title": "2026年10月12日中国国防报第04版：国际 - 军网",
+                "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-12",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFVSb3l0Y0JsNzlwVkY4Y2VPOXNJbHh3X1pLbmxHVW5takRFZEZ4WWcybWhVcHQ2VlVrRTlIV1NvVVBMM1ZkdEZaQmt3UU5rUG1XSzZhbHRZa3ZhNGtFWEFqVHc0YURwS2FNcUVKTDA2aTgzRnBSaXp2bXJXWlZQR2dnekJSZVdmbmNZbC1kaHBFRGRTYWJrR3FEVXhpczM0?oc=5"
+                "date": "2026-10-14",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OTEtmb0p3RmdUblZVWDhzVHRmU2hGTnlLTzBtcm02OVpyc3J2UkxEQWo4V09wV0RKZ3BjN3pwcjEzZGk2SXZaSVVxOVA?oc=5"
             },
             {
                 "title": "浙江海事局 - 浙江海事局",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-14T11:07:13.869292+00:00"
+    "last_updated": "2026-10-14T16:27:45.739570+00:00"
 }
