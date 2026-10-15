@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "海关总署：中企为应对全球算力、电力需求增长提供坚实支撑",
+                "title": "期货市场交投活跃，1—9月累计成交额738.54万亿元",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-14",
-                "url": "https://36kr.com/newsflashes/4025136808546440?f=rss"
+                "url": "https://36kr.com/newsflashes/4025569220874372?f=rss"
             },
             {
-                "title": "美国ITC发布对用于研究蛋白质的系统、设备、软件、组合物、化学品和实验室用品的337部分终裁",
-                "source": "NewsAPI / 36kr.com",
+                "title": "乌克兰在俄罗斯袭击期间因星链限制和情报缺口而措手不及",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-14",
-                "url": "https://36kr.com/newsflashes/4025124177956999?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582116.htm"
             },
             {
-                "title": "海关总署：前三季度我国进口存储部件增长1.5倍",
+                "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-14",
-                "url": "https://36kr.com/newsflashes/4025121256935560?f=rss"
+                "url": "https://36kr.com/newsflashes/4025513401536385?f=rss"
             },
             {
-                "title": "海关总署：四季度出口基本面没有变",
-                "source": "NewsAPI / 36kr.com",
+                "title": "曝小米 REDMI K100 标准版手机将堆米系最大电池、Bose 双扬等配置，定位 3500 元档",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-14",
-                "url": "https://36kr.com/newsflashes/4025116970651528?f=rss"
+                "url": "https://www.ithome.com/1/012/972.htm"
             },
             {
-                "title": "中国9月以美元计算贸易顺差1335.3亿美元",
+                "title": "上市20年A股总市值突破3万亿元大关，工行召开专家座谈会开启发展新篇章",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-14",
-                "url": "https://36kr.com/newsflashes/4025110567719046?f=rss"
+                "url": "https://36kr.com/newsflashes/4025473853640576?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "乌克兰在俄罗斯袭击期间因星链限制和情报缺口而措手不及",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582116.htm"
+            },
+            {
+                "title": "乌克兰官员称星链限制高速移动终端连接 部分关键军事任务受阻",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582106.htm"
+            },
+            {
+                "title": "Anthropic寻求就五角大楼将其认定为“安全风险”一案进行重审",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582066.htm"
+            },
             {
                 "title": "8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资",
                 "source": "NewsAPI / 36kr.com",
@@ -56,34 +74,10 @@
                 "url": "https://www.ithome.com/1/012/642.htm"
             },
             {
-                "title": "不服判决：Anthropic 硬刚美国政府 AI“供应链风险”认定",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-13",
-                "url": "https://www.ithome.com/1/012/630.htm"
-            },
-            {
-                "title": "乌克兰无人机袭击俄罗斯Yandex数据中心后 俄网络水军并未明显减少",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-13",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582036.htm"
-            },
-            {
-                "title": "黄奇帆曾证实警车围堵美领馆 亲自入内与王立军交谈(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-13",
-                "url": "https://www.secretchina.com/news/gb/2026/10/14/1106069.html"
-            },
-            {
                 "title": "2026年10月14日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-14",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0td1pEUmZJVFh2N0pLNXpuYXNhVnNqaGxwWmM1XzcwZWsyQlltNmFVRWR6VHR0TXA2TTRvRy1pRjF6dmt2ZFpnOWF2MVlMd1JzUjBPWVVRVUx6TDZFRW1OVTBXcEN5SXBncy1xajd2a1lLZlJ0V3c?oc=5"
-            },
-            {
-                "title": "2026年10月13日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-13",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pbm5QckUtZnNLVk5rLUxXUFBqV2d5NHBrb1pHazk2LVFJQTc3ZXByVEx3dUNONkhRYjhJb1hFV0pvMG4weE1GWWlaOW9yc0R3aTc3Q3NxNUhJaXdocnRBTHdtUFZuMFlpWHpDSDFobml6TjE2alE?oc=5"
             },
             {
                 "title": "毛宁：中国通过国际性展会连接全球、共享机遇 - 中华人民共和国外交部",
@@ -92,10 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGFWanNfS2hHZzZrSWlNOFhOeDcyZEUtMGlyOTAtX3lvQ3lRQXo4VTA2UDJ2bXVXLUF4RmdXOE8zVzBRZGlGRnVod05mU3NDNnpkbFhWWXh6OGg0TTVPbFVNSFJ5ZGpLQzZFU0VmNkItREQ5ZzlnTVRlUG9WWWZ0a01qeWY4YTFJMGV1WF9oVHM?oc=5"
             },
             {
-                "title": "红星照耀中国｜袁守根：现在生活好了，更不能忘记先辈的流血牺牲 - 军网",
+                "title": "驻多米尼加大使陈鲁宁拜会多新任副外长阿尔巴赫 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-14",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEhyM1l1c0FmdzY2cWVVMFV1UzdJM0ljaEFtcGYwRDc0MUtHRXhVM2RtQm9wQ0kyeUQzTWlEYUxjV1ctbmNjU1JTUnNPQmJyYUVhdGZ4Y0VrcTVWT0VheVRuTGR2U3NsUGxmUzlTaXp0T3lYc0dQNVN4elk4Zi15YldCNXY?oc=5"
+            },
+            {
+                "title": "“联大第2758号决议与台湾问题”学术研讨会在京举行 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwYWpqbXdyblV5cEx6Tlc2anhydGp5d2FwTkV2elN2cDFPV2FRM2V5SlB5Z1c2TGFwQW9ObmJPMFB3QmNwQzNxWjhyS0NjcDZJVkE?oc=5"
+                "date": "2026-10-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdXA3bTdKMEluRW1nOWRLUWxuQUxQazJKTjVOVUFEWjRkLWdFU1NzQUNiZnlJYXJsTE84N0VCeWN4dUN5R2pQWmZabzNWRVY2Q0E?oc=5"
             },
             {
                 "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功 - 军网",
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OTEtmb0p3RmdUblZVWDhzVHRmU2hGTnlLTzBtcm02OVpyc3J2UkxEQWo4V09wV0RKZ3BjN3pwcjEzZGk2SXZaSVVxOVA?oc=5"
             },
             {
-                "title": "红星照耀中国｜写信的人没等到这一天… - 军网",
+                "title": "长征题材影视作品陆续展播 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUdJcnFneE5ycUJKSzZLQVJ3NGhZWUJEdXNneEFhdERsd09TaHJzclB6cjFVYk5pYWh0MHBVZ3pZaksyQ3pocE1IYTNIZ1JfV0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMWJEMXBKeE1aR29JWVBfc3lWNk9OOFBWVWN3LWlvYU91UFY1Y29LUmpPdFdGLThKeVlOTHg2SVBSaGF0OXhqc0ZSUTBxU2JmbUE?oc=5"
             },
             {
                 "title": "浙江海事局 - 浙江海事局",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "中国港湾与铁科院集团公司签署战略合作协议",
+                "title": "乌克兰在俄罗斯袭击期间因星链限制和情报缺口而措手不及",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582116.htm"
+            },
+            {
+                "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-14",
-                "url": "https://36kr.com/newsflashes/4024974266716039?f=rss"
+                "url": "https://36kr.com/newsflashes/4025513401536385?f=rss"
             },
             {
-                "title": "坐无后视镜的特斯拉 Cybercab 心里发慌？未来乘客行程中可随时查看侧、后摄像头画面",
-                "source": "NewsAPI / Ithome.com",
+                "title": "特斯拉第二代Roadster发布定档",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-14",
-                "url": "https://www.ithome.com/1/012/669.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582110.htm"
             },
             {
-                "title": "8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资",
+                "title": "Yandex数据中心遭袭致俄罗斯数字生活瘫痪：邮箱、打车、门禁受影响，全面恢复还需数月",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582108.htm"
+            },
+            {
+                "title": "今年外资抛售三星电子、SK海力士合计176万亿韩元",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-14",
-                "url": "https://36kr.com/p/4025027267580036?f=rss"
-            },
-            {
-                "title": "一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-14",
-                "url": "https://www.ithome.com/1/012/653.htm"
-            },
-            {
-                "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-14",
-                "url": "http://www.geekpark.net/news/372304"
+                "url": "https://36kr.com/newsflashes/4025420024385666?f=rss"
             },
             {
                 "title": "2026年10月14日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -154,22 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0td1pEUmZJVFh2N0pLNXpuYXNhVnNqaGxwWmM1XzcwZWsyQlltNmFVRWR6VHR0TXA2TTRvRy1pRjF6dmt2ZFpnOWF2MVlMd1JzUjBPWVVRVUx6TDZFRW1OVTBXcEN5SXBncy1xajd2a1lLZlJ0V3c?oc=5"
             },
             {
-                "title": "2026年10月13日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-13",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pbm5QckUtZnNLVk5rLUxXUFBqV2d5NHBrb1pHazk2LVFJQTc3ZXByVEx3dUNONkhRYjhJb1hFV0pvMG4weE1GWWlaOW9yc0R3aTc3Q3NxNUhJaXdocnRBTHdtUFZuMFlpWHpDSDFobml6TjE2alE?oc=5"
-            },
-            {
                 "title": "毛宁：中国通过国际性展会连接全球、共享机遇 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-14",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGFWanNfS2hHZzZrSWlNOFhOeDcyZEUtMGlyOTAtX3lvQ3lRQXo4VTA2UDJ2bXVXLUF4RmdXOE8zVzBRZGlGRnVod05mU3NDNnpkbFhWWXh6OGg0TTVPbFVNSFJ5ZGpLQzZFU0VmNkItREQ5ZzlnTVRlUG9WWWZ0a01qeWY4YTFJMGV1WF9oVHM?oc=5"
             },
             {
-                "title": "红星照耀中国｜袁守根：现在生活好了，更不能忘记先辈的流血牺牲 - 军网",
+                "title": "驻多米尼加大使陈鲁宁拜会多新任副外长阿尔巴赫 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-14",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEhyM1l1c0FmdzY2cWVVMFV1UzdJM0ljaEFtcGYwRDc0MUtHRXhVM2RtQm9wQ0kyeUQzTWlEYUxjV1ctbmNjU1JTUnNPQmJyYUVhdGZ4Y0VrcTVWT0VheVRuTGR2U3NsUGxmUzlTaXp0T3lYc0dQNVN4elk4Zi15YldCNXY?oc=5"
+            },
+            {
+                "title": "“联大第2758号决议与台湾问题”学术研讨会在京举行 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-13",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwYWpqbXdyblV5cEx6Tlc2anhydGp5d2FwTkV2elN2cDFPV2FRM2V5SlB5Z1c2TGFwQW9ObmJPMFB3QmNwQzNxWjhyS0NjcDZJVkE?oc=5"
+                "date": "2026-10-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdXA3bTdKMEluRW1nOWRLUWxuQUxQazJKTjVOVUFEWjRkLWdFU1NzQUNiZnlJYXJsTE84N0VCeWN4dUN5R2pQWmZabzNWRVY2Q0E?oc=5"
             },
             {
                 "title": "一箭十星 朱雀二号改进型遥四运载火箭发射成功 - 军网",
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OTEtmb0p3RmdUblZVWDhzVHRmU2hGTnlLTzBtcm02OVpyc3J2UkxEQWo4V09wV0RKZ3BjN3pwcjEzZGk2SXZaSVVxOVA?oc=5"
             },
             {
-                "title": "红星照耀中国｜写信的人没等到这一天… - 军网",
+                "title": "长征题材影视作品陆续展播 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBbUdJcnFneE5ycUJKSzZLQVJ3NGhZWUJEdXNneEFhdERsd09TaHJzclB6cjFVYk5pYWh0MHBVZ3pZaksyQ3pocE1IYTNIZ1JfV0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMWJEMXBKeE1aR29JWVBfc3lWNk9OOFBWVWN3LWlvYU91UFY1Y29LUmpPdFdGLThKeVlOTHg2SVBSaGF0OXhqc0ZSUTBxU2JmbUE?oc=5"
             },
             {
                 "title": "浙江海事局 - 浙江海事局",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-15T03:04:17.948173+00:00"
+    "last_updated": "2026-10-15T10:48:40.146806+00:00"
 }
