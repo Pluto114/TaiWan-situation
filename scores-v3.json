@@ -12,72 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "36氪首发丨国防科技专家做微型智能无人机，累计融资超亿元，年内签下数亿元订单",
+                "title": "长安汽车掌舵人调整，赵非接替朱华荣担任董事长",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-16",
-                "url": "https://36kr.com/p/4027925884310145?f=rss"
+                "url": "https://36kr.com/newsflashes/4028383921344903?f=rss"
             },
             {
-                "title": "英国央行行长Bailey：现在判断通胀的第二轮效应还为时尚早",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-16",
-                "url": "https://36kr.com/newsflashes/4027924043584135?f=rss"
-            },
-            {
-                "title": "腾讯盯上了字节的摇钱树",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-16",
-                "url": "http://www.geekpark.net/news/372435"
-            },
-            {
-                "title": "Galaxy Z Fold8 折叠手机“缺芯”拖累出货：三星拟引入格芯代工打破联电独供格局",
+                "title": "国内“皮卡车”进城限制继续放开，四川成都发布征求意见稿",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-16",
-                "url": "https://www.ithome.com/1/013/744.htm"
+                "url": "https://www.ithome.com/1/014/039.htm"
             },
             {
-                "title": "中国车企参与全球竞争角色转变，国内买车能享受哪些红利？",
-                "source": "NewsAPI / Smzdm.com",
+                "title": "今晚 20:00 蹲点抢：苹果 iPhone Duo 京东 12 期免息 + 至高补贴 700 元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-16",
-                "url": "https://post.smzdm.com/p/az8o3vq5/"
+                "url": "https://www.ithome.com/1/014/008.htm"
+            },
+            {
+                "title": "亚马逊封禁AI代理Grok Bot 马斯克快速回应：应做个竞品购物网站",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582510.htm"
+            },
+            {
+                "title": "内部测试发现发热问题 骁龙8 Elite Extreme Gen 6或面临进一步优化压力",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582506.htm"
             }
         ],
         "mil": [
             {
-                "title": "36氪首发丨国防科技专家做微型智能无人机，累计融资超亿元，年内签下数亿元订单",
-                "source": "NewsAPI / 36kr.com",
+                "title": "无畏契约美洲赛区强在哪？从青训体系与FPS底蕴看赛区崛起",
+                "source": "NewsAPI / Smzdm.com",
                 "date": "2026-10-16",
-                "url": "https://36kr.com/p/4027925884310145?f=rss"
+                "url": "https://post.smzdm.com/p/arzrq297/"
             },
             {
-                "title": "韩国9月进口价格四个月来首次回升，因中东局势导致油价上涨",
-                "source": "NewsAPI / 36kr.com",
+                "title": "2027第十二届北京军博会 - 北京军博会",
+                "source": "NewsAPI / Cnblogs.com",
                 "date": "2026-10-16",
-                "url": "https://36kr.com/newsflashes/4027833870471808?f=rss"
+                "url": "https://www.cnblogs.com/81ciee/p/23329166"
             },
             {
-                "title": "8点1氪丨三部门联合调查“尊界V800汽车刹车踏板支架断裂问题”；国内一半AI算力被指在造爽剧；台积电第三季度净利润7631亿元台币",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-16",
-                "url": "https://36kr.com/p/4027802678186372?f=rss"
-            },
-            {
-                "title": "IT早报 1016：库克称苹果智能月底在华测试；尊界回应三部门联合调查刹车踏板支架断裂问题；微软宣布优化 Win11 内存管理；DeepSeek 宕机 5 小时补偿公布...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-15",
-                "url": "https://www.ithome.com/1/013/710.htm"
-            },
-            {
-                "title": "丹麦推出可穿戴反无人机设备 单兵可在6公里外发现空中威胁",
+                "title": "消息人士称限制向乌克兰提供“星盾”系统的命令来自白宫",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-15",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582408.htm"
+                "date": "2026-10-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582452.htm"
             },
             {
-                "title": "2026年10月15日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hcmhCQ2tBSlF0c3RyZzVHTU96ZUdUV2xuS01Nc0oyY1pDQ1JOSG52dmhkd0cybTBlNVVGbDJFeWsyWEp3aU9sX053RDlLS2V6dDNwWThrZWJrd05CTHhwaE5pbEstXzIzUHJLV3ItUlB5WDkyM3c?oc=5"
+                "title": "欧洲首款“忠诚僚机”无人战斗机完成首飞：空中速度达到0.8马赫 计划2029年投入作战",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582448.htm"
+            },
+            {
+                "title": "前钉钉总裁叶军，离职一年后创业了，赌大厂做不了也不屑做的「缝隙」",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-16",
+                "url": "https://36kr.com/p/4027938341867904?f=rss"
             },
             {
                 "title": "2026年10月16日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -92,60 +86,60 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfV3gyYUJEd3lwR2Z1c05CbUZSUGE3eVNvcW0wMVk4ZTRDajJHeHFrYUgxOE1mc3dMd3BIVkhBdkZMcTRnbjdVZEZIdGxVU0c2c3Q5Z1VRVFNVRTJhQ0kwczJfVThsRi1xVXlpdVdR?oc=5"
             },
             {
-                "title": "“联大第2758号决议与台湾问题”学术研讨会在京举行 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdXA3bTdKMEluRW1nOWRLUWxuQUxQazJKTjVOVUFEWjRkLWdFU1NzQUNiZnlJYXJsTE84N0VCeWN4dUN5R2pQWmZabzNWRVY2Q0E?oc=5"
-            },
-            {
-                "title": "长征题材影视作品陆续展播 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMWJEMXBKeE1aR29JWVBfc3lWNk9OOFBWVWN3LWlvYU91UFY1Y29LUmpPdFdGLThKeVlOTHg2SVBSaGF0OXhqc0ZSUTBxU2JmbUE?oc=5"
+                "title": "王毅会见以色列总统赫尔佐格 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSX1cxcVVKYzhaX3VHODhuWENMcWxUUTdfWm9JODJWdks0TEtySFZZb0hmRENFU2hQaFZMYk4yLWgyUzhuQXZsN21yMUpjb2JPUTZIdnhTNXdkQ1pTNHpQbWpGY0ZUNmZJUnl1SXhn?oc=5"
             },
             {
                 "title": "《军报每天读》20261016 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-16",
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1MnZLRzlBMXNDTVg4cDBHZF9TT0lfRVVSTHBkZVlvRWlwc2dxa1J3djFrOFFkdTJOekI2elZtam9MeEhkbDVDR21zbVdlYWFvWDBvbg?oc=5"
+            },
+            {
+                "title": "他在异国他乡演活了中华技艺，更以一身戎装向世界展现了中国军人的模样 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YaHg2ejFLcUhwRGRDdGtTMFFhSFc2XzRaZVNMbll2R0ROLXA1ZmZJYVR1UkZWQVE0WDJFajhIMXp6MFhadHRRbEdET3BnQjdMR0E?oc=5"
+            },
+            {
+                "title": "雨中比拼淬炼保障硬功 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-15",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDFwMF81UlBrT05SSVdlVnM3S2JkbmdzSE14dG43N3VVVEV6c0l6SFpaNFBsV18yNXBSaXhQVmhGaWlwdDBjQlQ4WHpvLUJCVlB2VTNfN01TZkVWVGxTdUdreVBvUEdUZFpUWjQzcFFUSUdDaVN4OXU4Vkd5cWRpalZnQTlNeU0xRG55aXp3a2ZKdkJYZTB5cC1ka2ZJWTduczNiaGhIMV9sODR5ZGV4RjlwMEtqdUE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "国内“皮卡车”进城限制继续放开，四川成都发布征求意见稿",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-16",
-                "url": "http://www.geekpark.net/news/372437"
+                "url": "https://www.ithome.com/1/014/039.htm"
             },
             {
-                "title": "36氪首发丨国防科技专家做微型智能无人机，累计融资超亿元，年内签下数亿元订单",
+                "title": "国内五款稳定的PC手机节 点梯 子推荐，翻 墙机 场魔 法梯 子推荐，远超传统V PN梯 子工具",
+                "source": "NewsAPI / Cnodejs.org",
+                "date": "2026-10-16",
+                "url": "https://cnodejs.org/topic/49330"
+            },
+            {
+                "title": "商务部：有关措施正式实施后，绝大部分人工智能技术仍可以自由出口",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-16",
-                "url": "https://36kr.com/p/4027925884310145?f=rss"
+                "url": "https://36kr.com/newsflashes/4028275794104963?f=rss"
             },
             {
-                "title": "第一款 AI 手机，被半个互联网「拒」了",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-16",
-                "url": "http://www.geekpark.net/news/372436"
-            },
-            {
-                "title": "腾讯盯上了字节的摇钱树",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-16",
-                "url": "http://www.geekpark.net/news/372435"
-            },
-            {
-                "title": "8点1氪丨三部门联合调查“尊界V800汽车刹车踏板支架断裂问题”；国内一半AI算力被指在造爽剧；台积电第三季度净利润7631亿元台币",
+                "title": "拿下两轮数亿元融资，清华博导刘子鸣要造能自己设计模型的「元模型」",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-16",
-                "url": "https://36kr.com/p/4027802678186372?f=rss"
+                "url": "https://36kr.com/p/4028228125577864?f=rss"
             },
             {
-                "title": "2026年10月15日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hcmhCQ2tBSlF0c3RyZzVHTU96ZUdUV2xuS01Nc0oyY1pDQ1JOSG52dmhkd0cybTBlNVVGbDJFeWsyWEp3aU9sX053RDlLS2V6dDNwWThrZWJrd05CTHhwaE5pbEstXzIzUHJLV3ItUlB5WDkyM3c?oc=5"
+                "title": "“兼职卖脸”三天赚2500元？这事儿靠谱吗？专家提醒",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-16",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582496.htm"
             },
             {
                 "title": "2026年10月16日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -160,25 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfV3gyYUJEd3lwR2Z1c05CbUZSUGE3eVNvcW0wMVk4ZTRDajJHeHFrYUgxOE1mc3dMd3BIVkhBdkZMcTRnbjdVZEZIdGxVU0c2c3Q5Z1VRVFNVRTJhQ0kwczJfVThsRi1xVXlpdVdR?oc=5"
             },
             {
-                "title": "“联大第2758号决议与台湾问题”学术研讨会在京举行 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdXA3bTdKMEluRW1nOWRLUWxuQUxQazJKTjVOVUFEWjRkLWdFU1NzQUNiZnlJYXJsTE84N0VCeWN4dUN5R2pQWmZabzNWRVY2Q0E?oc=5"
-            },
-            {
-                "title": "长征题材影视作品陆续展播 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-15",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMWJEMXBKeE1aR29JWVBfc3lWNk9OOFBWVWN3LWlvYU91UFY1Y29LUmpPdFdGLThKeVlOTHg2SVBSaGF0OXhqc0ZSUTBxU2JmbUE?oc=5"
+                "title": "王毅会见以色列总统赫尔佐格 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-16",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSX1cxcVVKYzhaX3VHODhuWENMcWxUUTdfWm9JODJWdks0TEtySFZZb0hmRENFU2hQaFZMYk4yLWgyUzhuQXZsN21yMUpjb2JPUTZIdnhTNXdkQ1pTNHpQbWpGY0ZUNmZJUnl1SXhn?oc=5"
             },
             {
                 "title": "《军报每天读》20261016 - 八一视频",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-16",
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1MnZLRzlBMXNDTVg4cDBHZF9TT0lfRVVSTHBkZVlvRWlwc2dxa1J3djFrOFFkdTJOekI2elZtam9MeEhkbDVDR21zbVdlYWFvWDBvbg?oc=5"
+            },
+            {
+                "title": "他在异国他乡演活了中华技艺，更以一身戎装向世界展现了中国军人的模样 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-16",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YaHg2ejFLcUhwRGRDdGtTMFFhSFc2XzRaZVNMbll2R0ROLXA1ZmZJYVR1UkZWQVE0WDJFajhIMXp6MFhadHRRbEdET3BnQjdMR0E?oc=5"
+            },
+            {
+                "title": "雨中比拼淬炼保障硬功 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-15",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDFwMF81UlBrT05SSVdlVnM3S2JkbmdzSE14dG43N3VVVEV6c0l6SFpaNFBsV18yNXBSaXhQVmhGaWlwdDBjQlQ4WHpvLUJCVlB2VTNfN01TZkVWVGxTdUdreVBvUEdUZFpUWjQzcFFUSUdDaVN4OXU4Vkd5cWRpalZnQTlNeU0xRG55aXp3a2ZKdkJYZTB5cC1ka2ZJWTduczNiaGhIMV9sODR5ZGV4RjlwMEtqdUE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-17T02:53:21.471120+00:00"
+    "last_updated": "2026-10-17T10:06:32.980416+00:00"
 }
