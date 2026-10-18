@@ -12,6 +12,24 @@
     "news_sources": {
         "econ": [
             {
+                "title": "Anduril推出模块化防空拦截导弹Steelfin 目标年产数千枚",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582670.htm"
+            },
+            {
+                "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582664.htm"
+            },
+            {
+                "title": "缅北严父：这家公司派了20万个“AI影帝”去反杀诈骗犯",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582660.htm"
+            },
+            {
                 "title": "欧盟要亮新贸易武器 北京警告：别幻想施压换好处",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-10-17",
@@ -22,27 +40,33 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-17",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1582652.htm"
-            },
-            {
-                "title": "英国监管机构拟将微软列为“战略市场主体” 产品捆绑生态成调查焦点",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582650.htm"
-            },
-            {
-                "title": "中国贸易展览会在哥斯达黎加举行",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-17",
-                "url": "https://36kr.com/newsflashes/4029679336739202?f=rss"
-            },
-            {
-                "title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-17",
-                "url": "https://36kr.com/newsflashes/4029677493621129?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "中国制造车辆录下门禁密码 挪威军演租车引发安全关注",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-10-17",
+                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%BD%A6%E8%BE%86%E5%BD%95%E4%B8%8B%E9%97%A8%E7%A6%81%E5%AF%86%E7%A0%81-%E6%8C%AA%E5%A8%81%E5%86%9B%E6%BC%94%E7%A7%9F%E8%BD%A6%E5%BC%95%E5%8F%91%E5%AE%89%E5%85%A8%E5%85%B3%E6%B3%A8/a-79688210"
+            },
+            {
+                "title": "Anduril推出模块化防空拦截导弹Steelfin 目标年产数千枚",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582670.htm"
+            },
+            {
+                "title": "缅北严父：这家公司派了20万个“AI影帝”去反杀诈骗犯",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582660.htm"
+            },
+            {
+                "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-17",
+                "url": "https://www.ithome.com/1/014/385.htm"
+            },
             {
                 "title": "叫停速成车：一块踏板支架引发的风波",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -50,46 +74,22 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1582626.htm"
             },
             {
-                "title": "女刺客遭遇项羽：“楚汉战争”背景《刺客信条》游戏原型影像流出",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-17",
-                "url": "https://www.ithome.com/1/014/282.htm"
-            },
-            {
-                "title": "走进成都的 BOSS 精裁俱乐部“裁见成都”主题展，重新认识一套西装的诞生",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-10-17",
-                "url": "https://www.toodaylab.com/84252"
-            },
-            {
-                "title": "对话费德勒：加入On昂跑，是我回馈网球的一种方式",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-17",
-                "url": "https://36kr.com/p/4028636199555713?f=rss"
-            },
-            {
-                "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-17",
-                "url": "http://www.geekpark.net/news/372509"
-            },
-            {
-                "title": "2026年10月16日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "李强同塔吉克斯坦总理拉苏尔佐达会谈 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92LVlMQ3NrRUZDVzFuNjNXR0l2anBuZmFsdEJrMmswWTNQMG1VX2h1QjNDMURhcEJHN0VwcHNBLW1VM0RxeFJNVUhubHpVN3hUOHZNTlBUNVcyMUliRVNYdWJCZkk2c09BWjlTNFdFWGtaeWoyZHc?oc=5"
-            },
-            {
-                "title": "毛宁：中国值得来，中国品牌值得买（2026年10月16日） - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-16",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXBCZ2QzUVNhbE5nOXVHNENpcC1wX0tCQk1KZUc4RDlMMnVMRnpEUDVDVU1vZjFyWEdrTVpyeFVMdlFoZ00wZE9wVFV1N05hUG9iTTJ6NUVZVEdqX1JkdjBRWlZGLWZZZmh2ZzlTQmJvMlVYSFpNOGItaGdLUzhTNEFkZVRva2E0ZFRaNktCR2lIQQ?oc=5"
+                "date": "2026-10-18",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMFlxMDFDTktKMElHb0lFYWtRS3FUUU5fM2NJMnp1ZGpQbWFIbWZkUXFudWJfV3VJUEdzT05ESkF1UG02eXlkLXhoS1BZN3ExTHpmZDVGSjhBbWFkenBMdjF3ZWpjYU9VbEE4?oc=5"
             },
             {
                 "title": "​克罗地亚总理普连科维奇会见王毅 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-17",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHk1ZFNHVXkxMUl5MUJQR0VVZTZTdHNkVVMwQV9lZVpSSVd3X1JFTm42X29WaEM5Q3dnRmlrUnBBLVR4Wno2Tk5MTmZIVmZscWFnbEFXblZoRUR6RkpXbmxkMUduQk0zWWI1V0E3VDkzZzRWYTladHVzUHZwX01VTllqbW5FSHlTWEVn?oc=5"
+            },
+            {
+                "title": "王毅同克罗地亚外长拉德曼会谈 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-16",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSS1YRGhDTjF6bWR3RkpaZGk1THdXQjlQQURGNUl3WWxnLVQweGFDa0FHMmFFRTRrWFpuOElRaHpxYWdDeVVBU3FPVjVtcEp1bkVXcWdkOG55TW1qZ3dHN21xcktoYlMzdjVzczc5eTlfQjY1WVhuM25wX0tkSWl3M3IzemJHMkZNVWJv?oc=5"
             },
             {
                 "title": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义 - 军网",
@@ -112,52 +112,52 @@
         ],
         "pol": [
             {
+                "title": "Anduril推出模块化防空拦截导弹Steelfin 目标年产数千枚",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582670.htm"
+            },
+            {
+                "title": "缅北严父：这家公司派了20万个“AI影帝”去反杀诈骗犯",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-17",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582660.htm"
+            },
+            {
+                "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-17",
+                "url": "https://www.ithome.com/1/014/385.htm"
+            },
+            {
+                "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-17",
+                "url": "https://www.ithome.com/1/014/370.htm"
+            },
+            {
                 "title": "欧盟要亮新贸易武器 北京警告：别幻想施压换好处",
                 "source": "NewsAPI / DW (English)",
                 "date": "2026-10-17",
                 "url": "https://www.dw.com/zh/%E6%AC%A7%E7%9B%9F%E8%A6%81%E4%BA%AE%E6%96%B0%E8%B4%B8%E6%98%93%E6%AD%A6%E5%99%A8-%E5%8C%97%E4%BA%AC%E8%AD%A6%E5%91%8A%E5%88%AB%E5%B9%BB%E6%83%B3%E6%96%BD%E5%8E%8B%E6%8D%A2%E5%A5%BD%E5%A4%84/a-79686871"
             },
             {
-                "title": "特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-17",
-                "url": "https://www.ithome.com/1/014/348.htm"
-            },
-            {
-                "title": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582652.htm"
-            },
-            {
-                "title": "特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-17",
-                "url": "https://www.ithome.com/1/014/346.htm"
-            },
-            {
-                "title": "日赚17亿，台积电还担心钱不够花",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-17",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582628.htm"
-            },
-            {
-                "title": "2026年10月16日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "李强同塔吉克斯坦总理拉苏尔佐达会谈 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-16",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92LVlMQ3NrRUZDVzFuNjNXR0l2anBuZmFsdEJrMmswWTNQMG1VX2h1QjNDMURhcEJHN0VwcHNBLW1VM0RxeFJNVUhubHpVN3hUOHZNTlBUNVcyMUliRVNYdWJCZkk2c09BWjlTNFdFWGtaeWoyZHc?oc=5"
-            },
-            {
-                "title": "毛宁：中国值得来，中国品牌值得买（2026年10月16日） - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-16",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXBCZ2QzUVNhbE5nOXVHNENpcC1wX0tCQk1KZUc4RDlMMnVMRnpEUDVDVU1vZjFyWEdrTVpyeFVMdlFoZ00wZE9wVFV1N05hUG9iTTJ6NUVZVEdqX1JkdjBRWlZGLWZZZmh2ZzlTQmJvMlVYSFpNOGItaGdLUzhTNEFkZVRva2E0ZFRaNktCR2lIQQ?oc=5"
+                "date": "2026-10-18",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMFlxMDFDTktKMElHb0lFYWtRS3FUUU5fM2NJMnp1ZGpQbWFIbWZkUXFudWJfV3VJUEdzT05ESkF1UG02eXlkLXhoS1BZN3ExTHpmZDVGSjhBbWFkenBMdjF3ZWpjYU9VbEE4?oc=5"
             },
             {
                 "title": "​克罗地亚总理普连科维奇会见王毅 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-17",
                 "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHk1ZFNHVXkxMUl5MUJQR0VVZTZTdHNkVVMwQV9lZVpSSVd3X1JFTm42X29WaEM5Q3dnRmlrUnBBLVR4Wno2Tk5MTmZIVmZscWFnbEFXblZoRUR6RkpXbmxkMUduQk0zWWI1V0E3VDkzZzRWYTladHVzUHZwX01VTllqbW5FSHlTWEVn?oc=5"
+            },
+            {
+                "title": "王毅同克罗地亚外长拉德曼会谈 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-16",
+                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSS1YRGhDTjF6bWR3RkpaZGk1THdXQjlQQURGNUl3WWxnLVQweGFDa0FHMmFFRTRrWFpuOElRaHpxYWdDeVVBU3FPVjVtcEp1bkVXcWdkOG55TW1qZ3dHN21xcktoYlMzdjVzczc5eTlfQjY1WVhuM25wX0tkSWl3M3IzemJHMkZNVWJv?oc=5"
             },
             {
                 "title": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-18T10:20:26.532963+00:00"
+    "last_updated": "2026-10-18T15:19:51.066366+00:00"
 }
