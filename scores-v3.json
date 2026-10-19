@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
+                "title": "巨头算力卷不动？世界银行看好小型AI在发展中国家爆发的趋势",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-10-18",
+                "url": "https://post.smzdm.com/p/a4qx4lv8/"
+            },
+            {
+                "title": "一周世界舆论聚焦：鸭绿江新大桥通车的启示",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-18",
+                "url": "https://www.ftchinese.com/story/001111136"
+            },
+            {
+                "title": "社保需要颗粒归仓",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-18",
+                "url": "https://www.ftchinese.com/story/001111135"
+            },
+            {
+                "title": "新增广东湖南：苹果 AirPods 国补 15%，5 代 758 元起、Pro 3 仅 1316 元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-18",
+                "url": "https://www.ithome.com/1/014/610.htm"
+            },
+            {
                 "title": "iPhone 18 Pro等待时间同比缩短4天 涨价后需求面临考验",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-18",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1582754.htm"
-            },
-            {
-                "title": "老板们不再把钱交给VC了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-18",
-                "url": "https://36kr.com/p/4031081236042116?f=rss"
-            },
-            {
-                "title": "苹果 iPhone Duo 京东尊享权益套装上线，20998 元起 20:00 开抢",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/513.htm"
-            },
-            {
-                "title": "靠性价比成为非洲之王的传音 这次也想卖贵的了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582740.htm"
-            },
-            {
-                "title": "Ledger硬件钱包遭硬件植入攻击 加密资产被盗金额估计超过9000万美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582734.htm"
             }
         ],
         "mil": [
+            {
+                "title": "一周世界舆论聚焦：鸭绿江新大桥通车的启示",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-18",
+                "url": "https://www.ftchinese.com/story/001111136"
+            },
+            {
+                "title": "两部门：鼓励利用电影院空闲时段开展重大体育赛事直播",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-18",
+                "url": "https://www.ithome.com/1/014/616.htm"
+            },
+            {
+                "title": "美空军突击队员赛前表演失控 从170英尺高处坠落身亡(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-18",
+                "url": "https://www.secretchina.com/news/gb/2026/10/18/1106253.html"
+            },
+            {
+                "title": "类魂 FPS 游戏《末世神枪》试玩 DEMO 上架 Steam，游戏 12 月 8 日发售",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-18",
+                "url": "https://www.ithome.com/1/014/600.htm"
+            },
             {
                 "title": "《使命召唤：现代战争 4》单人战役模式媒体评分解禁，IGN 打出 8 分评价",
                 "source": "NewsAPI / Ithome.com",
@@ -50,28 +74,10 @@
                 "url": "https://www.ithome.com/1/014/582.htm"
             },
             {
-                "title": "老板们不再把钱交给VC了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-18",
-                "url": "https://36kr.com/p/4031081236042116?f=rss"
-            },
-            {
-                "title": "加拿大一军事基地发生“严重事故”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-18",
-                "url": "https://www.dw.com/zh/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85/a-79691286"
-            },
-            {
-                "title": "加拿大一军事基地发生“严重事故”",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-18",
-                "url": "https://www.dw.com/zh/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85/a-79691286"
-            },
-            {
-                "title": "前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-18",
-                "url": "https://36kr.com/p/4025325566054529?f=rss"
+                "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-19",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
             },
             {
                 "title": "​王毅同黑山副总理兼外长伊布拉希莫维奇会谈 - 中华人民共和国外交部",
@@ -84,12 +90,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTHBEU1BoTk0tVjZTTGxOUDJUZ1RFTUl6ZDBYeWNyc3B5YVV1M2xrRnBqaUZlOEZvdEE4ZDU0UXh6SkVFRTkya0RNeHA4dElvWlN0Nm1CSEM3V2s3MFJDSkplWkZMXzljaVZN?oc=5"
-            },
-            {
-                "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
             },
             {
                 "title": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义 - 军网",
@@ -112,34 +112,40 @@
         ],
         "pol": [
             {
-                "title": "《使命召唤：现代战争 4》单人战役模式媒体评分解禁，IGN 打出 8 分评价",
+                "title": "巨头算力卷不动？世界银行看好小型AI在发展中国家爆发的趋势",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-10-18",
+                "url": "https://post.smzdm.com/p/a4qx4lv8/"
+            },
+            {
+                "title": "社保需要颗粒归仓",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-18",
+                "url": "https://www.ftchinese.com/story/001111135"
+            },
+            {
+                "title": "一周世界舆论聚焦：鸭绿江新大桥通车的启示",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-18",
+                "url": "https://www.ftchinese.com/story/001111136"
+            },
+            {
+                "title": "两部门：鼓励利用电影院空闲时段开展重大体育赛事直播",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/582.htm"
+                "url": "https://www.ithome.com/1/014/616.htm"
             },
             {
-                "title": "微软取消 AI 相关合作，英国本土数据中心企业 Nscale 遭遇重大挫折",
+                "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/574.htm"
+                "url": "https://www.ithome.com/1/014/589.htm"
             },
             {
-                "title": "iPhone 18 Pro等待时间同比缩短4天 涨价后需求面临考验",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582754.htm"
-            },
-            {
-                "title": "老板们不再把钱交给VC了",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-18",
-                "url": "https://36kr.com/p/4031081236042116?f=rss"
-            },
-            {
-                "title": "靠性价比成为非洲之王的传音 这次也想卖贵的了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582740.htm"
+                "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-19",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
             },
             {
                 "title": "​王毅同黑山副总理兼外长伊布拉希莫维奇会谈 - 中华人民共和国外交部",
@@ -152,12 +158,6 @@
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTHBEU1BoTk0tVjZTTGxOUDJUZ1RFTUl6ZDBYeWNyc3B5YVV1M2xrRnBqaUZlOEZvdEE4ZDU0UXh6SkVFRTkya0RNeHA4dElvWlN0Nm1CSEM3V2s3MFJDSkplWkZMXzljaVZN?oc=5"
-            },
-            {
-                "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
             },
             {
                 "title": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-19T12:02:13.161462+00:00"
+    "last_updated": "2026-10-19T21:57:47.905861+00:00"
 }
