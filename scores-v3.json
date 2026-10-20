@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "巨头算力卷不动？世界银行看好小型AI在发展中国家爆发的趋势",
-                "source": "NewsAPI / Smzdm.com",
-                "date": "2026-10-18",
-                "url": "https://post.smzdm.com/p/a4qx4lv8/"
+                "title": "国家统计局：前三季度内需对经济增长贡献率超过七成",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/newsflashes/4032215318450823?f=rss"
             },
             {
-                "title": "一周世界舆论聚焦：鸭绿江新大桥通车的启示",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-18",
-                "url": "https://www.ftchinese.com/story/001111136"
-            },
-            {
-                "title": "社保需要颗粒归仓",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-18",
-                "url": "https://www.ftchinese.com/story/001111135"
-            },
-            {
-                "title": "新增广东湖南：苹果 AirPods 国补 15%，5 代 758 元起、Pro 3 仅 1316 元",
+                "title": "Meta：Claude 工具高频访问触发安全机制，No Kings 联盟 Ins 账号遭误封",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/610.htm"
+                "date": "2026-10-19",
+                "url": "https://www.ithome.com/1/014/720.htm"
             },
             {
-                "title": "iPhone 18 Pro等待时间同比缩短4天 涨价后需求面临考验",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582754.htm"
+                "title": "聚焦在轨服务，要打造太空机器人集群，「国宇星辰」完成近亿元A轮融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/p/4032195238482313?f=rss"
+            },
+            {
+                "title": "国家统计局：前三季度经济增量达到5.7万亿元，为过去五年同期最大增量",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/newsflashes/4032195784643205?f=rss"
+            },
+            {
+                "title": "今年前三季度货物进出口总额同比增长18.8%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/newsflashes/4032181637321088?f=rss"
             }
         ],
         "mil": [
             {
+                "title": "8点1氪丨iPhone Duo溢价暴跌至3000元；多家A股科技龙头公司宣布计划回购；王自如称想与罗永浩和解",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/p/4032044521558403?f=rss"
+            },
+            {
+                "title": "IT早报 1019：DeepSeek API 上线网页搜索抓取；苹果 iPhone Duo 首发日不卖现货；Anthropic 称 2030 年 AI 或让美国 GDP 增 50%...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-18",
+                "url": "https://www.ithome.com/1/014/632.htm"
+            },
+            {
+                "title": "记者起底“预制好评”代运营套路：每条好评10元起 线下刷评无需到店",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582796.htm"
+            },
+            {
                 "title": "一周世界舆论聚焦：鸭绿江新大桥通车的启示",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-18",
@@ -54,24 +72,6 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-18",
                 "url": "https://www.ithome.com/1/014/616.htm"
-            },
-            {
-                "title": "美空军突击队员赛前表演失控 从170英尺高处坠落身亡(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-18",
-                "url": "https://www.secretchina.com/news/gb/2026/10/18/1106253.html"
-            },
-            {
-                "title": "类魂 FPS 游戏《末世神枪》试玩 DEMO 上架 Steam，游戏 12 月 8 日发售",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/600.htm"
-            },
-            {
-                "title": "《使命召唤：现代战争 4》单人战役模式媒体评分解禁，IGN 打出 8 分评价",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/582.htm"
             },
             {
                 "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTHBEU1BoTk0tVjZTTGxOUDJUZ1RFTUl6ZDBYeWNyc3B5YVV1M2xrRnBqaUZlOEZvdEE4ZDU0UXh6SkVFRTkya0RNeHA4dElvWlN0Nm1CSEM3V2s3MFJDSkplWkZMXzljaVZN?oc=5"
             },
             {
-                "title": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义 - 军网",
+                "title": "锐言丨强化战略绑定 扩张不断加速 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByZ2hRSkR6WGRVanNOT25naFNNbmQtVTR6RUFvS3hRUFpmM1U1cjVoZVZHYWdha1RtTDNBMnNEdkNrWTY3NWJlMDB2TEl4d080eXc?oc=5"
-            },
-            {
-                "title": "2026年10月18日解放军报第02版：要闻 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-18",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDFTUFFTZ1o0ZWtjdDJNdkhBWFRwTkxwNGwtUUlrYzJXZ0VxYjZsQW9GSlNzUkI1Wm43MjFzcEdVUEdGWGFWd3c0RWtTemJ4WUozQVVXWWpkVlBQLXY3RG5qMm40aWliNElBWl9tUGdxb2tzUmpIc1AzSGpBM2JPcTJLZFYwbEZYUXhVei1oR3kzRTluSU5nUC1reDAxU1FCZFJELWhMLUg4UTBGRHVMTG53?oc=5"
+                "date": "2026-10-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4TkJiZk5qMWJCZlRJVTVKdzE3OVNZNHRWSWhwN1F5YkREQ25lMk00VHVqcTZDbWlCYjdTQnVac25URGR5MzVHeW1ObE1jRkx6cnc?oc=5"
             },
             {
                 "title": "百年荣光·我见证｜三本号谱，长征出发地号声不息 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDd0amNjcFdnQlNFM0NUVmlzUnVzcVNGclhKZ1pOT0ZGS3haRXhRMkdVbmhsZEhZdzlwd3V2bzctMEJlQTE1cjNlTUJUU2hOTlE?oc=5"
+            },
+            {
+                "title": "从严纠治训风考风，一把尺子量到底 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qaEN6Wm9MQWc0RGo5SExjeHJBcllEb0xuTVNobjJYU3d6M0xfUXY1OF9seFhXeUt4V0F2NV95VkZ6UXlJd3dwWXZSWjlZV09qc1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "巨头算力卷不动？世界银行看好小型AI在发展中国家爆发的趋势",
-                "source": "NewsAPI / Smzdm.com",
-                "date": "2026-10-18",
-                "url": "https://post.smzdm.com/p/a4qx4lv8/"
-            },
-            {
-                "title": "社保需要颗粒归仓",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-18",
-                "url": "https://www.ftchinese.com/story/001111135"
-            },
-            {
-                "title": "一周世界舆论聚焦：鸭绿江新大桥通车的启示",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-18",
-                "url": "https://www.ftchinese.com/story/001111136"
-            },
-            {
-                "title": "两部门：鼓励利用电影院空闲时段开展重大体育赛事直播",
+                "title": "Meta：Claude 工具高频访问触发安全机制，No Kings 联盟 Ins 账号遭误封",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/616.htm"
+                "date": "2026-10-19",
+                "url": "https://www.ithome.com/1/014/720.htm"
             },
             {
-                "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-18",
-                "url": "https://www.ithome.com/1/014/589.htm"
+                "title": "聚焦在轨服务，要打造太空机器人集群，「国宇星辰」完成近亿元A轮融资｜36氪首发",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/p/4032195238482313?f=rss"
+            },
+            {
+                "title": "国家统计局：前三季度全国居民消费价格（CPI）同比上涨0.9%，全国工业生产者购进价格同比上涨3.6%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/newsflashes/4032168328909440?f=rss"
+            },
+            {
+                "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-19",
+                "url": "http://www.geekpark.net/news/372514"
+            },
+            {
+                "title": "8点1氪丨iPhone Duo溢价暴跌至3000元；多家A股科技龙头公司宣布计划回购；王自如称想与罗永浩和解",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-19",
+                "url": "https://36kr.com/p/4032044521558403?f=rss"
             },
             {
                 "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTHBEU1BoTk0tVjZTTGxOUDJUZ1RFTUl6ZDBYeWNyc3B5YVV1M2xrRnBqaUZlOEZvdEE4ZDU0UXh6SkVFRTkya0RNeHA4dElvWlN0Nm1CSEM3V2s3MFJDSkplWkZMXzljaVZN?oc=5"
             },
             {
-                "title": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义 - 军网",
+                "title": "锐言丨强化战略绑定 扩张不断加速 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByZ2hRSkR6WGRVanNOT25naFNNbmQtVTR6RUFvS3hRUFpmM1U1cjVoZVZHYWdha1RtTDNBMnNEdkNrWTY3NWJlMDB2TEl4d080eXc?oc=5"
-            },
-            {
-                "title": "2026年10月18日解放军报第02版：要闻 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-18",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDFTUFFTZ1o0ZWtjdDJNdkhBWFRwTkxwNGwtUUlrYzJXZ0VxYjZsQW9GSlNzUkI1Wm43MjFzcEdVUEdGWGFWd3c0RWtTemJ4WUozQVVXWWpkVlBQLXY3RG5qMm40aWliNElBWl9tUGdxb2tzUmpIc1AzSGpBM2JPcTJLZFYwbEZYUXhVei1oR3kzRTluSU5nUC1reDAxU1FCZFJELWhMLUg4UTBGRHVMTG53?oc=5"
+                "date": "2026-10-19",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4TkJiZk5qMWJCZlRJVTVKdzE3OVNZNHRWSWhwN1F5YkREQ25lMk00VHVqcTZDbWlCYjdTQnVac25URGR5MzVHeW1ObE1jRkx6cnc?oc=5"
             },
             {
                 "title": "百年荣光·我见证｜三本号谱，长征出发地号声不息 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-19",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDd0amNjcFdnQlNFM0NUVmlzUnVzcVNGclhKZ1pOT0ZGS3haRXhRMkdVbmhsZEhZdzlwd3V2bzctMEJlQTE1cjNlTUJUU2hOTlE?oc=5"
+            },
+            {
+                "title": "从严纠治训风考风，一把尺子量到底 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qaEN6Wm9MQWc0RGo5SExjeHJBcllEb0xuTVNobjJYU3d6M0xfUXY1OF9seFhXeUt4V0F2NV95VkZ6UXlJd3dwWXZSWjlZV09qc1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-19T21:57:47.905861+00:00"
+    "last_updated": "2026-10-20T03:17:07.938194+00:00"
 }
