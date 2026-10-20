@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "中国经济增速高于预期 国内仍面临棘手难题",
-                "source": "NewsAPI / DW (English)",
+                "title": "法国在燃烧，英国会是下一个吗？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-19",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%80%9F%E9%AB%98%E4%BA%8E%E9%A2%84%E6%9C%9F-%E5%9B%BD%E5%86%85%E4%BB%8D%E9%9D%A2%E4%B8%B4%E6%A3%98%E6%89%8B%E9%9A%BE%E9%A2%98/a-79698402"
+                "url": "https://www.ftchinese.com/story/001111145"
             },
             {
-                "title": "英特尔CEO称中国芯片制造“目前并未落后太多”",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "AI、中性利率与美联储加息空间（下）",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582914.htm"
+                "url": "https://www.ftchinese.com/story/001111043"
             },
             {
-                "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "Tenstorrent 完成 15 亿美元 E 轮融资，投后估值 62 亿美元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-19",
-                "url": "http://www.geekpark.net/news/372578"
+                "url": "https://www.ithome.com/1/015/045.htm"
             },
             {
-                "title": "国家外汇局：推出经常项目便利化一揽子政策",
-                "source": "NewsAPI / 36kr.com",
+                "title": "“撤销中共国永久正常贸易关系地位” 美参议员：把他们“当武器贩运者对待”(视频)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-10-19",
-                "url": "https://36kr.com/newsflashes/4032611374043524?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/10/19/1106290.html"
             },
             {
-                "title": "朱鹤新：我国开放的大门越开越大，涉外经济结构发生深刻变化",
-                "source": "NewsAPI / 36kr.com",
+                "title": "智己推出至高 2 万现金限时优惠，LS8 NEO 纯电将 10 月上市",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-19",
-                "url": "https://36kr.com/newsflashes/4032608123081095?f=rss"
+                "url": "https://www.ithome.com/1/015/024.htm"
             }
         ],
         "mil": [
+            {
+                "title": "美国陆军太平洋司令拟在印太增强军力，以遏止战争",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-19",
+                "url": "https://www.voachinese.com/a/us-army-s-pacific-chief-wants-to-show-off-military-strength-in-asia-to-keep-war-at-bay-20261019/8212748.html"
+            },
+            {
+                "title": "经典模拟经营 IP 新作《海岛大亨 7》试玩 Demo 免费登陆 Steam，支持简体中文",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-19",
+                "url": "https://www.ithome.com/1/015/011.htm"
+            },
+            {
+                "title": "F-22成功控制自主作战无人机 美空军演示“一个飞行员指挥两架飞机”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582928.htm"
+            },
             {
                 "title": "看看Roadster就得了 你还真信马斯克卖这个车？",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,22 @@
                 "url": "https://www.ithome.com/1/014/891.htm"
             },
             {
-                "title": "SpaceX被曝限制乌克兰星链服务 特朗普与马斯克互相否认",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582894.htm"
-            },
-            {
-                "title": "今年金鸡奖主视觉海报亮相，《给阿嬷的情书》领衔的提名名单也一起公布",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-10-19",
-                "url": "https://www.toodaylab.com/84255"
-            },
-            {
-                "title": "划清界限：美国银行、摩根大通银行、嘉信理财等金融平台屏蔽 Muse 等智能体",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-19",
-                "url": "https://www.ithome.com/1/014/856.htm"
-            },
-            {
                 "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-19",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
             },
             {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
                 "title": "2026年10月20日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-20",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kV1ZhMjNheXZ6M3lXck8yRFJLVll0cEJyVmlvVnpoYl9aWEJGRjR2eDhHYU84S2ZrcFBBc0tMLTJaZWRXLXJXUEVGTmFpeXM4bDMzd0U4V2IyZ1hkV1VmbVN5OWxzSDU5OE9KcERsOHVyS09uZ2c?oc=5"
-            },
-            {
-                "title": "​王毅同黑山副总理兼外长伊布拉希莫维奇会谈 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-18",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBndlVWekFTSVZjWFFSU2tKanJQRktwaTJjOU5wMHhTQmhWUUVxcFIycUtaMVZMc0RMb1phTW1nV0JvNVNERFRjQVZPd1FxOTlrcUk3b0gxcGlXWEF0QU04Z2hYY0N0N29uTWVqZ2xn?oc=5"
             },
             {
                 "title": "警惕！日本强化战略绑定，扩张不断加速 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "英特尔CEO称中国芯片制造“目前并未落后太多”",
+                "title": "法国在燃烧，英国会是下一个吗？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-19",
+                "url": "https://www.ftchinese.com/story/001111145"
+            },
+            {
+                "title": "学者谈中共介选手段与防护策略(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-19",
+                "url": "https://www.secretchina.com/news/gb/2026/10/19/1106296.html"
+            },
+            {
+                "title": "九合一哪里最关键？美学者点名“这城市”是台湾政治风向标(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-19",
+                "url": "https://www.secretchina.com/news/gb/2026/10/19/1106292.html"
+            },
+            {
+                "title": "经典模拟经营 IP 新作《海岛大亨 7》试玩 Demo 免费登陆 Steam，支持简体中文",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-19",
+                "url": "https://www.ithome.com/1/015/011.htm"
+            },
+            {
+                "title": "波尔多、里尔两家苹果直营店在法国大规模骚乱中遭洗劫",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582914.htm"
-            },
-            {
-                "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-19",
-                "url": "http://www.geekpark.net/news/372578"
-            },
-            {
-                "title": "看看Roadster就得了 你还真信马斯克卖这个车？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1582908.htm"
-            },
-            {
-                "title": "央行：增强政策供给 为离岸市场提供稳定、多层次的人民币流动性供给",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-19",
-                "url": "https://36kr.com/newsflashes/4032558522126978?f=rss"
-            },
-            {
-                "title": "央行：试点进一步便利境外金融机构在境内外汇市场开展人民币购售业务",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-19",
-                "url": "https://36kr.com/newsflashes/4032557816517256?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1582926.htm"
             },
             {
                 "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
             },
             {
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+            },
+            {
                 "title": "2026年10月20日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-20",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kV1ZhMjNheXZ6M3lXck8yRFJLVll0cEJyVmlvVnpoYl9aWEJGRjR2eDhHYU84S2ZrcFBBc0tMLTJaZWRXLXJXUEVGTmFpeXM4bDMzd0U4V2IyZ1hkV1VmbVN5OWxzSDU5OE9KcERsOHVyS09uZ2c?oc=5"
-            },
-            {
-                "title": "​王毅同黑山副总理兼外长伊布拉希莫维奇会谈 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-18",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBndlVWekFTSVZjWFFSU2tKanJQRktwaTJjOU5wMHhTQmhWUUVxcFIycUtaMVZMc0RMb1phTW1nV0JvNVNERFRjQVZPd1FxOTlrcUk3b0gxcGlXWEF0QU04Z2hYY0N0N29uTWVqZ2xn?oc=5"
             },
             {
                 "title": "警惕！日本强化战略绑定，扩张不断加速 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-20T10:53:29.600537+00:00"
+    "last_updated": "2026-10-20T16:18:20.451581+00:00"
 }
