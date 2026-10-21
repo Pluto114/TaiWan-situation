@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "专家解读：不宜将央行操作机制改革举措和降息划等号",
-                "source": "NewsAPI / 36kr.com",
+                "title": "联手小鹏三年，新车月均仅卖267辆：大众在中国卡在了哪里？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-20",
-                "url": "https://36kr.com/newsflashes/4033628261569414?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583052.htm"
             },
             {
-                "title": "中国人民银行行长潘功胜会见桥水投资公司创始人瑞·达利欧",
-                "source": "NewsAPI / 36kr.com",
+                "title": "单机身 8091 元国补直降：索尼 Alpha 7C II 全画幅微单京东 11.11 破冰新低",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-20",
-                "url": "https://36kr.com/newsflashes/4033611899278471?f=rss"
+                "url": "https://www.ithome.com/1/015/474.htm"
             },
             {
-                "title": "国家发展改革委：前三季度智能经济等新动能对经济增长贡献率超过40%",
+                "title": "鸿蒙智行抢滩海外，问界计划采用“博世inside”方案｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-20",
-                "url": "https://36kr.com/newsflashes/4033603191165829?f=rss"
+                "url": "https://36kr.com/p/4034025645560963?f=rss"
             },
             {
-                "title": "中国债务危机：最后由谁买单？(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "挪威企业提议建设跨大西洋数据电缆 直接连接加拿大与欧洲 绕开美国",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-20",
-                "url": "https://www.secretchina.com/news/gb/2026/10/20/1106310.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583048.htm"
             },
             {
-                "title": "申万宏源赵伟：经济将实现“N型”修复",
-                "source": "NewsAPI / 36kr.com",
+                "title": "上汽大众 ID.ERA 5X 正式下线，全新 CMP 平台首款量产车型",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-20",
-                "url": "https://36kr.com/newsflashes/4033602006897793?f=rss"
+                "url": "https://www.ithome.com/1/015/428.htm"
             }
         ],
         "mil": [
+            {
+                "title": "联手小鹏三年，新车月均仅卖267辆：大众在中国卡在了哪里？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583052.htm"
+            },
+            {
+                "title": "鸿蒙智行抢滩海外，问界计划采用“博世inside”方案｜36氪独家",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-20",
+                "url": "https://36kr.com/p/4034025645560963?f=rss"
+            },
+            {
+                "title": "法国首台小鹏 MONA L03 交付，集团董事长、CEO 何小鹏亲自交车",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-20",
+                "url": "https://www.ithome.com/1/015/415.htm"
+            },
+            {
+                "title": "前苹果工程师、Jackery联创做宠物健康硬件，年营收超10亿，获红杉投资｜硬氪专访",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-20",
+                "url": "https://36kr.com/p/4026637554963074?f=rss"
+            },
             {
                 "title": "美日“利剑 2027”演习 将部署两款先进反舰导弹系统",
                 "source": "NewsAPI / Voachinese.com",
@@ -50,46 +74,22 @@
                 "url": "https://www.voachinese.com/a/keen-sword-20261019/8213166.html"
             },
             {
-                "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-20",
-                "url": "http://www.geekpark.net/news/372583"
-            },
-            {
-                "title": "顺为投了一位北大PI，想用AI“解密”人脑",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-20",
-                "url": "https://36kr.com/p/4032248929686151?f=rss"
-            },
-            {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-19",
-                "url": "https://www.voachinese.com/a/8208237.html"
-            },
-            {
-                "title": "美国陆军太平洋司令拟在印太增强军力，以遏止战争",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-19",
-                "url": "https://www.voachinese.com/a/us-army-s-pacific-chief-wants-to-show-off-military-strength-in-asia-to-keep-war-at-bay-20261019/8212748.html"
-            },
-            {
                 "title": "2026年10月20日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-20",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kV1ZhMjNheXZ6M3lXck8yRFJLVll0cEJyVmlvVnpoYl9aWEJGRjR2eDhHYU84S2ZrcFBBc0tMLTJaZWRXLXJXUEVGTmFpeXM4bDMzd0U4V2IyZ1hkV1VmbVN5OWxzSDU5OE9KcERsOHVyS09uZ2c?oc=5"
             },
             {
-                "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
-            },
-            {
                 "title": "王毅同保加利亚外长共见记者谈欧亚之行的四点感受 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-20",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Oc2lTRjVrTXdNS2hQb1RzcXFzbXlpR3l3T1BNVjNKblUxZXpuSUstbnBYd0R0cnliMXZKX0ZtbnBKWlV0eFdGNGx1U0s5YmY5S0NQVWtMZFhadVI4d2Rmb1gwbzRucVMtdHhYc3R3?oc=5"
+            },
+            {
+                "title": "驻莫桑比克大使郑璇出席援莫医疗队义诊活动 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-20",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUpGaUtyNmRla212M2w5RnVvOEJqR3ZOUmMtN1F5UEhrbVZkY2dxWDRwcUExSVlkZW5PbWVpN2tTd25WOFF5bGlFN25QWUdUYnh5UmdPRkpYc0FENmFJYmVOeXBsUHJIWG4yVXJ3UHI0UTl2SXNVbDJDbWV5Sld0d2xwR1Y?oc=5"
             },
             {
                 "title": "警惕！日本强化战略绑定，扩张不断加速 - 军网",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCUmFIcFNZb2lLVm9sc2E3dU5PeTh1ZThhc1owZWQ4cWV0QnZXQUo3djRXZ19YOXBsRVQ4RTNJMHhkd0dRdUtDSE5jclI?oc=5"
             },
             {
-                "title": "百年荣光·我见证｜三本号谱，长征出发地号声不息 - 军网",
+                "title": "从“一次定型”走向“持续迭代”——“可升级”成为多国弹药设计新指标 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDd0amNjcFdnQlNFM0NUVmlzUnVzcVNGclhKZ1pOT0ZGS3haRXhRMkdVbmhsZEhZdzlwd3V2bzctMEJlQTE1cjNlTUJUU2hOTlE?oc=5"
+                "date": "2026-10-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfR3g4ek9FM0FFdE1IVXZTem4tWGVjVjFrbEVETk13eXRYS3FpcjlsdWxLVmQyOTI4Y2dtS3BQbXJrdy01RjdRTXNMRlBiV0xVeXc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "何立峰会见金融监管总局国际咨询委员会委员时指出：中国将继续扩大金融高水平开放，加快建设金融强国",
+                "title": "官方定调L2禁用智驾“小蓝灯”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583054.htm"
+            },
+            {
+                "title": "联手小鹏三年，新车月均仅卖267辆：大众在中国卡在了哪里？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583052.htm"
+            },
+            {
+                "title": "鸿蒙智行抢滩海外，问界计划采用“博世inside”方案｜36氪独家",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-20",
-                "url": "https://36kr.com/newsflashes/4033610876933257?f=rss"
+                "url": "https://36kr.com/p/4034025645560963?f=rss"
             },
             {
-                "title": "国内六大最佳翻 墙梯 子推荐V P N排行！SSR-2vray节 点翻 墙软件魔 法上外 网科 学 上 网方案",
-                "source": "NewsAPI / Cnodejs.org",
+                "title": "法国首台小鹏 MONA L03 交付，集团董事长、CEO 何小鹏亲自交车",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-20",
-                "url": "https://cnodejs.org/topic/49332"
+                "url": "https://www.ithome.com/1/015/415.htm"
             },
             {
-                "title": "三季度1.92亿人次出入境，入境外国人超七成免签",
-                "source": "NewsAPI / 36kr.com",
+                "title": "大众在华“联姻与离婚”策略曝光：曾想联手比亚迪 对比亚迪成本优势惊讶",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-20",
-                "url": "https://36kr.com/newsflashes/4033576006718598?f=rss"
-            },
-            {
-                "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-20",
-                "url": "http://www.geekpark.net/news/372583"
-            },
-            {
-                "title": "DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-20",
-                "url": "http://www.geekpark.net/news/372568"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583034.htm"
             },
             {
                 "title": "2026年10月20日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kV1ZhMjNheXZ6M3lXck8yRFJLVll0cEJyVmlvVnpoYl9aWEJGRjR2eDhHYU84S2ZrcFBBc0tMLTJaZWRXLXJXUEVGTmFpeXM4bDMzd0U4V2IyZ1hkV1VmbVN5OWxzSDU5OE9KcERsOHVyS09uZ2c?oc=5"
             },
             {
-                "title": "2026年10月19日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-19",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMk4tY0hvNDRNdjJrYzFtbXRJYTdSeV91RFJTbDNhUk44RVRINnBJa0JrZlVQcDNFdE8wNDlPOWRTR3RHYjQzNnA5WFgyTVJDemhzdlY5bks0SnBpMmVmR2tpUTYxYlg1NDBRdVE1aW56VjgyU0E?oc=5"
-            },
-            {
                 "title": "王毅同保加利亚外长共见记者谈欧亚之行的四点感受 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-20",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Oc2lTRjVrTXdNS2hQb1RzcXFzbXlpR3l3T1BNVjNKblUxZXpuSUstbnBYd0R0cnliMXZKX0ZtbnBKWlV0eFdGNGx1U0s5YmY5S0NQVWtMZFhadVI4d2Rmb1gwbzRucVMtdHhYc3R3?oc=5"
+            },
+            {
+                "title": "驻莫桑比克大使郑璇出席援莫医疗队义诊活动 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-20",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUpGaUtyNmRla212M2w5RnVvOEJqR3ZOUmMtN1F5UEhrbVZkY2dxWDRwcUExSVlkZW5PbWVpN2tTd25WOFF5bGlFN25QWUdUYnh5UmdPRkpYc0FENmFJYmVOeXBsUHJIWG4yVXJ3UHI0UTl2SXNVbDJDbWV5Sld0d2xwR1Y?oc=5"
             },
             {
                 "title": "警惕！日本强化战略绑定，扩张不断加速 - 军网",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCUmFIcFNZb2lLVm9sc2E3dU5PeTh1ZThhc1owZWQ4cWV0QnZXQUo3djRXZ19YOXBsRVQ4RTNJMHhkd0dRdUtDSE5jclI?oc=5"
             },
             {
-                "title": "百年荣光·我见证｜三本号谱，长征出发地号声不息 - 军网",
+                "title": "从“一次定型”走向“持续迭代”——“可升级”成为多国弹药设计新指标 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-19",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jcDd0amNjcFdnQlNFM0NUVmlzUnVzcVNGclhKZ1pOT0ZGS3haRXhRMkdVbmhsZEhZdzlwd3V2bzctMEJlQTE1cjNlTUJUU2hOTlE?oc=5"
+                "date": "2026-10-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfR3g4ek9FM0FFdE1IVXZTem4tWGVjVjFrbEVETk13eXRYS3FpcjlsdWxLVmQyOTI4Y2dtS3BQbXJrdy01RjdRTXNMRlBiV0xVeXc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-21T03:12:01.906329+00:00"
+    "last_updated": "2026-10-21T11:06:29.809435+00:00"
 }
