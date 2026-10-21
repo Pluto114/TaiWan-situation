@@ -12,6 +12,18 @@
     "news_sources": {
         "econ": [
             {
+                "title": "三星改进Exynos基带能效 Galaxy S27有望缩小与骁龙版的续航差距",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583118.htm"
+            },
+            {
+                "title": "西班牙运营商提离谱要求：华为应补偿设备被禁用带来的损失",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583108.htm"
+            },
+            {
                 "title": "DeepSeek工程师参与华为芯片设计 训练环节彻底去英伟达化",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-20",
@@ -28,18 +40,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-20",
                 "url": "https://www.ftchinese.com/story/001111160"
-            },
-            {
-                "title": "债务“叠罗汉”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-20",
-                "url": "https://www.ftchinese.com/story/001111146"
-            },
-            {
-                "title": "报告：香港成俄罗斯伊朗规避制裁枢纽 敦促美国加强金融施压",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-20",
-                "url": "https://www.voachinese.com/a/report-urges-tougher-us-action-over-hong-kong-s-role-in-russian-and-iranian-sanctions-evasion-20261020/8213235.html"
             }
         ],
         "mil": [
@@ -86,10 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Oc2lTRjVrTXdNS2hQb1RzcXFzbXlpR3l3T1BNVjNKblUxZXpuSUstbnBYd0R0cnliMXZKX0ZtbnBKWlV0eFdGNGx1U0s5YmY5S0NQVWtMZFhadVI4d2Rmb1gwbzRucVMtdHhYc3R3?oc=5"
             },
             {
-                "title": "毛宁：王毅外长将出席2026全球治理论坛（雄安）开幕式 - 中华人民共和国外交部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDF2RDlnaElBM2tMZ2JlVWtiZTMzb2tfcUN4MDl4eDRBMmc4YjB0N1FNMXpxc3VBSjB3TzB1cmZIcHVpeHhjX1NaZVNqODN0UE5LamJvb0s2blR4RmZxeXpzdlBnbjFRTnhYeTZwbW4wUjN4UThmZDg0YllUUEVQSkxTM2JRSnpYbmtLTFI2c1I?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "警惕！日本强化战略绑定，扩张不断加速 - 军网",
@@ -112,6 +112,24 @@
         ],
         "pol": [
             {
+                "title": "美国务院赴华旅行警示增设“D”标识，因为“美国人在中国面临非法拘押的严重风险”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-20",
+                "url": "https://www.voachinese.com/a/us-revised-travel-warning-for-china-20261020/8213355.html"
+            },
+            {
+                "title": "国安局示警中共网攻认知战 日均侵扰258万次(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-20",
+                "url": "https://www.secretchina.com/news/gb/2026/10/21/1106342.html"
+            },
+            {
+                "title": "西班牙运营商提离谱要求：华为应补偿设备被禁用带来的损失",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583108.htm"
+            },
+            {
                 "title": "法国骚乱期间 路易威登、爱马仕等奢侈品零售商遭洗劫",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-20",
@@ -122,24 +140,6 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-20",
                 "url": "https://www.ftchinese.com/story/001111161"
-            },
-            {
-                "title": "法国：骚乱与挑战",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-20",
-                "url": "https://www.ftchinese.com/story/001111160"
-            },
-            {
-                "title": "债务“叠罗汉”",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-20",
-                "url": "https://www.ftchinese.com/story/001111146"
-            },
-            {
-                "title": "TikTok内部员工多次警告儿童安全风险 高管被指未采取充分行动",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583082.htm"
             },
             {
                 "title": "2026年10月20日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -154,10 +154,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Oc2lTRjVrTXdNS2hQb1RzcXFzbXlpR3l3T1BNVjNKblUxZXpuSUstbnBYd0R0cnliMXZKX0ZtbnBKWlV0eFdGNGx1U0s5YmY5S0NQVWtMZFhadVI4d2Rmb1gwbzRucVMtdHhYc3R3?oc=5"
             },
             {
-                "title": "毛宁：王毅外长将出席2026全球治理论坛（雄安）开幕式 - 中华人民共和国外交部",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDF2RDlnaElBM2tMZ2JlVWtiZTMzb2tfcUN4MDl4eDRBMmc4YjB0N1FNMXpxc3VBSjB3TzB1cmZIcHVpeHhjX1NaZVNqODN0UE5LamJvb0s2blR4RmZxeXpzdlBnbjFRTnhYeTZwbW4wUjN4UThmZDg0YllUUEVQSkxTM2JRSnpYbmtLTFI2c1I?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "警惕！日本强化战略绑定，扩张不断加速 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-21T16:33:40.476856+00:00"
+    "last_updated": "2026-10-21T21:12:48.483158+00:00"
 }
