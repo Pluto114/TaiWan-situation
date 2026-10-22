@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "上交所召开首批主动ETF市场动员会",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英国拟取消家庭燃气账单上的每日固定费用",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-21",
-                "url": "https://36kr.com/newsflashes/4035500668048513?f=rss"
+                "url": "https://www.ftchinese.com/story/001111170"
             },
             {
-                "title": "中办、国办：加快培育科技型初创企业，完善创业孵化、投融资等服务保障",
-                "source": "NewsAPI / 36kr.com",
+                "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-21",
-                "url": "https://36kr.com/newsflashes/4035467781346179?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583248.htm"
             },
             {
-                "title": "Synaptics 推出 Astra SR200 MCU：内置谷歌 Coral NPU，集成高带宽定制 DRAM",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-21",
-                "url": "https://www.ithome.com/1/016/027.htm"
-            },
-            {
-                "title": "当车企要说为「人类自由」奋斗时，它在说什么",
+                "title": "奇瑞说，中国家庭的下一台车是摩托",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-21",
-                "url": "http://www.geekpark.net/news/372698"
+                "url": "http://www.geekpark.net/news/372692"
             },
             {
-                "title": "为什么澳网重押中国市场？",
-                "source": "NewsAPI / 36kr.com",
+                "title": "Visa 发布三项商业支付能力：开启 AI 智能体支付试点，预测 B2B 虚拟卡价值 2029 年将达 14.6 万亿美元",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-21",
-                "url": "https://36kr.com/p/4035301769728900?f=rss"
+                "url": "https://www.ithome.com/1/016/101.htm"
+            },
+            {
+                "title": "富士康加码美国AI布局 斥资逾5400万美元扩展硅谷生产基地",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583236.htm"
             }
         ],
         "mil": [
+            {
+                "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583248.htm"
+            },
+            {
+                "title": "奇瑞说，中国家庭的下一台车是摩托",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-21",
+                "url": "http://www.geekpark.net/news/372692"
+            },
+            {
+                "title": "亚特兰大拟禁止“机器警察”上岗 市议会一致支持限制武装机器人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583232.htm"
+            },
+            {
+                "title": "台湾起诉5人，指其为中国“跨境镇压”嘲讽习近平的台湾喜剧演员",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-21",
+                "url": "https://www.voachinese.com/a/taiwan-indicts-5-for-attack-on-comedian-who-satirized-china-s-xi-20261021/8213620.html"
+            },
             {
                 "title": "前太平洋司令部司令：台湾应慎防中共将演习转为突袭(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -50,40 +74,16 @@
                 "url": "https://www.secretchina.com/news/gb/2026/10/21/1106372.html"
             },
             {
-                "title": "当车企要说为「人类自由」奋斗时，它在说什么",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-21",
-                "url": "http://www.geekpark.net/news/372698"
-            },
-            {
-                "title": "为什么澳网重押中国市场？",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-21",
-                "url": "https://36kr.com/p/4035301769728900?f=rss"
-            },
-            {
-                "title": "内幕曝光：马斯克下令“星链”降速 曾与特朗普“通气”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583170.htm"
-            },
-            {
-                "title": "德国量子系统的Apex Recordhunter提速至777公里/小时 冲击电动飞行器速度纪录",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583148.htm"
+                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
             },
             {
                 "title": "2026年10月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-21",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV0NFUTlVV0pxY191NWJjRmFfNW5Ha2UwSnJDWUZpM2hsQlR4U1U1Vk40NnlYVDN3VkFRRF9sQWo4d2RYM1QySk5RRl95SkJyQlZybUlRZW5EblNDZGhjeFc4TkJIZzVOWU91eF9xc3FGV2w2eXc?oc=5"
-            },
-            {
-                "title": "李强出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqWEg5OFZST1phQ3dHQk9RcmNFeHVlT0hCdDRmR0hwQlRaVW8xbXFYN3JXRWdvaGxzWGg4UnJXVUcyYWM4elBydlpKTW1tbmEwejNyMkZzYVhjUzRhOE4zRG0xYU1hWlRIUUVV?oc=5"
             },
             {
                 "title": "毛宁：王毅外长将出席2026全球治理论坛（雄安）开幕式 - 中华人民共和国外交部",
@@ -112,46 +112,46 @@
         ],
         "pol": [
             {
-                "title": "高压电池缺陷致车辆存在起火风险：大众全球召回约 7.27 万辆电动汽车，涉及 ID.3/4/7 等车型",
-                "source": "NewsAPI / Ithome.com",
+                "title": "英国拟取消家庭燃气账单上的每日固定费用",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-21",
-                "url": "https://www.ithome.com/1/016/001.htm"
+                "url": "https://www.ftchinese.com/story/001111170"
             },
             {
-                "title": "为什么澳网重押中国市场？",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英国政府批准开发北海杰克道天然气田",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-21",
-                "url": "https://36kr.com/p/4035301769728900?f=rss"
+                "url": "https://www.ftchinese.com/story/001111169"
             },
             {
-                "title": "联想拟筹集20亿美元贷款，低成本置换旧债",
-                "source": "NewsAPI / 36kr.com",
+                "title": "AI时代的阅读、教学和信任危机",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-21",
-                "url": "https://36kr.com/newsflashes/4035338439086981?f=rss"
+                "url": "https://www.ftchinese.com/story/001111163"
             },
             {
-                "title": "Anthropic招股书透露大量信息：营收暴增却巨亏 算力成掣肘",
+                "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583198.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583248.htm"
             },
             {
-                "title": "最高赔偿487万 宝马员工争着离职挤崩内部系统",
+                "title": "OpenAI宣布利用先进AI发现PHP严重漏洞 联合全球安全机构展开紧急修复行动",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583194.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583242.htm"
+            },
+            {
+                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
             },
             {
                 "title": "2026年10月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-21",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV0NFUTlVV0pxY191NWJjRmFfNW5Ha2UwSnJDWUZpM2hsQlR4U1U1Vk40NnlYVDN3VkFRRF9sQWo4d2RYM1QySk5RRl95SkJyQlZybUlRZW5EblNDZGhjeFc4TkJIZzVOWU91eF9xc3FGV2w2eXc?oc=5"
-            },
-            {
-                "title": "李强出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-20",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqWEg5OFZST1phQ3dHQk9RcmNFeHVlT0hCdDRmR0hwQlRaVW8xbXFYN3JXRWdvaGxzWGg4UnJXVUcyYWM4elBydlpKTW1tbmEwejNyMkZzYVhjUzRhOE4zRG0xYU1hWlRIUUVV?oc=5"
             },
             {
                 "title": "毛宁：王毅外长将出席2026全球治理论坛（雄安）开幕式 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-22T11:06:46.501630+00:00"
+    "last_updated": "2026-10-22T16:34:59.524951+00:00"
 }
