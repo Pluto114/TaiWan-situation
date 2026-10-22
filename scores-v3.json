@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "拆解黄仁勋AI制造业论：从芯片到机房的全链路揭秘",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-10-21",
+                "url": "https://post.smzdm.com/p/a3mxmqrr/"
+            },
+            {
                 "title": "英国拟取消家庭燃气账单上的每日固定费用",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-21",
@@ -34,15 +40,27 @@
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-21",
                 "url": "https://www.ithome.com/1/016/101.htm"
-            },
-            {
-                "title": "富士康加码美国AI布局 斥资逾5400万美元扩展硅谷生产基地",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583236.htm"
             }
         ],
         "mil": [
+            {
+                "title": "VOA今日焦点 (2026年10月22日) 台湾指中国“跨境镇压” 嘲讽习近平的相声演员",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-21",
+                "url": "https://www.voachinese.com/a/8209048.html"
+            },
+            {
+                "title": "一文读懂：中国有权要求美国军舰“无害通过”前事先通知吗？国际法怎么说？",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-21",
+                "url": "https://www.voachinese.com/a/can-china-require-u-s-warships-to-give-prior-notice-20261021/8213773.html"
+            },
+            {
+                "title": "美战争部批准测试热射线武器 或用于边境执法(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-21",
+                "url": "https://www.secretchina.com/news/gb/2026/10/22/1106400.html"
+            },
             {
                 "title": "欧盟议员警告：马斯克旗下SpaceX的扩张野心可能对欧洲构成“危险”",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,28 +74,10 @@
                 "url": "http://www.geekpark.net/news/372692"
             },
             {
-                "title": "亚特兰大拟禁止“机器警察”上岗 市议会一致支持限制武装机器人",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583232.htm"
-            },
-            {
-                "title": "台湾起诉5人，指其为中国“跨境镇压”嘲讽习近平的台湾喜剧演员",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-21",
-                "url": "https://www.voachinese.com/a/taiwan-indicts-5-for-attack-on-comedian-who-satirized-china-s-xi-20261021/8213620.html"
-            },
-            {
-                "title": "前太平洋司令部司令：台湾应慎防中共将演习转为突袭(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-21",
-                "url": "https://www.secretchina.com/news/gb/2026/10/21/1106372.html"
-            },
-            {
-                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "王毅同吉布提外长奥马尔会谈 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
+                "date": "2026-10-21",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkxkWmRXbXJVVWszZFN3akVNSGE5MjBVaHByYXJRY1Fzck9hYXNJZXVhNFJ2YWpSNGE5dlMyNkIyUmlyTFVtdWMweFdTaFpKZlNlMEJkRVg1MjNmVmZlWjJYRjU4RFp4eHU2S1FtaXRrbVpsWHI4dTBabElPZDJZV2t5eGN3N0dfcnhHa0h3?oc=5"
             },
             {
                 "title": "2026年10月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV0NFUTlVV0pxY191NWJjRmFfNW5Ha2UwSnJDWUZpM2hsQlR4U1U1Vk40NnlYVDN3VkFRRF9sQWo4d2RYM1QySk5RRl95SkJyQlZybUlRZW5EblNDZGhjeFc4TkJIZzVOWU91eF9xc3FGV2w2eXc?oc=5"
             },
             {
-                "title": "毛宁：王毅外长将出席2026全球治理论坛（雄安）开幕式 - 中华人民共和国外交部",
+                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDF2RDlnaElBM2tMZ2JlVWtiZTMzb2tfcUN4MDl4eDRBMmc4YjB0N1FNMXpxc3VBSjB3TzB1cmZIcHVpeHhjX1NaZVNqODN0UE5LamJvb0s2blR4RmZxeXpzdlBnbjFRTnhYeTZwbW4wUjN4UThmZDg0YllUUEVQSkxTM2JRSnpYbmtLTFI2c1I?oc=5"
-            },
-            {
-                "title": "玉渊潭｜“草鞋踏破关山月” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQThmb0Z4LTBHbnVUWGRaSkZVUVpqOHg2V3MwWkNPRWl3aWduTDJydnZSUWF0ZkdNTkQ0MnlCUWRSX2czSXRvejhQbHZsbjQtY2c?oc=5"
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
             },
             {
                 "title": "梁振英出席第四届粤港澳大湾区发展工商大会开幕式并致辞 - 中国军网",
@@ -104,13 +98,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zU0RGTjgxOUNWYlNnWVJPY3NYNmRNUmtrWVFiaUZDOHJFZVRlM292R3V1NG1Kd1ZmdldaRWpGSjJqVm0wcXRCREhlc1BFNml2cFE?oc=5"
             },
             {
-                "title": "赴山河 从头越——追随统帅回望长征之路丨至诚 - 中国军网",
+                "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EaHE2RTE1YWMxTkJhVzgtMW1uUEpRWVVKWTNVaEVKWndCYjR2LV8xVUhKMzFQUEpRbGw1NGJsdHZNRlB0QmRzZEpqWQ?oc=5"
+            },
+            {
+                "title": "第一观察丨今天中国的进步和发展，就是从长征中走出来的 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCUmFIcFNZb2lLVm9sc2E3dU5PeTh1ZThhc1owZWQ4cWV0QnZXQUo3djRXZ19YOXBsRVQ4RTNJMHhkd0dRdUtDSE5jclI?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTGNTbkp1b2M1YnQzdTV1d0J3WFlxZlZHdkpmVEhtWmJEZlU2aVItSUhTcjFESWhhbGlHOXZ2c0prTjh0VnJmdlR6MU4wSlVGYmc?oc=5"
+            },
+            {
+                "title": "浙江海事局 - 浙江海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUlCaXdYd1k1aFQzMEhWVnR4TnA4MHcwMDcyNHZreVloR21LMVZDeHFvVldKU3pSeHp5Uk5mSGxOZDh4SVE1YTRYelJweVpMTDVwOTBRTFI1VGI4Ry0tc2lMUFlIVm1ZR0wwYmZEY2h4ZzVvWklVV2pKcklsQmtjNDlXME0?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "VOA今日焦点 (2026年10月22日) 台湾指中国“跨境镇压” 嘲讽习近平的相声演员",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-21",
+                "url": "https://www.voachinese.com/a/8209048.html"
+            },
             {
                 "title": "英国拟取消家庭燃气账单上的每日固定费用",
                 "source": "NewsAPI / Ftchinese.com",
@@ -136,16 +148,10 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1583248.htm"
             },
             {
-                "title": "OpenAI宣布利用先进AI发现PHP严重漏洞 联合全球安全机构展开紧急修复行动",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-21",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583242.htm"
-            },
-            {
-                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "王毅同吉布提外长奥马尔会谈 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
+                "date": "2026-10-21",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkxkWmRXbXJVVWszZFN3akVNSGE5MjBVaHByYXJRY1Fzck9hYXNJZXVhNFJ2YWpSNGE5dlMyNkIyUmlyTFVtdWMweFdTaFpKZlNlMEJkRVg1MjNmVmZlWjJYRjU4RFp4eHU2S1FtaXRrbVpsWHI4dTBabElPZDJZV2t5eGN3N0dfcnhHa0h3?oc=5"
             },
             {
                 "title": "2026年10月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -154,16 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV0NFUTlVV0pxY191NWJjRmFfNW5Ha2UwSnJDWUZpM2hsQlR4U1U1Vk40NnlYVDN3VkFRRF9sQWo4d2RYM1QySk5RRl95SkJyQlZybUlRZW5EblNDZGhjeFc4TkJIZzVOWU91eF9xc3FGV2w2eXc?oc=5"
             },
             {
-                "title": "毛宁：王毅外长将出席2026全球治理论坛（雄安）开幕式 - 中华人民共和国外交部",
+                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDF2RDlnaElBM2tMZ2JlVWtiZTMzb2tfcUN4MDl4eDRBMmc4YjB0N1FNMXpxc3VBSjB3TzB1cmZIcHVpeHhjX1NaZVNqODN0UE5LamJvb0s2blR4RmZxeXpzdlBnbjFRTnhYeTZwbW4wUjN4UThmZDg0YllUUEVQSkxTM2JRSnpYbmtLTFI2c1I?oc=5"
-            },
-            {
-                "title": "玉渊潭｜“草鞋踏破关山月” - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQThmb0Z4LTBHbnVUWGRaSkZVUVpqOHg2V3MwWkNPRWl3aWduTDJydnZSUWF0ZkdNTkQ0MnlCUWRSX2czSXRvejhQbHZsbjQtY2c?oc=5"
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
             },
             {
                 "title": "梁振英出席第四届粤港澳大湾区发展工商大会开幕式并致辞 - 中国军网",
@@ -172,13 +172,25 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zU0RGTjgxOUNWYlNnWVJPY3NYNmRNUmtrWVFiaUZDOHJFZVRlM292R3V1NG1Kd1ZmdldaRWpGSjJqVm0wcXRCREhlc1BFNml2cFE?oc=5"
             },
             {
-                "title": "赴山河 从头越——追随统帅回望长征之路丨至诚 - 中国军网",
+                "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话 - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EaHE2RTE1YWMxTkJhVzgtMW1uUEpRWVVKWTNVaEVKWndCYjR2LV8xVUhKMzFQUEpRbGw1NGJsdHZNRlB0QmRzZEpqWQ?oc=5"
+            },
+            {
+                "title": "第一观察丨今天中国的进步和发展，就是从长征中走出来的 - 中国军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCUmFIcFNZb2lLVm9sc2E3dU5PeTh1ZThhc1owZWQ4cWV0QnZXQUo3djRXZ19YOXBsRVQ4RTNJMHhkd0dRdUtDSE5jclI?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTGNTbkp1b2M1YnQzdTV1d0J3WFlxZlZHdkpmVEhtWmJEZlU2aVItSUhTcjFESWhhbGlHOXZ2c0prTjh0VnJmdlR6MU4wSlVGYmc?oc=5"
+            },
+            {
+                "title": "浙江海事局 - 浙江海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUlCaXdYd1k1aFQzMEhWVnR4TnA4MHcwMDcyNHZreVloR21LMVZDeHFvVldKU3pSeHp5Uk5mSGxOZDh4SVE1YTRYelJweVpMTDVwOTBRTFI1VGI4Ry0tc2lMUFlIVm1ZR0wwYmZEY2h4ZzVvWklVV2pKcklsQmtjNDlXME0?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-22T16:34:59.524951+00:00"
+    "last_updated": "2026-10-22T21:09:51.744992+00:00"
 }
