@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "AI 的力量：SpaceX、Anthropic、英伟达助力科技股摆脱低迷",
+                "title": "AMD 谈锐龙 9 9950X3D2：游戏应用尚不足以支撑双 3D V-Cache 需求，但 AI 使其变为可行",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-22",
-                "url": "https://www.ithome.com/1/016/251.htm"
+                "url": "https://www.ithome.com/1/016/643.htm"
             },
             {
-                "title": "马斯克：计划建造 Optimus 人形机器人学校，Terafab 经济价值可跻身全球前 20 经济体",
+                "title": "苹果首款折叠屏手机 iPhone Duo 京东率先开售：国行 15999 元起，7.6 英寸内屏配 A20 Pro",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-22",
-                "url": "https://www.ithome.com/1/016/249.htm"
+                "url": "https://www.ithome.com/1/016/621.htm"
             },
             {
-                "title": "2025年我国海洋生产总值突破11万亿元",
+                "title": "李成钢会见美国通用电气航空航天集团民用发动机与服务总裁兼首席执行官穆罕默德·阿里",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-22",
-                "url": "https://36kr.com/newsflashes/4036403782407303?f=rss"
+                "url": "https://36kr.com/newsflashes/4036820072715400?f=rss"
             },
             {
-                "title": "工业和信息化部工业软件标准化技术委员会成立",
+                "title": "中微公司 Primo Domingo 全球首台付运，面向 GAA 与 3D DRAM 高选择性刻蚀",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-22",
-                "url": "https://www.ithome.com/1/016/202.htm"
+                "url": "https://www.ithome.com/1/016/510.htm"
             },
             {
-                "title": "一加 Ace 7/Pro 手机官宣 10 月 29 日发布：定位“性能直升”的双旗舰",
-                "source": "NewsAPI / Ithome.com",
+                "title": "报道称苹果将iPhone Duo全年出货目标上调44% 至1400万台",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-22",
-                "url": "https://www.ithome.com/1/016/198.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583366.htm"
             }
         ],
         "mil": [
             {
-                "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
+                "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-22",
-                "url": "http://www.geekpark.net/news/372711"
+                "url": "http://www.geekpark.net/news/372743"
             },
             {
-                "title": "今日消费资讯：居舍酒店带来沉浸式剧场系列《WITHIN》、voco 古晋酒店开业",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-10-22",
-                "url": "https://www.toodaylab.com/84260"
-            },
-            {
-                "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-22",
-                "url": "http://www.geekpark.net/news/372710"
-            },
-            {
-                "title": "IT早报 1022：苹果 iPhone Duo 三方应用界面首曝；问界、神木警方回应汽车碰撞起火司机遇难事件；马斯克暗示 SpaceX+ 特斯拉合并；荣耀 WIN 2 手机发布...",
+                "title": "大黑边问题解决：腾讯 QQ 官宣完成 iPhone Duo 适配",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-21",
-                "url": "https://www.ithome.com/1/016/181.htm"
+                "date": "2026-10-22",
+                "url": "https://www.ithome.com/1/016/491.htm"
             },
             {
-                "title": "8点1氪丨宝马离职补偿最高487万，员工争着离职挤爆系统；iPhone Duo全球限购，每位顾客限购2台；Meta第三季度营收646亿美元，同比增长26%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-21",
-                "url": "https://36kr.com/p/4036266730886018?f=rss"
+                "title": "PHP致命漏洞肆虐 全球七成网站面临威胁 多国企业连夜“下线”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583350.htm"
+            },
+            {
+                "title": "美参议员桑德斯批评马斯克试图“买下”中期选举",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583348.htm"
+            },
+            {
+                "title": "美日“利剑”演习聚焦“台湾有事”台防长肯定维护区域稳定(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-22",
+                "url": "https://www.secretchina.com/news/gb/2026/10/22/1106418.html"
+            },
+            {
+                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
             },
             {
                 "title": "王毅同吉布提外长奥马尔会谈 - 中华人民共和国外交部",
@@ -80,16 +86,16 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkxkWmRXbXJVVWszZFN3akVNSGE5MjBVaHByYXJRY1Fzck9hYXNJZXVhNFJ2YWpSNGE5dlMyNkIyUmlyTFVtdWMweFdTaFpKZlNlMEJkRVg1MjNmVmZlWjJYRjU4RFp4eHU2S1FtaXRrbVpsWHI4dTBabElPZDJZV2t5eGN3N0dfcnhHa0h3?oc=5"
             },
             {
-                "title": "2026年10月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV0NFUTlVV0pxY191NWJjRmFfNW5Ha2UwSnJDWUZpM2hsQlR4U1U1Vk40NnlYVDN3VkFRRF9sQWo4d2RYM1QySk5RRl95SkJyQlZybUlRZW5EblNDZGhjeFc4TkJIZzVOWU91eF9xc3FGV2w2eXc?oc=5"
-            },
-            {
-                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "不能把中东战火烧向非洲之角 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHdMYlVoN2JGWi1HeGMzLVl1Rk1WY0FHOXEyRWZwMl9fMXlLQm56UXFIWXlHa25iOC1kRU8yN1NBN2NkcDUtdEt6c0x3cUI1MjlBM25RSnBIYzVnRW1FLWIyTjAwMjI5NTZzeDl2WEFzYVNrdmdvUmZOU2NLOXpUT1hzUDM5Nm5EQkppLTUtbDg?oc=5"
+            },
+            {
+                "title": "玉渊潭｜“草鞋踏破关山月” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQThmb0Z4LTBHbnVUWGRaSkZVUVpqOHg2V3MwWkNPRWl3aWduTDJydnZSUWF0ZkdNTkQ0MnlCUWRSX2czSXRvejhQbHZsbjQtY2c?oc=5"
             },
             {
                 "title": "梁振英出席第四届粤港澳大湾区发展工商大会开幕式并致辞 - 中国军网",
@@ -102,12 +108,6 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-22",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wREo0OHZjclpUUW1VY3lYamxGSVBrd1I5ODRGd0QxYkdsU2V2ZEdwV3BKUGd5WnAyVHZoclJoUGRwR3hoc195cElPdXVydUlOVVE?oc=5"
-            },
-            {
-                "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-22",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EaHE2RTE1YWMxTkJhVzgtMW1uUEpRWVVKWTNVaEVKWndCYjR2LV8xVUhKMzFQUEpRbGw1NGJsdHZNRlB0QmRzZEpqWQ?oc=5"
             },
             {
                 "title": "浙江海事局 - 浙江海事局",
@@ -118,34 +118,40 @@
         ],
         "pol": [
             {
-                "title": "曾暴涨 7 倍，大模型企业 MiniMax 股价跌破 IPO 发行价",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-22",
-                "url": "https://www.ithome.com/1/016/269.htm"
-            },
-            {
-                "title": "AI 的力量：SpaceX、Anthropic、英伟达助力科技股摆脱低迷",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-22",
-                "url": "https://www.ithome.com/1/016/251.htm"
-            },
-            {
-                "title": "Hey OnStar 登场：通用汽车推出 OnStar AI，能看懂车辆、听懂车主表述",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-22",
-                "url": "https://www.ithome.com/1/016/200.htm"
-            },
-            {
-                "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-22",
-                "url": "http://www.geekpark.net/news/372711"
-            },
-            {
-                "title": "风险交织催生套保新需求，期货公司加速向产业“风险管家”转型",
+                "title": "欧盟接近达成证券化改革方案，力争释放数十亿欧元资金",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-22",
-                "url": "https://36kr.com/newsflashes/4036301120541570?f=rss"
+                "url": "https://36kr.com/newsflashes/4036890851054720?f=rss"
+            },
+            {
+                "title": "木蹊说｜90天大限已到：中国离岸富豪，开始补税了",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-10-22",
+                "url": "https://chinadigitaltimes.net/chinese/733142.html"
+            },
+            {
+                "title": "马斯克承认特斯拉 FSD 在华无领先优势，正积极争取监管审批加速落地",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-22",
+                "url": "https://www.ithome.com/1/016/616.htm"
+            },
+            {
+                "title": "亚马逊警告：人工智能发现的新型网络安全漏洞正遭到“大规模利用”",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583362.htm"
+            },
+            {
+                "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-22",
+                "url": "http://www.geekpark.net/news/372743"
+            },
+            {
+                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-22",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
             },
             {
                 "title": "王毅同吉布提外长奥马尔会谈 - 中华人民共和国外交部",
@@ -154,16 +160,16 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkxkWmRXbXJVVWszZFN3akVNSGE5MjBVaHByYXJRY1Fzck9hYXNJZXVhNFJ2YWpSNGE5dlMyNkIyUmlyTFVtdWMweFdTaFpKZlNlMEJkRVg1MjNmVmZlWjJYRjU4RFp4eHU2S1FtaXRrbVpsWHI4dTBabElPZDJZV2t5eGN3N0dfcnhHa0h3?oc=5"
             },
             {
-                "title": "2026年10月21日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-21",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEV0NFUTlVV0pxY191NWJjRmFfNW5Ha2UwSnJDWUZpM2hsQlR4U1U1Vk40NnlYVDN3VkFRRF9sQWo4d2RYM1QySk5RRl95SkJyQlZybUlRZW5EblNDZGhjeFc4TkJIZzVOWU91eF9xc3FGV2w2eXc?oc=5"
-            },
-            {
-                "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "不能把中东战火烧向非洲之角 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-22",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VSVlkQkJWWUNCdThrbVpvcU5jMWxoRDBIRnFWUW9SaG9RZkhtYjlnOFBIUmY4SkJPQWJMd2xzVzdFQzY0MnRnREZ1c3dJc09uSUg4dDFqeU1ZdWprcGZsOFc1MEJ3UE91ekpVYXVCcm5DMEZPU1E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHdMYlVoN2JGWi1HeGMzLVl1Rk1WY0FHOXEyRWZwMl9fMXlLQm56UXFIWXlHa25iOC1kRU8yN1NBN2NkcDUtdEt6c0x3cUI1MjlBM25RSnBIYzVnRW1FLWIyTjAwMjI5NTZzeDl2WEFzYVNrdmdvUmZOU2NLOXpUT1hzUDM5Nm5EQkppLTUtbDg?oc=5"
+            },
+            {
+                "title": "玉渊潭｜“草鞋踏破关山月” - 中国军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtQThmb0Z4LTBHbnVUWGRaSkZVUVpqOHg2V3MwWkNPRWl3aWduTDJydnZSUWF0ZkdNTkQ0MnlCUWRSX2czSXRvejhQbHZsbjQtY2c?oc=5"
             },
             {
                 "title": "梁振英出席第四届粤港澳大湾区发展工商大会开幕式并致辞 - 中国军网",
@@ -178,12 +184,6 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wREo0OHZjclpUUW1VY3lYamxGSVBrd1I5ODRGd0QxYkdsU2V2ZEdwV3BKUGd5WnAyVHZoclJoUGRwR3hoc195cElPdXVydUlOVVE?oc=5"
             },
             {
-                "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话 - 中国军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-22",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EaHE2RTE1YWMxTkJhVzgtMW1uUEpRWVVKWTNVaEVKWndCYjR2LV8xVUhKMzFQUEpRbGw1NGJsdHZNRlB0QmRzZEpqWQ?oc=5"
-            },
-            {
                 "title": "浙江海事局 - 浙江海事局",
                 "source": "官方信源 / 海事局",
                 "date": "2026-10-22",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-23T03:16:15.576282+00:00"
+    "last_updated": "2026-10-23T10:58:08.268401+00:00"
 }
