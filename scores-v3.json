@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "PHP漏洞危机进入第二天：黑客攻击激增至百万次 多国政府服务仍处于中断状态",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583418.htm"
+            },
+            {
                 "title": "里程碑时刻！曝华为鸿蒙 HarmonyOS 系统装机量突破 1 亿台",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-22",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-22",
                 "url": "https://www.ftchinese.com/story/001111174"
-            },
-            {
-                "title": "索康尼增长放缓，特步主品牌跌势未止",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-22",
-                "url": "https://www.ftchinese.com/story/001111180"
             }
         ],
         "mil": [
+            {
+                "title": "中国有没有权要求美国军舰事先通知？(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-22",
+                "url": "https://www.secretchina.com/news/gb/2026/10/23/1106443.html"
+            },
             {
                 "title": "里程碑时刻！曝华为鸿蒙 HarmonyOS 系统装机量突破 1 亿台",
                 "source": "NewsAPI / Ithome.com",
@@ -66,12 +72,6 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-22",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1583410.htm"
-            },
-            {
-                "title": "台风“蔷琵”袭台导致航班取消 干扰美日联合军演(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-22",
-                "url": "https://www.secretchina.com/news/gb/2026/10/22/1106435.html"
             },
             {
                 "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
+                "title": "中菲外交争议持续，马尼拉批评中国驻菲使馆言论“升级且有违外交礼仪”",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-22",
+                "url": "https://www.voachinese.com/a/philippine-mfa-criticizes-chinese-embassy-social-media-posts-as-undiplomatic-20261022/8214075.html"
+            },
+            {
+                "title": "美国IPO市场陷入“瘫痪” Anthropic被寄望打破僵局",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583420.htm"
+            },
+            {
+                "title": "PHP漏洞危机进入第二天：黑客攻击激增至百万次 多国政府服务仍处于中断状态",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583418.htm"
+            },
+            {
+                "title": "特朗普称曾考虑将大西洋改名 Google CEO皮查伊劝其放弃",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-22",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583414.htm"
+            },
+            {
                 "title": "分离、移民、省权扩张：加拿大阿尔伯塔省公投",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-22",
                 "url": "https://www.ftchinese.com/story/001111177"
-            },
-            {
-                "title": "为何英国社会那么难懂？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-22",
-                "url": "https://www.ftchinese.com/story/001111178"
-            },
-            {
-                "title": "伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-22",
-                "url": "https://www.ftchinese.com/story/001111174"
-            },
-            {
-                "title": "iPhone Duo开售前全球果粉排队抢购 供应紧张或让多数人空手而归",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583412.htm"
-            },
-            {
-                "title": "报道称五角大楼设立技术支持办公室TSO 为秘密破坏行动研发工具",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583410.htm"
             },
             {
                 "title": "2026年10月22日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-23T16:24:38.289929+00:00"
+    "last_updated": "2026-10-23T20:56:35.698645+00:00"
 }
