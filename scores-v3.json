@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "美国将氦列入关键材料清单 供应链中断风险上升",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583616.htm"
+                "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-24",
+                "url": "https://www.ithome.com/1/017/310.htm"
             },
             {
-                "title": "华为案庭审第24天 FBI会计师追踪“美元之路”(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-23",
-                "url": "https://www.secretchina.com/news/gb/2026/10/24/1106450.html"
+                "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-24",
+                "url": "https://36kr.com/p/4039177193411718?f=rss"
             },
             {
-                "title": "中国工厂大规模拆解RTX 5090改造AI加速卡 英伟达高端游戏显卡流向再引关注",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583614.htm"
+                "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-24",
+                "url": "http://www.geekpark.net/news/372858"
             },
             {
-                "title": "Shein同意支付1亿美元与美国联邦贸易委员会达成和解",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583610.htm"
+                "url": "https://www.ithome.com/1/017/291.htm"
             },
             {
-                "title": "乌克兰称星链网速限制仍未解除",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583590.htm"
+                "url": "https://www.ithome.com/1/017/288.htm"
             }
         ],
         "mil": [
+            {
+                "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-24",
+                "url": "http://www.geekpark.net/news/372858"
+            },
+            {
+                "title": "IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-23",
+                "url": "https://www.ithome.com/1/017/291.htm"
+            },
+            {
+                "title": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-23",
+                "url": "https://www.ithome.com/1/017/286.htm"
+            },
+            {
+                "title": "伊朗据称已制定海底互联网电缆袭击计划 海湾地区数字基础设施或成目标",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583620.htm"
+            },
             {
                 "title": "约旦河西岸突发致命枪击案 以色列大选前夕安全局势骤然升温(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -50,30 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/10/23/1106490.html"
             },
             {
-                "title": "乌克兰称星链网速限制仍未解除",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583590.htm"
-            },
-            {
-                "title": "中共五中全会将登场：习近平再掌权六年？",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-23",
-                "url": "https://www.dw.com/zh/%E4%B8%AD%E5%85%B1%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%B0%86%E7%99%BB%E5%9C%BA%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%8D%E6%8E%8C%E6%9D%83%E5%85%AD%E5%B9%B4/a-79741768"
-            },
-            {
-                "title": "雷鸟眼镜宣布《英雄联盟》2026 全球总决赛 BLG 战队不夺冠退全款",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-23",
-                "url": "https://www.ithome.com/1/017/091.htm"
-            },
-            {
-                "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-23",
-                "url": "https://36kr.com/newsflashes/4038155965846657?f=rss"
-            },
-            {
                 "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-24",
@@ -92,54 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMURuaWhQTEk0Ym9tX0Q2TUhobE1NN3FFWHRDUnFvNG9TUDNLX1hMZ2d0Um9qMlpmTXFaMGZJUjhFNVpmY1FFZVFfekNLa1pVRlZPdU14UlNDZGVzcVBDeGM1NTJVcXhDNmlNaDM3SnFab25VQzlaOWlxcWFyamFZMU9vNFBtT1hRTUtDenBVVWM?oc=5"
             },
             {
-                "title": "《红军长征档案史料选编》出版发行 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-24",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KZHljN0U2TzhzZ2pXUW9XcFRWZnByQVdNLThQUmtEX0FGYUFkc0xSN1BCUXRXczVibFdhdldQaHlWU2QwSzNOQklfQXVLOTNQYWRLVGVxMTVyYWItMTlqYQ?oc=5"
-            },
-            {
                 "title": "胜利的方向丨一口裂了缝的水缸，为何被叫作“红军锅”？ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-23",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RTHZNZnp3SDU4NllweDYyQS1OakhwMmJFTGFNMDYwRFNpNWN2UlZJaW9aem5nREY0amdXQ05hWlMxVmg1N3pXdHFFRFY?oc=5"
             },
             {
-                "title": "空军某部盘活存量资源将勤俭节约要求融入日常 - 军网",
+                "title": "战舰蹈浪 砺剑深海——海军某登陆舰支队组织协同训练见闻 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iemVPcjFhZVFHZGRPMnZ0NmhIT2lZQnk0WHdlbGw1WnZsSEpMNUZ4NkNPNl9ubmdLWDVaWmJCU3JxUjcyTU1LWDQwR1Y1V0ZiTVE?oc=5"
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81dEpGOE1WOS1hemk3bFZSZlFDR3hBR1c2M2cwWktSSU5FUFBzX3Bzb2l3azVCVklReVNFenlVel9SNERVVFgzdG9tb05xbTl0N0E?oc=5"
+            },
+            {
+                "title": "怎么看中国终将统一也必将统一的历史大势不可阻挡 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kVFpsUjdrcnJaS0p6SVl6bnQ5ZGQwZWdfbElyX0Y2dFRrMXJiOGx2c3MxRXFBaFN6cktSQ09rWDd3R0tfdHk5MmxSb1lVNWtpQkE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "菲律宾就第二托马斯浅滩军舰警告中国：拖走“马德雷山”号将被视为“战争行为”",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-23",
-                "url": "https://www.voachinese.com/a/philippine-warns-china-towing-away-brp-sierra-madre-would-be-act-of-war-20261023/8214549.html"
+                "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-24",
+                "url": "https://36kr.com/p/4039177193411718?f=rss"
             },
             {
-                "title": "英国发布《香港半年报告》指港府国安打压延伸海外 并呼吁释放黎智英",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-23",
-                "url": "https://www.voachinese.com/a/uk-report-says-hong-kong-security-laws-reach-overseas-as-advocates-call-for-stronger-protection-20261023/8214560.html"
+                "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-24",
+                "url": "http://www.geekpark.net/news/372858"
             },
             {
-                "title": "日本钇库存据报仅存数月后 美驻日大使痛批中国政府将关键矿产当作“政治武器”",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-23",
-                "url": "https://www.voachinese.com/a/us-ambassador-to-japan-slams-china-s-rare-earth-restrictions-on-tokyo-20261023/8214531.html"
+                "title": "苹果首款折叠 iPhone Duo 开售首日，部分用户反馈屏幕问题",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-24",
+                "url": "https://www.ithome.com/1/017/299.htm"
             },
             {
-                "title": "中国工厂大规模拆解RTX 5090改造AI加速卡 英伟达高端游戏显卡流向再引关注",
+                "title": "巴黎三家Apple Store周六均暂停营业 警方加强部署应对示威",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583614.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583622.htm"
             },
             {
-                "title": "Shein同意支付1亿美元与美国联邦贸易委员会达成和解",
+                "title": "伊朗据称已制定海底互联网电缆袭击计划 海湾地区数字基础设施或成目标",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-23",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583610.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583620.htm"
             },
             {
                 "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东 - 中华人民共和国外交部",
@@ -160,25 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMURuaWhQTEk0Ym9tX0Q2TUhobE1NN3FFWHRDUnFvNG9TUDNLX1hMZ2d0Um9qMlpmTXFaMGZJUjhFNVpmY1FFZVFfekNLa1pVRlZPdU14UlNDZGVzcVBDeGM1NTJVcXhDNmlNaDM3SnFab25VQzlaOWlxcWFyamFZMU9vNFBtT1hRTUtDenBVVWM?oc=5"
             },
             {
-                "title": "《红军长征档案史料选编》出版发行 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-24",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KZHljN0U2TzhzZ2pXUW9XcFRWZnByQVdNLThQUmtEX0FGYUFkc0xSN1BCUXRXczVibFdhdldQaHlWU2QwSzNOQklfQXVLOTNQYWRLVGVxMTVyYWItMTlqYQ?oc=5"
-            },
-            {
                 "title": "胜利的方向丨一口裂了缝的水缸，为何被叫作“红军锅”？ - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-23",
                 "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RTHZNZnp3SDU4NllweDYyQS1OakhwMmJFTGFNMDYwRFNpNWN2UlZJaW9aem5nREY0amdXQ05hWlMxVmg1N3pXdHFFRFY?oc=5"
             },
             {
-                "title": "空军某部盘活存量资源将勤俭节约要求融入日常 - 军网",
+                "title": "战舰蹈浪 砺剑深海——海军某登陆舰支队组织协同训练见闻 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iemVPcjFhZVFHZGRPMnZ0NmhIT2lZQnk0WHdlbGw1WnZsSEpMNUZ4NkNPNl9ubmdLWDVaWmJCU3JxUjcyTU1LWDQwR1Y1V0ZiTVE?oc=5"
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81dEpGOE1WOS1hemk3bFZSZlFDR3hBR1c2M2cwWktSSU5FUFBzX3Bzb2l3azVCVklReVNFenlVel9SNERVVFgzdG9tb05xbTl0N0E?oc=5"
+            },
+            {
+                "title": "怎么看中国终将统一也必将统一的历史大势不可阻挡 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kVFpsUjdrcnJaS0p6SVl6bnQ5ZGQwZWdfbElyX0Y2dFRrMXJiOGx2c3MxRXFBaFN6cktSQ09rWDd3R0tfdHk5MmxSb1lVNWtpQkE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-24T20:09:32.927433+00:00"
+    "last_updated": "2026-10-25T03:04:58.346704+00:00"
 }
