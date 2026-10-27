@@ -12,6 +12,12 @@
     "news_sources": {
         "econ": [
             {
+                "title": "微软拟向约6万名员工提供自愿离职方案 预计接受比例远低于上一轮",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583946.htm"
+            },
+            {
                 "title": "卢拉逆势连任，巴西何以有为？",
                 "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-26",
@@ -34,15 +40,15 @@
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-26",
                 "url": "https://www.cnbeta.com.tw/articles/tech/1583934.htm"
-            },
-            {
-                "title": "中国驻英国使馆发言人回应所谓“中国制造业崛起对西方高端产业形成冲击”",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-26",
-                "url": "https://36kr.com/newsflashes/4042700809474947?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-26",
+                "url": "https://www.voachinese.com/a/8210700.html"
+            },
             {
                 "title": "About a Designer (8) 别太艺术家了，前端工程师",
                 "source": "NewsAPI / Beforweb.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1583902.htm"
             },
             {
-                "title": "美国制造业重新开始增加就业岗位 但门槛日渐升高",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583898.htm"
-            },
-            {
                 "title": "2026年10月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-26",
@@ -92,6 +92,12 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWczTVlXNjM3amVwY1RPaFl0eVlBTkNyVGRHYS1QQy1OUjM1ZHpKVkU1cWNfTGZiR2lrVFd4QnRaUHRhd2p6NUdzVWhqZXAwQ3MtQWxHa21mUkh3dUZzblJRX0g0R2xHN1NvTDNaVl9LMldMSTdKM09hdERBMTBJSWtXcmo3aE1UVEloR1ZDVHk?oc=5"
             },
             {
+                "title": "走好群众路线，贵在做到“来”与“去” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUEZYMEhkTHZrVUMzM1hrTUFsMXFUZTlxUDV2RkJvN0EzSUUtMVJRV3ZhcGRYa2FXMWtYVk9MdWtwOTNVX3RSMHJqb0k5NUlzMUE?oc=5"
+            },
+            {
                 "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-27",
@@ -102,12 +108,6 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cTFkWE9MamhSS2tuU0dRdlRNeThnaktTRTFoNkE0LWNiWGk2bTFROFZRVy1YV29SVXFyUkZ6dl9yZ2wtYUFZMzdJbUJubElGaGc?oc=5"
-            },
-            {
-                "title": "《军报每天读》20261026 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAydVFzbWpjWkFlWEw0Q3B1VjJLOVVlYzI5YlFGdWFWamQ0YkpfQkQwRFhtTXhvR25oZXppLTlNbzROVkdueHgyNzdLbll3NDNIY2VqRg?oc=5"
             },
             {
                 "title": "浙江海事局3份提案在东京备忘录通过 推动亚太地区港口国监督选船规则重大调整 - 浙江海事局",
@@ -123,6 +123,12 @@
             }
         ],
         "pol": [
+            {
+                "title": "前加国外交官：中共“指定居所监视居住”如何瓦解意志(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-26",
+                "url": "https://www.secretchina.com/news/gb/2026/10/27/1106583.html"
+            },
             {
                 "title": "卢拉逆势连任，巴西何以有为？",
                 "source": "NewsAPI / Ftchinese.com",
@@ -148,12 +154,6 @@
                 "url": "https://www.dw.com/zh/%E5%A5%A5%E8%BF%AAceo%E7%8E%B0%E8%BA%AB%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%8C%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%B7%E5%9B%BD%E5%B7%A5%E4%BC%9A%E6%80%92%E6%89%B9%E8%BF%9D%E5%8F%8D%E4%B8%AD%E7%AB%8B%E8%A7%84%E5%AE%9A/a-79765364"
             },
             {
-                "title": "Anthropic公开递交纳斯达克IPO申请 目标下月16日当周上市",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583932.htm"
-            },
-            {
                 "title": "2026年10月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-26",
@@ -172,6 +172,12 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWczTVlXNjM3amVwY1RPaFl0eVlBTkNyVGRHYS1QQy1OUjM1ZHpKVkU1cWNfTGZiR2lrVFd4QnRaUHRhd2p6NUdzVWhqZXAwQ3MtQWxHa21mUkh3dUZzblJRX0g0R2xHN1NvTDNaVl9LMldMSTdKM09hdERBMTBJSWtXcmo3aE1UVEloR1ZDVHk?oc=5"
             },
             {
+                "title": "走好群众路线，贵在做到“来”与“去” - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-25",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUEZYMEhkTHZrVUMzM1hrTUFsMXFUZTlxUDV2RkJvN0EzSUUtMVJRV3ZhcGRYa2FXMWtYVk9MdWtwOTNVX3RSMHJqb0k5NUlzMUE?oc=5"
+            },
+            {
                 "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-27",
@@ -182,12 +188,6 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cTFkWE9MamhSS2tuU0dRdlRNeThnaktTRTFoNkE0LWNiWGk2bTFROFZRVy1YV29SVXFyUkZ6dl9yZ2wtYUFZMzdJbUJubElGaGc?oc=5"
-            },
-            {
-                "title": "《军报每天读》20261026 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAydVFzbWpjWkFlWEw0Q3B1VjJLOVVlYzI5YlFGdWFWamQ0YkpfQkQwRFhtTXhvR25oZXppLTlNbzROVkdueHgyNzdLbll3NDNIY2VqRg?oc=5"
             },
             {
                 "title": "浙江海事局3份提案在东京备忘录通过 推动亚太地区港口国监督选船规则重大调整 - 浙江海事局",
@@ -204,5 +204,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-10-27T17:24:54.855082+00:00"
+    "last_updated": "2026-10-27T21:47:05.865083+00:00"
 }
