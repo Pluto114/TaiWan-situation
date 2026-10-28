@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "微软拟向约6万名员工提供自愿离职方案 预计接受比例远低于上一轮",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583946.htm"
-            },
-            {
-                "title": "卢拉逆势连任，巴西何以有为？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-26",
-                "url": "https://www.ftchinese.com/story/001111209"
-            },
-            {
-                "title": "About a Designer (8) 别太艺术家了，前端工程师",
-                "source": "NewsAPI / Beforweb.com",
-                "date": "2026-10-26",
-                "url": "http://beforweb.com/node/1167"
-            },
-            {
-                "title": "IPO 文件阐述 Anthropic 的野心：AI 有望解决过去几代人未能攻克的难题",
+                "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-26",
-                "url": "https://www.ithome.com/1/018/171.htm"
+                "date": "2026-10-27",
+                "url": "https://www.ithome.com/1/018/270.htm"
             },
             {
-                "title": "Anthropic上市 押上的几乎是整个AI市场",
+                "title": "中国AI科技股泡沫破裂：科创50近四个月暴跌40% 市值蒸发约4800亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583934.htm"
+                "date": "2026-10-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583972.htm"
+            },
+            {
+                "title": "人工智能热潮只属于七家公司 标普500其余行业尚未分享红利",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583970.htm"
+            },
+            {
+                "title": "2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录、DeepSeek 梁文锋首次上榜位列第七",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-27",
+                "url": "https://www.ithome.com/1/018/268.htm"
+            },
+            {
+                "title": "这家全球汽零巨头，为何跨界做机器人？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-27",
+                "url": "https://36kr.com/p/4043530020115590?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "36氪首发丨红杉、高瓴、智元投过的全身触觉解决方案公司再获亿元级融资，团队来自港科大",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-27",
+                "url": "https://36kr.com/p/4043477378880388?f=rss"
+            },
+            {
+                "title": "IT早报 1027：人类史上最大 IPO 之 Anthropic 提交 IPO 申请；5499 元起苹果 iPad mini 8 发布；奥迪中国四环与字母标分家；多所高校将通过数字人民币发工资...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-26",
+                "url": "https://www.ithome.com/1/018/205.htm"
+            },
             {
                 "title": "《VOA今日焦点》音频",
                 "source": "NewsAPI / Voachinese.com",
@@ -62,18 +74,6 @@
                 "url": "https://www.voachinese.com/a/japan-rolls-out-new-missile-with-1-000-km-ship-strike-capability-during-major-drill-with-the-us-20261026/8215261.html"
             },
             {
-                "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-10-26",
-                "url": "http://www.geekpark.net/news/372943"
-            },
-            {
-                "title": "空客将与BAE系统就参与GCAP战斗机项目展开谈判",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583902.htm"
-            },
-            {
                 "title": "2026年10月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-26",
@@ -92,16 +92,16 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWczTVlXNjM3amVwY1RPaFl0eVlBTkNyVGRHYS1QQy1OUjM1ZHpKVkU1cWNfTGZiR2lrVFd4QnRaUHRhd2p6NUdzVWhqZXAwQ3MtQWxHa21mUkh3dUZzblJRX0g0R2xHN1NvTDNaVl9LMldMSTdKM09hdERBMTBJSWtXcmo3aE1UVEloR1ZDVHk?oc=5"
             },
             {
-                "title": "走好群众路线，贵在做到“来”与“去” - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUEZYMEhkTHZrVUMzM1hrTUFsMXFUZTlxUDV2RkJvN0EzSUUtMVJRV3ZhcGRYa2FXMWtYVk9MdWtwOTNVX3RSMHJqb0k5NUlzMUE?oc=5"
-            },
-            {
                 "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2a3pzVWhJQnZSQkJRX2oxR3RYT2xWTkRiZ3dyUVJhbXVaSGFOWE9KT1M0ZkNHYkJ2NkUwUGhzZEFGUmFGZmV3RV9yN3FwZHhURXc?oc=5"
+            },
+            {
+                "title": "从传统文化中汲取修养智慧丨祸难生于邪心 邪心诱于可欲 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ya3ltTzhwcVJXSGgxUHk5Q3pLaFdSOHVJdVJudldMc0pzYUY1dkZyTE9Qc3JBVmR0YWZzdGxNVlAwaTBDMGR2b0ttMG03S2N4Unc?oc=5"
             },
             {
                 "title": "保持“即刻出发”的状态 - 军网",
@@ -114,44 +114,38 @@
                 "source": "官方信源 / 海事局",
                 "date": "2026-10-26",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPRTNNM2JibWZPZWY4Rm1JaFlWTEszS2lPaW9LZU4xYTNNVVRNZVIwWWZEZF92RTI5VTlCeUUwX2s0MC0tZW0yVzlXZTBtWTh5and2UTJTRnhpREhaeFlsUGVaYWlZbWREbF9kS3J3?oc=5"
-            },
-            {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-10-27",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTJDZWVmVTV1N2Z1Z1MtN1N0Rm5fZ2hSSktCNW5TbEtGMjRxdUFNMG9xcVp5Z0VpUGFPZUJ1UzF0ZWdaT0QyTUpqc2lfY2stZWxnWS1EZUswQVI5MldMQWpTWFZfVVFJYWQ3aEdwNC14ZDdBYWY1aUExSnB1S19QRHhB?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "前加国外交官：中共“指定居所监视居住”如何瓦解意志(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-26",
-                "url": "https://www.secretchina.com/news/gb/2026/10/27/1106583.html"
+                "title": "剑指美股人形和仿生机器人第一股，FFR 完成对 FFAI 的合并交易并挂牌上市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-27",
+                "url": "https://www.ithome.com/1/018/301.htm"
             },
             {
-                "title": "卢拉逆势连任，巴西何以有为？",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-26",
-                "url": "https://www.ftchinese.com/story/001111209"
+                "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-27",
+                "url": "https://www.ithome.com/1/018/270.htm"
             },
             {
-                "title": "Anthropic公开IPO招股书 将登陆纳斯达克",
+                "title": "中国AI科技股泡沫破裂：科创50近四个月暴跌40% 市值蒸发约4800亿美元",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583944.htm"
+                "date": "2026-10-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583972.htm"
             },
             {
-                "title": "奥迪CEO现身竞选集会挺特朗普　德国工会怒批违反中立规定",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-26",
-                "url": "https://www.dw.com/zh/%E5%A5%A5%E8%BF%AAceo%E7%8E%B0%E8%BA%AB%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%8C%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%B7%E5%9B%BD%E5%B7%A5%E4%BC%9A%E6%80%92%E6%89%B9%E8%BF%9D%E5%8F%8D%E4%B8%AD%E7%AB%8B%E8%A7%84%E5%AE%9A/a-79765364"
+                "title": "人工智能热潮只属于七家公司 标普500其余行业尚未分享红利",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1583970.htm"
             },
             {
-                "title": "奥迪CEO现身竞选集会挺特朗普　德国工会怒批违反中立规定",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-10-26",
-                "url": "https://www.dw.com/zh/%E5%A5%A5%E8%BF%AAceo%E7%8E%B0%E8%BA%AB%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%8C%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%B7%E5%9B%BD%E5%B7%A5%E4%BC%9A%E6%80%92%E6%89%B9%E8%BF%9D%E5%8F%8D%E4%B8%AD%E7%AB%8B%E8%A7%84%E5%AE%9A/a-79765364"
+                "title": "2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录、DeepSeek 梁文锋首次上榜位列第七",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-27",
+                "url": "https://www.ithome.com/1/018/268.htm"
             },
             {
                 "title": "2026年10月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -172,16 +166,16 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWczTVlXNjM3amVwY1RPaFl0eVlBTkNyVGRHYS1QQy1OUjM1ZHpKVkU1cWNfTGZiR2lrVFd4QnRaUHRhd2p6NUdzVWhqZXAwQ3MtQWxHa21mUkh3dUZzblJRX0g0R2xHN1NvTDNaVl9LMldMSTdKM09hdERBMTBJSWtXcmo3aE1UVEloR1ZDVHk?oc=5"
             },
             {
-                "title": "走好群众路线，贵在做到“来”与“去” - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUEZYMEhkTHZrVUMzM1hrTUFsMXFUZTlxUDV2RkJvN0EzSUUtMVJRV3ZhcGRYa2FXMWtYVk9MdWtwOTNVX3RSMHJqb0k5NUlzMUE?oc=5"
-            },
-            {
                 "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2a3pzVWhJQnZSQkJRX2oxR3RYT2xWTkRiZ3dyUVJhbXVaSGFOWE9KT1M0ZkNHYkJ2NkUwUGhzZEFGUmFGZmV3RV9yN3FwZHhURXc?oc=5"
+            },
+            {
+                "title": "从传统文化中汲取修养智慧丨祸难生于邪心 邪心诱于可欲 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-27",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ya3ltTzhwcVJXSGgxUHk5Q3pLaFdSOHVJdVJudldMc0pzYUY1dkZyTE9Qc3JBVmR0YWZzdGxNVlAwaTBDMGR2b0ttMG03S2N4Unc?oc=5"
             },
             {
                 "title": "保持“即刻出发”的状态 - 军网",
@@ -194,15 +188,9 @@
                 "source": "官方信源 / 海事局",
                 "date": "2026-10-26",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPRTNNM2JibWZPZWY4Rm1JaFlWTEszS2lPaW9LZU4xYTNNVVRNZVIwWWZEZF92RTI5VTlCeUUwX2s0MC0tZW0yVzlXZTBtWTh5and2UTJTRnhpREhaeFlsUGVaYWlZbWREbF9kS3J3?oc=5"
-            },
-            {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-10-27",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTJDZWVmVTV1N2Z1Z1MtN1N0Rm5fZ2hSSktCNW5TbEtGMjRxdUFNMG9xcVp5Z0VpUGFPZUJ1UzF0ZWdaT0QyTUpqc2lfY2stZWxnWS1EZUswQVI5MldMQWpTWFZfVVFJYWQ3aEdwNC14ZDdBYWY1aUExSnB1S19QRHhB?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-27T21:47:05.865083+00:00"
+    "last_updated": "2026-10-28T03:52:26.142164+00:00"
 }
