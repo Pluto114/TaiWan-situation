@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
+                "title": "波音 2026 财年前三季度报归母亏损 8.23 亿美元，同比亏损收窄 86.82%",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-27",
-                "url": "https://www.ithome.com/1/018/270.htm"
+                "url": "https://www.ithome.com/1/018/644.htm"
             },
             {
-                "title": "中国AI科技股泡沫破裂：科创50近四个月暴跌40% 市值蒸发约4800亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583972.htm"
-            },
-            {
-                "title": "人工智能热潮只属于七家公司 标普500其余行业尚未分享红利",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583970.htm"
-            },
-            {
-                "title": "2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录、DeepSeek 梁文锋首次上榜位列第七",
+                "title": "景嘉微 2026 年前三季度归母净亏损 1.85 亿元，同比由盈转亏",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-27",
-                "url": "https://www.ithome.com/1/018/268.htm"
+                "url": "https://www.ithome.com/1/018/591.htm"
             },
             {
-                "title": "这家全球汽零巨头，为何跨界做机器人？",
+                "title": "首例iPhone Duo外屏绿线 没摔没磕碰",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584012.htm"
+            },
+            {
+                "title": "上海：推进工业5G/EUHT独立专网试点，支持部署5G-A、万兆光网等高质量网络",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-27",
-                "url": "https://36kr.com/p/4043530020115590?f=rss"
+                "url": "https://36kr.com/newsflashes/4043932941882247?f=rss"
+            },
+            {
+                "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-10-27",
+                "url": "http://www.geekpark.net/news/373008"
             }
         ],
         "mil": [
+            {
+                "title": "波音 2026 财年前三季度报归母亏损 8.23 亿美元，同比亏损收窄 86.82%",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-27",
+                "url": "https://www.ithome.com/1/018/644.htm"
+            },
+            {
+                "title": "当AI学会了预测，发现马斯克的预测不靠谱",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-10-27",
+                "url": "https://36kr.com/p/4043729792635779?f=rss"
+            },
+            {
+                "title": "阿里巴巴起诉美国防部获胜 特朗普政府一项禁令被叫停",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584004.htm"
+            },
             {
                 "title": "36氪首发丨红杉、高瓴、智元投过的全身触觉解决方案公司再获亿元级融资，团队来自港科大",
                 "source": "NewsAPI / 36kr.com",
@@ -56,34 +74,16 @@
                 "url": "https://www.ithome.com/1/018/205.htm"
             },
             {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-26",
-                "url": "https://www.voachinese.com/a/8210700.html"
-            },
-            {
-                "title": "About a Designer (8) 别太艺术家了，前端工程师",
-                "source": "NewsAPI / Beforweb.com",
-                "date": "2026-10-26",
-                "url": "http://beforweb.com/node/1167"
-            },
-            {
-                "title": "日本在“利剑2027”演习展示25式陆基反舰导弹，射程可覆盖中国部分海岸线",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-26",
-                "url": "https://www.voachinese.com/a/japan-rolls-out-new-missile-with-1-000-km-ship-strike-capability-during-major-drill-with-the-us-20261026/8215261.html"
-            },
-            {
-                "title": "2026年10月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQS29lVE5RaWhPYUVtb2p0SnJwTGVyMEpvYXVlSE5PLVkyQXFRMHl4YTZOMHkwcG0wVjFfMlVSWHdidjVIUTZ2VHVQU2NGX25HSTdLYW5TZHVRUGRvU0dKcGtpTjFpR3hING12clJXQkd1bXZwTWc?oc=5"
-            },
-            {
                 "title": "2026年10月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-27",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZHBSVWNKZE16QlB3b0RIT09oNzdvWF9xaVdQTm03bWVFWWRRcVJsVUpvMkNIbjlBd0JuR3lSQ3piMU1VQzBCZEl3YjhxN3R0cXZMZXpENV9BNmxONUV3RXJmaEMzbnFDWG1oU0REblFSU1hmUGc?oc=5"
+            },
+            {
+                "title": "习近平向日本前首相福田康夫遗属致唁电 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-27",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90bWtoUUZ0UzRpRW5DTHpUb2hXVWotOG1zOHNOM19nWFNveTkxanVLUlRZWnFDdEN6b2otTXY2empSdmZvWkNpY1pxbUFaY1JSTW1OeTFJMkhxMGZmLTRmVGZaQmhLM3FRQnpr?oc=5"
             },
             {
                 "title": "郭嘉昆：东京审判是正义压倒邪恶的历史性审判 - 中华人民共和国外交部",
@@ -92,66 +92,54 @@
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWczTVlXNjM3amVwY1RPaFl0eVlBTkNyVGRHYS1QQy1OUjM1ZHpKVkU1cWNfTGZiR2lrVFd4QnRaUHRhd2p6NUdzVWhqZXAwQ3MtQWxHa21mUkh3dUZzblJRX0g0R2xHN1NvTDNaVl9LMldMSTdKM09hdERBMTBJSWtXcmo3aE1UVEloR1ZDVHk?oc=5"
             },
             {
+                "title": "澳大利亚向我国返还2件流失文物 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdkUzejk2aVh3d2J4eFZtUlpwY3pybmR4TDdWNk5qeU5RR1gtM2lCb051THd0T0tLTmk2Z0FkSFVRckZvcUdOWGh3aDJSVTdVZ1E?oc=5"
+            },
+            {
                 "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-27",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2a3pzVWhJQnZSQkJRX2oxR3RYT2xWTkRiZ3dyUVJhbXVaSGFOWE9KT1M0ZkNHYkJ2NkUwUGhzZEFGUmFGZmV3RV9yN3FwZHhURXc?oc=5"
             },
             {
-                "title": "从传统文化中汲取修养智慧丨祸难生于邪心 邪心诱于可欲 - 军网",
+                "title": "Surface-to-air missile streaks skyward - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ya3ltTzhwcVJXSGgxUHk5Q3pLaFdSOHVJdVJudldMc0pzYUY1dkZyTE9Qc3JBVmR0YWZzdGxNVlAwaTBDMGR2b0ttMG03S2N4Unc?oc=5"
-            },
-            {
-                "title": "保持“即刻出发”的状态 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cTFkWE9MamhSS2tuU0dRdlRNeThnaktTRTFoNkE0LWNiWGk2bTFROFZRVy1YV29SVXFyUkZ6dl9yZ2wtYUFZMzdJbUJubElGaGc?oc=5"
-            },
-            {
-                "title": "浙江海事局3份提案在东京备忘录通过 推动亚太地区港口国监督选船规则重大调整 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPRTNNM2JibWZPZWY4Rm1JaFlWTEszS2lPaW9LZU4xYTNNVVRNZVIwWWZEZF92RTI5VTlCeUUwX2s0MC0tZW0yVzlXZTBtWTh5and2UTJTRnhpREhaeFlsUGVaYWlZbWREbF9kS3J3?oc=5"
+                "date": "2026-10-28",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3a05FOGFuQmg4c3ltazVaTnhWTGNYSVZMRkVRd1RlSW1FSTVRS25ybFRNS2NzTHFmcUhtT3R0TEx0YmxWSExrWmROYjVWaTZqUEI4bXhJdGlLUE1XSDNRb3pUdXZqMGp6bDFfOEItTmkwTTQ?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "剑指美股人形和仿生机器人第一股，FFR 完成对 FFAI 的合并交易并挂牌上市",
+                "title": "担心生育旅游和安全风险，美暂停中国公民前往北马里亚纳群岛的免签计划",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-27",
+                "url": "https://www.voachinese.com/a/dhs-suspends-visa-free-travel-for-chinese-nationals-citing-birth-tourism-and-espionage-risks-20261027/8215642.html"
+            },
+            {
+                "title": "欧盟委员会接受 TEMU 整改计划，此前因违反 DSA 被罚 2 亿欧元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-27",
-                "url": "https://www.ithome.com/1/018/301.htm"
+                "url": "https://www.ithome.com/1/018/546.htm"
             },
             {
-                "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
-                "source": "NewsAPI / Ithome.com",
+                "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-27",
-                "url": "https://www.ithome.com/1/018/270.htm"
+                "url": "http://www.geekpark.net/news/373008"
             },
             {
-                "title": "中国AI科技股泡沫破裂：科创50近四个月暴跌40% 市值蒸发约4800亿美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583972.htm"
+                "url": "http://www.geekpark.net/news/373006"
             },
             {
-                "title": "人工智能热潮只属于七家公司 标普500其余行业尚未分享红利",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-27",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1583970.htm"
-            },
-            {
-                "title": "2026 胡润百富榜发布：张一鸣 6700 亿元刷新中国首富财富纪录、DeepSeek 梁文锋首次上榜位列第七",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-27",
-                "url": "https://www.ithome.com/1/018/268.htm"
-            },
-            {
-                "title": "2026年10月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQS29lVE5RaWhPYUVtb2p0SnJwTGVyMEpvYXVlSE5PLVkyQXFRMHl4YTZOMHkwcG0wVjFfMlVSWHdidjVIUTZ2VHVQU2NGX25HSTdLYW5TZHVRUGRvU0dKcGtpTjFpR3hING12clJXQkd1bXZwTWc?oc=5"
+                "url": "http://www.geekpark.net/news/373004"
             },
             {
                 "title": "2026年10月27日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -160,10 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZHBSVWNKZE16QlB3b0RIT09oNzdvWF9xaVdQTm03bWVFWWRRcVJsVUpvMkNIbjlBd0JuR3lSQ3piMU1VQzBCZEl3YjhxN3R0cXZMZXpENV9BNmxONUV3RXJmaEMzbnFDWG1oU0REblFSU1hmUGc?oc=5"
             },
             {
+                "title": "习近平向日本前首相福田康夫遗属致唁电 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-27",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90bWtoUUZ0UzRpRW5DTHpUb2hXVWotOG1zOHNOM19nWFNveTkxanVLUlRZWnFDdEN6b2otTXY2empSdmZvWkNpY1pxbUFaY1JSTW1OeTFJMkhxMGZmLTRmVGZaQmhLM3FRQnpr?oc=5"
+            },
+            {
                 "title": "郭嘉昆：东京审判是正义压倒邪恶的历史性审判 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-27",
                 "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWczTVlXNjM3amVwY1RPaFl0eVlBTkNyVGRHYS1QQy1OUjM1ZHpKVkU1cWNfTGZiR2lrVFd4QnRaUHRhd2p6NUdzVWhqZXAwQ3MtQWxHa21mUkh3dUZzblJRX0g0R2xHN1NvTDNaVl9LMldMSTdKM09hdERBMTBJSWtXcmo3aE1UVEloR1ZDVHk?oc=5"
+            },
+            {
+                "title": "澳大利亚向我国返还2件流失文物 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-28",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VdkUzejk2aVh3d2J4eFZtUlpwY3pybmR4TDdWNk5qeU5RR1gtM2lCb051THd0T0tLTmk2Z0FkSFVRckZvcUdOWGh3aDJSVTdVZ1E?oc=5"
             },
             {
                 "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
@@ -172,25 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2a3pzVWhJQnZSQkJRX2oxR3RYT2xWTkRiZ3dyUVJhbXVaSGFOWE9KT1M0ZkNHYkJ2NkUwUGhzZEFGUmFGZmV3RV9yN3FwZHhURXc?oc=5"
             },
             {
-                "title": "从传统文化中汲取修养智慧丨祸难生于邪心 邪心诱于可欲 - 军网",
+                "title": "Surface-to-air missile streaks skyward - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ya3ltTzhwcVJXSGgxUHk5Q3pLaFdSOHVJdVJudldMc0pzYUY1dkZyTE9Qc3JBVmR0YWZzdGxNVlAwaTBDMGR2b0ttMG03S2N4Unc?oc=5"
-            },
-            {
-                "title": "保持“即刻出发”的状态 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cTFkWE9MamhSS2tuU0dRdlRNeThnaktTRTFoNkE0LWNiWGk2bTFROFZRVy1YV29SVXFyUkZ6dl9yZ2wtYUFZMzdJbUJubElGaGc?oc=5"
-            },
-            {
-                "title": "浙江海事局3份提案在东京备忘录通过 推动亚太地区港口国监督选船规则重大调整 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-10-26",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPRTNNM2JibWZPZWY4Rm1JaFlWTEszS2lPaW9LZU4xYTNNVVRNZVIwWWZEZF92RTI5VTlCeUUwX2s0MC0tZW0yVzlXZTBtWTh5and2UTJTRnhpREhaeFlsUGVaYWlZbWREbF9kS3J3?oc=5"
+                "date": "2026-10-28",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3a05FOGFuQmg4c3ltazVaTnhWTGNYSVZMRkVRd1RlSW1FSTVRS25ybFRNS2NzTHFmcUhtT3R0TEx0YmxWSExrWmROYjVWaTZqUEI4bXhJdGlLUE1XSDNRb3pUdXZqMGp6bDFfOEItTmkwTTQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-28T03:52:26.142164+00:00"
+    "last_updated": "2026-10-28T12:02:59.638246+00:00"
 }
