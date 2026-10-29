@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "iQOO Neo12 手机发布：第五代骁龙 8 至尊版 + 散热风扇，国补到手价 3149 元起",
+                "title": "美国之音中文广播 (2026年10月29日)基辅和莫斯科官员说，俄罗斯占领的奥列什基市周边的停火已持续30小时；西班牙中部10月28日发生一起高速列车追尾事故，造成至少64人死亡",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-28",
+                "url": "https://www.voachinese.com/a/8211495.html"
+            },
+            {
+                "title": "出大事了？五角大楼令军队备战“90天自给” 多国劝民备粮(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-28",
+                "url": "https://www.secretchina.com/news/gb/2026/10/29/1106688.html"
+            },
+            {
+                "title": "最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-28",
-                "url": "https://www.ithome.com/1/019/165.htm"
+                "url": "https://www.ithome.com/1/019/251.htm"
             },
             {
-                "title": "亚马逊发布五款新 Alexa 智能家居设备：Echo Show 16 售 499.99 美元起",
-                "source": "NewsAPI / Ithome.com",
+                "title": "苹果上调教育商店 MacBook Neo 起售价至 649 美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-28",
-                "url": "https://www.ithome.com/1/019/164.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584212.htm"
             },
             {
-                "title": "国泰海通：全资子公司拟出资40亿元参与设立200亿元科创基金",
-                "source": "NewsAPI / 36kr.com",
+                "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-28",
-                "url": "https://36kr.com/newsflashes/4045449524237443?f=rss"
-            },
-            {
-                "title": "大众中国发布首个本土自研一体化技术矩阵“VEGA”，涵盖整车平台 + 电子电气架构 + 智能辅助驾驶",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-28",
-                "url": "https://www.ithome.com/1/019/151.htm"
-            },
-            {
-                "title": "在25万人的纽约漫展，一家中国公司排起了长队",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-28",
-                "url": "https://36kr.com/p/4045364265358471?f=rss"
+                "url": "http://www.geekpark.net/news/373084"
             }
         ],
         "mil": [
+            {
+                "title": "出大事了？五角大楼令军队备战“90天自给” 多国劝民备粮(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-28",
+                "url": "https://www.secretchina.com/news/gb/2026/10/29/1106688.html"
+            },
+            {
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-28",
+                "url": "https://www.voachinese.com/a/8211501.html"
+            },
+            {
+                "title": "从 AI 服务器 PCB 到五轴机床，国产工业母机订单已排到明年二季度",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-28",
+                "url": "https://www.ithome.com/1/019/228.htm"
+            },
             {
                 "title": "摩尔线程 2026 年前三季度归母净利润 3769.73 万元，营收 32.89 亿元同比增长 319.15%",
                 "source": "NewsAPI / Ithome.com",
@@ -56,40 +74,22 @@
                 "url": "http://www.geekpark.net/news/373059"
             },
             {
-                "title": "时薪20美元遛机器狗 这家美企要给宇树机器人装AI智能体",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584130.htm"
+                "title": "中国共产党第二十届中央委员会第五次全体会议公报 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-29",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Z21kNDdqaWg2TE40QkdWNndMdUFWeHQwcXBTUFFtVWtSTUkwa1F0dFp0aTllYi0zUjlUMEdSTGNJY1ZiUHBMLXVkNmNibkFJVUNaalFJeHdCQUtNOHhpandVZEYtV01hbUFn?oc=5"
             },
             {
-                "title": "美国一公司招人遛机器狗：时薪 20 美元，不用铲屎但可能要扛狗回来",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-28",
-                "url": "https://www.ithome.com/1/018/912.htm"
-            },
-            {
-                "title": "台湾九合一选举 国安官员示警北京介选(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-28",
-                "url": "https://www.secretchina.com/news/gb/2026/10/28/1106627.html"
-            },
-            {
-                "title": "驻科摩罗大使黄峥会见科摩罗农业、畜牧业、渔业商会主席 - 中华人民共和国外交部",
+                "title": "外交部发言人介绍瑞士联邦主席访华有关安排_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-28",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjdrLTdMblFDQWx5bzcyd1hwc3B0MDJ1M2trQ0pqLUQ1aXo4Yk5WWGZzVlJzZ1ZPVlZPdGhselQ4Y1BXY3NBODlaLVpRMEJVYVl1RjZ4Wmp6S1pHbFlpb0xXY2FuZWoyb2d6LWdqcXlkVE9CYkh2VWczMk9hdjdLRU9LZkZDV2xGRHc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZm14UUcxaEo2cE1MeVhSdi02LUVuOE9hVGQ2c3NCT1A0cHRhdmo3OGo3YmRlSDFySFhSTHI3dE01bjBLdE5MRUZZM2NXMm4zNnc1U1hvTU9PdnVwNDlucnlRNG9IemtVNVlWclo1MGpxWDg3SC1pamtKQnYxcHhwejIwYVZFRkE5YWFIdEZha1g?oc=5"
             },
             {
-                "title": "常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德大使会见新任美国常驻代表斯特格达 - 中华人民共和国外交部",
+                "title": "驻克罗地亚使馆临时代办王鹏出席萨格勒布绿色能源博览会大使论坛 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-28",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlpteVI1WUhPdVhfOTBuUkJ1TzJfUXJfeW4tSW5VNkM2emJUdjc1dGFua3lQa2NVdVFWLUdLcVp6UzFud3pza1JaVWFBSmNPMzl0UmxEcW5ndEJ0VjhvcFppLW9ZcjFiSnJkTlRQY0VjcTFSMWhscVlXbkNXa25GQmdyRV8?oc=5"
-            },
-            {
-                "title": "驻哥斯达黎加使馆临时代办徐铁飞出席第三届当代中国研究国际研讨会开幕式 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-28",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0FZZ19sOVE3MzZsTUhlUFBHdkZZSmxXaENLckg0dUdfd3JBOXdyRXBlcTFqQVhWVGxhV29GalEwRlBLU3o5akxZNklVTTZZZlFlc2d3U2lIUGRLZE5lVUk2ZHZTWVQ0US1YSFAwWTRULXJqOWFYX09JV05Ja0hqTEdVYk1kZDQxcnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGN5UktpSG5KT2dlN2lCRjRaOEdNdGFMU0pWQ2QwWGxtS2dVenY0LXFlWkZkS3U4X1cxdWZMTTdzdXRKWnRRSGlVZldmZW5keUNjTjJ4MWh3QVlnMVdJVWRRTVpVZmRQWjJ0UXVKRWlTTFJTTzY2YjYtTVVqM1hLUmo3UVo?oc=5"
             },
             {
                 "title": "澳大利亚向我国返还2件流失文物 - 军网",
@@ -104,66 +104,60 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96VnRFQTVscUpvS2JVcVhpaTV3T3V1Ty0zNlJtNVk0Sjk2WGhwTU1Lamh3Zm1WVmFxb3ota3pKQTVRM0xtS0V0aDVmQWwzbTVLN1Jtag?oc=5"
             },
             {
-                "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
+                "title": "Surface-to-air missile streaks skyward - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2a3pzVWhJQnZSQkJRX2oxR3RYT2xWTkRiZ3dyUVJhbXVaSGFOWE9KT1M0ZkNHYkJ2NkUwUGhzZEFGUmFGZmV3RV9yN3FwZHhURXc?oc=5"
-            },
-            {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2021-12-15",
-                "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9BVVJ0UURqREoxUlFhYUdLcHlqcFRqU19NYUZGV21lNHd2Y2t1ZU56aHo1Q0I3UUN5VU5rek94VQ?oc=5"
+                "date": "2026-10-28",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3a05FOGFuQmg4c3ltazVaTnhWTGNYSVZMRkVRd1RlSW1FSTVRS25ybFRNS2NzTHFmcUhtT3R0TEx0YmxWSExrWmROYjVWaTZqUEI4bXhJdGlLUE1XSDNRb3pUdXZqMGp6bDFfOEItTmkwTTQ?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "亚马逊发布五款新 Alexa 智能家居设备：Echo Show 16 售 499.99 美元起",
+                "title": "美国之音中文广播 (2026年10月29日)基辅和莫斯科官员说，俄罗斯占领的奥列什基市周边的停火已持续30小时；西班牙中部10月28日发生一起高速列车追尾事故，造成至少64人死亡",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-28",
+                "url": "https://www.voachinese.com/a/8211495.html"
+            },
+            {
+                "title": "空域政治化 台外交部谴责巴基斯坦扈从中国漠视现实(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-10-28",
+                "url": "https://www.secretchina.com/news/gb/2026/10/29/1106687.html"
+            },
+            {
+                "title": "胡塞武装再次袭击亚丁机场",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-10-28",
+                "url": "https://www.voachinese.com/a/houthi-rebels-strike-aden-airport-again-20261028/8216193.html"
+            },
+            {
+                "title": "苹果上架 70W/140W 新款 Mac 电源适配器，采用交流电源接口 2 方案",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-28",
-                "url": "https://www.ithome.com/1/019/164.htm"
+                "url": "https://www.ithome.com/1/019/252.htm"
             },
             {
-                "title": "在25万人的纽约漫展，一家中国公司排起了长队",
-                "source": "NewsAPI / 36kr.com",
+                "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-10-28",
-                "url": "https://36kr.com/p/4045364265358471?f=rss"
+                "url": "http://www.geekpark.net/news/373084"
             },
             {
-                "title": "恒生指数公司表示将Anthropic纳入恒生港美科技指数",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-28",
-                "url": "https://36kr.com/newsflashes/4045330841687176?f=rss"
+                "title": "中国共产党第二十届中央委员会第五次全体会议公报 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-29",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Z21kNDdqaWg2TE40QkdWNndMdUFWeHQwcXBTUFFtVWtSTUkwa1F0dFp0aTllYi0zUjlUMEdSTGNJY1ZiUHBMLXVkNmNibkFJVUNaalFJeHdCQUtNOHhpandVZEYtV01hbUFn?oc=5"
             },
             {
-                "title": "SK海力士警告：即使持续扩产 全球存储器供应紧张局面或延续至2030年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584160.htm"
-            },
-            {
-                "title": "创纪录温室气体浓度再创新高 世气组织警告气候影响将持续数百年",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-28",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584144.htm"
-            },
-            {
-                "title": "驻科摩罗大使黄峥会见科摩罗农业、畜牧业、渔业商会主席 - 中华人民共和国外交部",
+                "title": "外交部发言人介绍瑞士联邦主席访华有关安排_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-28",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjdrLTdMblFDQWx5bzcyd1hwc3B0MDJ1M2trQ0pqLUQ1aXo4Yk5WWGZzVlJzZ1ZPVlZPdGhselQ4Y1BXY3NBODlaLVpRMEJVYVl1RjZ4Wmp6S1pHbFlpb0xXY2FuZWoyb2d6LWdqcXlkVE9CYkh2VWczMk9hdjdLRU9LZkZDV2xGRHc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZm14UUcxaEo2cE1MeVhSdi02LUVuOE9hVGQ2c3NCT1A0cHRhdmo3OGo3YmRlSDFySFhSTHI3dE01bjBLdE5MRUZZM2NXMm4zNnc1U1hvTU9PdnVwNDlucnlRNG9IemtVNVlWclo1MGpxWDg3SC1pamtKQnYxcHhwejIwYVZFRkE5YWFIdEZha1g?oc=5"
             },
             {
-                "title": "常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德大使会见新任美国常驻代表斯特格达 - 中华人民共和国外交部",
+                "title": "驻克罗地亚使馆临时代办王鹏出席萨格勒布绿色能源博览会大使论坛 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-28",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlpteVI1WUhPdVhfOTBuUkJ1TzJfUXJfeW4tSW5VNkM2emJUdjc1dGFua3lQa2NVdVFWLUdLcVp6UzFud3pza1JaVWFBSmNPMzl0UmxEcW5ndEJ0VjhvcFppLW9ZcjFiSnJkTlRQY0VjcTFSMWhscVlXbkNXa25GQmdyRV8?oc=5"
-            },
-            {
-                "title": "驻哥斯达黎加使馆临时代办徐铁飞出席第三届当代中国研究国际研讨会开幕式 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-28",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0FZZ19sOVE3MzZsTUhlUFBHdkZZSmxXaENLckg0dUdfd3JBOXdyRXBlcTFqQVhWVGxhV29GalEwRlBLU3o5akxZNklVTTZZZlFlc2d3U2lIUGRLZE5lVUk2ZHZTWVQ0US1YSFAwWTRULXJqOWFYX09JV05Ja0hqTEdVYk1kZDQxcnc?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGN5UktpSG5KT2dlN2lCRjRaOEdNdGFMU0pWQ2QwWGxtS2dVenY0LXFlWkZkS3U4X1cxdWZMTTdzdXRKWnRRSGlVZldmZW5keUNjTjJ4MWh3QVlnMVdJVWRRTVpVZmRQWjJ0UXVKRWlTTFJTTzY2YjYtTVVqM1hLUmo3UVo?oc=5"
             },
             {
                 "title": "澳大利亚向我国返还2件流失文物 - 军网",
@@ -178,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96VnRFQTVscUpvS2JVcVhpaTV3T3V1Ty0zNlJtNVk0Sjk2WGhwTU1Lamh3Zm1WVmFxb3ota3pKQTVRM0xtS0V0aDVmQWwzbTVLN1Jtag?oc=5"
             },
             {
-                "title": "专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫 - 军网",
+                "title": "Surface-to-air missile streaks skyward - China Military Online",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-27",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2a3pzVWhJQnZSQkJRX2oxR3RYT2xWTkRiZ3dyUVJhbXVaSGFOWE9KT1M0ZkNHYkJ2NkUwUGhzZEFGUmFGZmV3RV9yN3FwZHhURXc?oc=5"
-            },
-            {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2021-12-15",
-                "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9BVVJ0UURqREoxUlFhYUdLcHlqcFRqU19NYUZGV21lNHd2Y2t1ZU56aHo1Q0I3UUN5VU5rek94VQ?oc=5"
+                "date": "2026-10-28",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3a05FOGFuQmg4c3ltazVaTnhWTGNYSVZMRkVRd1RlSW1FSTVRS25ybFRNS2NzTHFmcUhtT3R0TEx0YmxWSExrWmROYjVWaTZqUEI4bXhJdGlLUE1XSDNRb3pUdXZqMGp6bDFfOEItTmkwTTQ?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-10-29T12:14:24.555743+00:00"
+    "last_updated": "2026-10-29T22:23:54.330557+00:00"
 }
