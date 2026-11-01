@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "机构预测：2030年中国车企在欧洲销量将达270万辆，37%实现本土生产",
+                "title": "#中国制造业 景气再陷紧缩！10月PMI跌至49.3% 中小型企业与 #房地产 持续承压",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-10-31",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261031/2375805.html"
+            },
+            {
+                "title": "事关大额存单，多家外资银行密集上架",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-10-31",
-                "url": "https://36kr.com/newsflashes/4049224012085506?f=rss"
+                "url": "https://36kr.com/newsflashes/4049534176121734?f=rss"
             },
             {
-                "title": "PC电脑梯 子用什么软件好？六款最靠谱的Mac和Windows电脑梯 子推荐，一键导入C lash，支持多种Windows系统！",
-                "source": "NewsAPI / Cnodejs.org",
+                "title": "一个几乎没人访问的网站，如何成为AI的信息来源？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-31",
-                "url": "https://cnodejs.org/topic/49340"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584542.htm"
             },
             {
-                "title": "荣耀罗巍：会带给大家全新的阿莱拍照模式，不是简单视频模式截图",
+                "title": "你的8G iPad里有12G内存",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584538.htm"
+            },
+            {
+                "title": "荣耀 WIN2 三角洲行动职业赛事联名款上架预约，11 月 27 日发售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-31",
-                "url": "https://www.ithome.com/1/020/419.htm"
-            },
-            {
-                "title": "9点1氪丨币安遭黑客攻击，致其30亿美元资产被冻结；“张雪机车”商标回归张雪；美股收盘纳指重挫700点，英伟达市值蒸发1.4万亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-31",
-                "url": "https://36kr.com/p/4049089058126344?f=rss"
-            },
-            {
-                "title": "科学家发现治疗 2 型糖尿病新靶点，找到胰岛素抵抗关键影响因素",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-10-31",
-                "url": "https://www.ithome.com/1/020/411.htm"
+                "url": "https://www.ithome.com/1/020/509.htm"
             }
         ],
         "mil": [
+            {
+                "title": "谷歌据悉洽商参与特朗普的“金穹”防御计划",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-10-31",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584522.htm"
+            },
             {
                 "title": "9点1氪丨币安遭黑客攻击，致其30亿美元资产被冻结；“张雪机车”商标回归张雪；美股收盘纳指重挫700点，英伟达市值蒸发1.4万亿元",
                 "source": "NewsAPI / 36kr.com",
@@ -68,12 +74,6 @@
                 "url": "https://www.voachinese.com/a/8212231.html"
             },
             {
-                "title": "大战信号？西班牙援乌弹药厂突发爆炸(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-10-30",
-                "url": "https://www.secretchina.com/news/gb/2026/10/31/1106797.html"
-            },
-            {
                 "title": "习近平同德国总统施泰因迈尔会谈 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-30",
@@ -86,16 +86,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02amx4c1piS2xhNE1BWDJRMUU2bkUxT2M1cDFpSzdOdk5Nd0h2U1hjRlpxa1BVY3I3YnMzN3M4aVRoTEpOMDVDanNFdzd6bWVtR0FDdEVtMkpwT0ZiVjBacHZodFdqYWZiVWw3OGhn?oc=5"
             },
             {
-                "title": "外交部政务服务平台 - 中华人民共和国外交部",
+                "title": "外交部副部长马朝旭在二十国集团外长会第二阶段会议上的发言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2022-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPM2lXcXVUSDhkbmdsaExTZEgyQ2ZKbE9ZRXF6RzVFX0pTeEhXWEw4T2Q4Y0hZVk1OX1JPbEJ5cnNreGtkUWZuY3dsWmlxX2VxU0xTNUt4SQ?oc=5"
-            },
-            {
-                "title": "习近平同瑞士联邦主席帕姆兰共同出席合作文件签字仪式 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15YTNNNlFqVF95QzRDVzlyTDZrMGYyTVZSS2tpaEpmcmhNU0Z2TkUzTHhwNkJwVWYwTHNLRFpublZRN2g4UEpTc2RCdUd1d1h1eEE?oc=5"
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WVdHYkswVWRMcVJodjNWYklaV01xVTZjYl96MHhsdlJJS01JcDljMWRDOWFNM014QlpqSGpFUXNqUnRON1pxUUtzcld1eF9UQ0lMTXhEUGw5N0xzM1pTVTAtYXNMOXhCYjZDNDdGTFFrUQ?oc=5"
             },
             {
                 "title": "这一封家书、一个拥抱，是母亲生命里永恒的温情 - 军网",
@@ -108,38 +102,50 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuV0UtMXRIdnJuSG5Pb25iTGhLRE0yc05CcGpwc3B6SHo4UzF2Z3Z4aGlDamVyenpuY09tdUctRVd2SFR5ZS1ZamxsMjdXZVZXRVE?oc=5"
+            },
+            {
+                "title": "武警湖北总队恩施支队纠治土规定保障官兵合法权益 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uSDRwU0hpc2kydTZPLWRtWnNJZWlGVExSMEtwTUZRN2liZnFKa3JmQUZIRU9lbXo2UEdvZ3B5Qk1rWGc3cWhfM1pfeS1mRDZ2bGc?oc=5"
+            },
+            {
+                "title": "浙江海事局 - 浙江海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-11-01",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHI2NTZfN0tHTi1sUGtrZHdvZnVRS3ZpTFFWRktXWFN1RkZFTGp0dXFTM2pDc2xydzg3TVZqb2N4NFlLWEFrVWMyZmRKM2xpYUxpLUNZWW9vU1ppa2lQdWphc09QbHdpSnlZNFoyV0R5QjNIN1NRVG9oTHhOMDlDbnZ6X0U?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
+                "title": "揭秘宾利首款纯电 SUV 托卡尔：累计测试里程超百万公里，遍历高寒、高温、高海拔",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-31",
-                "url": "https://www.ithome.com/1/020/453.htm"
+                "url": "https://www.ithome.com/1/020/522.htm"
             },
             {
-                "title": "Anthropic 未来“隐性债务”规模近 9000 亿美元，人类史上最大 IPO 招股文件暗藏细节",
-                "source": "NewsAPI / Ithome.com",
+                "title": "一个几乎没人访问的网站，如何成为AI的信息来源？",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-31",
-                "url": "https://www.ithome.com/1/020/444.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584542.htm"
             },
             {
-                "title": "Anthropic招股文件披露：未来“隐性债务”规模近9000亿美元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "揭露“女版乔布斯”骗局的人警告：AI热潮或催生下一个Theranos",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-31",
-                "url": "https://36kr.com/newsflashes/4049222599129345?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584534.htm"
             },
             {
-                "title": "PC电脑梯 子用什么软件好？六款最靠谱的Mac和Windows电脑梯 子推荐，一键导入C lash，支持多种Windows系统！",
-                "source": "NewsAPI / Cnodejs.org",
+                "title": "苹果要求门店按标准更换iPhone Duo 内屏开裂故障问题已多到不容忽视",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-31",
-                "url": "https://cnodejs.org/topic/49340"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584532.htm"
             },
             {
-                "title": "9点1氪丨币安遭黑客攻击，致其30亿美元资产被冻结；“张雪机车”商标回归张雪；美股收盘纳指重挫700点，英伟达市值蒸发1.4万亿元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "币安63亿美元被盗幕后：一场创纪录的网络劫掠",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-10-31",
-                "url": "https://36kr.com/p/4049089058126344?f=rss"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584518.htm"
             },
             {
                 "title": "习近平同德国总统施泰因迈尔会谈 - 中华人民共和国外交部",
@@ -154,16 +160,10 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02amx4c1piS2xhNE1BWDJRMUU2bkUxT2M1cDFpSzdOdk5Nd0h2U1hjRlpxa1BVY3I3YnMzN3M4aVRoTEpOMDVDanNFdzd6bWVtR0FDdEVtMkpwT0ZiVjBacHZodFdqYWZiVWw3OGhn?oc=5"
             },
             {
-                "title": "外交部政务服务平台 - 中华人民共和国外交部",
+                "title": "外交部副部长马朝旭在二十国集团外长会第二阶段会议上的发言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2022-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPM2lXcXVUSDhkbmdsaExTZEgyQ2ZKbE9ZRXF6RzVFX0pTeEhXWEw4T2Q4Y0hZVk1OX1JPbEJ5cnNreGtkUWZuY3dsWmlxX2VxU0xTNUt4SQ?oc=5"
-            },
-            {
-                "title": "习近平同瑞士联邦主席帕姆兰共同出席合作文件签字仪式 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-30",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15YTNNNlFqVF95QzRDVzlyTDZrMGYyTVZSS2tpaEpmcmhNU0Z2TkUzTHhwNkJwVWYwTHNLRFpublZRN2g4UEpTc2RCdUd1d1h1eEE?oc=5"
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WVdHYkswVWRMcVJodjNWYklaV01xVTZjYl96MHhsdlJJS01JcDljMWRDOWFNM014QlpqSGpFUXNqUnRON1pxUUtzcld1eF9UQ0lMTXhEUGw5N0xzM1pTVTAtYXNMOXhCYjZDNDdGTFFrUQ?oc=5"
             },
             {
                 "title": "这一封家书、一个拥抱，是母亲生命里永恒的温情 - 军网",
@@ -176,9 +176,21 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-10-31",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuV0UtMXRIdnJuSG5Pb25iTGhLRE0yc05CcGpwc3B6SHo4UzF2Z3Z4aGlDamVyenpuY09tdUctRVd2SFR5ZS1ZamxsMjdXZVZXRVE?oc=5"
+            },
+            {
+                "title": "武警湖北总队恩施支队纠治土规定保障官兵合法权益 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-10-30",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uSDRwU0hpc2kydTZPLWRtWnNJZWlGVExSMEtwTUZRN2liZnFKa3JmQUZIRU9lbXo2UEdvZ3B5Qk1rWGc3cWhfM1pfeS1mRDZ2bGc?oc=5"
+            },
+            {
+                "title": "浙江海事局 - 浙江海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-11-01",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHI2NTZfN0tHTi1sUGtrZHdvZnVRS3ZpTFFWRktXWFN1RkZFTGp0dXFTM2pDc2xydzg3TVZqb2N4NFlLWEFrVWMyZmRKM2xpYUxpLUNZWW9vU1ppa2lQdWphc09QbHdpSnlZNFoyV0R5QjNIN1NRVG9oTHhOMDlDbnZ6X0U?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-01T04:12:30.995683+00:00"
+    "last_updated": "2026-11-01T12:37:58.165722+00:00"
 }
