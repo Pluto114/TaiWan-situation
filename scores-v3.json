@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "#中国制造业 景气再陷紧缩！10月PMI跌至49.3% 中小型企业与 #房地产 持续承压",
-                "source": "NewsAPI / Bannedbook.org",
+                "title": "彼得•汤姆森：海洋母亲教会我如何看待我们的未来",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-10-31",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261031/2375805.html"
+                "url": "https://www.ftchinese.com/story/001111237"
             },
             {
-                "title": "事关大额存单，多家外资银行密集上架",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-31",
-                "url": "https://36kr.com/newsflashes/4049534176121734?f=rss"
-            },
-            {
-                "title": "一个几乎没人访问的网站，如何成为AI的信息来源？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584542.htm"
-            },
-            {
-                "title": "你的8G iPad里有12G内存",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584538.htm"
-            },
-            {
-                "title": "荣耀 WIN2 三角洲行动职业赛事联名款上架预约，11 月 27 日发售",
+                "title": "苹果 iPad mini 8 电池容量 4900mAh 略低于上一代 5034mAh，机身比前代薄 15% 且更轻",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-31",
-                "url": "https://www.ithome.com/1/020/509.htm"
+                "url": "https://www.ithome.com/1/020/625.htm"
+            },
+            {
+                "title": "数据显示，“存储五巨头”上季度营业利润及净利总额首超美国科技五巨头",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-31",
+                "url": "https://www.ithome.com/1/020/617.htm"
+            },
+            {
+                "title": "英特尔、Reddit 双双暴跌近三成，美股 10 月最后一个交易日以“惨烈”告终",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-31",
+                "url": "https://www.ithome.com/1/020/613.htm"
+            },
+            {
+                "title": "出口订单走弱 中国10月PMI回落至荣枯线以下",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-10-31",
+                "url": "https://www.dw.com/zh/%E5%87%BA%E5%8F%A3%E8%AE%A2%E5%8D%95%E8%B5%B0%E5%BC%B1-%E4%B8%AD%E5%9B%BD10%E6%9C%88pmi%E5%9B%9E%E8%90%BD%E8%87%B3%E8%8D%A3%E6%9E%AF%E7%BA%BF%E4%BB%A5%E4%B8%8B/a-79815809"
             }
         ],
         "mil": [
+            {
+                "title": "彼得•汤姆森：海洋母亲教会我如何看待我们的未来",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-31",
+                "url": "https://www.ftchinese.com/story/001111237"
+            },
             {
                 "title": "谷歌据悉洽商参与特朗普的“金穹”防御计划",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,28 +74,22 @@
                 "url": "https://www.ithome.com/1/020/401.htm"
             },
             {
-                "title": "美国之音中文广播 (2026年10月31日) 特朗普总统表示与伊朗的冲突很快就将结束；卢比奥：二十国集团需要合作应对粮食市场、供应链和贸易所受到的冲击",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-10-30",
-                "url": "https://www.voachinese.com/a/8212231.html"
-            },
-            {
-                "title": "习近平同德国总统施泰因迈尔会谈 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-30",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xbGNhdjg5SXlVLTJ6ZWNXM0xxQ0U5RmkyWHJMbUVsUHhNZ1B2YTdVaURWQWRCX05aZmdHQUdRYjVSTEJfWVBpRC1LaW9LRFNiT21LcHZTdV9Mck9idm44S3pnVUF4em9oaTZB?oc=5"
-            },
-            {
-                "title": "外交部党委扩大会议传达学习党的二十届五中全会精神 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-30",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02amx4c1piS2xhNE1BWDJRMUU2bkUxT2M1cDFpSzdOdk5Nd0h2U1hjRlpxa1BVY3I3YnMzN3M4aVRoTEpOMDVDanNFdzd6bWVtR0FDdEVtMkpwT0ZiVjBacHZodFdqYWZiVWw3OGhn?oc=5"
-            },
-            {
                 "title": "外交部副部长马朝旭在二十国集团外长会第二阶段会议上的发言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-31",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WVdHYkswVWRMcVJodjNWYklaV01xVTZjYl96MHhsdlJJS01JcDljMWRDOWFNM014QlpqSGpFUXNqUnRON1pxUUtzcld1eF9UQ0lMTXhEUGw5N0xzM1pTVTAtYXNMOXhCYjZDNDdGTFFrUQ?oc=5"
+            },
+            {
+                "title": "外交部副部长马朝旭在二十国集团外长会第三阶段会议上的发言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNkl3cGRMRkVremZMT1gzbWZvQTNDSGgxUGZuMU4yM0Z3MWZEWHBON3lTcUpMWkdwR1BMa0NuY0hqYTV1dkpPQ3JDaERDN0JyalNGcEJfMkY3bFhBZ1BiVHQ2Um5CcTlYd191b0tKY2JlZw?oc=5"
+            },
+            {
+                "title": "外交部副部长马朝旭在二十国集团外长会第一阶段会议上的发言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BSGw5dzk1RTJMYUlhemcxU1BpcjRkNnluNTF3QkRYMElYMmFCYXB2WThGOTliOHhQWF9Zb1JycVN2WEVYdjRtUVNTQVNpV1NLcjR2amI1eWJSYlFSRHBIVmp5bGNkNVlndEhvaVVNNG54QQ?oc=5"
             },
             {
                 "title": "这一封家书、一个拥抱，是母亲生命里永恒的温情 - 军网",
@@ -118,52 +118,52 @@
         ],
         "pol": [
             {
+                "title": "彼得•汤姆森：海洋母亲教会我如何看待我们的未来",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-10-31",
+                "url": "https://www.ftchinese.com/story/001111237"
+            },
+            {
+                "title": "波兰宪法法院上演“宫斗”?警方包围法院大楼",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-10-31",
+                "url": "https://www.dw.com/zh/%E6%B3%A2%E5%85%B0%E5%AE%AA%E6%B3%95%E6%B3%95%E9%99%A2%E4%B8%8A%E6%BC%94%E5%AE%AB%E6%96%97%E8%AD%A6%E6%96%B9%E5%8C%85%E5%9B%B4%E6%B3%95%E9%99%A2%E5%A4%A7%E6%A5%BC/a-79817226"
+            },
+            {
+                "title": "数据显示，“存储五巨头”上季度营业利润及净利总额首超美国科技五巨头",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-31",
+                "url": "https://www.ithome.com/1/020/617.htm"
+            },
+            {
+                "title": "英特尔、Reddit 双双暴跌近三成，美股 10 月最后一个交易日以“惨烈”告终",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-10-31",
+                "url": "https://www.ithome.com/1/020/613.htm"
+            },
+            {
                 "title": "揭秘宾利首款纯电 SUV 托卡尔：累计测试里程超百万公里，遍历高寒、高温、高海拔",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-10-31",
                 "url": "https://www.ithome.com/1/020/522.htm"
             },
             {
-                "title": "一个几乎没人访问的网站，如何成为AI的信息来源？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584542.htm"
-            },
-            {
-                "title": "揭露“女版乔布斯”骗局的人警告：AI热潮或催生下一个Theranos",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584534.htm"
-            },
-            {
-                "title": "苹果要求门店按标准更换iPhone Duo 内屏开裂故障问题已多到不容忽视",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584532.htm"
-            },
-            {
-                "title": "币安63亿美元被盗幕后：一场创纪录的网络劫掠",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584518.htm"
-            },
-            {
-                "title": "习近平同德国总统施泰因迈尔会谈 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-30",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xbGNhdjg5SXlVLTJ6ZWNXM0xxQ0U5RmkyWHJMbUVsUHhNZ1B2YTdVaURWQWRCX05aZmdHQUdRYjVSTEJfWVBpRC1LaW9LRFNiT21LcHZTdV9Mck9idm44S3pnVUF4em9oaTZB?oc=5"
-            },
-            {
-                "title": "外交部党委扩大会议传达学习党的二十届五中全会精神 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-30",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02amx4c1piS2xhNE1BWDJRMUU2bkUxT2M1cDFpSzdOdk5Nd0h2U1hjRlpxa1BVY3I3YnMzN3M4aVRoTEpOMDVDanNFdzd6bWVtR0FDdEVtMkpwT0ZiVjBacHZodFdqYWZiVWw3OGhn?oc=5"
-            },
-            {
                 "title": "外交部副部长马朝旭在二十国集团外长会第二阶段会议上的发言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-10-31",
                 "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WVdHYkswVWRMcVJodjNWYklaV01xVTZjYl96MHhsdlJJS01JcDljMWRDOWFNM014QlpqSGpFUXNqUnRON1pxUUtzcld1eF9UQ0lMTXhEUGw5N0xzM1pTVTAtYXNMOXhCYjZDNDdGTFFrUQ?oc=5"
+            },
+            {
+                "title": "外交部副部长马朝旭在二十国集团外长会第三阶段会议上的发言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNkl3cGRMRkVremZMT1gzbWZvQTNDSGgxUGZuMU4yM0Z3MWZEWHBON3lTcUpMWkdwR1BMa0NuY0hqYTV1dkpPQ3JDaERDN0JyalNGcEJfMkY3bFhBZ1BiVHQ2Um5CcTlYd191b0tKY2JlZw?oc=5"
+            },
+            {
+                "title": "外交部副部长马朝旭在二十国集团外长会第一阶段会议上的发言 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BSGw5dzk1RTJMYUlhemcxU1BpcjRkNnluNTF3QkRYMElYMmFCYXB2WThGOTliOHhQWF9Zb1JycVN2WEVYdjRtUVNTQVNpV1NLcjR2amI1eWJSYlFSRHBIVmp5bGNkNVlndEhvaVVNNG54QQ?oc=5"
             },
             {
                 "title": "这一封家书、一个拥抱，是母亲生命里永恒的温情 - 军网",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-01T12:37:58.165722+00:00"
+    "last_updated": "2026-11-01T21:39:21.284832+00:00"
 }
