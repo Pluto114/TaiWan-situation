@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "微软 XBOX CEO 夏尔马新目标：2030 年利润率超越索尼 PlayStation 和任天堂",
-                "source": "NewsAPI / Ithome.com",
+                "title": "欧洲与加拿大建立AI算力合作联盟 共享14台超级计算机、10台量子计算机和19座AI工厂",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-01",
-                "url": "https://www.ithome.com/1/020/700.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584604.htm"
             },
             {
-                "title": "中国—秘鲁自贸协定升级议定书正式生效",
+                "title": "真的“驾鹤西归”了 #中国无人机 #出殡 看傻全村",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-11-01",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261101/2376113.html"
+            },
+            {
+                "title": "新入口和旧城墙之下，“中国版Muse”有多远？",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-01",
-                "url": "https://36kr.com/newsflashes/4050649103291270?f=rss"
+                "url": "https://36kr.com/p/4051143495603336?f=rss"
             },
             {
-                "title": "上汽通用五菱 2026 年 10 月全球总销量超 14.27 万辆，海外年销破 32 万台 / 套",
-                "source": "NewsAPI / Ithome.com",
+                "title": "读《信号与噪声》",
+                "source": "NewsAPI / Devtang.com",
                 "date": "2026-11-01",
-                "url": "https://www.ithome.com/1/020/686.htm"
-            },
-            {
-                "title": "稳中有进、质效双升，前三季度物流运行数据发布",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-01",
-                "url": "https://36kr.com/newsflashes/4050595417052288?f=rss"
+                "url": "https://blog.devtang.com/2026/11/01/signal-and-noice-book-summary/"
             },
             {
                 "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-01",
-                "url": "http://www.geekpark.net/news/373245"
+                "url": "http://www.geekpark.net/news/373248"
             }
         ],
         "mil": [
             {
+                "title": "新入口和旧城墙之下，“中国版Muse”有多远？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-01",
+                "url": "https://36kr.com/p/4051143495603336?f=rss"
+            },
+            {
+                "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-01",
+                "url": "http://www.geekpark.net/news/373248"
+            },
+            {
+                "title": "我国歼-20 首次公开亮相 10 周年：全面换装国产发动机，央视详解迭代核心细节",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-01",
+                "url": "https://www.ithome.com/1/020/781.htm"
+            },
+            {
+                "title": "#习近平 出手了！防 #共军 影响未来接班布局",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-11-01",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261101/2376057.html"
+            },
+            {
                 "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-01",
                 "url": "http://www.geekpark.net/news/373245"
             },
             {
-                "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-01",
-                "url": "http://www.geekpark.net/news/373243"
-            },
-            {
-                "title": "彼得•汤姆森：海洋母亲教会我如何看待我们的未来",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-10-31",
-                "url": "https://www.ftchinese.com/story/001111237"
-            },
-            {
-                "title": "谷歌据悉洽商参与特朗普的“金穹”防御计划",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-10-31",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584522.htm"
-            },
-            {
-                "title": "9点1氪丨币安遭黑客攻击，致其30亿美元资产被冻结；“张雪机车”商标回归张雪；美股收盘纳指重挫700点，英伟达市值蒸发1.4万亿元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-10-31",
-                "url": "https://36kr.com/p/4049089058126344?f=rss"
+                "title": "习近平同阿曼苏丹海赛姆会谈 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQXUyaUhIaW41RUJaRnFaanJ1WEJoWFpIN1RxSGRCMjhkNkd4c0JMWmo4ckFncGZPcUd3dnoxaEsxSDUzeEZJWFRxSHpaVVpzTWtqeUZGeUlSQl9uZHhHRjZNdVlQOFd6OWZZ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -80,72 +86,66 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部副部长马朝旭在二十国集团外长会第二阶段会议上的发言 - 中华人民共和国外交部",
+                "title": "毛宁：澜湄合作成为区域合作“金色样板” - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-31",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WVdHYkswVWRMcVJodjNWYklaV01xVTZjYl96MHhsdlJJS01JcDljMWRDOWFNM014QlpqSGpFUXNqUnRON1pxUUtzcld1eF9UQ0lMTXhEUGw5N0xzM1pTVTAtYXNMOXhCYjZDNDdGTFFrUQ?oc=5"
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdMTlpvV3BMb2NORjdudHVpMTI0V0lfSElWZDBZSnFsbVpDZ29USGFDVWFidWFlUFlWSXBSTXRkWktVczB0N0EzQWRmV0RHQVpBeHdmQ1E1SDY4TEpPc05IY2d3NmdTSnN1NnZSVDRLZW5HOGFNbUZlZkdxOFNXS0ZoZ1NYRzNqa05TdVJSWkw?oc=5"
             },
             {
-                "title": "外交部副部长马朝旭在二十国集团外长会第三阶段会议上的发言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-31",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNkl3cGRMRkVremZMT1gzbWZvQTNDSGgxUGZuMU4yM0Z3MWZEWHBON3lTcUpMWkdwR1BMa0NuY0hqYTV1dkpPQ3JDaERDN0JyalNGcEJfMkY3bFhBZ1BiVHQ2Um5CcTlYd191b0tKY2JlZw?oc=5"
-            },
-            {
-                "title": "在深入一线中脚踏实地、向下扎根 - 军网",
+                "title": "中国海军“吉祥方舟”号医院船访问多哥 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuV0UtMXRIdnJuSG5Pb25iTGhLRE0yc05CcGpwc3B6SHo4UzF2Z3Z4aGlDamVyenpuY09tdUctRVd2SFR5ZS1ZamxsMjdXZVZXRVE?oc=5"
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWUNFTldsenFkLWEwTzV5U3M2aUVXTFhILVlxME1JRVFSTkRGbGJ1enNTeEZsXzI3cjNkWVRiU05MbGMwRFZRa2E3VVZfcUR6d1E?oc=5"
+            },
+            {
+                "title": "新征程上强党强国的光辉文献——《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MRUoycDRhcmtkelpUQnptZTZoMmlhc1ZiX1IyRDlQcTNwVUppNWZVLURIeWtFSHpENjktNHBMRHRUM3ZBRmZzMWVPMkRmcFpOanc?oc=5"
             },
             {
                 "title": "以高度历史主动推进全面从严治党 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tZk5wUTN4dm1CbkxzWWFPMXpDUlZ3YjdncVBFUzg1SDMwUXVLazFxZTJaRk5mV1JXNFVYX05oNHFoVWJKbUZ5YjdsZ2dVNksxdHc?oc=5"
-            },
-            {
-                "title": "海军航空兵某部党委引导党员干部担当作为——所属单位转隶，施工任务继续 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZC1zRmF3QThXX3FkMi1GcGlLY1F1YUN1Q2JHQWZNNGtYUi04eHRpeDN1TVdBTFJLWlF2OGxReWRRUmZaYW5TSWhoRjF5SFFZbUE?oc=5"
-            },
-            {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-11-01",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHI2NTZfN0tHTi1sUGtrZHdvZnVRS3ZpTFFWRktXWFN1RkZFTGp0dXFTM2pDc2xydzg3TVZqb2N4NFlLWEFrVWMyZmRKM2xpYUxpLUNZWW9vU1ppa2lQdWphc09QbHdpSnlZNFoyV0R5QjNIN1NRVG9oTHhOMDlDbnZ6X0U?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "鸿蒙智行官宣 10 月交付 33537 台、均价超 40 万元，累计销量 160 万台刷新中国新势力纪录",
+                "title": "2026 年 10 月汽车销量 / 交付榜出炉：比亚迪超 49 万辆稳居榜首，小米月销重回 5 万辆",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-01",
-                "url": "https://www.ithome.com/1/020/701.htm"
+                "url": "https://www.ithome.com/1/020/835.htm"
             },
             {
-                "title": "联想 ThinkPlus 指纹识别 U 盘被曝严重安全漏洞：宣称 AES-256 硬件加密，实际数据明文保存于 SD 卡",
+                "title": "欧洲与加拿大建立AI算力合作联盟 共享14台超级计算机、10台量子计算机和19座AI工厂",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-01",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584604.htm"
+            },
+            {
+                "title": "新入口和旧城墙之下，“中国版Muse”有多远？",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-01",
+                "url": "https://36kr.com/p/4051143495603336?f=rss"
+            },
+            {
+                "title": "汤道生谈WorkBuddy商业化：不靠收入数字催团队",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-01",
+                "url": "https://36kr.com/p/4051138782860421?f=rss"
+            },
+            {
+                "title": "消息称 EA 暂停《模拟人生》新作“Project Lotus”开发，为另一款游戏“Project Evergreen”争取更多资源",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-01",
-                "url": "https://www.ithome.com/1/020/696.htm"
+                "url": "https://www.ithome.com/1/020/804.htm"
             },
             {
-                "title": "上汽通用五菱 2026 年 10 月全球总销量超 14.27 万辆，海外年销破 32 万台 / 套",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-01",
-                "url": "https://www.ithome.com/1/020/686.htm"
-            },
-            {
-                "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-01",
-                "url": "http://www.geekpark.net/news/373245"
-            },
-            {
-                "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-01",
-                "url": "http://www.geekpark.net/news/373244"
+                "title": "习近平同阿曼苏丹海赛姆会谈 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQXUyaUhIaW41RUJaRnFaanJ1WEJoWFpIN1RxSGRCMjhkNkd4c0JMWmo4ckFncGZPcUd3dnoxaEsxSDUzeEZJWFRxSHpaVVpzTWtqeUZGeUlSQl9uZHhHRjZNdVlQOFd6OWZZ?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -154,43 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "外交部副部长马朝旭在二十国集团外长会第二阶段会议上的发言 - 中华人民共和国外交部",
+                "title": "毛宁：澜湄合作成为区域合作“金色样板” - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-31",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11WVdHYkswVWRMcVJodjNWYklaV01xVTZjYl96MHhsdlJJS01JcDljMWRDOWFNM014QlpqSGpFUXNqUnRON1pxUUtzcld1eF9UQ0lMTXhEUGw5N0xzM1pTVTAtYXNMOXhCYjZDNDdGTFFrUQ?oc=5"
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdMTlpvV3BMb2NORjdudHVpMTI0V0lfSElWZDBZSnFsbVpDZ29USGFDVWFidWFlUFlWSXBSTXRkWktVczB0N0EzQWRmV0RHQVpBeHdmQ1E1SDY4TEpPc05IY2d3NmdTSnN1NnZSVDRLZW5HOGFNbUZlZkdxOFNXS0ZoZ1NYRzNqa05TdVJSWkw?oc=5"
             },
             {
-                "title": "外交部副部长马朝旭在二十国集团外长会第三阶段会议上的发言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-10-31",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNkl3cGRMRkVremZMT1gzbWZvQTNDSGgxUGZuMU4yM0Z3MWZEWHBON3lTcUpMWkdwR1BMa0NuY0hqYTV1dkpPQ3JDaERDN0JyalNGcEJfMkY3bFhBZ1BiVHQ2Um5CcTlYd191b0tKY2JlZw?oc=5"
-            },
-            {
-                "title": "在深入一线中脚踏实地、向下扎根 - 军网",
+                "title": "中国海军“吉祥方舟”号医院船访问多哥 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-10-31",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuV0UtMXRIdnJuSG5Pb25iTGhLRE0yc05CcGpwc3B6SHo4UzF2Z3Z4aGlDamVyenpuY09tdUctRVd2SFR5ZS1ZamxsMjdXZVZXRVE?oc=5"
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWUNFTldsenFkLWEwTzV5U3M2aUVXTFhILVlxME1JRVFSTkRGbGJ1enNTeEZsXzI3cjNkWVRiU05MbGMwRFZRa2E3VVZfcUR6d1E?oc=5"
+            },
+            {
+                "title": "新征程上强党强国的光辉文献——《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MRUoycDRhcmtkelpUQnptZTZoMmlhc1ZiX1IyRDlQcTNwVUppNWZVLURIeWtFSHpENjktNHBMRHRUM3ZBRmZzMWVPMkRmcFpOanc?oc=5"
             },
             {
                 "title": "以高度历史主动推进全面从严治党 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-01",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tZk5wUTN4dm1CbkxzWWFPMXpDUlZ3YjdncVBFUzg1SDMwUXVLazFxZTJaRk5mV1JXNFVYX05oNHFoVWJKbUZ5YjdsZ2dVNksxdHc?oc=5"
-            },
-            {
-                "title": "海军航空兵某部党委引导党员干部担当作为——所属单位转隶，施工任务继续 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZC1zRmF3QThXX3FkMi1GcGlLY1F1YUN1Q2JHQWZNNGtYUi04eHRpeDN1TVdBTFJLWlF2OGxReWRRUmZaYW5TSWhoRjF5SFFZbUE?oc=5"
-            },
-            {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
-                "date": "2026-11-01",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHI2NTZfN0tHTi1sUGtrZHdvZnVRS3ZpTFFWRktXWFN1RkZFTGp0dXFTM2pDc2xydzg3TVZqb2N4NFlLWEFrVWMyZmRKM2xpYUxpLUNZWW9vU1ppa2lQdWphc09QbHdpSnlZNFoyV0R5QjNIN1NRVG9oTHhOMDlDbnZ6X0U?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-02T04:15:44.447269+00:00"
+    "last_updated": "2026-11-02T14:41:44.992098+00:00"
 }
