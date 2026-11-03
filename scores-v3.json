@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "法国拟对互联网流量征税 每传输1GB数据收费5.5欧分",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584736.htm"
-            },
-            {
-                "title": "韩国出口额逼近万亿美元大关 AI存储芯片热潮成最大推手",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584732.htm"
-            },
-            {
-                "title": "树莓派大内存产品再次涨价 16GB型号最高上涨80美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584728.htm"
-            },
-            {
-                "title": "上汽大众 ID.ERA 5X 将于 11 月 12 日上市，家族首款纯电 SUV",
+                "title": "高通 HBC 完成验证：133 TB/s 内存带宽 18 倍于 AI200，AI250 明年上半年出样",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-02",
-                "url": "https://www.ithome.com/1/021/261.htm"
+                "url": "https://www.ithome.com/1/021/286.htm"
             },
             {
-                "title": "实景实训推动应用落地 以赛促产赋能产业发展——人形机器人与具身智能实景实训挑战赛新闻发布会在京召开",
-                "source": "NewsAPI / 36kr.com",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-02",
-                "url": "https://36kr.com/p/4052511128638336?f=rss"
+                "url": "https://www.voachinese.com/a/8217931.html"
+            },
+            {
+                "title": "燃油成本成为中期选战焦点 伊朗战争如何影响美国选民的最后抉择？",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-02",
+                "url": "https://www.voachinese.com/a/from-a-foreign-war-to-household-bills-how-iran-enters-america-s-midterm-elections-20261102/8217784.html"
+            },
+            {
+                "title": "采矿私企首告国际海底管理局：是为正当权益维护还是规避合规审查？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-02",
+                "url": "https://www.ftchinese.com/story/001111271"
+            },
+            {
+                "title": "美国前科学特使丹尼尔•卡曼：如何利用“鸭子曲线”？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-02",
+                "url": "https://www.ftchinese.com/story/001111264"
             }
         ],
         "mil": [
+            {
+                "title": "中期选举前夕，美国伊朗陷入外交僵局",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-02",
+                "url": "https://www.voachinese.com/a/us-iran-in-diplomatic-stalemate-on-election-eve-20261102/8217830.html"
+            },
             {
                 "title": "乌克兰出现虚假核威胁警报：俄乌双方均报告应急应用遭遇独立网络攻击",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -68,12 +74,6 @@
                 "url": "https://36kr.com/p/4042301259158408?f=rss"
             },
             {
-                "title": "旺季没旺起来 车企KPI大溃败",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584650.htm"
-            },
-            {
                 "title": "习近平同阿曼苏丹海赛姆会谈 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-02",
@@ -104,42 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWUNFTldsenFkLWEwTzV5U3M2aUVXTFhILVlxME1JRVFSTkRGbGJ1enNTeEZsXzI3cjNkWVRiU05MbGMwRFZRa2E3VVZfcUR6d1E?oc=5"
             },
             {
-                "title": "习近平对进一步做好黄河保护治理工作作出重要指示强调持续完善大保护大协同格局努力让这条母亲河越来越美 - 军网",
+                "title": "新华社评论员：一体推进不敢腐不能腐不想腐——论学习贯彻党的二十届五中全会精神 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ndVlIQ3VpTk5rNjNKaWd2ajZ5Tm5VTTFzV1U1bnk5Wmhra3F3ZW1yUUZHMVl5S3B3Z0YwVFJ6RnlxSzg2Wks4VVpFUlQ0SW1OMGc?oc=5"
+                "date": "2026-11-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41RWQ3UDBKakdNQjlhbkNlYXJ0bkRDUGxyT1lLZTdsMHpRZVQzNFA5eGt5dzQ0elVUN1VlVGpXMGozdFZwdi1jZldOejhXekZabkE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "乌克兰出现虚假核威胁警报：俄乌双方均报告应急应用遭遇独立网络攻击",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584740.htm"
-            },
-            {
-                "title": "法国拟对互联网流量征税 每传输1GB数据收费5.5欧分",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584736.htm"
-            },
-            {
-                "title": "仅发电邮邀请出席APEC峰会，台湾抗议中国“歧视性待遇”",
+                "title": "《VOA今日焦点》音频",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-02",
-                "url": "https://www.voachinese.com/a/taiwan-protests-china-s-diplomatic-slight-in-apec-invitation-20261102/8217722.html"
+                "url": "https://www.voachinese.com/a/8217931.html"
             },
             {
-                "title": "砸3.3亿美元阻击“富豪税”布林带头，黄仁勋妥协，马斯克早跑了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中期选举前夕，美国伊朗陷入外交僵局",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584726.htm"
+                "url": "https://www.voachinese.com/a/us-iran-in-diplomatic-stalemate-on-election-eve-20261102/8217830.html"
             },
             {
-                "title": "币安遭黑客攻击后恢复服务 用户提走近50亿美元资产",
+                "title": "美国前科学特使丹尼尔•卡曼：如何利用“鸭子曲线”？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-02",
+                "url": "https://www.ftchinese.com/story/001111264"
+            },
+            {
+                "title": "全球多国数字广告牌遭黑客入侵 公共大屏突现不雅视频引发关注",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-02",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584724.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584756.htm"
+            },
+            {
+                "title": "德国政界人士iPhone遭间谍软件攻击 苹果向联邦议员和政府部门发出安全警报",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-02",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1584750.htm"
             },
             {
                 "title": "习近平同阿曼苏丹海赛姆会谈 - 中华人民共和国外交部",
@@ -172,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWUNFTldsenFkLWEwTzV5U3M2aUVXTFhILVlxME1JRVFSTkRGbGJ1enNTeEZsXzI3cjNkWVRiU05MbGMwRFZRa2E3VVZfcUR6d1E?oc=5"
             },
             {
-                "title": "习近平对进一步做好黄河保护治理工作作出重要指示强调持续完善大保护大协同格局努力让这条母亲河越来越美 - 军网",
+                "title": "新华社评论员：一体推进不敢腐不能腐不想腐——论学习贯彻党的二十届五中全会精神 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-02",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ndVlIQ3VpTk5rNjNKaWd2ajZ5Tm5VTTFzV1U1bnk5Wmhra3F3ZW1yUUZHMVl5S3B3Z0YwVFJ6RnlxSzg2Wks4VVpFUlQ0SW1OMGc?oc=5"
+                "date": "2026-11-03",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41RWQ3UDBKakdNQjlhbkNlYXJ0bkRDUGxyT1lLZTdsMHpRZVQzNFA5eGt5dzQ0elVUN1VlVGpXMGozdFZwdi1jZldOejhXekZabkE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-03T13:34:16.739078+00:00"
+    "last_updated": "2026-11-03T22:51:49.938881+00:00"
 }
