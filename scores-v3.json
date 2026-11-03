@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "欧洲与加拿大建立AI算力合作联盟 共享14台超级计算机、10台量子计算机和19座AI工厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584604.htm"
+                "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-02",
+                "url": "http://www.geekpark.net/news/373252"
             },
             {
-                "title": "真的“驾鹤西归”了 #中国无人机 #出殡 看傻全村",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-01",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261101/2376113.html"
+                "title": "8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-02",
+                "url": "https://36kr.com/p/4051860578702216?f=rss"
             },
             {
-                "title": "新入口和旧城墙之下，“中国版Muse”有多远？",
+                "title": "特朗普和卡尼会谈后表示美加贸易协议接近达成",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-02",
+                "url": "https://36kr.com/newsflashes/4051845891740546?f=rss"
+            },
+            {
+                "title": "澳大利亚央行或将在今年第五次加息",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-01",
-                "url": "https://36kr.com/p/4051143495603336?f=rss"
+                "url": "https://36kr.com/newsflashes/4051818077967240?f=rss"
             },
             {
-                "title": "读《信号与噪声》",
-                "source": "NewsAPI / Devtang.com",
+                "title": "第三季度创投市场量额齐升，单季投融资超4000亿元",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-01",
-                "url": "https://blog.devtang.com/2026/11/01/signal-and-noice-book-summary/"
-            },
-            {
-                "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-01",
-                "url": "http://www.geekpark.net/news/373248"
+                "url": "https://36kr.com/newsflashes/4051816644531075?f=rss"
             }
         ],
         "mil": [
+            {
+                "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-02",
+                "url": "http://www.geekpark.net/news/373252"
+            },
+            {
+                "title": "IT早报 1102：2026 年 10 月汽车销量榜出炉；问界将全面进入欧洲市场；首付 7.99 万元起小米推限时 0 息购车权益；2027 年度春节假期可连休 9 天...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-01",
+                "url": "https://www.ithome.com/1/020/850.htm"
+            },
             {
                 "title": "新入口和旧城墙之下，“中国版Muse”有多远？",
                 "source": "NewsAPI / 36kr.com",
@@ -62,22 +74,16 @@
                 "url": "https://www.ithome.com/1/020/781.htm"
             },
             {
-                "title": "#习近平 出手了！防 #共军 影响未来接班布局",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-01",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261101/2376057.html"
-            },
-            {
-                "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-01",
-                "url": "http://www.geekpark.net/news/373245"
-            },
-            {
                 "title": "习近平同阿曼苏丹海赛姆会谈 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-02",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQXUyaUhIaW41RUJaRnFaanJ1WEJoWFpIN1RxSGRCMjhkNkd4c0JMWmo4ckFncGZPcUd3dnoxaEsxSDUzeEZJWFRxSHpaVVpzTWtqeUZGeUlSQl9uZHhHRjZNdVlQOFd6OWZZ?oc=5"
+            },
+            {
+                "title": "王毅会见伊朗最高国家安全委员会副秘书巴盖里 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWSFU3RVRwZG16S2ZUSENRTTYwMFV1YjJXRWlMTEkxX3JxU2oyaEdoYlJYS1lRRDlrTm1ZdUY5VUk3blFGbFJjSFNmck50S2VnR2FibWxRNVMwQkgxRnJoUU1ILWRNR3JiMFJF?oc=5"
             },
             {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
@@ -86,10 +92,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "毛宁：澜湄合作成为区域合作“金色样板” - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "“神威”导弹发射前- 八一视频 - 八一视频",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-02",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdMTlpvV3BMb2NORjdudHVpMTI0V0lfSElWZDBZSnFsbVpDZ29USGFDVWFidWFlUFlWSXBSTXRkWktVczB0N0EzQWRmV0RHQVpBeHdmQ1E1SDY4TEpPc05IY2d3NmdTSnN1NnZSVDRLZW5HOGFNbUZlZkdxOFNXS0ZoZ1NYRzNqa05TdVJSWkw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BWjVGWFFCeGItT094NE5WaldtMkdON0tRaVJxY2hqaGVtSnFmSkd4anBUOW9GTi12LUQ1UnhfampUWnVOa1dLT2M0T1FEQXF3?oc=5"
             },
             {
                 "title": "中国海军“吉祥方舟”号医院船访问多哥 - 军网",
@@ -102,44 +108,38 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MRUoycDRhcmtkelpUQnptZTZoMmlhc1ZiX1IyRDlQcTNwVUppNWZVLURIeWtFSHpENjktNHBMRHRUM3ZBRmZzMWVPMkRmcFpOanc?oc=5"
-            },
-            {
-                "title": "以高度历史主动推进全面从严治党 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tZk5wUTN4dm1CbkxzWWFPMXpDUlZ3YjdncVBFUzg1SDMwUXVLazFxZTJaRk5mV1JXNFVYX05oNHFoVWJKbUZ5YjdsZ2dVNksxdHc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "2026 年 10 月汽车销量 / 交付榜出炉：比亚迪超 49 万辆稳居榜首，小米月销重回 5 万辆",
+                "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-02",
+                "url": "http://www.geekpark.net/news/373252"
+            },
+            {
+                "title": "8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-02",
+                "url": "https://36kr.com/p/4051860578702216?f=rss"
+            },
+            {
+                "title": "IT早报 1102：2026 年 10 月汽车销量榜出炉；问界将全面进入欧洲市场；首付 7.99 万元起小米推限时 0 息购车权益；2027 年度春节假期可连休 9 天...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-01",
-                "url": "https://www.ithome.com/1/020/835.htm"
+                "url": "https://www.ithome.com/1/020/850.htm"
             },
             {
-                "title": "欧洲与加拿大建立AI算力合作联盟 共享14台超级计算机、10台量子计算机和19座AI工厂",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-01",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1584604.htm"
-            },
-            {
-                "title": "新入口和旧城墙之下，“中国版Muse”有多远？",
+                "title": "中信建投：科技巨头绩后波动，关注美国中期选举",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-01",
-                "url": "https://36kr.com/p/4051143495603336?f=rss"
+                "url": "https://36kr.com/newsflashes/4051832537584514?f=rss"
             },
             {
-                "title": "汤道生谈WorkBuddy商业化：不靠收入数字催团队",
+                "title": "AI算力产业链维持高景气度",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-01",
-                "url": "https://36kr.com/p/4051138782860421?f=rss"
-            },
-            {
-                "title": "消息称 EA 暂停《模拟人生》新作“Project Lotus”开发，为另一款游戏“Project Evergreen”争取更多资源",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-01",
-                "url": "https://www.ithome.com/1/020/804.htm"
+                "url": "https://36kr.com/newsflashes/4051827615568769?f=rss"
             },
             {
                 "title": "习近平同阿曼苏丹海赛姆会谈 - 中华人民共和国外交部",
@@ -148,16 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtQXUyaUhIaW41RUJaRnFaanJ1WEJoWFpIN1RxSGRCMjhkNkd4c0JMWmo4ckFncGZPcUd3dnoxaEsxSDUzeEZJWFRxSHpaVVpzTWtqeUZGeUlSQl9uZHhHRjZNdVlQOFd6OWZZ?oc=5"
             },
             {
+                "title": "王毅会见伊朗最高国家安全委员会副秘书巴盖里 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-02",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWSFU3RVRwZG16S2ZUSENRTTYwMFV1YjJXRWlMTEkxX3JxU2oyaEdoYlJYS1lRRDlrTm1ZdUY5VUk3blFGbFJjSFNmck50S2VnR2FibWxRNVMwQkgxRnJoUU1ILWRNR3JiMFJF?oc=5"
+            },
+            {
                 "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2024-05-16",
                 "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
-                "title": "毛宁：澜湄合作成为区域合作“金色样板” - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "“神威”导弹发射前- 八一视频 - 八一视频",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-02",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmdMTlpvV3BMb2NORjdudHVpMTI0V0lfSElWZDBZSnFsbVpDZ29USGFDVWFidWFlUFlWSXBSTXRkWktVczB0N0EzQWRmV0RHQVpBeHdmQ1E1SDY4TEpPc05IY2d3NmdTSnN1NnZSVDRLZW5HOGFNbUZlZkdxOFNXS0ZoZ1NYRzNqa05TdVJSWkw?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BWjVGWFFCeGItT094NE5WaldtMkdON0tRaVJxY2hqaGVtSnFmSkd4anBUOW9GTi12LUQ1UnhfampUWnVOa1dLT2M0T1FEQXF3?oc=5"
             },
             {
                 "title": "中国海军“吉祥方舟”号医院船访问多哥 - 军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-02",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MRUoycDRhcmtkelpUQnptZTZoMmlhc1ZiX1IyRDlQcTNwVUppNWZVLURIeWtFSHpENjktNHBMRHRUM3ZBRmZzMWVPMkRmcFpOanc?oc=5"
-            },
-            {
-                "title": "以高度历史主动推进全面从严治党 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-01",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tZk5wUTN4dm1CbkxzWWFPMXpDUlZ3YjdncVBFUzg1SDMwUXVLazFxZTJaRk5mV1JXNFVYX05oNHFoVWJKbUZ5YjdsZ2dVNksxdHc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-02T14:41:44.992098+00:00"
+    "last_updated": "2026-11-03T00:27:40.030981+00:00"
 }
