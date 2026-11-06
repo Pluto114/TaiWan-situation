@@ -12,78 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "国务院关于金融工作情况的报告：继续实施好适度宽松的货币政策，为经济持续向新向优向好发展营造适宜的货币金融环境",
+                "title": "摩托罗拉发布 Signature 27 手机：骁龙 8EE6 芯片、2 亿长焦，1599 美元",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-05",
+                "url": "https://www.ithome.com/1/022/988.htm"
+            },
+            {
+                "title": "消息人士：约60万块英伟达H200芯片在港等待运往中国内地",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-11-05",
+                "url": "https://www.dw.com/zh/%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%BA%A660%E4%B8%87%E5%9D%97%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87%E5%9C%A8%E6%B8%AF%E7%AD%89%E5%BE%85%E8%BF%90%E5%BE%80%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0/a-79866758"
+            },
+            {
+                "title": "中国连续17年稳居全球第二大进口国",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-05",
-                "url": "https://36kr.com/newsflashes/4056377667589000?f=rss"
+                "url": "https://36kr.com/newsflashes/4056832726750340?f=rss"
             },
             {
-                "title": "美国 AI 扩张遭遇地方阻力：水电资源和环境争议升温，76% 选民反对在社区建设数据中心",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/525.htm"
-            },
-            {
-                "title": "中国科大发布开源 RNA 序列基础模型 structRFM，成果登上 Nature",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/511.htm"
-            },
-            {
-                "title": "欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/508.htm"
-            },
-            {
-                "title": "国资入股、「臻泰智能」获数千万元B轮融资，脑机康复产品进入500+医院｜36氪首发",
+                "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-05",
-                "url": "https://36kr.com/p/4055104890655622?f=rss"
+                "url": "https://36kr.com/newsflashes/4056829870150789?f=rss"
+            },
+            {
+                "title": "我国轻工行业数字化研发设计工具普及率超86%",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-05",
+                "url": "https://36kr.com/newsflashes/4056777454834569?f=rss"
             }
         ],
         "mil": [
             {
-                "title": "国资入股、「臻泰智能」获数千万元B轮融资，脑机康复产品进入500+医院｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/p/4055104890655622?f=rss"
-            },
-            {
-                "title": "IT早报 1105：调查显示近七成中国受访者今年不换手机；苹果就多地天气突现-32℃ 致歉；曝华为子品牌星芒英文名 OSTA；传字节将限制员工自费使用 Claude...",
+                "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/498.htm"
+                "url": "https://www.ithome.com/1/022/978.htm"
             },
             {
-                "title": "8点1氪丨张雪回应“校招年薪10万起被嫌低”；A股史诗级大涨；“iPhone显示下周五多地-30℃”，苹果致歉",
+                "title": "#央视 自己认了？ #福建 舰服役一年仍未形成完整战力",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-11-05",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261105/2377583.html"
+            },
+            {
+                "title": "吹哥老了，独立游戏的黄金时代也是 | 玩点好的",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-05",
-                "url": "https://36kr.com/p/4056098541425801?f=rss"
+                "url": "https://36kr.com/p/4056654258393992?f=rss"
             },
             {
-                "title": "​OpenAI提前布局2028美国大选议题 力推“AI新政”",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-04",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585066.htm"
-            },
-            {
-                "title": "《VOA今日焦点》音频",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-04",
-                "url": "https://www.voachinese.com/a/8217956.html"
-            },
-            {
-                "title": "2026年11月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZkVTbWJ1NHBEamFYUGpRVDZXUU5Ba3E0aVlpbDA0OTBUdDZNbV9NREVjRmczWExGRFdRdTBWdGVhaWlQZVRTSEZmUWFiVG5aaTNRWFBqMjQxWThrTlQ4RnVsZlVBX2pvUm1IQkJIanI1RXFHcHc?oc=5"
-            },
-            {
-                "title": "2026年11月5日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "8000家幸运咖，向蜜雪总部喊话求援｜深氪",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-05",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rRVF6UWd6S0RhZWxXRmVqSlZ1enAxemRmWjFQY2dTMmRlTnB1RjVCaDBFZUJ2eFdsTk85ZDJQN1loaVo2VV94OXZFQ3Q1TGoyR2VWVVI4bzFiUVRCREVOM3dEMmFlOEY1Y3ltb2RPaXhIMWVoQmc?oc=5"
+                "url": "https://36kr.com/p/4056473489560457?f=rss"
+            },
+            {
+                "title": "36氪首发丨创新工场投了家成都具身模型公司，已实现拣选环节新零件免训练",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-05",
+                "url": "https://36kr.com/p/4056586458862728?f=rss"
             },
             {
                 "title": "持之以恒推进全面从严治党全面从严治军——全军官兵认真学习贯彻党的二十届五中全会精神坚决走好新时代强军路 - 中华人民共和国国防部",
@@ -92,10 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xRGtWaXk5ckV1Y0N4T05TWEZXVWd3QTRRUWtWVTZFY29lSXlfazVTcjZDNmZLeGhZZkNFdFlRNUVDNzlvWEpkcDFHajZtTUJNRnRKWjVvcF8?oc=5"
             },
             {
-                "title": "直播回放：线上义诊活动《军医来了》 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-04",
-                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12UE53WlZURUwyajJsRjV1QXI2MTJLUnc1YlBpUzNNNXFHa1Z5WWFaVkZUM25TQzRWZmtFaUJNb1ZsbHg1TVZB?oc=5"
+                "title": "外交部政务服务平台 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-01-16",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPM2lXcXVUSDhkbmdsaExTZEgyQ2ZKbE9ZRXF6RzVFX0pTeEhXWEw4T2Q4Y0hZVk1OX1JPbEJ5cnNreGtkUWZuY3dsWmlxX2VxU0xTNUt4SQ?oc=5"
+            },
+            {
+                "title": "外交部发言人介绍澜湄合作第十一次外长会有关情况_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-05",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEE2Wm1laEo3TWxWSEZ1UERoS25MV1Rsd2xlSGUzUExfRTB4M3F4cXpPdE1UcDJTMGxsZ0pGRjdUQl9hRUMzMWJnRHNfa0VMbGFWODByWEtyTHVxZnlmSmJPMXg1TmxJR0g4eW5NQm1QTUdJZFFzZENQY1hQS1ZSQmVhVkQ5TTRJUUFtaWV5S3g?oc=5"
             },
             {
                 "title": "把环境设险、条件设难，险难砺兵成为部队驻训常态 - 军网",
@@ -110,54 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wNElmNXZRLTM1N0lXa1FDWFB4dFh6VWhRSFBOdklCV1d4WVpUVWRXSHVvd291bTJISjZYdXFTRUsyOUtmTmRaRHllYU9VbW5MSUE?oc=5"
             },
             {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
+                "title": "智媒向新 聚力同行——世界媒体峰会释放AI赋能传媒新信号 - 军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-05",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0JfZ2syUkVmemh4RGJrcFNHSDI1RzRIQmszWVkxYUpndTBQUjZ2a0NnRHY3TGVPSER5dzJSVU1saFJhQ1N1Tk5idDVEZWNNdVV4Tk4wR0tSZFBTOW1PWmptMlJ4YWdfYmZqTnRWb3B2a1FvVVNuY3Jkd3B5VUtoZjBNVnY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03c2UxZklxRDZPQ2c0T1lRaXN5SExQN2ZVeTJQWDdwbmtwZERIOURfVW54QkllN2FETkV0elQ5SWJjOE13dUFDcjlNMk96NnRKUmc?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "美国 AI 扩张遭遇地方阻力：水电资源和环境争议升温，76% 选民反对在社区建设数据中心",
+                "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/525.htm"
+                "url": "https://www.ithome.com/1/022/978.htm"
             },
             {
-                "title": "国资入股、「臻泰智能」获数千万元B轮融资，脑机康复产品进入500+医院｜36氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/p/4055104890655622?f=rss"
-            },
-            {
-                "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-05",
-                "url": "http://www.geekpark.net/news/373494"
-            },
-            {
-                "title": "IT早报 1105：调查显示近七成中国受访者今年不换手机；苹果就多地天气突现-32℃ 致歉；曝华为子品牌星芒英文名 OSTA；传字节将限制员工自费使用 Claude...",
+                "title": "大疆发布 Matrice 5T 无人机：标配激光雷达、毫米波雷达、全彩全向视觉感知系统，57488 元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/498.htm"
+                "url": "https://www.ithome.com/1/022/976.htm"
             },
             {
-                "title": "工业AI应用场景加快落地，机器视觉产业链迎来业绩验证窗口",
+                "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-05",
-                "url": "https://36kr.com/newsflashes/4056110930088840?f=rss"
+                "url": "https://36kr.com/newsflashes/4056829870150789?f=rss"
             },
             {
-                "title": "2026年11月4日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-04",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZkVTbWJ1NHBEamFYUGpRVDZXUU5Ba3E0aVlpbDA0OTBUdDZNbV9NREVjRmczWExGRFdRdTBWdGVhaWlQZVRTSEZmUWFiVG5aaTNRWFBqMjQxWThrTlQ4RnVsZlVBX2pvUm1IQkJIanI1RXFHcHc?oc=5"
-            },
-            {
-                "title": "2026年11月5日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
+                "title": "中国积极劝和中东止战 分析：心有余惟力不足",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-05",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rRVF6UWd6S0RhZWxXRmVqSlZ1enAxemRmWjFQY2dTMmRlTnB1RjVCaDBFZUJ2eFdsTk85ZDJQN1loaVo2VV94OXZFQ3Q1TGoyR2VWVVI4bzFiUVRCREVOM3dEMmFlOEY1Y3ltb2RPaXhIMWVoQmc?oc=5"
+                "url": "https://www.voachinese.com/a/can-china-become-a-credible-peace-broker-in-the-middle-east-20261105/8219220.html"
+            },
+            {
+                "title": "韩国金融业“破防”：黑客一个月攻入至少20家机构",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-05",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585142.htm"
             },
             {
                 "title": "持之以恒推进全面从严治党全面从严治军——全军官兵认真学习贯彻党的二十届五中全会精神坚决走好新时代强军路 - 中华人民共和国国防部",
@@ -166,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xRGtWaXk5ckV1Y0N4T05TWEZXVWd3QTRRUWtWVTZFY29lSXlfazVTcjZDNmZLeGhZZkNFdFlRNUVDNzlvWEpkcDFHajZtTUJNRnRKWjVvcF8?oc=5"
             },
             {
-                "title": "直播回放：线上义诊活动《军医来了》 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-04",
-                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12UE53WlZURUwyajJsRjV1QXI2MTJLUnc1YlBpUzNNNXFHa1Z5WWFaVkZUM25TQzRWZmtFaUJNb1ZsbHg1TVZB?oc=5"
+                "title": "外交部政务服务平台 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2022-01-16",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPM2lXcXVUSDhkbmdsaExTZEgyQ2ZKbE9ZRXF6RzVFX0pTeEhXWEw4T2Q4Y0hZVk1OX1JPbEJ5cnNreGtkUWZuY3dsWmlxX2VxU0xTNUt4SQ?oc=5"
+            },
+            {
+                "title": "外交部发言人介绍澜湄合作第十一次外长会有关情况_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-05",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEE2Wm1laEo3TWxWSEZ1UERoS25MV1Rsd2xlSGUzUExfRTB4M3F4cXpPdE1UcDJTMGxsZ0pGRjdUQl9hRUMzMWJnRHNfa0VMbGFWODByWEtyTHVxZnlmSmJPMXg1TmxJR0g4eW5NQm1QTUdJZFFzZENQY1hQS1ZSQmVhVkQ5TTRJUUFtaWV5S3g?oc=5"
             },
             {
                 "title": "把环境设险、条件设难，险难砺兵成为部队驻训常态 - 军网",
@@ -184,13 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wNElmNXZRLTM1N0lXa1FDWFB4dFh6VWhRSFBOdklCV1d4WVpUVWRXSHVvd291bTJISjZYdXFTRUsyOUtmTmRaRHllYU9VbW5MSUE?oc=5"
             },
             {
-                "title": "浙江海事局 - 浙江海事局",
-                "source": "官方信源 / 海事局",
+                "title": "智媒向新 聚力同行——世界媒体峰会释放AI赋能传媒新信号 - 军网",
+                "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-05",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0JfZ2syUkVmemh4RGJrcFNHSDI1RzRIQmszWVkxYUpndTBQUjZ2a0NnRHY3TGVPSER5dzJSVU1saFJhQ1N1Tk5idDVEZWNNdVV4Tk4wR0tSZFBTOW1PWmptMlJ4YWdfYmZqTnRWb3B2a1FvVVNuY3Jkd3B5VUtoZjBNVnY?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03c2UxZklxRDZPQ2c0T1lRaXN5SExQN2ZVeTJQWDdwbmtwZERIOURfVW54QkllN2FETkV0elQ5SWJjOE13dUFDcjlNMk96NnRKUmc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-06T04:58:24.770472+00:00"
+    "last_updated": "2026-11-06T13:41:49.590152+00:00"
 }
