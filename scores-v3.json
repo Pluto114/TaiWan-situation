@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "摩托罗拉发布 Signature 27 手机：骁龙 8EE6 芯片、2 亿长焦，1599 美元",
+                "title": "从芯片到台湾，新科参议员将如何影响美国对华政策？",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.voachinese.com/a/from-chips-to-taiwan-new-senators-on-us-china-policy-20261105/8219405.html"
+            },
+            {
+                "title": "60万英伟达芯片滞留香港，凸显中国想要又不敢要的矛盾",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.voachinese.com/a/nvidia-chips-pile-up-in-hong-kong-as-china-withholds-import-approval-20261105/8219355.html"
+            },
+            {
+                "title": "12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/988.htm"
+                "url": "https://www.ithome.com/1/023/022.htm"
             },
             {
-                "title": "消息人士：约60万块英伟达H200芯片在港等待运往中国内地",
-                "source": "NewsAPI / DW (English)",
+                "title": "谁才算创作者：人工智能如何重塑创造力的边界？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-05",
-                "url": "https://www.dw.com/zh/%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%BA%A660%E4%B8%87%E5%9D%97%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87%E5%9C%A8%E6%B8%AF%E7%AD%89%E5%BE%85%E8%BF%90%E5%BE%80%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0/a-79866758"
+                "url": "https://www.ftchinese.com/story/001111298"
             },
             {
-                "title": "中国连续17年稳居全球第二大进口国",
-                "source": "NewsAPI / 36kr.com",
+                "title": "从老干妈裁员传闻，看AI与就业的经济史逻辑",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-05",
-                "url": "https://36kr.com/newsflashes/4056832726750340?f=rss"
-            },
-            {
-                "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/newsflashes/4056829870150789?f=rss"
-            },
-            {
-                "title": "我国轻工行业数字化研发设计工具普及率超86%",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/newsflashes/4056777454834569?f=rss"
+                "url": "https://www.ftchinese.com/story/001111289"
             }
         ],
         "mil": [
+            {
+                "title": "中期选举开票夜 民主党律所公开弹劾川普草案(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-05",
+                "url": "https://www.secretchina.com/news/gb/2026/11/06/1107073.html"
+            },
+            {
+                "title": "“我是什么样的人，也会体现在我做的菜里”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.ftchinese.com/story/001111293"
+            },
+            {
+                "title": "20个欧洲航班再遭“诈弹”威胁",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.ftchinese.com/story/001111295"
+            },
+            {
+                "title": "李翊云：任何过往的生命中，都有不该被遗忘的东西",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.ftchinese.com/story/001111290"
+            },
             {
                 "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
                 "source": "NewsAPI / Ithome.com",
@@ -50,34 +74,10 @@
                 "url": "https://www.ithome.com/1/022/978.htm"
             },
             {
-                "title": "#央视 自己认了？ #福建 舰服役一年仍未形成完整战力",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-05",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261105/2377583.html"
-            },
-            {
-                "title": "吹哥老了，独立游戏的黄金时代也是 | 玩点好的",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/p/4056654258393992?f=rss"
-            },
-            {
-                "title": "8000家幸运咖，向蜜雪总部喊话求援｜深氪",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/p/4056473489560457?f=rss"
-            },
-            {
-                "title": "36氪首发丨创新工场投了家成都具身模型公司，已实现拣选环节新零件免训练",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/p/4056586458862728?f=rss"
-            },
-            {
-                "title": "持之以恒推进全面从严治党全面从严治军——全军官兵认真学习贯彻党的二十届五中全会精神坚决走好新时代强军路 - 中华人民共和国国防部",
+                "title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xRGtWaXk5ckV1Y0N4T05TWEZXVWd3QTRRUWtWVTZFY29lSXlfazVTcjZDNmZLeGhZZkNFdFlRNUVDNzlvWEpkcDFHajZtTUJNRnRKWjVvcF8?oc=5"
+                "date": "2026-11-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xR3VYNXZDNVpReXBHM0NYaGUzdHhXbTJSYmtEWTdaUG4wLXRrMUZlSllrMm5jbHR2ZjZITEdkdTBlM0ljeGFYXzRKS3Z1ZWpjY0N6N0JxZFR4bGIwdnVRWnlsdW1sSTNsck4taE1icTBWc0xQV1E?oc=5"
             },
             {
                 "title": "外交部政务服务平台 - 中华人民共和国外交部",
@@ -112,40 +112,40 @@
         ],
         "pol": [
             {
-                "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/978.htm"
-            },
-            {
-                "title": "大疆发布 Matrice 5T 无人机：标配激光雷达、毫米波雷达、全彩全向视觉感知系统，57488 元",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/022/976.htm"
-            },
-            {
-                "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-05",
-                "url": "https://36kr.com/newsflashes/4056829870150789?f=rss"
-            },
-            {
-                "title": "中国积极劝和中东止战 分析：心有余惟力不足",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-05",
-                "url": "https://www.voachinese.com/a/can-china-become-a-credible-peace-broker-in-the-middle-east-20261105/8219220.html"
-            },
-            {
-                "title": "韩国金融业“破防”：黑客一个月攻入至少20家机构",
+                "title": "美国FAA空管系统启动大规模现代化升级 终于告别软盘时代",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585142.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585172.htm"
             },
             {
-                "title": "持之以恒推进全面从严治党全面从严治军——全军官兵认真学习贯彻党的二十届五中全会精神坚决走好新时代强军路 - 中华人民共和国国防部",
+                "title": "习近平“反腐”不停步，原中共中央政治局委员马兴瑞因涉嫌受贿遭起诉",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.voachinese.com/a/china-indicts-former-politburo-member-ma-xingrui-on-bribery-charges-20261105/8219296.html"
+            },
+            {
+                "title": "川普宣布“反共周” 强调美国绝不会成为共产国家(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-05",
+                "url": "https://www.secretchina.com/news/gb/2026/11/06/1107066.html"
+            },
+            {
+                "title": "从老干妈裁员传闻，看AI与就业的经济史逻辑",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.ftchinese.com/story/001111289"
+            },
+            {
+                "title": "“我是什么样的人，也会体现在我做的菜里”",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-05",
+                "url": "https://www.ftchinese.com/story/001111293"
+            },
+            {
+                "title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-04",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xRGtWaXk5ckV1Y0N4T05TWEZXVWd3QTRRUWtWVTZFY29lSXlfazVTcjZDNmZLeGhZZkNFdFlRNUVDNzlvWEpkcDFHajZtTUJNRnRKWjVvcF8?oc=5"
+                "date": "2026-11-06",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xR3VYNXZDNVpReXBHM0NYaGUzdHhXbTJSYmtEWTdaUG4wLXRrMUZlSllrMm5jbHR2ZjZITEdkdTBlM0ljeGFYXzRKS3Z1ZWpjY0N6N0JxZFR4bGIwdnVRWnlsdW1sSTNsck4taE1icTBWc0xQV1E?oc=5"
             },
             {
                 "title": "外交部政务服务平台 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-06T13:41:49.590152+00:00"
+    "last_updated": "2026-11-06T22:40:46.358320+00:00"
 }
