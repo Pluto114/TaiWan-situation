@@ -12,37 +12,49 @@
     "news_sources": {
         "econ": [
             {
-                "title": "印度计划两年内完成自研 GPU，推动 SHAKTI、VEGA 处理器商业化",
-                "source": "NewsAPI / Ithome.com",
+                "title": "AI 时代没有标准答案的问题，我们面对面聊",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-06",
-                "url": "https://www.ithome.com/1/023/217.htm"
+                "url": "http://www.geekpark.net/news/373636"
             },
             {
-                "title": "日本篡改核电站数据公司被勒令整改",
+                "title": "北京表示反对美国“破坏”古巴与中国的关系",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-11-06",
+                "url": "https://www.dw.com/zh/%E5%8C%97%E4%BA%AC%E8%A1%A8%E7%A4%BA%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A0%B4%E5%9D%8F%E5%8F%A4%E5%B7%B4%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%B3%E7%B3%BB/a-79875276"
+            },
+            {
+                "title": "国常会：加快重大项目和“六张网”建设实施进度",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-06",
-                "url": "https://36kr.com/newsflashes/4057729811780489?f=rss"
+                "url": "https://36kr.com/newsflashes/4058196650464133?f=rss"
             },
             {
-                "title": "我国大型邮轮迈入批量建造新阶段，第三艘已启动正向概念设计",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美的全屋智能锚定A2A：家电互联正从「接口对接」走向「Agent对话」｜最前线",
+                "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-06",
-                "url": "https://www.ithome.com/1/023/206.htm"
+                "url": "https://36kr.com/p/4057965347869576?f=rss"
             },
             {
-                "title": "我国自主四代核电，全球首个商业化高温气冷堆核岛建设全面启动",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Tim父亲亮相浙商大会：谈儿子既骄傲又心疼 回应董事长职务",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-06",
-                "url": "https://www.ithome.com/1/023/164.htm"
-            },
-            {
-                "title": "Ripple-65B Preview 发布，自称美国最佳智能体编程开放权重模型",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-06",
-                "url": "https://www.ithome.com/1/023/158.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585276.htm"
             }
         ],
         "mil": [
+            {
+                "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-06",
+                "url": "http://www.geekpark.net/news/373637"
+            },
+            {
+                "title": "美的全屋智能锚定A2A：家电互联正从「接口对接」走向「Agent对话」｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-06",
+                "url": "https://36kr.com/p/4057965347869576?f=rss"
+            },
             {
                 "title": "Meta 给 AI 装上“脸”和“嗓子”：Muse 现在能视频聊天了",
                 "source": "NewsAPI / Ithome.com",
@@ -62,34 +74,22 @@
                 "url": "https://www.ithome.com/1/023/040.htm"
             },
             {
-                "title": "前 G2《英雄联盟》主教练 Perkz 千字长文引爆舆论，数小时内被解雇",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-05",
-                "url": "https://www.ithome.com/1/023/039.htm"
-            },
-            {
-                "title": "美国警告冷链系统正遭持续网络攻击：超市、血库及军事冷冻设备成为黑客目标",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-05",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585184.htm"
-            },
-            {
                 "title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-06",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xR3VYNXZDNVpReXBHM0NYaGUzdHhXbTJSYmtEWTdaUG4wLXRrMUZlSllrMm5jbHR2ZjZITEdkdTBlM0ljeGFYXzRKS3Z1ZWpjY0N6N0JxZFR4bGIwdnVRWnlsdW1sSTNsck4taE1icTBWc0xQV1E?oc=5"
             },
             {
-                "title": "外交部政务服务平台 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2022-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPM2lXcXVUSDhkbmdsaExTZEgyQ2ZKbE9ZRXF6RzVFX0pTeEhXWEw4T2Q4Y0hZVk1OX1JPbEJ5cnNreGtkUWZuY3dsWmlxX2VxU0xTNUt4SQ?oc=5"
-            },
-            {
-                "title": "外交部发言人介绍澜湄合作第十一次外长会有关情况_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "外交部部长助理蔡伟同世界知识产权组织总干事邓鸿森签署合作意向书 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-05",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEE2Wm1laEo3TWxWSEZ1UERoS25MV1Rsd2xlSGUzUExfRTB4M3F4cXpPdE1UcDJTMGxsZ0pGRjdUQl9hRUMzMWJnRHNfa0VMbGFWODByWEtyTHVxZnlmSmJPMXg1TmxJR0g4eW5NQm1QTUdJZFFzZENQY1hQS1ZSQmVhVkQ5TTRJUUFtaWV5S3g?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5YVMxWnE5c0NVWWVVaWJzU0JDTW1uREhlby1NUm1ySDFTc0ZTcFVub1NfQWtJd2FFNm5XSVdZWGFTYzZid1JkY3RhV05BVGp6ZVRxRC1pckJ6TjloY0Z3YVdnb0oyVUtTcVFqSEhQbjNWZw?oc=5"
+            },
+            {
+                "title": "韩正会见格鲁吉亚总统卡韦拉什维利 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-07",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ETVRISEVRM1JEaGpDUEVtdmRibFpQdVUtX2hRQWI5azQtMl9LeTJKa2E4aURicS1JMUozSDI3TXVJRFRaS2JCN2Z0VlhualZvRWk5VTVZaHlwaHdzcXJ6aGhSWFNmMUZzSXhR?oc=5"
             },
             {
                 "title": "把环境设险、条件设难，险难砺兵成为部队驻训常态 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "我国大型邮轮迈入批量建造新阶段，第三艘已启动正向概念设计",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-06",
-                "url": "https://www.ithome.com/1/023/206.htm"
-            },
-            {
-                "title": "36氪首发丨富锂锰电池企业完成数千万元融资，已在无人机领域批量出货并实现盈利",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-06",
-                "url": "https://36kr.com/p/4057654395736963?f=rss"
-            },
-            {
-                "title": "ChatGPT 涉嫌教唆妻子毒杀丈夫？美国一男子起诉 OpenAI",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-06",
-                "url": "https://www.ithome.com/1/023/079.htm"
-            },
-            {
-                "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+                "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-06",
-                "url": "http://www.geekpark.net/news/373554"
+                "url": "http://www.geekpark.net/news/373637"
             },
             {
-                "title": "第二艘国产大型邮轮“爱达 · 花城号”正式交付，较原计划提前约两个月",
-                "source": "NewsAPI / Ithome.com",
+                "title": "AI 时代没有标准答案的问题，我们面对面聊",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-06",
-                "url": "https://www.ithome.com/1/023/055.htm"
+                "url": "http://www.geekpark.net/news/373636"
+            },
+            {
+                "title": "美的全屋智能锚定A2A：家电互联正从「接口对接」走向「Agent对话」｜最前线",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-06",
+                "url": "https://36kr.com/p/4057965347869576?f=rss"
+            },
+            {
+                "title": "不甩选举惨败！ #川普 拒撤 #关税 最高课300%",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-11-06",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261106/2377968.html"
+            },
+            {
+                "title": "外交部：中美要相向而行推动经贸关系持续稳定向好发展",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-06",
+                "url": "https://36kr.com/newsflashes/4057965511234691?f=rss"
             },
             {
                 "title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xR3VYNXZDNVpReXBHM0NYaGUzdHhXbTJSYmtEWTdaUG4wLXRrMUZlSllrMm5jbHR2ZjZITEdkdTBlM0ljeGFYXzRKS3Z1ZWpjY0N6N0JxZFR4bGIwdnVRWnlsdW1sSTNsck4taE1icTBWc0xQV1E?oc=5"
             },
             {
-                "title": "外交部政务服务平台 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2022-01-16",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPM2lXcXVUSDhkbmdsaExTZEgyQ2ZKbE9ZRXF6RzVFX0pTeEhXWEw4T2Q4Y0hZVk1OX1JPbEJ5cnNreGtkUWZuY3dsWmlxX2VxU0xTNUt4SQ?oc=5"
-            },
-            {
-                "title": "外交部发言人介绍澜湄合作第十一次外长会有关情况_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "外交部部长助理蔡伟同世界知识产权组织总干事邓鸿森签署合作意向书 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-05",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEE2Wm1laEo3TWxWSEZ1UERoS25MV1Rsd2xlSGUzUExfRTB4M3F4cXpPdE1UcDJTMGxsZ0pGRjdUQl9hRUMzMWJnRHNfa0VMbGFWODByWEtyTHVxZnlmSmJPMXg1TmxJR0g4eW5NQm1QTUdJZFFzZENQY1hQS1ZSQmVhVkQ5TTRJUUFtaWV5S3g?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5YVMxWnE5c0NVWWVVaWJzU0JDTW1uREhlby1NUm1ySDFTc0ZTcFVub1NfQWtJd2FFNm5XSVdZWGFTYzZid1JkY3RhV05BVGp6ZVRxRC1pckJ6TjloY0Z3YVdnb0oyVUtTcVFqSEhQbjNWZw?oc=5"
+            },
+            {
+                "title": "韩正会见格鲁吉亚总统卡韦拉什维利 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-07",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ETVRISEVRM1JEaGpDUEVtdmRibFpQdVUtX2hRQWI5azQtMl9LeTJKa2E4aURicS1JMUozSDI3TXVJRFRaS2JCN2Z0VlhualZvRWk5VTVZaHlwaHdzcXJ6aGhSWFNmMUZzSXhR?oc=5"
             },
             {
                 "title": "把环境设险、条件设难，险难砺兵成为部队驻训常态 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-07T04:31:10.334204+00:00"
+    "last_updated": "2026-11-07T12:23:53.996845+00:00"
 }
