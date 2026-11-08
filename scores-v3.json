@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "深圳APEC前夕 美国催中国兑现稀土承诺",
-                "source": "NewsAPI / DW (English)",
+                "title": "马斯克夸中国车企厉害，可这个行业利润率只剩3.3%",
+                "source": "NewsAPI / Smzdm.com",
                 "date": "2026-11-07",
-                "url": "https://www.dw.com/zh/%E6%B7%B1%E5%9C%B3apec%E5%89%8D%E5%A4%95-%E7%BE%8E%E5%9B%BD%E5%82%AC%E4%B8%AD%E5%9B%BD%E5%85%91%E7%8E%B0%E7%A8%80%E5%9C%9F%E6%89%BF%E8%AF%BA/a-79884476"
+                "url": "https://post.smzdm.com/p/a3m42o7k/"
             },
             {
-                "title": "回顾特斯拉 Cybertruck 坎坷旅程：车窗破裂、长期跳票、11 次召回……",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美中央司令部组建“铁门特遣部队”，打击伊朗陆路与里海非法武器运输",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/795.htm"
+                "url": "https://www.voachinese.com/a/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting-illegal-shipments-20261107/8220023.html"
             },
             {
-                "title": "日本纯电动汽车新车年销量首次突破 10 万辆，明年起补贴金额将下调",
-                "source": "NewsAPI / Ithome.com",
+                "title": "「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车",
+                "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/794.htm"
+                "url": "http://www.geekpark.net/news/373647"
             },
             {
-                "title": "基于华为星迹定位技术：百度地图鸿蒙版专属室内导航功能上新，首批支持全国 22 个城市",
-                "source": "NewsAPI / Ithome.com",
+                "title": "B-52将搭载AGM-183A高超音速导弹 美军为传奇轰炸机再添新战力",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/790.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585384.htm"
             },
             {
-                "title": "CPTPP外媒团访台 聚焦台湾科技供应链韧性(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "TCL华星光电T8印刷OLED工厂进入设备安装阶段 计划于2027年底量产",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-07",
-                "url": "https://www.secretchina.com/news/gb/2026/11/07/1107129.html"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585380.htm"
             }
         ],
         "mil": [
+            {
+                "title": "中共百舰压境 台湾手里有狠招！(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-07",
+                "url": "https://www.secretchina.com/news/gb/2026/11/08/1107141.html"
+            },
+            {
+                "title": "索尼全球首发养老黑科技 不靠摄像头 Wi-Fi信号即可检测老人跌倒",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585392.htm"
+            },
+            {
+                "title": "「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-07",
+                "url": "http://www.geekpark.net/news/373647"
+            },
+            {
+                "title": "中共百舰压境 台湾手里有狠招！(视频)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-07",
+                "url": "https://www.secretchina.com/news/gb/2026/11/07/1107141.html"
+            },
             {
                 "title": "#美智库 示警： #解放军 动员三大战区模拟孤立 #台湾",
                 "source": "NewsAPI / Bannedbook.org",
@@ -50,28 +74,10 @@
                 "url": "https://www.bannedbook.org/bnews/cnnews/20261107/2378389.html"
             },
             {
-                "title": "西安 北京现巨大火流星 中南海要变天？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-07",
-                "url": "https://www.secretchina.com/news/gb/2026/11/07/1107117.html"
-            },
-            {
-                "title": "9点1氪丨豆包工作个人版取消5小时额度限制；人类低温纪录被打破；美科技股反弹，SpaceX市值一夜暴涨9653亿",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-07",
-                "url": "https://36kr.com/p/4058997417563266?f=rss"
-            },
-            {
-                "title": "美国“空中外卖”竞争白热化：谷歌系 Wing 投资 1.25 亿美元建无人机厂，瞄准 270 家沃尔玛门店",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/629.htm"
-            },
-            {
-                "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-07",
-                "url": "http://www.geekpark.net/news/373639"
+                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-08",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV0pQeHRFOXRQQUloNTdkeTZUUnBiWkwwNjItdy1DZ0Nidk5MRmxDeHppUWFhNW5iMU0zRjY2Ujg2V1Bfbnc3UlBJMmZRdVpMSTJFRDZucEZxYzI0bUV1bGwxNmptRzdKMV9WcG1n?oc=5"
             },
             {
                 "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话 - 中华人民共和国外交部",
@@ -80,37 +86,49 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDloQ24zODlRTjhVX0FfaFNHcVB5ZkQwcHMxU3B0ZkZjaksxbDBTaUFqY1lEMzJKMHl6UGZ3ZnNhR3JFRHd2SDk2bnVtY1QyaU5XRTRXbFJhZlBDTEZhNTNxTjFkanhabjVHcXRXTmJhWUxQN2RoSHk0dWJpZ2dtb1Z5d1hLajlZWW5EX0xB?oc=5"
             },
             {
-                "title": "韩正会见格鲁吉亚总统卡韦拉什维利 - 中华人民共和国外交部",
+                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ETVRISEVRM1JEaGpDUEVtdmRibFpQdVUtX2hRQWI5azQtMl9LeTJKa2E4aURicS1JMUozSDI3TXVJRFRaS2JCN2Z0VlhualZvRWk5VTVZaHlwaHdzcXJ6aGhSWFNmMUZzSXhR?oc=5"
-            },
-            {
-                "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-06",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVNjbjlHTURYZF9ZT3VXZWJGSGhwZlhNcTRQcjN4U0ZvYVJacHpMdjgtTHoxZzN1ZzBjal90X3MzeExmLW92TV9jcEN5VXAtOFhlMWpSeGNkMkRLS1RFMG1UQW9zR1ROVFN4dUdWdHFINVVaVjNGdVhfSHR5czhMakh0MUdlNTBuMzlXWUZB?oc=5"
-            },
-            {
-                "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmc2xlTzBlZ2Y4REQ4d2p2cVoxZ2p0ZFZQNnJzVDBwaWhrRXpUR2x1QThhblVOT3VFLXNVR1NiSVo2dnpUemVaTVVMRDVMRENObkE?oc=5"
-            },
-            {
-                "title": "丹枫如火——一叶一姿态 百人百性情 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53MzUyVWtFVjFSeTA2RVgtMFVOeS1WZHMzbnN1LTRYNEJjQ2hINUhXM2hLWnRjc3ZnWGtocmgzaG5xVmd1MjM3Q1E3SXQ1bXQ3eEE?oc=5"
+                "date": "2026-11-08",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ycm5NTVVBeXpXclBBbU9DdjNBY3h2bmFqWWJZVkhVQUFIYlR5TVJ3SkUwRzE1T2xhVzkxamRXWWxQcm95T281MFBEaTM0aU51SWRMRTdLeGIyV1A4Tm90VTFnd2pIbTY1dzc2d0Jn?oc=5"
             },
             {
                 "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tTjJQWUNlUkVrWU5idGpESnVqcUtKMWgxbXQyUzhSb3o2OEk0V3kxU1VsajFRNlFTNWQ2QnFaLU55VzF0Z3R5ZGt6RGRpWk91bFE?oc=5"
+            },
+            {
+                "title": "人民领袖｜高原上 习近平让出自己的氧气袋 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mcnVpMkhVanNKZFBvcDdaOUxSWkplRWhhbmlsV0JuOXNmamIwdEgxRi1OVnp3elJsTW9UMi02UC1TNjVkQ3dQai1GS3VHRk1jY1E?oc=5"
+            },
+            {
+                "title": "习近平同加蓬总统会谈：将双边关系定位提升为新时代中加命运共同体 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fb1BJOWNKYXN5S3cwUFhPcW55bnpuTjdwU3FEVzl0U0NsanBrQVZ6Z1JXRU12QUpXLVVIZmxSY2p1M21VZy1HMEk5cHlVNzdQcnc?oc=5"
             }
         ],
         "pol": [
+            {
+                "title": "今年双11 为什么收到的快递包装变烂了？",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585396.htm"
+            },
+            {
+                "title": "索尼全球首发养老黑科技 不靠摄像头 Wi-Fi信号即可检测老人跌倒",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-07",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585392.htm"
+            },
+            {
+                "title": "中共促菲律宾谨言慎行 美中角力牵动南海(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-07",
+                "url": "https://www.secretchina.com/news/gb/2026/11/07/1107137.html"
+            },
             {
                 "title": "回顾特斯拉 Cybertruck 坎坷旅程：车窗破裂、长期跳票、11 次召回……",
                 "source": "NewsAPI / Ithome.com",
@@ -124,22 +142,10 @@
                 "url": "https://www.secretchina.com/news/gb/2026/11/07/1107129.html"
             },
             {
-                "title": "谷歌在美国遭家长起诉：Gemini 被指协助 13 岁女孩制定轻生计划",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/765.htm"
-            },
-            {
-                "title": "韩国初创公司 Lutra 推出 HOA A1 相机：独特形态，可令摄影师与模特保持眼神交流",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/757.htm"
-            },
-            {
-                "title": "【CDT报告汇】保护卫士：中国海外社区监控网络持续扩张，已查明1247个联络点遍布全球91个国家（外二篇）",
-                "source": "NewsAPI / Chinadigitaltimes.net",
-                "date": "2026-11-07",
-                "url": "https://chinadigitaltimes.net/chinese/733706.html"
+                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-08",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV0pQeHRFOXRQQUloNTdkeTZUUnBiWkwwNjItdy1DZ0Nidk5MRmxDeHppUWFhNW5iMU0zRjY2Ujg2V1Bfbnc3UlBJMmZRdVpMSTJFRDZucEZxYzI0bUV1bGwxNmptRzdKMV9WcG1n?oc=5"
             },
             {
                 "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话 - 中华人民共和国外交部",
@@ -148,37 +154,31 @@
                 "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDloQ24zODlRTjhVX0FfaFNHcVB5ZkQwcHMxU3B0ZkZjaksxbDBTaUFqY1lEMzJKMHl6UGZ3ZnNhR3JFRHd2SDk2bnVtY1QyaU5XRTRXbFJhZlBDTEZhNTNxTjFkanhabjVHcXRXTmJhWUxQN2RoSHk0dWJpZ2dtb1Z5d1hLajlZWW5EX0xB?oc=5"
             },
             {
-                "title": "韩正会见格鲁吉亚总统卡韦拉什维利 - 中华人民共和国外交部",
+                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-07",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ETVRISEVRM1JEaGpDUEVtdmRibFpQdVUtX2hRQWI5azQtMl9LeTJKa2E4aURicS1JMUozSDI3TXVJRFRaS2JCN2Z0VlhualZvRWk5VTVZaHlwaHdzcXJ6aGhSWFNmMUZzSXhR?oc=5"
-            },
-            {
-                "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-06",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVNjbjlHTURYZF9ZT3VXZWJGSGhwZlhNcTRQcjN4U0ZvYVJacHpMdjgtTHoxZzN1ZzBjal90X3MzeExmLW92TV9jcEN5VXAtOFhlMWpSeGNkMkRLS1RFMG1UQW9zR1ROVFN4dUdWdHFINVVaVjNGdVhfSHR5czhMakh0MUdlNTBuMzlXWUZB?oc=5"
-            },
-            {
-                "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-06",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmc2xlTzBlZ2Y4REQ4d2p2cVoxZ2p0ZFZQNnJzVDBwaWhrRXpUR2x1QThhblVOT3VFLXNVR1NiSVo2dnpUemVaTVVMRDVMRENObkE?oc=5"
-            },
-            {
-                "title": "丹枫如火——一叶一姿态 百人百性情 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-07",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53MzUyVWtFVjFSeTA2RVgtMFVOeS1WZHMzbnN1LTRYNEJjQ2hINUhXM2hLWnRjc3ZnWGtocmgzaG5xVmd1MjM3Q1E3SXQ1bXQ3eEE?oc=5"
+                "date": "2026-11-08",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ycm5NTVVBeXpXclBBbU9DdjNBY3h2bmFqWWJZVkhVQUFIYlR5TVJ3SkUwRzE1T2xhVzkxamRXWWxQcm95T281MFBEaTM0aU51SWRMRTdLeGIyV1A4Tm90VTFnd2pIbTY1dzc2d0Jn?oc=5"
             },
             {
                 "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-07",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tTjJQWUNlUkVrWU5idGpESnVqcUtKMWgxbXQyUzhSb3o2OEk0V3kxU1VsajFRNlFTNWQ2QnFaLU55VzF0Z3R5ZGt6RGRpWk91bFE?oc=5"
+            },
+            {
+                "title": "人民领袖｜高原上 习近平让出自己的氧气袋 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-08",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mcnVpMkhVanNKZFBvcDdaOUxSWkplRWhhbmlsV0JuOXNmamIwdEgxRi1OVnp3elJsTW9UMi02UC1TNjVkQ3dQai1GS3VHRk1jY1E?oc=5"
+            },
+            {
+                "title": "习近平同加蓬总统会谈：将双边关系定位提升为新时代中加命运共同体 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-07",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fb1BJOWNKYXN5S3cwUFhPcW55bnpuTjdwU3FEVzl0U0NsanBrQVZ6Z1JXRU12QUpXLVVIZmxSY2p1M21VZy1HMEk5cHlVNzdQcnc?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-08T12:42:17.701102+00:00"
+    "last_updated": "2026-11-08T21:38:56.427953+00:00"
 }
