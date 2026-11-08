@@ -12,37 +12,43 @@
     "news_sources": {
         "econ": [
             {
-                "title": "六大行大额存单全线重启，重在优化负债久期",
-                "source": "NewsAPI / 36kr.com",
+                "title": "深圳APEC前夕 美国催中国兑现稀土承诺",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-11-07",
-                "url": "https://36kr.com/newsflashes/4059013385753478?f=rss"
+                "url": "https://www.dw.com/zh/%E6%B7%B1%E5%9C%B3apec%E5%89%8D%E5%A4%95-%E7%BE%8E%E5%9B%BD%E5%82%AC%E4%B8%AD%E5%9B%BD%E5%85%91%E7%8E%B0%E7%A8%80%E5%9C%9F%E6%89%BF%E8%AF%BA/a-79884476"
             },
             {
-                "title": "OpenAI：将继续推进其美国数据中心扩张计划",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-07",
-                "url": "https://36kr.com/newsflashes/4058954305049481?f=rss"
-            },
-            {
-                "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-07",
-                "url": "https://36kr.com/newsflashes/4058960006894470?f=rss"
-            },
-            {
-                "title": "成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-07",
-                "url": "https://36kr.com/p/4052696726328452?f=rss"
-            },
-            {
-                "title": "刷新算力巅峰：IBM 在美国芝加哥揭幕其最强量子计算机",
+                "title": "回顾特斯拉 Cybertruck 坎坷旅程：车窗破裂、长期跳票、11 次召回……",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/635.htm"
+                "url": "https://www.ithome.com/1/023/795.htm"
+            },
+            {
+                "title": "日本纯电动汽车新车年销量首次突破 10 万辆，明年起补贴金额将下调",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-07",
+                "url": "https://www.ithome.com/1/023/794.htm"
+            },
+            {
+                "title": "基于华为星迹定位技术：百度地图鸿蒙版专属室内导航功能上新，首批支持全国 22 个城市",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-07",
+                "url": "https://www.ithome.com/1/023/790.htm"
+            },
+            {
+                "title": "CPTPP外媒团访台 聚焦台湾科技供应链韧性(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-07",
+                "url": "https://www.secretchina.com/news/gb/2026/11/07/1107129.html"
             }
         ],
         "mil": [
+            {
+                "title": "#美智库 示警： #解放军 动员三大战区模拟孤立 #台湾",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-11-07",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261107/2378389.html"
+            },
             {
                 "title": "西安 北京现巨大火流星 中南海要变天？(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -68,16 +74,10 @@
                 "url": "http://www.geekpark.net/news/373639"
             },
             {
-                "title": "IT早报 1107：蔚来李斌再警示新能源车超重风险；字节出售沐瞳科技获市监总局批准；小米汽车成立国际业务部；比亚迪量产车全球首次突破 500km/h...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/622.htm"
-            },
-            {
-                "title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-06",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHR1ZUwxa1B1NzFGUnpjdm9TbVluRlo4WGlYMXRhMDV4a1hCNzFVWDEyZ2VLVEtFU09ybVp5VGlQMjdvNTZvRDRxeGcxRTdJWXJsQVNQbFpYTVdkUDQwWnZFTkNkNmJweE4ySEtnNnZPdGhSUXNyamNlaFlmM09sWlMtd2FKcE1GU20w?oc=5"
+                "date": "2026-11-07",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDloQ24zODlRTjhVX0FfaFNHcVB5ZkQwcHMxU3B0ZkZjaksxbDBTaUFqY1lEMzJKMHl6UGZ3ZnNhR3JFRHd2SDk2bnVtY1QyaU5XRTRXbFJhZlBDTEZhNTNxTjFkanhabjVHcXRXTmJhWUxQN2RoSHk0dWJpZ2dtb1Z5d1hLajlZWW5EX0xB?oc=5"
             },
             {
                 "title": "韩正会见格鲁吉亚总统卡韦拉什维利 - 中华人民共和国外交部",
@@ -112,40 +112,40 @@
         ],
         "pol": [
             {
-                "title": "西安 北京现巨大火流星 中南海要变天？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-07",
-                "url": "https://www.secretchina.com/news/gb/2026/11/07/1107117.html"
-            },
-            {
-                "title": "券商密集召开业绩说明会 业绩可持续性受关注",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-07",
-                "url": "https://36kr.com/newsflashes/4058968012264329?f=rss"
-            },
-            {
-                "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-07",
-                "url": "https://36kr.com/newsflashes/4058938648073349?f=rss"
-            },
-            {
-                "title": "苹果 iOS 键盘被曝隐藏约 10 万个敏感词汇名单：避免 iPhone 输入法自动推荐补全，但用户仍可手动输入",
+                "title": "回顾特斯拉 Cybertruck 坎坷旅程：车窗破裂、长期跳票、11 次召回……",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-07",
-                "url": "https://www.ithome.com/1/023/638.htm"
+                "url": "https://www.ithome.com/1/023/795.htm"
             },
             {
-                "title": "成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发",
-                "source": "NewsAPI / 36kr.com",
+                "title": "CPTPP外媒团访台 聚焦台湾科技供应链韧性(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-11-07",
-                "url": "https://36kr.com/p/4052696726328452?f=rss"
+                "url": "https://www.secretchina.com/news/gb/2026/11/07/1107129.html"
             },
             {
-                "title": "2026年11月6日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "谷歌在美国遭家长起诉：Gemini 被指协助 13 岁女孩制定轻生计划",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-07",
+                "url": "https://www.ithome.com/1/023/765.htm"
+            },
+            {
+                "title": "韩国初创公司 Lutra 推出 HOA A1 相机：独特形态，可令摄影师与模特保持眼神交流",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-07",
+                "url": "https://www.ithome.com/1/023/757.htm"
+            },
+            {
+                "title": "【CDT报告汇】保护卫士：中国海外社区监控网络持续扩张，已查明1247个联络点遍布全球91个国家（外二篇）",
+                "source": "NewsAPI / Chinadigitaltimes.net",
+                "date": "2026-11-07",
+                "url": "https://chinadigitaltimes.net/chinese/733706.html"
+            },
+            {
+                "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-06",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHR1ZUwxa1B1NzFGUnpjdm9TbVluRlo4WGlYMXRhMDV4a1hCNzFVWDEyZ2VLVEtFU09ybVp5VGlQMjdvNTZvRDRxeGcxRTdJWXJsQVNQbFpYTVdkUDQwWnZFTkNkNmJweE4ySEtnNnZPdGhSUXNyamNlaFlmM09sWlMtd2FKcE1GU20w?oc=5"
+                "date": "2026-11-07",
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDloQ24zODlRTjhVX0FfaFNHcVB5ZkQwcHMxU3B0ZkZjaksxbDBTaUFqY1lEMzJKMHl6UGZ3ZnNhR3JFRHd2SDk2bnVtY1QyaU5XRTRXbFJhZlBDTEZhNTNxTjFkanhabjVHcXRXTmJhWUxQN2RoSHk0dWJpZ2dtb1Z5d1hLajlZWW5EX0xB?oc=5"
             },
             {
                 "title": "韩正会见格鲁吉亚总统卡韦拉什维利 - 中华人民共和国外交部",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-08T04:17:25.078824+00:00"
+    "last_updated": "2026-11-08T12:42:17.701102+00:00"
 }
