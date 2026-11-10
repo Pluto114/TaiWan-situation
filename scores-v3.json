@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "千分位甲醛数显：小米米家全效空气净化器 Ultra 国补后 4799 → 1973 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-09",
-                "url": "https://www.ithome.com/1/024/548.htm"
+                "url": "https://www.voachinese.com/a/8217971.html"
             },
             {
-                "title": "最前线｜仰望鼎曜阿联酋全球首发，预估售价200万元",
-                "source": "NewsAPI / 36kr.com",
+                "title": "黄仁勋婚外情牵出间谍疑云：美中媒体如何讲述同一个故事？",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-09",
-                "url": "https://36kr.com/p/4062540807099270?f=rss"
+                "url": "https://www.voachinese.com/a/one-scandal-two-narratives-how-u-s-and-chinese-media-cover-the-jensen-huang-affair-20261109/8220639.html"
             },
             {
-                "title": "谷歌扩充 TPU 芯片阵容，推出 8tx/8i Max 两款新品挑战英伟达",
-                "source": "NewsAPI / Ithome.com",
+                "title": "婚外情对象被指中共间谍 美众院三大委员会传唤黄仁勋(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-11-09",
-                "url": "https://www.ithome.com/1/024/525.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/11/10/1107220.html"
             },
             {
-                "title": "以旧换新后 1843 元：漫步者 S3000MKII 蓝牙音响 11.11 国补新低",
-                "source": "NewsAPI / Ithome.com",
+                "title": "德国年轻人走上街头：谁来为国家的未来买单？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-09",
-                "url": "https://www.ithome.com/1/024/521.htm"
+                "url": "https://www.ftchinese.com/story/001111317"
             },
             {
-                "title": "OPPO、vivo、小米、荣耀在中国大陆上线 ADV 开发者验证，支持各方结果互认",
-                "source": "NewsAPI / Ithome.com",
+                "title": "AI正在经历痛苦的再定价",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-09",
-                "url": "https://www.ithome.com/1/024/519.htm"
+                "url": "https://www.ftchinese.com/story/001111315"
             }
         ],
         "mil": [
+            {
+                "title": "美智库：解放军百艘舰船集结西太平洋，或正模拟封锁台湾",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-09",
+                "url": "https://www.voachinese.com/a/chinese-pla-s-unusual-buildup-and-activity-around-the-waters-of-east-asia-20261109/8220633.html"
+            },
+            {
+                "title": "为什么AI来了之后，“会说话”变成人的必修课？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-09",
+                "url": "https://www.ftchinese.com/story/001111316"
+            },
+            {
+                "title": "德国年轻人走上街头：谁来为国家的未来买单？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-09",
+                "url": "https://www.ftchinese.com/story/001111317"
+            },
+            {
+                "title": "当资本市场比银行更相信AI",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-09",
+                "url": "https://www.ftchinese.com/story/001111308"
+            },
             {
                 "title": "捷佳伟创：董事长提议回购3亿元至5亿元A股股份",
                 "source": "NewsAPI / 36kr.com",
                 "date": "2026-11-09",
                 "url": "https://36kr.com/newsflashes/4062360653190281?f=rss"
-            },
-            {
-                "title": "科技大佬分享育儿经：奥尔特曼靠 ChatGPT，纳德拉会看孩子电脑使用情况",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-09",
-                "url": "https://www.ithome.com/1/024/374.htm"
-            },
-            {
-                "title": "从黄仁勋“人设翻车” 看美国科技巨头的婚外情代价",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585572.htm"
-            },
-            {
-                "title": "36氪首发丨数十台套产品在轨稳定运行，国科大系卫星推进器公司完成近亿元融资",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-09",
-                "url": "https://36kr.com/p/4062043589432195?f=rss"
-            },
-            {
-                "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-09",
-                "url": "http://www.geekpark.net/news/373644"
             },
             {
                 "title": "2026年11月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -80,16 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4bTBvMU5raUlqMEZkYlByVWo2Qm9UMEpjanJwYTh6NWlxajhoQXd3RnU3bVB4QXpxM2ZZeXNTTW5SVmx2cFUxN09iM1FpaEc5bXBNUDFFN2dOTUVnTHdSd3lITnVKN1V2aFh4Z1FFeHlZZTVRQnc?oc=5"
             },
             {
-                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "title": "中华人民共和国和土耳其共和国关于民事、商事和刑事司法协助的协定 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fUVBpNkd6U2ZwZHJOMXNhVXNSZTBHa2huMGQxOGs2Z3pKbFpXM3F4NTZTZE5yaERqMzRSb05KSVZldHJHSkVSOUVQRzZNYXloaXVVUEpOdGFoRlU4QVJlQjZZUmRTMFRrQkU4SVN3?oc=5"
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZTI4aGFjSTlIY2Z2Njl4TktsR0NkTDJHTS1lSHAtVXExeHh3T3lqczkxQW1ScG9vLUVEcWRrdnN4dnhaMzZiSDFMaUphY3ZMaTNlczR3dHl2RzRUUmpsNl9MeXdKWjRJcWxLV2N3?oc=5"
             },
             {
-                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "title": "中华人民共和国政府和几内亚人民革命共和国政府一九八一年贸易议定书 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yeE9SSEVSY0RRWDFROXZFVHZoXzREWWNPTFJsVEtRN2c3RFQ0dEM3el9oZzNZUEJSU1dlVmhYb29fTnBoWTRScDhWMFYycEc0Rk4wc1lEOUtCamtnckhhWERIUU5MLVRQMjV6VEVR?oc=5"
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zT25qckVuUzJnbFQ5Vkc2YV9EbHhWbGg5Ulo5Tjh4dFFIcmlLMVZvTy1scGtoWEpmZU5fTmtsUmo5QU16WlVMdWZZMzJvN1QxYVBleUxCbEk4dFlhcGtOMlpDcjNHbEkzMWF3WjlB?oc=5"
             },
             {
                 "title": "越是党龄长，越要党性强 - 军网",
@@ -112,34 +112,34 @@
         ],
         "pol": [
             {
-                "title": "最前线｜仰望鼎曜阿联酋全球首发，预估售价200万元",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-09",
-                "url": "https://36kr.com/p/4062540807099270?f=rss"
-            },
-            {
-                "title": "谷歌扩充 TPU 芯片阵容，推出 8tx/8i Max 两款新品挑战英伟达",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-09",
-                "url": "https://www.ithome.com/1/024/525.htm"
-            },
-            {
-                "title": "雷根经典笑话 为什么政治人物在天堂分到豪宅(图)",
+                "title": "加拿大多城集會声援黄之锋 促关闭港经贸办(组图)",
                 "source": "NewsAPI / Secretchina.com",
                 "date": "2026-11-09",
-                "url": "https://www.secretchina.com/news/gb/2026/11/09/1107206.html"
+                "url": "https://www.secretchina.com/news/gb/2026/11/10/1107215.html"
             },
             {
-                "title": "教授法学教授尝试利用 Anthropic 更新讲义页码，反被 AI 删除全年课堂笔记",
-                "source": "NewsAPI / Ithome.com",
+                "title": "婚外情对象被指中共间谍 美众院三大委员会传唤黄仁勋(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-11-09",
-                "url": "https://www.ithome.com/1/024/515.htm"
+                "url": "https://www.secretchina.com/news/gb/2026/11/10/1107220.html"
             },
             {
-                "title": "面向幼儿的AI泰迪熊测试中突然谈及“杀人” 儿童玩具安全性引发担忧",
+                "title": "Uber推出停车预约服务 为自动驾驶出租车布局铺路",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-09",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585628.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585660.htm"
+            },
+            {
+                "title": "为什么AI来了之后，“会说话”变成人的必修课？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-09",
+                "url": "https://www.ftchinese.com/story/001111316"
+            },
+            {
+                "title": "德国年轻人走上街头：谁来为国家的未来买单？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-09",
+                "url": "https://www.ftchinese.com/story/001111317"
             },
             {
                 "title": "2026年11月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4bTBvMU5raUlqMEZkYlByVWo2Qm9UMEpjanJwYTh6NWlxajhoQXd3RnU3bVB4QXpxM2ZZeXNTTW5SVmx2cFUxN09iM1FpaEc5bXBNUDFFN2dOTUVnTHdSd3lITnVKN1V2aFh4Z1FFeHlZZTVRQnc?oc=5"
             },
             {
-                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "title": "中华人民共和国和土耳其共和国关于民事、商事和刑事司法协助的协定 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fUVBpNkd6U2ZwZHJOMXNhVXNSZTBHa2huMGQxOGs2Z3pKbFpXM3F4NTZTZE5yaERqMzRSb05KSVZldHJHSkVSOUVQRzZNYXloaXVVUEpOdGFoRlU4QVJlQjZZUmRTMFRrQkU4SVN3?oc=5"
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zZTI4aGFjSTlIY2Z2Njl4TktsR0NkTDJHTS1lSHAtVXExeHh3T3lqczkxQW1ScG9vLUVEcWRrdnN4dnhaMzZiSDFMaUphY3ZMaTNlczR3dHl2RzRUUmpsNl9MeXdKWjRJcWxLV2N3?oc=5"
             },
             {
-                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "title": "中华人民共和国政府和几内亚人民革命共和国政府一九八一年贸易议定书 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yeE9SSEVSY0RRWDFROXZFVHZoXzREWWNPTFJsVEtRN2c3RFQ0dEM3el9oZzNZUEJSU1dlVmhYb29fTnBoWTRScDhWMFYycEc0Rk4wc1lEOUtCamtnckhhWERIUU5MLVRQMjV6VEVR?oc=5"
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zT25qckVuUzJnbFQ5Vkc2YV9EbHhWbGg5Ulo5Tjh4dFFIcmlLMVZvTy1scGtoWEpmZU5fTmtsUmo5QU16WlVMdWZZMzJvN1QxYVBleUxCbEk4dFlhcGtOMlpDcjNHbEkzMWF3WjlB?oc=5"
             },
             {
                 "title": "越是党龄长，越要党性强 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-10T14:16:05.769263+00:00"
+    "last_updated": "2026-11-10T22:47:46.344576+00:00"
 }
