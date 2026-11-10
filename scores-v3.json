@@ -12,66 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "About a Designer (9) 进入前线阵地",
-                "source": "NewsAPI / Beforweb.com",
-                "date": "2026-11-08",
-                "url": "http://beforweb.com/node/1170"
+                "title": "华泰证券：全球AI算力侧投资加码有望驱动光通信板块归母净利润延续高增长",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-09",
+                "url": "https://36kr.com/newsflashes/4061771679978625?f=rss"
             },
             {
-                "title": "AMD推出超低价AM5平台套装：锐龙7 7700X3D搭配B650主板和32GB DDR5内存仅售649美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585502.htm"
+                "title": "8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-09",
+                "url": "https://36kr.com/p/4061760472585347?f=rss"
             },
             {
-                "title": "​黄仁勋反对全面限制对华AI芯片出口 强调美国应以竞争而非退出市场取胜",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585500.htm"
-            },
-            {
-                "title": "我们距“纯电飞机”还有多远？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585480.htm"
-            },
-            {
-                "title": "消息称摩托罗拉阔折叠手机 Razr Flex 27 会有国行版，搭载第五代骁龙 8 芯片",
+                "title": "IT早报 1109：208 万元比亚迪仰望鼎曜限量版车型价格揭晓；曝 ChatGPT 突现封号风波；特斯拉上海工厂零部件本土化率达 98%；央视曝光二手交易“到手刀”乱象...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-08",
-                "url": "https://www.ithome.com/1/023/978.htm"
+                "url": "https://www.ithome.com/1/024/030.htm"
+            },
+            {
+                "title": "英伟达董事会启动独立调查 核查黄仁勋与涉华情报事件的关系",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585518.htm"
+            },
+            {
+                "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-08",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585514.htm"
             }
         ],
         "mil": [
             {
-                "title": "爆张又侠落马原因 反对习攻台 揭华为导致军方泄密(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-08",
-                "url": "https://www.secretchina.com/news/gb/2026/11/08/1107177.html"
+                "title": "MOUZ 全胜荣获《CS2》 IEM 北京 2026 冠军，Major 前哨战 BLAST 香港本周举行",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-09",
+                "url": "https://www.ithome.com/1/024/041.htm"
             },
             {
-                "title": "为什么「陪伴」，注定是 Personal AI 的核心",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-08",
-                "url": "http://www.geekpark.net/news/373653"
-            },
-            {
-                "title": "BAE Systems推出集装箱式模块化舰炮 40毫米速射炮可快速部署到商船和巡逻舰",
+                "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585476.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585514.htm"
             },
             {
-                "title": "“全球最速”之后 比亚迪仰望推出了一台“全球最豪”的新车",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "Anthropic斥资34亿美元接手发电设备",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585464.htm"
+                "url": "https://www.ftchinese.com/story/001111311"
             },
             {
-                "title": "英国士兵手机遭黑客入侵 私密照片被用于勒索",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "一周世界舆论聚焦：美国大选后中美关系及“特金会”的前景",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585458.htm"
+                "url": "https://www.ftchinese.com/story/001111314"
+            },
+            {
+                "title": "“字节时间”之下：平台如何改变企业命运？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-08",
+                "url": "https://www.ftchinese.com/story/001111305"
+            },
+            {
+                "title": "2026年11月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4bTBvMU5raUlqMEZkYlByVWo2Qm9UMEpjanJwYTh6NWlxajhoQXd3RnU3bVB4QXpxM2ZZeXNTTW5SVmx2cFUxN09iM1FpaEc5bXBNUDFFN2dOTUVnTHdSd3lITnVKN1V2aFh4Z1FFeHlZZTVRQnc?oc=5"
             },
             {
                 "title": "中华人民共和国 - 中华人民共和国-条约数据库",
@@ -86,60 +92,60 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCYnpwb0FLNDZ4TEVLLXhKVDBpYTdWQ3V5RXptaGhaTDVxVVAycTAtWVdUMjdOdWFZYnhncm5xOWUyZDJSS2dSZDc0STlUUjhfQnpIY1p5NXU5YXhSenNoX1EtZUtSdTE0b1pwQ0JR?oc=5"
             },
             {
-                "title": "中华人民共和国政府和比利时王国政府文化协定一九八八年至一九九〇年执行计划（佛拉芒语区） - 中华人民共和国-条约数据库",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMkY4R1VXVFJwMnFhVkZ6WjlYTzR6TFZzekdHU2ZqMzUtdXJVdWdITTAyQTRDY1dfeGNUaVlRNEFJdklONWpMUnI4TnBYRk1zOVk0cFJ2ei1hdFlYclZKb1dDVGl3ZXhvT3g3d0pB?oc=5"
+                "title": "越是党龄长，越要党性强 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3dDlSY2xwZW53VkZzRWgzRUpYUjlzWEItT3hPUzVPWlJOc3NLcmU4eTI5bmoyaDNRbnl3cDhPdUs5dnVYQnlXaVlJem5oUWpKaUE?oc=5"
+            },
+            {
+                "title": "红二十五军长征沿线热土捐赠活动举行 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90TnJRZEFISjlsbDlkQUFWVnFBSmFnTjBNYVhMQUdiM1Eya1RCZ28zOEo1V0ZrM3c3NHZpNm5uN0E3bUh6bFRUN0JOb21BVElyRlE?oc=5"
             },
             {
                 "title": "警惕日本加快进攻性武器部署 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdTBCb2NobTRrV3RwRzlOR2pCUC1kZE9hUWJfSDNpbWVORTQ3NlNQTktBaVBfVUZOcGF2RVJYUVAzNDNYSDdTQ2FISWxvRWd6SEE?oc=5"
-            },
-            {
-                "title": "人民领袖｜高原上 习近平让出自己的氧气袋 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mcnVpMkhVanNKZFBvcDdaOUxSWkplRWhhbmlsV0JuOXNmamIwdEgxRi1OVnp3elJsTW9UMi02UC1TNjVkQ3dQai1GS3VHRk1jY1E?oc=5"
-            },
-            {
-                "title": "《军报每天读》20261108 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pNUNac0E3MmFSakZxbUJNckU1cXdHZ1dhczlFOUtqbU02RjJtR3diZVRSdUNUMC0xUk5FbmszQy02eENlUGlWU1BKRmM0QVVjWjV3Rw?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "About a Designer (9) 进入前线阵地",
-                "source": "NewsAPI / Beforweb.com",
-                "date": "2026-11-08",
-                "url": "http://beforweb.com/node/1170"
+                "title": "中信证券2027年科技股投资策略：科技股估值已至低位，把握技术破局与应用扩散新机遇",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-09",
+                "url": "https://36kr.com/newsflashes/4061802214773632?f=rss"
             },
             {
-                "title": "我们距“纯电飞机”还有多远？",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585480.htm"
+                "title": "8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元",
+                "source": "NewsAPI / 36kr.com",
+                "date": "2026-11-09",
+                "url": "https://36kr.com/p/4061760472585347?f=rss"
             },
             {
-                "title": "马斯克谈当年进中国建厂：一开始也要合资 以特斯拉是婴儿不该结婚为由成功独资",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-08",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585478.htm"
-            },
-            {
-                "title": "腾讯姚顺雨谈“AI 模型公司护城河”：更多存在于产品层，而不是模型层",
+                "title": "IT早报 1109：208 万元比亚迪仰望鼎曜限量版车型价格揭晓；曝 ChatGPT 突现封号风波；特斯拉上海工厂零部件本土化率达 98%；央视曝光二手交易“到手刀”乱象...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-08",
-                "url": "https://www.ithome.com/1/023/991.htm"
+                "url": "https://www.ithome.com/1/024/030.htm"
             },
             {
-                "title": "今年进博会 MUJI 继续诠释本土共创，而更重磅的也许是全新世界旗舰店的消息",
-                "source": "NewsAPI / Toodaylab.com",
+                "title": "英伟达董事会启动独立调查 核查黄仁勋与涉华情报事件的关系",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-08",
-                "url": "https://www.toodaylab.com/84283"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585518.htm"
+            },
+            {
+                "title": "派早报：特斯拉将停产 Cybertruck",
+                "source": "NewsAPI / Sspai.com",
+                "date": "2026-11-08",
+                "url": "https://sspai.com/post/118805"
+            },
+            {
+                "title": "2026年11月9日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4bTBvMU5raUlqMEZkYlByVWo2Qm9UMEpjanJwYTh6NWlxajhoQXd3RnU3bVB4QXpxM2ZZeXNTTW5SVmx2cFUxN09iM1FpaEc5bXBNUDFFN2dOTUVnTHdSd3lITnVKN1V2aFh4Z1FFeHlZZTVRQnc?oc=5"
             },
             {
                 "title": "中华人民共和国 - 中华人民共和国-条约数据库",
@@ -154,31 +160,25 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCYnpwb0FLNDZ4TEVLLXhKVDBpYTdWQ3V5RXptaGhaTDVxVVAycTAtWVdUMjdOdWFZYnhncm5xOWUyZDJSS2dSZDc0STlUUjhfQnpIY1p5NXU5YXhSenNoX1EtZUtSdTE0b1pwQ0JR?oc=5"
             },
             {
-                "title": "中华人民共和国政府和比利时王国政府文化协定一九八八年至一九九〇年执行计划（佛拉芒语区） - 中华人民共和国-条约数据库",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMkY4R1VXVFJwMnFhVkZ6WjlYTzR6TFZzekdHU2ZqMzUtdXJVdWdITTAyQTRDY1dfeGNUaVlRNEFJdklONWpMUnI4TnBYRk1zOVk0cFJ2ei1hdFlYclZKb1dDVGl3ZXhvT3g3d0pB?oc=5"
+                "title": "越是党龄长，越要党性强 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3dDlSY2xwZW53VkZzRWgzRUpYUjlzWEItT3hPUzVPWlJOc3NLcmU4eTI5bmoyaDNRbnl3cDhPdUs5dnVYQnlXaVlJem5oUWpKaUE?oc=5"
+            },
+            {
+                "title": "红二十五军长征沿线热土捐赠活动举行 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-09",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90TnJRZEFISjlsbDlkQUFWVnFBSmFnTjBNYVhMQUdiM1Eya1RCZ28zOEo1V0ZrM3c3NHZpNm5uN0E3bUh6bFRUN0JOb21BVElyRlE?oc=5"
             },
             {
                 "title": "警惕日本加快进攻性武器部署 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-08",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdTBCb2NobTRrV3RwRzlOR2pCUC1kZE9hUWJfSDNpbWVORTQ3NlNQTktBaVBfVUZOcGF2RVJYUVAzNDNYSDdTQ2FISWxvRWd6SEE?oc=5"
-            },
-            {
-                "title": "人民领袖｜高原上 习近平让出自己的氧气袋 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mcnVpMkhVanNKZFBvcDdaOUxSWkplRWhhbmlsV0JuOXNmamIwdEgxRi1OVnp3elJsTW9UMi02UC1TNjVkQ3dQai1GS3VHRk1jY1E?oc=5"
-            },
-            {
-                "title": "《军报每天读》20261108 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-08",
-                "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pNUNac0E3MmFSakZxbUJNckU1cXdHZ1dhczlFOUtqbU02RjJtR3diZVRSdUNUMC0xUk5FbmszQy02eENlUGlWU1BKRmM0QVVjWjV3Rw?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-09T15:05:09.191575+00:00"
+    "last_updated": "2026-11-10T01:08:25.214315+00:00"
 }
