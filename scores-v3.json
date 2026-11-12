@@ -12,66 +12,66 @@
     "news_sources": {
         "econ": [
             {
-                "title": "三星研发可扩展屏幕手机 机身尺寸与显示面积有望自由切换",
+                "title": "IBM公布新一代量子处理器路线图 目标实现万次量子操作并突破千量子比特",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585890.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585986.htm"
             },
             {
-                "title": "开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目 甚至要索赔2.5万美元",
+                "title": "一文看懂：黄仁勋外遇事件后，两党议员考虑迅速立法限制对华芯片出口",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-11",
+                "url": "https://www.voachinese.com/a/following-the-jensen-huang-scandal-lawmakers-from-both-parties-are-considering-swift-legislation-to-restrict-chip-exports-to-china-20261111/8221492.html"
+            },
+            {
+                "title": "“去 #美元 化”真的没那么简单 #俄罗斯 转向 #人民币 结算受阻",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-11-11",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261112/2379903.html"
+            },
+            {
+                "title": "连续7个月下滑超20% 中汽协：乘用车年销或不足1900万辆",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585868.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1585982.htm"
             },
             {
-                "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "对话斯蒂芬•罗奇：中国经济与美国风险，前路何在？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-11",
-                "url": "http://www.geekpark.net/news/373816"
-            },
-            {
-                "title": "高盛预美联储12月再次加息，明年3月第三次加息",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-11",
-                "url": "https://36kr.com/newsflashes/4064825086497670?f=rss"
-            },
-            {
-                "title": "全国产化算力底座：龙芯智能机器车实现深度视觉与目标抓取，由龙芯 2K3000 统一调度",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-11",
-                "url": "https://www.ithome.com/1/025/330.htm"
+                "url": "https://www.ftchinese.com/story/001111334"
             }
         ],
         "mil": [
             {
-                "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "对话斯蒂芬•罗奇：中国经济与美国风险，前路何在？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-11",
-                "url": "http://www.geekpark.net/news/373816"
+                "url": "https://www.ftchinese.com/story/001111334"
             },
             {
-                "title": "张雪机车 53 号冠军车型拍卖款改道：不再捐韩红基金会，转投小车手培养",
+                "title": "从黄仁勋事件，看硅谷公司治理风险",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-11",
+                "url": "https://www.ftchinese.com/story/001111344"
+            },
+            {
+                "title": "从中期选举看美国宪政制度",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-11",
+                "url": "https://www.ftchinese.com/story/001111353"
+            },
+            {
+                "title": "AI 十年内攻克癌症？Anthropic CEO 阿莫迪预测引医学界质疑",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-11",
-                "url": "https://www.ithome.com/1/025/390.htm"
+                "url": "https://www.ithome.com/1/025/617.htm"
             },
             {
-                "title": "Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-11",
-                "url": "http://www.geekpark.net/news/373796"
-            },
-            {
-                "title": "IT早报 1111：Anthropic 启动最高 643.5 亿美元 IPO；全球最强模型 Claude Fable 5.2 登场；董明珠称因铜涨价致格力业绩下滑...",
+                "title": "林肯中国总裁贾鸣镝：全新车型飞行家 EX8 将于明年上半年上市",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-11",
-                "url": "https://www.ithome.com/1/025/224.htm"
-            },
-            {
-                "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
-                "source": "NewsAPI / 36kr.com",
-                "date": "2026-11-11",
-                "url": "https://36kr.com/p/4064610635781257?f=rss"
+                "url": "https://www.ithome.com/1/025/572.htm"
             },
             {
                 "title": "王毅同美国国务卿鲁比奥通电话 - 中华人民共和国外交部",
@@ -80,16 +80,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SlZxMTAxTkU3Vk0wdW5OME9pZzFKUExUZFZzcUNUTGJ0ZGtCNTBRakhuZHRCX0FCRkhlc2lDZTNTTThrbWRmcDNQb09vY1VSTGpucWFNa1ZjZUttV2lhVGV1QWM5S0ZNYi1kWDJB?oc=5"
             },
             {
+                "title": "2026年11月11日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-11",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVzdpeFVUYzZRYXJIaDFpRk9KemMxSFEyY1l0ZmROeEZXZ2RKMjVhVzdnakowX3pyWjl5bkJvdk1ZQ0U1MDUxTTRuZk9HQklycENCRU02aDJ2RjY3VFV4ZzY3Qjgxa2NRb3ZlU0luNlp1eHNQMUE?oc=5"
+            },
+            {
                 "title": "中华人民共和国 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-11",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNHlSaEZRd3lVUzdtNEhCV3BQUnhKT0hKU0VNWWhxRlJWYkZQMkFLLXRKR2VCTXFLc3BESm13OTdaSXBmR1JTVlo4VDJxTmlFQkh1LWFDT2k1QlNud1JpOEItQ1c5V21PZzhPWVNB?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "学习贯彻党的二十届五中全会精神中央宣讲团在北京宣讲 - 军网",
@@ -98,48 +98,48 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pT3Fjd1lzWE1jNldZY2NUYjB5NXB2XzRqRlRDSmVtQlNKSkkxM0ozUE95VG1KNFJvLUxiTkVGNDM5a3RDbDJ1bHF2RUlVbzk5WVE?oc=5"
             },
             {
+                "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在云南宣讲 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Y1RkR19ONWNLaUhxTzN1ajZZVVUzWUJHUUpENGtoaVdfRzBudEowMG5lbC1SeE83cmhnQ0prWVFrQ0pwNWJ1bk9XMHcwTV9WQWc?oc=5"
+            },
+            {
                 "title": "向世界讲述长征这一体现人类毅力、领导力与战略智慧的史诗 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkdGtJazFZYi0xaTBhc3BNTTFENnI1Vjc1bzNxbHJSQmEzbXB2WkVhMm9Bb19nWGZncmZZQTJYWWJtOFRUamZHcWFQVFN4cjB3Wnc?oc=5"
-            },
-            {
-                "title": "习近平同志《论减贫脱贫》主要篇目介绍 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByQ0xWSGJRT2NjU0RBYUlXLUcwNUVjSThFbWhfbUw3NG16bmVobXg1WkR2dmZMaVB4emN6R1FTQTNhdjhkUHg5cHVNLXFvYVdZMFE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目 甚至要索赔2.5万美元",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "对话斯蒂芬•罗奇：中国经济与美国风险，前路何在？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585868.htm"
+                "url": "https://www.ftchinese.com/story/001111334"
             },
             {
-                "title": "Apple Intelligence将对超额使用收取额外的费用 订阅iCloud+套餐会包含更多额度",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "从黄仁勋事件，看硅谷公司治理风险",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-11",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1585864.htm"
+                "url": "https://www.ftchinese.com/story/001111344"
             },
             {
-                "title": "对话英矽智能任峰：年轻的AI4S创业者，我羡慕你们的野心和创造力",
-                "source": "NewsAPI / 36kr.com",
+                "title": "英伟达的治理危机",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-11",
-                "url": "https://36kr.com/p/4059772128646019?f=rss"
+                "url": "https://www.ftchinese.com/story/001111337"
             },
             {
-                "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "美国科技股有望延续反弹趋势",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-11",
-                "url": "http://www.geekpark.net/news/373816"
+                "url": "https://www.ftchinese.com/story/001111345"
             },
             {
-                "title": "IPAC执行董事吁 各国应放弃“一中论述”(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "从中期选举看美国宪政制度",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-11",
-                "url": "https://www.secretchina.com/news/gb/2026/11/11/1107264.html"
+                "url": "https://www.ftchinese.com/story/001111353"
             },
             {
                 "title": "王毅同美国国务卿鲁比奥通电话 - 中华人民共和国外交部",
@@ -148,16 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SlZxMTAxTkU3Vk0wdW5OME9pZzFKUExUZFZzcUNUTGJ0ZGtCNTBRakhuZHRCX0FCRkhlc2lDZTNTTThrbWRmcDNQb09vY1VSTGpucWFNa1ZjZUttV2lhVGV1QWM5S0ZNYi1kWDJB?oc=5"
             },
             {
+                "title": "2026年11月11日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-11",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVzdpeFVUYzZRYXJIaDFpRk9KemMxSFEyY1l0ZmROeEZXZ2RKMjVhVzdnakowX3pyWjl5bkJvdk1ZQ0U1MDUxTTRuZk9HQklycENCRU02aDJ2RjY3VFV4ZzY3Qjgxa2NRb3ZlU0luNlp1eHNQMUE?oc=5"
+            },
+            {
                 "title": "中华人民共和国 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-11",
                 "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNHlSaEZRd3lVUzdtNEhCV3BQUnhKT0hKU0VNWWhxRlJWYkZQMkFLLXRKR2VCTXFLc3BESm13OTdaSXBmR1JTVlo4VDJxTmlFQkh1LWFDT2k1QlNud1JpOEItQ1c5V21PZzhPWVNB?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "学习贯彻党的二十届五中全会精神中央宣讲团在北京宣讲 - 军网",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pT3Fjd1lzWE1jNldZY2NUYjB5NXB2XzRqRlRDSmVtQlNKSkkxM0ozUE95VG1KNFJvLUxiTkVGNDM5a3RDbDJ1bHF2RUlVbzk5WVE?oc=5"
             },
             {
+                "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在云南宣讲 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-12",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Y1RkR19ONWNLaUhxTzN1ajZZVVUzWUJHUUpENGtoaVdfRzBudEowMG5lbC1SeE83cmhnQ0prWVFrQ0pwNWJ1bk9XMHcwTV9WQWc?oc=5"
+            },
+            {
                 "title": "向世界讲述长征这一体现人类毅力、领导力与战略智慧的史诗 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-11",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkdGtJazFZYi0xaTBhc3BNTTFENnI1Vjc1bzNxbHJSQmEzbXB2WkVhMm9Bb19nWGZncmZZQTJYWWJtOFRUamZHcWFQVFN4cjB3Wnc?oc=5"
-            },
-            {
-                "title": "习近平同志《论减贫脱贫》主要篇目介绍 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-10",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByQ0xWSGJRT2NjU0RBYUlXLUcwNUVjSThFbWhfbUw3NG16bmVobXg1WkR2dmZMaVB4emN6R1FTQTNhdjhkUHg5cHVNLXFvYVdZMFE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-12T06:58:13.895331+00:00"
+    "last_updated": "2026-11-12T19:30:03.704825+00:00"
 }
