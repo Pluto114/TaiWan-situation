@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-14",
-                "url": "https://www.ithome.com/1/027/226.htm"
-            },
-            {
-                "title": "微软称服务已全面恢复 此前故障波及全球",
+                "title": "Google为Gemini推出个人财务分析功能 接入银行账户和信用卡 帮用户分析收支",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586400.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586428.htm"
             },
             {
-                "title": "​黄仁勋曾向英伟达高层淡化与黄乐的关系 并考虑起诉《纽约时报》",
+                "title": "微软365大规模故障冲击日企 传真机与固定电话“被迫营业”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586398.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586426.htm"
             },
             {
-                "title": "黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”",
-                "source": "NewsAPI / Ithome.com",
+                "title": "​新加坡澄清未调查黄乐涉间谍案 但曾调查她在Megaspeed相关案件中的角色",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-14",
-                "url": "https://www.ithome.com/1/027/184.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586424.htm"
             },
             {
-                "title": "英特尔联合 23 家韩国企业成立“K-AI 全栈联盟”，构建 AI 基础设施生态",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美股大跌，AI盛宴落幕？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-14",
-                "url": "https://www.ithome.com/1/027/180.htm"
+                "url": "https://www.ftchinese.com/story/001111368"
+            },
+            {
+                "title": "中国光伏行业裁员潮的背后",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-14",
+                "url": "https://www.ftchinese.com/story/001111359"
             }
         ],
         "mil": [
             {
+                "title": "美股大跌，AI盛宴落幕？",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-14",
+                "url": "https://www.ftchinese.com/story/001111368"
+            },
+            {
+                "title": "一周世界舆论聚焦：黄仁勋的陨落与APEC峰会",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-14",
+                "url": "https://www.ftchinese.com/story/001111370"
+            },
+            {
+                "title": "乌克兰“星盾”又被限速 泽连斯基痛批SpaceX",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-14",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586420.htm"
+            },
+            {
                 "title": "微软称服务已全面恢复 此前故障波及全球",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-14",
@@ -56,28 +74,10 @@
                 "url": "https://www.ithome.com/1/027/184.htm"
             },
             {
-                "title": "掌舵英伟达33年的老黄，塌房只花了96小时",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586388.htm"
-            },
-            {
-                "title": "中国10吨级电动商用飞机CE-25A有人驾驶首飞成功",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586378.htm"
-            },
-            {
-                "title": "民主党参议员要求SpaceX保存与乌克兰星链、星盾卫星服务有关的记录",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586364.htm"
-            },
-            {
-                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-13",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZeFFYMUFjU2Y1TEo2R19DbkV0S1BKNzRpS1prRmllR1dySG9leFZ1RXZhb0RQeHhaT2hXaElRNzl4RXRSR19WMHB2X18xVjVSYVMydGFVbm96S2V3am9KNDd3ZHp0UzNadWIxTUhlay1uWnUtRmlr?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "中华人民共和国和厄立特里亚建交联合公报 - 中华人民共和国-条约数据库",
@@ -98,54 +98,54 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FRzlOeUFqblZkYmxMaklId3d5U1p6UERHZHhqb1RoTExFWHc5Q3lTVWZFZFRvV0FMZ1IxZUVHX3RhUFNTRlljN0VDcGwzanNHYWc?oc=5"
             },
             {
-                "title": "习近平主席引领亚太大家庭扬帆前行 - 军网",
+                "title": "聚焦APEC·特稿｜察势而变向新行——习近平主席推动亚太创新发展的故事 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-13",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50V2JGREo4TnJ5RnExZTRBSzlVZDhwRzM2Z0tQQlY0MTNadEx1RzRsVEVfTS1NV1VleHBsX2hBRGhPd29ndWdEQzN5Yw?oc=5"
+                "date": "2026-11-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Z2dVTnpCb1BnWnI0Q0tDVVNkUVlwLW52TzNEUE5FREdQeGdJTXJzMjVFQVBoVFNuQVkzZHJKMEJxNV8yc0Etcm1RajZLdGI4TXc?oc=5"
             },
             {
-                "title": "中国代表：对中东海湾局势国际社会应坚定和平信念 - 军网",
+                "title": "强军论坛｜让征兵全程“晒”在阳光下 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UTTBzTVFUdXRkSVljZHhhR2xyS0FmS0YzR0FScnZLX2ItSnNoc0E3aTZSS0xsTjZQdnJSNDNjZlJzNEVSNTVNNW1Nb3l4Y19OV2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZVGRGejNMcE44eU0zcXlzdmlNUURpZUpNRGdrd3h3S09DWEpaX2t3TTB6YzlmTHB4UkhESVR0TXJSRkJDcEtOc0ttbWJfbkJINkE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "董明珠：格力对文凭的考虑已逐步取消 本事才是硬通行证",
+                "title": "微软365大规模故障冲击日企 传真机与固定电话“被迫营业”",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586406.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586426.htm"
             },
             {
-                "title": "没有车机导航怎么办 这家车企直接卖纸质地图当GPS",
+                "title": "​新加坡澄清未调查黄乐涉间谍案 但曾调查她在Megaspeed相关案件中的角色",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586404.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586424.htm"
             },
             {
-                "title": "微软称服务已全面恢复 此前故障波及全球",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "美股大跌，AI盛宴落幕？",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586400.htm"
+                "url": "https://www.ftchinese.com/story/001111368"
             },
             {
-                "title": "​黄仁勋曾向英伟达高层淡化与黄乐的关系 并考虑起诉《纽约时报》",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "中国光伏行业裁员潮的背后",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-14",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586398.htm"
+                "url": "https://www.ftchinese.com/story/001111359"
             },
             {
-                "title": "中共成立“冷门绝学学院”遭群讽 王丹：有政治意图(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "一周世界舆论聚焦：黄仁勋的陨落与APEC峰会",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-14",
-                "url": "https://www.secretchina.com/news/gb/2026/11/14/1107459.html"
+                "url": "https://www.ftchinese.com/story/001111370"
             },
             {
-                "title": "中华人民共和国 - 中华人民共和国-条约数据库",
+                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-13",
-                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZeFFYMUFjU2Y1TEo2R19DbkV0S1BKNzRpS1prRmllR1dySG9leFZ1RXZhb0RQeHhaT2hXaElRNzl4RXRSR19WMHB2X18xVjVSYVMydGFVbm96S2V3am9KNDd3ZHp0UzNadWIxTUhlay1uWnUtRmlr?oc=5"
+                "date": "2024-05-16",
+                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
             },
             {
                 "title": "中华人民共和国和厄立特里亚建交联合公报 - 中华人民共和国-条约数据库",
@@ -166,19 +166,19 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FRzlOeUFqblZkYmxMaklId3d5U1p6UERHZHhqb1RoTExFWHc5Q3lTVWZFZFRvV0FMZ1IxZUVHX3RhUFNTRlljN0VDcGwzanNHYWc?oc=5"
             },
             {
-                "title": "习近平主席引领亚太大家庭扬帆前行 - 军网",
+                "title": "聚焦APEC·特稿｜察势而变向新行——习近平主席推动亚太创新发展的故事 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-13",
-                "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50V2JGREo4TnJ5RnExZTRBSzlVZDhwRzM2Z0tQQlY0MTNadEx1RzRsVEVfTS1NV1VleHBsX2hBRGhPd29ndWdEQzN5Yw?oc=5"
+                "date": "2026-11-15",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Z2dVTnpCb1BnWnI0Q0tDVVNkUVlwLW52TzNEUE5FREdQeGdJTXJzMjVFQVBoVFNuQVkzZHJKMEJxNV8yc0Etcm1RajZLdGI4TXc?oc=5"
             },
             {
-                "title": "中国代表：对中东海湾局势国际社会应坚定和平信念 - 军网",
+                "title": "强军论坛｜让征兵全程“晒”在阳光下 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-14",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UTTBzTVFUdXRkSVljZHhhR2xyS0FmS0YzR0FScnZLX2ItSnNoc0E3aTZSS0xsTjZQdnJSNDNjZlJzNEVSNTVNNW1Nb3l4Y19OV2c?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZVGRGejNMcE44eU0zcXlzdmlNUURpZUpNRGdrd3h3S09DWEpaX2t3TTB6YzlmTHB4UkhESVR0TXJSRkJDcEtOc0ttbWJfbkJINkE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-15T13:24:07.966702+00:00"
+    "last_updated": "2026-11-15T22:26:51.855776+00:00"
 }
