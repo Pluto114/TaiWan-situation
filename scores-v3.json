@@ -12,37 +12,61 @@
     "news_sources": {
         "econ": [
             {
-                "title": "当AI开始“造药”：谷歌系公司拿下AI制药最大单轮融资",
+                "title": "腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-18",
+                "url": "https://www.ithome.com/1/029/110.htm"
+            },
+            {
+                "title": "韩国“高考”在即 李在明出猛招打击高科技作弊",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586860.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586962.htm"
             },
             {
-                "title": "黄仁勋风波 台经济部：台湾仍无法被取代(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "商汤 2026 财年前三季度营收37.92 亿元，同比增长 30.4%",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-18",
-                "url": "https://www.secretchina.com/news/gb/2026/11/18/1107590.html"
+                "url": "https://www.ithome.com/1/029/088.htm"
             },
             {
-                "title": "影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！",
+                "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-18",
-                "url": "http://www.geekpark.net/news/374125"
+                "url": "http://www.geekpark.net/news/374175"
             },
             {
-                "title": "卡尼再访中国：加拿大在美国与中国之间寻找什么？(图)",
-                "source": "NewsAPI / Secretchina.com",
+                "title": "英伟达澄清新云厂商融资担保规则：担保有生效条件，后续筛选对象将更加审慎",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-18",
-                "url": "https://www.secretchina.com/news/gb/2026/11/18/1107615.html"
-            },
-            {
-                "title": "川普顾问质问卡尼：温哥华都是中国的了….",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-18",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261118/2382161.html"
+                "url": "https://www.ithome.com/1/029/079.htm"
             }
         ],
         "mil": [
+            {
+                "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-18",
+                "url": "http://www.geekpark.net/news/374175"
+            },
+            {
+                "title": "我国首款电动商用飞机装上“中国心”，中国科学院电工所自研推进电机系统完成实飞验证",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-18",
+                "url": "https://www.ithome.com/1/029/083.htm"
+            },
+            {
+                "title": "方博用Z03夺冠，樊振东试了三个月换回狂飙：业余的正解在反手",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-11-18",
+                "url": "https://post.smzdm.com/p/ad7zkwwd/"
+            },
+            {
+                "title": "理想汽车 CTO 谢炎台积电 OIP 论坛开讲，解读马赫 M100 从技术到应用全流程",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-18",
+                "url": "https://www.ithome.com/1/028/924.htm"
+            },
             {
                 "title": "郦英杰：美140亿对台军售可望分案通过 (图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -50,52 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/11/18/1107589.html"
             },
             {
-                "title": "影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "习近平会见韩国总统李在明 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-18",
-                "url": "http://www.geekpark.net/news/374125"
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUTXk2ZlRhMHlqeWxQWHhRWVpzd2VXekZxOUZHV3N0TWpBcnM3WkU1QXB6elFOM3dDZ212MnpuT0lYQmZCMHhzZ3loS21zb296eVBSbHpVdGdtQy1xelA4bl9QTzMyLWlIYjY4?oc=5"
             },
             {
-                "title": "摊牌！ #拜登 回忆录出版 自曝 #台湾问题 重要内幕",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-18",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261118/2382160.html"
-            },
-            {
-                "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-18",
-                "url": "http://www.geekpark.net/news/374109"
-            },
-            {
-                "title": "IT早报 1118：英伟达董事会明确不考虑黄仁勋复职；中国“灵晟”蝉联全球超算榜首；黄仁勋离职后的英伟达首份财报大超预期；两部门要求提升老年人广电收视体验...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-17",
-                "url": "https://www.ithome.com/1/028/595.htm"
+                "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTEp4YmVSX1lDbGJBTmRKOHZuNTctblBHZzFNWEw0TVk3bzRUREpibVF3LTZ0M2VpVWpmZ0VNa0JRcEpicC1PWmwzNklQeWVZUnJwc0ozSnY1ZjByaTBBcXJ5YjRWWlZWb0tj?oc=5"
             },
             {
                 "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-18",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTTVd4OFZWLWtWME0zSl85Wm05bFhFWFN0Z3lZSkVnb0FIbmM5OW1GZ0hyWjdLOS03TlZ0cEFCeWdPcVBfc1ZoSGwwME0xU3NXdkFScjhMT2JvY21IdlJKOG5TWG0xZkVId0lB?oc=5"
-            },
-            {
-                "title": "习近平迎接美国总统特朗普 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vbHlESHJ5N2JTdFRyOGdVWm14amJNMTJzZDkxVjlJaHFJVDJtYUZtdmJXcG4yR3JTMDBQWExVeHhmSnN3ZmFFZVUyemo3QUNJYU1aTExLaWU5V0otMExsdDlBb2F5UkhSVWw0?oc=5"
-            },
-            {
-                "title": "习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文） - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qMnBaYTdNeTVpblRROXc0RDItcGxYc3ZWY1lWUzdnYTdma1hrS3o1VEUtWTJobXE0dURFVWV5bkkyMWd2SFNEVG9RbXFkUVZBWWdMR3hRV0pMSGVkdlI5YmlCUFJVOS1IcFJZ?oc=5"
-            },
-            {
-                "title": "习近平会见韩国总统李在明 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VTmFjX1lvWF9kSVc5TU5VZWVnQk5LVXJ6dzEyVFZRSXk3MVlfazg2dlduaDhld29RbkhpSzIwWEhENDlOZ1VONlh1LWdMZlZRdEE?oc=5"
             },
             {
                 "title": "丁薛祥在江西调研时强调 立足特色和优势加快壮大新动能 推动高质量发展不断取得新成效 - 军网",
@@ -108,62 +102,68 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-18",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKMEVpLXNtR0lXNVJNQ29mQ1NfTVZQN09fUnBRQ0xCSTVKNUg1TTZtR09mNGhTT25KeFJCZzdwUzM3Q2RrY3RkbjlKdFB6S0pSblE?oc=5"
+            },
+            {
+                "title": "供应链融通+AI赋能 亚太工商界看好区域合作机遇 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlLV9UUmxxd3pCUEdsY0pGN3RPOVlyazZwUElEN2xTdkJTcGMtcktTQjdSeS1McU13QWJZUWdZdTJKQy1EcFU1V2NZckxlclk2VEE?oc=5"
+            },
+            {
+                "title": "2026年浙江省海上大规模人命救助暨船舶污染应急处置综合演习在宁波舟山港成功举办 - 浙江海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4Nk9NQ1NYaW0yWW9iMHFYTW9pdzBzS1pFbzFhVjVIUFNtZE1JVUduQUhPNlk3VjFsQzdnRmZ2REJMTElQbnVFOEJDc1k3SEl5YWdiY0F3NUxUMk5wRS01UFNWR1IxRnR2bFN4MVlR?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！",
+                "title": "韩国“高考”在即 李在明出猛招打击高科技作弊",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-18",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1586962.htm"
+            },
+            {
+                "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-18",
-                "url": "http://www.geekpark.net/news/374125"
+                "url": "http://www.geekpark.net/news/374175"
             },
             {
-                "title": "卡尼再访中国：加拿大在美国与中国之间寻找什么？(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-18",
-                "url": "https://www.secretchina.com/news/gb/2026/11/18/1107615.html"
-            },
-            {
-                "title": "博世考虑出售印度技术业务，塔塔 TCS 有望接手其近 3000 名员工",
+                "title": "英伟达澄清新云厂商融资担保规则：担保有生效条件，后续筛选对象将更加审慎",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/028/611.htm"
+                "url": "https://www.ithome.com/1/029/079.htm"
             },
             {
-                "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-18",
-                "url": "http://www.geekpark.net/news/374109"
-            },
-            {
-                "title": "美国科技服务接连出现故障：微软、苹果、AWS、航空管理系统之后，国家安全局机密通信网络也受影响",
+                "title": "旅行者 1 号抵达距地球一光日位置，NASA 金唱片尘封细节被揭开",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/028/601.htm"
+                "url": "https://www.ithome.com/1/029/062.htm"
+            },
+            {
+                "title": "特朗普总统抵达深圳 中国国家主席习近平机场迎接",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-18",
+                "url": "https://www.voachinese.com/a/trump-arrives-shenzhen-ahead-of-trilateral-summit-20261118/8224985.html"
+            },
+            {
+                "title": "习近平会见韩国总统李在明 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-18",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUTXk2ZlRhMHlqeWxQWHhRWVpzd2VXekZxOUZHV3N0TWpBcnM3WkU1QXB6elFOM3dDZ212MnpuT0lYQmZCMHhzZ3loS21zb296eVBSbHpVdGdtQy1xelA4bl9QTzMyLWlIYjY4?oc=5"
+            },
+            {
+                "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTEp4YmVSX1lDbGJBTmRKOHZuNTctblBHZzFNWEw0TVk3bzRUREpibVF3LTZ0M2VpVWpmZ0VNa0JRcEpicC1PWmwzNklQeWVZUnJwc0ozSnY1ZjByaTBBcXJ5YjRWWlZWb0tj?oc=5"
             },
             {
                 "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-18",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTTVd4OFZWLWtWME0zSl85Wm05bFhFWFN0Z3lZSkVnb0FIbmM5OW1GZ0hyWjdLOS03TlZ0cEFCeWdPcVBfc1ZoSGwwME0xU3NXdkFScjhMT2JvY21IdlJKOG5TWG0xZkVId0lB?oc=5"
-            },
-            {
-                "title": "习近平迎接美国总统特朗普 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vbHlESHJ5N2JTdFRyOGdVWm14amJNMTJzZDkxVjlJaHFJVDJtYUZtdmJXcG4yR3JTMDBQWExVeHhmSnN3ZmFFZVUyemo3QUNJYU1aTExLaWU5V0otMExsdDlBb2F5UkhSVWw0?oc=5"
-            },
-            {
-                "title": "习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文） - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qMnBaYTdNeTVpblRROXc0RDItcGxYc3ZWY1lWUzdnYTdma1hrS3o1VEUtWTJobXE0dURFVWV5bkkyMWd2SFNEVG9RbXFkUVZBWWdMR3hRV0pMSGVkdlI5YmlCUFJVOS1IcFJZ?oc=5"
-            },
-            {
-                "title": "习近平会见韩国总统李在明 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VTmFjX1lvWF9kSVc5TU5VZWVnQk5LVXJ6dzEyVFZRSXk3MVlfazg2dlduaDhld29RbkhpSzIwWEhENDlOZ1VONlh1LWdMZlZRdEE?oc=5"
             },
             {
                 "title": "丁薛祥在江西调研时强调 立足特色和优势加快壮大新动能 推动高质量发展不断取得新成效 - 军网",
@@ -176,9 +176,21 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-18",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKMEVpLXNtR0lXNVJNQ29mQ1NfTVZQN09fUnBRQ0xCSTVKNUg1TTZtR09mNGhTT25KeFJCZzdwUzM3Q2RrY3RkbjlKdFB6S0pSblE?oc=5"
+            },
+            {
+                "title": "供应链融通+AI赋能 亚太工商界看好区域合作机遇 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-18",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlLV9UUmxxd3pCUEdsY0pGN3RPOVlyazZwUElEN2xTdkJTcGMtcktTQjdSeS1McU13QWJZUWdZdTJKQy1EcFU1V2NZckxlclk2VEE?oc=5"
+            },
+            {
+                "title": "2026年浙江省海上大规模人命救助暨船舶污染应急处置综合演习在宁波舟山港成功举办 - 浙江海事局",
+                "source": "官方信源 / 海事局",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4Nk9NQ1NYaW0yWW9iMHFYTW9pdzBzS1pFbzFhVjVIUFNtZE1JVUduQUhPNlk3VjFsQzdnRmZ2REJMTElQbnVFOEJDc1k3SEl5YWdiY0F3NUxUMk5wRS01UFNWR1IxRnR2bFN4MVlR?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-19T05:48:42.643575+00:00"
+    "last_updated": "2026-11-19T15:11:48.893105+00:00"
 }
