@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "瞒不住了：英国法院裁定政府必须承认曾要求苹果“开后门”",
+                "title": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-19",
-                "url": "https://www.ithome.com/1/029/699.htm"
+                "url": "https://www.ithome.com/1/029/755.htm"
             },
             {
-                "title": "福特首批自产磷酸铁锂电芯下线 采用宁德时代授权技术",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "苹果 macOS 27.3 Beta 2 公测版发布：扩展 Siri AI 能力，强化完全磁盘访问权限管理",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587120.htm"
+                "url": "https://www.ithome.com/1/029/754.htm"
             },
             {
-                "title": "国际能源署：到2030年数据中心用电量或将翻倍",
+                "title": "NAND闪存现货价格两周内下滑约20% 消费需求疲软成为主因",
                 "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587116.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587158.htm"
             },
             {
-                "title": "占充电车位一小时扣300元，车企终于不惯着了",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "在 #深圳 ， #川普 当场指着 #普京 这样说",
+                "source": "NewsAPI / Bannedbook.org",
                 "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587114.htm"
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2382901.html"
             },
             {
-                "title": "英伟达透露台积电本周曾到访",
-                "source": "NewsAPI / Cnbeta.com.tw",
+                "title": "谷歌 Gemini 现可直接操作苹果 Mac 电脑，可跨应用操作、制作 PPT、填写表单",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587110.htm"
+                "url": "https://www.ithome.com/1/029/749.htm"
             }
         ],
         "mil": [
+            {
+                "title": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动...",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-19",
+                "url": "https://www.ithome.com/1/029/755.htm"
+            },
+            {
+                "title": "川普离华前随行记者手机被收走 引发改道猜测(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-19",
+                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107696.html"
+            },
+            {
+                "title": "美国突下禁令 中国三大电信被禁直接获取美号码(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-19",
+                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107694.html"
+            },
             {
                 "title": "占充电车位一小时扣300元，车企终于不惯着了",
                 "source": "NewsAPI / Cnbeta.com.tw",
@@ -56,40 +74,22 @@
                 "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196866"
             },
             {
-                "title": "【喷嚏图卦20261119】三十年河东，三十年河西",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-19",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196849"
-            },
-            {
-                "title": "美示警两岸24个月关键期 台湾遭封锁隔离风险增(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-19",
-                "url": "https://www.secretchina.com/news/gb/2026/11/19/1107666.html"
-            },
-            {
-                "title": "美国国会报告称中国军方被寻求获取先进英伟达芯片用于AI武器系统",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587100.htm"
-            },
-            {
                 "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTEp4YmVSX1lDbGJBTmRKOHZuNTctblBHZzFNWEw0TVk3bzRUREpibVF3LTZ0M2VpVWpmZ0VNa0JRcEpicC1PWmwzNklQeWVZUnJwc0ozSnY1ZjByaTBBcXJ5YjRWWlZWb0tj?oc=5"
             },
             {
+                "title": "2026年11月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1S3BzVFo0ajktMkxhOFpfUTNvTTJnNmtiVHRGSW1NazBOdjNhZ29wank5aDk5em9sN3dNT1BTN2tfSTJsR0RRZGpvZEZTc1U5cm9RQVhTcGdUbUQtZG5iUURNZVVsNGFDNnhIM2xfRkFYUVNuUGc?oc=5"
+            },
+            {
                 "title": "2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85WjFuWXZ5bFdVVFJ3Ym50elB3eGNEeGpfNnZmSEZtbEdSZTBrTDJuS2JaUlVET013b1RRZlBTMW9kUUdmLTdwSUlJb2ZOaFhubUFaQVp3dEY3TE9QNWxGejFlNERXS2NDTkVB?oc=5"
-            },
-            {
-                "title": "王毅介绍中俄美元首会晤情况 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETmJGNFhjejFsck9ydW03blR1LTdRYm9DYXVraG9DemNFMEZIa1pBOE9FbjM0RU92VVphMDNpejVRdUtYenk2ek9kUGdqT0NJV082Snh6ZVQzMUJ1UEI5Tkp2b09UYjhIVjJPcFJn?oc=5"
             },
             {
                 "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "Anthropic创全球最大IPO纪录 全球半导体股集体上涨",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587122.htm"
-            },
-            {
-                "title": "国际能源署：到2030年数据中心用电量或将翻倍",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587116.htm"
-            },
-            {
-                "title": "占充电车位一小时扣300元，车企终于不惯着了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587114.htm"
-            },
-            {
-                "title": "【长阅读161】失去伴侣以后，一个人还能怎样重新进入他人的生活？",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-19",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196866"
-            },
-            {
-                "title": "阿里巴巴 CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务",
+                "title": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动...",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-19",
-                "url": "https://www.ithome.com/1/029/676.htm"
+                "url": "https://www.ithome.com/1/029/755.htm"
+            },
+            {
+                "title": "FCC批准监狱使用手机信号干扰设备 以打击违禁手机和狱内犯罪活动",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587156.htm"
+            },
+            {
+                "title": "专家：北京借APEC谋定义中美关系 以“战略稳定”约束美国(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-19",
+                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107636.html"
+            },
+            {
+                "title": "袭击法轮功嫌犯逃回中国 法律专家吁启动国际追缉(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-19",
+                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107693.html"
+            },
+            {
+                "title": "美中俄三方会谈后，美日领导人通话 分析：消除盟友疑虑",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-19",
+                "url": "https://www.voachinese.com/a/us-japan-leaders-hold-call-that-could-stabilize-japanese-politics-and-ease-allies-concerns-20261119/8225687.html"
             },
             {
                 "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
@@ -154,16 +154,16 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTEp4YmVSX1lDbGJBTmRKOHZuNTctblBHZzFNWEw0TVk3bzRUREpibVF3LTZ0M2VpVWpmZ0VNa0JRcEpicC1PWmwzNklQeWVZUnJwc0ozSnY1ZjByaTBBcXJ5YjRWWlZWb0tj?oc=5"
             },
             {
+                "title": "2026年11月19日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1S3BzVFo0ajktMkxhOFpfUTNvTTJnNmtiVHRGSW1NazBOdjNhZ29wank5aDk5em9sN3dNT1BTN2tfSTJsR0RRZGpvZEZTc1U5cm9RQVhTcGdUbUQtZG5iUURNZVVsNGFDNnhIM2xfRkFYUVNuUGc?oc=5"
+            },
+            {
                 "title": "2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-19",
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85WjFuWXZ5bFdVVFJ3Ym50elB3eGNEeGpfNnZmSEZtbEdSZTBrTDJuS2JaUlVET013b1RRZlBTMW9kUUdmLTdwSUlJb2ZOaFhubUFaQVp3dEY3TE9QNWxGejFlNERXS2NDTkVB?oc=5"
-            },
-            {
-                "title": "王毅介绍中俄美元首会晤情况 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETmJGNFhjejFsck9ydW03blR1LTdRYm9DYXVraG9DemNFMEZIa1pBOE9FbjM0RU92VVphMDNpejVRdUtYenk2ek9kUGdqT0NJV082Snh6ZVQzMUJ1UEI5Tkp2b09UYjhIVjJPcFJn?oc=5"
             },
             {
                 "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-20T14:51:18.335838+00:00"
+    "last_updated": "2026-11-20T23:39:11.986075+00:00"
 }
