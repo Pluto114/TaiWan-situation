@@ -12,84 +12,102 @@
     "news_sources": {
         "econ": [
             {
-                "title": "马斯克：不认为 AT&T 和 Verizon 会因为 SpaceX 竞争退出市场，正规划新一代手机直连卫星",
+                "title": "瞒不住了：英国法院裁定政府必须承认曾要求苹果“开后门”",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/029/143.htm"
+                "date": "2026-11-19",
+                "url": "https://www.ithome.com/1/029/699.htm"
             },
             {
-                "title": "IT早报 1119：智界获车辆独立生产资质；董明珠回应格力利润下降仍不用铝代铜；苹果 iPhoneDuo 铰链风波升级；华为 HarmonyOS 7 设备占比突破 82%...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/029/142.htm"
+                "title": "福特首批自产磷酸铁锂电芯下线 采用宁德时代授权技术",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587120.htm"
             },
             {
-                "title": "#习近平 #川普 #普京 齐现身 完成“史诗级”同框",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-18",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261119/2382510.html"
+                "title": "国际能源署：到2030年数据中心用电量或将翻倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587116.htm"
             },
             {
-                "title": "北京痛失英伟达“挚友” 美中芯片角力升温(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-18",
-                "url": "https://www.secretchina.com/news/gb/2026/11/19/1107649.html"
+                "title": "占充电车位一小时扣300元，车企终于不惯着了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587114.htm"
             },
             {
-                "title": "美媒曝康伟打造庞大资料中心网络 芯片从印尼运到中国(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-18",
-                "url": "https://www.secretchina.com/news/gb/2026/11/19/1107648.html"
+                "title": "英伟达透露台积电本周曾到访",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587110.htm"
             }
         ],
         "mil": [
             {
-                "title": "美委达成新军事合作协议 赫格塞斯宣布联手打击贩毒集团(图)",
+                "title": "占充电车位一小时扣300元，车企终于不惯着了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587114.htm"
+            },
+            {
+                "title": "【长阅读161】失去伴侣以后，一个人还能怎样重新进入他人的生活？",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-19",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196866"
+            },
+            {
+                "title": "【喷嚏图卦20261119】三十年河东，三十年河西",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-19",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196849"
+            },
+            {
+                "title": "美示警两岸24个月关键期 台湾遭封锁隔离风险增(图)",
                 "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-18",
-                "url": "https://www.secretchina.com/news/gb/2026/11/19/1107652.html"
+                "date": "2026-11-19",
+                "url": "https://www.secretchina.com/news/gb/2026/11/19/1107666.html"
             },
             {
-                "title": "IT早报 1119：智界获车辆独立生产资质；董明珠回应格力利润下降仍不用铝代铜；苹果 iPhoneDuo 铰链风波升级；华为 HarmonyOS 7 设备占比突破 82%...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/029/142.htm"
+                "title": "美国国会报告称中国军方被寻求获取先进英伟达芯片用于AI武器系统",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587100.htm"
             },
             {
-                "title": "袁家军隐身五天后 出席重庆卫生与健康会(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-18",
-                "url": "https://www.secretchina.com/news/gb/2026/11/19/1107635.html"
+                "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTEp4YmVSX1lDbGJBTmRKOHZuNTctblBHZzFNWEw0TVk3bzRUREpibVF3LTZ0M2VpVWpmZ0VNa0JRcEpicC1PWmwzNklQeWVZUnJwc0ozSnY1ZjByaTBBcXJ5YjRWWlZWb0tj?oc=5"
             },
             {
-                "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-18",
-                "url": "http://www.geekpark.net/news/374175"
+                "title": "2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85WjFuWXZ5bFdVVFJ3Ym50elB3eGNEeGpfNnZmSEZtbEdSZTBrTDJuS2JaUlVET013b1RRZlBTMW9kUUdmLTdwSUlJb2ZOaFhubUFaQVp3dEY3TE9QNWxGejFlNERXS2NDTkVB?oc=5"
             },
             {
-                "title": "我国首款电动商用飞机装上“中国心”，中国科学院电工所自研推进电机系统完成实飞验证",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/029/083.htm"
+                "title": "王毅介绍中俄美元首会晤情况 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETmJGNFhjejFsck9ydW03blR1LTdRYm9DYXVraG9DemNFMEZIa1pBOE9FbjM0RU92VVphMDNpejVRdUtYenk2ek9kUGdqT0NJV082Snh6ZVQzMUJ1UEI5Tkp2b09UYjhIVjJPcFJn?oc=5"
             },
             {
-                "title": "丁薛祥在江西调研时强调 立足特色和优势加快壮大新动能 推动高质量发展不断取得新成效 - 军网",
+                "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OaUpVNFpEb3did3llajVZT1M4SU1tQk5IVjdoRlpNTzliRzNsalJIblJkUXJXeUIyQThza2FRb21mYmpkZ0FFRTRoTEZtWVdNbGc?oc=5"
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95R015dzI2bVgtM1pGaXN4WVJhb1N4X3hBVE9UeGZSTjZWbEJSNzZlQTBYNWZIUFRKZ09KNDI1a09UWlhPb0FtWGgzYWpUWlVlVnc?oc=5"
             },
             {
-                "title": "“枪王”比武夺冠复盘：莫让奖牌压偏了准星 - 军网",
+                "title": "我国成功发射卫星互联网低轨30组卫星 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKMEVpLXNtR0lXNVJNQ29mQ1NfTVZQN09fUnBRQ0xCSTVKNUg1TTZtR09mNGhTT25KeFJCZzdwUzM3Q2RrY3RkbjlKdFB6S0pSblE?oc=5"
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HT3g4ZXZkQ01rVXU4RjRKTlJsb19PT0twNDNRdHpkQkFqcG9rY2FsdTRlQUNrZ1Y5RWItUmJWTTdHbTkwa1pialIyek5jU1NTY0E?oc=5"
             },
             {
-                "title": "外交部： 中俄美元首将就事关全球和平的重要问题深入交换意见 - 军网",
+                "title": "新华图讯｜习近平主持中俄美元首会晤 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUUjVVVGYyWk9idkxFamhPTzU0YWRMMnotSmVUbFpvZ05uV1IwWFpibWRndDRYOTFnLW9qVHBoRldrOV95V1drZWt3Z2VDSXhOS1E?oc=5"
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5McFMxcjNkYmlYeTg4Z1VVa3dTM0tuNENoY2RzLWFhNVlfcUp4eEhFNWFNTTZvRFdrVlRmSzVwSzBPWHgxdkhPZTd6Ulc?oc=5"
             },
             {
                 "title": "2026年浙江省海上大规模人命救助暨船舶污染应急处置综合演习在宁波舟山港成功举办 - 浙江海事局",
@@ -100,40 +118,34 @@
         ],
         "pol": [
             {
-                "title": "马斯克：不认为 AT&T 和 Verizon 会因为 SpaceX 竞争退出市场，正规划新一代手机直连卫星",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/029/143.htm"
-            },
-            {
-                "title": "IT早报 1119：智界获车辆独立生产资质；董明珠回应格力利润下降仍不用铝代铜；苹果 iPhoneDuo 铰链风波升级；华为 HarmonyOS 7 设备占比突破 82%...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/029/142.htm"
-            },
-            {
-                "title": "20位共和党众议员联名呼吁特朗普总统在深圳向习近平提出政治犯问题",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-18",
-                "url": "https://www.voachinese.com/a/republican-lawmakes-urge-trump-to-raise-political-prisoners-with-xi-in-shenzhen-20261118/8225243.html"
-            },
-            {
-                "title": "Omdia：2026 年 Q3 中东智能手机出货量同比下降 29%，创两年来最大跌幅，入门机型加速萎缩",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-18",
-                "url": "https://www.ithome.com/1/029/136.htm"
-            },
-            {
-                "title": "AI模型发现Java重大安全漏洞 美国政府紧急敦促企业全面更新系统",
+                "title": "Anthropic创全球最大IPO纪录 全球半导体股集体上涨",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-18",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1586998.htm"
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587122.htm"
             },
             {
-                "title": "习近平会见韩国总统李在明 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUTXk2ZlRhMHlqeWxQWHhRWVpzd2VXekZxOUZHV3N0TWpBcnM3WkU1QXB6elFOM3dDZ212MnpuT0lYQmZCMHhzZ3loS21zb296eVBSbHpVdGdtQy1xelA4bl9QTzMyLWlIYjY4?oc=5"
+                "title": "国际能源署：到2030年数据中心用电量或将翻倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587116.htm"
+            },
+            {
+                "title": "占充电车位一小时扣300元，车企终于不惯着了",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-19",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587114.htm"
+            },
+            {
+                "title": "【长阅读161】失去伴侣以后，一个人还能怎样重新进入他人的生活？",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-19",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196866"
+            },
+            {
+                "title": "阿里巴巴 CEO 吴泳铭：千问已在平头哥芯片训练下一代模型，百炼基于国产芯片提供模型推理服务",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-19",
+                "url": "https://www.ithome.com/1/029/676.htm"
             },
             {
                 "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
@@ -142,28 +154,34 @@
                 "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTEp4YmVSX1lDbGJBTmRKOHZuNTctblBHZzFNWEw0TVk3bzRUREpibVF3LTZ0M2VpVWpmZ0VNa0JRcEpicC1PWmwzNklQeWVZUnJwc0ozSnY1ZjByaTBBcXJ5YjRWWlZWb0tj?oc=5"
             },
             {
-                "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲 - 中华人民共和国外交部",
+                "title": "2026年亚太经合组织领导人深圳展望 建设亚太共同体，促进共同繁荣 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTTVd4OFZWLWtWME0zSl85Wm05bFhFWFN0Z3lZSkVnb0FIbmM5OW1GZ0hyWjdLOS03TlZ0cEFCeWdPcVBfc1ZoSGwwME0xU3NXdkFScjhMT2JvY21IdlJKOG5TWG0xZkVId0lB?oc=5"
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85WjFuWXZ5bFdVVFJ3Ym50elB3eGNEeGpfNnZmSEZtbEdSZTBrTDJuS2JaUlVET013b1RRZlBTMW9kUUdmLTdwSUlJb2ZOaFhubUFaQVp3dEY3TE9QNWxGejFlNERXS2NDTkVB?oc=5"
             },
             {
-                "title": "丁薛祥在江西调研时强调 立足特色和优势加快壮大新动能 推动高质量发展不断取得新成效 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OaUpVNFpEb3did3llajVZT1M4SU1tQk5IVjdoRlpNTzliRzNsalJIblJkUXJXeUIyQThza2FRb21mYmpkZ0FFRTRoTEZtWVdNbGc?oc=5"
+                "title": "王毅介绍中俄美元首会晤情况 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETmJGNFhjejFsck9ydW03blR1LTdRYm9DYXVraG9DemNFMEZIa1pBOE9FbjM0RU92VVphMDNpejVRdUtYenk2ek9kUGdqT0NJV082Snh6ZVQzMUJ1UEI5Tkp2b09UYjhIVjJPcFJn?oc=5"
             },
             {
-                "title": "“枪王”比武夺冠复盘：莫让奖牌压偏了准星 - 军网",
+                "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKMEVpLXNtR0lXNVJNQ29mQ1NfTVZQN09fUnBRQ0xCSTVKNUg1TTZtR09mNGhTT25KeFJCZzdwUzM3Q2RrY3RkbjlKdFB6S0pSblE?oc=5"
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95R015dzI2bVgtM1pGaXN4WVJhb1N4X3hBVE9UeGZSTjZWbEJSNzZlQTBYNWZIUFRKZ09KNDI1a09UWlhPb0FtWGgzYWpUWlVlVnc?oc=5"
             },
             {
-                "title": "外交部： 中俄美元首将就事关全球和平的重要问题深入交换意见 - 军网",
+                "title": "我国成功发射卫星互联网低轨30组卫星 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-18",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUUjVVVGYyWk9idkxFamhPTzU0YWRMMnotSmVUbFpvZ05uV1IwWFpibWRndDRYOTFnLW9qVHBoRldrOV95V1drZWt3Z2VDSXhOS1E?oc=5"
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HT3g4ZXZkQ01rVXU4RjRKTlJsb19PT0twNDNRdHpkQkFqcG9rY2FsdTRlQUNrZ1Y5RWItUmJWTTdHbTkwa1pialIyek5jU1NTY0E?oc=5"
+            },
+            {
+                "title": "新华图讯｜习近平主持中俄美元首会晤 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-19",
+                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5McFMxcjNkYmlYeTg4Z1VVa3dTM0tuNENoY2RzLWFhNVlfcUp4eEhFNWFNTTZvRFdrVlRmSzVwSzBPWHgxdkhPZTd6Ulc?oc=5"
             },
             {
                 "title": "2026年浙江省海上大规模人命救助暨船舶污染应急处置综合演习在宁波舟山港成功举办 - 浙江海事局",
@@ -174,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-20T00:15:11.925572+00:00"
+    "last_updated": "2026-11-20T14:51:18.335838+00:00"
 }
