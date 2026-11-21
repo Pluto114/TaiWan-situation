@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动...",
+                "title": "CounterPoint 报告 2026Q3 全球电视出货：海信反超 TCL，中国双雄的“第二之争”白热化",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-19",
-                "url": "https://www.ithome.com/1/029/755.htm"
+                "date": "2026-11-20",
+                "url": "https://www.ithome.com/1/029/865.htm"
             },
             {
-                "title": "苹果 macOS 27.3 Beta 2 公测版发布：扩展 Siri AI 能力，强化完全磁盘访问权限管理",
+                "title": "三星手机换帅了！崔元俊正式上位，卢泰文交出 MX 事业部大权",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-19",
-                "url": "https://www.ithome.com/1/029/754.htm"
+                "date": "2026-11-20",
+                "url": "https://www.ithome.com/1/029/837.htm"
             },
             {
-                "title": "NAND闪存现货价格两周内下滑约20% 消费需求疲软成为主因",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587158.htm"
-            },
-            {
-                "title": "在 #深圳 ， #川普 当场指着 #普京 这样说",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-19",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2382901.html"
-            },
-            {
-                "title": "谷歌 Gemini 现可直接操作苹果 Mac 电脑，可跨应用操作、制作 PPT、填写表单",
+                "title": "育碧成立 Motherbrain 专注于游戏 AI，半年员工人数减少近 1100 人",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-19",
-                "url": "https://www.ithome.com/1/029/749.htm"
+                "date": "2026-11-20",
+                "url": "https://www.ithome.com/1/029/795.htm"
+            },
+            {
+                "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-20",
+                "url": "http://www.geekpark.net/news/374235"
+            },
+            {
+                "title": "特斯拉副总裁陶琳：马斯克 24 小时中国行专门从深圳飞到上海，对上海超级工厂赞赏有加",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-20",
+                "url": "https://www.ithome.com/1/029/778.htm"
             }
         ],
         "mil": [
+            {
+                "title": "#共军 到底能不能打仗？多国抛出硬核现实",
+                "source": "NewsAPI / Bannedbook.org",
+                "date": "2026-11-20",
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2382975.html"
+            },
+            {
+                "title": "真实世界里，需要一点“阻力” | 学者王小伟",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-20",
+                "url": "https://www.dapenti.com/blog/more.asp?name=agile&id=196872"
+            },
+            {
+                "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+                "source": "NewsAPI / Ruanyifeng.com",
+                "date": "2026-11-20",
+                "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html"
+            },
             {
                 "title": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动...",
                 "source": "NewsAPI / Ithome.com",
@@ -56,24 +74,6 @@
                 "url": "https://www.secretchina.com/news/gb/2026/11/20/1107696.html"
             },
             {
-                "title": "美国突下禁令 中国三大电信被禁直接获取美号码(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-19",
-                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107694.html"
-            },
-            {
-                "title": "占充电车位一小时扣300元，车企终于不惯着了",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587114.htm"
-            },
-            {
-                "title": "【长阅读161】失去伴侣以后，一个人还能怎样重新进入他人的生活？",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-19",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196866"
-            },
-            {
                 "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-19",
@@ -104,10 +104,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HT3g4ZXZkQ01rVXU4RjRKTlJsb19PT0twNDNRdHpkQkFqcG9rY2FsdTRlQUNrZ1Y5RWItUmJWTTdHbTkwa1pialIyek5jU1NTY0E?oc=5"
             },
             {
-                "title": "新华图讯｜习近平主持中俄美元首会晤 - 军网",
+                "title": "亚太媒体合作伙伴计划正式成立 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5McFMxcjNkYmlYeTg4Z1VVa3dTM0tuNENoY2RzLWFhNVlfcUp4eEhFNWFNTTZvRFdrVlRmSzVwSzBPWHgxdkhPZTd6Ulc?oc=5"
+                "date": "2026-11-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVHBLZWhDQy05b2pFQXNsTmpnM1Q0cUdycHR2UGhVTUZsbU0xcDNvdEFzZUdWR2xTYUlZbmhiVjhwSGd2dW1ldFhjOTBOXzl2X2c?oc=5"
             },
             {
                 "title": "2026年浙江省海上大规模人命救助暨船舶污染应急处置综合演习在宁波舟山港成功举办 - 浙江海事局",
@@ -118,34 +118,34 @@
         ],
         "pol": [
             {
-                "title": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动...",
+                "title": "兰博基尼敞篷超跑 Temerario Spyder 登场：首次搭载可伸缩硬顶，零百加速 2.7 秒",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-19",
-                "url": "https://www.ithome.com/1/029/755.htm"
+                "date": "2026-11-20",
+                "url": "https://www.ithome.com/1/029/806.htm"
             },
             {
-                "title": "FCC批准监狱使用手机信号干扰设备 以打击违禁手机和狱内犯罪活动",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-19",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587156.htm"
+                "title": "育碧成立 Motherbrain 专注于游戏 AI，半年员工人数减少近 1100 人",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-20",
+                "url": "https://www.ithome.com/1/029/795.htm"
             },
             {
-                "title": "专家：北京借APEC谋定义中美关系 以“战略稳定”约束美国(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-19",
-                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107636.html"
+                "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-20",
+                "url": "http://www.geekpark.net/news/374235"
             },
             {
-                "title": "袭击法轮功嫌犯逃回中国 法律专家吁启动国际追缉(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-19",
-                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107693.html"
+                "title": "真实世界里，需要一点“阻力” | 学者王小伟",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-20",
+                "url": "https://www.dapenti.com/blog/more.asp?name=agile&id=196872"
             },
             {
-                "title": "美中俄三方会谈后，美日领导人通话 分析：消除盟友疑虑",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-19",
-                "url": "https://www.voachinese.com/a/us-japan-leaders-hold-call-that-could-stabilize-japanese-politics-and-ease-allies-concerns-20261119/8225687.html"
+                "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+                "source": "NewsAPI / Ruanyifeng.com",
+                "date": "2026-11-20",
+                "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html"
             },
             {
                 "title": "习近平会见美国总统特朗普 - 中华人民共和国外交部",
@@ -178,10 +178,10 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HT3g4ZXZkQ01rVXU4RjRKTlJsb19PT0twNDNRdHpkQkFqcG9rY2FsdTRlQUNrZ1Y5RWItUmJWTTdHbTkwa1pialIyek5jU1NTY0E?oc=5"
             },
             {
-                "title": "新华图讯｜习近平主持中俄美元首会晤 - 军网",
+                "title": "亚太媒体合作伙伴计划正式成立 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5McFMxcjNkYmlYeTg4Z1VVa3dTM0tuNENoY2RzLWFhNVlfcUp4eEhFNWFNTTZvRFdrVlRmSzVwSzBPWHgxdkhPZTd6Ulc?oc=5"
+                "date": "2026-11-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVHBLZWhDQy05b2pFQXNsTmpnM1Q0cUdycHR2UGhVTUZsbU0xcDNvdEFzZUdWR2xTYUlZbmhiVjhwSGd2dW1ldFhjOTBOXzl2X2c?oc=5"
             },
             {
                 "title": "2026年浙江省海上大规模人命救助暨船舶污染应急处置综合演习在宁波舟山港成功举办 - 浙江海事局",
@@ -192,5 +192,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-20T23:39:11.986075+00:00"
+    "last_updated": "2026-11-21T05:30:49.679407+00:00"
 }
