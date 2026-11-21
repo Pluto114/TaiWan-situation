@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-20",
-                "url": "https://www.ithome.com/1/030/246.htm"
-            },
-            {
-                "title": "英特尔裁员风暴持续 数百名IT部门员工或将被裁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587294.htm"
-            },
-            {
-                "title": "AI #芯片 出口 #中国 引国安争议 #美众院 揭近88万颗核准数据",
+                "title": "#中共 AI #芯片 最后管道被 #美国 斩断",
                 "source": "NewsAPI / Bannedbook.org",
                 "date": "2026-11-20",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2383144.html"
+                "url": "https://www.bannedbook.org/bnews/cnnews/20261121/2383288.html"
             },
             {
-                "title": "文远知行 2026 财年前三季度归母亏损 11 亿元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "《VOA今日焦点》音频",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-20",
-                "url": "https://www.ithome.com/1/030/224.htm"
+                "url": "https://www.voachinese.com/a/8225743.html"
             },
             {
-                "title": "#习近平 健康出状况？ #川普 这一动作泄密",
-                "source": "NewsAPI / Bannedbook.org",
+                "title": "美议员、业界警告：中国已在多项关键制造业超美，美须重夺领导地位",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-20",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2383126.html"
+                "url": "https://www.voachinese.com/a/select-committee-holds-hearing-on-outproducing-the-ccp-and-restoring-american-manufacturing-20261120/8226170.html"
+            },
+            {
+                "title": "川普公布亚洲行成果 对伊朗划红线 普京表态乌战(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-20",
+                "url": "https://www.secretchina.com/news/gb/2026/11/21/1107730.html"
+            },
+            {
+                "title": "特朗普：希望禁止美企在海外建数据中心，以在超级智能竞赛保持领先中国",
+                "source": "NewsAPI / Voachinese.com",
+                "date": "2026-11-20",
+                "url": "https://www.voachinese.com/a/trump-says-he-wants-ban-on-us-companies-building-foreign-data-centers-amid-effort-to-stay-ahead-of-china-in-si-race-20261120/8226165.html"
             }
         ],
         "mil": [
+            {
+                "title": "中美就人工智能达成共识：重大军事行动必须保留人工决策",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587328.htm"
+            },
+            {
+                "title": "联合国法院认定缅甸实施种族灭绝 Facebook被指助长针对罗兴亚人的仇恨宣传",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587314.htm"
+            },
+            {
+                "title": "消息人士：美以考虑再次打击伊朗川普尚未作最终决定(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-20",
+                "url": "https://www.secretchina.com/news/gb/2026/11/21/1107728.html"
+            },
             {
                 "title": "美以考虑再度打击伊朗 民主党拟限制战争拨款(图)",
                 "source": "NewsAPI / Secretchina.com",
@@ -56,40 +74,22 @@
                 "url": "https://www.secretchina.com/news/gb/2026/11/20/1107718.html"
             },
             {
-                "title": "国际法院以九票对六票认定缅甸对罗兴亚人实施种族灭绝",
-                "source": "NewsAPI / DW (English)",
-                "date": "2026-11-20",
-                "url": "https://www.dw.com/zh/%E5%9B%BD%E9%99%85%E6%B3%95%E9%99%A2%E4%BB%A5%E4%B9%9D%E7%A5%A8%E5%AF%B9%E5%85%AD%E7%A5%A8%E8%AE%A4%E5%AE%9A%E7%BC%85%E7%94%B8%E5%AF%B9%E7%BD%97%E5%85%B4%E4%BA%9A%E4%BA%BA%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D/a-80002919"
-            },
-            {
-                "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-20",
-                "url": "http://www.geekpark.net/news/374282"
-            },
-            {
-                "title": "【喷嚏图卦20261120】人类有两件事情同时发生，非同寻常",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-20",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196875"
-            },
-            {
-                "title": "王毅介绍中俄美元首会晤情况 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETmJGNFhjejFsck9ydW03blR1LTdRYm9DYXVraG9DemNFMEZIa1pBOE9FbjM0RU92VVphMDNpejVRdUtYenk2ek9kUGdqT0NJV082Snh6ZVQzMUJ1UEI5Tkp2b09UYjhIVjJPcFJn?oc=5"
-            },
-            {
                 "title": "2026年11月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-20",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMWpLWTZoTkxNTEdDYnFOcV92eFkyOFdFTUctazFiV2NCSlBONVdEYU1kTDNMajN6eE1sa2RRZnFuN3liZlFfVkZTQWtfb0Jhb0tDd3l0NW1jT3YwZ29NOVlrYzVLNjgxeTNyMXF5czJuejF3T0E?oc=5"
             },
             {
-                "title": "王毅谈亚太共同体的“四梁八柱” - 中华人民共和国外交部",
+                "title": "中国—东盟关于深化林业合作的联合声明 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUUlIWGk2R09nb0l2MnJrT25YbmpDa0tkMFZ4c210TW1tLWJmQXQyS28xOWFhcFJpU01GYzFIZ3NUOXJhNTQ4UGNYQmV6LWJLd2VWSHZBaUtOREtpQVJ2c0pQVXVUQ0xfaFN2UUowcC00ZW5UbUpuTWhrclR4ekZ5NUQxSmhVVHhQX3VZ?oc=5"
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXYtdE5jc2V4cU5nUlctRXdBbUZpSHJHaDJ1a1VtX1pMeFluXzBRY2toT29xc0E2d1kxM3Z2UlFQRkVMOUJzMzNoeU5zeUQ0YkVIUUNmenRpMDRnb1hoMkRkeXZkdkVJVEtHcjEtcDByanFLN2pJNF9IMWUxa3QwT2tRNmdsaC1IckRPVw?oc=5"
+            },
+            {
+                "title": "驻济州总领事陈建军发表署名文章《共赴APEC深圳之约，同启亚太合作新篇》 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JdmUzRHlHV18zQUNFdFNvZnpfSlVXcmhnczNfOFlQTEsyNXVseW9zMWhRNlpiUWFkWjNzaXJxSlU3d1BBcmFsN01TeENRMFNMVEFkZ1UyR0dRcXFFeXRrT0FmamEtRzB5UTZmNy02bjNfZ1c0TUI0OThkWQ?oc=5"
             },
             {
                 "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
@@ -112,40 +112,34 @@
         ],
         "pol": [
             {
-                "title": "英特尔裁员风暴持续 数百名IT部门员工或将被裁",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587294.htm"
-            },
-            {
-                "title": "美前官员：川习 #深圳 会为维系关系 美中稳定也对 #台湾 有益",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-20",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2383146.html"
-            },
-            {
-                "title": "AI #芯片 出口 #中国 引国安争议 #美众院 揭近88万颗核准数据",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-20",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261120/2383144.html"
-            },
-            {
-                "title": "美国亚特兰大警方发文，呼吁玩家勿将《GTA6》游戏犯罪内容搬到现实",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-20",
-                "url": "https://www.ithome.com/1/030/230.htm"
-            },
-            {
-                "title": "台北市长选战两党大对决 料将影响2028年台湾政治布局",
+                "title": "美议员、业界警告：中国已在多项关键制造业超美，美须重夺领导地位",
                 "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-20",
-                "url": "https://www.voachinese.com/a/the-importance-and-influence-of-taipei-mayor-s-election-20261120/8225984.html"
+                "url": "https://www.voachinese.com/a/select-committee-holds-hearing-on-outproducing-the-ccp-and-restoring-american-manufacturing-20261120/8226170.html"
             },
             {
-                "title": "王毅介绍中俄美元首会晤情况 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETmJGNFhjejFsck9ydW03blR1LTdRYm9DYXVraG9DemNFMEZIa1pBOE9FbjM0RU92VVphMDNpejVRdUtYenk2ek9kUGdqT0NJV082Snh6ZVQzMUJ1UEI5Tkp2b09UYjhIVjJPcFJn?oc=5"
+                "title": "中美就人工智能达成共识：重大军事行动必须保留人工决策",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587328.htm"
+            },
+            {
+                "title": "德国和奥地利推动TikTok欧洲业务易主：希望由欧洲资本接管 复制美国方案",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587320.htm"
+            },
+            {
+                "title": "亚马逊警告纽约用户：新法案若获通过 每笔订单成本或增加5美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587318.htm"
+            },
+            {
+                "title": "联合国法院认定缅甸实施种族灭绝 Facebook被指助长针对罗兴亚人的仇恨宣传",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-20",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587314.htm"
             },
             {
                 "title": "2026年11月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -154,10 +148,16 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMWpLWTZoTkxNTEdDYnFOcV92eFkyOFdFTUctazFiV2NCSlBONVdEYU1kTDNMajN6eE1sa2RRZnFuN3liZlFfVkZTQWtfb0Jhb0tDd3l0NW1jT3YwZ29NOVlrYzVLNjgxeTNyMXF5czJuejF3T0E?oc=5"
             },
             {
-                "title": "王毅谈亚太共同体的“四梁八柱” - 中华人民共和国外交部",
+                "title": "中国—东盟关于深化林业合作的联合声明 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-19",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUUlIWGk2R09nb0l2MnJrT25YbmpDa0tkMFZ4c210TW1tLWJmQXQyS28xOWFhcFJpU01GYzFIZ3NUOXJhNTQ4UGNYQmV6LWJLd2VWSHZBaUtOREtpQVJ2c0pQVXVUQ0xfaFN2UUowcC00ZW5UbUpuTWhrclR4ekZ5NUQxSmhVVHhQX3VZ?oc=5"
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXYtdE5jc2V4cU5nUlctRXdBbUZpSHJHaDJ1a1VtX1pMeFluXzBRY2toT29xc0E2d1kxM3Z2UlFQRkVMOUJzMzNoeU5zeUQ0YkVIUUNmenRpMDRnb1hoMkRkeXZkdkVJVEtHcjEtcDByanFLN2pJNF9IMWUxa3QwT2tRNmdsaC1IckRPVw?oc=5"
+            },
+            {
+                "title": "驻济州总领事陈建军发表署名文章《共赴APEC深圳之约，同启亚太合作新篇》 - 中华人民共和国外交部",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-20",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JdmUzRHlHV18zQUNFdFNvZnpfSlVXcmhnczNfOFlQTEsyNXVseW9zMWhRNlpiUWFkWjNzaXJxSlU3d1BBcmFsN01TeENRMFNMVEFkZ1UyR0dRcXFFeXRrT0FmamEtRzB5UTZmNy02bjNfZ1c0TUI0OThkWQ?oc=5"
             },
             {
                 "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-21T14:09:18.298027+00:00"
+    "last_updated": "2026-11-21T22:44:29.994791+00:00"
 }
