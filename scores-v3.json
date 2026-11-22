@@ -12,37 +12,55 @@
     "news_sources": {
         "econ": [
             {
-                "title": "【铂程的票圈133】自由选择",
+                "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-21",
+                "url": "https://www.ithome.com/1/030/464.htm"
+            },
+            {
+                "title": "英特尔前CEO帕特·基辛格：摩尔定律尚未终结，AI需要1万倍效率跃升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587398.htm"
+            },
+            {
+                "title": "比特币跌破6万美元创逾两年新低 ETF资金持续外流加剧抛售压力",
                 "source": "NewsAPI / Dapenti.com",
                 "date": "2026-11-21",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196881"
+                "url": "https://www.dapenti.com/blog/more.asp?name=caijing&id=196889"
             },
             {
-                "title": "商务部：重点监测平台 1-10 月即时零售交易额增速超过两位数",
-                "source": "NewsAPI / Ithome.com",
+                "title": "A股下周看点：首批18只主动ETF将上市，多个会议将陆续召开，成品油将迎来调价窗口",
+                "source": "NewsAPI / Dapenti.com",
                 "date": "2026-11-21",
-                "url": "https://www.ithome.com/1/030/341.htm"
+                "url": "https://www.dapenti.com/blog/more.asp?name=caijing&id=196883"
             },
             {
-                "title": "现价近 7000 欧元的英伟达 RTX 5090 FE 显卡送修后被销毁，平台只愿退原价 2369 欧元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "离职风波未平又遭SEC会计调查 英伟达本周市值蒸发近9000亿美元跌出美股前三",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-21",
-                "url": "https://www.ithome.com/1/030/307.htm"
-            },
-            {
-                "title": "美中正洽谈这项重要协议",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-21",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261121/2383325.html"
-            },
-            {
-                "title": "今日消费资讯：汉堡黄新歌《1%》上线、星巴克中国“星现烤”系列开始上架",
-                "source": "NewsAPI / Toodaylab.com",
-                "date": "2026-11-21",
-                "url": "https://www.toodaylab.com/84299"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587384.htm"
             }
         ],
         "mil": [
+            {
+                "title": "北京高喊和平 百艘军舰却威胁台湾(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-21",
+                "url": "https://www.secretchina.com/news/gb/2026/11/21/1107757.html"
+            },
+            {
+                "title": "美国公司将特斯拉 Model 3 爆改成 MPV，超充、OTA、辅助驾驶都能用",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-21",
+                "url": "https://www.ithome.com/1/030/458.htm"
+            },
+            {
+                "title": "【喷嚏图卦20261121】如果我们不卖给他们，他们就会自己造",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-21",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196882"
+            },
             {
                 "title": "美国之音中文广播 (2026年11月20日) 特朗普将待新年过后再就有关伊朗的选项作决定；普京誓言报复后，俄军袭击导致乌克兰8人死亡，基辅桥梁遇袭，多国使馆受损",
                 "source": "NewsAPI / Voachinese.com",
@@ -56,129 +74,111 @@
                 "url": "https://www.cnbeta.com.tw/articles/tech/1587328.htm"
             },
             {
-                "title": "联合国法院认定缅甸实施种族灭绝 Facebook被指助长针对罗兴亚人的仇恨宣传",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-20",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587314.htm"
-            },
-            {
-                "title": "消息人士：美以考虑再次打击伊朗川普尚未作最终决定(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-20",
-                "url": "https://www.secretchina.com/news/gb/2026/11/21/1107728.html"
-            },
-            {
-                "title": "美以考虑再度打击伊朗 民主党拟限制战争拨款(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-20",
-                "url": "https://www.secretchina.com/news/gb/2026/11/20/1107723.html"
-            },
-            {
-                "title": "2026年11月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "驻外报道 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMWpLWTZoTkxNTEdDYnFOcV92eFkyOFdFTUctazFiV2NCSlBONVdEYU1kTDNMajN6eE1sa2RRZnFuN3liZlFfVkZTQWtfb0Jhb0tDd3l0NW1jT3YwZ29NOVlrYzVLNjgxeTNyMXF5czJuejF3T0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOE8wUV90S3M3VC1wYTlkMUZmRmVTQzFLdWJnU3I1RjRveWx4ZW9sNTFsZ1N2a0EzaWNPYmljWXV1ZkRySC1NYjBNRWQ2aDVHWVhmbzlXTTJsNk1XVS1WMElDOXlzQ3ZEOHBaTHpGRU84Y21MdXd6a3FKVG1hRDlObmxTd1E2ZG9tZ0NKa245ZF9YalZHRDhFbnBxUzFtZTEyamc?oc=5"
             },
             {
-                "title": "驻釜山总领事陈日彪向领区媒体及智库学者宣介中国共产党二十届五中全会精神 - 中华人民共和国外交部",
+                "title": "中澳总理年度会晤联合成果声明（全文） - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1BBaXpsYnM1NkNDbDlMc1dYb0sxSmQ1WXJJVmNkYm1NODZzYmNzNTVtQmZVUk9Cdl9Teks0VTczRjJUYVEzck53Z3JvSVFsSVJPV3ZWTFBvRGlQRnpwM0RQTTJ6UzVpZW9PQ1hsRG9kYXR2eWNOQWdueWg4VUs3clFORzM?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFRndnhTTFRwY0tlSzQ2bXFfSUJLSENVYjhKMXZiOTBMdjlqMEs1SGhLRGZ0c2t3Z25fcUptbDZieXRFUmhDTlRmUHRtRmN5MENoUWhmQWlFdTNQT0R3OUltWlU1Ml9QTkVSOEVFei1HSXJqaktDQUMxN2I5Y00tRGxtQjI0akE?oc=5"
             },
             {
-                "title": "驻济州总领事陈建军发表署名文章《共赴APEC深圳之约，同启亚太合作新篇》 - 中华人民共和国外交部",
+                "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JdmUzRHlHV18zQUNFdFNvZnpfSlVXcmhnczNfOFlQTEsyNXVseW9zMWhRNlpiUWFkWjNzaXJxSlU3d1BBcmFsN01TeENRMFNMVEFkZ1UyR0dRcXFFeXRrT0FmamEtRzB5UTZmNy02bjNfZ1c0TUI0OThkWQ?oc=5"
-            },
-            {
-                "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95R015dzI2bVgtM1pGaXN4WVJhb1N4X3hBVE9UeGZSTjZWbEJSNzZlQTBYNWZIUFRKZ09KNDI1a09UWlhPb0FtWGgzYWpUWlVlVnc?oc=5"
-            },
-            {
-                "title": "我国成功发射卫星互联网低轨30组卫星 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HT3g4ZXZkQ01rVXU4RjRKTlJsb19PT0twNDNRdHpkQkFqcG9rY2FsdTRlQUNrZ1Y5RWItUmJWTTdHbTkwa1pialIyek5jU1NTY0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGs2TGhpYjFTeW42SGlQUkNTMzZkalhOb1JDUkpIamYzNmpub1BxR0JmUW5nR2dBXzM2OU9xWjloa3A2UjVMbFpUR191a2YxNllYMTNIV3VNREVCNVpPM3RiT1hfaVFaWXdHTE5rNXFUQWZIaF9PMURaUmYwWjV4TWItcEVRNi1BSy1fWUt3?oc=5"
             },
             {
                 "title": "亚太媒体合作伙伴计划正式成立 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVHBLZWhDQy05b2pFQXNsTmpnM1Q0cUdycHR2UGhVTUZsbU0xcDNvdEFzZUdWR2xTYUlZbmhiVjhwSGd2dW1ldFhjOTBOXzl2X2c?oc=5"
+            },
+            {
+                "title": "【讲习所·和合共生】习近平引领亚太共同体建设迈入新阶段 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZUs4anEySGJTZy1SWmVydjZ0cXpPdzdjV2NudmljRk04VUZVYlZwZTNOXzVKRko2eEZEYTZrd0RmaXZwa09waEo2azFNcU1QOEE?oc=5"
+            },
+            {
+                "title": "强军论坛丨破除潜规则 强化明规则 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNlRLVXIzS2xmSkJSRGNtWFNQRExCUVE2TGJUVFNVU3hIcWxTVmw1NS1BYm83aV9xUldkMVAwdkFsSnNiOFFSanBVdmFjUTJaR1E?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "Steam 黑五多款游戏新史低：《战地 6》65.34 元、《对马岛之魂：导剪版》199 元、《最终幻想 7：重制版》35.64 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "脆骨与高压锅：从瘦金体到八旗制，那些写在基因里的亡国之兆 (评论: 中国历代政治得失)",
+                "source": "NewsAPI / Douban.com",
                 "date": "2026-11-21",
-                "url": "https://www.ithome.com/1/030/344.htm"
+                "url": "https://book.douban.com/review/17914542/"
             },
             {
-                "title": "【铂程的票圈133】自由选择",
+                "title": "英特尔前CEO帕特·基辛格：摩尔定律尚未终结，AI需要1万倍效率跃升",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-21",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587398.htm"
+            },
+            {
+                "title": "黄金遭遇“流动性踩踏”！分析师警告：一旦跌破这一关口 金价恐再跌300美元",
                 "source": "NewsAPI / Dapenti.com",
                 "date": "2026-11-21",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196881"
+                "url": "https://www.dapenti.com/blog/more.asp?name=caijing&id=196890"
             },
             {
-                "title": "长城猛龙混动版 11 月 27 日广州车展上市，搭载 1.5T 油电混动系统",
-                "source": "NewsAPI / Ithome.com",
+                "title": "比特币跌破6万美元创逾两年新低 ETF资金持续外流加剧抛售压力",
+                "source": "NewsAPI / Dapenti.com",
                 "date": "2026-11-21",
-                "url": "https://www.ithome.com/1/030/309.htm"
+                "url": "https://www.dapenti.com/blog/more.asp?name=caijing&id=196889"
             },
             {
-                "title": "现价近 7000 欧元的英伟达 RTX 5090 FE 显卡送修后被销毁，平台只愿退原价 2369 欧元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "Claude宣称证明黎曼猜想，学术大佬们更高兴不起来了",
+                "source": "NewsAPI / Dapenti.com",
                 "date": "2026-11-21",
-                "url": "https://www.ithome.com/1/030/307.htm"
+                "url": "https://www.dapenti.com/blog/more.asp?name=caijing&id=196886"
             },
             {
-                "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-21",
-                "url": "http://www.geekpark.net/news/374299"
-            },
-            {
-                "title": "2026年11月20日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "驻外报道 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oMWpLWTZoTkxNTEdDYnFOcV92eFkyOFdFTUctazFiV2NCSlBONVdEYU1kTDNMajN6eE1sa2RRZnFuN3liZlFfVkZTQWtfb0Jhb0tDd3l0NW1jT3YwZ29NOVlrYzVLNjgxeTNyMXF5czJuejF3T0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOE8wUV90S3M3VC1wYTlkMUZmRmVTQzFLdWJnU3I1RjRveWx4ZW9sNTFsZ1N2a0EzaWNPYmljWXV1ZkRySC1NYjBNRWQ2aDVHWVhmbzlXTTJsNk1XVS1WMElDOXlzQ3ZEOHBaTHpGRU84Y21MdXd6a3FKVG1hRDlObmxTd1E2ZG9tZ0NKa245ZF9YalZHRDhFbnBxUzFtZTEyamc?oc=5"
             },
             {
-                "title": "驻釜山总领事陈日彪向领区媒体及智库学者宣介中国共产党二十届五中全会精神 - 中华人民共和国外交部",
+                "title": "中澳总理年度会晤联合成果声明（全文） - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1BBaXpsYnM1NkNDbDlMc1dYb0sxSmQ1WXJJVmNkYm1NODZzYmNzNTVtQmZVUk9Cdl9Teks0VTczRjJUYVEzck53Z3JvSVFsSVJPV3ZWTFBvRGlQRnpwM0RQTTJ6UzVpZW9PQ1hsRG9kYXR2eWNOQWdueWg4VUs3clFORzM?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFRndnhTTFRwY0tlSzQ2bXFfSUJLSENVYjhKMXZiOTBMdjlqMEs1SGhLRGZ0c2t3Z25fcUptbDZieXRFUmhDTlRmUHRtRmN5MENoUWhmQWlFdTNQT0R3OUltWlU1Ml9QTkVSOEVFei1HSXJqaktDQUMxN2I5Y00tRGxtQjI0akE?oc=5"
             },
             {
-                "title": "驻济州总领事陈建军发表署名文章《共赴APEC深圳之约，同启亚太合作新篇》 - 中华人民共和国外交部",
+                "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JdmUzRHlHV18zQUNFdFNvZnpfSlVXcmhnczNfOFlQTEsyNXVseW9zMWhRNlpiUWFkWjNzaXJxSlU3d1BBcmFsN01TeENRMFNMVEFkZ1UyR0dRcXFFeXRrT0FmamEtRzB5UTZmNy02bjNfZ1c0TUI0OThkWQ?oc=5"
-            },
-            {
-                "title": "时政新闻眼丨三场举世瞩目的元首外交，释放哪些重要信息？ - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95R015dzI2bVgtM1pGaXN4WVJhb1N4X3hBVE9UeGZSTjZWbEJSNzZlQTBYNWZIUFRKZ09KNDI1a09UWlhPb0FtWGgzYWpUWlVlVnc?oc=5"
-            },
-            {
-                "title": "我国成功发射卫星互联网低轨30组卫星 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-20",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HT3g4ZXZkQ01rVXU4RjRKTlJsb19PT0twNDNRdHpkQkFqcG9rY2FsdTRlQUNrZ1Y5RWItUmJWTTdHbTkwa1pialIyek5jU1NTY0E?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGs2TGhpYjFTeW42SGlQUkNTMzZkalhOb1JDUkpIamYzNmpub1BxR0JmUW5nR2dBXzM2OU9xWjloa3A2UjVMbFpUR191a2YxNllYMTNIV3VNREVCNVpPM3RiT1hfaVFaWXdHTE5rNXFUQWZIaF9PMURaUmYwWjV4TWItcEVRNi1BSy1fWUt3?oc=5"
             },
             {
                 "title": "亚太媒体合作伙伴计划正式成立 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-21",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVHBLZWhDQy05b2pFQXNsTmpnM1Q0cUdycHR2UGhVTUZsbU0xcDNvdEFzZUdWR2xTYUlZbmhiVjhwSGd2dW1ldFhjOTBOXzl2X2c?oc=5"
+            },
+            {
+                "title": "【讲习所·和合共生】习近平引领亚太共同体建设迈入新阶段 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-22",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZUs4anEySGJTZy1SWmVydjZ0cXpPdzdjV2NudmljRk04VUZVYlZwZTNOXzVKRko2eEZEYTZrd0RmaXZwa09waEo2azFNcU1QOEE?oc=5"
+            },
+            {
+                "title": "强军论坛丨破除潜规则 强化明规则 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-21",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNlRLVXIzS2xmSkJSRGNtWFNQRExCUVE2TGJUVFNVU3hIcWxTVmw1NS1BYm83aV9xUldkMVAwdkFsSnNiOFFSanBVdmFjUTJaR1E?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-22T04:56:47.941947+00:00"
+    "last_updated": "2026-11-22T13:59:28.336982+00:00"
 }
