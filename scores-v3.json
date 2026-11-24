@@ -12,84 +12,90 @@
     "news_sources": {
         "econ": [
             {
-                "title": "小米 REDMI 多款笔记本电脑今日已执行涨价：涨幅最高 500 元",
-                "source": "NewsAPI / Ithome.com",
+                "title": "黄仁勋时隔12天重回英伟达CEO宝座 苹果乔布斯等了12年",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-23",
-                "url": "https://www.ithome.com/1/030/787.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587702.htm"
             },
             {
-                "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+                "title": "特朗普对黄仁勋重返英伟达表示祝贺",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587700.htm"
+            },
+            {
+                "title": "黄仁勋复职带动AI相关股票普涨 英伟达市值数小时增逾1万亿美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587698.htm"
+            },
+            {
+                "title": "海湾国家的“算力美元”生意走到十字路口",
+                "source": "NewsAPI / Ftchinese.com",
+                "date": "2026-11-23",
+                "url": "https://www.ftchinese.com/story/001112104"
+            },
+            {
+                "title": "字节，该造手机了",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-23",
-                "url": "http://www.geekpark.net/news/374304"
-            },
-            {
-                "title": "500架 #无人机 厂商遭爆标案用 #中国芯片 ？品牌不忍了：将追究法律责任",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-22",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261123/2383884.html"
-            },
-            {
-                "title": "英伟达被当银行监管-notebooklm",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-22",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196916"
-            },
-            {
-                "title": "从拒绝马斯克到掌管Anthropic 这对兄妹的故事比AI更离奇",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-22",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587522.htm"
+                "url": "http://www.geekpark.net/news/374374"
             }
         ],
         "mil": [
             {
-                "title": "歼-35、空警-600 亮相 12 月 7 日珠海航展并首设海上展区，万吨大驱将向公众开放",
+                "title": "Paradox《群星》新大型 DLC《意志之力》发售：Steam 国区 ¥108，支持简体中文",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-23",
-                "url": "https://www.ithome.com/1/030/771.htm"
+                "url": "https://www.ithome.com/1/031/210.htm"
             },
             {
-                "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-23",
-                "url": "http://www.geekpark.net/news/374304"
-            },
-            {
-                "title": "错误选集：失误如何推动科学",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-23",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196917"
-            },
-            {
-                "title": "《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出，官方放出首支预告",
+                "title": "劳资谈判暗流涌动，德国车企迎来艰难寒冬",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-22",
-                "url": "https://www.ithome.com/1/030/731.htm"
+                "date": "2026-11-23",
+                "url": "https://www.ithome.com/1/030/972.htm"
             },
             {
-                "title": "英伟达被当银行监管-notebooklm",
+                "title": "【喷嚏图卦20261123】我说他们应该去找局外人，但他现在就是局外人",
                 "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-22",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196916"
+                "date": "2026-11-23",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196923"
             },
             {
-                "title": "郭嘉昆：中国东盟建立全面战略伙伴关系是双方关系史上新的里程碑 - 中华人民共和国外交部",
+                "title": "韩国高考出了一道中国历史题引热议：考生基本没人会 包含AI",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-23",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587568.htm"
+            },
+            {
+                "title": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-23",
+                "url": "https://www.ithome.com/1/030/810.htm"
+            },
+            {
+                "title": "2026年11月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-23",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2FNYXZ6bG9wRVRuM1FsbUNUdkx2VUd1clU5VG9WWWFYUklob3o1Mi1YeV9tWW1aaE1XUjdoVUdwRVlCWjhLQkE2T1c4eXQybXJnTERJN2JWY3MtOHBHMF9SQ003bkhCQVYzVWRHSi05VVlrMmlOVF94RnZSeTdQX2VmdjYweFQ3WW1RVEk5SVg?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0R2hoVUw4eThIVlVEQkxnWVFGV0NkbUIzRjNjejNnWU9OOWZjSXdpb0kyZFBXczhtdWZYaTBCOVkxWDlwaVpBblNXaDc4bGFqeXJGT1RVRGUwTldBVDRiNmlhNEItNUpSTE1SUnhBMHhyMTNxb1E?oc=5"
             },
             {
-                "title": "驻利比里亚大使尹承武出席使馆举办的“中国电影月”开幕暨首映仪式 - 中华人民共和国外交部",
+                "title": "外交部发言人介绍中瑞第五轮外长级战略对话有关情况_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-22",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90OEgxa3BxMk9JQlJYZkRZbFMwVGRNRzZUeUxvUUNPVXhsTWxrb1hlYWxnY25HTzdHckRhaVMxVUFZWmVjMUt6VVgtVzhvQnR1LWluZVI3WGJkMHQyUFlrRTBqU0E4UGF5UEwwVGlxNDdtMFpiRlQ0WEtQOA?oc=5"
+                "date": "2026-11-24",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlF3VFVlQXAzVktFZXBuaThnY3NNRTI1MHNSX1VBdlFxT3RnOEFKT2xoM1JBX0tfeDdTcTZrSjdkTFRFb0dqbGZ3cldYRzRqZEphanNGQjc2OUNKTzNRZWRUYzhiVkQ0STR2SnB2VzlZcGh4enJTR0lUNmd4SjJWV3pMNnJONm9KazU2QmxhOUg?oc=5"
             },
             {
-                "title": "陈文清将赴德国出席第六次中德高级别安全对话并访问德国、奥地利 - 中华人民共和国外交部",
+                "title": "驻约旦大使郭伟致信中阿友好杰出贡献者贾扎莱 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-22",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkRkNHRsWFJXYV9hNEZzd3pBbXFYOVZtVElsSHNFRXFVZUh4bDJBN1lQTktWWXVWcTZZWm94X1U1dWhVelcteFFGLVk5a1dKcHl3VmM3M29CY0w5UnZUODBQaG5yVmpGYlF5M0hfbTJTaVlLQ1NDUWlMMFUwbnpPelQzTFE?oc=5"
+                "date": "2026-11-23",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVpWWVBma3oxd0NHT28xcVAzeHhGVEhVZGMwd3F3R0d6V2pOdUlLYi02ZElkQW9yYnBSekNkMTdhQks1TmpXdE02UDJDUjl2cDZQTGE0NFUxU2JnbC1ad0x6Y2tSUjQ5VEZxTUtXUF92bmRJUzRGY2VmbnlINGw5ek9MM0xPeEVDSXc?oc=5"
+            },
+            {
+                "title": "2026年11月24日解放军报第01版：要闻 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-16",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10cDY4S2pEM0V1OWcwVWtTR2t4VnREX2I3b3FoUjJvWDY5YWk0NTZfaFhrYk05bVRLQVRtNHBnTVI1aWVMWnVYUjJibmh3RUdFOGpaUkU3WQ?oc=5"
             },
             {
                 "title": "壮英雄气 砺强军志丨胜利的土地 - 军网",
@@ -102,62 +108,62 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42SWJ6VWV5ajE2YTk1dnZYbXlBQ042dXJ6MWNUZ1V5c3lBS2phamUwOHJUSVVsODVHemt6NW11Z1U2ck9iLWRWZERxY0tmY3NjUGc?oc=5"
-            },
-            {
-                "title": "挑灯看剑丨关注军事训练评估发展趋势 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWVpIVDB0UFp1RTh5NUtUMHN1QjFwbkc3MmlXekJXZkFDcXVSdThlWGFqck9xMVRvWGlxeEI1ajgyMXpFOWg4V215d1hhVjFqaEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "鸿蒙智行问界新 M7 官宣：升级面向 L3 的全域冗余架构，新色首发「翡冷翠」「暖阳金」",
-                "source": "NewsAPI / Ithome.com",
+                "title": "英伟达恢复黄仁勋CEO背后：特朗普强势施压相助",
+                "source": "NewsAPI / Cnbeta.com.tw",
                 "date": "2026-11-23",
-                "url": "https://www.ithome.com/1/030/775.htm"
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587696.htm"
             },
             {
-                "title": "韩国防 AI 作弊新招：要求考生穿围裙考试、时隔 6 年重新收缴手机",
-                "source": "NewsAPI / Ithome.com",
+                "title": "海湾国家的“算力美元”生意走到十字路口",
+                "source": "NewsAPI / Ftchinese.com",
                 "date": "2026-11-23",
-                "url": "https://www.ithome.com/1/030/770.htm"
+                "url": "https://www.ftchinese.com/story/001112104"
             },
             {
-                "title": "#川普 突然宣布重大禁令 连幕僚都不知情",
-                "source": "NewsAPI / Bannedbook.org",
-                "date": "2026-11-23",
-                "url": "https://www.bannedbook.org/bnews/cnnews/20261123/2383915.html"
-            },
-            {
-                "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+                "title": "字节，该造手机了",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-23",
-                "url": "http://www.geekpark.net/news/374304"
+                "url": "http://www.geekpark.net/news/374374"
             },
             {
-                "title": "错误选集：失误如何推动科学",
+                "title": "中信证券：A股的估值洼地体现在哪？",
                 "source": "NewsAPI / Dapenti.com",
                 "date": "2026-11-23",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196917"
+                "url": "https://www.dapenti.com/blog/more.asp?name=caijing&id=196928"
             },
             {
-                "title": "郭嘉昆：中国东盟建立全面战略伙伴关系是双方关系史上新的里程碑 - 中华人民共和国外交部",
+                "title": "三大政策利好发布，A股迎来修复契机！这三个方向或带领市场反弹",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-23",
+                "url": "https://www.dapenti.com/blog/more.asp?name=caijing&id=196927"
+            },
+            {
+                "title": "2026年11月23日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-23",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2FNYXZ6bG9wRVRuM1FsbUNUdkx2VUd1clU5VG9WWWFYUklob3o1Mi1YeV9tWW1aaE1XUjdoVUdwRVlCWjhLQkE2T1c4eXQybXJnTERJN2JWY3MtOHBHMF9SQ003bkhCQVYzVWRHSi05VVlrMmlOVF94RnZSeTdQX2VmdjYweFQ3WW1RVEk5SVg?oc=5"
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0R2hoVUw4eThIVlVEQkxnWVFGV0NkbUIzRjNjejNnWU9OOWZjSXdpb0kyZFBXczhtdWZYaTBCOVkxWDlwaVpBblNXaDc4bGFqeXJGT1RVRGUwTldBVDRiNmlhNEItNUpSTE1SUnhBMHhyMTNxb1E?oc=5"
             },
             {
-                "title": "驻利比里亚大使尹承武出席使馆举办的“中国电影月”开幕暨首映仪式 - 中华人民共和国外交部",
+                "title": "外交部发言人介绍中瑞第五轮外长级战略对话有关情况_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-22",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90OEgxa3BxMk9JQlJYZkRZbFMwVGRNRzZUeUxvUUNPVXhsTWxrb1hlYWxnY25HTzdHckRhaVMxVUFZWmVjMUt6VVgtVzhvQnR1LWluZVI3WGJkMHQyUFlrRTBqU0E4UGF5UEwwVGlxNDdtMFpiRlQ0WEtQOA?oc=5"
+                "date": "2026-11-24",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlF3VFVlQXAzVktFZXBuaThnY3NNRTI1MHNSX1VBdlFxT3RnOEFKT2xoM1JBX0tfeDdTcTZrSjdkTFRFb0dqbGZ3cldYRzRqZEphanNGQjc2OUNKTzNRZWRUYzhiVkQ0STR2SnB2VzlZcGh4enJTR0lUNmd4SjJWV3pMNnJONm9KazU2QmxhOUg?oc=5"
             },
             {
-                "title": "陈文清将赴德国出席第六次中德高级别安全对话并访问德国、奥地利 - 中华人民共和国外交部",
+                "title": "驻约旦大使郭伟致信中阿友好杰出贡献者贾扎莱 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-22",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkRkNHRsWFJXYV9hNEZzd3pBbXFYOVZtVElsSHNFRXFVZUh4bDJBN1lQTktWWXVWcTZZWm94X1U1dWhVelcteFFGLVk5a1dKcHl3VmM3M29CY0w5UnZUODBQaG5yVmpGYlF5M0hfbTJTaVlLQ1NDUWlMMFUwbnpPelQzTFE?oc=5"
+                "date": "2026-11-23",
+                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVpWWVBma3oxd0NHT28xcVAzeHhGVEhVZGMwd3F3R0d6V2pOdUlLYi02ZElkQW9yYnBSekNkMTdhQks1TmpXdE02UDJDUjl2cDZQTGE0NFUxU2JnbC1ad0x6Y2tSUjQ5VEZxTUtXUF92bmRJUzRGY2VmbnlINGw5ek9MM0xPeEVDSXc?oc=5"
+            },
+            {
+                "title": "2026年11月24日解放军报第01版：要闻 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-16",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10cDY4S2pEM0V1OWcwVWtTR2t4VnREX2I3b3FoUjJvWDY5YWk0NTZfaFhrYk05bVRLQVRtNHBnTVI1aWVMWnVYUjJibmh3RUdFOGpaUkU3WQ?oc=5"
             },
             {
                 "title": "壮英雄气 砺强军志丨胜利的土地 - 军网",
@@ -170,15 +176,9 @@
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-23",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42SWJ6VWV5ajE2YTk1dnZYbXlBQ042dXJ6MWNUZ1V5c3lBS2phamUwOHJUSVVsODVHemt6NW11Z1U2ck9iLWRWZERxY0tmY3NjUGc?oc=5"
-            },
-            {
-                "title": "挑灯看剑丨关注军事训练评估发展趋势 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-23",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWVpIVDB0UFp1RTh5NUtUMHN1QjFwbkc3MmlXekJXZkFDcXVSdThlWGFqck9xMVRvWGlxeEI1ajgyMXpFOWg4V215d1hhVjFqaEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-24T03:45:54.690744+00:00"
+    "last_updated": "2026-11-24T16:55:46.367653+00:00"
 }
