@@ -12,38 +12,56 @@
     "news_sources": {
         "econ": [
             {
-                "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "一文看懂华为在美被判罪名及案件细节",
+                "source": "NewsAPI / Voachinese.com",
                 "date": "2026-11-25",
-                "url": "http://www.geekpark.net/news/374438"
+                "url": "https://www.voachinese.com/a/huawei-found-guilty-of-charges-including-sanctions-violations-fraud-conspiracy-to-steal-trade-secrets-and-money-laundering-20261125/8227821.html"
             },
             {
-                "title": "IT早报 1125：12,999 元起华为 Mate X8 大折旗舰机发布；黄仁勋承认不止两段婚外情并向英伟达董事会表达悔意；18.79 万起比亚迪第三代唐 EV 上市...",
+                "title": "陈吉宁落马被称大事件 张升民发文：对年轻干部不手软(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-25",
+                "url": "https://www.secretchina.com/news/gb/2026/11/25/1107951.html"
+            },
+            {
+                "title": "美国301调查结果将公布 台政院：有信心反映台美谈判成果(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-25",
+                "url": "https://www.secretchina.com/news/gb/2026/11/25/1107942.html"
+            },
+            {
+                "title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-24",
-                "url": "https://www.ithome.com/1/031/912.htm"
+                "date": "2026-11-25",
+                "url": "https://www.ithome.com/1/032/435.htm"
             },
             {
-                "title": "美国陪审团裁定华为窃取商业秘密及银行欺诈罪名成立 但未认定刑事敲诈勒索共谋",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587880.htm"
-            },
-            {
-                "title": "NVIDIA机器人工程师表示自己“可能行动得太快了” 并愿意考虑重返公司",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587876.htm"
-            },
-            {
-                "title": "交 100 万美元保释金 + 戴电子脚镣，OpenAI 窃听案嫌犯获准保释",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-24",
-                "url": "https://www.ithome.com/1/031/909.htm"
+                "title": "台湾10篇论文登ISSCC 卢超群：半导体须团结迎战(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-25",
+                "url": "https://www.secretchina.com/news/gb/2026/11/25/1107939.html"
             }
         ],
         "mil": [
             {
+                "title": "长城销量跌至第九，魏建军自曝压力：数字显示承压的不只是销量",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-11-25",
+                "url": "https://post.smzdm.com/p/a95klo2p/"
+            },
+            {
+                "title": "从手腕到雪鞋，运动可穿戴探索下一个可能 | 对话 Heygo",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-25",
+                "url": "http://www.geekpark.net/news/374470"
+            },
+            {
+                "title": "美国陆军计划于爱奥瓦州引爆近万磅不稳定炸药 防铅污染成为焦点",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-25",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1587916.htm"
+            },
+            {
                 "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
                 "source": "NewsAPI / Geekpark.net",
                 "date": "2026-11-25",
@@ -56,40 +74,28 @@
                 "url": "https://www.ithome.com/1/031/899.htm"
             },
             {
-                "title": "IT早报 1125：12,999 元起华为 Mate X8 大折旗舰机发布；黄仁勋承认不止两段婚外情并向英伟达董事会表达悔意；18.79 万起比亚迪第三代唐 EV 上市...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-24",
-                "url": "https://www.ithome.com/1/031/912.htm"
-            },
-            {
-                "title": "对充满戏剧性的黄仁勋事件的严肃公司治理思考",
-                "source": "NewsAPI / Ftchinese.com",
-                "date": "2026-11-24",
-                "url": "https://www.ftchinese.com/story/a4bcce1a-3f81-4833-a46a-843bc7272241"
-            },
-            {
-                "title": "五角大楼与通用、福特洽谈合作生产军用无人机",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587850.htm"
-            },
-            {
                 "title": "2026年11月25日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
                 "date": "2026-11-25",
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSRVJ0ci1iT0VraS1hVWdTbS1wMmx0bGg1WTNpUU1RN0c3VEk4d1FBTExkalVYMnhyaWlSYTRaUk1KaDc3dEFOTEZ0bGJ4RkRyb2wzUzNySFl5X2Nnd3ZVVE5LRnJ0Z0tpb0hpTFYzdjdWQTF0Mmc?oc=5"
             },
             {
-                "title": "2026年11月24日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "外交部启用电子附加证明书线上申办平台并扩大电子附加证明书签发范围_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-24",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uRTJsN1hEWWlpQXJ4QnJyMDRMNURRV214bXhNQk9XdXJiM2hEZUFEYk9kWGtIMGtmRFVlN1N5V3NlTTBaUDBCMVo4WXhiT1NtYWlvUmtoc0hUbWdoQ2VieTgwTG8ySlQ3alVRY3RmWm5GYTd3Y0E?oc=5"
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFNJbUkwR1EzVUk3bEVnVU8tZUtNUEZEZWlGaXJtcV9OU3VOZE1wQnlCU3VCa3M0UWMzTVNQTHpaVFhvdnQzcW9XbUc4VDJjNmczcUp1SWVFczJkT3VEY2I4VDRFNmFIdVNDNm5CZHNWMTQ2aFBxQkRBYkVycmN0UVZWSjQ?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "中华人民共和国和乌克兰联合声明 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-11-25",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LX2MyTU1JYndkaDR5cGtqOWwtY3Q3WUd1c2RPN1dDZlZtT0RTSkJaUGJadXN4MXlkYkVtQlpsM3FPQlUzSWdQNU03cXhCaXhQNUtCWFR6cnpCOGo5SDYyMUkwVjlTcjFIWEhpOU5B?oc=5"
+            },
+            {
+                "title": "学习时节｜深化航天国际合作，共享太空探索成果 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR2U0bVI0bFhBUnFnVWppc3Z5QmNjS1ZwWWRybl9oOFRCT05aeFBQWWtYTHhXcVVjQnMtSXFuNUdWcnVNWFpkZjdNSnN1cnBRa3c?oc=5"
             },
             {
                 "title": "中非广电视听人工智能培训在肯尼亚开班 - 军网",
@@ -98,48 +104,42 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERzVQUFpOMWh4YWh4VEotdmJPUXBNZFJERUp2NThwZVAtbV95Y0ZrRVc2bmVaUThRMmw2N3pHd29PUVNKSFl5dG11XzFuakE2OUE?oc=5"
             },
             {
-                "title": "神舟二十四号发射遇上朝霞满天，感受中国航天的浪漫！ - 军网",
+                "title": "新华时评｜从千年水利工程悟江河治理之道 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVVRHblVweC1mY0JZSmNxb1ZRclVRdFU4Zk5qUU5xM2JTeTU5YmhRMklWTWwyVUxiQWJWWmFRVjZZTU5OaFRMUDY1V1k4NjBVMXc?oc=5"
-            },
-            {
-                "title": "《军事报道》 20261123 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-24",
-                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqRFU4X3pJMFpwS3FEU2Z6VUFxR3FEUkY4TmlSVzE4dHVPX05SRFVQenF3ejJWYzhLRXZyWGpPM0MtRDR2M3FaMnQyOTgyZ3g1?oc=5"
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDbk9KbTNwOFpraXhOanBENjBwbDBPNmVnN2JUMlNNWFRZV004TzNhbkdTWXVCWjg4Vy1weWVrTE5aeUI0MW9tVEJEblFfbWNZdEE?oc=5"
             }
         ],
         "pol": [
             {
-                "title": "IT之家 iOS / 安卓版 9.55 上架：iPhone Duo 等大屏设备体验进化",
+                "title": "陈吉宁落马被称大事件 张升民发文：对年轻干部不手软(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-25",
+                "url": "https://www.secretchina.com/news/gb/2026/11/25/1107951.html"
+            },
+            {
+                "title": "陈吉宁落马前 两则贴文预示出事 上海市委连夜急表态(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-25",
+                "url": "https://www.secretchina.com/news/gb/2026/11/25/1107941.html"
+            },
+            {
+                "title": "阿维塔 06T Max 先锋版上市：搭载 896 线激光雷达，限时权益价 19.99 万元",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-25",
-                "url": "https://www.ithome.com/1/031/938.htm"
+                "url": "https://www.ithome.com/1/032/442.htm"
             },
             {
-                "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
+                "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-25",
-                "url": "http://www.geekpark.net/news/374438"
+                "url": "https://www.ithome.com/1/032/435.htm"
             },
             {
-                "title": "OpenAI：业余天文学家加 AI，让系外行星搜寻进入“全民时代”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-24",
-                "url": "https://www.ithome.com/1/031/899.htm"
-            },
-            {
-                "title": "IT早报 1125：12,999 元起华为 Mate X8 大折旗舰机发布；黄仁勋承认不止两段婚外情并向英伟达董事会表达悔意；18.79 万起比亚迪第三代唐 EV 上市...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-24",
-                "url": "https://www.ithome.com/1/031/912.htm"
-            },
-            {
-                "title": "黄仁勋向英伟达员工道歉 否认特朗普促成其复职",
-                "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-24",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1587878.htm"
+                "title": "神23在轨184天迎神24：这次轮换两人回、一人留，还捎上一位外籍航天员",
+                "source": "NewsAPI / Smzdm.com",
+                "date": "2026-11-25",
+                "url": "https://post.smzdm.com/p/avgvne84/"
             },
             {
                 "title": "2026年11月25日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -148,16 +148,22 @@
                 "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSRVJ0ci1iT0VraS1hVWdTbS1wMmx0bGg1WTNpUU1RN0c3VEk4d1FBTExkalVYMnhyaWlSYTRaUk1KaDc3dEFOTEZ0bGJ4RkRyb2wzUzNySFl5X2Nnd3ZVVE5LRnJ0Z0tpb0hpTFYzdjdWQTF0Mmc?oc=5"
             },
             {
-                "title": "2026年11月24日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "外交部启用电子附加证明书线上申办平台并扩大电子附加证明书签发范围_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-24",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uRTJsN1hEWWlpQXJ4QnJyMDRMNURRV214bXhNQk9XdXJiM2hEZUFEYk9kWGtIMGtmRFVlN1N5V3NlTTBaUDBCMVo4WXhiT1NtYWlvUmtoc0hUbWdoQ2VieTgwTG8ySlQ3alVRY3RmWm5GYTd3Y0E?oc=5"
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFNJbUkwR1EzVUk3bEVnVU8tZUtNUEZEZWlGaXJtcV9OU3VOZE1wQnlCU3VCa3M0UWMzTVNQTHpaVFhvdnQzcW9XbUc4VDJjNmczcUp1SWVFczJkT3VEY2I4VDRFNmFIdVNDNm5CZHNWMTQ2aFBxQkRBYkVycmN0UVZWSjQ?oc=5"
             },
             {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
+                "title": "中华人民共和国和乌克兰联合声明 - 中华人民共和国-条约数据库",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-11-25",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LX2MyTU1JYndkaDR5cGtqOWwtY3Q3WUd1c2RPN1dDZlZtT0RTSkJaUGJadXN4MXlkYkVtQlpsM3FPQlUzSWdQNU03cXhCaXhQNUtCWFR6cnpCOGo5SDYyMUkwVjlTcjFIWEhpOU5B?oc=5"
+            },
+            {
+                "title": "学习时节｜深化航天国际合作，共享太空探索成果 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR2U0bVI0bFhBUnFnVWppc3Z5QmNjS1ZwWWRybl9oOFRCT05aeFBQWWtYTHhXcVVjQnMtSXFuNUdWcnVNWFpkZjdNSnN1cnBRa3c?oc=5"
             },
             {
                 "title": "中非广电视听人工智能培训在肯尼亚开班 - 军网",
@@ -166,19 +172,13 @@
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERzVQUFpOMWh4YWh4VEotdmJPUXBNZFJERUp2NThwZVAtbV95Y0ZrRVc2bmVaUThRMmw2N3pHd29PUVNKSFl5dG11XzFuakE2OUE?oc=5"
             },
             {
-                "title": "神舟二十四号发射遇上朝霞满天，感受中国航天的浪漫！ - 军网",
+                "title": "新华时评｜从千年水利工程悟江河治理之道 - 军网",
                 "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVVRHblVweC1mY0JZSmNxb1ZRclVRdFU4Zk5qUU5xM2JTeTU5YmhRMklWTWwyVUxiQWJWWmFRVjZZTU5OaFRMUDY1V1k4NjBVMXc?oc=5"
-            },
-            {
-                "title": "《军事报道》 20261123 - 八一视频",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-24",
-                "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqRFU4X3pJMFpwS3FEU2Z6VUFxR3FEUkY4TmlSVzE4dHVPX05SRFVQenF3ejJWYzhLRXZyWGpPM0MtRDR2M3FaMnQyOTgyZ3g1?oc=5"
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDbk9KbTNwOFpraXhOanBENjBwbDBPNmVnN2JUMlNNWFRZV004TzNhbkdTWXVCWjg4Vy1weWVrTE5aeUI0MW9tVEJEblFfbWNZdEE?oc=5"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-26T01:30:16.534539+00:00"
+    "last_updated": "2026-11-26T16:19:28.620586+00:00"
 }
