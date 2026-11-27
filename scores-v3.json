@@ -12,78 +12,72 @@
     "news_sources": {
         "econ": [
             {
-                "title": "鸿蒙智行智界迎来第 20 万台整车下线，三年覆盖轿车、SUV、MPV 多品类",
+                "title": "华为发布新一代HBM设计 数据引脚密度翻倍 力图突破带宽瓶颈",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588108.htm"
+            },
+            {
+                "title": "首尔半导体推出WICOP Pixel：LCD亮度可达OLED三倍 且寿命翻倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588104.htm"
+            },
+            {
+                "title": "超180亿美元“大红包”！马斯克将向全美儿童送股(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-26",
+                "url": "https://www.secretchina.com/news/gb/2026/11/26/1107999.html"
+            },
+            {
+                "title": "因隐私问题，荷兰多个组织要求法院叫停 Meta 智能眼镜销售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/032/563.htm"
+                "url": "https://www.ithome.com/1/033/126.htm"
             },
             {
-                "title": "Jeep 未来三年将推出多款新能源车型：首款计划明年上市，搭 Momenta 智驾",
-                "source": "NewsAPI / Ithome.com",
+                "title": "美国限制海外算力 知情人士称中国AI公司受冲击",
+                "source": "NewsAPI / DW (English)",
                 "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/032/559.htm"
-            },
-            {
-                "title": "【铂程的票圈138】生成式AI是人类心灵的数字版本",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-26",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196976"
-            },
-            {
-                "title": "黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-26",
-                "url": "http://www.geekpark.net/news/374500"
-            },
-            {
-                "title": "全球超 30 人亲测：马斯克旗下 Neuralink 拿下美国首个植入式脑机关键性临床试验批文",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/032/551.htm"
+                "url": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E9%99%90%E5%88%B6%E6%B5%B7%E5%A4%96%E7%AE%97%E5%8A%9B-%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E4%B8%AD%E5%9B%BDai%E5%85%AC%E5%8F%B8%E5%8F%97%E5%86%B2%E5%87%BB/a-80064912"
             }
         ],
         "mil": [
             {
+                "title": "几箱啤酒砸了国产新能源的锅？真相并非如此",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588076.htm"
+            },
+            {
+                "title": "【浮世汇998】为什么生产力大发展，人类却会更穷困呢？",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-26",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196978"
+            },
+            {
+                "title": "【喷嚏图卦20261126】中国经济一直在增长，可我怎么没感觉到",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-26",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196977"
+            },
+            {
+                "title": "2026 年 12 月索尼 PS Plus 会免游戏公布，含《龙珠：超宇宙 2》等",
+                "source": "NewsAPI / Ithome.com",
+                "date": "2026-11-26",
+                "url": "https://www.ithome.com/1/032/905.htm"
+            },
+            {
                 "title": "【铂程的票圈138】生成式AI是人类心灵的数字版本",
                 "source": "NewsAPI / Dapenti.com",
                 "date": "2026-11-26",
                 "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196976"
             },
             {
-                "title": "IT早报 1126：理想汽车宣布从一年一更调整为两年；特朗普称美政府入股英伟达犹未为晚；奥迪回应长春工厂利用率跌破 10%；首款自动驾驶摩托车广州亮相...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-25",
-                "url": "https://www.ithome.com/1/032/541.htm"
-            },
-            {
-                "title": "美国之音中文广播 (2026年11月25日)特朗普总统在接受《纽约邮报》采访时说，目前尚无俄乌和平协议的时间表，但他 “希望看到冲突结束”",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-25",
-                "url": "https://www.voachinese.com/a/8225765.html"
-            },
-            {
-                "title": "乌军激光武器实战获突破 俄特工暗杀阴谋遭挫败(图)",
-                "source": "NewsAPI / Secretchina.com",
-                "date": "2026-11-25",
-                "url": "https://www.secretchina.com/news/gb/2026/11/26/1107969.html"
-            },
-            {
-                "title": "特朗普总统警告，切断针对伊朗的军事行动经费是不可取的",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-25",
-                "url": "https://www.voachinese.com/a/president-trump-warns-against-defunding-military-operations-against-iran-20261125/8227923.html"
-            },
-            {
-                "title": "2026年11月25日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "2026年11月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-25",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSRVJ0ci1iT0VraS1hVWdTbS1wMmx0bGg1WTNpUU1RN0c3VEk4d1FBTExkalVYMnhyaWlSYTRaUk1KaDc3dEFOTEZ0bGJ4RkRyb2wzUzNySFl5X2Nnd3ZVVE5LRnJ0Z0tpb0hpTFYzdjdWQTF0Mmc?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nbWdPUURQaHI2cklKTWRUdHBSbjJ0QnNyWGJHVGxtM1hyTFBoZVk3UEt1UGVkNnNTdzRWNXd1SnI3SHIzVjEzaFBQM2trM0ZmdVJMWTAtTXZ5RGRaY3hScHEzVjNFQWdydVNxSFlkQ1U4OFJPSEE?oc=5"
             },
             {
                 "title": "外交部启用电子附加证明书线上申办平台并扩大电子附加证明书签发范围_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -92,16 +86,22 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFNJbUkwR1EzVUk3bEVnVU8tZUtNUEZEZWlGaXJtcV9OU3VOZE1wQnlCU3VCa3M0UWMzTVNQTHpaVFhvdnQzcW9XbUc4VDJjNmczcUp1SWVFczJkT3VEY2I4VDRFNmFIdVNDNm5CZHNWMTQ2aFBxQkRBYkVycmN0UVZWSjQ?oc=5"
             },
             {
+                "title": "中华人民共和国和乌克兰联合声明 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-25",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LX2MyTU1JYndkaDR5cGtqOWwtY3Q3WUd1c2RPN1dDZlZtT0RTSkJaUGJadXN4MXlkYkVtQlpsM3FPQlUzSWdQNU03cXhCaXhQNUtCWFR6cnpCOGo5SDYyMUkwVjlTcjFIWEhpOU5B?oc=5"
+            },
+            {
+                "title": "2026年11月26日解放军报第01版：要闻 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-16",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10cDY4S2pEM0V1OWcwVWtTR2t4VnREX2I3b3FoUjJvWDY5YWk0NTZfaFhrYk05bVRLQVRtNHBnTVI1aWVMWnVYUjJibmh3RUdFOGpaUkU3WQ?oc=5"
+            },
+            {
                 "title": "学习时节｜深化航天国际合作，共享太空探索成果 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR2U0bVI0bFhBUnFnVWppc3Z5QmNjS1ZwWWRybl9oOFRCT05aeFBQWWtYTHhXcVVjQnMtSXFuNUdWcnVNWFpkZjdNSnN1cnBRa3c?oc=5"
-            },
-            {
-                "title": "中非广电视听人工智能培训在肯尼亚开班 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERzVQUFpOMWh4YWh4VEotdmJPUXBNZFJERUp2NThwZVAtbV95Y0ZrRVc2bmVaUThRMmw2N3pHd29PUVNKSFl5dG11XzFuakE2OUE?oc=5"
             },
             {
                 "title": "新华时评｜从千年水利工程悟江河治理之道 - 军网",
@@ -112,46 +112,40 @@
         ],
         "pol": [
             {
-                "title": "【铂程的票圈138】生成式AI是人类心灵的数字版本",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-26",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196976"
-            },
-            {
-                "title": "黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
-                "date": "2026-11-26",
-                "url": "http://www.geekpark.net/news/374500"
-            },
-            {
-                "title": "【钛晨报】外媒称美国将对中国等十几个国家加征关税，外交部回应；美国10月核心PCE物价指数同比上涨3.3%，升至3年高位；小鹏机器人IRON计划2027年1月启动硬件量产",
-                "source": "NewsAPI / Smzdm.com",
-                "date": "2026-11-26",
-                "url": "https://post.smzdm.com/p/avgvnrdp/"
-            },
-            {
-                "title": "广东台山核电项目 3 号机组主体工程开工，“华龙一号”再传捷报",
+                "title": "因隐私问题，荷兰多个组织要求法院叫停 Meta 智能眼镜销售",
                 "source": "NewsAPI / Ithome.com",
                 "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/032/549.htm"
+                "url": "https://www.ithome.com/1/033/126.htm"
             },
             {
-                "title": "高端 GPU“急寻下家”：数千枚英伟达 B300 涌入海外转售市场",
+                "title": "iPhone 16 AI 功能广告被指误导消费者 苹果在韩国遭监管审查",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588094.htm"
+            },
+            {
+                "title": "二十周年纪念机型再添传闻 iPhone 20 Pro或推出陶瓷材质的限量版",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-26",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588090.htm"
+            },
+            {
+                "title": "黄仁勋婚外情对象丈夫涉中国国安关系密切(图)",
+                "source": "NewsAPI / Secretchina.com",
+                "date": "2026-11-26",
+                "url": "https://www.secretchina.com/news/gb/2026/11/26/1107987.html"
+            },
+            {
+                "title": "保时捷发布 911 GT3 Tribute to 911 GT1，纪念珠海夺冠 30 周年",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-25",
-                "url": "https://www.ithome.com/1/032/547.htm"
+                "date": "2026-11-26",
+                "url": "https://www.ithome.com/1/033/099.htm"
             },
             {
-                "title": "2026年11月25日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
+                "title": "2026年11月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
                 "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-25",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSRVJ0ci1iT0VraS1hVWdTbS1wMmx0bGg1WTNpUU1RN0c3VEk4d1FBTExkalVYMnhyaWlSYTRaUk1KaDc3dEFOTEZ0bGJ4RkRyb2wzUzNySFl5X2Nnd3ZVVE5LRnJ0Z0tpb0hpTFYzdjdWQTF0Mmc?oc=5"
-            },
-            {
-                "title": "金砖国家领导人第十四次会晤北京宣言 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2024-05-16",
-                "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VODBpZ0EzbjAxenJYSFdNTTFuVi1tQlJGVkZ4NGNablYyU09Zd0pJMVlDZXFUWnZVNjRLdnU1MmxxZlk?oc=5"
+                "date": "2026-11-26",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nbWdPUURQaHI2cklKTWRUdHBSbjJ0QnNyWGJHVGxtM1hyTFBoZVk3UEt1UGVkNnNTdzRWNXd1SnI3SHIzVjEzaFBQM2trM0ZmdVJMWTAtTXZ5RGRaY3hScHEzVjNFQWdydVNxSFlkQ1U4OFJPSEE?oc=5"
             },
             {
                 "title": "外交部启用电子附加证明书线上申办平台并扩大电子附加证明书签发范围_中华人民共和国外交部 - 中华人民共和国外交部",
@@ -160,16 +154,22 @@
                 "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFNJbUkwR1EzVUk3bEVnVU8tZUtNUEZEZWlGaXJtcV9OU3VOZE1wQnlCU3VCa3M0UWMzTVNQTHpaVFhvdnQzcW9XbUc4VDJjNmczcUp1SWVFczJkT3VEY2I4VDRFNmFIdVNDNm5CZHNWMTQ2aFBxQkRBYkVycmN0UVZWSjQ?oc=5"
             },
             {
+                "title": "中华人民共和国和乌克兰联合声明 - 中华人民共和国-条约数据库",
+                "source": "官方信源 / 外交部/国防部",
+                "date": "2026-11-25",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LX2MyTU1JYndkaDR5cGtqOWwtY3Q3WUd1c2RPN1dDZlZtT0RTSkJaUGJadXN4MXlkYkVtQlpsM3FPQlUzSWdQNU03cXhCaXhQNUtCWFR6cnpCOGo5SDYyMUkwVjlTcjFIWEhpOU5B?oc=5"
+            },
+            {
+                "title": "2026年11月26日解放军报第01版：要闻 - 军网",
+                "source": "官方信源 / 解放军报/军网",
+                "date": "2023-02-16",
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10cDY4S2pEM0V1OWcwVWtTR2t4VnREX2I3b3FoUjJvWDY5YWk0NTZfaFhrYk05bVRLQVRtNHBnTVI1aWVMWnVYUjJibmh3RUdFOGpaUkU3WQ?oc=5"
+            },
+            {
                 "title": "学习时节｜深化航天国际合作，共享太空探索成果 - 军网",
                 "source": "官方信源 / 解放军报/军网",
                 "date": "2026-11-26",
                 "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR2U0bVI0bFhBUnFnVWppc3Z5QmNjS1ZwWWRybl9oOFRCT05aeFBQWWtYTHhXcVVjQnMtSXFuNUdWcnVNWFpkZjdNSnN1cnBRa3c?oc=5"
-            },
-            {
-                "title": "中非广电视听人工智能培训在肯尼亚开班 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-25",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERzVQUFpOMWh4YWh4VEotdmJPUXBNZFJERUp2NThwZVAtbV95Y0ZrRVc2bmVaUThRMmw2N3pHd29PUVNKSFl5dG11XzFuakE2OUE?oc=5"
             },
             {
                 "title": "新华时评｜从千年水利工程悟江河治理之道 - 军网",
@@ -180,5 +180,5 @@
         ],
         "local": []
     },
-    "last_updated": "2026-11-27T01:27:48.284910+00:00"
+    "last_updated": "2026-11-27T16:04:39.121850+00:00"
 }
