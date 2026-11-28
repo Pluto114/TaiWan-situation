@@ -12,173 +12,101 @@
     "news_sources": {
         "econ": [
             {
-                "title": "智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "伊朗宣布全国轮流停电 能源受创叠加封锁制裁加剧冬季危机(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-11-27",
-                "url": "http://www.geekpark.net/news/374546"
+                "url": "https://www.secretchina.com/news/gb/2026/11/27/1108060.html"
             },
             {
-                "title": "一张 COF 膜登上《科学》：我国科学家发现反离子限域传质新机制，亚纳米通道实现离子选择性反转",
-                "source": "NewsAPI / Ithome.com",
+                "title": "大众被建议“趁还值钱卖给中国”：一句惊人之语，为何让德国人吵翻了",
+                "source": "NewsAPI / Smzdm.com",
                 "date": "2026-11-27",
-                "url": "https://www.ithome.com/1/033/161.htm"
+                "url": "https://post.smzdm.com/p/a03v54o9/"
             },
             {
-                "title": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/033/150.htm"
+                "title": "安全研究员发现约20亿条凭证的无保护数据库 规模创个人纪录",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588234.htm"
             },
             {
-                "title": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/033/148.htm"
+                "title": "沃尔沃工人正手把手教人形机器人上岗",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588230.htm"
             },
             {
-                "title": "IT早报 1127：全球首个乙肝功能性治愈新药在中国获批上市；华为星驰辅助驾驶发布；马斯克向全美孩子每人赠送 2 股 SpaceX 股票；微信上线 NFC 交通卡...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/033/145.htm"
+                "title": "马斯克抛出天文数字：SpaceX未来市值会是全球经济的100万倍",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588218.htm"
             }
         ],
         "mil": [
             {
-                "title": "IT早报 1127：全球首个乙肝功能性治愈新药在中国获批上市；华为星驰辅助驾驶发布；马斯克向全美孩子每人赠送 2 股 SpaceX 股票；微信上线 NFC 交通卡...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/033/145.htm"
-            },
-            {
-                "title": "在不平等的世界里相爱-notebooklm",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-26",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196991"
-            },
-            {
-                "title": "几箱啤酒砸了国产新能源的锅？真相并非如此",
+                "title": "黑客攻破美国空军旗舰云计算平台Cloud One",
                 "source": "NewsAPI / Cnbeta.com.tw",
-                "date": "2026-11-26",
-                "url": "https://www.cnbeta.com.tw/articles/tech/1588076.htm"
+                "date": "2026-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588232.htm"
             },
             {
-                "title": "【浮世汇998】为什么生产力大发展，人类却会更穷困呢？",
+                "title": "【喷嚏图卦音频版·吐槽精选09】金融市场的记忆有时很短，一根阳线就能把昨天的沉默改成今天的欢声笑语。",
                 "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-26",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196978"
+                "date": "2026-11-27",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196997"
             },
             {
-                "title": "【喷嚏图卦20261126】中国经济一直在增长，可我怎么没感觉到",
-                "source": "NewsAPI / Dapenti.com",
-                "date": "2026-11-26",
-                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196977"
+                "title": "台湾地方选举前夕 解放军30架次军机在台海周边活动",
+                "source": "NewsAPI / DW (English)",
+                "date": "2026-11-27",
+                "url": "https://www.dw.com/zh/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E6%96%B9%E9%80%89%E4%B8%BE%E5%89%8D%E5%A4%95-%E8%A7%A3%E6%94%BE%E5%86%9B30%E6%9E%B6%E6%AC%A1%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8/a-80072713"
             },
             {
-                "title": "2026年11月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nbWdPUURQaHI2cklKTWRUdHBSbjJ0QnNyWGJHVGxtM1hyTFBoZVk3UEt1UGVkNnNTdzRWNXd1SnI3SHIzVjEzaFBQM2trM0ZmdVJMWTAtTXZ5RGRaY3hScHEzVjNFQWdydVNxSFlkQ1U4OFJPSEE?oc=5"
+                "title": "B 站十几年的家底，在 AI 时代「升值」",
+                "source": "NewsAPI / Geekpark.net",
+                "date": "2026-11-27",
+                "url": "http://www.geekpark.net/news/374593"
             },
             {
-                "title": "外交部启用电子附加证明书线上申办平台并扩大电子附加证明书签发范围_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFNJbUkwR1EzVUk3bEVnVU8tZUtNUEZEZWlGaXJtcV9OU3VOZE1wQnlCU3VCa3M0UWMzTVNQTHpaVFhvdnQzcW9XbUc4VDJjNmczcUp1SWVFczJkT3VEY2I4VDRFNmFIdVNDNm5CZHNWMTQ2aFBxQkRBYkVycmN0UVZWSjQ?oc=5"
-            },
-            {
-                "title": "外交部政务服务平台 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2022-01-17",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBubHFHYXF4LW1GRlFfRy1RSXJManVRbW0tNS1aZzRFY1RtZHVGcWlrcmVTQndVNW5hVkN0bzh1eU85VmdVY05tcw?oc=5"
-            },
-            {
-                "title": "2026年11月26日解放军报第01版：要闻 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-16",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10cDY4S2pEM0V1OWcwVWtTR2t4VnREX2I3b3FoUjJvWDY5YWk0NTZfaFhrYk05bVRLQVRtNHBnTVI1aWVMWnVYUjJibmh3RUdFOGpaUkU3WQ?oc=5"
-            },
-            {
-                "title": "学习时节｜深化航天国际合作，共享太空探索成果 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR2U0bVI0bFhBUnFnVWppc3Z5QmNjS1ZwWWRybl9oOFRCT05aeFBQWWtYTHhXcVVjQnMtSXFuNUdWcnVNWFpkZjdNSnN1cnBRa3c?oc=5"
-            },
-            {
-                "title": "新华时评｜从千年水利工程悟江河治理之道 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDbk9KbTNwOFpraXhOanBENjBwbDBPNmVnN2JUMlNNWFRZV004TzNhbkdTWXVCWjg4Vy1weWVrTE5aeUI0MW9tVEJEblFfbWNZdEE?oc=5"
+                "title": "美国出口禁令形同虚设 英伟达顶级B300服务器在中国公开售卖 开价约300万美元",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588138.htm"
             }
         ],
         "pol": [
             {
-                "title": "智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道",
-                "source": "NewsAPI / Geekpark.net",
+                "title": "爆陈吉宁出事原因 非习嫡系 触动蔡奇、李强利益网络(图)",
+                "source": "NewsAPI / Secretchina.com",
                 "date": "2026-11-27",
-                "url": "http://www.geekpark.net/news/374546"
+                "url": "https://www.secretchina.com/news/gb/2026/11/27/1108056.html"
             },
             {
-                "title": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话",
+                "title": "安全研究员发现约20亿条凭证的无保护数据库 规模创个人纪录",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588234.htm"
+            },
+            {
+                "title": "沃尔沃工人正手把手教人形机器人上岗",
+                "source": "NewsAPI / Cnbeta.com.tw",
+                "date": "2026-11-27",
+                "url": "https://www.cnbeta.com.tw/articles/tech/1588230.htm"
+            },
+            {
+                "title": "【喷嚏图卦音频版·吐槽精选09】金融市场的记忆有时很短，一根阳线就能把昨天的沉默改成今天的欢声笑语。",
+                "source": "NewsAPI / Dapenti.com",
+                "date": "2026-11-27",
+                "url": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196997"
+            },
+            {
+                "title": "小鹏 MONA 全系累计交付汽车突破 40 万台，平均月交付近 1.5 万台",
                 "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/033/148.htm"
-            },
-            {
-                "title": "IT早报 1127：全球首个乙肝功能性治愈新药在中国获批上市；华为星驰辅助驾驶发布；马斯克向全美孩子每人赠送 2 股 SpaceX 股票；微信上线 NFC 交通卡...",
-                "source": "NewsAPI / Ithome.com",
-                "date": "2026-11-26",
-                "url": "https://www.ithome.com/1/033/145.htm"
-            },
-            {
-                "title": "美国之音中文广播 (2026年11月26日)",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-26",
-                "url": "https://www.voachinese.com/a/8225772.html"
-            },
-            {
-                "title": "VOA今日焦点 (2026年11月26日) 特朗普总统、国务卿卢比奥祝贺感恩节快乐",
-                "source": "NewsAPI / Voachinese.com",
-                "date": "2026-11-26",
-                "url": "https://www.voachinese.com/a/8225771.html"
-            },
-            {
-                "title": "2026年11月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nbWdPUURQaHI2cklKTWRUdHBSbjJ0QnNyWGJHVGxtM1hyTFBoZVk3UEt1UGVkNnNTdzRWNXd1SnI3SHIzVjEzaFBQM2trM0ZmdVJMWTAtTXZ5RGRaY3hScHEzVjNFQWdydVNxSFlkQ1U4OFJPSEE?oc=5"
-            },
-            {
-                "title": "外交部启用电子附加证明书线上申办平台并扩大电子附加证明书签发范围_中华人民共和国外交部 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFNJbUkwR1EzVUk3bEVnVU8tZUtNUEZEZWlGaXJtcV9OU3VOZE1wQnlCU3VCa3M0UWMzTVNQTHpaVFhvdnQzcW9XbUc4VDJjNmczcUp1SWVFczJkT3VEY2I4VDRFNmFIdVNDNm5CZHNWMTQ2aFBxQkRBYkVycmN0UVZWSjQ?oc=5"
-            },
-            {
-                "title": "外交部政务服务平台 - 中华人民共和国外交部",
-                "source": "官方信源 / 外交部/国防部",
-                "date": "2022-01-17",
-                "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBubHFHYXF4LW1GRlFfRy1RSXJManVRbW0tNS1aZzRFY1RtZHVGcWlrcmVTQndVNW5hVkN0bzh1eU85VmdVY05tcw?oc=5"
-            },
-            {
-                "title": "2026年11月26日解放军报第01版：要闻 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2023-02-16",
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10cDY4S2pEM0V1OWcwVWtTR2t4VnREX2I3b3FoUjJvWDY5YWk0NTZfaFhrYk05bVRLQVRtNHBnTVI1aWVMWnVYUjJibmh3RUdFOGpaUkU3WQ?oc=5"
-            },
-            {
-                "title": "学习时节｜深化航天国际合作，共享太空探索成果 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR2U0bVI0bFhBUnFnVWppc3Z5QmNjS1ZwWWRybl9oOFRCT05aeFBQWWtYTHhXcVVjQnMtSXFuNUdWcnVNWFpkZjdNSnN1cnBRa3c?oc=5"
-            },
-            {
-                "title": "新华时评｜从千年水利工程悟江河治理之道 - 军网",
-                "source": "官方信源 / 解放军报/军网",
-                "date": "2026-11-26",
-                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDbk9KbTNwOFpraXhOanBENjBwbDBPNmVnN2JUMlNNWFRZV004TzNhbkdTWXVCWjg4Vy1weWVrTE5aeUI0MW9tVEJEblFfbWNZdEE?oc=5"
+                "date": "2026-11-27",
+                "url": "https://www.ithome.com/1/033/721.htm"
             }
         ],
         "local": []
     },
-    "last_updated": "2026-11-28T01:02:34.058047+00:00"
+    "last_updated": "2026-11-28T15:00:08.417688+00:00"
 }
